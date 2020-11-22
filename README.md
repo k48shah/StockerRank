@@ -10,7 +10,7 @@ How it Works:
 The current 30 top pick stocks (as of 21/11/2020) have beaten the S&P500 by a margin of 4x in percent change for the past year.
 
 The graph below represents the percent change in the top 30 stocks vs the bottom 30 stocks chosen by the program. It also uses the S&P500 as a control.
-![alt text](https://imgur.com/a/tPt0PJD)
+![alt text](https://imgur.com/QqMRw4X.png)
 
 
 TO-DO LIST:
