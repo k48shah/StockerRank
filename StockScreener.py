@@ -30,6 +30,7 @@ def tickerEarningsYield(stockList):
                 #latestEarnings = str(stockInfo.balance_sheet(frequency="q").get("RetainedEarnings")).split(" ")[-4].split("N")[0]
                 #sharePrice = str(stockInfo.price).split('\'regularMarketPrice\': ')[1].split(',')[0]
                 #eps = float(latestEarnings)/float(sharePrice)
+                #NEW CALC: EBIT/(Enterprise Value)
                 print(1/float(str(stockInfo.summary_detail).split('\'forwardPE\': ')[1].split(',')[0]) * 100)
                 earningsYield.append(1/float(str(stockInfo.summary_detail).split('\'forwardPE\': ')[1].split(',')[0]) * 100)
         #     print(EarningsYield[index])
@@ -58,6 +59,8 @@ def tickerComp(stockList, financialStr):
         print(stock)
         stockInfo = Ticker(stock)
         try:
+            #NEW CALC: Add specific function to calculate ROC rather than ROA and ROE
+            # NEW CALC: EBIT/(Net Working capital + Net Fixed Assets)
             if(int(str(stockInfo.price).split('\'regularMarketTime\': \'')[1].split('-')[0]) >= 2020):
                 ComparisonVal.append(float(str(stockInfo.financial_data).split('\'' + financialStr + '\': ')[1].split(',')[0]))
                 print(float(str(stockInfo.financial_data).split('\'' + financialStr + '\': ')[1].split(',')[0]))

@@ -27,5 +27,5 @@ TO-DO LIST:
 - Auto-sort data before dumping into stonks.xls
 - Add ability for user to choose their second comparison tool
 - Remove stocks that do not have one or two of the required entries
-
+- Recalculate Earnings Yield and ROC using EBIT
 This is an educational project and none of the developers are responsible for any trades or decisions made from the tool
