@@ -131,7 +131,7 @@ for x in range(len(stockListing)):
     originalIndex = stockListing.index(bestVal[0])
     pickList.append([bestVal[0], bestVal[1], eYield[originalIndex], earningsRank[originalIndex], secondComp[originalIndex], secondRank[originalIndex]])
     print(pickList[x])
-print(len(eYield), len(earningsRank), len(secondRank))
-exportToCSV(pickList, "stonks")
+sortedList = sorted(pickList, key=lambda x: x[1])
+exportToCSV(sortedList, "stonks")
 # Only do once to prevent extreme stock removals
 # removeDepStocks(stockListing)

@@ -16,7 +16,8 @@ The graph below represents the percent change in the top 30 stocks vs the bottom
 TO-DO LIST:
 - Populate Yahoo finance portfolios using selenium and set # of cash
 - Take top 30 stocks taken from algorithm, find their percentage gain averages over different time frames and compare to s&p 500 during same frames
-- Introduce technical analysis by using OpenCL
+- Comparison between top 30 stocks of picker vs S&P500 (Webscrape/Use Historical quotes and calc)
+- Introduce technical analysis by using OpenCV
 - Asynchronous searching of stocks to reduce wait time for data
 - Create GUI to choose action from the stock screener
 - Append % changes to the end of stonks.xls
@@ -24,9 +25,13 @@ TO-DO LIST:
 - Comment code functions for readability
 - make a main python file which everything is called from rather than a single file which houses all code
 - Integrate a front end web server to display and work through the stock picks
-- Auto-sort data before dumping into stonks.xls
-- Add ability for user to choose their second comparison tool
+- Auto-sort data before dumping into stonks.xls (Check for auto sort WITHIN excel)
+- Add ability for user to choose their nth comparison tool
 - Remove stocks that do not have one or two of the required entries
 - Recalculate Earnings Yield and ROC using EBIT
 - Add bottom-out price choice
+- Create PLace to Assign Tickets
+- Convert from Excel/CSV to JSON outputs
+OPTIONAL:
+- Compare data with s&p 500 through automation
 This is an educational project and none of the developers are responsible for any trades or decisions made from the tool
