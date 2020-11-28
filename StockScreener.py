@@ -20,25 +20,35 @@ def exportToCSV(valueList, fileName):
     book.save(fileName + ".xls")
 
 
-def tickerEarningsYield(stockList):
-    earningsYield = list()
+def tickerEarningsYield(stockList, finList):
+    assetList = [[] for _ in finList]
     for stock in stockList:
         print(stock)
         stockInfo = Ticker(stock)
         try:
             if(int(str(stockInfo.price).split('\'regularMarketTime\': \'')[1].split('-')[0]) >= 2020):
-                #latestEarnings = str(stockInfo.balance_sheet(frequency="q").get("RetainedEarnings")).split(" ")[-4].split("N")[0]
-                #sharePrice = str(stockInfo.price).split('\'regularMarketPrice\': ')[1].split(',')[0]
                 #eps = float(latestEarnings)/float(sharePrice)
                 #NEW CALC: EBIT/(Enterprise Value)
-                print(1/float(str(stockInfo.summary_detail).split('\'forwardPE\': ')[1].split(',')[0]) * 100)
-                earningsYield.append(1/float(str(stockInfo.summary_detail).split('\'forwardPE\': ')[1].split(',')[0]) * 100)
-        #     print(EarningsYield[index])
+                sumDetail = stockInfo.summary_detail[stock]
+                finData = stockInfo.financial_data[stock]
+                for index, string in enumerate(finList):
+                    infoBool = 0
+                    if (string == "earningsYield" and ("forwardPE" in sumDetail)):
+                        assetList[index].append(1/sumDetail["forwardPE"] * 100)
+                        infoBool += 1
+                    elif (string == "returnOnAssets" and ("returnOnAssets" in finData)):
+                        assetList[index].append(finData["returnOnAssets"])
+                        infoBool += 1
+                    elif (string == "returnOnEquity" and ("returnOnEquity" in finData)):
+                        assetList[index].append(finData["returnOnEquity"])
+                        infoBool += 1
+                    elif (infoBool == 0):
+                        assetList[index].append(-100000000)
             else:
-                earningsYield.append(-100000000)
+                assetList[index].append(-100000000)
         except:
-            earningsYield.append(-100000000)
-    return earningsYield
+            print("stock does not exist: " + stock)
+    return assetList
 
 # def tickerComp(stockList):
 #     returnOnAssets = list()
@@ -53,54 +63,28 @@ def tickerEarningsYield(stockList):
 #             print("stonk not real2: " + str(stock))
 #     return returnOnAssets
 
-def tickerComp(stockList, financialStr):
-    ComparisonVal = list()
-    for stock in stockList:
-        print(stock)
-        stockInfo = Ticker(stock)
-        try:
-            #NEW CALC: Add specific function to calculate ROC rather than ROA and ROE
-            # NEW CALC: EBIT/(Net Working capital + Net Fixed Assets)
-            if(int(str(stockInfo.price).split('\'regularMarketTime\': \'')[1].split('-')[0]) >= 2020):
-                ComparisonVal.append(float(str(stockInfo.financial_data).split('\'' + financialStr + '\': ')[1].split(',')[0]))
-                print(float(str(stockInfo.financial_data).split('\'' + financialStr + '\': ')[1].split(',')[0]))
-            else:
-                ComparisonVal.append(-10000000)
-        except:
-            ComparisonVal.append(-10000000)
-    return ComparisonVal
-
-# def tickerROE(stockList):
-#     returnOnEquity = list()
-#     for stock in stockList:
-#         print(stock)
-#         stockInfo = Ticker(stock)
-#         try:
-#             returnOnEquity.append(float(str(stockInfo.financial_data).split('\'returnOnEquity\': ')[1].split(',')[0]))
-#             print(float(str(stockInfo.financial_data).split('\'returnOnEquity\': ')[1].split(',')[0]))
-#         except:
-#             returnOnEquity.append(-100000)
-#             print("stonk not real2: " + str(stock))
-#     return returnOnEquity
 
 def rankVal(rankList):
-    sortedList = sorted(rankList, reverse=True)
-    ranks = list()
-    for i, x in enumerate(rankList):
-        ranks.append(sortedList.index(x))
+    ranks = [[] for _ in rankList]
+    for index, val in enumerate(rankList):
+        sortedList = sorted(val, reverse=True)
+        print(val)
+        for i, x in enumerate(val):
+            ranks[index].append(sortedList.index(x))
     return ranks
 
-def sumRanks(list1, list2):
+def sumRanks(rankedList):
     sumList = list()
-    for i in range(len(list1)):
-        sumList.append(list1[i] + list2[i])
+    for value in range(0, len(rankedList[0])):
+        temp = 0
+        for i in range(0, len(rankedList)):
+            temp = temp + rankedList[i][value]
+        sumList.append(temp)
     return sumList
 
 def findBest(rankList, stockList):
     storeStock = stockList[rankList.index(min(rankList))]
     storeRank = min(rankList)
-    #stockList.remove(stockList[rankList.index(min(rankList))])
-    #rankList.remove(min(rankList))
     rankList[rankList.index(min(rankList))] = 10000000
     return [storeStock, storeRank]
 
@@ -111,25 +95,23 @@ def removeDepStocks():
 
 stockListing = getStocksFromCSV()
 constStockListing = stockListing
-eYield = tickerEarningsYield(stockListing)
-earningsRank = rankVal(eYield)
+strList = ["earningsYield", "returnOnAssets"]
+filterList = tickerEarningsYield(stockListing, strList)
+rankList = rankVal(filterList)
 
-# roa = tickerROA(stockListing)
-# roaRank = rankVal(roa)
-
-# roe = tickerROE(stockListing)
-# roeRank = rankVal(roe)
-
-secondComp = tickerComp(stockListing, 'returnOnAssets')
-secondRank = rankVal(secondComp)
-
-cumRanks = sumRanks(earningsRank, secondRank)
+cumRanks = sumRanks(rankList)
 print(cumRanks)
 pickList = list()
 for x in range(len(stockListing)):
     bestVal = findBest(cumRanks, stockListing)
     originalIndex = stockListing.index(bestVal[0])
-    pickList.append([bestVal[0], bestVal[1], eYield[originalIndex], earningsRank[originalIndex], secondComp[originalIndex], secondRank[originalIndex]])
+    temp = list()
+    temp.append(bestVal[0])
+    temp.append(bestVal[1])
+    for index, filter in enumerate(strList):
+        temp.append(filterList[index][originalIndex])
+        temp.append(rankList[index][originalIndex])
+    pickList.append(temp)
     print(pickList[x])
 sortedList = sorted(pickList, key=lambda x: x[1])
 exportToCSV(sortedList, "stonks")
