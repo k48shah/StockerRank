@@ -1,7 +1,6 @@
 import xlrd
 import xlwt
 from yahooquery import Ticker
-import os
 
 def getStocksFromCSV():
     raw_ticker = xlrd.open_workbook("StockScreener.xlsx")
@@ -23,18 +22,18 @@ def exportToCSV(valueList, fileName):
 def tickerInfo(stockList, finList):
     assetList = [[] for _ in finList]
     for stock in stockList:
-        print(stock)
+        print(stock, stockList.index(stock))
         stockInfo = Ticker(stock)
         try:
             if(int(str(stockInfo.price).split('\'regularMarketTime\': \'')[1].split('-')[0]) >= 2020):
                 #eps = float(latestEarnings)/float(sharePrice)
                 #NEW CALC: EBIT/(Enterprise Value)
-                sumDetail = stockInfo.summary_detail[stock]
                 finData = stockInfo.financial_data[stock]
+                keyStats = stockInfo.key_stats[stock]
                 for index, string in enumerate(finList):
                     infoBool = 0
-                    if (string == "earningsYield" and ("forwardPE" in sumDetail)):
-                        assetList[index].append(1/sumDetail["forwardPE"] * 100)
+                    if (string == "forwardEP" and ("forwardPE" in keyStats)):
+                        assetList[index].append(1/keyStats["forwardPE"] * 100)
                         infoBool += 1
                     elif (string == "returnOnAssets" and ("returnOnAssets" in finData)):
                         assetList[index].append(finData["returnOnAssets"])
@@ -42,12 +41,18 @@ def tickerInfo(stockList, finList):
                     elif (string == "returnOnEquity" and ("returnOnEquity" in finData)):
                         assetList[index].append(finData["returnOnEquity"])
                         infoBool += 1
+                    elif (string == "earningsYield" and ("enterpriseValue" in keyStats) and ("ebitda" in finData)):
+                        assetList[index].append(keyStats["enterpriseValue"]/finData["ebitda"])
+                        print(keyStats["enterpriseValue"]/finData["ebitda"])
+                        infoBool += 1
                     elif (infoBool == 0):
                         assetList[index].append(-100000000)
             else:
                 assetList[index].append(-100000000)
         except:
-            print("stock does not exist: " + stock)
+            print("No such stock")
+            for index, string in finList:
+                assetList[index].append(-100000000)
     return assetList
 
 
