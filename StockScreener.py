@@ -20,7 +20,7 @@ def exportToCSV(valueList, fileName):
     book.save(fileName + ".xls")
 
 
-def tickerEarningsYield(stockList, finList):
+def tickerInfo(stockList, finList):
     assetList = [[] for _ in finList]
     for stock in stockList:
         print(stock)
@@ -49,19 +49,6 @@ def tickerEarningsYield(stockList, finList):
         except:
             print("stock does not exist: " + stock)
     return assetList
-
-# def tickerComp(stockList):
-#     returnOnAssets = list()
-#     for stock in stockList:
-#         print(stock)
-#         stockInfo = Ticker(stock)
-#         try:
-#             returnOnAssets.append(float(str(stockInfo.financial_data).split('\'returnOnAssets\': ')[1].split(',')[0]))
-#             print(float(str(stockInfo.financial_data).split('\'returnOnAssets\': ')[1].split(',')[0]))
-#         except:
-#             returnOnAssets.append(-100000)
-#             print("stonk not real2: " + str(stock))
-#     return returnOnAssets
 
 
 def rankVal(rankList):
@@ -94,9 +81,8 @@ def removeDepStocks():
 
 
 stockListing = getStocksFromCSV()
-constStockListing = stockListing
 strList = ["earningsYield", "returnOnAssets"]
-filterList = tickerEarningsYield(stockListing, strList)
+filterList = tickerInfo(stockListing, strList)
 rankList = rankVal(filterList)
 
 cumRanks = sumRanks(rankList)

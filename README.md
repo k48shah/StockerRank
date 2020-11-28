@@ -35,3 +35,8 @@ TO-DO LIST:
 OPTIONAL:
 - Compare data with s&p 500 through automation
 This is an educational project and none of the developers are responsible for any trades or decisions made from the tool
+
+REQUIREMENTS:
+yahooquery: https://yahooquery.dpguthrie.com/guide/ticker/intro/
+xlwt: https://xlwt.readthedocs.io/en/latest/
+xlrd: https://xlrd.readthedocs.io/en/latest/
