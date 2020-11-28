@@ -27,7 +27,6 @@ def tickerInfo(stockList, finList):
         try:
             if(int(str(stockInfo.price).split('\'regularMarketTime\': \'')[1].split('-')[0]) >= 2020):
                 #eps = float(latestEarnings)/float(sharePrice)
-                #NEW CALC: EBIT/(Enterprise Value)
                 finData = stockInfo.financial_data[stock]
                 keyStats = stockInfo.key_stats[stock]
                 for index, string in enumerate(finList):
@@ -51,7 +50,7 @@ def tickerInfo(stockList, finList):
                 assetList[index].append(-100000000)
         except:
             print("No such stock")
-            for index, string in finList:
+            for index, string in enumerate(finList):
                 assetList[index].append(-100000000)
     return assetList
 
