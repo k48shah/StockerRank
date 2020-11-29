@@ -1,6 +1,7 @@
 import xlrd
 import xlwt
 from yahooquery import Ticker
+import json
 
 def getStocksFromCSV():
     raw_ticker = xlrd.open_workbook("StockScreener.xlsx")
@@ -10,13 +11,17 @@ def getStocksFromCSV():
         dataFrame.append(sheet.cell_value(x, 0))
     return dataFrame
 
-def exportToCSV(valueList, fileName):
-    book = xlwt.Workbook()
-    sheet = book.add_sheet("STONKS")
+def exportToJSON(valueList, fileName, rankingMetrics):
+    outputData = {}
     for i, x in enumerate(valueList):
-        for j, y in enumerate(x):
-            sheet.write(i, j, x[j])
-    book.save(fileName + ".xls")
+        outputData[x[0]] = {
+            "cumRank": x[1]
+        }
+        for j, y in enumerate(rankingMetrics):
+            outputData[x[0]][y] = x[j*2 + 2]
+            outputData[x[0]][y + 'Rank'] = x[j*2+3]
+    with open(fileName + '.json', 'w') as outFile:
+        json.dump(outputData, outFile, indent=4)
 
 
 def tickerInfo(stockList, finList):
@@ -104,6 +109,6 @@ for x in range(len(stockListing)):
     pickList.append(temp)
     print(pickList[x])
 sortedList = sorted(pickList, key=lambda x: x[1])
-exportToCSV(sortedList, "stonks")
+exportToJSON(sortedList, "stonks", strList)
 # Only do once to prevent extreme stock removals
 # removeDepStocks(stockListing)
