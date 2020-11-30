@@ -46,17 +46,19 @@ def tickerInfo(stockList, finList):
                         assetList[index].append(finData["returnOnEquity"])
                         infoBool += 1
                     elif (string == "earningsYield" and ("enterpriseValue" in keyStats) and ("ebitda" in finData)):
-                        assetList[index].append(keyStats["enterpriseValue"]/finData["ebitda"])
-                        print(keyStats["enterpriseValue"]/finData["ebitda"])
+                        assetList[index].append(finData["ebitda"]/keyStats["enterpriseValue"])
                         infoBool += 1
                     elif (infoBool == 0):
                         assetList[index].append(-100000000)
             else:
-                assetList[index].append(-100000000)
+                for index, string in enumerate(assetList):
+                    string.append(-100000000)
         except:
             print("No such stock")
-            for index, string in enumerate(finList):
-                assetList[index].append(-100000000)
+            for index, string in enumerate(assetList):
+                string.append(-100000000)
+            print(assetList)
+
     return assetList
 
 
