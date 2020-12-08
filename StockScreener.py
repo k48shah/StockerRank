@@ -30,7 +30,7 @@ def exportToJSON(valueList, fileName, rankingMetrics):
 def tickerInfo(stockList, finList):
     assetList = [[] for _ in finList]
     for stock in stockList:
-        #print(stock, stockList.index(stock))
+        print(stock, stockList.index(stock))
         stockInfo = Ticker(stock)
         try:
             if(int(str(stockInfo.price).split('\'regularMarketTime\': \'')[1].split('-')[0]) >= 2020):
