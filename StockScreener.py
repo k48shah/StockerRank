@@ -3,6 +3,7 @@ import xlwt
 from yahooquery import Ticker
 import json
 
+
 def getStocksFromCSV():
     raw_ticker = xlrd.open_workbook("StockScreener.xlsx")
     sheet = raw_ticker.sheet_by_index(0)
@@ -11,15 +12,17 @@ def getStocksFromCSV():
         dataFrame.append(sheet.cell_value(x, 0))
     return dataFrame
 
+
 def exportToJSON(valueList, fileName, rankingMetrics):
     outputData = {}
     for i, x in enumerate(valueList):
+        
         outputData[x[0]] = {
             "cumRank": x[1]
         }
         for j, y in enumerate(rankingMetrics):
-            outputData[x[0]][y] = x[j*2 + 2]
-            outputData[x[0]][y + 'Rank'] = x[j*2+3]
+                outputData[x[0]][y] = x[j*2 + 2]
+                outputData[x[0]][y + 'Rank'] = x[j*2+3]
     with open(fileName + '.json', 'w') as outFile:
         json.dump(outputData, outFile, indent=4)
 
@@ -57,7 +60,7 @@ def tickerInfo(stockList, finList):
             print("No such stock")
             for index, string in enumerate(assetList):
                 string.append(-100000000)
-            print(assetList)
+            #print(assetList)
 
     return assetList
 
@@ -86,9 +89,8 @@ def findBest(rankList, stockList):
     rankList[rankList.index(min(rankList))] = 10000000
     return [storeStock, storeRank]
 
-#TODO
-def removeDepStocks():
-    return
+#Put this function within export to json as a check, only export if this is true
+#stockPick is a single index from the PickList
 
 
 stockListing = getStocksFromCSV()
@@ -111,6 +113,23 @@ for x in range(len(stockListing)):
     pickList.append(temp)
     print(pickList[x])
 sortedList = sorted(pickList, key=lambda x: x[1])
+print(sortedList)
 exportToJSON(sortedList, "stonks", strList)
-# Only do once to prevent extreme stock removals
-# removeDepStocks(stockListing)
+
+
+element = -100000000
+element_in_lists = False
+searchlist = []
+
+# #Update sorted list by removing placeholder
+for list in sortedList:
+    if element in list:
+        #searchlist.append(element_in_lists)
+        sortedList.remove(list)
+        element_in_lists = True
+    #searchlist.append(element_in_lists)
+    element_in_lists = False
+print(searchlist)
+exportToJSON(sortedList, "stonks", strList)
+
+
