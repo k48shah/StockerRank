@@ -80,7 +80,6 @@ def tickerInfo(stockList, finList):
 
 
 def rankVal(rankList, mult):
-    mult = [0.1, 0.9]
     ranks = [[] for _ in rankList]
     for index, val in enumerate(rankList):
         sortedList = sorted(val, reverse=True)
