@@ -151,8 +151,25 @@ def main(stockListing, strList, multiplier):
 
 
 stockList = getStocksFromCSV()
-valueList = ["forwardPE", "returnOnAssets"]
 #Try to keep max priorities to 1, set all to 1 to have equal priorities!
 # 0 is lowest priority, 1 is highest priority (exceeding 1 is equivalent to reducing priority on the opposing filter
+
 priority = [1, 1]
+valueList = ["forwardPE", "returnOnAssets"]
+main(stockList, valueList, priority)
+valueList = ["earningsYield", "returnOnAssets"]
+main(stockList, valueList, priority)
+valueList = ["forwardPE", "CPS"]
+main(stockList, valueList, priority)
+valueList = ["forwardPE", "returnOnEquity"]
+main(stockList, valueList, priority)
+
+priority = [1, 1, 1]
+valueList = ["earningsYield", "returnOnAssets", "CPS"]
+main(stockList, valueList, priority)
+
+priority = [1, 1]
+valueList = ["pegRatio", "returnOnAssets"]
+main(stockList, valueList, priority)
+valueList = ["bookToPrice", "returnOnAssets"]
 main(stockList, valueList, priority)
