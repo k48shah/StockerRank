@@ -6,7 +6,7 @@ Currently this file is used to analyze stocks based on the priority system and w
 import xlrd
 from yahooquery import Ticker
 import json
-from datetime import date
+import time
 
 def getStocksFromCSV():
     raw_ticker = xlrd.open_workbook("StockScreener.xlsx")
@@ -37,6 +37,7 @@ def tickerInfo(stockList, finList):
         print(stock, stockList.index(stock))
         stockInfo = Ticker(stock)
         try:
+            time.sleep(1)
             if(int(str(stockInfo.price).split('\'regularMarketTime\': \'')[1].split('-')[0]) >= 2020):
                 #eps = float(latestEarnings)/float(sharePrice)
                 finData = stockInfo.all_financial_data('q')
@@ -58,6 +59,7 @@ def tickerInfo(stockList, finList):
                         try:
                             assetList[index].append(1/finData.get("PeRatio")[-1] * 100)
                         except:
+                            print("Appending -10000000")
                             assetList[index].append(-100000000)
                         infoBool += 1
                     #TODO Find historical values for company for data interpretation
@@ -68,15 +70,18 @@ def tickerInfo(stockList, finList):
                     # elif (string == "pegRatio" and ("pegRatio" in keyStats)):
                     #     assetList[index].append(1/keyStats["pegRatio"])
                     elif (infoBool == 0):
+                        print("Appending -10000000")
                         assetList[index].append(-100000000)
                 try:
                     priceIndex = stockInfo.history(start=str(finData.get("asOfDate")[-1]).split(" ")[0])
-                    print(priceIndex.get("close")[0], priceIndex.get("close")[-1])
                     percentGain.append((priceIndex.get("close")[-1] - priceIndex.get("close")[0]) / priceIndex.get("close")[0] * 100)
                 except:
                     percentGain.append(-100000000)
                     print("Stock does not have historical data")
+                    print(stockInfo.history(start=str(finData.get("asOfDate")[-1]).split(" ")[0]))
+                    print(stockInfo.history(period='1y'))
             else:
+                print("Appending -10000000")
                 for index, string in enumerate(assetList):
                     string.append(-100000000)
                 percentGain.append(-100000000)
@@ -85,8 +90,6 @@ def tickerInfo(stockList, finList):
             for index, string in enumerate(assetList):
                 string.append(-100000000)
             percentGain.append(-100000000)
-        print(assetList)
-        print(percentGain)
     return assetList, percentGain
 
 
@@ -96,8 +99,10 @@ def rankVal(rankList, mult):
         sortedList = sorted(val, reverse=True)
         print(val)
         for i, x in enumerate(val):
-            ranks[index].append(int(sortedList.index(x)/mult[index]))
-    print(ranks)
+            if x == -100000000 or str(x) == "Nan" or str(x) == "nan":
+                ranks[index].append(len(val))
+            else:
+                ranks[index].append(int(sortedList.index(x)/mult[index]))
     return ranks
 
 def sumRanks(rankedList):
@@ -111,6 +116,7 @@ def sumRanks(rankedList):
 
 def findBest(rankList, stockList):
     storeStock = stockList[rankList.index(min(rankList))]
+    print(stockList[rankList.index(min(rankList))], rankList.index(min(rankList)), len(stockList))
     storeRank = min(rankList)
     rankList[rankList.index(min(rankList))] = 10000000
     return [storeStock, storeRank]
@@ -160,9 +166,7 @@ def main(stockListing, strList, multiplier):
 
 #Try to keep max priorities to 1, set all to 1 to have equal priorities!
 # 0 is lowest priority, 1 is highest priority (exceeding 1 is equivalent to reducing priority on the opposing filter
-priority = [1, 1]
-for i in range(10):
-    priority = [i/10, 1-i/10]
-    stockList = getStocksFromCSV()
-    valueList = ["forwardPE", "returnOnAssets"]
-    main(stockList, valueList, priority)
+priority = [1, 0]
+stockList = getStocksFromCSV()
+valueList = ["prevEarningsYield", "returnOnAssets"]
+main(stockList, valueList, priority)
