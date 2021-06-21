@@ -1,3 +1,5 @@
+#Stock Screener
+
 A Stock screener/ranker that is developed by small group of Waterloo students by using the fundamental principles borrowed from "The Little Book that Still Beats the Market" by Joel Greenblatt
 
 How it Works:
