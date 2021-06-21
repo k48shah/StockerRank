@@ -23,7 +23,7 @@ def exportToJSON(valueList, fileName, rankingMetrics):
     with open(fileName + '.json', 'w') as outFile:
         json.dump(outputData, outFile, indent=4)
 
-async def tickerInfo(stockList, finList):
+def tickerInfo(stockList, finList):
     assetList = [[] for _ in finList]
     for stock in stockList:
         print(stock, stockList.index(stock))
