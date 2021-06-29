@@ -1,5 +1,6 @@
-from yahooquery import Ticker
 from datetime import datetime
+
+from yahooquery import Ticker
 
 stockList = [
     'A',
@@ -10169,7 +10170,7 @@ stockList = [
 def main():
     print(datetime.now())
     tickers = Ticker(stockList, asynchronous=True)
-    print(tickers.asset_profile)
+    print(tickers.summary_detail)
     print(datetime.now())
 
 
