@@ -1,0 +1,44 @@
+[
+    {
+        "username": "TheSkeptic21",
+        "timestamp": "2013-12-19T12:54:29Z",
+        "content": "Manure! I HATE manure! 821 million reasons why Ackman fired Shane Dinneen $HLF theskeptic21.blogspot.com/2...",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.863,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989677667617798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheSkeptic21",
+        "timestamp": "2013-12-13T17:11:32Z",
+        "content": "And So Shines a Good Deed On a Cruel Turd. The $HLF Belgian Ruling in it's entirety.\ntheskeptic21.blogspot.com/2... \u00e2\u20ac\u00a6",
+        "sentiment": {
+            "TextBlob": -0.15000000000000002,
+            "NLTK": -0.1585,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9975119829177856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheSkeptic21",
+        "timestamp": "2013-12-12T13:37:33Z",
+        "content": "Test-Aankpoop: What Pershing Square doesn't want you to know about Belgium and $HLF. http://stks.co/h02L4\u00e2\u20ac\u00a6",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994284510612488
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,3348 @@
+[
+    {
+        "username": "markgrobbel",
+        "timestamp": "2023-04-21T15:03:40Z",
+        "content": "$OCUP 3.2.1 lawsuit.  Plaintiff securities lawyers scan price action and hit a button to produce the complaint.  I am bullish on the stock but expect to see the law firm (s) soliciting parties.",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968653321266174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2023-04-18T18:24:05Z",
+        "content": "$OCUP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972894191741943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2023-01-13T18:32:23Z",
+        "content": "$TNXP I don't think most of the people currently on this stream know about this: \nCHATHAM, N.J., May 16, 2022 (GLOBE NEWSWIRE) -- Tonix Pharmaceuticals Holding Corp. (Nasdaq: TNXP) (Tonix or the Company), a clinical-stage biopharmaceutical company, today announced that it will effect a 1-for-32 reverse stock split of its outstanding common stock. This will be effective for trading purposes as of the commencement of trading on May 17, 2022.",
+        "sentiment": {
+            "TextBlob": 0.25999999999999995,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9724221229553223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2023-01-13T17:45:59Z",
+        "content": "$TNXP I invested 1250 bucks in this stock way back when and kinda lost track of it.  My holding is now worth 50 bucks.  How long do you think I will have to wait to break even?  No answer necessary.",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": -0.3197,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986152648925781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2022-12-21T22:10:52Z",
+        "content": "$CACC Some put buying going on.  Hmm.  Maybe someone thinks these sub-prime borrowers won't be able to pay back their loans.  Plus, I heard about the practice of new lenders lending to borrowers who already have a car loan - perhaps in default, figuring they will walk away from the older under-water loan (and have the car repossessed) and keep paying on the new one.  Any opinions out there?",
+        "sentiment": {
+            "TextBlob": 0.18787878787878787,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993427395820618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2022-12-21T17:09:27Z",
+        "content": "@Future_goal We need a $NINE type move!  Management always seems to get in the way.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988260865211487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2022-09-12T13:11:23Z",
+        "content": "$VTNR another instance of rookies playing in a big Boys game.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963020086288452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2022-08-09T13:24:53Z",
+        "content": "$VTNR  They are out of their league.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975726008415222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2022-08-09T12:34:53Z",
+        "content": "$VTNR It feels like every time I get on board with this stock they disappoint. When will I learn?  They invent ways to lose money.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995124340057373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2022-05-25T14:41:44Z",
+        "content": "$TEVA I am sure this has already been asked but here goes:  Where is the settlement money coming from?  Methinks no way does insurance cover all of this.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994553923606873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2020-10-22T15:44:39Z",
+        "content": "$FGPR My Speedway sells out of their weekly delivery of Blue Rhino in a couple days.  They have 3 large cages.  Either they are selling like crazy or there are distribution issues.  I am in MI so maybe it is the outside crowd buying for their heaters.  Not sure.",
+        "sentiment": {
+            "TextBlob": -0.12714285714285714,
+            "NLTK": -0.2173,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972350001335144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2020-04-16T20:09:04Z",
+        "content": "$AMPE They can and will issue stock from time to time.  Only 2.5 million in the bank at end of March.  Has to hang over stock price.  Plus, going concern by accountants but many companies at this stage have same language in filings.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983491897583008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2020-04-08T21:06:06Z",
+        "content": "$FGPR With Eat in place we have been grilling almost every day.  Wonder if that will have some impact on earnings.  I get my tanks at Speedway.  Stay safe and keep your distance:).",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9552763104438782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2020-03-25T13:43:23Z",
+        "content": "$AMPE I believe the issue to be whether or not they will be able to complete the trial(s) in compliance with protocols due to the inability to gain access to the patients during Covid.",
+        "sentiment": {
+            "TextBlob": 0.15833333333333333,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995644688606262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2020-01-07T20:02:00Z",
+        "content": "$AMPE Bid/Ask doing weird things. Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991157650947571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2020-01-07T15:00:21Z",
+        "content": "$AMPE For those who have stops on, do you mind mentioning the stop price?  Thanks. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6023643016815186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2020-01-06T19:08:46Z",
+        "content": "$AMPE Man, are we overbought!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997236967086792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2019-12-10T20:10:35Z",
+        "content": "$WORK Hard to get this thing going.  I do not see an RSI print above 55ish.",
+        "sentiment": {
+            "TextBlob": -0.14583333333333334,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993917942047119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2019-11-19T14:59:08Z",
+        "content": "$HD Read somewhere big decrease in lumber prices impacted total sales number.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920752048492432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2019-10-08T18:46:13Z",
+        "content": "$SBUX I live north of Detroit.  I am hearing more and more about several Starbucks stores closing haphazardly because they cannot staff them.  Might be for a few hours or a day.  No notice or anything.  And, not necessarily during slow times.  Anybody else familiar with this practice in other cities?  Any opinions on impact re:  stock price?",
+        "sentiment": {
+            "TextBlob": 0.02863636363636362,
+            "NLTK": -0.3736,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992988109588623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2019-10-04T16:42:19Z",
+        "content": "$FGPR  td Ameritrade has the 7th",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.976478099822998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2019-09-26T23:08:35Z",
+        "content": "$FGPR Help out someone who might not have an elevator that goes to the top floor.  If natural gas prices go down, wouldn't that be beneficial to $FGPR because they charge the same price for filling a propane tank?  Or, is Blue Rhino not that significant?",
+        "sentiment": {
+            "TextBlob": 0.13657407407407407,
+            "NLTK": 0.5207,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993413090705872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2019-08-28T14:35:01Z",
+        "content": "$FGPR I know nat gas prices are low.  Shouldn't this be good for FGP?  When I go to Speedway to exchange my tanks they are not giving me a discount.  Am I missing something?",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.7965,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999600350856781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2019-03-08T17:32:07Z",
+        "content": "$FGPR Why is Ferrell \"interim?\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995573163032532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-12-13T15:40:52Z",
+        "content": "$DTEAF Messing with the bid/ask.  Will not see volume when spread is so wide.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978991746902466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-10-16T14:18:30Z",
+        "content": "$GWPH Trades more with the bios than weed if you ask me. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993925094604492
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-09-21T00:29:47Z",
+        "content": "$NBEVQ If you do not mind trading \"f\" tickers, look at Phivida in Canada.  PHVAF.  They have product on shelves.  Place trade by phone!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940434098243713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-09-20T21:26:54Z",
+        "content": "$DTEAF Makes sense.  I view coffee as getting revved.  I view tea as getting relaxed.  Tea plus CBD. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5781107544898987
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-08-08T19:25:32Z",
+        "content": "$DPLO Did they explain why they lowered eps guidance?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999572217464447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-08-08T00:20:34Z",
+        "content": "$DPLO Read the earnings trans.  The wimpiest group of analysts on earth.  The big guys believe they are dealing with Spanky and the gang.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997117280960083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-07-27T13:50:57Z",
+        "content": "$NDLS BAML shows -34% return on invested equity.  Spend that money wisely! Bearish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5257096886634827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-07-26T14:29:03Z",
+        "content": "$NDLS Look at that P/E ratio.  Oh, wait, there isn't one. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988366961479187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-07-24T13:46:42Z",
+        "content": "$NDLS Need money to keep the lights on.  MGMT taking advantage of fake stock price. Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994204044342041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-07-20T16:20:36Z",
+        "content": "$NDLS Forward P/E of 1,185.  Yes, I am short but the stock apparently does not care. Bearish",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": -0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994753003120422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-07-19T13:08:38Z",
+        "content": "$NDLS This company loses money.  They are not going to make money.  I do not get it.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998083710670471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-06-29T00:14:27Z",
+        "content": "$NRBO They gonna need more cash so maybe sell and come back after offering. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992967844009399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-06-28T13:41:28Z",
+        "content": "$DPLO This is an ideal opportunity for the company to explain how they are different from the pharmacies and run of the mill PBM's. Bullish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992045760154724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-06-27T17:35:47Z",
+        "content": "$RMTI P & M using what they can to extricate themselves from the soap opera.  I do not blame them.  Impeccable accounting firm.",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.2584,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9598036408424377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-06-25T14:29:18Z",
+        "content": "$NDLS Shorts almost done covering. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953466057777405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-06-07T12:37:48Z",
+        "content": "$RMTI The moment we have been waiting for has arrived.  Triferic to launch. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997435986995697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-30T14:06:34Z",
+        "content": "$RMTI Mediation ordered.  They get rid of the CEO for good they start making money.  A Board can fire its CEO no matter why meeting called.. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988170862197876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-29T16:07:37Z",
+        "content": "$NDLS Needs the money to pay its bills. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989179372787476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-25T18:02:08Z",
+        "content": "$ZOES $NDLS next.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99032062292099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-22T21:39:55Z",
+        "content": "$NDLS seekingalpha.com/article/41... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996455192565918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-22T18:53:37Z",
+        "content": "$NDLS Negative cash flow.  Cannot pay debt.  Current lia > current assets.  Will borrow, issue shares or sell assets.  See article on right. Bearish",
+        "sentiment": {
+            "TextBlob": -0.0035714285714285726,
+            "NLTK": 0.3195,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959915280342102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-22T18:51:19Z",
+        "content": "$NDLS See SeekingAlpha article on right.  seekingalpha.com/article/41.... SCARY! Bearish",
+        "sentiment": {
+            "TextBlob": -0.16964285714285715,
+            "NLTK": -0.6399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9783856272697449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-16T19:44:44Z",
+        "content": "$NDLS shorts done buying.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938858151435852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-16T19:40:18Z",
+        "content": "$CACC detroitnews.com/story/busin...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912848472595215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-14T15:45:15Z",
+        "content": "$NDLS appears sun trust and piper have different views. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9812689423561096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-11T18:01:36Z",
+        "content": "$NDLS Short covering.  Earnings not that good at all. Bearish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999560534954071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-08T21:47:57Z",
+        "content": "$DPLO Need to re-incarnate Linus Pauling to be next CEO.  Guy who is out Friday runs the call?  Jeff OK.  But, more clumsy execution by Co..",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.2421,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993889331817627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-03T22:49:00Z",
+        "content": "$CACC  Result?  New Accounting Updates Not Yet Adopted \nMeasurement of Credit Losses on Financial Instruments.  \nPage 12 of the Q.",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984191656112671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-05-02T13:36:07Z",
+        "content": "$NRBO A buy in light of $ESPR ?",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964225888252258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-04-17T22:03:22Z",
+        "content": "$DPLO Because nobody asked, I would name Co-Ceo's.  Let Jeff run the PBM side and a new Co-Ceo run the rest.  Two very different businesses.",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.951755166053772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-04-17T21:41:47Z",
+        "content": "$DPLO May 22.50 calls seeing some action.  This is not a stock that has much option action.  Hmmm...........",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989240765571594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-04-17T14:19:39Z",
+        "content": "$NDLS From the anecdotal side of things, every time I drive by one of these there are few if any peeps in there.  At lunchtime.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918391108512878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-04-03T15:44:14Z",
+        "content": "$BB I have over 20 stocks on my watchlist and usually follow the feed.  75% of total comments involve this stock.  You folks are passionate!",
+        "sentiment": {
+            "TextBlob": -0.10416666666666667,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995483756065369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-29T15:40:51Z",
+        "content": "$DPLO I must say, if you listen to the Needham webcast it sounds like they know what they are doing.  Who knows.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976843595504761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-29T14:35:57Z",
+        "content": "$DPLO Nuttin gonna happen until they name a CEO, IMHO.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964905381202698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-27T22:01:25Z",
+        "content": "@howardlindzon I have a $META account but really do not use it.  I use $TWTR.P.  $TWTR.P collects far less personal info vs. $META.",
+        "sentiment": {
+            "TextBlob": -0.041666666666666664,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992386102676392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-19T19:00:30Z",
+        "content": "Not sure if $DPLO transaction was open market sale.  May have involved interested parties. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5327,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995929598808289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-14T14:54:42Z",
+        "content": "$DPLO Not much interest in this company.  They are trying to do much at the same time. If it works all the pieces put together will make $. Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996926784515381
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-08T16:03:20Z",
+        "content": "$NEPT Look at the calls in OI.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916704893112183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-07T22:37:43Z",
+        "content": "$DDD or $SSYS?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982094764709473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-01T20:11:54Z",
+        "content": "$CRON Check out TRTC.  Not listed on Stock Twits.Do business in Nevada and CA.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987974166870117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-01T15:30:21Z",
+        "content": "$CRON forbes.com/sites/thomaspell... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970356225967407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2018-03-01T15:00:20Z",
+        "content": "$CRON Plenty of other Canadian pot stocks available to purchase.  Some stronger than $CRON.  Check out #cannabis, #potstocks among many.",
+        "sentiment": {
+            "TextBlob": 0.25833333333333336,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.856387734413147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-11-30T20:33:02Z",
+        "content": "$RITM bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853297472000122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-11-30T14:40:53Z",
+        "content": "$RITM Provision in Senate tax bill negatively impacts mtge service co's.  As I read it they must pay tax up front vs. over time.  Comments?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995802044868469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-11-29T22:59:38Z",
+        "content": "$RMTI So the shareholder group sucks $895,000 out of the company to pay expenses.  Yeah, that was worth it.  Dotards.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896605014801025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-11-16T16:36:35Z",
+        "content": "$DPLO Hagerman calls it getting closer to the patient.  Should remove some uncertainty going forward if they can manage it all.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910550117492676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-11-16T16:35:46Z",
+        "content": "$DPLO They got screwed by the PBMs before.  Now have a deal with CVS and cutting out the middle man otherwise.  Time will tell.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941918253898621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-11-07T15:08:54Z",
+        "content": "$DPLO Co. gave no reason other than wait and see on call.  Peeps not convinced about the \"other shoe.\"  Analyst ?'s too easy.  DIR????",
+        "sentiment": {
+            "TextBlob": 0.061111111111111116,
+            "NLTK": -0.3649,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997368454933167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-10-24T18:05:58Z",
+        "content": "$WHR Sears 3% of sales.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9791025519371033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-10-16T14:37:09Z",
+        "content": "$CACC $WFC: the decline in auto loan originations tumbled 47% Y/Y. The lowest print since the bank started disclosing this item in 2013. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995891451835632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-10-09T17:24:43Z",
+        "content": "$DPLO Being Specialty Pharma, am encouraged by quick FDA approvals.  Should benefit $DPLO.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9584904909133911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-10-09T17:23:44Z",
+        "content": "$DPLO I am thinking if $AMZN begins distributing drugs, $DPLO will buy from them like they currently buy from PBMs.  Do not see threat.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6458,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996635377407074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-10-09T14:01:06Z",
+        "content": "$CACC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980014443397522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-10-09T14:00:22Z",
+        "content": "$CACC Received a subpoena on August 14 relating to the origination and collection of non-prime auto loans in the state of Mississippi.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9717081785202026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-10-03T17:47:55Z",
+        "content": "$ZYNE Nasdaq website has all the info.  Very informative.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998073935508728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-27T19:57:48Z",
+        "content": "$THO And $115 puts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977691650390625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-25T13:36:33Z",
+        "content": "$RMTI Emphasis on FINALLY!  Value was just sitting there.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951249957084656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-23T15:20:02Z",
+        "content": "$COST Costco, Not Amazon, Has the Lowest Prices: BMO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4798,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993626475334167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-23T00:07:24Z",
+        "content": "$RMTI Quite a bit of the float has been purchased by the Richmond Group.  They are holding.  Float way down.  Finally, some sense!",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993190765380859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-22T14:50:46Z",
+        "content": "$RMTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620591998100281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-21T18:19:28Z",
+        "content": "$DPLO Way overbought right now.  Don't want any DIR surprises at earnings.  I would like to see it rest a bit.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.4902,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990602135658264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-21T15:38:37Z",
+        "content": "$DPLO This is not a cookie cutter dispensary.  Fairly specialized.  Altho the licenses could be attractive.",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994465172290802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-21T15:11:09Z",
+        "content": "$CACC According to shortsqueeze.com, only 9.8 million share float and 42% are already short.  They might be covering now. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998178243637085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-19T23:14:58Z",
+        "content": "$CACC Ford to slash production at five North American assembly plants, Reuters says\n\nRead more at: \nthefly.com/landingPageNews....",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976876974105835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-19T18:42:23Z",
+        "content": "$CMCSA These are all sales according to notes on t or s.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9792376756668091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-18T20:39:31Z",
+        "content": "$RMTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620591998100281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-18T17:30:30Z",
+        "content": "$RMTI Richmond Bros.  Lots of shares.  Like this.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984142780303955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-18T17:27:36Z",
+        "content": "$RMTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620591998100281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-18T14:29:02Z",
+        "content": "$CMCSA Discovered You Tube TV this weekend.  It is in 50% of the country.  Wonder why not talked about much.  35 bucks a month!  $GOOG Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987213015556335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-13T21:30:26Z",
+        "content": "$CACC New financial reporting regs coming in 2018.  Read the footnotes in the latest Q.  No more throwing darts estimating who gonna pay.",
+        "sentiment": {
+            "TextBlob": 0.09659090909090909,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967183470726013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-11T14:28:22Z",
+        "content": "$COST Costco Wholesale Corporation Same-Store Sales Increase by 7.3% in August (NASDAQ:COST)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9539554119110107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-11T14:10:07Z",
+        "content": "$COST Costco Wholesale Corporation\u2019s (COST) \u201cBuy\u201d Rating Reaffirmed at Oppenheimer Holdings, Inc.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853153228759766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-08T16:43:21Z",
+        "content": "$WMT $TGT $COST Don't forget the gasoline.  We make up membership fee in gas savings!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2401,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.977580189704895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-07T14:57:15Z",
+        "content": "@Frank_Underwood $DPLO Fairly strong volume at end of day yesterday.  Man, am I married to this one.  Whenever I see DRI I get sick.",
+        "sentiment": {
+            "TextBlob": -0.010317460317460317,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871038794517517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-06T20:10:02Z",
+        "content": "@TitanHockey02 I am certainly not looking for more hurricanes but it does appear $HD and $LOW are mentioned but not $BBY.",
+        "sentiment": {
+            "TextBlob": 0.13095238095238096,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975973963737488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-06T18:54:21Z",
+        "content": "$BBY Won't people go to $BBY to replace washer, dryer, fridge, tv etc if impacted by Harvey and Irma?  God Bless them all. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847844839096069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-09-01T18:23:28Z",
+        "content": "$JO Coffee prices 'vulnerable to upside run' on Brazil pest outbreak.  agrimoney.com/news/coffee-p...",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947798252105713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-29T14:49:34Z",
+        "content": "$DPZ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9682528972625732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-28T22:00:11Z",
+        "content": "$RMTI Let the fun begin.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965112805366516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-25T15:27:12Z",
+        "content": "$COST I thought $COST sells items other than food???? Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994567036628723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-25T14:52:21Z",
+        "content": "$CACC Check out the footnote \"measurement of credit losses on financial instruments\" in their last 10K.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898871779441833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-25T13:58:43Z",
+        "content": "$CACC 548 FICO!  Different Co. I know.\nASR @_asreport\nAmerican Credit Acceptance is marketing a new $234.1m deep subprime auto #securitizion Bearish",
+        "sentiment": {
+            "TextBlob": 0.03409090909090909,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989194869995117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-24T18:32:22Z",
+        "content": "$COST I think the two attract different kinds of shoppers.  You go to $COST to buy toilet paper and end up buying everything! Bullish",
+        "sentiment": {
+            "TextBlob": -0.020833333333333332,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943709969520569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-24T16:53:01Z",
+        "content": "$CACC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980014443397522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-22T21:56:15Z",
+        "content": "$CACC BAML has $195 12 month price target, fwiw.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944784641265869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-22T21:55:01Z",
+        "content": "$CACC Where are the accountants?  How do they sign off on this bullcrap.  Foss sold tons of out of the money options.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994333386421204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-08-22T21:41:34Z",
+        "content": "$CACC And it goes higher.??",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9380235075950623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-07-31T20:58:56Z",
+        "content": "$CACC Credit card delinquencies rising and all is good at CACC??? Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7219,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9831499457359314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-07-31T20:06:05Z",
+        "content": "$COST Google Express will deliver Costco goods in 24 hours!  I went for burger and they could not keep up with peeps in line just for that. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996789693832397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-07-31T18:45:07Z",
+        "content": "$COST Stopped by Costco on a perfect sunny day.  Went to buy a few things.  Store was absolutely packed.  Tons of families.  Spent 222.00. Bullish",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9877405762672424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-07-28T14:55:59Z",
+        "content": "$CACC Thier earnings are full of assumptions on sub prime loan paybacks.  They can peg the numbers at whatever they want.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997986912727356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-17T22:40:46Z",
+        "content": "$CACC Bloomberg Headline  Today:  Banks Tighten Auto Lending as More Borrowers Fall Into Default Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828761219978333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-11T02:06:35Z",
+        "content": "$CACC \nAuto loan fraud soars seekingalpha.com/news/32659... $SC, $ALLY, $CACC, $COF Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919706583023071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-05T14:16:15Z",
+        "content": "$CACC   Bloomberg:  As Inventor of Subprime Car Loans Exits, Critics Smell a Lemon\nby Tom Metcalf\nMay 4, 2017, 5:00 AM EDT Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9693593382835388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-05T11:59:18Z",
+        "content": "$CACC bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662867784500122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-04T14:28:52Z",
+        "content": "$CACC Great deals on cars \u2014 and lending-bubble worries\nJames Rufus Koren, Los Angeles Times 12:05 a.m. ET May 3, 2017",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9485377669334412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-04T14:21:01Z",
+        "content": "$CACC Wells Fargo, JPMorgan Wary of Auto Loans, Pack Them in Bonds\nby Matt Scully\nBoth have less appetite for making the loans themselves",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991727471351624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-03T20:23:38Z",
+        "content": "$CACC detroitnews.com/story/busin...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912848472595215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-03T14:17:23Z",
+        "content": "$CACC BAML reiterates underperform and 173 price target.  Results are difficult to interpret. Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999235987663269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-05-02T19:37:21Z",
+        "content": "$CACC Credit Suisse maintains underperform with a target of 190.  I have no idea.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988107681274414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-27T21:53:22Z",
+        "content": "$CACC $SC $ALLY $COF $AN $KMX $WFC $F $GM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957547187805176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-26T19:27:26Z",
+        "content": "$FITB $TCF $SC $COF $ALLY $CACC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946554899215698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-26T19:08:48Z",
+        "content": "$CACC seekingalpha.com/news/32599... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933924078941345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-26T18:51:24Z",
+        "content": "More pressure on used car prices as lenders pull back seekingalpha.com/news/32599... $FITB, $TCF, $SC, $COF, $ALLY, $CACC Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985696077346802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-26T17:53:22Z",
+        "content": "@MktMitch $VMW Where do you get that number?  MY BAML account shows 6% short.  Thanks.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947992563247681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-25T19:21:53Z",
+        "content": "$UNP Which railroad will be most negatively impacted by the decrease in oil by rail shipments to the East Coast due to new pipeline?",
+        "sentiment": {
+            "TextBlob": 0.05284090909090909,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995563626289368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-24T20:16:40Z",
+        "content": "$DPLO Wonder if this Co. could get some of the Anthem business being taken from $ESRX.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999471127986908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-13T18:17:37Z",
+        "content": "$DPLO I don't think this stock will go until a few quarters of good earnings.  Or, a press release re:  progress with legislative matters. Bullish",
+        "sentiment": {
+            "TextBlob": 0.24999999999999997,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992353916168213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-08T21:57:54Z",
+        "content": "$CACC Wall Street Is Making It Harder to Buy a Car\nby Gabrielle Coppola , Matt Scully , and David Welch\nApril 7, 2017.Bloomberg. Bearish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986997842788696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-08T21:54:38Z",
+        "content": "$CACC bloomberg.com/news/articles... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905334711074829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-07T16:58:01Z",
+        "content": "$DPZ If they don't keep growing at same rate they are screwed. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5744,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980639815330505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-07T16:57:30Z",
+        "content": "$DPZ Find article that indicates extent to which they levered balance sheet to buy stock.  They started out with little or no debt at IPO.",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": -0.4867,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905070066452026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-04T20:13:33Z",
+        "content": "$CACC St Louis Fed: Rate of serious delinquency on auto debt rose in large metros within Eighth Federal Reserve District. Bearish",
+        "sentiment": {
+            "TextBlob": 0.1603174603174603,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9855062961578369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-03T14:42:02Z",
+        "content": "$CACC Seeking Alpha article - \"Used Car Prices - Look Out Below.\" Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970466494560242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-03T14:40:25Z",
+        "content": "$CACC Seeking Alpha - \"Used Car Prices - Look Out Below.\"  seekingalpha.com/news/32551...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975112676620483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-04-03T14:38:53Z",
+        "content": "$CACC seekingalpha.com/news/32551... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941604733467102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-31T20:23:09Z",
+        "content": "$CACC Bloomberg:  Auto Debt Spoiling for a Wreck\nBy Lisa Abramowicz. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969980716705322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-31T20:21:53Z",
+        "content": "$CACC Bloomberg:  Steve Eisman of \u2018The Big Short\u2019 Says Subprime Auto Loans Concern Him. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849182963371277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-31T19:34:45Z",
+        "content": "$CACC BAML 12 month target is 173.00. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940616488456726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-31T14:10:22Z",
+        "content": "$CACC bloomberg.com/news/articles... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905334711074829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-31T14:09:24Z",
+        "content": "$CACC I must be missing something here.  bloomberg.com/gadfly/articl... Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997650980949402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-30T19:33:38Z",
+        "content": "$CACC Reading about the increase in sub-prime auto loan defaults plus the value of used cars going down.  I guess this stock don't care.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.2668,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995854496955872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-28T13:58:08Z",
+        "content": "$DPLO Seems new drugs getting approved all over the place.  Must be good for this stock.  One would think.",
+        "sentiment": {
+            "TextBlob": 0.41818181818181815,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984179735183716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-21T16:24:14Z",
+        "content": "$GM Some put action on the Jan '18 30's.  All these cars coming off lease plus the current lease deals.  How they gonna make money?",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975887537002563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-17T16:42:15Z",
+        "content": "$ESPR I could turn my question around and ask what made it come down from around 100.  So hard to place a value.",
+        "sentiment": {
+            "TextBlob": -0.22361111111111115,
+            "NLTK": 0.1796,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996964931488037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-17T14:47:56Z",
+        "content": "$ESPR Anyone remember where this stock was three months ago?  What caused it to go to 30?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996127486228943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-15T20:36:54Z",
+        "content": "$RMTI Hopefully the new investors won't put up with any more of the crap.",
+        "sentiment": {
+            "TextBlob": -0.054545454545454564,
+            "NLTK": -0.0422,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983892440795898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-03T15:50:45Z",
+        "content": "$KR Can someone who knows more than me speak to the $KR pension liability and what they are doing about it?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995452761650085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-03-01T22:07:48Z",
+        "content": "$MEMP Any correlation to $SGY here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982991814613342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2017-01-06T01:45:19Z",
+        "content": "$AMGN $ESPR $GEMP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892860054969788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-08-05T16:24:50Z",
+        "content": "$DPLO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9700208902359009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-06-15T14:40:24Z",
+        "content": "@LDrogen As a recruiter, I used to be a heavy $LNKD user.  Social has taken over business on that site.  $MSFT bought a very weak $META.",
+        "sentiment": {
+            "TextBlob": -0.21805555555555559,
+            "NLTK": -0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996329545974731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-05-27T16:00:42Z",
+        "content": "$MEMP Could mean peeps are thinking BK and want a senior position.",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975926280021667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-05-05T16:43:19Z",
+        "content": "$WATT Stupid question - is StockTwits sentiment a bullish or bearish indicator?  Asking for a friend:).",
+        "sentiment": {
+            "TextBlob": -0.14999999999999997,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997021555900574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-05-03T00:22:54Z",
+        "content": "$DPLO Just saying.  http://stkw.it/eD7g Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975517392158508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-04-28T22:54:09Z",
+        "content": "$DPLO Do not mess with this company.  We all know about Flint.  I no like their award and sell stock program.  Wish for more insider owns. Bullish",
+        "sentiment": {
+            "TextBlob": 0.29375,
+            "NLTK": 0.8229,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989741325378418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-04-28T21:43:00Z",
+        "content": "$LNKD If $META started a strictly business channel (not sure how to police) they would trounce this company.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992222785949707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-04-28T21:42:27Z",
+        "content": "$LNKD This site is becoming more like $META every day.  Used to be my go to.  Now more social than bus.  Tons of recruiter competition.",
+        "sentiment": {
+            "TextBlob": 0.37083333333333335,
+            "NLTK": 0.4201,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926642179489136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-04-18T14:48:50Z",
+        "content": "$PYPL I can buy Michigan Lottery tickets on line using my pay pal account now.  What if they get every state?  Wow.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9291544556617737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-04-05T15:20:02Z",
+        "content": "$AAL I can do all of you bulls a favor and sell my calls.  This is painful.",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993224143981934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-03-03T14:40:02Z",
+        "content": "$NDLS I have visited a several locations at lunch time.  They are empty.  Other restaurants nearby are busy.  I guess that makes me a bear. Bearish",
+        "sentiment": {
+            "TextBlob": -0.03125,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992632269859314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-02-12T23:08:02Z",
+        "content": "$WYNN How was Steve Wynn able to buy shares prior to earnings assuming of course he knew what they would be?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989262223243713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-02-10T00:39:52Z",
+        "content": "$IEP Or, to put it more accurately, the LP distribution?",
+        "sentiment": {
+            "TextBlob": 0.45000000000000007,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990054965019226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-02-09T22:33:02Z",
+        "content": "$IEP Does anyone think the divvy will be cut?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992414712905884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-01-21T15:14:04Z",
+        "content": "$WLRHU Just received the SEC materials.  Did not know they were not in compliance.  They are now! No vote if they do purchase.  Hmmm. Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993964433670044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2016-01-12T21:14:30Z",
+        "content": "$SPY If retailers and restaurants are guiding down, please tell me where the gas savings are going?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989042282104492
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-11-03T21:54:46Z",
+        "content": "$DPLO So does Hillary!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6977041363716125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-10-06T15:18:07Z",
+        "content": "$VNM New trade pact has Vietnam getting the greatest benefit.",
+        "sentiment": {
+            "TextBlob": 0.5681818181818181,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871494174003601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-09-22T14:11:42Z",
+        "content": "$WLRHU Halted",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994016885757446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-09-11T16:39:43Z",
+        "content": "$MEMP Why not borrow at 3.5% from my HELOC, buy MEMP and pay it back with the divvies.  Plus get a tax deduction.  Arbitrage.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998158872127533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-09-09T22:43:54Z",
+        "content": "$MEMP  Thanks all!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991223216056824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-09-09T20:32:15Z",
+        "content": "$MEMP Even with new dividend yield is beyond juicy.  Any reason to doubt they will be able to continue to pay it?",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958760142326355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-06-19T19:45:27Z",
+        "content": "$DPLO Be a shame if halted into the close. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991403818130493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-22T00:26:46Z",
+        "content": "Share an idea on $DPLO dbusiness.com/daily-news/An...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986312985420227
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-21T01:40:59Z",
+        "content": "@Nakedseller $DPLO Was the bid/ask crazy?",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971501231193542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-19T16:24:17Z",
+        "content": "$VTNR Very difficult to get a handle on this company.",
+        "sentiment": {
+            "TextBlob": -0.65,
+            "NLTK": -0.4201,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997912049293518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-12T14:07:40Z",
+        "content": "$DPLO We have to remember stock came public at 13 and peeps bought all the way up.  Booking a profit. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944342970848083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-11T21:18:47Z",
+        "content": "$DPLO Very nice.  Anyone know if there are market makers in DPLO for after hours trading?  I know it is voluntary and not all stocks trade.",
+        "sentiment": {
+            "TextBlob": 0.78,
+            "NLTK": 0.4754,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875273108482361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-01T18:26:14Z",
+        "content": "$VTNR Did not like the 10K/A filing correcting all the mistakes in the 10-K.  Sloppy work.",
+        "sentiment": {
+            "TextBlob": -0.4166666666666667,
+            "NLTK": -0.5588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996418952941895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-01T18:18:49Z",
+        "content": "$VTNR FWIW, Cowart bought almost 500,000 shares (indirect) at 3.07 in December.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2315,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9204525947570801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-05-01T16:32:55Z",
+        "content": "@tj17 $VTNR  And I do not believe he sold any shares when it was above 11. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992334842681885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-04-24T03:56:50Z",
+        "content": "$DPLO Ricky has 41 Price Target.  Zen, why U surprised Ricky is a she? Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985882639884949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-04-24T03:43:31Z",
+        "content": "$DPLO They are after sales and market share.  Will sacrifice bottom line to do it.  Not a flashy operation at all.  They have a great plan. Bullish",
+        "sentiment": {
+            "TextBlob": 0.525,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984192848205566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-04-09T13:58:17Z",
+        "content": "$DPLO $ESRX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844059944152832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-04-06T15:28:13Z",
+        "content": "@SnowTiger $VTNR For what it is worth, it appears Stifel was on the conference call.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948174357414246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-03-26T20:04:08Z",
+        "content": "$DPLO Not if you block him!:)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4015,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944095015525818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-03-26T20:02:48Z",
+        "content": "$DPLO This is not a biotech.  Altho they distribute some biotech and biosimilar drugs.  Think Medco and Cardinal but for specialty drugs. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985937476158142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-03-24T21:15:04Z",
+        "content": "$DPLO Look at the public float.  Just not much out there, hence the volatility.  Even with the add on offering. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997604489326477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-03-24T16:47:34Z",
+        "content": "$DPLO Trada's gonna trade.  LT for me.  They have a humble operation up the street in Flint, MI.  So many trends in their favor. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.88619065284729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-03-24T14:13:57Z",
+        "content": "$DPLO A little more public float might actually help this stock.  Bid/ask sometimes crazy. Bullish",
+        "sentiment": {
+            "TextBlob": -0.057499999999999996,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992185831069946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-03-10T16:38:04Z",
+        "content": "$DPLO I did not sell.  See previous post. Bullish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99836665391922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-03-10T16:35:58Z",
+        "content": "$DPLO bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9739718437194824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-02-27T20:51:54Z",
+        "content": "$DPLO bloomberg.com/news/articles... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986494183540344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-02-27T02:31:39Z",
+        "content": "$DPLO Wish they had a designation for posts as to who is a trader and who is a holder.  I am a holder now. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995272159576416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-01-23T17:42:52Z",
+        "content": "$DPLO I have sold the tops and bought the dips a few times but now that we are this far along after the IPO I am sitting tight. Bullish",
+        "sentiment": {
+            "TextBlob": -0.09285714285714286,
+            "NLTK": 0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996278703212738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-01-22T18:26:41Z",
+        "content": "$DPLO POTUS remarks on specialized medicine in SOTU should help this stock.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988585710525513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-01-21T15:52:22Z",
+        "content": "$DPLO Gotta believe this will help DPLO wsj.com/articles/obama-to-c...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969003200531006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-01-16T15:47:22Z",
+        "content": "$DPLO These shares were part of the IPO at 13 bucks.  Last October.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98032146692276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-01-15T16:39:33Z",
+        "content": "$DPLO There is just not enough history, with this stock having recently gone public.  Let's see how many institutions have bought in.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984985589981079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2015-01-02T21:46:56Z",
+        "content": "$TECU Trying to figure this one out.  Up and down like an elevator.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945435523986816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-12-17T23:01:02Z",
+        "content": "$RT Ever been to a RT restaurant?  Dirtiest place I have ever seen with the worst food.  I will NEVER go back.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996726512908936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-12-01T19:34:16Z",
+        "content": "$VTNR Spec buy by Global Hunter Securities on 11/25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856129288673401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-11-27T00:10:45Z",
+        "content": "$XLE Saudis are on our side.  Want to make Russia hurt.  Look what has happened since the invasion of Ukraine.  Coincidence?  No way!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.68,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982757568359375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-11-24T15:16:02Z",
+        "content": "$VTNR Estimated EPS for next year is .89 according to Scottrade????",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970242381095886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-10-20T19:48:37Z",
+        "content": "$WLRHU What is he going to do with the dough???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991890788078308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-08-27T18:37:29Z",
+        "content": "$IEP RSI getting lofty.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9761765003204346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-08-27T15:07:49Z",
+        "content": "$IEP Check out Icahn latest tweet.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941040873527527
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-07-02T12:46:05Z",
+        "content": "$SAVE Shouldn't $LUV new international routes hurt $SAVE?",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976429343223572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-03-21T14:25:13Z",
+        "content": "$CPWR Compuware getting second looks.   bloomberg.com/news/2014-03-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888383150100708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-02-19T15:56:05Z",
+        "content": "$MIG Reiterated guidance for next year.  Capital looks good.  Sounds to me like they are going to stick around.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9941251277923584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-02-13T22:47:41Z",
+        "content": "$WW Part of me is happy I only owned the options.  They go to zero then disappear from my account:)",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983946681022644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-01-31T05:00:00Z",
+        "content": "$SPY Time to trim and wait.  Don't take the bait.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995588660240173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-01-28T04:04:53Z",
+        "content": "$AAPL Think of how much extra time we would have each day if Apple were privately held!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897618889808655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-01-22T21:23:11Z",
+        "content": "$EBAY Earnings aren't earnings anymore.  They are obfuscations of the true state of things.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.831762969493866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-01-22T15:31:55Z",
+        "content": "@TommyLama I guess the only one who does not agree with us   is the stock price!$WTW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996488094329834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-01-15T20:17:09Z",
+        "content": "$WW I own a fitbit.  Proof you can walk thousands of steps but if you do not contain eating, nada.  Not sure how tech can change this.",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": -0.3491,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990929365158081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2014-01-09T17:58:04Z",
+        "content": "$CPWR Shouldn't the fact that Elliott has changed its stance be a good thing?  What am I missing?",
+        "sentiment": {
+            "TextBlob": 0.24999999999999997,
+            "NLTK": 0.264,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991098046302795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2013-07-08T18:06:41Z",
+        "content": "$DDD What happened to the bull flag everyone was talking about?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999421238899231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2013-04-24T16:20:36Z",
+        "content": "$ANR online.barrons.com/article/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764377474784851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2013-03-21T14:30:06Z",
+        "content": "$RMTI Why is it selling for a price this far above the stock offering price of 3 bucks?",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971494078636169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-11-30T03:46:14Z",
+        "content": "$PIR Was announcement that bad?  Am I missing something?",
+        "sentiment": {
+            "TextBlob": -0.44999999999999996,
+            "NLTK": -0.7236,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997217059135437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-11-07T19:55:49Z",
+        "content": "$NTRI Anticipating a new CEO, maybe they threw in some garbage so CEO can start with clean slate?  I guess we shall see FRI.",
+        "sentiment": {
+            "TextBlob": 0.2515151515151515,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974855184555054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-11-07T15:18:51Z",
+        "content": "$VIX Me thinks someone out there wants us to sell into this.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975659847259521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-11-02T21:44:23Z",
+        "content": "$SCCO What happens after they pay the divvy?  Are options adjusted for divvy payments?  Why wouldn't we all be buying puts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2359,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989908337593079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-10-24T21:29:52Z",
+        "content": "$META Looks like it is the 29th according to this article:  money.cnn.com/2012/10/24/te...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963971972465515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-10-24T18:58:20Z",
+        "content": "$META Please clarify (too many twits to look at) when do lockups expire and shares will be sold?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985111355781555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-10-10T14:42:49Z",
+        "content": "$FBC Do you think FBC will still do the reverse split?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978739023208618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-08-08T23:14:18Z",
+        "content": "$ZNGA How much cash do the have per share?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987165927886963
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-05-30T22:10:41Z",
+        "content": "$LNG From the WSJ - The Obama admin is telling Japan and others they will have to wait before moving forward on plans to buy American ng.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983466863632202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-02-24T14:05:37Z",
+        "content": "$LNG earnings out",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9542164206504822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-02-02T16:30:55Z",
+        "content": "$AOL  Am I missing something from their earnings report?  I would be a seller, not a buyer.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994469285011292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-01-30T23:51:31Z",
+        "content": "$SCCO Where does the stock dividend comes from? If from shares already counted O/S then no dilution. If not, just getting your money back.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993583559989929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-01-26T16:43:48Z",
+        "content": "$lng Obama Energy Plan online.wsj.com/article/SB10...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863198399543762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "markgrobbel",
+        "timestamp": "2012-01-12T14:45:07Z",
+        "content": "Any thoughts on $FBC long after their split?  Another $CRBC?",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991262555122375
+            }
+        },
+        "image_url": ""
+    }
+]

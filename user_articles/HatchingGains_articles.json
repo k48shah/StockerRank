@@ -1,0 +1,1612 @@
+[
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-09T03:53:26Z",
+        "content": "$SLX / $SPY Steel. Breaking out to fresh relative highs \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982469081878662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-09T03:47:30Z",
+        "content": "$QQQJ / $QQQ Lil Qs going parabolic vs the big boys \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841077327728271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-09T00:17:51Z",
+        "content": "$MLPA / $SPY MLPs. Back In an uptrend on the daily relative basis \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984539747238159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-09T00:08:31Z",
+        "content": "$KWEB / $SPY Chinanets. Starting to build the right side of a relative base \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": -0.1285714285714286,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918838739395142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-09T00:04:26Z",
+        "content": "$KIE / $SPY Insurance. Breaking out to fresh relative highs \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9956207871437073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-08T23:56:14Z",
+        "content": "$IHF / $SPY Healthcare Providers. Looks like the flight to safety has been cancelled. Southwest?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997207522392273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-08T23:49:12Z",
+        "content": "$HAP / $SPY Natural Resources. Pending a breakout from a 6 month relative base \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": -0.23333333333333336,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928020238876343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-08T23:47:18Z",
+        "content": "$HACK / $SPY Cybersecurity. Practically at all time relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995788931846619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-08T23:41:08Z",
+        "content": "$GUNR / $SPY Upstream Natural Resources. Pending a breakout from a 6+ month relative base \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": -0.23333333333333336,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933116436004639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-08T23:35:20Z",
+        "content": "$DXY / $SPY Dollar. Keeps getting rejected at relative resistance \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993426203727722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-08T23:32:15Z",
+        "content": "$COPX / $SPY Copper Miners. Nearing a 2 year relative base breakout \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885562062263489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2023-01-08T23:27:57Z",
+        "content": "$ASHR / $SPY China. Breaking out from a 6 month relative base \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906201362609863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T06:57:54Z",
+        "content": "$QQQJ / $QQQ Lil Qs breaking out from a bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941843152046204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T06:41:15Z",
+        "content": "$IBB / $SPY Bios keep pushing higher. A break of a lil daily downtrend",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901761412620544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T06:22:01Z",
+        "content": "$GDX / $SPY Gold miners keep grinding out of a relative bottom",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992225170135498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T06:09:34Z",
+        "content": "$FCG / $SPY Natty Gas. Similar look for this old energy leader. Vulnerable!",
+        "sentiment": {
+            "TextBlob": -0.17500000000000002,
+            "NLTK": 0.126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970828890800476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T05:50:20Z",
+        "content": "$ENFR / $SPY Energy Infrastructure. An old energy leader, looking weak after a false relative breakout",
+        "sentiment": {
+            "TextBlob": -0.16875,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996115565299988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T05:46:11Z",
+        "content": "$EMQQ / $SPY Emerging Market Tech. Continues Its lead over the past few weeks \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.225,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9542887210845947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T05:43:04Z",
+        "content": "$BJK / $SPY Gaming. Continues to move nicely out of a relative weekly bottom",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9920061230659485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-12-04T05:38:52Z",
+        "content": "$ARKF / $SPY Fintech. Bouncing off support and looking to break the daily relative downtrend \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8457625508308411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T01:43:50Z",
+        "content": "$XLK / $SPY Tech. Breaking its daily relative downtrend \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976171851158142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T01:42:29Z",
+        "content": "$XLE / $ARKK Energy looking vulnerable when compared to Growth \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9348337054252625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T01:40:41Z",
+        "content": "$SPYV / $SPYG Value breaking its parabolic uptrend vs Growth $SPY \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945976734161377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T01:38:06Z",
+        "content": "$SMH / $SPY Semis. Breaking their weekly relative downtrend \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952976107597351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T01:29:17Z",
+        "content": "$MLPA / $SPY MLPs have been one of the leaders of Energy, but now are breaking their daily relative uptrend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1406,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830577969551086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:53:08Z",
+        "content": "$MJ / $SPY Weeds. They've at least stopped going down on a relative basis...",
+        "sentiment": {
+            "TextBlob": -0.15185185185185188,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994499087333679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:47:41Z",
+        "content": "$IHF / $SPY So much for Healthcare Providers...the instant risk is back on - see ya \ud83d\udc4b",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975364208221436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:45:20Z",
+        "content": "$IGN / $SPY Networking. Losing their daily uptrend",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997817873954773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:41:42Z",
+        "content": "$GLD / $DXY Gold making a run for it \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963043928146362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:39:05Z",
+        "content": "$FCG / $SPY Natty Gas. Open minded to resistance here. All \ud83d\udc40 for a double top. Trend still up but watching closely.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9869165420532227
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:32:02Z",
+        "content": "$DXY / $SPY Dolla. Looking vulnerable here as its breaking the weekly uptrend",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984279870986938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:29:01Z",
+        "content": "$COPX / $SPY Copper Miners. Continue to push after breaking out from a relative bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970008730888367
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:26:12Z",
+        "content": "$BOTZ / $SPY Robotics & AI. Breaking its relative downtrend and above the weekly 22 EMA for the first time in a year...",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8568236827850342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:23:18Z",
+        "content": "$BJK / $SPY Gaming. Making another attempt at breaking out from a relative bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998696506023407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-13T00:19:47Z",
+        "content": "$ARKK / $SPY What a difference one week can make...false breakdown \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978173971176147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T05:25:16Z",
+        "content": "$SLX / $SPY Steel. Building the right side of dat relative base \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": -0.17142857142857146,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840381145477295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T05:15:27Z",
+        "content": "$SKYY / $SPY Cloud Computing. Nearing all time relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988621473312378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T04:45:31Z",
+        "content": "$IPO / $SPY IPOs. Back to all time relative lows you go \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983136653900146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T04:40:31Z",
+        "content": "$IPAY / $SPY Mobile Payments. Fresh relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995313882827759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T04:25:59Z",
+        "content": "$IGV / $SPY Software. Retesting the relative IPO base breakout",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984796643257141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T04:20:55Z",
+        "content": "$IBB / $SPY Bios continue to lead on a relative basis. Anotha breakout as they build the right side of a base.",
+        "sentiment": {
+            "TextBlob": -0.17142857142857146,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5805510878562927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T04:12:31Z",
+        "content": "$IAI / $SPY Broker dealers. Breaking out from a decade long relative base \ud83d\ude31",
+        "sentiment": {
+            "TextBlob": -0.2833333333333334,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.935427725315094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T04:08:28Z",
+        "content": "$HAP / $SPY Natural Resources. Pending a breakout to relative highs \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852055907249451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T04:06:11Z",
+        "content": "$HACK / $SPY Cybersecurity. At all time relative lows for all intensive purposes \u26a0\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994633793830872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T03:57:18Z",
+        "content": "$FCG / $SPY Natty Gas. Prepping for a 5 month relative breakout \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987531900405884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T03:54:30Z",
+        "content": "$ENFR / $SPY Energy Infrastructure. Breaking out from a 5 month relative base \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846042990684509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T03:49:44Z",
+        "content": "$COPX / $$SPY Copper Miners. Emphatic relative breakout today \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7993894219398499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T03:39:42Z",
+        "content": "$ARKK / $SPY Pending a breakdown to relative lows from a 6+ month consolidation \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999607264995575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-11-05T03:14:13Z",
+        "content": "Total Crypto Marketcap vs $QQQ. Breaking out from a 5+ month relative bottom \ud83d\udc40 $ETH.X $BTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991210103034973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T20:44:27Z",
+        "content": "$XLI / $SPY Industrials. Breaking out from a 1.5 year relative base \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986420214176178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T20:36:17Z",
+        "content": "$VUG / $SPY Growth. Making fresh relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987849593162537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T20:34:16Z",
+        "content": "$SPYG / $SPYV Growth vs Value. Almost given back all of the 2020 move. $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956860542297363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T20:31:50Z",
+        "content": "$SOCL / $SPY Social Media. Down 17/19 of the past months on a relative basis...\ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": -0.09305555555555556,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997385144233704
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T20:21:00Z",
+        "content": "$LIT / $SPY There goes Lithium. Breaking relative support \ud83d\udcc9",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8648597002029419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T20:16:15Z",
+        "content": "@eloquentpanda here's the weekly. Almost exact same look as $VTV",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930453896522522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T19:29:10Z",
+        "content": "$IGN / $SPY Networking. Emphatic breakout from a multi-year relative bottom \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933006763458252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T19:26:43Z",
+        "content": "$FDN / $SPY Internet. Pending a breakdown from a 6+ month relative consolidation.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994732737541199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T19:23:54Z",
+        "content": "$DXY / $SPY Dolla. Losing its daily relative uptrend \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997947812080383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T19:18:54Z",
+        "content": "$BOAT / $SPY Global Shipping. Right at big time relative support. Make or break.",
+        "sentiment": {
+            "TextBlob": 0.07142857142857142,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974451065063477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-29T19:17:21Z",
+        "content": "$ASHR / $SPY Fresh all time relative lows for China \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990399479866028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T15:30:19Z",
+        "content": "$XME / $SPY Metals & Mining. Perking up here as they look to build the right side of a relative base \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.17142857142857146,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9878578186035156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T15:28:35Z",
+        "content": "$XES / $SPY Oil & Gas Services. Floating towards relative highs \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9530131816864014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T15:25:45Z",
+        "content": "$SLX / $SPY Steel. Big relative move to finish the week \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7529873847961426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T15:20:43Z",
+        "content": "$IWM / $SPY Russell. Back in your base you go...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8368978500366211
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T15:18:26Z",
+        "content": "$ITA / $SPY Aerospace & Defense. Moving out of a 2+ year relative bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964296221733093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T15:16:45Z",
+        "content": "$IHI / $SPY Medical Devices. Talk about a topping pattern \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989068329334259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T15:12:24Z",
+        "content": "$IHF / $SPY Healthcare Providers. Losing their daily relative uptrend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997947812080383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T14:51:44Z",
+        "content": "$IGN / $SPY Networking. Still flirting with a multi-year relative base breakout \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98356032371521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T14:49:50Z",
+        "content": "$FAN / $SPY Wind Energy. Pushing towards all time relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925662279129028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T14:47:56Z",
+        "content": "$EMQQ / $SPY Emerging Market Tech. Pushing towards all time relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895357489585876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T14:45:21Z",
+        "content": "$DXY / $SPY Dolla. False breakout followed by a potential lower relative high \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.06000000000000002,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997556805610657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T14:40:41Z",
+        "content": "$CANE / $SPY Sugar. Rejected again at key relative level",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986079335212708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T14:37:41Z",
+        "content": "$ASHR / $SPY China. Breaking down from multi-month relative support",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986141920089722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-22T14:36:16Z",
+        "content": "$ARKG / $SPY Springing a leak \ud83d\udcc9",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980670809745789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T06:05:37Z",
+        "content": "$XLV / $SPY Healthcare. Breaking out from a multi-month relative base \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990378737449646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:58:57Z",
+        "content": "$SKYY / $SPY Cloud Computing. Fresh relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989401698112488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:45:12Z",
+        "content": "$LIT / $SPY Lithium. Breaking down from multi-month relative support \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985768795013428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:40:16Z",
+        "content": "$KIE / $SPY Insurance. Going parabolic on a relative basis \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966558218002319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:35:12Z",
+        "content": "$KRE / $SPY Regional Banks. Breaking out from a 1.5 year relative base \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7955966591835022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:31:46Z",
+        "content": "$KBE / $SPY Banks. Breaking their weekly relative downtrend \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931473135948181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:26:04Z",
+        "content": "$IBB / $SPY Bios. Breaking out on a relative basis \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964609742164612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:23:12Z",
+        "content": "$HACK / $SPY Cybers. Breaking down from a 5+ month relative consolidation \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992330074310303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:18:56Z",
+        "content": "$FDN / $SPY Internet. Bear flaggy \ud83d\udc3b \ud83c\udff3",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974291920661926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:16:50Z",
+        "content": "$DRIV / $SPY EVs. Breaking down to fresh relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.048148148148148134,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999029278755188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:13:07Z",
+        "content": "$BOAT / $SPY Global Shipping. Breaking its relative downtrend \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950481057167053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:06:41Z",
+        "content": "$ARKK / $SPY Pressing for relative lows \ud83d\udcc9",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987762570381165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-15T05:02:47Z",
+        "content": "$ARKG / $SPY Genomics. Breaking down \ud83d\udcc9",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981843829154968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T03:09:04Z",
+        "content": "$XLE / $ARKK Energy vs. Growth almost at relative highs \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988310694694519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T03:05:57Z",
+        "content": "Value still outperforming growth and breaking out \ud83d\udc40 $SPYV / $SPYG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9223135709762573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T02:57:29Z",
+        "content": "$SLX / $SPY Steel. Regaining its daily and weekly relative uptrend \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913620352745056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T02:48:32Z",
+        "content": "$SCHH / $SPY REITs. Nearing all time relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99921715259552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T02:44:48Z",
+        "content": "$MLPA / $SPY MLPs. Breaking out of a rising wedge. Could go parabolic here on a relative basis \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983384609222412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T02:36:44Z",
+        "content": "$HAP / $SPY Natural Resources. Building the right side of a relative base \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.10357142857142859,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.895487368106842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T02:26:48Z",
+        "content": "$GLD / $SPY Gold still holding its recent daily relative uptrend",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914321899414062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T02:22:11Z",
+        "content": "$FCG / $SPY Natty Gas. Prepping to push back to relative highs \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983453750610352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-09T01:09:58Z",
+        "content": "$BJK / $SPY Gaming/Casinos. Breaking out from an 8+ month relative base \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9655850529670715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-08T23:55:05Z",
+        "content": "$ARKQ / $SPY Fresh relative basis lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999171257019043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-08T23:14:16Z",
+        "content": "$ARKK / $SPY Breaking down from a 5+ month relative consolidation. \ud83d\udc3b flaggy",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991776347160339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T03:26:55Z",
+        "content": "$XPH / $SPY Pharmas. Pending a breakout from a year long relative bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991475343704224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T03:00:43Z",
+        "content": "$XLU / $SPY Utes. Finally gave in to the market weakness. False breakout followed by a realtive breakdown on the daily",
+        "sentiment": {
+            "TextBlob": -0.13333333333333336,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999311089515686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:53:00Z",
+        "content": "$SIL / $SPY Silver Miners similar to $GDX. Breaking out from a multi-month relative bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991262555122375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:48:14Z",
+        "content": "$PHO / $SPY Water. Pending a breakout from a 2 month relative consolidation \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974107146263123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:41:50Z",
+        "content": "$MLPA MLPs. Pending a breakout to relative highs \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934671521186829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:38:25Z",
+        "content": "$KIE / $SPY Insurance. Breaking out to fresh relative highs \ud83e\udd2b",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9956207871437073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:30:27Z",
+        "content": "$JNK / $SPY Junk Bonds. Pending a breakout from a 1.5 year relative bottom \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991870522499084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:25:41Z",
+        "content": "$IGN / $SPY Networking. Pending a breakout from a 2+ year relative bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985912442207336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:21:16Z",
+        "content": "$IBB / $SPY Bios. Pending a breakout from a 3+ month relative consolidation \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961581826210022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:14:10Z",
+        "content": "$GDX / $SPY Gold Miners. Breaking out of a relative bottom \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994385838508606
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:07:11Z",
+        "content": "$DXY / $SPY Dolla. Bull flagging for a relative breakout \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963460564613342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-10-03T02:03:47Z",
+        "content": "$SPY Credit spreads continue to push the market lower \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994732737541199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-09-25T04:32:00Z",
+        "content": "$XME / $SPY Metals & Mining. Looking vulnerable here",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995897650718689
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-09-25T04:29:28Z",
+        "content": "$XLU / $SPY Ohkay at least Utes are showing relative strength as they should",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991893172264099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-09-25T04:27:00Z",
+        "content": "$XLE / $SPY Energy. Market saying nowhere is safe #hideyokids",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.0788,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999483585357666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-09-25T04:23:47Z",
+        "content": "$SOCL / $SPY Socials. Reminds me of $MJ. Slopes are open \ud83d\udcc9 \u26f7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9654683470726013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HatchingGains",
+        "timestamp": "2022-09-25T04:19:36Z",
+        "content": "$SKYY / $SPY Cloud Computing. Breaking down towards fresh relative lows \ud83e\udd2e",
+        "sentiment": {
+            "TextBlob": 0.048148148148148134,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991247057914734
+            }
+        },
+        "image_url": ""
+    }
+]

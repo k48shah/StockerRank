@@ -1,0 +1,2746 @@
+[
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2023-03-10T15:10:46Z",
+        "content": "BANK RUN 2023: $SIVBQ COLLAPSES \u2014 WHO IS NEXT?\n\nibankcoin.com/flyblog/2023/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997877478599548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2023-02-08T21:19:26Z",
+        "content": "GOOGLE IS IN TROUBLE ibankcoin.com/flyblog/2023/... $GOOGL",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992437362670898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2023-01-27T18:10:26Z",
+        "content": "ALL BOOLED THE F*CK UP ibankcoin.com/flyblog/2023/... $VERI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963024854660034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2023-01-19T18:36:21Z",
+        "content": "The Bull Case ibankcoin.com/flyblog/2023/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996055006980896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2023-01-16T18:57:45Z",
+        "content": "The Dollar is the Enemy of Stocks ibankcoin.com/flyblog/2023/... $UUP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999619722366333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2023-01-05T15:15:29Z",
+        "content": "IM  A  $TSLA BUYER  ibankcoin.com/flyblog/2023/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943230152130127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-12-28T15:38:48Z",
+        "content": "NATURAL GAS COLLAPSES TO PRE WAR LEVELS ibankcoin.com/flyblog/2022/... $BOIL",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.6523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997343420982361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-12-27T21:19:32Z",
+        "content": "A LOT MORE DOWNSIDE TO COME ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.5802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994540810585022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-12-27T15:06:18Z",
+        "content": "TESLA  TANKAGE  CONTINUES  ibankcoin.com/flyblog/2022/... $TSLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937295913696289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-12-01T16:12:20Z",
+        "content": "THE FUNDAMENTALS DO NOT MATTER - Dr. Fly $CRM $OKTA ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.1572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969573020935059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-30T21:27:59Z",
+        "content": "END OF YEAR RALLY UNDERWAY: MY ANALYSIS - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7835904359817505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-30T18:42:50Z",
+        "content": "MARKETS SPIKE ON POWELL COMMENTS - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832596778869629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-29T18:57:36Z",
+        "content": "Market is a Lock on Tuesday - Dr. Fly ibankcoin.com/flyblog/2022/... $IWM",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958621263504028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-19T21:59:31Z",
+        "content": "2002 Twenty Years Later - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840195178985596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-14T21:14:12Z",
+        "content": "FUCK IT: ALL IN SHORT - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": -0.6408,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996422529220581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-08T21:10:46Z",
+        "content": "SCAM - Dr. Fly ibankcoin.com/flyblog/2022/... $FTT",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.6633,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995414018630981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-08T18:13:19Z",
+        "content": "BUY ALL MORNING DIPS - Dr. Fly ibankcoin.com/flyblog/2022/... $LABD $SOXL",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994988739490509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-11-03T17:30:15Z",
+        "content": "BULLS CELEBRATE NASDAQ -100 - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ $ERX",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6633,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9759793877601624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-31T14:02:35Z",
+        "content": "Wheat, Natty Soar as Tensions with Russia Continue to $BOIL - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8415447473526001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-27T20:37:43Z",
+        "content": "AMAZON CRASHES -- CLOWN PUNCHED LOWER ON EARNINGS MISS - Dr. Fly $AMZN $AAPL $MPWR ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999203622341156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-27T14:08:35Z",
+        "content": "Markets Deserve to Knife Down - Dr. Fly ibankcoin.com/flyblog/2022/... $CS $META",
+        "sentiment": {
+            "TextBlob": 0.32222222222222224,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953848719596863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-26T20:22:05Z",
+        "content": "$META KNIFES THE FUCK LOWER ON EARNINGS WARNING - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.8833,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981420040130615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-26T15:04:24Z",
+        "content": "MARKETS RALLY ON BOMBED OUT $GOOGL AND $MSFT EARNINGS REPORTS - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999774158000946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-22T18:01:37Z",
+        "content": "Can the Turkey Gods Save the Market? - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987397789955139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-19T14:13:09Z",
+        "content": "Worst Case Scenario Underway: It\u2019s 100% Over - Dr. Fly $TARK $NFLX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999760091304779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-17T20:55:55Z",
+        "content": "October is off to an Insane Start - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9397678971290588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-15T18:42:21Z",
+        "content": "Panic Aside, Are Stocks Cheap? - Dr. Fly ibankcoin.com/flyblog/2022/... $CRM $SHOP $AAPL $JPM $INTC $AMZN",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995909333229065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-13T15:32:55Z",
+        "content": "MAJOR SHORT SQUEEZE UNDERWAY - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.28750000000000003,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942163228988647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-10T00:08:52Z",
+        "content": "PAYPAL THREATENS TO FINE PEOPLE $2500 FOR WRONG-THINK -- THEN RESCINDS ORDER - Dr. Fly $PYPL ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.6083333333333334,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990792274475098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-07T15:50:19Z",
+        "content": "INFLATION IS RUNNING AWAY - Dr. Fly ibankcoin.com/flyblog/2022/... $GUSH",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995556473731995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-06T20:06:31Z",
+        "content": "BIG JOBS NUMBERS TOMORROW - Dr. Fly ibankcoin.com/flyblog/2022/... $TNA $TMV $EUO",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994408905506134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-06T16:49:58Z",
+        "content": "WHAT THE FUCK IS GOING ON WITH REITs? - Dr. Fly $IYR $DRV ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.6408,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995204210281372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-04T18:18:29Z",
+        "content": "NOW EVERYONE IS BULLISH - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988911747932434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-04T16:37:10Z",
+        "content": "MUSK OFFERS TO BUY $TWTR.P AGAIN -- ONE DAY REMOVED FROM ACCUSATIONS OF BEING A 'RUSSIAN AGENT' - Dr. Fly $TSLA ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": -0.4648,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934647679328918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-02T23:13:16Z",
+        "content": "PANIC: CREDIT SUISSE, DEUTSCHE BANK RUMORED TO BE IN THE PROCESS OF COLLAPSE - Dr. Fly $CS $DB ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.6841,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991877675056458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-10-01T17:40:48Z",
+        "content": "What to Expect After a Horrible September - Dr. Fly $QQQ $SMH $SOXL $IWM ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988133907318115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-09-30T20:21:24Z",
+        "content": "NASDAQ SUFFERS WORST SEPTEMBER DECLINE SINCE 2008 - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.8647,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996905326843262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-09-28T17:55:22Z",
+        "content": "Let Me Reintroduce You to My Algo Driven Account - Dr. Fly  $TNA ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962595701217651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-09-15T21:11:04Z",
+        "content": "CATASTROPHE IN THE AFTER HOURS: $FDX BLOWS UP - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.7297,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996616840362549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-26T20:11:50Z",
+        "content": "PREPARE FOR CATACLYSM - Dr. Fly ibankcoin.com/flyblog/2022/... $SQQQ $SVIX $FAZ",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975752234458923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-25T14:04:45Z",
+        "content": "Looking for a Reason to Short - Dr. Fly $NEGG $OXY ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996122717857361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-24T17:09:12Z",
+        "content": "Japan is Going Nuclear Again - Dr. Fly ibankcoin.com/flyblog/2022/... $URA $UUUU $UEC",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997612714767456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-22T20:11:52Z",
+        "content": "GET FUCKED BULLS - Dr. Fly ibankcoin.com/flyblog/2022/... $BOIL",
+        "sentiment": {
+            "TextBlob": 0.10000000000000003,
+            "NLTK": -0.7297,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997492790222168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-20T18:18:25Z",
+        "content": "September is Littered with Murderholes - Dr. Fly $IWM ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992081522941589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-15T16:53:36Z",
+        "content": "Buy Every Morning Dip; Buy the Close - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923768043518066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-11T20:13:48Z",
+        "content": "INFLATION IS NOT DONE RACKING YOUR PORTFOLIOS WITH LOSSES - Dr. Fly $TOST $ILMN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978004097938538
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-10T20:14:51Z",
+        "content": "No Hedges into Tomorrow! - Dr. Fly ibankcoin.com/flyblog/2022/... $DIS",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979909658432007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-09T15:18:49Z",
+        "content": "How Are We Looking Bulltards? - Dr. Fly ibankcoin.com/flyblog/2022/... $MU",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988290667533875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-05T16:26:39Z",
+        "content": "FUCKED - Dr. Fly $LABD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.10000000000000003,
+            "NLTK": -0.7297,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975389242172241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-04T18:26:11Z",
+        "content": "ANALYSIS: THE ROTATION IS REWARDING THE LARGEST PIECES OF SHIT STOCKS - Dr. Fly $RVLV $YETI $CROX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980490207672119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-02T20:17:01Z",
+        "content": "THE END IS NEAR: SHIT IS FLOATING - Dr. Fly $NA ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.23333333333333336,
+            "NLTK": -0.6523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996312856674194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-02T17:56:02Z",
+        "content": "LEGENDARY SHORT SQUEEZE: $HKD GAINS SURPASS 10,000% IN PAST TWO WEEKS - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3875,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.929306149482727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-01T20:12:47Z",
+        "content": "Markets Yawn at the Specter of War with China - Dr. Fly $HKD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981433153152466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-08-01T17:43:51Z",
+        "content": "Does China Have the Guts to Enter into World War 3? - Dr. Fly $YANG ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941257238388062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-29T20:18:49Z",
+        "content": "I HAVE MONKEYPOX NOW - Dr. Fly ibankcoin.com/flyblog/2022/... $VRAX",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948594570159912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-29T19:01:40Z",
+        "content": "UPDATE: THE GAYS GOT ME - Dr. Fly ibankcoin.com/flyblog/2022/... $VRAX",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872848391532898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-29T17:26:12Z",
+        "content": "MONKEYPOX WRATH ON THE MOVE; STOCKS SURGE - Dr. Fly $VRAX $GOVX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953708052635193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-29T15:24:55Z",
+        "content": "SHORT THE RUMOR, COVER THE NEWS - Dr. Fly $GOVX $MOS $VRAX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975842237472534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-29T02:27:57Z",
+        "content": "NYC AND SAN FRANCISCO DECLARE PUBLIC HEALTH EMERGENCY OVER MONKEYPOX - Dr. Fly $SIGA $GOVX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932409524917603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-28T20:25:48Z",
+        "content": "AMAZON CRUSHES, INTEL MISSES -- ALL EYES ON APPLE - Dr. Fly $AAPL $INTC $ROKU ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5904,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995843768119812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-28T18:53:38Z",
+        "content": "ARE YOU FEELING LUCKY, PUNK? - Dr. Fly $AAPL $AMZN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.6971,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9422078132629395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-27T20:30:57Z",
+        "content": "AFTER HOURS COLLAPSE THROWS WET TOWEL ON CELEBRATORY SESSION - Dr. Fly $META $QCOM $NOW $BBY ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": -0.6037,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974839687347412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-26T17:43:11Z",
+        "content": "MONKEYPOX IS IN PLAY AS SODOM AND GOMORRAH BATHHOUSE LIFESTYLE GRIPS AMERICA - Dr. Fly $CODX $GOVX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9097369313240051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-20T18:55:48Z",
+        "content": "UPDATE ON MY $ETH HOLDINGS - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895532131195068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-19T17:11:58Z",
+        "content": "JULY SEASONALITY WINS AGAIN: MARKET ON TRACK TO ADVANCE FOR 15TH  CONSECUTIVE YEAR IN JULY - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.6633,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991198182106018
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-18T14:07:16Z",
+        "content": "MELT UP - Dr. Fly $ETH ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935397505760193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-15T14:09:02Z",
+        "content": "When the Government Tit Shuts Off: Solar Decimated - Dr. Fly $TAN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968780279159546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-11T19:08:15Z",
+        "content": "WITH ELON CUCKED OUT OF $TWTR.P -- IS $DWAC DUE TO RUN? - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994729161262512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-07-06T15:57:36Z",
+        "content": "RENEWED COLLAPSE; FULL ROUT IN COMMDOITY STOCKS UNDERWAY - Dr. Fly $DE $X $CLF ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.575,
+            "NLTK": -0.6037,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994569420814514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-30T20:09:35Z",
+        "content": "MICRON MISSES HUGE; STOCK COLLAPSES - Dr. Fly $MU ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": -0.368,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997876286506653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-30T17:12:14Z",
+        "content": "Commodities Continue to Get Smashed to Pieces - Dr. Fly $BOIL ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999629020690918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-30T12:43:31Z",
+        "content": "JUNE IS IN THE BOOKS; JULY TO THE RESCUE? - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819445610046387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-27T17:49:51Z",
+        "content": "More Pain Ahead For the Banks - Dr. Fly $BAC $FAZ $XLF ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": -0.5563,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989649057388306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-23T14:16:19Z",
+        "content": "Constructive Action in Healthcare - Dr. Fly $LABU $EDIT ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9923200011253357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-22T13:53:45Z",
+        "content": "The Collapse Has Been Delayed - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995359182357788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-14T01:51:34Z",
+        "content": "CLOWN FUNERAL UNDERWAY: BITCOIN RENEWS COLLAPSE - Dr. Fly $BTC ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.8001,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989166259765625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-13T18:43:32Z",
+        "content": "CAPITAL MARKETS ARE CLOSED: DEBT = DEATH - Dr. Fly $WE $GM $F ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": -0.8345,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993138313293457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-08T16:26:43Z",
+        "content": "THE STAGFLATION TRADE IS ON - Dr. Fly ibankcoin.com/flyblog/2022/... $UVIX",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99907386302948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-07T15:22:59Z",
+        "content": "NOT TOUCHING THIS TAPE - Dr. Fly ibankcoin.com/flyblog/2022/... $TGT",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996126294136047
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-07T13:18:04Z",
+        "content": "TARGET WARNS AGAIN - Dr. Fly ibankcoin.com/flyblog/2022/... $TGT",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.2808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989901185035706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-06T17:27:46Z",
+        "content": "CRACK SPREADS CONTINUE TO BLOW OUT - Dr. Fly $VLO ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996053576469421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-03T16:32:16Z",
+        "content": "The West's Self Imposed Embargo of Food and Energy is Going to Wreak Havoc - Dr. Fly $SPY ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967696666717529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-02T13:34:59Z",
+        "content": "$MSFT WARNS, ADP DATA SHOWS WEAK LABOR MARKET - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.21250000000000002,
+            "NLTK": -0.6971,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997064471244812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-01T20:11:25Z",
+        "content": "CAME TO MY SENSES AND HEDGED THE FUCK UP - Dr. Fly $SQQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.6408,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.975716233253479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-06-01T13:22:09Z",
+        "content": "$CRM TO THE RESCUE - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920378923416138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-27T15:30:24Z",
+        "content": "ANYTHING CAN HAPPEN ON A LONG WEEKEND -- IT'D BE A SHAME IF THE MARKET SOLD OFF - Dr. Fly $SIGA $SQQQ $INO $AEMD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": -0.5904,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990231990814209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-26T20:20:24Z",
+        "content": "FULLY HEDGED INTO FUCK YOU FRIDAY - Dr. Fly $QQQ $SQQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.7316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917603135108948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-26T19:03:53Z",
+        "content": "CRYPTOS WILL RALLY NEXT - Dr. Fly ibankcoin.com/flyblog/2022/... $ETH $BTC",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9796432852745056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-24T19:13:40Z",
+        "content": "GROWTH IS DEAD: FLIGHT TO SAFETY IS YOUR ONLY CHANCE - Dr. Fly $TR $MCD $CPB ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.5523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994232654571533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-24T16:13:38Z",
+        "content": "So What the Fuck is Going on With $SNAP? - Dr. Fly $SNAP $TTD $META $ROKU ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.5809,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995433688163757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-24T13:52:28Z",
+        "content": "MARKETS BLEED OUT - Dr. Fly ibankcoin.com/flyblog/2022/... $UVIX $CPB",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997616410255432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-23T20:16:26Z",
+        "content": "I CANNOT BE STOPPED - Dr. Fly ibankcoin.com/flyblog/2022/... $AEMD",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.2979,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9781268835067749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-20T20:25:14Z",
+        "content": "MONKEY BUSINESS - Dr. Fly ibankcoin.com/flyblog/2022/... $TNXP $GOVX $QQQ $TQQQ $TZA $CHK",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963345527648926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-20T16:29:47Z",
+        "content": "WHO CALLS FOR EMERGENCY MEETING ON GLOBAL MONKEYPOX BREAKOUT -- POX STOCKS BUST LOOSE - Dr. Fly $SIGA $GOVX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.24102564102564106,
+            "NLTK": -0.7481,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978843331336975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-20T15:05:00Z",
+        "content": "COLLAPSE IT NOW, MONKEYPOX IS SPREADING - $SIGA $CMRX $EBS Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.6037,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99950110912323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-19T18:32:55Z",
+        "content": "TECH STOCKS BUST LOOSE TO THE UPSIDE -- WHAT'S NEXT? - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.24102564102564106,
+            "NLTK": -0.4648,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975053668022156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-18T20:18:55Z",
+        "content": "MARKETS IN TURMOIL AS GENERAL ECONOMY DESCENDS INTO CALAMITY - Dr. Fly $CSCO ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.42500000000000004,
+            "NLTK": -0.4995,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986608028411865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-18T18:47:17Z",
+        "content": "HISTORIC DECLINE: VALUATIONS ARE STILL GROSSLY OVER-PRICED - Dr. Fly $TGT $COST $SJM $CPB $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": -0.3885,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995879530906677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-18T17:13:54Z",
+        "content": "RETAIL CATACLYSM: TARGET SINKS MOST SINCE 1987 CRASH -- ENTIRE SECTOR IS CRACKED ASUNDER - Dr. Fly $TGT ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": -0.6549,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997205138206482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-18T13:14:20Z",
+        "content": "COLLAPSE: MARKETS INDICATE LOWER AMIDST RUSSIAN ESCALATIONS, $TGT MISSES BIG - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": -0.859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997339844703674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-16T19:06:47Z",
+        "content": "Spam Wars: Twitter Deal in Jeopardy After Musk Accuses Company of Counting BOTS as Users - Dr. Fly $TWTR.P ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.891,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988560676574707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-16T13:02:26Z",
+        "content": "Wheat Prices Soar After Indian Bans Exports - Dr. Fly $weat ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925934672355652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-14T17:41:17Z",
+        "content": "Expect Cruelty in the Tape until Things Become Clear - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989228844642639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-13T14:22:37Z",
+        "content": "Will Elon Walk Away From $TWTR.P Deal? - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990726709365845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-11T20:09:47Z",
+        "content": "THE CLOSE WAS CRASH, ALL HOPE LOST - Dr. Fly $TQQQ $UVIX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993782043457031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-11T17:57:05Z",
+        "content": "STAGGERING LOSSES BEFALL STOCKS IN SESSION FROM HELL - Dr. Fly $COIN $U $SQ $AFRM $SG $AMC ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.8679,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987443685531616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-10T20:11:24Z",
+        "content": "CPI DATA LOOMS - Dr. Fly ibankcoin.com/flyblog/2022/... $UPST",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.3254,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983415603637695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-10T18:24:13Z",
+        "content": "This is One of the Most Oversold Tapes in Recent History - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997122883796692
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-10T00:45:20Z",
+        "content": "TERRA STABLECOIN DECOUPLED FROM DOLLAR PEG; LEHMAN MOMENT FAST APPROACHES FOR CRYPTOS - Dr. Fly $UST ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990023672580719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-09T18:45:58Z",
+        "content": "HODLers IN SHOCK: CRYPTOS EVISCERATED - Dr. Fly $BTC $ETH ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9610660076141357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-09T16:12:38Z",
+        "content": "The Moment of Truth Fast Approaches - Dr. Fly $UVIX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8133394122123718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-09T13:24:58Z",
+        "content": "Is it Too Late to Sell? - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997069239616394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-08T18:38:50Z",
+        "content": "The Pain Has Only Just Begun - Dr. Fly $NFLX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973447918891907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-04T18:09:59Z",
+        "content": "FED HIKES BY 50BPS, COMMITS TO MASSIVE BALANCE SHEET REDUCTION - Dr. Fly $QQQ $GUSH ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2103,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950637221336365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-03T02:55:55Z",
+        "content": "$SPY HAS 5% UPSIDE FROM HERE - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935613870620728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-02T20:12:14Z",
+        "content": "SIR -- I REMAIN AT RECOURD HIGHS - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995868444442749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-05-01T19:19:08Z",
+        "content": "STOCKS CAN GET CUT IN HALF AGAIN - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3166666666666667,
+            "NLTK": -0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995458722114563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-27T14:39:37Z",
+        "content": "FLUSH OUT - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997856080532074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-27T03:17:30Z",
+        "content": "Elon\u2019s Twitter: Get Ready for an AI Juggernaut - Dr. Fly $TWTR.P ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987415611743927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-25T12:59:27Z",
+        "content": "$TWTR.P TO ACCEPT ELON'S OFFER - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903332591056824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-22T15:58:35Z",
+        "content": "Commodity Players Get the Rope Now - Dr. Fly $CLF ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944949746131897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-21T17:05:54Z",
+        "content": "LIQUIDATION: PEOPLE ARE BLOWING UP NOW $GNRC, $SE, $ENPH, $MOS, $PLUG $AA ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996963739395142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-21T13:53:40Z",
+        "content": "$FCX, $AA EARNINGS WRECK COMMODITY TRADE - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974006414413452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-21T00:55:31Z",
+        "content": "BEHOLD THE CARNAGE - Dr. Fly ibankcoin.com/flyblog/2022/... $NFLX $META $SE $ROKU $AMD",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961389899253845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-19T20:29:09Z",
+        "content": "NETFLIX COLLAPSES UNDER THE WEIGHT OF ITS OWN HUBRIS *** - Dr. Fly $NFLX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997543692588806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-18T20:11:33Z",
+        "content": "My Technical Analysis of Today's Trade - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7292385101318359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-18T14:31:11Z",
+        "content": "Markets Shrug Off Imminent Death by Frost/Starvation - Dr. Fly $UNG, $CORN, $WEAT ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990166425704956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-18T13:22:45Z",
+        "content": "REMINDOOR: FADE ALL OPENS, CRASH ALL CLOSES - Dr. Fly $XLE ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961018562316895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-15T07:15:14Z",
+        "content": "The Bullshit Fallacy of \u201cKing Dollar\u201d - Dr. Fly $UUPhttps://ibankcoin.com/flyblog/2022/04/15/bullshit-fallacy-king-dollar/",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991254210472107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-14T17:52:28Z",
+        "content": "TWITTER MULLS POISON PILL TO STOP MUSK - Dr. Fly $TWTR.P ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.8001,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984568357467651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-14T16:42:51Z",
+        "content": "HOUSE OF SAUD REJECTS MUSK OFFER FOR TWITTER: WHEN DOES THIS GO HOSTILE? - Dr. Fly $TWTR.P ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.8056,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979395270347595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-14T15:11:35Z",
+        "content": "BRACE FOR MARKET MELTDOWN; BUT FIRST A HOSTILE TAKEOVER OF TWITTER - Dr. Fly $TWTR.P ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.525,
+            "NLTK": -0.6704,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981744289398193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-11T20:16:57Z",
+        "content": "REPORT: Twitter Employees Take a 'Day of Rest' Following Elon Musk's Increasingly Hostile Actions Towards Com $TWTR.P ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991727471351624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-11T18:27:21Z",
+        "content": "SMALL SLITHER OF HOPE: PRIVATE EQUITY BUYS OUT $SAIL - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9390580058097839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-05T14:06:36Z",
+        "content": "EU BANS RUSSIAN COAL -- TENSIONS WITH WEST AND RUSSIA AT TIPPING POINT - Dr. Fly $BTU ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.5319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925783276557922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-04T15:32:27Z",
+        "content": "DELUSIONAL: NOW IS NOT THE TIME TO BE GREEDY - Dr. Fly $TZA ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4648,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99908447265625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-04-04T13:51:59Z",
+        "content": "Elon Musk Takes 9.2% Stake in Twitter -- He Will NOT Be a Passive Investor - Dr. Fly $TWTR.P ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.1511,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9909699559211731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-25T18:50:21Z",
+        "content": "OIL IS 100% GOING TO RECORD HIGHS - Dr. Fly $USO ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871358275413513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-25T13:54:53Z",
+        "content": "MORTGAGE RATES ARE SOARING - Dr. Fly $JNK, $TLT ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8965417742729187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-25T01:01:43Z",
+        "content": "CANNABIS STOCKS ARE RALLYING NOW -- THE END IS NEAR - Dr. Fly $GNLN, $HEXO, $TLRY $MJ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9704920053482056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-24T20:08:57Z",
+        "content": "DEBAUCHERY LARGESS -- RISK STOCKS TAKE THE FUCK OFF - Dr. Fly $AKAN, $HEXO, $GNLN, $MAPS ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.7944,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974539875984192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-24T18:15:21Z",
+        "content": "THE BIRTH OF THE PETROL-BITCOIN, PETROL-GOLD TRADE IS HERE - Dr. Fly $BTC, $GLD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943737983703613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-24T13:32:07Z",
+        "content": "California to Pay Car Owners $400 Per Car Due to Putin's Invasion of Ukraine; Nickel Limit Up Again - Dr. Fly $JJN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890227317810059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-24T03:33:48Z",
+        "content": "WORLDWIDE SUPPLY OF NEON DISRUPTED DUE TO UKRAINIAN WAR - Dr. Fly  $SMH ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": -0.6841,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997139573097229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-22T16:56:28Z",
+        "content": "CHINESE BURRITOS ARE +30% OVER THE PAST WEEK - Dr. Fly $BABA, $DIDIY ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981238842010498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-21T18:34:17Z",
+        "content": "THE AG TRADE IS BACK IN FULL FORCE, AS FAMINE LURKS AROUND THE CORNER - Dr. Fly $MOS, $RKDA, $YTEN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": -0.3885,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8134493827819824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-21T13:54:20Z",
+        "content": "CRUDE BUSTS LOOSE; BOEING TANKS AFTER AIRLINER CRASHES IN CHINA - Dr. Fly $BA ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.007692307692307739,
+            "NLTK": -0.8159,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975404739379883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-20T21:17:51Z",
+        "content": "An Overview of the Market Last Week - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6866084337234497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-19T17:02:09Z",
+        "content": "How\u2019s the Housing Market Treating You? - Dr. Fly $RKT ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978479146957397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-15T14:15:33Z",
+        "content": "Volatility ETF Breaks: TRAPPED SHORTS SCRAMBLE TO ESCAPE - Dr. Fly  $VXX $UVXY ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969276785850525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-14T17:57:16Z",
+        "content": "COMMODITIES DISPATCHED TO HELL: IS IT OVER? - Dr. Fly $USO $XLEhttps://ibankcoin.com/flyblog/2022/03/14/commodities-dispatched-hell/",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.7456,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990684390068054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-14T14:23:06Z",
+        "content": "COMMODITIES DISPATCHED TO HELL: IS IT OVER? - Dr. Fly $USO $XLE ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.7456,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990921020507812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-12T16:46:53Z",
+        "content": "LME HAS HALTED TRADING IN NICKEL SINCE EARLY LAST WEEK TO PROTECT  $jjn BILLIONAIRE SPECULATOR - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999193012714386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-11T18:30:47Z",
+        "content": "Uranium Stocks on Sale; Russia Threatens to Leave an American Astronaut in Space -  $LEU, $CCJ $UUUU $UEC $DNN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990963935852051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-11T05:48:27Z",
+        "content": "We're Just Getting Started - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901875853538513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-10T20:15:30Z",
+        "content": "Daily Reminder: All Chinese Stocks Are Scams - Dr. Fly $CWEB $KWEB ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981650710105896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-10T19:43:45Z",
+        "content": "CONVICTION TRADE: Uranium - Dr. Fly ibankcoin.com/flyblog/2022/... $DNN, $UUUU, $UEC $LEU $NXE",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956257343292236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-10T01:12:44Z",
+        "content": "THE FREEZE EUROPE TRADE IS ON - Dr. Fly $DNN $UEC $UUUU $CCJ $NEX $URG ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.2342,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998650848865509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-09T21:17:42Z",
+        "content": "NASDAQ EXPLODES FOR NEARLY 4% -- LARGEST GAIN SINCE MARCH 2021 - Dr. Fly $DNN $CRWD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.6289,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963281750679016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-09T17:49:42Z",
+        "content": "OIL CLOWNSHOES LOWER AFTER IRAQI-UAE MINISTERS OFFERS UP MORE SUPPLY - Dr. Fly $USO ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4666666666666666,
+            "NLTK": -0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994789958000183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-09T15:53:27Z",
+        "content": "Coinbase Blocks 25,000 Accounts For Being Russian - Dr. Fly $COIN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994599223136902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-08T15:46:47Z",
+        "content": "GOLD BUSTS LOOSE TO THE UPSIDE; FINANCIAL MARKETS IN DISARRAY - Dr. Fly $GLD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.24102564102564106,
+            "NLTK": -0.4648,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882828593254089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-08T03:18:58Z",
+        "content": "THE GREAT NICKEL SQUEEZE IS UPON YOU -- $VALE IS YOUR PLAY - Dr. Fly $JJN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.8388,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9415300488471985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-04T19:52:28Z",
+        "content": "BIDEN CONSIDERING BAN ON RUSSIAN OIL; PRICES SPIKE TO THE FUCKING MOON - Dr. Fly $USO ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.0666666666666667,
+            "NLTK": -0.6523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952501058578491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-04T17:32:50Z",
+        "content": "ATTENTION EUROPE: WHEAT, FERTILIZER SHORTAGES LOOM, FAMINE LIKELY * - Dr. Fly $MOS $WEAT $NTR $IPI ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.608,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946979284286499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-03-03T18:59:01Z",
+        "content": "25% of World's Wheat Supply is About to Go Off-Line; Prices Soar - Dr. Fly $MOS $IPI $WEAT $CF $BTU $ARCH $HCC ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986720085144043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-27T18:21:16Z",
+        "content": "PUTIN INCREASES NUCLEAR DETERRENCE READINESS CITING NATO THREATS TO RUSSIA - Dr. Fly $LMT $RTX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9714238047599792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-25T16:00:43Z",
+        "content": "RUSSIAN STOCKS SUSPENDED FROM TRADE UNTIL FURTHER NOTICE - Dr. Fly  $RSX $YNDX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": -0.5904,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976905584335327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-23T19:25:38Z",
+        "content": "WHEAT PRICES EXPLODE TO NEW HIGHS AMIDST RUSSIAN CRISIS - Dr. Fly $WEAT ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.31212121212121213,
+            "NLTK": -0.7034,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6110401153564453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-19T18:41:47Z",
+        "content": "We Were All Going to Space - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9660561084747314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-18T17:15:21Z",
+        "content": "Markets Retest Previous Lows -- What's Next? - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.21111111111111114,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985901713371277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-17T18:13:30Z",
+        "content": "GOLD BACK TO BREAKOUT LEVELS ACHIEVED A DECADE AGO: Is this time Different? - Dr. Fly $GLD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8199193477630615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-16T16:46:39Z",
+        "content": "The Era of COVID Lockdowns is Officially Over; $SHOP Plunges - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994582533836365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-10T21:24:06Z",
+        "content": "MARKETS COLLAPSE IN FULL CLOWN SESSION * - Dr. Fly $AFRM $UVXY $ASTR $HYG $LQD $SQQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.575,
+            "NLTK": -0.6037,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997649788856506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-10T02:01:35Z",
+        "content": "THURSDAY LOOMS: MARKET HAS POSTED LOSSES ON THURSDAY FOR 6 $QQQ CONSECUTIVE WEEKS - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.6971,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998771607875824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-09T02:04:07Z",
+        "content": "GET IN HERE FUCKERS -- STOCKLABS DATA DROPS - Dr. Fly $CRM ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.6841,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999578058719635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-08T18:55:28Z",
+        "content": "SCIENCE UPDATE: How Are Life Saving Safe and Effective Vaccine Makers Doing? - Dr. Fly $MRNA, $PFE, $BNTX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.6333333333333334,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955101013183594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-07T22:07:53Z",
+        "content": "ALL CLOSES WILL BE COLLAPSED FROM HERE ON FORTH - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997789263725281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-04T01:29:52Z",
+        "content": "REMINDOOR: It's Still Over - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993407130241394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-03T21:49:48Z",
+        "content": "BIG TECH TO THE RESCUE; MARKETS SURGE IN AFTER HOURS POST EARNINGS BEATS - Dr. Fly $AMZN ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6485622525215149
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-03T19:45:59Z",
+        "content": "MARKETS IN FREE FALL: HERE IS WHERE IT GOES NEXT SUCKERS - Dr. Fly $IWM ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.22500000000000003,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993091821670532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-03T02:17:15Z",
+        "content": "Facebook On the Verge of Posting its Largest Daily Stock Decline in Company History - Dr. Fly $META $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986608028411865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-02T21:14:20Z",
+        "content": "$META, $SPOT, $TWTR.P HAMMERED IN AFTER-HOURS: NERDS ON THE RUN - Dr. Fly ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986141920089722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-02T15:13:27Z",
+        "content": "PAYPAL KNEE CAPS RALLY; ONLINE RETAILERS SINK - Dr. Fly  $PYPL $AFRM $SQ $SHOP ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995421171188354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-02T03:47:09Z",
+        "content": "We Will Retest the Lows - Dr. Fly ibankcoin.com/flyblog/2022/... $QQQ",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976992011070251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-02-01T14:20:14Z",
+        "content": "The COVID Vaccine Stocks Continue to Get Destroyed -- Why? - Dr. Fly $PFE $MRNA, $BNTX ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999776303768158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-31T21:09:41Z",
+        "content": "MEGA RAMP INTO THE CLOSE; BEARS GOT THEIR LIVERS RIPPED OUT FOR THEM - Dr. Fly $QQQ $IWM ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978220462799072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-27T05:34:29Z",
+        "content": "January 2022 Turning Out to Be One of the Worst Months for Stocks in Modern History - Dr. Fly $QQQ ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997814297676086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-26T19:27:08Z",
+        "content": "FED DOES NOTHING, INDICATED DESIRE TO TIGHTEN - Dr. Fly $FNGU ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994370341300964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-26T04:39:40Z",
+        "content": "A Valuation Check-Up on the Beloved FANG Stocks - Dr. Fly $META $AAPL, $AMZN $NFLX, $GOOGL ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995799720287323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-24T18:26:53Z",
+        "content": "Markets Recovering Amidst Extreme Oversold Levels - Dr. Fly $UVXY, $LABU, $WCLD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986459612846375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-21T16:03:24Z",
+        "content": "THE BOTTOM MIGHT BE IN - Dr. Fly ibankcoin.com/flyblog/2022/... $IWM $MTTR",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993274211883545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-20T18:19:18Z",
+        "content": "$PTON CRASHES LOWER ON PRODUCTION HALT, TAKES THE FUCKING MAKET DOWN WITH IT - Dr. Fly $PTON $AFRM ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.014814814814814836,
+            "NLTK": -0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994483590126038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-08T20:04:03Z",
+        "content": "CRYPTOS ROUTED * - Dr. Fly ibankcoin.com/flyblog/2022/... $BTC $ETH",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964667558670044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2022-01-04T21:24:18Z",
+        "content": "In Order to Make Outsized Gains...You Need Large Balls - Dr. Fly $GUSH $LABU $WCLD ibankcoin.com/flyblog/2022/...",
+        "sentiment": {
+            "TextBlob": 0.5071428571428571,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969953298568726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "The_Real_Fly",
+        "timestamp": "2021-12-24T21:07:14Z",
+        "content": "A Statistical Xmas Gift From Me to You - Dr. Fly $QQQ ibankcoin.com/flyblog/2021/...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9842855334281921
+            }
+        },
+        "image_url": ""
+    }
+]

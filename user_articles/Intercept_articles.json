@@ -1,0 +1,2690 @@
+[
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-21T15:52:18Z",
+        "content": "$SPY Obvious \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945294260978699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-21T15:21:53Z",
+        "content": "$SPY Looks like a replay of March-05-2021 to me.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949746131896973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-10T23:00:14Z",
+        "content": "$SPY Main algos don't care about the idiot Powell at this stage. He can say whatever he wants and they don't care. Today was the bottom no matter what news show up tomorrow. \nNLP algos though may pick something out of Powell's word salad and play with volatility just a little bit to give you better entries to go long for the rest of the week. \nIt's all about cycles and levels. Nothing else matters.",
+        "sentiment": {
+            "TextBlob": -0.02847222222222222,
+            "NLTK": -0.663,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997517466545105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-10T15:11:27Z",
+        "content": "$SPY Highly likely today is the bottom. Will reevaluate by EOD to get long into EOW.",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999231219291687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-07T20:39:05Z",
+        "content": "$TSLA No respect for the bitcoin of stonks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997994303703308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-07T16:15:45Z",
+        "content": "$SPY Highly likely, ES_F will touch ~4,560 by Monday and then a face-ripper rally to a new ATH starts.",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9833924174308777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-07T16:08:49Z",
+        "content": "$SPY Fabricated price action clearly smelled. \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976726174354553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-06T20:35:17Z",
+        "content": "$SPY After the first hour, they (algos) bought every intra-day sell-off to the VWAP, at least a couple dozen times. They did that for only one reason. Go figure.",
+        "sentiment": {
+            "TextBlob": -0.016666666666666663,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977439641952515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2022-01-06T14:11:41Z",
+        "content": "$SPY Let's go down first and touch ES_F 4,560-ish before the massive rally to a new ATH next week. Deal?",
+        "sentiment": {
+            "TextBlob": 0.046161616161616154,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972757697105408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-31T00:38:00Z",
+        "content": "$SPY Level is gone. Let's meet the lower support levels, possibly 4,715.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997398257255554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-30T20:54:53Z",
+        "content": "$SPY #ES_F 4,775 is strong. Retested several times day and night this week and didn't give up. \ud83d\ude32",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981783628463745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-30T20:48:24Z",
+        "content": "$SPY This volatility is delivered by Bogdanoff from the other world. He wanted to put his last signature on the 2021 market.\nWhat a legend.\nR.I.P",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984481930732727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-30T20:31:38Z",
+        "content": "Let's nominate this $AMZN stonk as the $IWM of the tech and call it a year.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.929684579372406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-30T20:09:12Z",
+        "content": "$TSLA Currently coiling in a triangle with the base of Oct-25 & Nov-04. Next week, it should either break out or break down with a decent size move.\nA break-down would be a classic \"sell the news\" (Elon is done dumping) event.\nEither way, the real trade happens after that decisive moment, IMO.",
+        "sentiment": {
+            "TextBlob": -0.06031746031746033,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9785811305046082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-30T19:10:54Z",
+        "content": "$TSLA Just compare the ebbs & flow in the price action today v.s. yesterday. Very very similar.\npurely algo driven, on auto pilot.",
+        "sentiment": {
+            "TextBlob": 0.10476190476190476,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889153838157654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-27T20:32:19Z",
+        "content": "$AMZN Nobody likes elephants these days. It is traded in an elephant-size bull flag since Nov-05 though.\nOne day it flies.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990233302116394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-23T13:55:11Z",
+        "content": "$TSLA Pre-market range: 1,007 - 1,028 just a lil bit above yesterday's range with some overlap. Almost in line with the whole market so far, no rushing, no dragging. Right at Mr. Market's tempo.",
+        "sentiment": {
+            "TextBlob": 0.14642857142857144,
+            "NLTK": -0.6068,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9910820722579956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-23T13:29:41Z",
+        "content": "Hey $VIX , do what you did last Thursday Dec-16 \ud83d\udc4d\ud83c\udffcMany things looks similar. I know you can do it. So just do it.\n$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856656193733215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-23T11:49:14Z",
+        "content": "$TSLA Who thinks this can see 1,038+ today? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913169145584106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-22T20:41:54Z",
+        "content": "$SPY Let's go and revisit ES 4,680-4,710 overnight, briefly say hellooooo \ud83d\ude0a, and then go right back to 4,500 next week. Can Mr. VIX facilitate this round-trip for us \ud83e\udd14?",
+        "sentiment": {
+            "TextBlob": 0.07142857142857142,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994835376739502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-22T18:43:48Z",
+        "content": "$SPY They started a lil bit early \ud83d\ude0aI was thinking T-1/2, T-1, or at the earliest T-2 \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949743747711182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-22T17:06:36Z",
+        "content": "$SPY Looking at the VIX & 0-DTE call volumes, could we get a beautiful $2-ish EOD flush? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.85,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965530633926392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-22T15:12:37Z",
+        "content": "VIX gets weaker and weaker, $SPY is just fooling around though \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991100430488586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-22T10:35:48Z",
+        "content": "$SPY Not a single lot traded below 4,620 when it pushed above it yesterday. Got close twice but either dips got bought sharply.\nAlgos like to do fake outs a lot to hit the stop orders and suck in liquidities. Let's see if we get a fake break-down in the cash session today. I would do it if I were an algo with a deep pocket.",
+        "sentiment": {
+            "TextBlob": -0.18154761904761907,
+            "NLTK": -0.9136,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972805976867676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-21T16:59:39Z",
+        "content": "$SPY I would be extremely surprised if after all these sticky price action below ES 4,620, it doesn't close above the level today.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.2944,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981356859207153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-21T13:06:16Z",
+        "content": "$SPY The level that ES failed to recapture on Friday at the close was 4,620 and it's almost the 20MA on the 4-h chart. Recapturing or another rejection should be determined early in the cash session.\nVIX looks weak but it also looked weak on Dec-16 in the pre-market hours.\n50/50 coin flip for the next 80/100-point move on the ES. I place my bets after the coin comes to rest.",
+        "sentiment": {
+            "TextBlob": -0.22999999999999998,
+            "NLTK": -0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995284080505371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-20T11:57:06Z",
+        "content": "With those puts, challenging to trade $TSLA this week. Not for me.\nBuh buy  \ud83d\udc4b\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985067248344421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-20T11:53:19Z",
+        "content": "$AMZN Not many protective puts. Cute \ud83d\ude0a",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887913465499878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-20T09:18:17Z",
+        "content": "$SPY They didn't pull a June-20 tonight. \ud83d\ude03\ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957296252250671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-20T02:57:28Z",
+        "content": "$SPY All good, but just don't go straight down. I like dead cats and I hope we get lots of them everyday next week. Shall we?",
+        "sentiment": {
+            "TextBlob": 0.05740740740740738,
+            "NLTK": 0.0261,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9936923980712891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-17T22:27:42Z",
+        "content": "$SPY Technically, it can open higher than (46% chance), lower than (54% chance), or exactly the same as (0% chance) what it closed today.\nAnybody gives you more informative odds than this has a biased mindset. Period.",
+        "sentiment": {
+            "TextBlob": 0.1285714285714286,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863181114196777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-17T20:56:03Z",
+        "content": "$SPY I just hope what happened on Sunday June-20 (around midnight) doesn't happen in Dec-19 or Dec-20 pre-market.\nHey futes! Is that too much to ask?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983780384063721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-17T12:41:22Z",
+        "content": "$SPY Six months ago, on June-18:\n\nVIX was a 10%-ish wide chop-chop-chop-chop-chop-chop and then a final rise into the close. \ud83d\ude0a",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872888326644897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-16T18:17:52Z",
+        "content": "$SPY People think VIX goes up when there is a risk event and goes down when the risk event is resolved. That's just a narrative-based interpretation of the VIX and not necessarily correct.\nVIX goes up when they find it beneficial to buy to open puts from the prisoner's dilemma & game theoretical perspective, and VIX goes down when they find it beneficial to sell to close puts from the same perspective.\nThey don't even wait for a couple seconds to see what that JPow wanna say. It's just the common knowledge that buying puts before and selling puts right at the start of the event is the equilibrium and hence beneficial to them.\nObviously, sometimes VIX spikes are coordinated by a real risk event. Most of the time that's not the case though and just the structure of the market provides cues to them that it's a good time to buy puts.",
+        "sentiment": {
+            "TextBlob": 0.051892551892551896,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832127690315247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-16T17:55:55Z",
+        "content": "$TSLA If the game plan is the same as previous days, call buying algos should push this up to the VWAP + some overshooting later today.\nI would gap up the VIX tomorrow and gap down TSLA below 910 if I were them. \u2618\ufe0f",
+        "sentiment": {
+            "TextBlob": -0.14444444444444443,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995046854019165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-16T17:19:10Z",
+        "content": "$TSLA Whoever run the price action show here very recently (could be multiple algos with real money) are perfect in designing liquidity traps to suck in both bear/bull money and maximizing profit.\nYes, the price action is highly correlated with the VIX or other mega-caps like AMZN, but those minor artistic moves make the difference \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.17183333333333334,
+            "NLTK": 0.6059,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8693739771842957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-14T15:21:34Z",
+        "content": "$TSLA Stonk is thinking what to do next \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983511209487915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-14T08:48:16Z",
+        "content": "$TSLA \n\n\"Now are you a rusher, or are you a dragger\nor are you gonna be ON MY FUCKING TIME?\"",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986918568611145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-14T08:21:03Z",
+        "content": "$TSLA Interesting that IV is not that high.",
+        "sentiment": {
+            "TextBlob": 0.33,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928103685379028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-13T21:14:38Z",
+        "content": "$SPY $TSLA I wish we could have Elon Musk as the Fed chair, instead of J-pow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998991072177887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-13T20:47:36Z",
+        "content": "$TSLA  Call buying algo immediately listened. Thank you.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999603807926178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-13T20:28:30Z",
+        "content": "$BTC.X \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894307851791382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-13T19:13:54Z",
+        "content": "$TSLA I closed all of my put debit spreads. Could the call buying algo sharply pump this up to the VWAP so I can short again?",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994413256645203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-13T18:46:24Z",
+        "content": "$META Why is this one green today? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946413040161133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-10T07:21:45Z",
+        "content": "$TSLA Blessing in disguise for day-traders. Thank you, Elon.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997385144233704
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-10T07:19:09Z",
+        "content": "$TSLA LMAO. Not a bad idea \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.475,
+            "NLTK": 0.8168,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9897794127464294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-10T06:58:10Z",
+        "content": "$TSLA Now even the put walls cannot prevent the gap-fill. 900 is just a given fact.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0191,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980417490005493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-08T20:14:48Z",
+        "content": "When's the $AMZN 's turn to get pumped up with buying calls in this melt-up?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989691972732544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-08T12:54:33Z",
+        "content": "$SPY $TSLA I smell a boring theta-burn kind of day. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992011189460754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-08T09:21:39Z",
+        "content": "$TSLA Whatever the China numbers, nobody cares in 24 hours. Up or down, it's just noise. It's transitory. Good to have some volatility though. Hope it carves a 50+ point range up and/or down today.",
+        "sentiment": {
+            "TextBlob": 0.12962962962962962,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662771224975586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-07T12:32:37Z",
+        "content": "$TSLA ~1,050 High of pre-market. Working with that level as a pivot today \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834144711494446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-06T21:52:08Z",
+        "content": "$QQQ is still underperforming $SPY.\nStonks not out of the woods until $QQQ leads the real untimate V rally.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891971945762634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-05T21:26:59Z",
+        "content": "$SPY They took the Pajama boy DOOOOOWWWWN \ud83d\ude31\ud83d\ude2d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892866015434265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-05T07:32:33Z",
+        "content": "$TSLA \n\nPredict the HOD on Monday:\n\n1) 1,065 +\n2) 1,050\n3) 1,020-1,035\n4) 1,000\n5) 980\n6) 965 -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909560084342957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-05T05:22:57Z",
+        "content": "$SPY\n\nReminder to self:\n\nCompare the sentiment around the likes of that Chamath guy and mama Cathie last December with this December.\nThis game is a marathon, not a sprint. Having marketing skills is good but not sufficient for a long-term success in this business.",
+        "sentiment": {
+            "TextBlob": 0.14999999999999997,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9812576770782471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-03T22:35:10Z",
+        "content": "$QQQ $SPY  First bearish tag,\nhis first bearish tag back in September/October sell-off was on Oct-01 if I recall correctly. Then he flip flopped for 2-3 days right at the bottom.\nExpect the same. Next week should be the absolute bottom, highly likely.\nONLY ONE PAJAMA. THE BEST BOTTOM INDICATOR EVEEEEER!!",
+        "sentiment": {
+            "TextBlob": 0.19857142857142857,
+            "NLTK": 0.7592,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988394379615784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-03T19:06:15Z",
+        "content": "$SPY They clearly know a lot of BTFDers think like this and there is a reason price is flirting with this level. When the mission is done, it will go lower \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982934594154358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-03T19:00:19Z",
+        "content": "$TSLA We will revisit sub-1000 prices almost for sure. They just designed a nice BTFD trap in the last couple hours here, to suck in more liquidity.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.0972,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975917339324951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-03T18:58:16Z",
+        "content": "$AMZN I'm not sure this price would be the bottom anymore, in case we gap down on Monday and/or have some cute EOD flush today. The bottom is close but there is a need for more fear. Not there yet \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.1486111111111111,
+            "NLTK": -0.6394,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969645142555237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-03T07:07:20Z",
+        "content": "$SPY \n\n50-something hours later:\nsame question, same spot price,\nstill below 20-MA on 4-h & daily.\n\nIs this still a short the rip market or just turned to a buy the dip market? Asking for another friend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996469020843506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T16:57:22Z",
+        "content": "$SPY $QQQ This emotional creature got excited again after his mild skepticism in the morning. Let the #ES clear 4,650, then celebrate. lol \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.32166666666666666,
+            "NLTK": 0.8779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9950706958770752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T15:57:57Z",
+        "content": "$TSLA They saved 1,065 for now. Let's see what they'll do with 1,080.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9726905822753906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T15:41:34Z",
+        "content": "$TSLA 1,065 is a potential support from last week. They may save it or not. Waiting for extra confirmation before putting more directional trades on.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997623860836029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T15:36:39Z",
+        "content": "$TSLA Ideally weak as fuck, textbook controlled selling pressure\ud83d\udc4c\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": -0.3875,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997398257255554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T13:41:41Z",
+        "content": "$QQQ $SPY  What chance? \"They just CAAAAAANNN'TTT take you down\", I thought \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989396929740906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T12:40:21Z",
+        "content": "$TSLA What's the highest price today?\n\n1) 1,150+\n2) 1,135-ish\n3) 1,120-ish\n4) 1,100-ish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973554611206055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T12:02:27Z",
+        "content": "$AMZN 3,350-3,400 is the bottom in December, maybe by Friday/Monday?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994377493858337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-02T11:45:25Z",
+        "content": "If I were $IWM I would make a final dive to 195-205 before the final giant melt-up, just to secure my place as the rank #1 killer of both bears and bulls in 2021.",
+        "sentiment": {
+            "TextBlob": -0.08,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9080114960670471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-01T23:37:54Z",
+        "content": "$SPY\n\nWho would think they let us have a negative GEX again?\n\nWhich day marks the absolute bottom in December?\n\n1) Dec-01\n2) Dec-02\n3) Dec-03\n4) Dec-05/Dec-06",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": -0.6199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996825456619263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-01T20:12:30Z",
+        "content": "$SPY The bottom is when you get confused similar to October and post bearish stuff one day and bullish another day. That moment will mark the bottom. Still more pain ahead.",
+        "sentiment": {
+            "TextBlob": 0.033333333333333326,
+            "NLTK": -0.7089,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974082112312317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-01T16:55:09Z",
+        "content": "$ROKU Any dead cat bounce here is transitory?",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989849925041199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-01T16:52:19Z",
+        "content": "$BABA \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9787449836730957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-01T16:50:37Z",
+        "content": "$META \ud83d\ude32",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9719922542572021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-01T16:13:03Z",
+        "content": "$TSLA Finally, the first 3-min candle closed above VWAP after 100 minutes. \ud83d\ude32",
+        "sentiment": {
+            "TextBlob": 0.0375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9798194766044617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-12-01T15:28:24Z",
+        "content": "$TSLA Is Elon dumping? Price action is similar to last Tuesday.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992320537567139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-30T23:56:00Z",
+        "content": "$SPY\n\nIf #ES_F  is below 20-MA on daily, 4-h, and 30-min should I BTFD or STFR? Asking for a friend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992464780807495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-30T18:43:43Z",
+        "content": "$SPY Please don't decide on the next direction overnight. Whatever you do just do it during the cash session like a real man!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9502726793289185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-29T23:34:38Z",
+        "content": "@willyEvil If you look at the Dec-03 call OIs, even 3600-3700 is not a reasonable expectation for this week. But if you kindly ask the owner of $TSLA call buying algo to shift his pumping efforts to AMZN this week, 3800+ would easily be possible.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977580904960632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-29T19:59:33Z",
+        "content": "$SPY\n#ES_F :\n20 MA on daily: 4,668 \n20 MA on 4-h: 4,663\n\nPrice? near them\n\nA close above/below (with conviction) today probably shows the next direction.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9556580781936646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-29T19:49:39Z",
+        "content": "They are moving $TSLA like it's a Thursday or Friday. Algos had too much food leftovers and booze over the weekend, I guess.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992189407348633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-29T18:38:08Z",
+        "content": "$TSLA Not sure what's their intention here.\nAbove 1,135 bullish, below 1,120 bearish in short-term timeframes.\nbetween 1,135 & 1,120 just sucking liquidity from both sides and let the guessing game continues. \ud83d\udc81\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": -0.21666666666666667,
+            "NLTK": -0.2411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955006241798401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-29T18:10:45Z",
+        "content": "$SPY $VIX Love the \"organic\" 45-degree price action.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9955011010169983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-27T09:43:38Z",
+        "content": "$IWM Highest trading volume on a half-day Black Friday since that cute post-FOMC sell-off back in June-2020. Can you believe it?",
+        "sentiment": {
+            "TextBlob": 0.11111111111111112,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6803755164146423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-27T09:39:07Z",
+        "content": "$IWM This doesn't have as many haters as it used to have several months ago. P/C ratios of 3+ was something normal for this one. Not anymore. Sad.",
+        "sentiment": {
+            "TextBlob": 0.037500000000000006,
+            "NLTK": -0.1645,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937978386878967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-26T10:11:46Z",
+        "content": "$TSLA Stock price too high IMO. Lots of 0-DTE ITM puts are holding the stonk for now. Market opens and big boys adjust their option positions then next week could be BOOM BOOM for this one as long as the VIX keeps cooperating.",
+        "sentiment": {
+            "TextBlob": 0.0275,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938598871231079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-26T10:03:33Z",
+        "content": "$ZM Added to my watch-list as a new market indicator.",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819579124450684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-22T21:24:40Z",
+        "content": "$SPY Only one Pajama!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922195672988892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-22T21:04:32Z",
+        "content": "$SPY Casino closed?",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959436058998108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T19:51:55Z",
+        "content": "$TSLA I closed 90% of my condors before 11:30 CT and I turned the call credit spread leg to a call debit spread on the remaining 10% position around spot ~1,122. Thankfully they pumped the stonk higher and I closed that 10% with a profit too. Thank you pumpers!",
+        "sentiment": {
+            "TextBlob": 0.008333333333333331,
+            "NLTK": 0.8777,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.973650336265564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T19:15:58Z",
+        "content": "$TSLA Well .. whoever is buying these many 0-DTE 1,120 calls should spend much much more. It's Friday. Theta decays, IV decays. It's hard to break 1,120.",
+        "sentiment": {
+            "TextBlob": 0.23611111111111108,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996941089630127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T16:51:13Z",
+        "content": "$IWM Right at the break-out level, another guessing game for the whole stonk market \ud83d\udc7b",
+        "sentiment": {
+            "TextBlob": 0.028571428571428564,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997547447681427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T16:28:57Z",
+        "content": "$AMZN Selling CCS above 3,810 has been a safe bet so far. Happy that they didn't pump it too much today (yet).",
+        "sentiment": {
+            "TextBlob": 0.31999999999999995,
+            "NLTK": 0.7832,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9900845289230347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T15:22:53Z",
+        "content": "$SPY Lots of gamma will be taken off by EOD. Hopefully, we start getting some volatility next week. Some cute weekend news could facilitate that.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890081882476807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T15:13:53Z",
+        "content": "$TSLA Looking forward to another stupid weekend tweet by Elon. He is a blessing in disguise for traders in this volatility-suppressed market.",
+        "sentiment": {
+            "TextBlob": -0.7999999999999999,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979896545410156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T15:06:35Z",
+        "content": "$TSLA They turned it on (smh) but thanks to IV decay, my condors are doing well.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4497,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994656443595886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T14:23:06Z",
+        "content": "$TSLA If they don't turn on call-buying algos today (reasonable expectation for a Friday), the stock price should respect the 1,100 call wall.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9581606388092041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-19T03:33:33Z",
+        "content": "$SPY Dude who bought almost $5M of 472 calls Dec-03 around 467.5 spot today needed to be in 3-digit ROI in 24 hours.\nDon't bet against them. Side with them or at least do nothing.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989259839057922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-17T17:57:24Z",
+        "content": "$TSLA Call-buying algos pushing this up on a 47-degree line and then IV decay & maybe Elon (?) pull it down on a 142-degree line.\nThe best intra-day trading vehicle by far in the whole stonk universe.\nClean setups, nice trades \ud83d\ude0a",
+        "sentiment": {
+            "TextBlob": 0.35185185185185186,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9322348237037659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-17T16:37:44Z",
+        "content": "$IWM \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902397394180298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-15T16:52:32Z",
+        "content": "$SPY Haven't seen a 5-min red candle like that since ... I don't recall \ud83d\ude32What's going on? A whale dumped?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1431,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990559220314026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-12T15:06:04Z",
+        "content": "$SPY Again, they are making a sandwich between 364P & 365C breads \ud83d\udc81\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803199768066406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-10T20:18:44Z",
+        "content": "$SPY \n\nWhen VIX spikes bullshit takes the bus.\n\nClear patterns, awesome trades.",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9739897847175598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-09T22:58:26Z",
+        "content": "Short $TSLA and long $AMZN until Jeff becomes the richest dude in the world.\nThen the reversal happens \ud83d\udc4c\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896194338798523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T19:46:06Z",
+        "content": "$TSLA instead of posting, spend money on puts bears. I want better entries.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994524121284485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T19:43:27Z",
+        "content": "$TSLA Buy puts bears. It helps the melt-up next week. Buy Nov-12 puts as much as you afford  \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8646082282066345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T19:35:19Z",
+        "content": "They are dealing with $NFLX like it's a $ROKU. When's the right time to go long? constant bleeding still \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.07857142857142857,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988343119621277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T18:44:04Z",
+        "content": "$NFLX Poor stonk ... nobody pumps this one ... yet",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996992349624634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T18:24:56Z",
+        "content": "$TSLA gap up over 1,250 on Monday and 1,300 later is almost a certainty. \ud83d\udc81\ud83c\udffb Only a black swan Elon's tweet can change this destiny.",
+        "sentiment": {
+            "TextBlob": -0.05555555555555555,
+            "NLTK": 0.1796,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997747004032135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T18:14:05Z",
+        "content": "$SPY Gap up on Monday is almost a certainty \ud83d\udc81\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1796,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972994923591614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T17:18:42Z",
+        "content": "If VIX goes to 30+, maybe finally $SPY touches 462! That's how they supplied massive gamma to prevent any real sell-off.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.1007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987209439277649
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T17:12:56Z",
+        "content": "$SPY Some pairs are grown on a Friday \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.808007001876831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T14:45:45Z",
+        "content": "$NFLX So what's the deal here? 20-day MA is the real support for the next leg up to 700+ or what?",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979038238525391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T01:57:38Z",
+        "content": "$TSLA What they have in common?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928573369979858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-05T01:32:38Z",
+        "content": "The 1200-1500 zone is a space that $TSLA is curious enough to explore but after the massive burden of Nov-05 call options go away.\n\nDeflate IVs tomorrow and bring the spot down close to 1200 and prepare the stage for the next round of IV reflation next week.\n\nInflation is transitory, reflation is not! They got to pump it up \ud83d\udc81\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": -0.06507936507936508,
+            "NLTK": -0.5411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969766139984131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-04T18:02:23Z",
+        "content": "$TSLA I hope institutional heavy call buyers don't jump in like a chimpanzee again the rest of the week. Let the IVs settle down. Next week go for it.",
+        "sentiment": {
+            "TextBlob": -0.11851851851851854,
+            "NLTK": 0.1999,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987035989761353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-04T17:02:56Z",
+        "content": "At this rate, probably when VIX reaches 30, $SPY barely touches 462 \ud83d\ude32",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990822076797485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-04T02:53:16Z",
+        "content": "$META Almost broke out of the falling wedge today. My only problem with FB on the long side is that P/C ratio is too low. Peeps bought too many 330+ calls. It's not hated enough.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.5483,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946523904800415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T20:16:14Z",
+        "content": "$SPY The last time I saw a VIX close below 15 was Wednesday Feb 19, 2020\nWhen's the next one? Tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963879585266113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T20:06:59Z",
+        "content": "$ROKU Nice drop as most folks expected. Glad that I dumped all my long-ish positions right before the ER.",
+        "sentiment": {
+            "TextBlob": 0.3571428571428571,
+            "NLTK": 0.3102,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959926009178162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T20:00:59Z",
+        "content": "$ROKU Let's see some ER fun here \ud83d\ude0a",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9750480055809021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T19:40:14Z",
+        "content": "$AMZN This big elephant is running beyond expectations.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968354105949402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T19:37:22Z",
+        "content": "$TSLA It's trying. We need more degenerate call buyers though. Not sufficient for a Wednesday at this IV level.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996591806411743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T19:29:49Z",
+        "content": "$SPY Next real pull-back probably starts on Nov-11/Nov-12 at the earliest. Stay long for now.",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969106316566467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T19:15:17Z",
+        "content": "$SPY \n\n\"Transitory is a word that has had different understandings\"\n\nBook of Lord JPow, verse 11-03",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854822158813477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T18:06:05Z",
+        "content": "$SPY Stupid algos. Lol.",
+        "sentiment": {
+            "TextBlob": 5.551115123125783e-17,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999584972858429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T14:31:03Z",
+        "content": "$META soon ... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992146492004395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T13:41:15Z",
+        "content": "$AMZN This elephant is acting too normal \ud83e\udd14 Usually that's not the case.",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993763566017151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T12:44:23Z",
+        "content": "$SPY Give me 17-ish VIX by JPow's moment, if it's not too much to ask.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959858059883118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T10:24:54Z",
+        "content": "$TSLA \n\nIt's hard to break 1,200 this week for a couple reasons:\n\n1) 1,200 is the top of the channel from Feb-2020 highs so bulls wait for extra confirmation before going into the full degenerate mode.\n\n2) Time decay accelerates and IV compresses from mid to end of the week --> MMs have to sell shares against their short calls to unwind their hedges from Monday.\n\nMaybe a more measured move is to break 1,200 next Monday by gap it up over 1,200 in the pre-market. However, if the call buying programs decide to push the price higher after Powell's speech today, surely they can break 1,200 this week.",
+        "sentiment": {
+            "TextBlob": 0.18083333333333335,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976717829704285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-03T08:36:50Z",
+        "content": "$TSLA\nLooks cheap v.s. the price in 5-7 trading days \ud83e\udd14\nLooks too expensive v.s. the price in 12 months \ud83d\udc81\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996322393417358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-11-01T18:46:08Z",
+        "content": "$AMZN got back to the typical STFR price action. \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": -0.022222222222222216,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965333938598633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-29T19:15:41Z",
+        "content": "$ROKU Looks like buying puts here at any moment pays handsomely within just 3-5 minutes \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961589574813843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-29T17:52:19Z",
+        "content": "$ROKU I'm still hanging there at the break-even point on my 330 Nov-12/Nov-05 call calendar spreads thanks to the IV skew, but what's wrong with this thing?",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994320273399353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-29T06:42:30Z",
+        "content": "$SPY \n\nNot a big deal for semi-gambler bulls even in the short-term if #ES_F 4,565-ish holds tonight.\nWould be good, however, if it breaks and we get back to at least 4,550-ish to get some uncertainty and volatility fun \ud83d\udc81\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.13999999999999999,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943116903305054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-29T06:00:27Z",
+        "content": "@crystalonix\n$AMZN close price:\n\n3,300+ on Oct-29\n3,300+ on Nov-11\n3,350+ on Nov-26",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9592442512512207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-28T20:13:21Z",
+        "content": "$AMZN Will day trade this thing tomorrow. Just keep staying down into the open tomorrow \ud83d\ude0e\ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9812368750572205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-28T20:10:07Z",
+        "content": "$AMZN LOL?!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970576763153076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-28T06:01:08Z",
+        "content": "$SPY Futes are ripping & dipping in the $5 wide channel of 4,555 & 4,550 with some casual & fake break-downs until Mr. VIX wakes up and decides on the next direction.",
+        "sentiment": {
+            "TextBlob": -0.275,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9486775398254395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-27T13:15:17Z",
+        "content": "$TSLA cannot go above 1,042-1,044 on its own legs today. The real question is do they run the call buying program today to gamma squeeze it to 1,050+ or not.\nIV dropped substantially yesterday. Without higher IV, it's safe to say that TSLA almost hit the HOD in the pre-market.",
+        "sentiment": {
+            "TextBlob": 0.31,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989851117134094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-22T15:39:49Z",
+        "content": "$SPY A pair \u26be\ufe0f\u26be\ufe0f  is grown on a Friday! Really impressive.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5974,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998319149017334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T21:02:57Z",
+        "content": "$QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9688189625740051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T21:02:10Z",
+        "content": "$ROKU \ud83d\ude09",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9835313558578491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T21:00:55Z",
+        "content": "$GOOGL \ud83e\udd73",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940588474273682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T21:00:24Z",
+        "content": "$INTC \ud83e\udd2d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748820066452026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T21:00:10Z",
+        "content": "$TWTR.P \ud83d\udc4c\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910750389099121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T20:44:54Z",
+        "content": "$META \ud83d\udc4d\ud83c\udffc\ud83d\udc4c\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9719922542572021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T20:37:12Z",
+        "content": "$SNAP \ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9427482485771179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T15:55:21Z",
+        "content": "$SPY If by any chance we see 447-ish before 460+ is my only question now \ud83e\udd37",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993504881858826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T14:25:30Z",
+        "content": "$TSLA Closed both legs with profit. Literally WTF though?!",
+        "sentiment": {
+            "TextBlob": -0.3625,
+            "NLTK": -0.4451,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834385514259338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-21T03:18:24Z",
+        "content": "$SPY Who else thinks we will base around these levels and flirt with the previous ATH for a week (give or take) to suck in more liquidity from bears and punish some weekly OTM call buyers and then start the next leg higher? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.043333333333333335,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989117383956909
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-20T20:50:12Z",
+        "content": "$NFLX \n\nFor those wondering why it dropped today:\n\nDegenerates bought too may short-term OTM calls before the ER when IV was ~80%. Today IV dropped to ~40%. This IV crush produces a negative vanna flow. It means that MMs bought too many shares before ER to hedge their short call positions. Now that delta of OTM calls dropped due to IV crush, they remain overhedged and they HAVE TO sell shares and reduce their hedges to STAY DELTA NEUTRAL.",
+        "sentiment": {
+            "TextBlob": 0.018750000000000003,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999589741230011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-20T20:05:06Z",
+        "content": "$TSLA Whatever it is, already priced in. Just open it tomorrow flat to red.",
+        "sentiment": {
+            "TextBlob": -0.008333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958516359329224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-20T19:56:05Z",
+        "content": "$TSLA They pumped the IV of OTM 2-DTE calls in the last 15 min.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970695376396179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-20T16:52:08Z",
+        "content": "$SPY  Now buy FB callls, then sell half of it & keep the rest, let's see how Bogdanoff treats you this time. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7816967964172363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-20T15:00:51Z",
+        "content": "$META I'm a buyer of the potential retest of 20-day after the ER (If they give it to me)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955594539642334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-19T17:48:11Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-19T14:00:35Z",
+        "content": "$SPY If no big player has the balls to defect and buy (even intra-day) puts here, VIX cannot go higher and this lame-ass price action continues in this high-GEX environment until a big player finds it beneficial to grow a pair.\n\nGame Theory 101",
+        "sentiment": {
+            "TextBlob": -0.010000000000000009,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980903267860413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-19T13:50:57Z",
+        "content": "$SPY That's how a market with +$15 B GEX looks like. MMs have to buy every tiny drop to stay delta-neutral. Only VIX can liberate us.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997612714767456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-19T13:12:27Z",
+        "content": "$SPY I know asking a retest of the 4,700 zone is worse than blasphemy in the Lord Pow's market but looks like the VIX wanna cooperate with us. \ud83d\udc81\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993005990982056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-19T08:45:31Z",
+        "content": "As expected, similar to the end of June, it's not possible to trade $SPY with a reasonable R/R anymore. Should look for individual stocks ...\nERs ahead, hopefully good opportunities  emerge one after another.",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.842958927154541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-18T14:18:56Z",
+        "content": "$META Lots of OI on weekly 320, 325 and 330 calls. Assuming MMs are net short these, hard for the SP going up this week \ud83e\udd14\nMaybe weekly IC is a play here.",
+        "sentiment": {
+            "TextBlob": -0.09722222222222222,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989489912986755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-15T13:00:57Z",
+        "content": "$SPY So will the VIX act like Thursday, slow bleeding the whole day? Or like Wednesday a rise in the first 45 min or so and then slow bleeding the rest of the day?",
+        "sentiment": {
+            "TextBlob": -0.03750000000000002,
+            "NLTK": 0.6553,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993329644203186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-15T09:08:16Z",
+        "content": "$SPY\n$VIX right at the rising trend-line since June lows. For now, my base case scenario is that the trend-line will be breached soon and the 4-month pattern will break similar to what happened in June. Lots of bears will be trapped similar to what happened in late June.\n\nThat's my base case scenario unless otherwise specified by charts.",
+        "sentiment": {
+            "TextBlob": -0.2591836734693878,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998454213142395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-14T22:13:56Z",
+        "content": "$SPY Let's have a meh futes overnight and a flat-ish open tomorrow and then a classic 45 degree boring grind up with another round of VIX crush tomorrow during the cash session. \ud83d\ude0e\ud83d\udc4d\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": -0.25833333333333336,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987422823905945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-14T21:11:46Z",
+        "content": "$SPY\n#ES_F (4-h)\n\nThe short-term bearish channel & 50 SMA were breached today. 4,470 should be the next destination very soon. The strength/weakness of price action there should give a cue for the next move.",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8644642233848572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-12T14:37:13Z",
+        "content": "$SPY The only reasonable way to day trade this chop is selling spreads/condors and legging out if/when the day turns to a trend day.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995953440666199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-12T14:33:23Z",
+        "content": "$SPY Price action similar to Wednesday Oct-06.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918792843818665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-12T13:41:26Z",
+        "content": "$SPY Iron condor kind of day? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958100318908691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-12T11:40:35Z",
+        "content": "$SPY The real question is:\nPut calls work on Oct-15?\nOr October OpEx will be red, similar to the previous ones?",
+        "sentiment": {
+            "TextBlob": 0.008333333333333338,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996898174285889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-12T01:28:33Z",
+        "content": "$SPY\n#ES_F (4-h)\n\nStill bearish in the short-term until the orange trendline gives permission. I had a similar chart last October too, and I think somewhere around Oct-30 to Nov-02 the orange trendline gave permission last year.\nThis time it might happen earlier. Regardless, orange trendlines matter!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943962097167969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-08T20:13:47Z",
+        "content": "$SPY\n#ES_F (4-h)\n\nbearish in the short-term, unless otherwise specified by the chart.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981485605239868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-08T14:40:07Z",
+        "content": "$SPY This is the new feature of $VIX for some reason:\n\nVIX consolidates : $SPY goes down\nVIX slowly goes down: SPY consolidates\n\nThis sneaky VIX can give misleading info about the vol structure.",
+        "sentiment": {
+            "TextBlob": -0.1186868686868687,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994753003120422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-08T07:35:41Z",
+        "content": "$SPY Oh well ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7788739800453186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-07T21:12:27Z",
+        "content": "$SPY I guess this dude is Kaplan, now a full-time trader after getting retired from the Fed of Dallas. \ud83d\udc4c\ud83c\udffcGood job.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990545392036438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-06T14:14:59Z",
+        "content": "$STUDY\n\nExecuted legging out of put credit spreads this morning using:\n\n1) VWAP\n2) 20-period MA on the 1-min chart\n3) pre-determined levels on ES\n\nwith pre-determined put strikes on SPY based on the distribution of 0-DTE options,\n\nin the first 30 min of the cash session today.\n\nMy execution & the net profit got way better, but I still need to get sharper.\n\nMore practice & practice, more charts, more back-testing  \ud83d\udc4c\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.4497,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988466501235962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-06T09:21:35Z",
+        "content": "$SPY You might think McConnell's puts are ahead of Pelosi's calls, but consider that the real winner is Kaplan who is a full-time futes trader now and play both sides. Be like Kaplan in this market \ud83d\udc4c\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.9109,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6753354072570801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-06T05:15:47Z",
+        "content": "$SPY \n\nOvernight on #ES_F, so far there have been two liquidity levels:\n\n4,335\n4,310\n\nApart from these two levels, no serious liquidity has been provided. Hence, the sharp drops between levels so far.\n\nLet's see if 4,310 holds. Otherwise, 4,295-ish and 4,275-ish  are next.\n\nAll that gamma squeeze in the first 90 min of the cash session this morning was because of some tutes taking big positions on short puts or long calls.",
+        "sentiment": {
+            "TextBlob": 0.049074074074074076,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993158578872681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-05T20:05:57Z",
+        "content": "$SPY They closed it around VWAP, so that was NOT a bearish close really. But if they pull out liquidity again overnight and we go back to 4,270 - 4,280, that would make this market kinda cute \ud83d\ude0a, IMO.\nLet's see what they do. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.5515,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9538474082946777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-05T11:18:01Z",
+        "content": "$SPY\n#ES_F Watching the important 4,310 level to see what's next. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.945528507232666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-05T02:28:03Z",
+        "content": "@Dr_Stoxx \n\nWith all the sell-off, $NFLX is still higher than what it was in early September when Dr. sTOnK knew the drill, right?\n\nAnd this is not an exception. Dr. StoNk has been always spot on with this particular stonk since a year ago!!",
+        "sentiment": {
+            "TextBlob": 0.22403273809523808,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9953082203865051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-04T19:12:48Z",
+        "content": "$META is worse than Robinhood! I should use a new messaging app. Ugh!",
+        "sentiment": {
+            "TextBlob": -0.1647727272727273,
+            "NLTK": -0.7568,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997944235801697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-04T16:39:03Z",
+        "content": "$SPY Looks like already invalidated.\nBogdanoff is in control of the market.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997588992118835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-04T16:22:59Z",
+        "content": "$META Fix the damn WhatsApp, Zuck!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988114833831787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-04T10:41:57Z",
+        "content": "$SPY \n\nMy base case until the week of monthly OpEx:\n\nAs far as the market's structure is concerned, I think there was, is, and probably will be similarities between the March 03-11 period & the Sep-29 to Oct-07 period.\n\nI will come back in the last 30 min today to take a long position if I find my hypothesis still valid.\n\n[The time stamps in the chart are central times]",
+        "sentiment": {
+            "TextBlob": -0.12500000000000003,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997575581073761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-01T19:59:17Z",
+        "content": "$SPY I don't bet on it but looking fwd to the next leg down to low 420's next week. JPOW's money printer is not enough at this point. This thing needs to be blessed by 420 to void the curse of Bogdanoff.",
+        "sentiment": {
+            "TextBlob": -0.031111111111111117,
+            "NLTK": -0.2617,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989873766899109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-01T18:33:04Z",
+        "content": "$SPY Yeah, it was a replay, but they didn't let it get as dramatic as March 5-th though.",
+        "sentiment": {
+            "TextBlob": -0.4333333333333333,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.590395987033844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-01T14:08:09Z",
+        "content": "I was pretty sure that there would be a dump right at the open. Wanted to leg out of my short overnight 425/426 0-DTE put credit spreads (which I scaled in during the last 30 min yesterday) and increase my profit to 20-30% of the cash collateral.\n\nBUT the size of the position was too big and just made the vanilla play and closed the whole thing together 5-10 sec after the open with 10% net profit on the cash collateral.\n\nWould like to take more risks on these sorts of play, maybe on say one fifth of the position not the whole thing. Need to practice and develop a well-defined strategy though ...\n\nWould like to hear opinions from experienced options day/overnight traders.\n\n$STUDY",
+        "sentiment": {
+            "TextBlob": 0.16904761904761903,
+            "NLTK": 0.9572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945117235183716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-10-01T12:35:35Z",
+        "content": "$SPY Futes ripped from 6 to 7:30 am (central time) because that is one of the time slots during which REhedging algos work.\nFriday morning, IV dropped,  delta of OTM puts dropped and MMs remained overhedged regarding their short OTM puts ==> Vanna flows kicked in.\nBusiness as usual.",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990864992141724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-09-30T21:50:47Z",
+        "content": "$SPY Thursday March-04 had a comparable #GEX.\nEpic price action on Friday March-05!\nA replay tomorrow? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.1125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990073561668396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-09-30T21:48:14Z",
+        "content": "$SPY Record negative #GEX \ud83d\ude33sounds like all time low.",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998059868812561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-09-30T21:30:59Z",
+        "content": "$SPY\n$AUDJPY doesn't look weak. Doesn't look like a risk-off event, IMO.",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": 0.0762,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8152082562446594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Intercept",
+        "timestamp": "2021-09-30T21:19:57Z",
+        "content": "$SPY underperforming both $IWM & $QQQ was something VERY rare, but happened today.",
+        "sentiment": {
+            "TextBlob": 0.39,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9573168754577637
+            }
+        },
+        "image_url": ""
+    }
+]

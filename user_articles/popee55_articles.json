@@ -1,0 +1,86 @@
+[
+    {
+        "username": "popee55",
+        "timestamp": "2023-01-10T22:12:10Z",
+        "content": "$AVYAQ next all employee meeting on 17th. Not expecting big news before that.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8938917517662048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popee55",
+        "timestamp": "2022-12-20T17:40:17Z",
+        "content": "$AVYAQ ok, so negotiations are still ongoing in the background. It can go either way. Ch 11 and stocks go to 0, or agreement out of the court and SP goes up",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904674887657166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popee55",
+        "timestamp": "2022-12-19T23:46:42Z",
+        "content": "$AVYAQ any chance this gets back to around 2$? \nWith a buyout or a settle without ch11, or with ch11, etc? \nI understand that this can be a good play for some people buying now and maybe doubling the investment, but for me to become even the SP should be around 2$. \n \nNo, I can't average down, not spending any more money on stocks, so don't recommend me buying more. I just simply would like to understand what could happen to this stock, so I can decide if selling at let's say 0.3 or whatever under 1$ would be a good idea, or 2+ is still acheivable in long run?",
+        "sentiment": {
+            "TextBlob": 0.22716049382716047,
+            "NLTK": 0.7102,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971103668212891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popee55",
+        "timestamp": "2022-12-09T00:15:56Z",
+        "content": "$AVYAQ ok, so I work at Avaya and I heard on mid-management meeting that \"I want you guys to know that in case bankruptcy is gonna happen, it is not a bad thing\" \n \nI understand that for the company itself it would not be a bad thing, we already survived a chapter 11. \nBut can you tell me what would happen to the SP if we got bad news? How low could it go?",
+        "sentiment": {
+            "TextBlob": -0.10999999999999996,
+            "NLTK": 0.8039,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972049593925476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popee55",
+        "timestamp": "2022-04-21T18:06:40Z",
+        "content": "@OneTradeAway24 Same here. I used to have a 210$ average. Bought more and more to average down, but SP  kept on going down as well. There's too much money in it now, won't put more in this stock. \nMy new average is 140$. Hope we will hit it in 1-2 years. \nUntil then I keep on holding  my huge bag... :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.15194250194250197,
+            "NLTK": 0.9253,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982853531837463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popee55",
+        "timestamp": "2021-06-15T13:38:59Z",
+        "content": "@Lel0uche_Vi_Brittania \nI am not experienced and I am not a financial advisor.\nBut this is how I see:\nThis will go above 300$. Maybe not today and not tomorrow. But it will once approvals collected and product is sold.\nIf you would like to day trade or scalp, I cannot help how to do it well (buy low sell high? :D ), but if you do not want the quick money, then simply relax and wait. Ignore the noise, ignore the red days. Your time will come... Bullish",
+        "sentiment": {
+            "TextBlob": 0.12148148148148147,
+            "NLTK": 0.6033,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952023029327393
+            }
+        },
+        "image_url": ""
+    }
+]

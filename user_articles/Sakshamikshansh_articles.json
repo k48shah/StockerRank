@@ -1,0 +1,1682 @@
+[
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-03-14T09:15:48Z",
+        "content": "Catch all live action from $ETLIVESTREAM.P here !",
+        "sentiment": {
+            "TextBlob": 0.13068181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9970908164978027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-15T05:30:31Z",
+        "content": "$BHARTIARTL.NSE A Nice cup & handle pattern here, the telecom stock looks good for a breakout ! Bullish",
+        "sentiment": {
+            "TextBlob": 0.7375,
+            "NLTK": 0.7177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6789295077323914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-15T05:14:09Z",
+        "content": "$NIFTY50.NSE This probably was a false breakout :P Bearish",
+        "sentiment": {
+            "TextBlob": 0.17499999999999996,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992747902870178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-10T09:01:50Z",
+        "content": "$BTC.X This is crazy? are we still trading this in India?",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.4137,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988705515861511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-04T09:21:26Z",
+        "content": "$TATAMOTORS.NSE lots of news regarding scrapping of old vehicle, can this be a game changer ?",
+        "sentiment": {
+            "TextBlob": -0.15000000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988896250724792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-03T10:12:42Z",
+        "content": "$RELIANCE.NSE is this going to lift the markets now?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8483465909957886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T10:41:09Z",
+        "content": "$RELIANCE.NSE is this going to rebound here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99898761510849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T10:26:48Z",
+        "content": "$ADANIPORTS.NSE $ADANITRANS.NSE $ADANIENT.NSE $ADANIGREEN.NSE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934614896774292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T06:54:54Z",
+        "content": "A glass of water before personal income tax was the hint, exemption is coming in ! \n \nExemption increased to 7 Lakhs.  \n \n#budget2023 $NIFTY50.NSE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9777591228485107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T06:51:21Z",
+        "content": "What are you smoking? $ITC.NSE was all steady pre-budget. People were hoping not to see any negatives here.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977126121520996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T06:47:15Z",
+        "content": "Presumptive taxation limits up to 3 crs and 75 Lakhs. Provided cash transactions not more than 5%. #budget2023 $NIFTYFINSERVICE.NSE",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965960383415222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T06:45:04Z",
+        "content": "Direct Tax coming into the speech finally, do we expect some firework now? $NIFTY50.NSE",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974721074104309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T06:24:17Z",
+        "content": "Scrapping old government vehicle and ambulance. $TATAMOTORS.NSE can grab some tenders what do you say? #budget2023",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987917542457581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T06:14:17Z",
+        "content": "Railways \u2013 Capital outlay of Rs 2.40 Lakh cr provided.  \n \nThis is the highest ever outlay , 9x of the outlay in 2013-14 \n \n100 critical transport projects \u2013 first and last mile projects \n \nHuge push to infra ! \n \n$NIFTY50.NSE $NIFTYINFRA.NSE",
+        "sentiment": {
+            "TextBlob": 0.18750000000000003,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8047766089439392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T06:01:38Z",
+        "content": "India's GDP growth is estimated at 7% in FY23. IMO this is great when other countries are facing slowdown. $NIFTY50.NSE $NIFTYINFRA.NSE",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9865184426307678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T05:58:21Z",
+        "content": "7 Priorities of #Budget2023  \n \n1. Inclusive development \n2. Reaching last mile \n3. Infrastructure and investment \n4. unleashing potential \n5. Green growth \n6. Youth Power \n7. Financial Sector \n \n- Finance Minister \n \n$NIFTY50.NSE $NIFTYBANK.NSE $NIFTYINFRA.NSE $ADANIGREEN.NSE $NIFTYFINSERVICE.NSE",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8033652901649475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T05:57:11Z",
+        "content": "A new pharma program  to promote research and innovation and pharmaceuticals will be taken up through centers of excellence. $NIFTYPHARMA.NSE",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9751467108726501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-02-01T05:55:13Z",
+        "content": "$NIFTY50.NSE #Budget2023",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9636144638061523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2023-01-06T11:09:59Z",
+        "content": "$RELIANCE.NSE Will this help lift $NIFTY50.NSE up?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.481,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970170259475708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-12-06T08:46:07Z",
+        "content": "$BANDHANBNK.NSE  \n \nOne of the top private sector lenders, has updated its Marginal Cost of Funds based Lending Rates (MCLR) for all tenors.  \n \nThe 1-year MCLR is 10.57%. \nThe 2-year MCLR is 10.81%, and  \nThe 3-year MCLR is 10.92%.  \n \nThe overnight to 3 months MCLR is now 10.17%, and the 6-month MCLR is now 10.41%",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9524936676025391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-11-28T07:32:02Z",
+        "content": "$NIFTY50.NSE ATH Finally!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982529282569885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-11-28T05:51:11Z",
+        "content": "$RELIANCE.NSE Mota Bhai Awakens ! ATH on $NIFTY50.NSE soon?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935065507888794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-11-21T13:14:51Z",
+        "content": "$FIVESTAR.NSE Just sharing my first thought \ud83d\udcad",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9739606380462646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-11-03T10:44:12Z",
+        "content": "$RELIANCE.NSE looks good for a breakout, the elephant stock is finally moving \ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9822394847869873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-21T07:27:08Z",
+        "content": "$AXISBANK.NSE These are my favourite kind of breakouts, gap up and zoom \ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9755234122276306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-20T07:00:03Z",
+        "content": "@rmurugan $PAYTM.NSE  be like :P",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.6841,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917355179786682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-20T06:56:23Z",
+        "content": "$INDUSINDBK.NSE Interesting price action, the support and resistance on Daily and Weekly time frame are perfectly in sync.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.8625,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997178912162781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-12T16:42:07Z",
+        "content": "$TATAMOTORS.NSE The EV demand still seems to be there, 1000 Tiago EV booked on the first day of launch!",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": -0.2003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9602533578872681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-11T17:42:22Z",
+        "content": "@finversify the question remains which direction \ud83d\ude1c $NIFTYBANK.NSE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997094988822937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-11T17:41:15Z",
+        "content": "@SourabhJain after stock market weekly option, it seems all traders are headed to $DELTACORP.NSE \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973917007446289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-10T10:13:24Z",
+        "content": "$TATAMOTORS.NSE is the EV theme out of fire now ? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945593476295471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-10-04T05:46:47Z",
+        "content": "$LEMONTREE.NSE they actually fit in the sweet spot! Not so expensive, with great amenities for the wedding season. \n\nThe news flow of high demand for weddings (which is already sold out) is likely to reflect in it\u2019s earnings. Bullish",
+        "sentiment": {
+            "TextBlob": 0.21625000000000003,
+            "NLTK": 0.8643,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.997833788394928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-09-10T06:45:52Z",
+        "content": "$RELIANCE.NSE is this going to be the leader in 5g?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972403049468994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-08-19T15:28:40Z",
+        "content": "52 Week High stock has given good trading returns in the past for me. Just updated my watchlist for next week! \n\nAdded: $ADANITRANS.NSE , $CAMPUS.NSE , $SOLARINDS.NSE \n\nHighly recommend all of you to update your watchlist on stocktwits and share them below \ud83d\udc47\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.154,
+            "NLTK": 0.8012,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8060585856437683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-08-01T06:43:32Z",
+        "content": "$DABUR.NSE Is the FMCG worth a play right now?",
+        "sentiment": {
+            "TextBlob": 0.2928571428571428,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937396049499512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-07-27T10:29:25Z",
+        "content": "$ICICIBANK.NSE is this going to beat $HDFCBANK.NSE ? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932897686958313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-07-27T09:42:50Z",
+        "content": "$JSWENERGY.NSE Is this worth tracking ?",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2789,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974480867385864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-07-15T06:19:13Z",
+        "content": "$JPPOWER.NSE Is this power stock still relevant. Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5698955059051514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-07-14T11:16:32Z",
+        "content": "$BHARTIARTL.NSE Are we going to see a reveal soon of the 5G pan india?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9805537462234497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-07-14T10:41:21Z",
+        "content": "$TATAMOTORS.NSE Is the EV business actually worth the 1 billion mark we think it is?",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9794116616249084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-06-23T08:38:32Z",
+        "content": "$IRCTC.NSE  \n \nOne interesting observation from the recent Earning con-call was that they are expecting additional revenue growth by procuring the tenders of retiring room upgradations.  \n \nSo that will become a new revenue stream apart from Ticketing and Catering. How much cashflow it actually generates is something we need to see in the coming quarters.",
+        "sentiment": {
+            "TextBlob": 0.1672727272727273,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8074132800102234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-06-23T08:25:33Z",
+        "content": "$TATASTEEL.NSE Intraday: \n \nThe price is below Vwap and the recent high of 841 intraday. Interestingly the VWAP is also hovering around the same level. Can move up quickly if it crosses 841 with volumes.",
+        "sentiment": {
+            "TextBlob": 0.19866666666666669,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9515420198440552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-06-23T07:52:36Z",
+        "content": "$HDFC.NSE Continuous lower high in formation. The structure looks weak. The relative strength has also turned negative, avoiding this for longs right now. Bearish",
+        "sentiment": {
+            "TextBlob": -0.04585714285714286,
+            "NLTK": -0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996159076690674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-27T08:14:41Z",
+        "content": "$RELIANCE.NSE on the fundamental side, it is highly interesting to see the retail division. \n \nIn the last quarter, it acquired Clovia, AK-OK, Abraham & Thakore, Abu Jani Sandeep Khosla & formed a Joint venture for a new brand. \n \nCan they challenge the well-established name?",
+        "sentiment": {
+            "TextBlob": 0.21212121212121213,
+            "NLTK": 0.5095,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985045194625854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-25T08:40:14Z",
+        "content": "$IRCTC.NSE The stock price is dropping continuously from 850 levels to 650 now. \n\nI can\u2019t get a single ticket for travels via train all seem to be already booked. Where is all this revenue going? Shows high sales but are margins low?",
+        "sentiment": {
+            "TextBlob": 0.029523809523809525,
+            "NLTK": -0.4606,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981966614723206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-20T09:46:47Z",
+        "content": "$IDEA.NSE I will still wait outside and not enter this! Downtrend likely to continue. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985604882240295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-20T09:45:39Z",
+        "content": "$SBIN.NSE taking support at around 425 levels and is up 3% today. If $NIFTYBANK.NSE has to go up this power house needs to fire ! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922745823860168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-16T05:14:03Z",
+        "content": "Apart from the cement deal, $ADANIENT.NSE has now also acquired  49% stake in Quint Media.  \n \nNarrative and Distribution is important, all biggies either now own a media company, press, or social media :P",
+        "sentiment": {
+            "TextBlob": 0.44583333333333336,
+            "NLTK": 0.6037,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964601397514343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-12T12:59:03Z",
+        "content": "$VEDL.NSE The promoter seems to be very bullish on the company sentiment but let\u2019s not forget the issues that have troubled this company in the past !",
+        "sentiment": {
+            "TextBlob": -0.2041666666666667,
+            "NLTK": -0.5095,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872890710830688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-12T10:15:35Z",
+        "content": "$HDFC.NSE At make or break level. Looks like its going to break 2100 and way down to 2053 at least. Bearish",
+        "sentiment": {
+            "TextBlob": -0.2277777777777778,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953422546386719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-10T08:06:30Z",
+        "content": "So $PAYTM.NSE is working heavily on rebranding itself from a \u201cWallet\u201d to \u201cUPI\u201d app. Interesting change on the logo here.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980107307434082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-10T06:27:07Z",
+        "content": "Though $TCS.NSE is down 7% over the last month. Let\u2019s not forget that it\u2019s still 10% up for the year. \n\nZooming out and seeing the bigger picture. Quality stock to add on for long term (say 2-3 years).",
+        "sentiment": {
+            "TextBlob": -0.0513888888888889,
+            "NLTK": 0.1695,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844245910644531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-10T06:24:31Z",
+        "content": "$TATAMOTORS.NSE The down trend still looks intact, if it manages to hold 400 levels it could he forming a higher low. If that happens it can be a good buy at 400 levels.",
+        "sentiment": {
+            "TextBlob": 0.1986111111111111,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5194461345672607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-05T11:44:45Z",
+        "content": "$RELCAPITAL.NSE Good to buy Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960004687309265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-05-04T08:51:01Z",
+        "content": "$TCS.NSE I see a double top at 4000 level and 3400 as the support. If 3400 goes away time to exit asap. \ud83d\udd3b",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984336495399475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-25T11:04:28Z",
+        "content": "$COALINDIA.NSE If you did into the share holding patterns. Banks have been constantly selling this stock QoQ. Anything we don't know?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975466132164001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-25T10:51:00Z",
+        "content": "$VEDL.NSE Heard they are gonna make semiconductor chips in India along with Foxconn.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9694110155105591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-25T10:48:42Z",
+        "content": "$HDFC.NSE Hovering around the 52 week low levels, value pick?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983524084091187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-25T10:45:42Z",
+        "content": "$YESBANK.NSE I see this going down till 12.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959450364112854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-25T10:43:47Z",
+        "content": "$TATAPOWER.NSE Interesting zone to watch out. It's back to the breakout zone. Can this act as a retest?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9288802742958069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-21T12:55:54Z",
+        "content": "$AXISBANK.NSE Can we break the channel and have a huge up move? I feel yes!",
+        "sentiment": {
+            "TextBlob": 0.5000000000000001,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9533343315124512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-21T12:51:15Z",
+        "content": "$TATASTEEL.NSE around 45% QoQ growth in sales and trading near 52 week high. Highly bullish on this. Bullish",
+        "sentiment": {
+            "TextBlob": 0.14,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987723231315613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-21T12:45:46Z",
+        "content": "$NYKAA.NSE Wedding season coming up, that should be a huge boost for the top line. And if we cross 2000, I see more upside.",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9870611429214478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-21T12:20:31Z",
+        "content": "$PAYTM.NSE Can we see a cup and handle being formed here? Looks interesting !",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9823733568191528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-21T10:30:29Z",
+        "content": "$RELIANCE.NSE 15% up from the last said levels and still looking strong. It has shown great strength and continues to outperform the benchmark $NIFTY50.NSE.  \n \nStrong news flow of deals, lower traffic on Jio, etc supporting it fundamentally.  \n \nTechnically it has made an ATH with high volumes and looks to touch 3000 soon.",
+        "sentiment": {
+            "TextBlob": 0.2966666666666667,
+            "NLTK": 0.9393,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994022846221924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-20T09:37:10Z",
+        "content": "Super interesting to pick brains. Do shoot in your questions. \n\n$NIFTY50.NSE",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9282867312431335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-20T08:18:41Z",
+        "content": "$TATAMOTORS.NSE Looks good only if it crosses 500 on day closing basis. Wait and watch game for now !",
+        "sentiment": {
+            "TextBlob": 0.06666666666666665,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9422705769538879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-20T03:19:20Z",
+        "content": "$HDFCBANK.NSE \n\nNet Interest Margin: \nMarch 2022 - 4.20% \nDecember 2021 - 4.10%\n\nMargins have improved tho \ud83e\udd79",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.944513201713562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-13T15:06:40Z",
+        "content": "Though $RELIANCE.NSE has corrected a lot, I still feel this is a good bet for coming days. The underlying fundamental remains the same and it\u2019s super bullish. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3444444444444444,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9474095702171326
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-07T10:30:36Z",
+        "content": "@KartikeyG0777 haha seems like all the good value creation is off the table and priced in now $HDFCBANK.NSE",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.8979,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948430061340332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-07T05:15:59Z",
+        "content": "@chndr_prksh yah seems like it. But I'm bullish on $NIFTYPSUBANK.NSE and have positions there.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988206028938293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-04T06:34:17Z",
+        "content": "Fintech on being asked how they're going to turn profitable and tackle #hdfcmerger \ud83d\ude02 \n \n$HDFC.NSE $HDFCBANK.NSE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966799020767212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-04-02T05:47:26Z",
+        "content": "$IDEA.NSE looks good for a reversal?  \n \n$RELIANCE.NSE $BHARTIARTL.NSE",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994682669639587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-27T10:43:18Z",
+        "content": "$RELIANCE.NSE I was bullish at 2400 i'm still bullish for an ATH. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995593428611755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-25T10:16:32Z",
+        "content": "$IDEA.NSE What do you guys think? I see a reversal happening soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991649389266968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-24T10:43:50Z",
+        "content": "$TATAMOTORS.NSE looks a rebound is about to happen, attractive! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.907122015953064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-23T15:59:44Z",
+        "content": "$RELIANCE.NSE looks lovely for an ATH. \ud83e\udd1e\ud83c\udffb Still holding onto them.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9854254722595215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-17T13:17:45Z",
+        "content": "$PAYTM.NSE going to 450?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938896894454956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-17T09:31:45Z",
+        "content": "Ahaan so the the elephant did move and look at the positive trend here on !  \n \n$RELIANCE.NSE",
+        "sentiment": {
+            "TextBlob": 0.28409090909090906,
+            "NLTK": 0.5983,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6815569996833801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-17T09:30:14Z",
+        "content": "$NIFTYBANK.NSE What is happening? Such a boring day !",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994833469390869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-03-14T08:27:07Z",
+        "content": "Waiting for the elephant to move. $RELIANCE.NSE  \n \nThe moment it breaks 2400, it will help lift up $NIFTY50.NSE also imo and that is when we can see an uptrend \ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9467089176177979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-02-09T10:15:30Z",
+        "content": "$TATAMOTORS.NSE very attractively priced",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5413,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993552565574646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-01-14T10:54:11Z",
+        "content": "$TATAMOTORS.NSE Hey the stock looks good to buy right now! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5285714285714285,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8739880323410034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-01-12T11:05:11Z",
+        "content": "$TCS.NSE Very strong numbers by other IT companies, I'm specifically bullish on $TCS.NSE .  The charts seem to indicate a ATH after results, a gap up and zoom may be \ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.21916666666666668,
+            "NLTK": 0.5563,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984082579612732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2022-01-05T06:05:58Z",
+        "content": "I\u2019d say my girlfriend is even not liking the obsession I\u2019ve with $ITC.NSE \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988328814506531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-12-23T19:40:26Z",
+        "content": "$MEDPLUS.NSE Medplus Health shares make a strong debut, list at over 30% premium over IPO price. \n\nSo 30% is strong now? I was wonder anything below 100% is a weak.\n\nRead more at:\neconomictimes.indiatimes.co...",
+        "sentiment": {
+            "TextBlob": 0.24791666666666665,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9230515956878662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-12-20T07:25:23Z",
+        "content": "Apparently simple things work! $NIFTY50.NSE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9136123061180115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-12-16T08:30:34Z",
+        "content": "I'm sensing a collapse here in $NIFTY50.NSE Just a matter of time imo.  Immediate targets around 17000 levels. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993815422058105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-12-06T09:50:26Z",
+        "content": "The bull in me right now: $NIFTY50.NSE $NIFTYBANK.NSE",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930792450904846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-12-03T09:30:59Z",
+        "content": "Exiting all positions, unless $NIFTY50.NSE gets back in the channel. Time to sit on the sidelines imo for sometime now. Markets have been kind for last 1.5 years \ud83d\ude4f\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969095587730408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-30T17:52:09Z",
+        "content": "$GOCOLORS.NSE If it\u2019s Go Fashion why is the ticker Go Colors. \ud83e\udd14\n\nAnyways all\u2019s good till it double our money!",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.997902512550354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-29T14:12:38Z",
+        "content": "$COINDCX.P if this happens anytime soon, they will be the first crypto startup to list in India. Exciting times ahead!\n\neconomictimes.indiatimes.co...",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.5411,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996343851089478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-29T06:03:01Z",
+        "content": "$RELIANCE.NSE seems to be leading the pack for now and I sense that it will continue to do so for the coming month.\n\nMota Bhai to the moon \ud83d\ude80 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5595040321350098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-24T12:03:07Z",
+        "content": "$NOBROKER.P Another one becomes a unicorn\ud83e\udd84  Reality sector boom. \n\n$NIFTYREALTY.NSE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914975762367249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-18T06:48:12Z",
+        "content": "@SonaleeTayde Thats a super pick, what was the rational to pick this? Anything apart from the the corporate action of Kubota to raise stake in $ESCORTS.NSE ?",
+        "sentiment": {
+            "TextBlob": 0.14444444444444446,
+            "NLTK": 0.644,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998496413230896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-16T06:09:00Z",
+        "content": "$SIGACHI.NSE After closing yesterday at 270% higher than the offer price. It's up again 5% today \ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8724961280822754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-16T06:03:59Z",
+        "content": "$SJS.NSE After a flat debut, can SJS Enterprises spring a surprise?\n\neconomictimes.indiatimes.co...",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9625718593597412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-15T17:19:16Z",
+        "content": "$PAYTM.P Allotments are out! \n\nI feel everyone will get allotments here. \n\nCheck here: linkintime.co.in/MIPO/Ipoal...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9569724202156067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-15T10:05:15Z",
+        "content": "$TARSONS.P  The retails subscription is already full! Where's all this money coming from I wonder? \n\nTarsons Products IPO subscribed 53% on Day 1 so far; retail portion fully booked\n\nRead more at:\neconomictimes.indiatimes.co...",
+        "sentiment": {
+            "TextBlob": 0.3458333333333334,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980853796005249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-15T10:03:52Z",
+        "content": "$FINOPB.NSE \u200bFino Payments Bank lists at a discount of over 5%\n\nRead more at:\neconomictimes.indiatimes.co...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932113885879517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-09T11:17:18Z",
+        "content": "So $NYKAA.P lists on Wednesday, kin kin ko mila allotment?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981302618980408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-09T10:14:36Z",
+        "content": "$PAYTM.P nice watch on the IPO ! The biggest and most talked about IPO is here !",
+        "sentiment": {
+            "TextBlob": 0.6875,
+            "NLTK": 0.5242,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9744197130203247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-08T07:07:34Z",
+        "content": "Nice read on $PAYTM.P IPO here. @mehrotra_saket @anoshmodyy @onlyequities @Sandeep_Majjigi @StockGurukul are you guys applying to it?",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919788837432861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-03T11:42:48Z",
+        "content": "Underdogs here but I'm liking how $LEMONTREE.NSE is playing out the unlocking theme. \n\nThe stock was consolidating within the range of 32 to 47 for almost a year before breaking out, it has gained momentum in the last few days after the breakout. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.8462,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9781844019889832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-03T11:27:40Z",
+        "content": "$SBIN.NSE Results are out! \n\nNet Profit \u20b98889.84 crore Vs \u20b95245.88 crore yoy. \nGross NPA at 4.90% Vs 5.32% qoq\nNet NPA at 1.52% Vs 1.77% qoq\n\nSolid results IMO, also the charts look good with ATH closing.",
+        "sentiment": {
+            "TextBlob": 0.13999999999999999,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9894278645515442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-03T11:23:54Z",
+        "content": "$ABFRL.NSE nice results by the company for the last quarter. With festivals last month and now I feel the next quarter will also be good for them. \n\nAlso keep an eye on $ARVIND.NSE the fabric manufacturers.\n\n$NIFTY50.NSE Bullish",
+        "sentiment": {
+            "TextBlob": 0.25999999999999995,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.984162449836731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-03T10:55:05Z",
+        "content": "@Yash_Upadhyaya @anoshmodyy Agreed looks good at long term support, but my only concern is lack of momentum in the price. Probably the earnings can be that trigger to decide the direction. $GRANULES.NSE",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981297850608826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-02T09:54:40Z",
+        "content": "$PARAGMILK.NSE September 2021 (quarterly) PAT at Rs 23 crore vs Rs 16 crore YoY. Income at Rs 532 crore vs Rs 498 crore YoY.  \n\nOne such underrated stock that I've kept an eye on after being introduced to it by @ragz2309 . Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985416829586029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-11-02T09:51:11Z",
+        "content": "$BANKINDIA.NSE  September 2021 (quarterly) PAT at Rs 1,051 crore vs Rs 526 crore YoY. GNPA at 12% vs 13.51% QoQ; NNPA at 2.79% vs 3.35% QoQ. \n\n$NIFTYPSUBANK.NSE have been in flavour and this results kind off adds fuel to it !",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9667282104492188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-10-06T07:50:34Z",
+        "content": "$ITC.NSE Ah! after a neat breakout with volume it's again testing the 230 levels. Important to watch at these levels if it hold or breaks down.",
+        "sentiment": {
+            "TextBlob": 0.12222222222222222,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9395411610603333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-09-17T13:54:49Z",
+        "content": "@mpurohit $MSTCLTD.NSE is now live. Welcome to Stocktwits!",
+        "sentiment": {
+            "TextBlob": 0.5681818181818181,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6183547377586365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-09-07T12:22:25Z",
+        "content": "@Harsh0 sure, we\u2019ll definitely request them to take up $IRCTC.NSE in the next week episode.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956054091453552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-09-06T10:14:24Z",
+        "content": "@Sarthb as requested, $KOLTEPATIL.NSE and $ARVSMART.NSE both tickers are now live. \n\nLooking forward to your trade ideas on them.",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965847730636597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-08-31T18:07:54Z",
+        "content": "@skanddutt @Aman009 @curious_candlestick Totally agree to @vadistar technically it looks like a flag pattern with some cooling off happening after the long run up. \ud83d\ude80\n\nFundamentally the 3rd largest by mcap for iron and steel industry with a PE pf around 5.5 (which imo is cheap bargain) I\u2019d be bullish for long term on $SAIL. Bullish",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.6478,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891784191131592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-08-30T09:10:05Z",
+        "content": "@Onkash haha reading $MOTILALOFS.NSE in your post reminds me of @TraderHarneet idea on it.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9772548675537109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-08-30T06:30:30Z",
+        "content": "@anoshmodyy good one!! The entire chemical sector looks trending $BALAMINES.NSE $ALKYLAMINE.NSE also gaining traction. But $DEEPAKNTR.NSE looks the best chart wise.",
+        "sentiment": {
+            "TextBlob": 0.675,
+            "NLTK": 0.937,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9960005879402161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-08-27T06:19:46Z",
+        "content": "@fireinthebel Welcome to Stocktwits! \n\nLet\u2019s get you started by adding some stocks to your watch list, I\u2019d suggest $RELIANCE.NSE .",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880179166793823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-08-27T06:18:34Z",
+        "content": "@namanrastogi Hey Naman! Welcome to Stocktwits. \n\nWhat if i asked you to pick one? $YESBANK.NSE or $IDEA.NSE what would you choose ?",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.565,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941919445991516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-08-27T06:16:28Z",
+        "content": "@qweasdz1 Welcome ! So why don\u2019t we start by sharing the stock we like? $TATAMOTORS.NSE is mine!!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8472,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9151057600975037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Sakshamikshansh",
+        "timestamp": "2021-08-13T07:59:23Z",
+        "content": "$TATAMOTORS.NSE my trade idea for the week @StocktwitsIndia Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985637068748474
+            }
+        },
+        "image_url": ""
+    }
+]

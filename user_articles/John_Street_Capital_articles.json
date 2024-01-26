@@ -1,0 +1,254 @@
+[
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2021-02-04T15:17:36Z",
+        "content": "$PYPL CEO \"A digital-first world is no longer our future. It's our current reality & it will forever change the way we interact across almost all elements of our lives... The pandemic has accelerated a digital wave of change across almost every industry by 3-5 years. Today's digital reality is rapidly accelerating the need for a digital wallet that encompasses payments, financial services & shopping. This year, our digital wallet will change more than it has ever changed before, significantly increasing its functionality within a single, integrated and beautifully designed app, that should meaningfully increase consumer engagement.\"",
+        "sentiment": {
+            "TextBlob": 0.17946428571428572,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995766282081604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-08-07T18:11:12Z",
+        "content": "Always an interesting day when land stocks like $AMC $PENN $DIN $SIX $CAKE $FUN $DRI +2.5-12% while Cloud stocks all down big after earnings $DDOG $DBX $CRWD $RNG $DOCU $OKTA $TWLO (5-15%)",
+        "sentiment": {
+            "TextBlob": 0.16111111111111112,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982502818107605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-07-28T13:24:24Z",
+        "content": "Yesterday $BTC.X had it's highest \"close\"  & intraday high since 8/12/19 when it hit $11,530 & closed $11,382. CoinMetrics allows people to track \"realized value\" which we view as theoretical cost basis of BTC outstanding (e.g., price at last movement) which is $5,900.18 last. This is notable for a # of reasons. The $5,900 \"cost basis\" is the highest all time. Last time $BTC traded at these levels it was ~$5,500 so trading at a ~100% premium (more incentive for profit taking) vs. ~85% premium last (still top 35% of all observed periods) Bullish",
+        "sentiment": {
+            "TextBlob": 0.18727272727272729,
+            "NLTK": 0.9118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.742721438407898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-07-27T18:00:45Z",
+        "content": "$BTC.X +10.9% from yesterday's UTC close the biggest 1D move since 4/29 when it was +12.7% and the 14th largest single day move back to 2017. This in the top 3% of all 1D moves dating back to 2011. BTC hasn't traded >$10,500 intraday since Sept of '19 (9/3-9/8/19) and has only closed above that level 117 days in history (31 days in Dec '17, 41 days in 1Q18, 45 days in 2Q-3Q19). All of this is happening as Gold breaks out to ATH (in nominal $$ not inflation adjusted). $10.5K has been a big level; representing a series of lower highs since the BTC ATH in Dec '17. All of this as Mnuchin talks about another $1.0 trillion + in stimulus with $1,200 stimulus checks looking to be sent out \"in August.\" Bullish",
+        "sentiment": {
+            "TextBlob": 0.04107142857142858,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977278113365173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-07-26T17:33:42Z",
+        "content": "We wrote about $BTC.X last month highlighting the constructive macro backdrop for both it and gold & some of the idiosyncratic drivers of BTC itself. It's up ~10% since that time testing the $10K level once again. This all comes as Gold breaks out to ATH passing the 2011 peak; with Silver also moving. The $BTC.X onramp / off-ramps are different this time with institutional access & acceptance significantly different than just 3 years ago. medium.com/@John_Street_Cap... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5321769714355469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-07-23T16:42:33Z",
+        "content": "We published our latest piece on SPAC's including $PSTH $CLOV $ALIT and how we think all FinTech companies are in play including Coinbase, Robinhood, Marqeta, SoFi, and even Stripe. @howardlindzon medium.com/@John_Street_Cap... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900500774383545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-07-13T12:11:21Z",
+        "content": "The deal is now on the tape with $FSR announcing the deal for $2.9bn and trading up to $>19.50 pre-mkt with warrants >$6.00 vs. $12.50 / $2.75 when we posted 3 days ago.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986286163330078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-07-09T17:51:54Z",
+        "content": "SPAC's continue to be all the rage and now $FSR rumored to be buying Fisker another EV car play. Given $TSLA & $NKLA performance YTD with the SPAC meme I like it alongside the warrants for a short-term trade into deal announcement. SPAC + EV  = convergence of the memes reuters.com/article/us-spar... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949396848678589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-07-06T16:55:00Z",
+        "content": "0/ $SQ is +11% today, and is now +101.4% YTD. This compares to $TWTR.P +1.8% YTD; even with Elliott Management declaring a $1.0bn+ stake (and buying it). Since  Jack came back as CEO ~5 years ago TWTR is -7.7% vs. $QQQ +151%, $SPX +53% and peers +111% on average. Compare that to $SQ which is +867% since Day 1 of the IPO close in Nov '15 and has outperformed payment peers by ~679% over that time period. $SQ market cap is now $55.0bn compared to $TWTR.P at $25.5bn. Now is the time for Jack to look to use the strong $SQ currency for a stock-for-stock combo b/w $TWTR.P & $SQ to create a \"Super-App\" of the West like we wrote about ~7 months ago. It's significantly more accretive today due to the relative performance medium.com/@John_Street_Cap... Bullish",
+        "sentiment": {
+            "TextBlob": 0.10972222222222222,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929920434951782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-06-30T21:07:20Z",
+        "content": "Our latest post on $BTC medium.com/@John_Street_Cap...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939162135124207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-17T20:49:20Z",
+        "content": "$SPX $SPY is nothing but volatile. From 2/24 until today there's been 17 trading days with 9 Bottom 1% moves all time in $SPX and 5 Top 1% moves all time or ~82.4% of trading days...that's not supposed to happen.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977089166641235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-17T16:19:17Z",
+        "content": "Thin we need to launch the \"COVID\" ETF with $PTON $ZM $GILD $MRNA $ATVI $COST $CL $CPB $WMT etc....",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995179176330566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-17T14:43:59Z",
+        "content": "$MSGE is trading at a $3.7bn enterprise value which is ~$1.0bn less than Forbes valued the Knicks at alone. MSG consists of the Knicks, Rangers, The Garden, La Forum, The Christmas Spectacular, a 62.5% stake in the Tao Group and ~$450mn of air rights. It's trading at a ~40%+ discount to NAV on the brink of a spin to highlight that discount by seperating the sports assets from the entertainment assets which should close that NAV discount. We published our SOTP here: medium.com/@John_Street_Cap...",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.8637,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993413507938385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-17T14:23:02Z",
+        "content": "$TWTR.P is back to levels not seen since Dec '17 despite the fact that Elliott bought a ~4% stake & Silver Lake put $1.0bn into the company in the past 2 weeks while getting 3 BoD seats. Silver Lakes convert has an exercise price of $41.50 or 76% higher from current levels. Collectively they'd take it private at levels much lower than this. Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998760461807251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-17T12:10:12Z",
+        "content": "The $SPX has had bottom ~1% trailing 10-90D performance. Looking at forward performance post those periods of historical underperformance paints a mixed 10-90D picture but a very constructive forward 360D picture with near 100% positivity.",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9868669509887695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-16T21:32:04Z",
+        "content": "The Dow (-12.9%) & $SPX (-11.98%) had their second worst trading days ever today behind only Black Monday.",
+        "sentiment": {
+            "TextBlob": -0.31333333333333335,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996793270111084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-16T19:36:04Z",
+        "content": "Equity market microstructure has changed given the move to passive & quant. If the $SPX were to close at current levels it would be the 3rd worst close since 1956 putting trailing 1D, 3D, 5D, 10D, 20D, 30D, and 60D all in bottom ~1% of observed periods.",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994927644729614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "John_Street_Capital",
+        "timestamp": "2020-03-16T19:31:05Z",
+        "content": "Equity market microstructure has changed given the move to passive & quant. If the $SPX were to close at current levels it would be the 3rd worst close since 1956 putting trailing 1D, 3D, 5D, 10D, 20D, 30D, and 60D all in bottom ~1% of observed periods. Dating back to 2/24  we've had 16 trading days during which the SPX has exhibited bottom 1% performance 9x and top 1% performance 4x or ~81.2% of trading days. The last time the market exhibited clusters of this type of performance was September of 2008. Starting on 9/4/08 until 4/20/09 there were 158 trading days with 35 bottom 1% days & 28 top 1% days or ~40% of days. Prior to that was '01-'02 during a 72 trading days from 7/5-10/15/02 we saw 11 bottom 1% days and 10 top 1% days or ~29% of observed periods. We would expect moves to be even more exacerbated this time around vs. historical precedents given that new microstructure or increased passive and increased quant obfuscating price discovery in periods of volatility.",
+        "sentiment": {
+            "TextBlob": 0.08741258741258741,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986043572425842
+            }
+        },
+        "image_url": ""
+    }
+]

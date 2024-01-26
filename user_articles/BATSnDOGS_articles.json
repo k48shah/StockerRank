@@ -1,0 +1,604 @@
+[
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-03-17T20:33:25Z",
+        "content": "$SPY $QQQ $BTC J pow pow saves the day again Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966768026351929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-03-04T20:10:47Z",
+        "content": "@Cryptoklepto could be more pain to come 25-26 I\u2019ll be adding some more $BTC.X will hit 60k this year and Mara will be above 50",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": -0.5563,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6231383085250854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-03-04T19:59:51Z",
+        "content": "$MARA ma touch and go may be bottom for now added some",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973069429397583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-01-29T13:34:39Z",
+        "content": "@TheDarkerStranger everyone\u2019s leaving Robinhood after that bullshit yesterday $HOOD slow death now Portnoy wants blood",
+        "sentiment": {
+            "TextBlob": -0.05000000000000002,
+            "NLTK": -0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996921718120575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-01-29T13:31:56Z",
+        "content": "$BTC.X $MARA $RIOT wave bye to the haters \ud83d\udc4b #DeFi",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879583120346069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-01-29T13:25:25Z",
+        "content": "$SLV let\u2019s goo!!!\n\nyoutube.com/watch?v=uSD4vsh...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985677003860474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-01-28T21:17:14Z",
+        "content": "$AMC $GME $HOOD repeat after me, the free market is dead! Hypocrisy at its finest",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": -0.3164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946501851081848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-01-28T18:44:28Z",
+        "content": "$HOOD fuk y\u2019all",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913917779922485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-01-28T18:26:21Z",
+        "content": "$BTC.X $MARA $RIOT the only place to be now #DeFi Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959365129470825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2021-01-28T14:35:32Z",
+        "content": "$SLV youtube.com/watch?v=xk8mm1Q...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938046932220459
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-08-06T14:07:31Z",
+        "content": "$MARA lets gooooo!!! Sell covered calls on the morning pop but then back half price in 30 mins too damn easy",
+        "sentiment": {
+            "TextBlob": 0.0888888888888889,
+            "NLTK": 0.2905,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988429546356201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-07-29T15:17:52Z",
+        "content": "@coasterp @corruptmarket o that must be it, rh traders are moving sp on a company with $100b market cap, I hear $NKLA also has a huge \u201cbacklog\u201d",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978262782096863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-07-29T14:45:20Z",
+        "content": "$KODK what r yall gonna do when they have to go back to selling film and printers? Those $50 bags gonna be real heavy",
+        "sentiment": {
+            "TextBlob": -0.15000000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993670582771301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-07-09T14:15:47Z",
+        "content": "@GregRieben these are old dying banks, $SQ and $PYPL leading the way to the future",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778083562850952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-07-09T13:42:39Z",
+        "content": "$SQ what downgrade??? F cowen!!! 150 next",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993159770965576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-07-09T13:03:42Z",
+        "content": "$SQ cowen downgraded to steal shares, this is the new generation of banking, they need to downgrade the traditional and soon to be extinct dinosaur banks gs jpm bac c",
+        "sentiment": {
+            "TextBlob": -0.08787878787878789,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888787269592285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-07-01T14:58:19Z",
+        "content": "@commonking new banks strong $SQ $PYPL",
+        "sentiment": {
+            "TextBlob": 0.2848484848484848,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5547662973403931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-06-26T14:48:51Z",
+        "content": "$RLMD 44 was a gift",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9704969525337219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-06-25T17:41:46Z",
+        "content": "$ACTT this is now $free, @TCTRANFO can we get an update when possible?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999189555644989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-06-25T17:24:54Z",
+        "content": "$SDGR ATH! So many people sleeping on this one",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969161748886108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-06-25T13:39:09Z",
+        "content": "$GNC another bankruptcy rally here? What a time to be alive",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961045980453491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-06-19T12:45:40Z",
+        "content": "$WORK Goldman is trying to fleece the sheep as usual here, this company is the sole service provider for Amazon, meaning it\u2019s a better product than anything they have made or could have made in house. Work from home isn\u2019t going anywhere, if anything it\u2019ll become more common, only real competition is msft, and people only use teams because they have to, slack is preferred.",
+        "sentiment": {
+            "TextBlob": 0.08125,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880717992782593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-06-02T18:14:59Z",
+        "content": "$CVNA has anyone actually bought a car from this company??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994636178016663
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-23T02:33:46Z",
+        "content": "$HTZGQ uncle Carl played y\u2019all",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.968525230884552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-21T13:48:34Z",
+        "content": "@Ro_Patel so they charge residential customers almost 50% more per kWh vs business? My quick calculation was $.21 for business and .31 for residential. And they\u2019re expecting reduction in usage from business and increase from residential? Correct me if I\u2019m wrong but that sounds like quite a bullish catalyst.",
+        "sentiment": {
+            "TextBlob": 0.11111111111111109,
+            "NLTK": 0.4956,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939080476760864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-20T17:06:07Z",
+        "content": "@howardlindzon the $BABA board is full of people talking about delisting but can\u2019t find any sources yet",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989948868751526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-20T14:20:05Z",
+        "content": "$RMBL what happened here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988048076629639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-18T19:04:56Z",
+        "content": "@JoeStockTrader $HD as well here in nj I pass 2 on my way home both have been packed for weeks lines out the door",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.954438328742981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-15T15:09:30Z",
+        "content": "@TraceBusta curious how your positioning for the silver long, through options, $SLV shares or physical? Thanks",
+        "sentiment": {
+            "TextBlob": 0.012499999999999997,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5385987162590027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-14T14:17:08Z",
+        "content": "@corruptmarket check $GOLD too all the metals ripping today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986273050308228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-14T00:03:23Z",
+        "content": "@MomoPLLC check volume on $TVIX too, both highest they\u2019ve been since March",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8553307056427002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-12T16:04:37Z",
+        "content": "@stockmonger @PeteinSD meanwhile over at $TSLA ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981223940849304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-11T11:38:01Z",
+        "content": "$AMC @KansasCash wake up!!! Your dream has come true!",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.7156,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999588668346405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-08T14:00:45Z",
+        "content": "$HTZGQ all those $2 and $3 puts worthless! Sell premium instead of buying it!!",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.5826,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999716579914093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-05T15:37:10Z",
+        "content": "$HTZGQ u clowns could have sold the $3 puts for .8 yesterday and bought them back for .4 today but your too busy gambling",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995717406272888
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-05-05T13:26:11Z",
+        "content": "$HTZGQ who got played by the same wsj writer? Come on u think banks are letting anyone go bankrupt in this environment?? They need that money repaid nobody wants to get stuck with 500k used cars",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.5775,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987595081329346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-04-27T16:31:11Z",
+        "content": "@Trading4Living thoughts on $NLS ? Also had a crazy run from the bottom but seems to have decent catalyst with everyone exercising from home ditching the gym. Thanks",
+        "sentiment": {
+            "TextBlob": -0.07777777777777778,
+            "NLTK": 0.4854,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9922803640365601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-04-17T13:21:16Z",
+        "content": "@OldFngGuy are u saying selling options against 100 shares of $SPY can net me $1200 weekly? I\u2019ve seen u talk about being delta neutral, does that require at least 200 shares? I\u2019ve been practicing selling puts on low cost shares $AMC for example just to get a feel for it and it\u2019s been returning about 1% a week but with 3/week exp on spy seems more lucrative. What sort of weekly % returns would I expect to see selling options against spy shares? Obviously more in times like this with volatility so high, but on average what kind of returns could I expect?",
+        "sentiment": {
+            "TextBlob": 0.16375,
+            "NLTK": 0.8643,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930692911148071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-04-02T12:49:13Z",
+        "content": "$LKNCY so fraud wasn\u2019t priced in here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.624,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979678988456726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-04-01T13:23:02Z",
+        "content": "@howardlindzon maybe they buy a lagger rather than a leader like $NLS or $ICLR start creating their own fitness content and crush $PTON, like others have mentioned I think the current price point is a deciding factor for many and will continue to be. My wife has been begging for a pton but now looking at the pro form carbon cx, same as pton only u provide the screen, free sub for a year and much cheaper sub price after that. We can afford either, but with so much uncertainty ahead, y not go with the lower cost option. And by lower cost the machine is $500 shipped and sub is $180 a year after the first year free. Lots of competition coming in this space no moat besides brand recognition",
+        "sentiment": {
+            "TextBlob": 0.255,
+            "NLTK": 0.3253,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959121942520142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-03-28T00:04:02Z",
+        "content": "@jackdamn do u have this for $NFLX ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982665181159973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-03-18T12:11:19Z",
+        "content": "$SPY can someone explain the difference between repo and pdcf, they seem like very similar operations, any help is much appreciated",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868293404579163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BATSnDOGS",
+        "timestamp": "2020-02-20T15:19:41Z",
+        "content": "$SPCE but but but...stocks can\u2019t go up forever ha Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99577796459198
+            }
+        },
+        "image_url": ""
+    }
+]

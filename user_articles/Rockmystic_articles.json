@@ -1,0 +1,1962 @@
+[
+    {
+        "username": "Rockmystic",
+        "timestamp": "2019-01-04T00:53:55Z",
+        "content": "@Rockmystic\n$GSAT $CRMD long positions\n Puts : $VXX $CELG Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982207417488098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2018-10-29T19:25:27Z",
+        "content": "$EYEG in 7832 at .3125 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983028173446655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2018-10-29T19:22:52Z",
+        "content": "$MTNB 8792 shares at 0.717 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960302710533142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-28T14:44:53Z",
+        "content": "$CEI .32 here id love some gains",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952423572540283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-27T13:58:49Z",
+        "content": "$CAPR boom?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886592626571655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-20T20:00:49Z",
+        "content": "$OPGN if my grandma had nuts shed be my grandpa",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996159553527832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-20T19:57:10Z",
+        "content": "$OPGN tick tock",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918919801712036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-20T17:58:55Z",
+        "content": "$OPGN why the fudge would they try to mislead people with fake news?",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988635778427124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-20T17:37:33Z",
+        "content": "$OPGN poised to continue uptrend Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983090162277222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-20T16:02:24Z",
+        "content": "$CEI in again at .32 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988003969192505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-07-19T15:08:00Z",
+        "content": "$CEI finance.yahoo.com/m/e50964f... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988566637039185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-21T19:55:37Z",
+        "content": "$DCTH usual shake up of retail... Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980329871177673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-21T19:54:41Z",
+        "content": "$DCTH might get biggest pop last 10 min of AH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982606768608093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-21T19:40:54Z",
+        "content": "$DCTH pretty confident that was a nice bear trap, smart ones covered Bullish",
+        "sentiment": {
+            "TextBlob": 0.39107142857142857,
+            "NLTK": 0.8625,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8764739632606506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-21T19:34:13Z",
+        "content": "$DCTH =) hold Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973796606063843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-21T19:29:09Z",
+        "content": "$DCTH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984809756278992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-21T18:54:53Z",
+        "content": "$DCTH Celebrate close above .30 AH above .35 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9300598502159119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-12T15:26:09Z",
+        "content": "$DCTH cnafinance.com/delcath-syst... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987512826919556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-12T13:44:55Z",
+        "content": "$DCTH might have been todays buying opp... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985880255699158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-09T17:34:48Z",
+        "content": "$DCTH LOL that tickled Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888833165168762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-09T16:27:50Z",
+        "content": "$DCTH this board is streaming on the big screen at the office... priceless entertainment, love you new longs lets make $$$ Bullish",
+        "sentiment": {
+            "TextBlob": 0.40909090909090906,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9809989333152771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-09T16:26:31Z",
+        "content": "$DCTH bear trap lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996310293674469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-09T16:25:38Z",
+        "content": "$DCTH brace last chance to get in, heres a GIFT dip Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6841,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937198162078857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-09T16:09:48Z",
+        "content": "$DCTH broke .8 resist with volume, + new buyers strengthening .08 turning to support... NEXT RUN COUTNDOWN 21min Bullish",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9692016839981079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-09T15:00:04Z",
+        "content": "$DCTH im not easily impressed... but wow, if this hits 1$ i will get a DCTH tattoo",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.689,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8768208026885986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-08T19:21:13Z",
+        "content": "$DCTH fireworks Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988707900047302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-08T19:08:59Z",
+        "content": "$DCTH its a new article, same crap... helping shorts cover",
+        "sentiment": {
+            "TextBlob": -0.22121212121212122,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996389150619507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-06-08T18:58:24Z",
+        "content": "$DCTH gamble gamble 100k shares .042 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965922236442566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-05-30T20:00:45Z",
+        "content": "$NVAX some folks just got robbed of their shares..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996675252914429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-05-15T23:07:54Z",
+        "content": "$NVAX this ticker is a GEM Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8515601754188538
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-05-15T19:55:50Z",
+        "content": "$NVAX i likey Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982552170753479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-04-06T18:57:42Z",
+        "content": "$XELB probably will be a bumpy ride, but a ride up further none the less Bullish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6534395813941956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-04-06T18:49:42Z",
+        "content": "$XELB \u2667\u2662\u2661\u2664 GAMBLE GAMBLE ALL IN \u2664\u2661\u2662\u2667 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957055449485779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-04-04T14:02:34Z",
+        "content": "$ATXS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984083771705627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-29T13:56:44Z",
+        "content": "$ATXS \u2664\u2661\u2662\u2667 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998482882976532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-16T13:53:47Z",
+        "content": "$RTK in, calling $2 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995124340057373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-15T14:30:15Z",
+        "content": "$ACER just became untradeable on RH...some things happening",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994803071022034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-03T18:50:28Z",
+        "content": "$ZSANQ day traders taking their 10%+ on the day Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962345957756042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-03T18:46:26Z",
+        "content": "$ZSANQ I felt this bear trap, \"dilution\" into a friday Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979944229125977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-03T18:34:31Z",
+        "content": "$ZSANQ \u2606\u2606\u2606\u2606\u2606\u2606\u2606\u2606 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885945320129395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-03T18:28:06Z",
+        "content": "$ZSANQ \u2664\u2661\u2662\u2667 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998196542263031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-03T18:18:29Z",
+        "content": "$ZSANQ new HOD 2.75 printed Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987836480140686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-03T18:08:31Z",
+        "content": "$ZSANQ hmm Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999089241027832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-03-01T17:36:20Z",
+        "content": "$ZSANQ do it Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971296191215515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-27T19:56:15Z",
+        "content": "$PTN when exactly warrants expire? Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995124340057373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T21:07:53Z",
+        "content": "$ZSANQ extra large bull scythe formation.... Bullish",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977522492408752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T20:50:40Z",
+        "content": "$ZSANQ ZSAN CAN!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986870884895325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T16:23:04Z",
+        "content": "$ZSANQ stop shorting, this will close 3.33 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939981698989868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T16:16:34Z",
+        "content": "$ZSANQ bear trappy Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983398914337158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T16:08:43Z",
+        "content": "$ZSANQ \u00a3$\u00a3$\u00a3$\u00a3$\u00a3$\u00a3$\u00a3$\u00a3$ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987559974193573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T15:52:40Z",
+        "content": "$ZSANQ is special Bullish",
+        "sentiment": {
+            "TextBlob": 0.35714285714285715,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973046779632568
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T15:50:23Z",
+        "content": "$ZSANQ why do I see 3.33 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999136745929718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T15:25:54Z",
+        "content": "$ZSANQ let's blast through 3 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978356957435608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-24T14:39:56Z",
+        "content": "$ZSANQ $4? Very... Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988694787025452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-23T15:00:00Z",
+        "content": "$ZSANQ added Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911086559295654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-22T18:46:39Z",
+        "content": "$ZSANQ inverse falling knife Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99704509973526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T20:43:49Z",
+        "content": "$ZSANQ very Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991956353187561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T16:31:17Z",
+        "content": "$ZSANQ dips under 3 getting bought Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998653769493103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T16:25:00Z",
+        "content": "$ZSANQ short some more Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999275267124176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T16:13:54Z",
+        "content": "$ZSANQ maybe some momentum Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977184534072876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T15:37:00Z",
+        "content": "$ZSANQ keep trying bears...no one is selling Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967300891876221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T15:16:41Z",
+        "content": "$ZSANQ this is a safe buy, bears putting pressure and it's not going under 3$.. %40 + institution ownership... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926450252532959
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T15:01:01Z",
+        "content": "$ZSANQ free $$$ sign up now Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990818500518799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T14:46:48Z",
+        "content": "$ZSANQ is that the dip? $$ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991649389266968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-21T14:40:35Z",
+        "content": "$ZSANQ $$$ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998572826385498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-17T14:50:46Z",
+        "content": "$ZSANQ she wants to POP so bad. Bullish",
+        "sentiment": {
+            "TextBlob": -0.24999999999999992,
+            "NLTK": -0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997718930244446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-17T14:47:21Z",
+        "content": "$ZSANQ big boys loaded this up... 50% + institution ownership Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971427321434021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-16T20:03:10Z",
+        "content": "$ZSANQ scraps..won't get you unstuck bears Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990272521972656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-16T19:58:42Z",
+        "content": "$ZSANQ it's a trap!!! STAMPEEEEDE Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4898,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983232617378235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-16T19:56:29Z",
+        "content": "$ZSANQ can't phase the beast\u00f7 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994151771068573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-16T19:54:38Z",
+        "content": "$ZSANQ ABRAKADABRA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975714087486267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-16T19:50:44Z",
+        "content": "$ZSANQ UUUUUUPPPPPP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980753660202026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-16T19:21:03Z",
+        "content": "$ZSANQ UUUUP BIII$$$$Hhh!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986567497253418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-15T18:37:43Z",
+        "content": "$ZSANQ averaged UP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968697428703308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-15T14:35:35Z",
+        "content": "$ZSANQ what's realistic? 3$? Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996436595916748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-09T18:52:28Z",
+        "content": "$PRPO some1 post l2 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980441331863403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T16:07:39Z",
+        "content": "$PIP soon as CNBC opens their mouth it screws everything, think lunch may be rough, but we UUUPPP for sure Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976400136947632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T15:56:14Z",
+        "content": "$DARE Runup with $PIP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985665678977966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T15:55:28Z",
+        "content": "$DARE careful bull traps",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98542320728302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T15:39:40Z",
+        "content": "$PIP Scotty PIPpin",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7316518425941467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T15:18:19Z",
+        "content": "$PIP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983522891998291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T15:06:41Z",
+        "content": "$PIP We bounce of this 1$ should be rocketskates Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984890222549438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T14:57:26Z",
+        "content": "$DARE i love this pick, but sold position and entered PIP, will be back soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998699426651001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-07T14:54:38Z",
+        "content": "$PIP namnamnam",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775749444961548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-06T22:00:26Z",
+        "content": "$PIP HAHAHAHAHAH dude thats HILARIOUS. i mean my butthole puckered up but we good. Bullish",
+        "sentiment": {
+            "TextBlob": 0.29583333333333334,
+            "NLTK": 0.7241,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999710738658905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-06T21:30:05Z",
+        "content": "$DARE i think $$ moving to PIP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920948147773743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-03T20:52:32Z",
+        "content": "$DARE IN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975614547729492
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-03T20:35:45Z",
+        "content": "$DARE does any1 have a crystal ball?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99733966588974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-03T18:17:43Z",
+        "content": "$DARE RSI needs to COOL Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4648,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989469647407532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-02-01T22:05:23Z",
+        "content": "$MNKD $$$$$$$$$$$$$$$$$ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956451654434204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-25T20:55:36Z",
+        "content": "$PTN AAAND CRASH Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987986087799072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-25T19:06:19Z",
+        "content": "$TARA trending Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986826777458191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-25T18:39:40Z",
+        "content": "$CLRB lol crickets in here, GO UP !!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6083,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928202033042908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-25T06:06:25Z",
+        "content": "$CLRB investor.cellectar.com/rele... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967459440231323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-19T14:42:08Z",
+        "content": "$PRPO NEEDS MASSIVE VOLUME",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998749852180481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-18T21:36:05Z",
+        "content": "$PTN LOL Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927865862846375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-18T19:02:32Z",
+        "content": "$PRPO its a traaaap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955986738204956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-18T14:51:06Z",
+        "content": "$PRPO $1.04 not worried, if we get the volume its the moon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957574009895325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-17T21:41:06Z",
+        "content": "$PTN another dump...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996135830879211
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-17T19:39:48Z",
+        "content": "$PRPO CANNOT RS yet...it is too new.  Good enough for me to gamble. Bullish",
+        "sentiment": {
+            "TextBlob": 0.27878787878787875,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8337789177894592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T21:35:59Z",
+        "content": "$PRPO\ncharts.stocktwits.com/produ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973347783088684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T21:10:20Z",
+        "content": "$PRPO thanks for sharing your expertise.  Do you see this going up again at all? Or just move on.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9761876463890076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T20:47:40Z",
+        "content": "$PRPO IN 2k @1.04 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980954527854919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T20:47:15Z",
+        "content": "$PRPO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9798445701599121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T20:00:58Z",
+        "content": "$PRPO SHIIIPPPIIIIT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994110643863678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T19:57:43Z",
+        "content": "$PRPO offering will come at $7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872861504554749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T18:22:09Z",
+        "content": "$PRPO markets closed monday",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906708002090454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T18:13:37Z",
+        "content": "$PRPO www.hotstockspoint.com/transgenomic-inc-s-tbio-stock-price-is-currently-worth-at-1-12/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958609938621521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2017-01-13T18:13:15Z",
+        "content": "$PRPO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9798445701599121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-29T20:12:18Z",
+        "content": "$PTN who would sell... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985438585281372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-29T19:46:39Z",
+        "content": "$PTN they shorted",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968858361244202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-29T19:46:28Z",
+        "content": "$PTN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778748154640198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-22T03:24:21Z",
+        "content": "$SINT On FDA website already.  No announcement means hush hush means its going UP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994114637374878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-21T23:46:44Z",
+        "content": "$SINT Want this to go up? PUMPIT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970518350601196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-21T22:43:10Z",
+        "content": "$SINT orthospinenews.com/vertera-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980894923210144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-21T15:52:18Z",
+        "content": "$SINO GOING UP to 12",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7661235928535461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-21T15:15:47Z",
+        "content": "$DRYS no position, but its going up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9813211560249329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-18T16:19:59Z",
+        "content": "$ESEA whos adding on fatty?",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978400468826294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-18T15:48:45Z",
+        "content": "$ESEA heavily shorted",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996091723442078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T22:55:07Z",
+        "content": "$DRYS r the rest of shippers done now?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989996552467346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T16:11:11Z",
+        "content": "$DRYS guys its barely been open an hour",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989904761314392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T16:09:40Z",
+        "content": "$DRYS I OWN NO DRYS BUY ALL OTHER SHIPPERS>>>> and man does DRYS need the win Bullish",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": 0.2185,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953891038894653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T16:09:22Z",
+        "content": "$DRYS HOW IS IT ALIVE",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900630116462708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T16:09:01Z",
+        "content": "$DRYS DUDE ITS STILL ALIVE Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979977011680603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T13:16:59Z",
+        "content": "$SINO can i still get in?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973465204238892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T11:28:56Z",
+        "content": "$DRYS OOOOR its gonna be one for the record books and continue to BOOM... BULLPILL IS BULL$H$T FEARMONGER Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6824712753295898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T00:58:09Z",
+        "content": "$PSHG what time earnings?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951409101486206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-17T00:52:42Z",
+        "content": "$PSHG so i purchased this at 500 @ 26$, then 700 @ 12.65 so average down to $18.21...  LORD HELP ME FEED MY CAT Bullish",
+        "sentiment": {
+            "TextBlob": -0.1527777777777778,
+            "NLTK": 0.5319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971099495887756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T22:54:10Z",
+        "content": "$ESEA All I know is if they halt a stock its going UP UP UP 99% of time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969999194145203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T19:38:07Z",
+        "content": "$ESEA Holding for sure all night loooong Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936610460281372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T18:48:25Z",
+        "content": "$ESEA shorts just join us! lets take a cruise to the top Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5682406425476074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T18:41:59Z",
+        "content": "$ESEA im out at $8.88",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851515889167786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T18:39:16Z",
+        "content": "$ESEA hold",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5805442333221436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T18:27:18Z",
+        "content": "$ESEA for sure",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8889614343643188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T18:12:41Z",
+        "content": "$ESEA the party is just starty",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929063320159912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T16:33:39Z",
+        "content": "$ESEA will come back harder Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976382255554199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T16:21:16Z",
+        "content": "$ESEA W0LF join US!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976861476898193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T15:41:08Z",
+        "content": "$ESEA !!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984984397888184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T15:20:40Z",
+        "content": "$ESEA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982509016990662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Rockmystic",
+        "timestamp": "2016-11-16T14:56:09Z",
+        "content": "$ESEA LET THIS RUN!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977364540100098
+            }
+        },
+        "image_url": ""
+    }
+]

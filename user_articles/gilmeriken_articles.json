@@ -1,0 +1,3180 @@
+[
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-17T15:34:58Z",
+        "content": "$DWAC Why me!!!??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978583455085754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-17T04:59:02Z",
+        "content": "$DWAC You can\u2019t fix stupid\n\npbs.org/newshour/show/what-...",
+        "sentiment": {
+            "TextBlob": -0.7999999999999999,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996322393417358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-17T04:53:57Z",
+        "content": "$DWAC The eternally dumb\n\nyoutube.com/watch?v=F28MpHi...",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991656541824341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-17T04:41:09Z",
+        "content": "$DWAC I\u2019m almost willing to watch $FOX just to see Newsom dunk in Hannity",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6218029260635376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-16T05:23:20Z",
+        "content": "$DWAC Hmmm",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966669678688049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-15T20:44:50Z",
+        "content": "$DWAC How the news should be reported\n\ntheregister.com/2023/06/14/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980593323707581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-14T21:39:09Z",
+        "content": "$DWAC Be like Bob \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9687666893005371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-14T18:12:47Z",
+        "content": "$DWAC Going to cry\n\nreddit.com/r/TikTokCringe/c...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994194507598877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-14T06:33:35Z",
+        "content": "$DWAC $FOX MAGA Desperation Level: 11",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978424310684204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-12T05:34:13Z",
+        "content": "$DWAC Things that make you go hmmm",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5991919636726379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-12T04:10:04Z",
+        "content": "$DIS The new Little Mermaid captures the Disney magic. Halle Bailey has an amazing voice and acting chops. Perfect casting of Melissa McCarthy as Ursula. And getting an A-list actor in Javier Bardem to play King Triton brings unexpected depth to the movie. Even the new Prince Eric was outstanding. \n\nIt was hard to get decent seats on a Sunday morning, had to watch the evening show. Domestically, it\u2019s still going strong. I\u2019ve heard international results are disappointing, but I think the story will win out over racism in the end globally.",
+        "sentiment": {
+            "TextBlob": 0.20584753787878785,
+            "NLTK": 0.7469,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997566342353821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-11T23:42:08Z",
+        "content": "$BUD $DIS $TGT Anyone have a guess where this is from and what it has to do with these companies?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994658827781677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-11T21:25:47Z",
+        "content": "$DIS \u201cProtecting the Children\u201d? More like Nazis, White Power, and DeSantis support\n\nhttps://www.disneydining.com/breaking-protesters-holding-nazi-flags-shouting-white-power-line-disney-world-entrance-bb1/",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827803373336792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-11T17:52:15Z",
+        "content": "$DWAC \u201cHe was totally wrong that he had the right to have those documents,\u201d he said. \u201cThose documents are among the most sensitive secrets that the country has.\u201d",
+        "sentiment": {
+            "TextBlob": 0.09642857142857142,
+            "NLTK": -0.5256,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9956373572349548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-10T19:32:47Z",
+        "content": "$TGT Target is PACKED right now \ud83c\udf08",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9737561941146851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-10T18:22:26Z",
+        "content": "$DWAC \u201cI could probably get a couple million for this one \u2026\u201d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924813508987427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-10T18:13:33Z",
+        "content": "$DWAC \u201cLook at all this, boss! \u201cVery goot Donalt, Very goot\u201d",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950815439224243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-10T02:09:28Z",
+        "content": "$DWAC $DIS Changed the end of Raiders of the Lost Ark!\n\ntwitter.com/McJesse/status/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914730787277222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-10T00:46:12Z",
+        "content": "$DWAC Truth Social",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9111055731773376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-09T23:35:52Z",
+        "content": "$DWAC Trump is objectively the worst combination of dumb and a POS compared to any other U.S. President in American history.\n\nHow is that even a debate?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997692704200745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-09T18:03:06Z",
+        "content": "$BUD Garth Brooks is a treasure. \u201cIf you're an a--hole, there are plenty of other places\u201d \n\nProud a-holes and deplorables, I know, I know, quit shoving your poor character agenda down our throat!\n\nfoxbusiness.com/entertainme...",
+        "sentiment": {
+            "TextBlob": 0.020138888888888887,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9956139326095581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-03T21:18:54Z",
+        "content": "$TSLA reddit.com/r/interestingasf...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949943423271179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-03T16:20:34Z",
+        "content": "$TGT $DIS $BUD \u201cWhy don\u2019t Veterans get their own month?\u201d",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976271986961365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-02T17:14:11Z",
+        "content": "And directly after this, they went and shorted $TGT $DIS , which was just as effective as the exorcism\n\nreddit.com/r/facepalm/comme...",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996019184589386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-02T17:10:05Z",
+        "content": "$DIS $TGT Go woke, get stoked",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9482763409614563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-02T01:29:19Z",
+        "content": "$TGT $DIS $BUD \u201cStop shoving your hatred of LGBTQ+ down my throat!\u201d",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": -0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972506165504456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-01T23:32:10Z",
+        "content": "$TGT $BUD $DIS Time to boycott NASCAR too?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988284707069397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-06-01T05:57:12Z",
+        "content": "$TGT $DIS $BUD  Happy Pride month, everyone!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.75,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9670284390449524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-29T20:10:00Z",
+        "content": "@BreakingBS @GJR777 Is $DWAC woke? That could explain why \u201cTruth Social\u201d is such a disaster\u2026",
+        "sentiment": {
+            "TextBlob": 0.016666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997606873512268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-29T16:57:59Z",
+        "content": "$TGT Of course, because it\u2019s always projection. His response: \u201c \u2026 he\u2019s a nice person who did something wrong over a decade ago, and unlike Target, he repented and the experience led him to his faith. Good for him. That\u2019s the Gospel.\u201d \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957362413406372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-29T16:28:49Z",
+        "content": "$DWAC Why I vote blue:",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926152229309082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-28T16:45:04Z",
+        "content": "$DIS \u201cThe Disney release is on track to debut to a massive $118 million over the four-day holiday, with $96 million of that coming over the weekend. It ranks as the fifth highest Memorial Day opening in history.\u201d\n\nvariety.com/2023/film/news/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987443685531616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-28T05:51:44Z",
+        "content": "$TGT $WMT Oh great \ud83d\ude06",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9324856400489807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-28T05:50:23Z",
+        "content": "$TGT $DIS $BUD A new report alleges widespread sexual abuse by the Catholic clergy in Illinois. Will conservatives call for a ban on minors in churches?\n\nmsnbc.com/the-reidout/reido...",
+        "sentiment": {
+            "TextBlob": 0.21212121212121213,
+            "NLTK": -0.8316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983835220336914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-27T18:59:02Z",
+        "content": "$TSLA This is fine!\n\nbusinessinsider.com/tesla-t...",
+        "sentiment": {
+            "TextBlob": 0.5208333333333334,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993985891342163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-27T16:02:13Z",
+        "content": "$TGT Going to do weekend shopping at Target like we always do",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6379173398017883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-27T00:57:35Z",
+        "content": "$DIS Little Mermaid filling up hours before showtime, you can check with AMC app",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9797303676605225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-26T14:11:00Z",
+        "content": "@OkieInBA If bigots and simpletons boycott $TGT, then that makes the shopping experience at Target more pleasant for everyone else.",
+        "sentiment": {
+            "TextBlob": 0.6166666666666667,
+            "NLTK": 0.3167,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861125349998474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-26T13:58:12Z",
+        "content": "$TGT As if many Target shoppers are going to switch to Walmart \ud83d\ude06\u2026 and if so, it will just make Target an even more pleasant place to shop versus Walmart!",
+        "sentiment": {
+            "TextBlob": 0.6388888888888888,
+            "NLTK": 0.5974,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981243014335632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-24T23:40:00Z",
+        "content": "$BUD Lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9154343008995056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-20T14:05:01Z",
+        "content": "$DIS Florida hastening its own economic demise as Disney creates jobs in California\n\ndeadline.com/2023/05/disney...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973190426826477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-13T14:17:22Z",
+        "content": "$DWAC Same guy is probably going short $BUD now in an attempt to recoup the loss of his life savings.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997641444206238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-12T14:06:21Z",
+        "content": "$DWAC We all know it\u2019s true, but it\u2019s good to verify and confirm: \u201cWe find that those on the right on the political spectrum share fake news more often than those on the left.\u201d\n\nnature.com/articles/s41598-...",
+        "sentiment": {
+            "TextBlob": 0.1908163265306122,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9928650856018066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-12T13:53:01Z",
+        "content": "@Venndiagram More or less evil than $TSLA?",
+        "sentiment": {
+            "TextBlob": -0.2222222222222222,
+            "NLTK": -0.6565,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993913173675537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-12T07:03:14Z",
+        "content": "$BUD \u201cI\u2019m scared of cooties and Bud Light!\u201d",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830463528633118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-12T01:50:53Z",
+        "content": "$BUD $DIS $DWAC Good news, Russia has a place for you!\n\nthemoscowtimes.com/2023/05/...",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.982194721698761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-11T14:48:50Z",
+        "content": "$DIS $BUD \u201cNobody messes with my kids, except the church, GOP sex pests, and gun nuts!\u201d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9117169380187988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-11T02:57:13Z",
+        "content": "$BUD \u201dThe people have spoken out against woke!\u201d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9327089190483093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-11T00:38:28Z",
+        "content": "$BUD A great way to signal one\u2019s vice",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952797889709473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-10T22:54:41Z",
+        "content": "$DWAC Now THIS is a real example of a nothingburger:\n\nnewrepublic.com/post/172627...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.771332323551178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-10T19:36:05Z",
+        "content": "$DWAC MAGA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968724846839905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-10T15:06:20Z",
+        "content": "@DataDrivenTrader Try shorting $NKE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987673759460449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-10T14:41:26Z",
+        "content": "@DataDrivenTrader Try every Fortune 500 company. Short $AAPL , if you really think \u201cgo woke, go broke\u201d. Better yet, go long $DWAC \ud83e\udd21. \u201cData Driven\u201d, lol.",
+        "sentiment": {
+            "TextBlob": 0.29,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976658821105957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-10T07:10:05Z",
+        "content": "$BUD \u201cI won\u2019t drink Bud Light because I support real women and because of the kids\u201d *Supports and voted for legally liable sexual abuser*",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7663890719413757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-10T06:16:28Z",
+        "content": "$DWAC Remember when lying about getting a blowjob was a big deal?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966189861297607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-10T00:37:21Z",
+        "content": "$DWAC \u201cHe didn\u2019t rape her, he only sexually abused her. There goes my hero and America\u2019s savior!\u201d\n\nwsj.com/articles/donald-tru...",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": -0.69,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7183577418327332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-09T06:42:09Z",
+        "content": "$DWAC Pretty weird how all these conservatives are worried about how this mass murderer being a Nazi might reflect badly on them.",
+        "sentiment": {
+            "TextBlob": -0.3166666666666666,
+            "NLTK": -0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995430707931519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-08T06:43:10Z",
+        "content": "$DWAC \u201cIt\u2019s a mental health issue!\u201d",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748285412788391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-08T06:42:46Z",
+        "content": "$DWAC Truth",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8769533634185791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-08T04:30:51Z",
+        "content": "$BUD \u201cConservatives Explain Why They\u2019re Boycotting Budweiser\u201d\n\ntheonion.com/budweiser-boyc...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955713152885437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-07T02:59:29Z",
+        "content": "$BUD \u201cHad a guy drinking Angry Orchard last night. First one he ordered, no issues. But for some reason, when he asked me for the second one, he felt inclined to mention how much he wished he could order Budweiser, \u201cbut I can\u2019t right now,\u201d as if I was supposed to start talking his garbage politics with him. I just said, \u201cOohh, ok,\u201d and got him his cider.\u201d\n\nreddit.com/r/Serverlife/com...",
+        "sentiment": {
+            "TextBlob": 0.10510204081632654,
+            "NLTK": -0.4118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970658421516418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-07T02:58:37Z",
+        "content": "$BUD The comment section at the link is great, too\n\nreddit.com/r/Serverlife/com...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9610635042190552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-07T00:48:10Z",
+        "content": "$DWAC Better gun control would help\n\nfox4news.com/news/allen-pre...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990952014923096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-05T02:31:14Z",
+        "content": "$DWAC Go facist, no cashes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994024038314819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-05T02:28:41Z",
+        "content": "$BUD Go fascist, no cashes \ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988633394241333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-05T01:06:55Z",
+        "content": "$DWAC News of the stupid\n\nmediaite.com/politics/trump...",
+        "sentiment": {
+            "TextBlob": -0.7999999999999999,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996529817581177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-04T22:59:38Z",
+        "content": "$BUD The market prices in future expectations. The market prices in future expectations.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.974982500076294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-04T17:45:39Z",
+        "content": "$TSLA $TWTR.P People worship this guy? Why? What\u2019s the opposite of savvy? Elon Musk.\n\n\u201cMusk, whose statements to reporters are regularly laced with jokes, insults or attempts at trolling, responded sarcastically when asked who would potentially take over NPR's Twitter account.\n\"National Pumpkin Radio,\" Musk wrote, adding a fire emoji and a laughing emoji to describe the content of the fictional gourd-themed broadcaster. \"NPR isn't tagged as government-funded anymore, so what's the beef?\"\nIn an email sent at 2:19 a.m. EST after the story was originally published, Musk wrote a message without any text in the body but with this subject line: \"You suck.\"\n\nnpr.org/2023/05/02/11734223...",
+        "sentiment": {
+            "TextBlob": 0.034722222222222224,
+            "NLTK": 0.2523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989874958992004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-04T13:37:49Z",
+        "content": "$BUD \u201cWait until next earnings\u201d The market and share price reflect future expectations today \u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.931712806224823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-05-01T19:10:35Z",
+        "content": "@howardlindzon @tctranfo @Truth_Detector @StocktwitsHelp What\u2019s investing? I almost forgot since I made the mistake of turning ST into my Facebook, with the insane $DWAC $DIS and $BUD streams, I am very guilty of watching bigots be bigots and irrational conspiracy nuts and poking them \u2026 forgot about investing, but this time, I promise, no more!",
+        "sentiment": {
+            "TextBlob": -0.6541666666666667,
+            "NLTK": -0.8068,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980979561805725
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-29T18:58:26Z",
+        "content": "$DWAC Gun control would help",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956501126289368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-29T04:56:44Z",
+        "content": "$DIS This will not end well for DeSantis",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999666690826416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-28T04:56:23Z",
+        "content": "$BUD Steven Crowder DESTROYS woke Bud Light! \n\nAlso Steven Crowder: abusive POS to his pregnant wife\n\nThe two are not unrelated.\n\nyashar.substack.com/p/exclu...",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": -0.8697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978039860725403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-28T04:52:28Z",
+        "content": "$DWAC What a shocker. Right wingnut Steven Crowder is an abusive POS to his pregnant wife. What an \u201calpha male.\u201d\n\nyashar.substack.com/p/exclu...",
+        "sentiment": {
+            "TextBlob": 0.20634920634920637,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8727209568023682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-28T03:57:46Z",
+        "content": "$DWAC One termer doesn\u2019t take \u201cno\u201d for an answer",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9855726361274719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-27T19:28:40Z",
+        "content": "$BUD Is the problem really trans? Think of the children \u2026",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973101615905762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-27T02:22:19Z",
+        "content": "$DWAC This guy is mentally unstable",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983395338058472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-26T23:26:59Z",
+        "content": "$BUD Don\u2019t hurt Trump 2024",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9941984415054321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-26T23:22:59Z",
+        "content": "$BUD Keep the price up for your Emperor God\n\nhttps://www.independent.co.uk/news/world/americas/us-politics/donald-trump-anheuser-busch-stock-boycott-b2327379.html",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9630061388015747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-26T22:44:54Z",
+        "content": "$TSLA  Why?\n\nreddit.com/r/facepalm/comme...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992836117744446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-26T05:03:49Z",
+        "content": "$BUD Funny because it\u2019s true",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996421337127686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-25T04:35:09Z",
+        "content": "$FOX $DWAC Was he?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974689483642578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-24T19:18:16Z",
+        "content": "@CoreyJ2087 $FOX Prob shouldn\u2019t have lied about election fraud",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9096751809120178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-24T16:34:57Z",
+        "content": "$FOX Don\u2019t go woke, go broke?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917861819267273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-24T08:28:41Z",
+        "content": "$DWAC Bombshell report",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903850555419922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-23T01:10:10Z",
+        "content": "$BUD Lizzo is great\n\ndeadline.com/2023/04/lizzo-...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9712390303611755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-22T21:05:29Z",
+        "content": "$BUD \u201cWait until the next earnings, and the one after that, and the one after that ..\u201d the market is forward looking already \u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9719223380088806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-22T05:20:35Z",
+        "content": "$DIS \ud83e\udd23\ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969084858894348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-22T05:07:45Z",
+        "content": "$BUD Hazard County KY, Heavy Red County.\n\nThe same folks who won\u2019t drink a Bud Light, because \u201cthey\u2019re coming after our kids.\u201d\n\nlex18.com/news/parents-outr...",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801449775695801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-22T02:12:59Z",
+        "content": "$BUD Lol at the tattoo on the neck",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9666711688041687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-22T02:12:10Z",
+        "content": "$BUD hmmmm",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9731493592262268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-22T02:11:15Z",
+        "content": "$BUD  It\u2019s not real, but it\u2019s funny",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.5927,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994630217552185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-19T08:07:23Z",
+        "content": "$FOX $BUD This commemorative glass can be yours for only $785.5 million. Don\u2019t fill it up with Bud light, as it only holds lies about the election!",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": -0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948328733444214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-19T06:37:45Z",
+        "content": "$BUD a sure sign of mental illness is being like this guy and getting upset over a beer co \nsponsoring a transsexual by making a single can with her face on it\u2026 and tossing cans of BUSCH light \u2026 why is he trying to shove his values down our throats? Just don\u2019t buy the beer, my dude \u2026\n\nreddit.com/r/TikTokCringe/c...",
+        "sentiment": {
+            "TextBlob": 0.11460317460317462,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992413520812988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-19T06:26:40Z",
+        "content": "$DWAC Lying liars and the lies they tell",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.8625,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953031539916992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-18T02:29:27Z",
+        "content": "$DWAC \u201cWhat\u2019s this have to do with DWAC?\u201d You know what this has to do with DWAC.\n\nthehill.com/homenews/state-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972969889640808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-16T21:30:03Z",
+        "content": "$BUD Drag Queens aren\u2019t grooming and marrying children \u2026 but Republican Congressmen are.\n\nBut sure - boycott Bud Light to your heart\u2019s content!",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": -0.1882,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9944183826446533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-16T21:22:12Z",
+        "content": "$BUD Someone should just make a \u201cNazi Beer\u201d brand to capture all the sales Bud Light lost over them making a can featuring the image of a transsexual.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999239444732666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-16T04:09:09Z",
+        "content": "$DWAC The \u201cwhy I vote Red\u201d poster \ud83d\ude02 We get it. Because you are ignorant. Scream it from the rooftops.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998651921749115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-15T21:34:56Z",
+        "content": "$DWAC The audio gives confirmation how these GOP/Trumpies think:\n\n\u201cyou\u2019ve got to do what\u2019s right \u2013 even if you think it might be wrong \u2013 you\u2019ve got to do what\u2019s right.\u201d \n\nThey also talk about \u201cthe republic\u201d falling if they don\u2019t win, a common refrain I hear from conservatives, a thinly veiled reference to white christian values and privilege (they may not like the labels, but if you explain it, they\u2019d agree)\n\ntennessean.com/story/news/p...",
+        "sentiment": {
+            "TextBlob": 0.021428571428571422,
+            "NLTK": 0.2721,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8763622641563416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-15T14:56:53Z",
+        "content": "$BUD Your \u201cplate of acceptable behavior\u201d in the 1950s didn\u2019t include black kids going to school with white kids \u2026\n\nAnd it\u2019s about this big, and doesn\u2019t allow for a citizen\u2019s right to Life, Liberty and the pursuit of Happiness \u2026 any wonder you are the loud minority these days?",
+        "sentiment": {
+            "TextBlob": 0.15317460317460316,
+            "NLTK": 0.8807,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9439526796340942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-14T22:17:10Z",
+        "content": "$BUD This has everything to do with Bud Light\n\nvice.com/en/article/7kxv8a/...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933393597602844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-14T17:50:09Z",
+        "content": "$BUD Notice all the posts here that take away the humanity of Dylan Mulvaney- comparing to beasts, demons, monsters, \u201cit\u201d. smh. At the very least those who think trans are \u201cmentally ill\u201d acknowledge their humanity. But I fear that\u2019s just on the way to demonizing them. Wouldn\u2019t normally sermonize, except for the extreme depravity and dehumanization I see in all these posts and memes. It\u2019s on the road to a bad place.\n\nI\u2019ll poke fun at you nutters, but that\u2019s for being  really misguided and simpletons - but you\u2019re still humans.\n\nJust enjoy a Bud light.",
+        "sentiment": {
+            "TextBlob": -0.029444444444444433,
+            "NLTK": -0.2382,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9745457172393799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-14T05:00:49Z",
+        "content": "$DIS I remember this was in the $80s and the \u201cgo woke go broke\u201d bears were saying \u201cjust wait for quarterly earnings\u201d and sending in their anecdotes about how parks were empty and how their friends wouldn\u2019t be going to Disneyland or Disneyworld anymore \u2026",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984353184700012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-14T03:50:30Z",
+        "content": "$DWAC $BUD This guy won\u2019t be drinking Bud Light, post jokes about trans folk, share racist memes, or post gun support memes for a while now\n\n\u201cThe Post reported that the man was the leader of a Discord chat room including roughly two dozen members who swapped \"memes, offensive jokes and idle chitchat\" and prayed and watched movies together.\u201d",
+        "sentiment": {
+            "TextBlob": 0.03333333333333335,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996476948261261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-14T02:45:09Z",
+        "content": "The $BUD thread is more entertaining than $DWAC now. $DWAC is just depressing now, since Trumpers know they\u2019ve lost and he\u2019s just a mess.",
+        "sentiment": {
+            "TextBlob": 0.05625000000000001,
+            "NLTK": -0.4951,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6185386776924133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-14T02:18:14Z",
+        "content": "$BUD Wall Street Journal\u2019s gone woke! \ud83e\udd23\n\n\u201cPositive impressions of the Bud Light brand have improved among millennial, Gen X and Gen Z consumers, on average, in the days since Ms. Mulvaney\u2019s video went live, according to data from market research firm YouGov, which polls 1,700 to 1,800 different people about the brand every day.\u201d\n\nwsj.com/articles/bud-light-...",
+        "sentiment": {
+            "TextBlob": 0.06893939393939394,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.982251763343811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-14T00:27:55Z",
+        "content": "$BUD Is Wall StreetJournal a lib rag now??\n\n\u201c\u201cUnless you have a really well-organized boycott with clear messaging\u2026the boycott just becomes kind of vindictive and performative. We see this on both sides of the political spectrum,\u201d she said.\u201d\n\nwsj.com/articles/bud-light-...",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": -0.4435,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878007173538208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-13T23:06:45Z",
+        "content": "$SPY Why don\u2019t the people who do this when the market is red, do the same when it\u2019s green? It\u2019s just as stupid, but at least they\u2019d be consistent.",
+        "sentiment": {
+            "TextBlob": -0.17500000000000002,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9128702878952026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-13T15:50:50Z",
+        "content": "$BUD The loud minority is baffled",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999244213104248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-13T02:17:15Z",
+        "content": "@swingtrader4650 @HarrisMint Reality is $DWAC at $500?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952108263969421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-13T02:05:10Z",
+        "content": "@swingtrader4650 @HarrisMint Yes I\u2019m getting my check from George Soros at the end of the month\ud83d\ude02\n\nYou left out $DIS, I talk about that too. Great investment. So much pricing power. And Iger runs laps around DeInSantis.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869424104690552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-13T01:39:08Z",
+        "content": "$BUD Jesus: \u201cDo unto others, as you would have them do unto you. Love thy neighbor.\u201d  \nReligious zealots and transphobes: \u201cAMEN!\u201d \n\nBud Light: \u201cYeah, what he said.\u201d \nZealots : \u201cWHY ARE YOU SHOVING THIS PROPAGANDA DOWN OUR THROATS!!!\u201d",
+        "sentiment": {
+            "TextBlob": 0.09923611111111111,
+            "NLTK": -0.3184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977886438369751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-13T01:20:43Z",
+        "content": "$BUD It\u2019s gonna be OK\n\nrollingstone.com/culture/cu...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4466,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991059899330139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-12T05:39:59Z",
+        "content": "$DWAC \u201cThe former president has routinely told far-fetched stories about people crying when they encounter him, always behind the scenes and off camera and often supposedly involving people associated with the military or law enforcement.\u201d\n\nhttps://www.independent.co.uk/news/world/americas/us-politics/trump-new-york-courthouse-claim-b2318126.html",
+        "sentiment": {
+            "TextBlob": -0.17500000000000002,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9101740121841431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-12T04:37:38Z",
+        "content": "$BUD This place is like boomer humor central. Cringe. The 80s called, they want their bigoted jokes back.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948956370353699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-12T04:25:54Z",
+        "content": "@sattalight @Kiss_My_Ask @comrade44 Thanks -interesting history, no US modelo sales to $AB \ud83e\udd37\u200d\u2640\ufe0f \n\nOn June 12, 2008, The Wall Street Journal stated that Anheuser-Busch InBev, which owned a non-controlling 50% stake in the company, might attempt to acquire the remaining 50%.[3] On June 29, 2012, it was announced that Anheuser-Busch InBev would acquire the remaining 50% stake for an all-cash price of $20.1 billion.[4] On January 31, 2013, the US Department of Justice filed an antitrust suit in an attempt to prevent the buyout. The matter was settled and the two companies merged in June 2013,[5] with the transfer of all United States rights to Constellation Brands.[6] As a result, all of the company's brands are made (in Mexico) by an unrelated company. In the United States, Grupo Modelo brands are distributed by Constellation Brands.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.9118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972865581512451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-12T04:11:58Z",
+        "content": "$BUD Anheuser Busch making money off more expensive Modelo - genius move!",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5881054401397705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-11T17:52:27Z",
+        "content": "$BUD Free education for those who can read AND are crying \u201cwhy would these companies cater to the 1%?\u201d \n\nall the way back from 2014:\n\n\"[LGBT economic power] isn\u2019t the overarching driver \u2013 it is generational,\u201d says Mr. Witeck. \u201cWhat corporations see are the large numbers of younger consumers who are very passionate about human rights and nondiscrimination. Sending a message that anyone is not welcome is wrong.\u201d\n\ncsmonitor.com/Business/2014...",
+        "sentiment": {
+            "TextBlob": -0.035071428571428566,
+            "NLTK": 0.3427,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992783784866333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-10T15:08:02Z",
+        "content": "@AirForce1000 So many numbskulls on the $DIS $NKE $BUD boards now, like they\u2019re all trying to recoup their $DWAC losses",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.5688,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994803071022034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-10T14:30:00Z",
+        "content": "@DDeals I doubt it. Come back to me in a year when $BUD is still in business and you\u2019ve moved on to the next company to cry about.\n\n\u201cWithin the alcoholic beverage world, being gay-friendly isn\u2019t necessarily something new, says Mr. Witeck. For example, Absolut Vodka has been marketing to the LGBT community for over 30 years, and Anheuser-Busch provoked controversy in antigay circles with its 1996 ad in gay media with the tagline \u201cLabels belong on beer, not people.\u201d The backlash from antigay groups didn\u2019t translate into lost sales\u201d",
+        "sentiment": {
+            "TextBlob": 0.050505050505050504,
+            "NLTK": -0.8402,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967279434204102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-10T08:43:56Z",
+        "content": "@SamElliotsMustache @FauciLies They seem to be doing OK, I\u2019d be worried about un-woke trash like $DWAC",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4995,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8752814531326294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-10T03:06:23Z",
+        "content": "$BUD So sensitive",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9847671389579773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T23:44:59Z",
+        "content": "$BUD \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9390956163406372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T23:34:49Z",
+        "content": "$BUD Waaah",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778661131858826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T23:32:44Z",
+        "content": "$BUD \u201cI\u2019m switching to Coors Light\u201d",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945693612098694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T23:29:41Z",
+        "content": "$BUD No snowflakes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973313808441162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T21:59:27Z",
+        "content": "$BUD This Bud\u2019s for you",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978930354118347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T17:07:14Z",
+        "content": "$DIS Ron Insanetis for BIG big government grossly interfering with the market and regulating opinions. It\u2019s called authoritarianism.\n\ndeadline.com/2023/04/disney...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998164713382721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T16:55:09Z",
+        "content": "$BUD Wouldn\u2019t this make Bud the manliest drink ever? A few sips and it can actually turn you into a man?",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9634612798690796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T16:52:52Z",
+        "content": "$BUD \u201cFor example, Absolut Vodka has been marketing to the LGBT community for over 30 years, and Anheuser-Busch provoked controversy in antigay circles with its 1996 ad in gay media with the tagline \u201cLabels belong on beer, not people.\u201d The backlash from antigay groups didn\u2019t translate into lost sales.\u201d\n\ncsmonitor.com/Business/2014...",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978051781654358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-09T16:52:32Z",
+        "content": "$BUD Y\u2019all going to have to give up alcohol.\n\nCoors, Heineken, Sam Adams, Guinness are all WOKE\n\n\u201cGuinness, Heineken, and Boston Beer Co. (maker of Sam Adams) all pulled their sponsorship from St. Patrick's Day parades due to anti-LGBT parade policies. Generational shifts and the group's growing purchasing power are pushing corporations to be more inclusive. \u201c\n\ncsmonitor.com/Business/2014...",
+        "sentiment": {
+            "TextBlob": 0.041666666666666664,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9864098429679871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-08T19:10:54Z",
+        "content": "@Rodzilla01 It\u2019s worked well with $DIS and $NKE get em when they drop. These brands are NOT going broke \ud83d\ude02.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3252,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9659973382949829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-08T19:09:46Z",
+        "content": "@comrade44 I don\u2019t doubt it will go down short term, but it\u2019ll be right back up in 6-12 months when the \u201cgo woke go broke\u201d crowd finds the next thing to cry about when a company supports something that makes them feel uncomfortable in their bigotry and ignorance.\n\nBeen a great investing strategy to grab $DIS and $NKE at temporary lows. These companies are NOT going broke \ud83d\ude02.",
+        "sentiment": {
+            "TextBlob": 0.061451247165532887,
+            "NLTK": -0.2148,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900903701782227
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-08T08:15:41Z",
+        "content": "$BUD Love this: \"I won't spend my money on it!\"\n\nLiterally buys a case of bud just to make a video of yourself pouring it out\n\nreddit.com/r/TikTokCringe/c...",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849122762680054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-08T05:15:38Z",
+        "content": "$BUD $TAP Even Coors Light supports LGBTQ!\n\nAt this rate, people are going to have to give up alcohol or give up being a bigot!\n\ndenverpride.org/coors-light... Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.4738,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976118803024292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-08T03:47:07Z",
+        "content": "$BUD Travis Tritt doesn\u2019t like the feminization of men Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976894855499268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-08T03:45:12Z",
+        "content": "$BUD $TAP Everyone should support Coors\n\ndenverpride.org/coors-light...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881992340087891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-06T15:44:16Z",
+        "content": "@YouGotaDeePlusTrades Time to buy more $NKE Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972131848335266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-05T05:48:28Z",
+        "content": "$DIS This guy is your typical $DIS bear \ud83e\udd23\n\nreddit.com/r/therewasanatte...",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988555908203125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-05T02:08:34Z",
+        "content": "$DWAC \u201cWen arrest?\u201d Done.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976363182067871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-05T02:04:49Z",
+        "content": "$DWAC lock him up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880188703536987
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-04T02:05:27Z",
+        "content": "$DIS Iger is smarter and more savvy than DeInsantis by miles. \n\nI\u2019m betting on Iger.\n\n\"These efforts simply to retaliate for a position the company took sounds not just anti-business, but it sounds anti-Florida,\" Iger said.\n\nreuters.com/business/media-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753981828689575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-03T19:31:58Z",
+        "content": "$DWAC So many bag holders being created today",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9761137962341309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-03T03:45:32Z",
+        "content": "$DWAC The walls are crashing down all around TrumpWorld",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928283095359802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-02T23:59:24Z",
+        "content": "$DWAC Why I don\u2019t vote red",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936892986297607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-02T17:22:16Z",
+        "content": "$DWAC Why I don\u2019t vote red",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936892986297607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-02T15:56:11Z",
+        "content": "$DWAC Just a small sample of why I don\u2019t vote red. This doesn\u2019t even include all the BS, bigotry, and plain ignorance that has overtaken the red supporters (relative to others, it\u2019s overwhelming)\n\nDuring Trump\u2019s tenure:\n\nThe economy lost 2.9 million jobs. The unemployment rate increased by 1.6 percentage points to 6.3%.\nPaychecks grew faster than inflation. Average weekly earnings for all workers were up 8.7% after inflation.\nThe international trade deficit Trump promised to reduce went up. The U.S. trade deficit in goods and services in 2020 was the highest since 2008 and increased 40.5% from 2016.\nThe number of people lacking health insurance rose by 3 million.\nThe federal debt held by the public went up, from $14.4 trillion to $21.6 trillion.",
+        "sentiment": {
+            "TextBlob": 0.048571428571428564,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875059127807617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-02T03:48:39Z",
+        "content": "$DWAC \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907478094100952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-01T18:09:25Z",
+        "content": "$DWAC Why I don\u2019t vote red.\n\n\"This is the first time that it really seems likely that the former president of the United States will be having a mugshot, being fingerprinted and having not just this indictment ... but more indictments to come,\"\n\nCan\u2019t wait for that mugshot.\n\nnpr.org/2023/03/31/11674478...",
+        "sentiment": {
+            "TextBlob": 0.15833333333333333,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936176538467407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-01T15:47:45Z",
+        "content": "$DWAC All charges against Trump dropped. I am so disappointed in the justice system, it is so corrupt.  Someone got to Alvin Bragg. I knew this was too good to be true.",
+        "sentiment": {
+            "TextBlob": -0.05000000000000002,
+            "NLTK": 0.4604,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999017596244812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-01T05:47:15Z",
+        "content": "$DIS Where you actually need to be worried about groomers (hint: It\u2019s not $DIS)\n\nmprnews.org/story/2023/03/3...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986316561698914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-04-01T01:34:56Z",
+        "content": "$DWAC Butter E. Males",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915088415145874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-31T04:11:55Z",
+        "content": "$DWAC $SPY Trump supporters in shambles today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983856678009033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-31T03:42:55Z",
+        "content": "$DWAC $SPY Before you judge, just remember that Jesus, too, was persecuted for paying hush money to a C-level porn performer and falsifying business records to make the payment!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981303811073303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-31T03:17:29Z",
+        "content": "$DWAC Thanks, Trump",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995693564414978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-31T02:52:16Z",
+        "content": "$DWAC Finally a clean election with no voter fraud",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983012080192566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-30T22:45:12Z",
+        "content": "$DWAC welp glad I won\u2019t to have deal with the \u201cstill waiting\u201d on indictment bullshit anymore",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927016496658325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-30T03:55:42Z",
+        "content": "$DIS Bears favorite book, after the Bible",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9696481823921204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-28T05:24:36Z",
+        "content": "$DWAC She\u2019s blaming \u2026. <checking phone> \u2026 testosterone now \u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955060482025146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-28T03:58:31Z",
+        "content": "$DWAC $TWTR.P If you are this dumb \u2026 you cannot be helped",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.596,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990135431289673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-27T00:15:58Z",
+        "content": "$DWAC People having fun making AI generated images",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7766693234443665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-26T02:21:05Z",
+        "content": "$DWAC Classic Trump supporter at Trump rally - claims to be a Marine, but when asked for specifics by interviewer, he can\u2019t \u2026\n\nreddit.com/r/facepalm/comme...",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.1406,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998331606388092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-24T01:21:48Z",
+        "content": "$DWAC Trump proteck me from so many scawwy things!!",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848426580429077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-22T17:23:26Z",
+        "content": "@samgarner Depends. \n\nLast three months doesn\u2019t look to bad. I got in in 80s. \n\n$DIS has major pricing power that it can flex when required. I like the long-term prospects.",
+        "sentiment": {
+            "TextBlob": -0.21249999999999994,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9962452054023743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-22T06:31:31Z",
+        "content": "$DWAC Just more evidence of criminality from a criminal. Add it to the mountain of previous evidence.\n\nabcnews.go.com/US/sources-s...",
+        "sentiment": {
+            "TextBlob": -0.022222222222222227,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937121868133545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-21T06:25:01Z",
+        "content": "$DWAC I like reddit comments that seem reasonable:\n\n\u201cPeople don\u2019t realize how anticlimactic it will be. Trump and others and making a big show saying the FBI is going to bust down his door at Mar-a-lago and drag him away in handcuffs. That won\u2019t happen. The DA will contact his lawyers to let them know they have issued an arrest warrant and they will schedule a date for Trump to turn himself in. He goes to the police on that, he\u2019s fingerprinted, mug shot taken and processed. He\u2019ll then be arraigned and release on his own recognizance. All this will be worked out beforehand by his lawyers and the DA. He might fight extradition in Florida and possibly win with the right judge. But then he will be arrested whenever he goes back to NYC which he has to at some time. Even once he\u2019s arraigned it will take years for the case to go anywhere (case in point Ken Paxton has been awaiting trial for years). This is just home making noise for his constituents.\u201d\n\nreddit.com/r/AskReddit/comm...",
+        "sentiment": {
+            "TextBlob": 0.17557319223985893,
+            "NLTK": -0.6059,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943076968193054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-21T03:31:54Z",
+        "content": "$DIS Define \u201cwoke\u201d\n\nyoutube.com/watch?v=W7iWEEc...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958082437515259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-21T02:26:14Z",
+        "content": "@jefscar @RogSmth007 Like $NKE? Like Keurig? The NFL? $SBUX ? \ud83e\udd23\n\nWhat about the opposite, if you go full MAGA terrorist, like $DWAC ? How\u2019s that work out?",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.4137,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986847043037415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-19T05:16:43Z",
+        "content": "$DWAC How the \u201canti-woke\u201d crowd wants to whitewash history.  Bottom was a proposed revision to Florida history textbooks \u2026",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994975328445435
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-18T17:35:01Z",
+        "content": "$DWAC Imagine being willing to die or go to jail for Donald Trump",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858513474464417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-18T17:26:52Z",
+        "content": "$DWAC This loser, after losing, begging all the refs to overturn his loss because he lost and he\u2019s a loser\n\najc.com/politics/exclusive-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.9186,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993382096290588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-16T00:40:26Z",
+        "content": "$DIS Get woke Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980058073997498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-15T05:21:10Z",
+        "content": "$DIS $DWAC Next up, Death Santis to arrest parents who accompany kids to Rated R movies!\n\nflvoicenews.com/florida-to-...",
+        "sentiment": {
+            "TextBlob": -0.03125,
+            "NLTK": -0.7644,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950094223022461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-15T01:59:05Z",
+        "content": "@Automaticher0 Openly expresses contempt for bigotry - seems like a good move to me. $DIS will be fine long run.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9563863277435303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-14T00:26:33Z",
+        "content": "$DWAC \ud83c\udfb5 Desperado, why don\u2019t you come to your senses \ud83c\udfb5 \n\nSo desperate \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.3804,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940459728240967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-11T20:47:11Z",
+        "content": "$SPY $QQQ $DWAC $MCD Yesterday, at the McDonald\u2019s drive thru, they made me move forward, and I had to wait an extra 3 minutes in my car for my 6 piece chicky nuggies, under Joe Biden.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8358407616615295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-03-10T20:58:24Z",
+        "content": "@HuntersDealer Shorting $DWAC from $180 was the best play",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9947512745857239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-28T06:00:20Z",
+        "content": "$DWAC uh-oh, time for snowflakes to boycott Breaking Bad!\n\nalternet.org/bryan-cranston...",
+        "sentiment": {
+            "TextBlob": -0.8749999999999998,
+            "NLTK": -0.7263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998840868473053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-26T03:15:27Z",
+        "content": "$DWAC If you still support Trump after his disastrous one term, your lack of decent judgment is mind-blowing",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990672469139099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-26T03:11:07Z",
+        "content": "$DWAC Biden being bad does not make Trump good, just as Trump being an absolute shitstain does not make Biden a saint.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666671,
+            "NLTK": -0.7101,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995220899581909
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-25T21:41:15Z",
+        "content": "$DWAC Making America Great Again",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997172951698303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-25T17:25:46Z",
+        "content": "$DWAC Why are conservatives in the US among the dumbest people on Earth? Rhetorical question.\n\nA Rasmussen poll asked people \u201c\n1* Do you agree or disagree with this statement:  \u201cIt\u2019s OK to be white.\u201d\n\nConservatives are going crazy that 26% of Black people disagree and 21% are not sure (never mind that menas 53% agree).\n\nThe question sucks, is the answer . This is like asking people if they agree with the statement \u201cMake America Great Again\u201d, and losing your mind over the negative responses from Democrats to this statement, and claiming \u201c80% of Democrats don\u2019t want America to be great!!\u201d\n\ntwitter.com/Rasmussen_Poll/...",
+        "sentiment": {
+            "TextBlob": 0.07592592592592592,
+            "NLTK": -0.7516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994057416915894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-24T07:35:39Z",
+        "content": "$DWAC Dunning Kruger\n\napple.news/AkjU-s6FET8alcnq...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966573715209961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-22T21:31:28Z",
+        "content": "$DWAC Interesting stats\n\nnpr.org/2023/02/22/11585387...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9793492555618286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-19T19:04:39Z",
+        "content": "$DWAC $DIS Good news",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6734029650688171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-15T02:06:13Z",
+        "content": "$DWAC Game time",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780896902084351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-14T20:23:40Z",
+        "content": "$DWAC Once again \u2026\n\ntheonion.com/no-way-to-prev...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994340538978577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-14T20:08:44Z",
+        "content": "$DWAC Definitely not moving to Arkansas now \u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9790453314781189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-14T19:05:29Z",
+        "content": "$DWAC Sometimes the government makes a difference",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9536859393119812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-14T00:06:45Z",
+        "content": "$DIS I love having the \u201cthen\u201d vs \u201cnow\u201d stamps for these kinds of posts \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838639497756958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-13T06:34:01Z",
+        "content": "$TWTR.P $DWAC Mr. Unbiased",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976582527160645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-11T05:43:27Z",
+        "content": "$DWAC I\u2019m sure Arkansas is lovely, but come on, now \u2026",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4678,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959480166435242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-11T05:36:44Z",
+        "content": "$FDX I can some pretty stupid things \u2026 this wasn\u2019t one of them!",
+        "sentiment": {
+            "TextBlob": -0.37499999999999994,
+            "NLTK": -0.126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996808767318726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-09T06:17:14Z",
+        "content": "$DWAC Bulls love this comic",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989094734191895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-09T00:12:41Z",
+        "content": "$DWAC $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957656860351562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-08T22:43:09Z",
+        "content": "$DWAC MTG POS\n\nhttps://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-fentanyl-state-union-b2278417.html",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842610359191895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-08T04:35:25Z",
+        "content": "$SPY \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806523323059082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-05T03:56:17Z",
+        "content": "$DWAC Mission Accomplished",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.99943608045578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-05T03:54:54Z",
+        "content": "$DWAC U-S-and-A! U-S-and-A!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971376657485962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-02-04T20:39:39Z",
+        "content": "$DWAC deflation",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996180534362793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-30T00:33:02Z",
+        "content": "$DWAC Florida, where schools have no books\n\nnews4jax.com/news/local/202...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995668888092041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-28T18:29:32Z",
+        "content": "$TWTR.P \u201cFree Speech Absolutist\u201d\n\nbusinessinsider.com/twitter...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913415312767029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-24T22:19:28Z",
+        "content": "$DWAC Caption this",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926405549049377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-24T05:59:13Z",
+        "content": "$DWAC Witch hunt that keeps finding witches",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9767671227455139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-21T19:41:29Z",
+        "content": "$DWAC Based on true events",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.919133186340332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-20T20:38:18Z",
+        "content": "$DWAC Donations from his supporters will fund this easily",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6858,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999454915523529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-19T20:52:19Z",
+        "content": "$TWTR.P $TSLA On a Tesla!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9559141993522644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-17T18:01:51Z",
+        "content": "$TWTR.P $TSLA SpaceX : \u201cWe\u2019re doing better without Elon interfering in our business\u201d\n\nSpaceX Prepares for a Breakout Year With Elon Musk Focused on Twitter  bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9951779842376709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-17T03:02:26Z",
+        "content": "$TWTR.P Lol free speech for all!\n\nbbc.com/news/world-asia-642...",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.75,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961884617805481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-16T06:53:09Z",
+        "content": "$DIS Just watched Avatar 2 in an almost full theater on a Sunday night. Amazing spectacle. The plot is only a device to show off the magical visual effects, and that is just fine by me. Any criticism is hollow and academic, because James Cameron delivers on audience expectations, and that is why the box office for this will keep rolling in.",
+        "sentiment": {
+            "TextBlob": 0.22083333333333335,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979245662689209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-12T17:20:37Z",
+        "content": "$DWAC Here\u2019s my proposal: A month of jail\ntime for every classified document the FBI has to retrieve from Biden\u2019s home, after being asked to return them. \n\nSame for Trump.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968029260635376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-12T05:32:12Z",
+        "content": "$DWAC $TWTR.P Bombshell Revelations",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929825067520142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-07T19:35:00Z",
+        "content": "$DWAC \u201cMaturity over Mar-a-Lago\u201d 14:00 \ud83d\ude02\n\nc-span.org/video/?c5050190/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869120121002197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-06T20:28:03Z",
+        "content": "$DWAC fireworks \ud83d\udca5",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9702733755111694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-06T04:39:32Z",
+        "content": "$TWTR.P \ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910750389099121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2023-01-04T21:02:56Z",
+        "content": "$DIS $DWAC Correct",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7757899761199951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-31T21:41:08Z",
+        "content": "$DWAC Regret \u2026 for being exposed\n\naol.com/news/ginni-thomas-r...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988853335380554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-28T16:56:17Z",
+        "content": "$TWTR.P How low can Elon go? Posting boomer memes now. Keep simpin Musk fanboys, because he\u2019s so smart and rich!",
+        "sentiment": {
+            "TextBlob": 0.22767857142857142,
+            "NLTK": 0.7613,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8848761320114136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-28T00:48:07Z",
+        "content": "@Trump_god_emperor How\u2019s $DWAC? If go woke, go broke, judging by stock price last 3 months, that must be the woke-est of them all! \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989485144615173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-27T22:22:36Z",
+        "content": "$DIS Stay Woke, Value Diversity, Continue to make entertainment for 99% of Americans and not cave to bigotry, homophobia, transphobia, xenophobia \u2026 profit long term Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8814455270767212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-26T18:11:29Z",
+        "content": "$DWAC \u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867136478424072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-26T18:05:13Z",
+        "content": "$TWTR.P 3/19/20",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932618737220764
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-25T22:51:39Z",
+        "content": "$DWAC Christmas messages from our current President and the one before that!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9300620555877686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-24T18:15:18Z",
+        "content": "$WMT They really value their employees!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4561,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957114458084106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-23T17:10:51Z",
+        "content": "$DWAC Watch this librarian go off on these MAGA deplorables and their accusations of \u201cgrooming\u201d and threats\n\ntwitter.com/bhaviklathia/st...\nlgbtqnation.com/2022/12/ang...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968078136444092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "gilmeriken",
+        "timestamp": "2022-12-23T09:52:16Z",
+        "content": "$DWAC \u201c If the libs are for it, we\u2019re against it, and the more offensively the better.\u201d\n\nthebulwark.com/putins-usefu...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.624,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988269209861755
+            }
+        },
+        "image_url": ""
+    }
+]

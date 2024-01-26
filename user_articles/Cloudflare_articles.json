@@ -1,0 +1,16 @@
+[
+    {
+        "username": "Cloudflare",
+        "timestamp": "2020-05-07T20:24:46Z",
+        "content": "$NET Cloudflare Announces First Quarter 2020 Financial Results, cloudflare.net/news/news-de...",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9412932991981506
+            }
+        },
+        "image_url": ""
+    }
+]

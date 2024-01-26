@@ -1,22 +1,31 @@
 import StockScreener as StockScreener
+import Analyst as Analyst
 
+CHOICES = ['screener', 'analyst', 'both']
 
-priority = [1, 1]
-valueList = ["forwardPE", "returnOnAssets"]
-StockScreener.main(stockList, valueList, priority)
-# valueList = ["earningsYield", "returnOnAssets"]
-# main(stockList, valueList, priority)
-valueList = ["forwardPE", "CPS"]
-main(stockList, valueList, priority)
-valueList = ["forwardPE", "returnOnEquity"]
-main(stockList, valueList, priority)
+def main():
+    choice = ""
+    while choice not in CHOICES:
+        choice = input("run screener, analyst, or both? (lowercase): \n")
 
-priority = [1, 1, 1]
-valueList = ["earningsYield", "returnOnAssets", "CPS"]
-main(stockList, valueList, priority)
+    if choice == "screener" or choice == "both":
+        stockList = StockScreener.getStocksFromCSV()
+        priority = [1, 1]
 
-priority = [1, 1]
-valueList = ["pegRatio", "returnOnAssets"]
-main(stockList, valueList, priority)
-valueList = ["bookToPrice", "returnOnAssets"]
-main(stockList, valueList, priority)
+        valueList = ["forwardPE", "returnOnAssets"]
+        StockScreener.screen(stockList, valueList, priority)
+        priority = [1, 1]
+        valueList = ["forwardPE", "CPS"]
+        StockScreener.screen(stockList, valueList, priority)
+        valueList = ["forwardPE", "returnOnEquity"]
+        StockScreener.screen(stockList, valueList, priority)
+
+        priority = [1, 1, 1]
+        valueList = ["earningsYield", "returnOnAssets", "CPS"]
+        StockScreener.screen(stockList, valueList, priority)
+
+    if choice == "analyst" or choice == "both":
+        Analyst.analyze()
+
+if __name__== "__main__":
+    main()

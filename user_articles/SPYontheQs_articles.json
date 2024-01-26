@@ -1,0 +1,800 @@
+[
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-12-16T23:35:39Z",
+        "content": "$COSM Stock went from $6 (post reverse split) to $.18 cents (post reverse split!!) to $24 and back to $8 lmaoooooo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972357153892517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-10-27T20:30:27Z",
+        "content": "$AMZN If you are in your 20s and you don't own this yet, this is perfect for you.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998487234115601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-05-12T04:13:46Z",
+        "content": "$BTC.X margin calls",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923140406608582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-05-11T17:41:39Z",
+        "content": "$AMC support at $0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8052351474761963
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-04-14T10:17:53Z",
+        "content": "$TWTR.P LETS FUCKING GOOOOOOO!",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998099148273468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-03-25T08:34:35Z",
+        "content": "$TWTR.P $TSLA Elon buy Twitter please",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6057073473930359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-03-24T09:07:44Z",
+        "content": "$SPY  \nWar raging in Europe \nMassive economic sanctions \ninflation \nsupply chain issues \nCOVID-19 \nimpending food shortage \ninterest rates going up \nNorth + South Korea both firing missiles \n \n \nMarkets up 8% in 2 weeks",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882621169090271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-03-16T18:26:06Z",
+        "content": "$YINN Update: Did not pull the trigger :/",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985411167144775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-03-16T18:09:15Z",
+        "content": "$SPY Stolen from Ramp",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977906942367554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-03-15T09:18:07Z",
+        "content": "$YINN getting tempting here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7368664145469666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-03-03T07:51:40Z",
+        "content": "$CL_F If you bought just one contract at $6, you'd be up 110k right now on like a $2k position LOL. Imagine if you bought 10, or 50, or 100.",
+        "sentiment": {
+            "TextBlob": 0.5428571428571429,
+            "NLTK": 0.7213,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986053109169006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-03-03T07:48:20Z",
+        "content": "$USO $CL_F My lord... At least the airlines hedged their fuel costs, I didn't lol",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3252,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893719553947449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-24T21:00:36Z",
+        "content": "$SPY markets totally make sense",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9919643402099609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-24T11:27:31Z",
+        "content": "$SPY Full on Russian attack Gostomel airport near Kyiv. Recent report says at least 5 Russian choppers shot down, unsure if at this location",
+        "sentiment": {
+            "TextBlob": -0.0007936507936508028,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953441023826599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-24T10:30:34Z",
+        "content": "$USO $CL_F anyone who had OOTM calls... my lord",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945951104164124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-24T09:33:24Z",
+        "content": "$SPY Imagine the meltdown if the fed stays course on its plan to hike rates. Could get ugly. They'll probably cave as always",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986692667007446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-24T07:14:48Z",
+        "content": "$SPY $QQQ $USO $CL_F $VIX Wow.... never seen anything like this in my life",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.2755,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866725206375122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-21T01:15:25Z",
+        "content": "$SPY Biden Putin summit made this go up 50 points? Lmao",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.642279863357544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-15T10:45:40Z",
+        "content": "$SPY RUSSIAN LAWMAKERS VOTE IN FAVOUR OF SENDING RESOLUTION ON RECOGNITION OF TWO BREAKAWAY REGIONS IN EASTERN UKRAINE TO PRESIDENT PUTIN \n \nRussia wants Donbas",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834811091423035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-15T09:01:33Z",
+        "content": "$SPY \n\nRussian Foreign Ministry spokeswoman Maria Zakharova just now: \u201cFebruary 15, 2022 will go down in history as the day Western war propaganda failed.  Humiliated and destroyed without a single shot fired.\u201d",
+        "sentiment": {
+            "TextBlob": -0.13599773242630384,
+            "NLTK": -0.93,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943201541900635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-15T08:38:10Z",
+        "content": "$SPY BREAKING: Some Russian soldiers have begun returning to their permanent bases",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993703305721283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-02-15T08:32:20Z",
+        "content": "$SPY Russia news or just Europe? Looks like Europe to me",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9756250977516174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-01-24T21:07:24Z",
+        "content": "$SPY $QQQ NASDAQ like 5% off the lows. Wow",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9781813025474548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-01-20T21:42:29Z",
+        "content": "$SPY $QQQ Guess where you invested",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998084306716919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-01-20T20:58:30Z",
+        "content": "$SPY Wow",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995978593826294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2022-01-19T21:03:17Z",
+        "content": "$SPY limit down this market for like 6 months so we can all get in cheap",
+        "sentiment": {
+            "TextBlob": 0.12222222222222222,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988523721694946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-12-01T21:20:59Z",
+        "content": "$SPY Bring back limit down!",
+        "sentiment": {
+            "TextBlob": -0.09722222222222224,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892755150794983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-11-30T16:09:37Z",
+        "content": "$SPY No more QE?",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998753547668457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-10-13T21:32:30Z",
+        "content": "$SPY AP: U.S. government expects households to see heating bills jump as much as 54% compared to last winter",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971805810928345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-07-19T19:03:26Z",
+        "content": "$SPY bring us back to limit down fun",
+        "sentiment": {
+            "TextBlob": 0.048148148148148134,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9932997226715088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-07-19T18:22:03Z",
+        "content": "$SPY At levels not yet seen since a month ago when they were new ATH\u2019s",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954556226730347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-06-02T18:13:58Z",
+        "content": "$AMC course it had to happen when I\u2019m on vacation lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953752756118774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-05-28T14:29:14Z",
+        "content": "$SPY Selling premiums continues to be the best in this market",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996931552886963
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-05-14T16:15:15Z",
+        "content": "$SPY Why do I even waste my time and money trying to short this",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997138381004333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-05-12T16:18:07Z",
+        "content": "$HTZGQ I had shares under a dollar but didn\u2019t have the balls. Congrats to those who did",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964591860771179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-05-12T16:17:18Z",
+        "content": "$SPY When you look at prices there is still so much room to the downside. Doesn\u2019t mean we will keep falling but tons of room",
+        "sentiment": {
+            "TextBlob": -0.056249999999999994,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868803024291992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-05-11T14:43:22Z",
+        "content": "$SPY *Market at levels not seen since last Tuesday*\n\nEvery YouTube Thumbnail:",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995314359664917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-04-13T19:19:12Z",
+        "content": "$SPY it\u2019s going up forever apparently",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9886553287506104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-04-01T20:11:44Z",
+        "content": "$SPY Our grandkids will be making fun of us talking about SPY 400 when SPY is at 4000",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7016497254371643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-04-01T17:03:08Z",
+        "content": "$SPY was at $245 a year ago \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968022108078003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-25T10:03:05Z",
+        "content": "$SPY Youtube comments in this market environment are a work of art. People basically admitting they are getting killed and everyone loves it lol",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8427788615226746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-25T09:58:31Z",
+        "content": "$SPY just noticed a year since the low",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848983883857727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-25T01:38:53Z",
+        "content": "$SPY $QQQ Risk off?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969704151153564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-22T18:08:19Z",
+        "content": "$SPY no volume float works every time lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988394379615784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-18T14:47:14Z",
+        "content": "$QQQ so much weaker than $SPY",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4902,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997493624687195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-18T13:28:35Z",
+        "content": "$SPY If we really wanna own the riches on wall street we should just sell our 401k's and take SPY to $150 lol",
+        "sentiment": {
+            "TextBlob": 0.5333333333333333,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992104768753052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-17T18:03:39Z",
+        "content": "$SPY Inflation continues to run below 2 percent",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993206262588501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-17T18:01:08Z",
+        "content": "$SPY thanks for playing",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998664379119873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-15T20:33:36Z",
+        "content": "$UVXY Buying calls sometime this week. January 2022 probably",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9771754741668701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-15T20:31:01Z",
+        "content": "$AMC Great work today losers degenerates and apes. I want to see $15 tomorrow",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958155751228333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-15T19:11:56Z",
+        "content": "$AMC Alright degens lets see $15",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9434698224067688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-15T08:05:05Z",
+        "content": "$AMC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977611303329468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-12T18:03:39Z",
+        "content": "$LUV best airline not close",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5788480639457703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-12T17:35:32Z",
+        "content": "$UVXY trying to get September calls they are really cheap.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999790370464325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-12T13:29:26Z",
+        "content": "$USO want to short at $69",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998180627822876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-10T19:45:53Z",
+        "content": "$SPY $400 is a magnet but I think it's going lower this year",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995299577713013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SPYontheQs",
+        "timestamp": "2021-03-10T19:43:10Z",
+        "content": "$AMC I got stopped out while I slept at 10.48 (from $7.20) and got back in at $10.04",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943650960922241
+            }
+        },
+        "image_url": ""
+    }
+]

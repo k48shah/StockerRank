@@ -1,0 +1,926 @@
+[
+    {
+        "username": "unusual_whales",
+        "timestamp": "2022-12-27T21:55:11Z",
+        "content": "Southwest, $LUV, canceled nearly 70% of its 2,886 flights Monday and 60% of some 2,400, planned Tuesday flights, according to FlightAware.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993459582328796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2022-12-04T03:32:08Z",
+        "content": "BREAKING: Apple, $AAPL, makes plans to move production out of China, per WSJ.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9921974539756775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T16:05:31Z",
+        "content": "\ud83d\uddd3\ufe0f \n$EWZ 2020-08-07 C $30\n\nBid: $1.34\nAsk: $1.4\nInterest: 1\nVolume: 1755\nIV: 53.62%\n% Diff: 5.26%\nPurchase: $28.5\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990740180015564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T16:00:03Z",
+        "content": "\ud83d\uddd3\ufe0f \n$MSFT 2020-08-07 P $165\n\nBid: $1.44\nAsk: $1.7\nInterest: 7\nVolume: 255\nIV: 46.3%\n% Diff: -16.44%\nPurchase: $197.47\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991916835308075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T15:45:08Z",
+        "content": "\ud83d\uddd3\ufe0f \n$AMRN 2020-12-18 P $7\n\nBid: $2.1\nAsk: $2.53\nInterest: 45\nVolume: 1520\nIV: 117.17%\n% Diff: 3.7%\nPurchase: $6.75\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883183240890503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T15:39:31Z",
+        "content": "\ud83d\uddd3\ufe0f \n$HLT 2020-10-16 C $95\n\nBid: $1.25\nAsk: $1.6\nInterest: 171\nVolume: 750\nIV: 44.64%\n% Diff: 30.28%\nPurchase: $72.92\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886577725410461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T15:29:45Z",
+        "content": "$FSLY 2020-07-17 C $110\n\nBid: $2.05\nAsk: $2.35\nInterest: 169\nVolume: 850\nIV: 140.18%\n% Diff: 38.36%\nPurchase: $79.5",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9820693135261536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T15:24:59Z",
+        "content": "\ud83d\uddd3\ufe0f \n$HST 2021-01-15 P $9\n\nBid: $1\nAsk: $1.15\nInterest: 431\nVolume: 6434\nIV: 65.18%\n% Diff: -18.11%\nPurchase: $10.99\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893887639045715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T15:19:24Z",
+        "content": "$MU 2020-07-17 P $43.5\n\nBid: $0.83\nAsk: $0.9\nInterest: 6\nVolume: 294\nIV: 63.24%\n% Diff: -9.92%\nPurchase: $48.29",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914160370826721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T15:09:05Z",
+        "content": "$INTC 2020-07-17 C $61\n\nBid: $0.55\nAsk: $0.56\nInterest: 186\nVolume: 1541\nIV: 34.87%\n% Diff: 6.44%\nPurchase: $57.31",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900357127189636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T15:03:49Z",
+        "content": "\ud83d\uddd3\ufe0f \n$T 2020-08-07 C $33.5\n\nBid: $0.17\nAsk: $0.2\nInterest: 1\nVolume: 1235\nIV: 33.61%\n% Diff: 12.76%\nPurchase: $29.71\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992049515247345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T14:53:54Z",
+        "content": "\ud83d\uddd3\ufe0f \n$BB 2020-08-07 C $5.5\n\nBid: $0.14\nAsk: $0.18\nInterest: 4\nVolume: 344\nIV: 67.15%\n% Diff: 16.53%\nPurchase: $4.72\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991621732711792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T14:43:42Z",
+        "content": "\ud83d\ude80 \ud83d\udea8 \n$AMZN 2020-07-02 C $3130\n\nBid: $0.01\nAsk: $0.89\nInterest: 6\nVolume: 409\nIV: 69.12%\n% Diff: 17.34%\nPurchase: $2667.55\n\n\ud83d\ude80 \ud83d\udea8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923534989356995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T14:39:16Z",
+        "content": "$PYPL 2020-07-17 C $187.5\n\nBid: $0.78\nAsk: $0.8\nInterest: 51\nVolume: 299\nIV: 40.79%\n% Diff: 12.07%\nPurchase: $167.31",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909012317657471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T14:28:33Z",
+        "content": "\ud83d\ude80 \ud83d\udea8 \n$MAR 2020-07-02 C $90\n\nBid: $0.3\nAsk: $0.35\nInterest: 179\nVolume: 1593\nIV: 79.05%\n% Diff: 9.81%\nPurchase: $81.96\n\n\ud83d\ude80 \ud83d\udea8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883363842964172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T14:18:51Z",
+        "content": "$RTX 2020-07-10 C $65\n\nBid: $0.61\nAsk: $0.69\nInterest: 316\nVolume: 1451\nIV: 50.04%\n% Diff: 7.37%\nPurchase: $60.54",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918575882911682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-29T14:13:44Z",
+        "content": "$SNAP 2020-07-10 P $20.5\n\nBid: $0.25\nAsk: $0.3\nInterest: 202\nVolume: 877\nIV: 61.32%\n% Diff: -8.42%\nPurchase: $22.385",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898344278335571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-28T17:52:01Z",
+        "content": "@DeItaOne Saw a lot of put movement on $SBUX\ngyazo.com/adf3954c9efe7b10a...\n\nPaired with store closures, how do we think this will play out?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978499412536621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-28T05:34:07Z",
+        "content": "@HiddenPivots Saw a bunch of call movement for OSTK dated some time out gyazo.com/d6773aa34a908b636...\n\nWhat you think HiddenPivots? Believe in $O",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977744221687317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T20:00:11Z",
+        "content": "\ud83d\uddd3\ufe0f \n$MLCO 2020-08-21 C $16\n\nBid: $1.1\nAsk: $1.2\nInterest: 4\nVolume: 271\nIV: 64.75%\n% Diff: 5.61%\nPurchase: $15.15\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922047257423401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T19:54:59Z",
+        "content": "$NFLX 2020-07-02 P $330\n\nBid: $0.04\nAsk: $0.07\nInterest: 39\nVolume: 293\nIV: 87.12%\n% Diff: -25.53%\nPurchase: $443.11",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989459753036499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T19:41:09Z",
+        "content": "$GILD 2020-07-02 P $68\n\nBid: $0.09\nAsk: $0.12\nInterest: 81\nVolume: 417\nIV: 42.72%\n% Diff: -8.08%\nPurchase: $73.98",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887556433677673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T19:36:45Z",
+        "content": "\ud83d\uddd3\ufe0f \n$LUMN 2021-01-15 P $6\n\nBid: $0.22\nAsk: $0.33\nInterest: 1003\nVolume: 5697\nIV: 58.75%\n% Diff: -36.78%\nPurchase: $9.49\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993920087814331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T19:27:01Z",
+        "content": "\ud83d\uddd3\ufe0f \n$PFE 2021-01-15 C $46\n\nBid: $0.13\nAsk: $0.17\nInterest: 545\nVolume: 2790\nIV: 30.26%\n% Diff: 44.75%\nPurchase: $31.78\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912170171737671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T19:21:58Z",
+        "content": "\ud83d\uddd3\ufe0f \n$EFA 2022-01-21 C $64\n\nBid: $4\nAsk: $4.5\nInterest: 178\nVolume: 3500\nIV: 20.18%\n% Diff: 5.66%\nPurchase: $60.57\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909304976463318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T19:17:22Z",
+        "content": "\ud83d\uddd3\ufe0f \n$AAL 2020-07-31 C $18\n\nBid: $0.45\nAsk: $0.54\nInterest: 286\nVolume: 1322\nIV: 127.26%\n% Diff: 46.94%\nPurchase: $12.25\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891784191131592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T19:02:26Z",
+        "content": "$ANF 2020-07-17 C $10.5\n\nBid: $0.41\nAsk: $0.47\nInterest: 45\nVolume: 276\nIV: 81.92%\n% Diff: 8.7%\nPurchase: $9.66",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896861910820007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T18:56:59Z",
+        "content": "\ud83d\uddd3\ufe0f \n$MAXR 2021-01-15 P $20\n\nBid: $5.2\nAsk: $6\nInterest: 38\nVolume: 400\nIV: 82.57%\n% Diff: 9.83%\nPurchase: $18.21\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98751300573349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T18:47:13Z",
+        "content": "$GDXJ 2020-07-17 P $43\n\nBid: $0.79\nAsk: $0.84\nInterest: 470\nVolume: 1981\nIV: 52.99%\n% Diff: -8.45%\nPurchase: $46.97",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887844324111938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T18:41:59Z",
+        "content": "$NTNX 2020-07-02 P $20.5\n\nBid: $0.2\nAsk: $0.3\nInterest: 16\nVolume: 402\nIV: 79.12%\n% Diff: -8.15%\nPurchase: $22.32",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919781684875488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T18:31:48Z",
+        "content": "$PTON 2020-07-02 C $61\n\nBid: $1.25\nAsk: $1.31\nInterest: 45\nVolume: 559\nIV: 81.44%\n% Diff: 5.1%\nPurchase: $58.04",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913937449455261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T18:27:05Z",
+        "content": "$GNUS 2020-07-02 C $2\n\nBid: $0.5\nAsk: $0.55\nInterest: 297\nVolume: 1908\nIV: 234.02%\n% Diff: -18.7%\nPurchase: $2.46",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912394881248474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T18:17:31Z",
+        "content": "$SPXU 2020-07-10 C $16.5\n\nBid: $0.2\nAsk: $0.3\nInterest: 37\nVolume: 254\nIV: 123.62%\n% Diff: 29.92%\nPurchase: $12.7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870873689651489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T18:08:00Z",
+        "content": "$ZS 2020-07-02 C $116\n\nBid: $0.95\nAsk: $1.05\nInterest: 79\nVolume: 403\nIV: 65.22%\n% Diff: 7.56%\nPurchase: $107.85",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882900714874268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:57:59Z",
+        "content": "\ud83d\uddd3\ufe0f \n$DELL 2020-08-21 P $40\n\nBid: $0.35\nAsk: $0.4\nInterest: 50\nVolume: 351\nIV: 51.22%\n% Diff: -23.82%\nPurchase: $52.51\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926329255104065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:52:35Z",
+        "content": "$PYPL 2020-07-17 C $195\n\nBid: $0.6\nAsk: $0.64\nInterest: 980\nVolume: 4698\nIV: 37.66%\n% Diff: 13.44%\nPurchase: $171.9",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880462884902954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:47:48Z",
+        "content": "$MOMO 2020-07-17 P $16\n\nBid: $0.55\nAsk: $0.65\nInterest: 16\nVolume: 299\nIV: 64.18%\n% Diff: -5.77%\nPurchase: $16.98",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947429895401001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:37:27Z",
+        "content": "$VZ 2020-07-02 P $48\n\nBid: $0.02\nAsk: $0.03\nInterest: 34\nVolume: 322\nIV: 40.27%\n% Diff: -9.66%\nPurchase: $53.13",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908145070075989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:32:35Z",
+        "content": "\ud83d\uddd3\ufe0f \n$MU 2021-06-18 P $37.5\n\nBid: $4.2\nAsk: $4.25\nInterest: 4\nVolume: 604\nIV: 51.86%\n% Diff: -22.82%\nPurchase: $48.59\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916614294052124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:22:17Z",
+        "content": "$MGM 2020-07-02 P $15\n\nBid: $0.47\nAsk: $0.49\nInterest: 1207\nVolume: 5587\nIV: 102.59%\n% Diff: -5%\nPurchase: $15.79",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887765049934387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:17:38Z",
+        "content": "\ud83d\uddd3\ufe0f \n$F 2020-08-07 C $7\n\nBid: $0.19\nAsk: $0.21\nInterest: 5\nVolume: 359\nIV: 69.36%\n% Diff: 19.35%\nPurchase: $5.865\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915767908096313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T17:03:00Z",
+        "content": "$NVAX 2020-07-02 P $75\n\nBid: $2.95\nAsk: $4\nInterest: 187\nVolume: 764\nIV: 138.32%\n% Diff: -6.26%\nPurchase: $80.01",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985386848449707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:58:42Z",
+        "content": "$GS 2020-07-10 P $182.5\n\nBid: $3.65\nAsk: $3.8\nInterest: 19\nVolume: 545\nIV: 50.84%\n% Diff: -4.85%\nPurchase: $191.81",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883496761322021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:49:19Z",
+        "content": "\ud83d\uddd3\ufe0f \n$INDA 2021-01-15 C $36\n\nBid: $0.55\nAsk: $0.6\nInterest: 54\nVolume: 1814\nIV: 29.13%\n% Diff: 23.69%\nPurchase: $29.105\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988842248916626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:44:49Z",
+        "content": "$CRWD 2020-07-17 C $111\n\nBid: $2.15\nAsk: $2.3\nInterest: 13\nVolume: 827\nIV: 65.86%\n% Diff: 12.58%\nPurchase: $98.6",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900447726249695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:34:13Z",
+        "content": "$SYF 2020-07-17 P $20\n\nBid: $0.85\nAsk: $0.9\nInterest: 688\nVolume: 5065\nIV: 74.58%\n% Diff: -6.63%\nPurchase: $21.42",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991078794002533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:28:51Z",
+        "content": "$FSLY 2020-07-10 P $80\n\nBid: $4.6\nAsk: $5.1\nInterest: 23\nVolume: 306\nIV: 119.23%\n% Diff: -7.73%\nPurchase: $86.7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849916100502014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:24:09Z",
+        "content": "\ud83d\uddd3\ufe0f \n$HST 2021-01-15 C $14\n\nBid: $0.6\nAsk: $0.9\nInterest: 13\nVolume: 400\nIV: 54.44%\n% Diff: 30.84%\nPurchase: $10.7\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887053370475769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:13:26Z",
+        "content": "$SNAP 2020-07-24 C $25.5\n\nBid: $1.08\nAsk: $1.15\nInterest: 34\nVolume: 2232\nIV: 68.32%\n% Diff: 7.37%\nPurchase: $23.75",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856524467468262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T16:07:43Z",
+        "content": "\ud83d\uddd3\ufe0f \n$SPY 2020-11-20 C $339\n\nBid: $4.64\nAsk: $4.77\nInterest: 64\nVolume: 434\nIV: 21.56%\n% Diff: 12.16%\nPurchase: $302.26\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926667809486389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:57:24Z",
+        "content": "$JPM 2020-07-17 C $103\n\nBid: $1.07\nAsk: $1.11\nInterest: 128\nVolume: 537\nIV: 48.3%\n% Diff: 10.41%\nPurchase: $93.29",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988191545009613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:52:08Z",
+        "content": "\ud83d\uddd3\ufe0f \n$SQ 2020-12-18 P $80\n\nBid: $6.4\nAsk: $6.6\nInterest: 320\nVolume: 1657\nIV: 61.51%\n% Diff: -22.35%\nPurchase: $103.03\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908748865127563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:47:46Z",
+        "content": "\ud83d\uddd3\ufe0f \n$DFS 2020-10-16 P $45\n\nBid: $5.1\nAsk: $5.5\nInterest: 200\nVolume: 1596\nIV: 66.2%\n% Diff: -7.06%\nPurchase: $48.42\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916449189186096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:37:57Z",
+        "content": "\ud83d\uddd3\ufe0f \n$CRWD 2021-06-18 P $65\n\nBid: $6.7\nAsk: $6.9\nInterest: 68\nVolume: 795\nIV: 61.23%\n% Diff: -34.34%\nPurchase: $99\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915466904640198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:33:14Z",
+        "content": "\ud83d\uddd3\ufe0f \n$XLP 2020-08-21 C $61\n\nBid: $0.57\nAsk: $0.62\nInterest: 87\nVolume: 1113\nIV: 18.61%\n% Diff: 5.41%\nPurchase: $57.87\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893800616264343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:23:55Z",
+        "content": "\ud83d\uddd3\ufe0f \n$AEO 2020-11-20 P $11\n\nBid: $1.9\nAsk: $2.1\nInterest: 19\nVolume: 2000\nIV: 71.41%\n% Diff: 1.01%\nPurchase: $10.89\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917512536048889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:19:08Z",
+        "content": "\ud83d\uddd3\ufe0f \n$IWM 2020-07-31 C $153\n\nBid: $1.03\nAsk: $1.07\nInterest: 229\nVolume: 2843\nIV: 33.12%\n% Diff: 11.83%\nPurchase: $136.82\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869986176490784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:08:58Z",
+        "content": "\ud83d\uddd3\ufe0f \n$SNAP 2020-10-16 P $25\n\nBid: $3.7\nAsk: $3.75\nInterest: 200\nVolume: 10499\nIV: 55.32%\n% Diff: 5.89%\nPurchase: $23.61\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891756176948547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T15:03:23Z",
+        "content": "$INO 2020-07-10 C $32\n\nBid: $5.6\nAsk: $5.8\nInterest: 56\nVolume: 767\nIV: 327.11%\n% Diff: 12.99%\nPurchase: $28.32",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987444281578064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T14:53:09Z",
+        "content": "$UNH 2020-07-24 P $250\n\nBid: $2.22\nAsk: $3.3\nInterest: 23\nVolume: 315\nIV: 52.18%\n% Diff: -14.63%\nPurchase: $292.84",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911068081855774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T14:43:07Z",
+        "content": "$STAA 2020-07-17 P $50\n\nBid: $0.4\nAsk: $0.7\nInterest: 71\nVolume: 1104\nIV: 65.33%\n% Diff: -16.33%\nPurchase: $59.76",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932158589363098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T14:38:21Z",
+        "content": "\ud83d\uddd3\ufe0f \n$AZN 2020-08-21 C $65\n\nBid: $0.55\nAsk: $0.6\nInterest: 1183\nVolume: 27465\nIV: 44.4%\n% Diff: 22.57%\nPurchase: $53.03\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909698367118835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T14:29:02Z",
+        "content": "\ud83d\uddd3\ufe0f \n$SPG 2020-08-21 P $45\n\nBid: $1.59\nAsk: $1.65\nInterest: 261\nVolume: 2504\nIV: 87.19%\n% Diff: -28.48%\nPurchase: $62.92\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900791645050049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T14:24:06Z",
+        "content": "$GPS 2020-07-10 P $13\n\nBid: $1\nAsk: $1.39\nInterest: 11\nVolume: 965\nIV: 154.69%\n% Diff: -7.41%\nPurchase: $14.04",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885243773460388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T14:14:35Z",
+        "content": "\ud83d\uddd3\ufe0f \n$FTCH 2020-08-21 C $21\n\nBid: $1.2\nAsk: $1.4\nInterest: 21\nVolume: 490\nIV: 82.72%\n% Diff: 16.02%\nPurchase: $18.1\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990295946598053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "unusual_whales",
+        "timestamp": "2020-06-26T14:09:15Z",
+        "content": "\ud83d\uddd3\ufe0f \n$QQQ 2020-09-18 C $257\n\nBid: $7.25\nAsk: $7.28\nInterest: 715\nVolume: 14000\nIV: 26.25%\n% Diff: 5.24%\nPurchase: $244.2\n\n\ud83d\uddd3\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898210763931274
+            }
+        },
+        "image_url": ""
+    }
+]

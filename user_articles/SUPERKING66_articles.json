@@ -1,0 +1,5840 @@
+[
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-27T01:57:38Z",
+        "content": "$META gap and go tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9798633456230164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-26T13:20:57Z",
+        "content": "$NVDA. Cup and handle Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992149829864502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-26T12:58:50Z",
+        "content": "$NVDA price target today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947642087936401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-26T04:54:36Z",
+        "content": "$FRCB smh. I seen it coming. Yet I didn't act on it. Sometimes it be that easy.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9771236777305603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-26T03:48:30Z",
+        "content": "$NVDA ez Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983155727386475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-24T19:24:05Z",
+        "content": "$NKLA hoping and holding. I hate being in that position.",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878831505775452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-24T18:25:05Z",
+        "content": "$NKLA WOW this is dumping hard. What is the news?",
+        "sentiment": {
+            "TextBlob": -0.09583333333333334,
+            "NLTK": 0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992721676826477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-24T17:53:44Z",
+        "content": "$HYMC back in it....let's run back up to 50cents Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990131855010986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-24T17:45:30Z",
+        "content": "$TSLA hurry up and climb back to 200 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983141422271729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-24T16:30:13Z",
+        "content": "$TSLA it would be crazy if this climbs back to 165. Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997818112373352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-20T23:29:57Z",
+        "content": "$NKLA I'm sort of thinking about buying ? Anyone else loading up here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982022047042847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-07T16:14:30Z",
+        "content": "$SPY I swear it feels odd not to trade on a Friday. I typically like to scalp a few contracts that have been theta killed.",
+        "sentiment": {
+            "TextBlob": -0.18333333333333335,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8948633074760437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-04-06T07:35:21Z",
+        "content": "$SPY market was down red today. Apple, Amazon, AMD, Baba, Enphase, Intel, Microsoft, Nvda, United Airlines, etc. but somehow this manages to stay only down .26% for the day. SMH. When the real price discovery begins it will be a blood bath. Bearish",
+        "sentiment": {
+            "TextBlob": -0.022222222222222233,
+            "NLTK": -0.4214,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947373270988464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-31T17:50:40Z",
+        "content": "$UVXY patience pays Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971060156822205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-30T05:24:32Z",
+        "content": "$UVXY have you heard of .fifty cent...the man the myth the legend. He's holding a big vix position....Google him. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963070154190063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-14T17:22:45Z",
+        "content": "$HYMC as long as this holds above .31 cents we are at a higher low. Give it 3 months. Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999680757522583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-13T22:03:51Z",
+        "content": "$HYMC price prediction....to the MOON! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992849230766296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-06T20:47:08Z",
+        "content": "$UVXY might just get out of these and go to spy puts. Smh.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99891197681427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-06T20:44:15Z",
+        "content": "$UVXY this thing seriously broken....market has been dumping yet this stays at the bottom. Smh.",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999708354473114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-02T06:40:19Z",
+        "content": "$AMC remember when all the insiders sold around 30 to 40 dollars. Now retail holding the bag here at the bottom. If the insiders sold out it means even they don't believe in the stock. Be smart. Hopefully this helps someone. Bearish",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828177690505981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-01T15:55:06Z",
+        "content": "$AMC pt eow is 6.5. Then imma sell my lottos.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948051571846008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-01T15:53:03Z",
+        "content": "$AMC dilution about to pass. Biz needs it. Loss half of its cash on hand yoy. Not looking good. Bearish",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": -0.1295,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997109770774841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-01T15:33:19Z",
+        "content": "$AMC I'd go long again at 4.50 when it hits the bottom of the channel. Other than that sitting on my hands for any upside. Bearish",
+        "sentiment": {
+            "TextBlob": -0.0875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994310736656189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-01T15:32:10Z",
+        "content": "$AMC price action is where it's at children. Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990211009979248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-01T02:44:33Z",
+        "content": "$SPCE I remember 3 years ago when I went to Thailand and I bought SPCE calls around this price. My lotto play went from 2k to 20k, and I sold them while at the club. All my homies had fun that night.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6277569532394409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-03-01T02:24:52Z",
+        "content": "$RIVN why do Rivians cost so most. I'd rather buy a Ford Raptor.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999470055103302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-28T23:32:27Z",
+        "content": "$AMC calculating delta with theta decay my puts should print tomorrow by about 30 to 40%. But with IV crush maybe less. All I know is I made money lmao Bearish",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990014433860779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-28T20:37:21Z",
+        "content": "$AMC synthetics....no synthetics. Who cares about all that? Only thing that matters is price action. Learn to the game. Bearish",
+        "sentiment": {
+            "TextBlob": -0.10000000000000002,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992133378982544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-28T19:00:05Z",
+        "content": "$AMC not trolling....but curious who is up on their puts?  Mines printing. And who is down on their calls? Be smart. Bearish",
+        "sentiment": {
+            "TextBlob": -0.013756613756613773,
+            "NLTK": 0.2728,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948045611381531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-28T18:48:21Z",
+        "content": "$AMC if I post anything bearish on here I will get attacked. Lol I'm sorry if I'm packing money on the way up and on the way down. Bearish",
+        "sentiment": {
+            "TextBlob": 0.048148148148148155,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996009469032288
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-27T22:03:52Z",
+        "content": "$AMC pump before the dump. I learned from the past. Market behavior is what it is.  After another bad ER this will dump. Bearish",
+        "sentiment": {
+            "TextBlob": -0.4749999999999999,
+            "NLTK": -0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995602965354919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-13T12:59:03Z",
+        "content": "$MNDY if history repeats itself like majority of all the other positive earnings reported this season then this stock will give back all its gains by EOD.",
+        "sentiment": {
+            "TextBlob": 0.03409090909090909,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977389574050903
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-10T08:25:20Z",
+        "content": "$LYFT I knew I should have got puts. That IV was just nuts though. Nice win for the bears!",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.68,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980212450027466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-09T21:48:16Z",
+        "content": "$PYPL HITTING 85 PREMARKET !!!!!!!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996870219707489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-09T21:48:03Z",
+        "content": "$PYPL LETS GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990019202232361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-09T21:42:16Z",
+        "content": "$PYPL bull flag? sort of...... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990377426147461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-08T18:43:08Z",
+        "content": "$ENPH earnings is never guaranteed.  I know that now. Better off playing Bacarrat.  Smh.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990478157997131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-08T17:53:37Z",
+        "content": "$ENPH wow. Only 3 hours left in market. At this rate I think this will hit 200. Still bullish though. Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988987445831299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-08T15:04:30Z",
+        "content": "$ENPH here we goooooooooooo. get back to 12% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970788955688477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-08T14:58:37Z",
+        "content": "$ENPH  ok ok ok. this is the most interesting dump of my life. I feel like they just killed everyone on the options chain. Just took everyone out on both sides. Wild move. Still bullish though. Bought the dip. Bullish",
+        "sentiment": {
+            "TextBlob": 0.34285714285714286,
+            "NLTK": 0.4048,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943128824234009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-07T13:49:53Z",
+        "content": "$AMC wow......lol I sold at the bottom. Smh.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978354573249817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-01T20:53:50Z",
+        "content": "$EBET nice base build here for the next leg up. Bullish",
+        "sentiment": {
+            "TextBlob": -0.0666666666666667,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915677905082703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-01T14:19:33Z",
+        "content": "$MSGM I was about to buy at 19.5 too. Smh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909366965293884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-01T13:58:32Z",
+        "content": "$PTON earnings was \ud83d\udca9. Why are buyers stepping in to buy this? Really makes no sense. Smh. Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.5829,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993703961372375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-02-01T11:31:28Z",
+        "content": "$PTON pump before the massive dump. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984508752822876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-31T13:45:28Z",
+        "content": "$MCD why is this down 2% on such a good earnings? This is MMs with the baloney.  Smh.",
+        "sentiment": {
+            "TextBlob": 0.18148148148148147,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982433319091797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-26T21:42:37Z",
+        "content": "$SPY heavy on puts Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962528944015503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-26T04:02:46Z",
+        "content": "$TSLA damn you tsla.  Smh.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982824325561523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-25T18:55:31Z",
+        "content": "$TSLA slow algorithm pump before the dump. Bearish",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990004897117615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-25T18:53:12Z",
+        "content": "$TSLA puts looking tasty. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9945380091667175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-19T20:27:01Z",
+        "content": "$NFLX head and shoulders formed on that last 2 hours Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909555315971375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-19T20:26:29Z",
+        "content": "$NFLX puts from that top printing nicely. Bearish",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978654980659485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-19T20:16:41Z",
+        "content": "$AVCTQ going to gulag aka OTC. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983922839164734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-19T20:07:55Z",
+        "content": "$AVCTQ to the moon!!!!! Buy more. Put your entire house on it. Lmao Bullish",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.7243,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987449645996094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-19T20:01:58Z",
+        "content": "$AVCTQ not looking good Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997178912162781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-18T05:44:33Z",
+        "content": "$AVCTQ price target by end of month is .50 cents Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947393536567688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-18T05:42:47Z",
+        "content": "$AVCTQ haha spammers keep tagging this pos company and now I'm here. If you have to pump your losing position it means you shouldn't be in it. Think about  that? Lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9632848501205444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-18T05:32:53Z",
+        "content": "$AVCTQ I guess if you bag holding might as well hold it till you lose it all. If you down 70% oh well. Let it ride? Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978062510490417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-18T05:23:09Z",
+        "content": "$AVCTQ garbage company. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994717240333557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-05T09:56:59Z",
+        "content": "$AVCTQ how high can this go? What's proce target?",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992656111717224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-05T09:56:20Z",
+        "content": "$AVCTQ so whats all the noise over here? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994644522666931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-05T09:11:12Z",
+        "content": "$SPY We all know what's about to happen. Bad data incoming!!! Bearish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.6571,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997517466545105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-05T05:31:46Z",
+        "content": "$AMZN trend is your friend....remember that. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8858861923217773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2023-01-05T05:30:32Z",
+        "content": "$AMZN short this. Ez money. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985822439193726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-12-28T07:10:06Z",
+        "content": "$SPY EOW predictions???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978283047676086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-11-17T18:11:20Z",
+        "content": "$NKLA a lot of insider trading on the sell side.....",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9724770188331604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-10-26T22:38:26Z",
+        "content": "$SPY burning to 360 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967290163040161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-06-15T20:25:55Z",
+        "content": "$SPY bull trap Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946764707565308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-06-15T19:29:09Z",
+        "content": "$UVXY what a joke Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998367965221405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-06-15T19:14:57Z",
+        "content": "$UVXY gap fill. Time to fly. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994696974754333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-06-15T19:14:01Z",
+        "content": "$SPY gap fill. Now it's time to dip lower. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993332028388977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-06-15T17:54:38Z",
+        "content": "$GME zzzzzzzz just waiting Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985215067863464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-06-15T16:07:41Z",
+        "content": "$UVXY  25 to 30 coming real quick... just wait. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994319081306458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-06-15T15:05:13Z",
+        "content": "$EGRNF why is this even trading still?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996213912963867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-31T14:58:57Z",
+        "content": "$WMT the great reset is coming. Sell now $TSLA $SPY $QQQ Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990797758102417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-12T03:56:43Z",
+        "content": "$AMC still holding strong.  We all know why we hold. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9750935435295105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-11T04:36:45Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-11T02:23:08Z",
+        "content": "$SPY plain and clear for all to see Bearish",
+        "sentiment": {
+            "TextBlob": -0.05714285714285713,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6054412126541138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-10T15:01:16Z",
+        "content": "$SPY Biden on in less than 30 minutes. Bullish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990850687026978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-06T20:16:14Z",
+        "content": "$AMC Voting no or yes on the 25 million shares?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967246651649475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-05T21:37:45Z",
+        "content": "$SQ lotto plays about to print tomorrow baby! Let's go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3786,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966377019882202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-03T17:53:51Z",
+        "content": "$AMC muahahhahahahhah Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980260729789734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-05-03T17:53:45Z",
+        "content": "$AMC muahhahahhahaahhahahahhahahaha",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950339794158936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-04-22T06:10:11Z",
+        "content": "$AMC Max pain is real. Be smart and buy 3 July or September contracts. Buy time and scale in. A win is a win. Don't get caught up in the wild gains.",
+        "sentiment": {
+            "TextBlob": 0.5053571428571428,
+            "NLTK": 0.8555,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.971126139163971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-04-07T16:35:21Z",
+        "content": "$AMC $GME  mmmmm MmmmmmMmhh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936177730560303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-04-05T16:38:16Z",
+        "content": "$AMC $GME",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886276125907898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-04-04T05:39:08Z",
+        "content": "$AMC  LFG!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884130358695984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-04-04T05:36:49Z",
+        "content": "$AMC let's get this thing trending! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998735249042511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-31T06:51:01Z",
+        "content": "$AMC NOTHING HAS CHANGED WITH THE PLAY. HOLD TO THE MOON. WE WILL ALL BE ENJOYING OUR TENDIES SOON. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8056,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9950026869773865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-28T20:49:37Z",
+        "content": "$AMC bears please keep buying puts \ud83e\udd23 \ud83e\udd23 \ud83e\udd23 \ud83e\udd23 \ud83e\udd23 \ud83e\udd23 \ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965906143188477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-28T16:26:02Z",
+        "content": "$AMC hurry back from lunch and continue this ride to the moon plz.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.961516797542572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-18T16:10:55Z",
+        "content": "$FUTU lets gooooooooooooo Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966809153556824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-18T01:11:14Z",
+        "content": "$NVDA profit taking Friday Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902163743972778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-17T18:16:09Z",
+        "content": "$AMC buy and hold. It's that simple.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993366599082947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-14T03:58:27Z",
+        "content": "$BABA this is looking nice....time to buy maybe ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6619184613227844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-11T06:02:43Z",
+        "content": "$AMC buy and hold Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882147312164307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-03-04T20:11:22Z",
+        "content": "$AMC just bought more....why not?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978273510932922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-02-24T22:27:00Z",
+        "content": "$AMC we going to the moon!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5380920767784119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-02-24T21:29:27Z",
+        "content": "$AMC  Who bought premarket in the 13.80s????  TO THE FUCKINF MOOON BABY. LETS GOOOOOOO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975317716598511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-02-09T15:15:54Z",
+        "content": "$AMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8295345902442932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-01-27T18:00:57Z",
+        "content": "$AMC Buy this up because we all know they screwed. Buy button still works lol. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957911968231201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2022-01-27T17:53:06Z",
+        "content": "$AMC We all know what this is worth and the number today doesn't reflect that. I'll come back and look at it again later. HODL! Bullish",
+        "sentiment": {
+            "TextBlob": 0.09999999999999999,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99616539478302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-31T17:02:31Z",
+        "content": "$AMC \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c Holding this until my account says I made millions. Not selling for pennies. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942139983177185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:47:49Z",
+        "content": "$ABML this looks like it is holding this level here but it can drop further to .70 .... BBB needs to pass the senate. If you don't follow Manchin on Twitter I think you should. He's the catalyst I think here....as well as for all climate change stocks. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8832527995109558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:39:30Z",
+        "content": "$ABML this is starting to looking good",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989854693412781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:38:51Z",
+        "content": "$SOS  high chance of being delisted in 12 to 18 months",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9676377177238464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:38:27Z",
+        "content": "$SOS  hahahha you think Warren Buffett would buy this crap? Lol",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987514019012451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:36:02Z",
+        "content": "$PTON almost back at IPO prices. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974736571311951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:35:29Z",
+        "content": "$RIVN looking good.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998241066932678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:34:58Z",
+        "content": "$SOS  This guy is pretending to be Warren Buffett. I think everyone should be careful what he says and take caution with his misleading statements. Pumping stocks that he has a losing positions in. Such a great strategy to ruin people's lives. Take caution people. Be smart and think on your own. I will say it now....this has a high chance of being delisted in 12 to 18 months.",
+        "sentiment": {
+            "TextBlob": 0.27904761904761904,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980807304382324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-27T15:23:16Z",
+        "content": "$SOS this will be delisted is 12 to 18 months Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970831274986267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-20T13:29:50Z",
+        "content": "$AMC #iamstillholding \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989326596260071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-18T03:43:21Z",
+        "content": "$WKHS From the highs this thing is clapped so bad. Is this a buy?",
+        "sentiment": {
+            "TextBlob": -0.6999999999999998,
+            "NLTK": -0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997517466545105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-17T17:27:24Z",
+        "content": "$AMC  I am still holding",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9008392691612244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-17T16:42:40Z",
+        "content": "$AMC #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING #IAMSTILLHOLDING Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860854148864746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-16T00:26:40Z",
+        "content": "$RIVN only ev truck maker with an actual damn truck out on market. Tesla and Ford are so far away on their timeline. Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995293617248535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-15T16:54:07Z",
+        "content": "$AMC NOT SELLING FOR PENNIES!!!!! WE WANT OUR MILLIONS!!!!! \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4941,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841086268424988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-10T21:37:55Z",
+        "content": "$AMC it's a done deal.  Let's keep the momentum going. #IAMSTILLIN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951321482658386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-10T10:11:13Z",
+        "content": "$AMC can't wait to go watch spideyman next week and get my free popcorn. Lmao lfg. Easy money to the moon. If you're a new ape.....just buy and hold. That's it. Bullish",
+        "sentiment": {
+            "TextBlob": 0.31393939393939396,
+            "NLTK": 0.8779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997996985912323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-10T10:04:18Z",
+        "content": "$AMC AMC TO PLUTO!!!!! YOU LOSE HEDGIES. PAY US OUR TENDIES. #IAMSTILLIN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.774,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991145730018616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-05T04:40:45Z",
+        "content": "$XPEV dang.....this thing got clapped",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7551115155220032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-02T04:29:09Z",
+        "content": "$AMC Phase C of Wyckoff Events and Phases Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984226226806641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-01T20:46:35Z",
+        "content": "$AMC patience Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978566765785217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-01T20:45:36Z",
+        "content": "$AMC CALIFORNIA HOLDING!!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998139500617981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-12-01T20:45:18Z",
+        "content": "$AMC buying this dip for sure Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952729344367981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-29T15:51:59Z",
+        "content": "$AMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8295345902442932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-29T15:37:53Z",
+        "content": "$AMC corrupt as hell. Manipulation at its finest. Can't win on puts or calls. Straight up a premium burn and impossible to win. smh.",
+        "sentiment": {
+            "TextBlob": 0.12666666666666668,
+            "NLTK": -0.9238,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996479749679565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-29T15:26:26Z",
+        "content": "$AMC STAY AWAY FROM OPTIONS. BOTH SIDES GETTING KILLED EVERYTIME. HOLD SHARES AND STAY STRONG. OPTIONS MANIPULATION.  SMH.",
+        "sentiment": {
+            "TextBlob": 0.11666666666666664,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8992973566055298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-29T15:22:46Z",
+        "content": "$AMC people throwing money away at options. Including myself. Both sides getting slaughtered.  Premium the market maker making on this is in the millions. No more options on this. Smh.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.5893,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994307160377502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-29T15:20:16Z",
+        "content": "$AMC This is straight up manipulation. Stock is nothing but a hold. Can't play options on this at all. Premium gets killed on both sides. Smh.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.917,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990547299385071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-24T23:45:20Z",
+        "content": "$TSLA Selling off is still coming.  I see the line coming down short term. Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995391368865967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-23T20:54:05Z",
+        "content": "$AMC we want our tendies. pay us our tendies. we will not leave until we get them. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972769618034363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-23T19:35:16Z",
+        "content": "$AMC just added a few more shares Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966985583305359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-17T20:22:35Z",
+        "content": "$AMC doing the dance to kill options premium.  Same old \ud83d\udca9 that's why stock is the way to go Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981688261032104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-17T20:19:13Z",
+        "content": "$AMC last time we had low volume like this we had a nice run for the next few days. Bullish",
+        "sentiment": {
+            "TextBlob": 0.07999999999999999,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996209979057312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-17T18:04:55Z",
+        "content": "$RIVN there it is",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9719282984733582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-17T05:38:35Z",
+        "content": "$AMC WE ARE NOT SELLING FOR PENNIES. WE WANT OUR MILLIONS !!!!!!!!!!!!!!!!!!!!!!!!!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4941,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.944787859916687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-16T17:25:23Z",
+        "content": "$AMC \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11 PAY ME MY TENDIES Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962976574897766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-16T02:47:15Z",
+        "content": "$MARA Wow. This thing got clapped today.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993544220924377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-15T23:42:45Z",
+        "content": "$AMC \ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude07\ud83d\udc8e\ud83d\ude07\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude07\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998668909072876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-15T23:42:36Z",
+        "content": "$AMC they really don't want this trending. Lmao.  Down in message volume my ass. Bullish",
+        "sentiment": {
+            "TextBlob": 0.21481481481481482,
+            "NLTK": -0.0259,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996908903121948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-15T22:00:47Z",
+        "content": "$AMC how is chat volume down 11.7 percent. Wtf? Come on guys. Let's get this trending. Bullish",
+        "sentiment": {
+            "TextBlob": -0.3277777777777778,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996316432952881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-15T21:06:27Z",
+        "content": "$AMC yeeeeeee let's go to the moon baby Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951102137565613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-15T07:05:39Z",
+        "content": "$AMC WE GOING TO THE MOON BABY!!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968067407608032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-15T07:03:06Z",
+        "content": "$AMC Not selling for pennies. I want my tendies. My millions.  \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927962422370911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-14T03:36:38Z",
+        "content": "$AMC November to remember! \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956933856010437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-14T00:36:55Z",
+        "content": "$RIVN I think this will climb even higher next week, but ultimately it is overvalued at this point. It will come down so becareful bulls.  NIO XPEV and LUCID are much farther in production but market cap is much lower. \ud83e\uddd0",
+        "sentiment": {
+            "TextBlob": 0.0824074074074074,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966505169868469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-12T09:26:13Z",
+        "content": "$AMC Buying a few more shares today. Why not? Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984499216079712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-11T20:07:56Z",
+        "content": "$AMC \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998668909072876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-11T17:22:57Z",
+        "content": "$AMC TO THE MOON. THE RIP US COMING Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989756345748901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-11T17:22:31Z",
+        "content": "$AMC DIAMOND HANDS BABY 1\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8755397796630859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-10T22:22:01Z",
+        "content": "$AMC We been here before and what did we do? Buy the dip. Lmao I want my tendies \ud83d\ude24\ud83d\ude24\ud83d\ude24 Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988580942153931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-08T22:44:58Z",
+        "content": "$AMC BTD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5904,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984925985336304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-05T19:16:57Z",
+        "content": "$AMC green Friday  \ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c\ud83d\ude2c Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975956082344055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-03T22:08:50Z",
+        "content": "$OCGN well that sucks",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950132966041565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-11-02T21:08:45Z",
+        "content": "$AMC it's all going to pay off now baby. LFG. \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989575147628784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-29T17:07:16Z",
+        "content": "$LCID lfg Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979177117347717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-29T13:18:39Z",
+        "content": "$MVIS what happened? That sucks.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979143738746643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-28T21:03:08Z",
+        "content": "$AAPL Er not bad at all..... just no guidance Bullish",
+        "sentiment": {
+            "TextBlob": 0.3499999999999999,
+            "NLTK": 0.1655,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764496684074402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-28T16:24:45Z",
+        "content": "$DBGI straight bar coding",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948404431343079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-27T19:11:13Z",
+        "content": "$AMC Hey Hedgefunds.....READ THIS.....WE ARE NOT LEAVING!!!!!!! \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8151103854179382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-25T20:59:34Z",
+        "content": "$BKKT still going Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985448122024536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-15T19:30:59Z",
+        "content": "$EGRNF I knew I should've started a small position on this yesterday. Smh. I'm bullish on the bounce. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999554455280304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-13T02:14:37Z",
+        "content": "$TSLA This  is coming back down once it gets close to ATH. Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988522529602051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-12T03:24:47Z",
+        "content": "$AMC FUCK GENSLER. DO YOUR DAMN JOB MF. Bullish",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.8256,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986786246299744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-12T01:44:43Z",
+        "content": "$EVFMD Losing money yet the CEO gets paid millions. smh.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933545589447021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-12T00:35:13Z",
+        "content": "$SOS Clearly everyone is speculating on some bullshit here. This is a commodities company and yet they don't even know. LOL If  you here for crypto than you in the wrong ticker. Try $MARA or $RIOT",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": -0.7949,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990211725234985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-12T00:11:59Z",
+        "content": "$OCGN pos finally popped up a little bit eh?",
+        "sentiment": {
+            "TextBlob": -0.09375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975733160972595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-10T02:58:57Z",
+        "content": "$SOS Trading commodities is a slow gainer. Something significant has to happen for this to pop? Monopoly on precious metals might be the play? Fresh water or even Natural Gas? Spit balling here. I am just wondering why people are in this?",
+        "sentiment": {
+            "TextBlob": 0.195,
+            "NLTK": 0.9129,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996904194355011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-08T19:52:12Z",
+        "content": "$AMC FREE TO HODL Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995311439037323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-04T07:33:11Z",
+        "content": "$AMC who here has blocked and muted swirly? Lmao Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99931800365448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-10-02T02:53:31Z",
+        "content": "$AMC covered calls have been great this week",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.991310715675354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-08-31T23:50:03Z",
+        "content": "$AMC I want my tendies.  \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983314871788025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-08-26T18:29:26Z",
+        "content": "$AMC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977611303329468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-08-26T18:28:49Z",
+        "content": "$AMC LFG! 43 Call weekly Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981308579444885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-08-25T08:11:14Z",
+        "content": "$AMC DIAMOND HANDS \ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c\ud83d\udc8e\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994482159614563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-08-25T08:08:39Z",
+        "content": "$AMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8295345902442932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-30T13:17:58Z",
+        "content": "$AMC  Your mom coming fast...rofl.  My bad. I had too.",
+        "sentiment": {
+            "TextBlob": -0.6999999999999998,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999306321144104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-30T01:10:31Z",
+        "content": "$AMC  LFG.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849646687507629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-21T06:04:45Z",
+        "content": "$DOGE.X just come to AMC before it takes off fr fr",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977066516876221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-21T06:03:57Z",
+        "content": "$DOGE.X like what does it really do ? Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880931973457336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-19T17:53:52Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907207489013672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-16T17:18:09Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907207489013672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-15T23:36:58Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5085551142692566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-15T20:12:59Z",
+        "content": "$AMC  paid shill, cuck, cunt, fud, etc.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961058497428894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-14T17:43:22Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.46,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858818054199219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-14T17:42:34Z",
+        "content": "$AMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8295345902442932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-14T16:04:27Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907207489013672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-14T09:27:37Z",
+        "content": "$AMC  I AIN'T SELLING FOR NO PENNIES. I WANT MY F U MONEY. \ud83d\udc8e\ud83d\ude4c\ud83d\udcc8\ud83d\udcaf\ud83d\ude80\ud83c\udf15",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5367,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803180694580078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-14T00:58:21Z",
+        "content": "$AMC  LFG!!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874504804611206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-14T00:58:01Z",
+        "content": "$AMC .....I AINT SELLING FOR PENNIES!!! I WANT MY MILLIONS. MY F*** YOU MONEY.  \ud83d\udcaf\ud83d\udcc8\ud83d\udc8e\ud83d\ude4c\ud83d\ude80 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4421,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99379962682724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-14T00:55:47Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907207489013672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-13T03:18:05Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907207489013672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-13T00:54:50Z",
+        "content": "$SPY EXTREME GREED. OH YEAHHHHHHHHHH Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.5319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974276423454285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-13T00:15:43Z",
+        "content": "$AMC LFG!!!!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9789403080940247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-13T00:15:02Z",
+        "content": "$AMC not selling for pennies $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c $SPCE Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895966649055481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-13T00:02:14Z",
+        "content": "$AMC $AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.46,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858818054199219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-07-13T00:01:50Z",
+        "content": "$AMC DONT GET SHOOK OUT NOW. DIAMONDS HANDS \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2116,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842437505722046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-26T06:38:44Z",
+        "content": "$SPY AMC TO THE MOON. BUY IT ON MONDAY. ONCE IN A LIFETIME OPPORTUNITY. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980667233467102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-25T16:19:12Z",
+        "content": "$AMC  looks like I'm not the only one who sees it. Get ready for it.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994412064552307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-25T16:18:36Z",
+        "content": "$AMC  bullish pennant...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966153502464294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-24T15:05:52Z",
+        "content": "$MJNA this thing really just goes down down and down some more.",
+        "sentiment": {
+            "TextBlob": 0.046666666666666655,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990376234054565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-17T13:19:10Z",
+        "content": "$AMC FIRE SELLLLLLLLLLLL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919907450675964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-09T09:09:16Z",
+        "content": "$AMC this ain't nothing we haven't seen before. Just holding. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925323128700256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-09T09:08:51Z",
+        "content": "$AMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8295345902442932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-08T08:27:09Z",
+        "content": "$AMC pay us our money Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984663724899292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-08T08:25:39Z",
+        "content": "$AMC 100 out of 100 short squeeze Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862964153289795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-08T08:25:18Z",
+        "content": "$AMC otooooooo Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947029948234558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-06-03T15:38:44Z",
+        "content": "$AMC cost us nothing to hold Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987404942512512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-27T16:00:23Z",
+        "content": "$AMC $1,000 here we come Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961102604866028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-25T20:58:49Z",
+        "content": "$AMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8295345902442932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-24T08:18:18Z",
+        "content": "$DOGE.X worthless coin Bearish",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995899796485901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-24T08:16:28Z",
+        "content": "$AMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8295345902442932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-21T17:39:11Z",
+        "content": "$EZGO I've learned not to sell when it's going up but when it's going down. However, 25% gain in 10 days is pretty good. Happened faster than I expected. GL to HOLDers...Moving gains to $AMC.... \ud83d\udc4d\ud83d\udc8e Bullish",
+        "sentiment": {
+            "TextBlob": 0.1736111111111111,
+            "NLTK": 0.9678,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9893473386764526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-20T23:33:31Z",
+        "content": "$MJNA is it time to buy this ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990764856338501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-20T15:27:50Z",
+        "content": "$AMC let's goooooooooooooo Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955671429634094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-19T19:29:23Z",
+        "content": "$AMC here we go!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978017210960388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-19T17:43:00Z",
+        "content": "$EZGO Patience is everything. Blew up two accounts on chasing. Game and mentality has changed. Now it is all about waiting. Bullish",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991664886474609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-19T17:39:36Z",
+        "content": "$AMC Added another XXX shares on this dip. Let's go! What's everyone's realistic sell limit on the squeeze? Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959825277328491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-17T18:37:39Z",
+        "content": "$EZGO just started a position here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991081357002258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-13T05:46:37Z",
+        "content": "$SOS is this the bubble popping?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967111349105835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-05-03T04:25:50Z",
+        "content": "$XPEV technically it might be a good time to scale in here.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9917795062065125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-04-01T04:27:09Z",
+        "content": "$PTON I'm actually going to buy a treadmill. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994219541549683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-04-01T04:26:48Z",
+        "content": "$PTON I will not lie...I've  been wrong about this. I'm a bull now. \ud83d\ude24 Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.3724,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9108415246009827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-31T15:16:00Z",
+        "content": "$F this looks like a chance to buy....weekly 12.5 calls for next week. Might buy a few for the hell of it. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985540509223938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-26T00:21:29Z",
+        "content": "$GME  MY PRICE TARGET IS OVER $1,000!!!! LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995545506477356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-25T19:11:28Z",
+        "content": "$GME buy every damn dip baby. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989135265350342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-25T19:02:39Z",
+        "content": "$GME  Bears haven't said anything for awhile...I wonder why? \ud83e\udd14 Paper hand boys.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971203804016113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-25T18:55:58Z",
+        "content": "$GME break down that wall baby!!! Bullish",
+        "sentiment": {
+            "TextBlob": -0.3038194444444445,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989909529685974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-25T17:41:42Z",
+        "content": "$GME Where the bears at?  \ud83e\udd23\ud83e\udd23\ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994087219238281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-25T17:15:59Z",
+        "content": "$GME resistance at that 175.....come on baby. Crush it! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2244,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992983341217041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-25T15:23:48Z",
+        "content": "$GME MOONING!!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988062381744385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-25T15:01:48Z",
+        "content": "$ARKK  BUY THE DIPS BABY. LETS GOOOO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9788094162940979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T18:16:50Z",
+        "content": "$GME  PT 175.....they want us to buy it. Squeeze baby squeeze",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9287930727005005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T15:46:54Z",
+        "content": "$ASO  this guy such a lame. If you have to pump a stock.....it means it's trash.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998005032539368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T15:32:03Z",
+        "content": "$GME  oh yeah. Looking good!",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998062252998352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T15:23:11Z",
+        "content": "$GME just bought more. \ud83d\ude08\ud83d\ude08\ud83d\ude08\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983548521995544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T15:09:08Z",
+        "content": "$FNKO looking good \ud83d\udc4d back to 30s we go. Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853293299674988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T09:35:00Z",
+        "content": "@michaeldobfx @madflavor @Hiimmike I think the best NFT symp play was $DLPN might have missed it already tho. Trying to setup a stock screen scanner to find these plays before the run has gone too far. Sucks.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997243285179138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T09:14:26Z",
+        "content": "@JDtheboss have to add $FNKO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965452551841736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T09:13:56Z",
+        "content": "$DLPN damn.....this was the NFT . \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995040893554688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T08:58:02Z",
+        "content": "$PLBY not sure about this one...why is it trending ? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.2411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996962547302246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T08:56:42Z",
+        "content": "$ADBE that's a beat Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959553480148315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T08:56:07Z",
+        "content": "$MOGO is it too late to get in on this? Looks like she ready to go to New highs.... Bullish",
+        "sentiment": {
+            "TextBlob": 0.012121212121212125,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999330997467041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T08:44:01Z",
+        "content": "$FNKO made a NFT symp play on this. Small position. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984434247016907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-24T07:44:13Z",
+        "content": "$GME Just got my stimmy check... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993509650230408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T22:57:13Z",
+        "content": "$GME",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863503575325012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T21:43:17Z",
+        "content": "$GME Not selling. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894484281539917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T21:08:05Z",
+        "content": "$GME hahahhaha bears feel dumb right now Bullish",
+        "sentiment": {
+            "TextBlob": -0.04464285714285715,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996335506439209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T21:05:55Z",
+        "content": "$GME  bears smd",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990991473197937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T21:05:37Z",
+        "content": "$GME sounds like good news to me.....\ud83e\udd23\ud83e\udd23\ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9760836362838745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T09:38:28Z",
+        "content": "$RYCEY I'm buying more.....life is going back to normal......just a matter of time till it happens. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998521625995636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T08:45:18Z",
+        "content": "$GME buying more shares tomorrow on any dip.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775030016899109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-23T06:47:23Z",
+        "content": "$GME more people need to buy this for it to shoot up more......",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920985698699951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-20T18:18:12Z",
+        "content": "$PTON If growth rate is llower than revenue rate....watch out.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934628009796143
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T20:35:03Z",
+        "content": "$XPEV  Forreals",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.942245602607727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T20:29:04Z",
+        "content": "$PTON Has to go up to come down...just becareful it doesn't kill you in the process. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5773,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6730989217758179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T16:59:45Z",
+        "content": "$AMC sideways action............what to do what to do",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965323209762573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:41:04Z",
+        "content": "$GME Just need this to close above 200 for my bull put spread to be a winner. Lessssssssgooooooooooooooo Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995837926864624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:32:43Z",
+        "content": "$PTON Look at the staircase down......take of advantage of that. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848769903182983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:31:44Z",
+        "content": "$FDX Should have done an iron condor on this yesterday. Could have made a small prof.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990523457527161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:31:06Z",
+        "content": "$APA 25 price target still in play by analyst. I like it and believe it. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9912024736404419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:24:18Z",
+        "content": "$XPEV Winner winner chicken dinner. Bullish",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": 0.8225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962930083274841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:22:31Z",
+        "content": "$EZGO Stock has lost steam today. Volume is only 15k right now and the 10 day average is 150k (3 month avg is 750k). Maybe it will pick up later next week. Still on sidelines and watching volume closely. Bullish on this one though. I like the company. Alerts in place. Bullish",
+        "sentiment": {
+            "TextBlob": 0.027142857142857142,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947016835212708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:15:56Z",
+        "content": "$UWMC Missed the opportunity to add more shares on that dip. However, my calls are looking good still. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7178,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6893473863601685
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T15:12:23Z",
+        "content": "$PTON Just added more puts to my position. It has to go up to go down......... Bearish",
+        "sentiment": {
+            "TextBlob": 0.17222222222222222,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981180429458618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-19T05:15:01Z",
+        "content": "$PTON CEO sells shares and stock downtrends from there. The reopening of the economy is going to hurt this stock and I think the CEO knows that. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994516968727112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-18T18:55:23Z",
+        "content": "$GME BTD? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5904,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994889497756958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-18T18:52:05Z",
+        "content": "$GME fuxkjkj....bull put spread 200/190 going to be a nail biter. Eeeeek Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954160451889038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-18T18:02:04Z",
+        "content": "$PTON  joined yesterday and pumping an overvalued company. Come on now.....this ain't Netflix. Lmao \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": -0.4847,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944841265678406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-18T17:36:58Z",
+        "content": "$PTON the trend is your friend......and in the short term this is going down. Buying puts. Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992620348930359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-17T20:02:22Z",
+        "content": "$FIVE oh yeah. see that pop baby! thank you TD AMERITRADE for the play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.75,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981874823570251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-17T19:03:13Z",
+        "content": "$IEP Just added 100 shares of this great paying dividend company to the LONG TERM.  Tucking away gains from $XPEV $NIO $LCID $EZGO $CENN $VANI $INVO",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952303171157837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-17T08:28:54Z",
+        "content": "$XPEV is it me.....or does the market maker have the calls and puts on this ticker priced wrong? Iol ez money. Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997711777687073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-17T08:28:18Z",
+        "content": "$OGI anyone selling covered calls on this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989874958992004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-16T20:47:51Z",
+        "content": "$OCGN 1 month of side ways action....this ER will give us more insight on the direction of the company. Holding. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936466217041016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-16T15:25:59Z",
+        "content": "$TSLA I feel  TSLA is going to go sideways until next earnings gets near. CINCO DE MAYO is the next earnings date. That pop from 550 to here happened pretty damn fast. Alerts set for CALLS ....if/when this crosses back under 650 or over 740.  Swiss cheese over here.",
+        "sentiment": {
+            "TextBlob": 0.09166666666666667,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981289505958557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-16T14:45:20Z",
+        "content": "$XPEV Now that is the pop we wanted for the underdog EV in Chaiiiinuhhhh. Excited for this company versus the others. Government backing says it all. Beating NIO, CCIV, and TSLA today. Let's go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.46875,
+            "NLTK": -0.2003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993273138999939
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-16T14:33:41Z",
+        "content": "$XPEV sold my 3 19 calls for 77% gain. Let's go baby. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988325238227844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-15T18:05:50Z",
+        "content": "$OCGN Nice news and move on the vaccine! Let's go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.9375,
+            "NLTK": 0.5242,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775421619415283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-15T17:54:49Z",
+        "content": "$BIIB BIIB bounce !BIIB bounce !BIIB bounce !BIIB bounce !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662998914718628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-13T21:16:49Z",
+        "content": "$XPEV Going to 100 by EOY. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898148775100708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-10T14:01:01Z",
+        "content": "$INVO red to green baby. Let's go Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996543824672699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-10T09:50:03Z",
+        "content": "$DOGE.X so what's the news? This has been going sideways for awhile now. Has this died?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994082450866699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-09T15:46:52Z",
+        "content": "$VANI BULL FLAG CONFIRMED....GOING ALL IN. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977623224258423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-09T13:28:56Z",
+        "content": "$GME is this really happening???",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981840252876282
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-09T13:08:33Z",
+        "content": "$VANI lets go baby! The approved device is a money maker. 150k per device? Is that right... Bullish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968771934509277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-09T07:22:19Z",
+        "content": "$RYCEY Earnings will be bad. We all know that. Everyone knows that. That's why the price is what it is. Only up from here. Outlook will be positive. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1575757575757575,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5386209487915039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-09T06:38:40Z",
+        "content": "$NVDA 430 to 450 is the next level...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878276586532593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T21:15:24Z",
+        "content": "$NVDA wow..... next level of support is ????",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5661,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923529028892517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T21:06:41Z",
+        "content": "$VANI We like the stock! We like the stock! We like the stock! We like the stock! We like the stock! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.913,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989263415336609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T18:55:41Z",
+        "content": "$GME who bought  puts ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984557628631592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T17:14:12Z",
+        "content": "$SOS There is some real dummies on here. Pumping a stock because they need help carrying the bag.  Truly sad. Ask yourself why did you really buy this? Bearish",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995624423027039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:59:41Z",
+        "content": "$SOS hurry up and sell before its too late Bearish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985589385032654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:58:51Z",
+        "content": "$SOS sell sell sell sell sell sell sell sell sell sell Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887433052062988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:54:50Z",
+        "content": "$SOS buy the dip?!?!?!? Lol \ud83d\ude06 clowns \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21 Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6844,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966775178909302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:42:12Z",
+        "content": "$BABA nice adding zone. If it's goes lower....will be adding more. Bullish",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928434491157532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:40:59Z",
+        "content": "$AYX added a few more shares",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9612272381782532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:40:37Z",
+        "content": "$CVLG solid company with a great outlook. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993817806243896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:26:08Z",
+        "content": "$GEVO this looks like the bounce is on. Nice pullback. I'm in. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8556056022644043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:24:55Z",
+        "content": "$JNJ Looking good baby. Can't go wrong with divy Aristocrat",
+        "sentiment": {
+            "TextBlob": 0.09999999999999998,
+            "NLTK": 0.6656,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999369204044342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:24:13Z",
+        "content": "$RKT whatta comeback baby. Jan for the win. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996107280254364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:23:24Z",
+        "content": "$MARA Real gains over here. $SOS \ud83e\udd21\ud83e\udd21\ud83e\udd21 Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941657781600952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:19:09Z",
+        "content": "$SOS going back to 1.5 to 2 \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956812858581543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:15:43Z",
+        "content": "$SOS  SAVE OUR STOCK \ud83d\ude05\ud83d\ude05\ud83d\ude05",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6037,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991165995597839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:15:17Z",
+        "content": "$SOS block me...? Hahahha you can't BLOCK THE TRUTH. Scam of a company and its worth 2 bucks at the most Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.6435,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992325305938721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:12:59Z",
+        "content": "$SOS this thread is the best. Just shows how many people don't their DD. This is a POS. Just buy Mara and Riot. Bearish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984779953956604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:11:08Z",
+        "content": "$SOS  Bring out the defibrillator. SOS is ded. Lmao",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988823533058167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:06:24Z",
+        "content": "$SOS Mara up and Riot up. This company sus. Lmao. Buy the dip?!?!??! Bearish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.4829,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990356981754303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:05:36Z",
+        "content": "$SOS No mining machines. No coins. Nothing but a scam. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4209,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993708729743958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:04:52Z",
+        "content": "$SOS clowns Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915521144866943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T16:02:36Z",
+        "content": "$SOS mara and riot up......sos is definitely sus. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9644409418106079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T13:52:06Z",
+        "content": "$SOS wow...I was expecting a gap up this morning. \ud83e\udd28 3% ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9751917123794556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T13:48:44Z",
+        "content": "$VANI hahahah this stock just keeps on giving",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.899404764175415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T13:44:02Z",
+        "content": "$GME anyone buying puts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997269332408905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-08T00:21:06Z",
+        "content": "$SOS this hitting 8 tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811034202575684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-07T18:25:28Z",
+        "content": "$EZGO Most likely going to hold this one for a few more days to see what happens. Bought at 5.66 and it's up already 20%. Stop losses in place. Let's see if it runs higher this week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.21000000000000002,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991464614868164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-07T04:27:36Z",
+        "content": "$SOS still no response to my email or my phone calls....\ud83e\uddd0\ud83e\uddd0\ud83e\uddd0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995864033699036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-07T00:45:33Z",
+        "content": "$HYG anyone buying puts on this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998329222202301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-07T00:37:39Z",
+        "content": "$TLT fed fund rate going up and this will come down. Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993218183517456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-05T18:57:27Z",
+        "content": "$RYCEY easy 4% gainer on that dip purchase.  Great buying opportunity.  Buying it up every chance I get. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6166666666666667,
+            "NLTK": 0.8957,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.826469361782074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-05T18:52:40Z",
+        "content": "$RYCEY position is looking green. Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998556911945343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-05T15:54:35Z",
+        "content": "$RYCEY I wonder why it just dipped so hard.....",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986043572425842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-04T23:31:15Z",
+        "content": "$SOS just playing the volume spikes on this one and following the big money  flows. Not really interested in whether it is a legit company or not, but my gut tells me...SOS is a fraud.",
+        "sentiment": {
+            "TextBlob": -0.041666666666666664,
+            "NLTK": -0.7606,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994346499443054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-04T23:28:21Z",
+        "content": "$ARBK lots of upside still on this one. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986571073532104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-03T23:10:34Z",
+        "content": "$LCID just waiting for 15 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974386692047119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-03T19:11:03Z",
+        "content": "$MRVL And they pumped this on Cramer...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889621138572693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-03T18:05:27Z",
+        "content": "$SOS let's go baby Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982160925865173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-03T18:05:09Z",
+        "content": "$LCID missed earnings quarter after quarter after quarter...........that tells you a lot don't it? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991394281387329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-03T17:59:28Z",
+        "content": "$NVAX Trending down. Bleeding slowly. Low key sell out?",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996819496154785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-03T17:35:26Z",
+        "content": "$LCID Almost at my price target. 15 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995663583278656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-02T22:04:00Z",
+        "content": "$SOS why do they say up 12.96% when the stock ended up down today?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999178946018219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-02T16:14:39Z",
+        "content": "$LCID yesssssss Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873484373092651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-02T00:20:12Z",
+        "content": "$SOS winning baby. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9813970327377319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-02T00:06:41Z",
+        "content": "$SOS calls looking great! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999336302280426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T22:21:53Z",
+        "content": "$LCID apple rumor is huge. Bearish",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949362277984619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T22:08:43Z",
+        "content": "$LCID way to many angry bagholders on here. Lmao Bearish",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986515641212463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T22:05:54Z",
+        "content": "$LCID When this hits 15 I'll buy it again. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895825386047363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T18:23:32Z",
+        "content": "$SOS 1 year chart looking like a dead cat bounce",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961833357810974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T18:21:01Z",
+        "content": "$MARA Bitcoin looks like it is creating a new level of support here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979274272918701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T18:19:21Z",
+        "content": "$SOS Is this a dead cat Bounce?",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.729,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977147579193115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T18:18:27Z",
+        "content": "$SPY 400  3 19 calls coming back down.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993300437927246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T18:05:24Z",
+        "content": "$RKT I feel this is still undervalued.  Last ER was amazing. Bullish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9876841306686401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T18:04:50Z",
+        "content": "$JNJ I was thinking this was going to pop a lot higher.  Still bullish. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997234046459198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T17:54:49Z",
+        "content": "$LCID so many bag holders here",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906446933746338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T17:52:27Z",
+        "content": "$LCID hope is not an investment. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995637536048889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-03-01T05:25:22Z",
+        "content": "$LCID 15 to 20 by EOW. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926213026046753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-26T09:02:51Z",
+        "content": "$SOS bagholders? \ud83d\ude11",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963995218276978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-26T09:02:25Z",
+        "content": "$SOS whose holding here ????",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997650682926178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-26T08:37:43Z",
+        "content": "$SOS scam Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993773102760315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-25T01:04:47Z",
+        "content": "$LCID Where the garbage man? We need him here to take this trash out. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994420409202576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-25T01:01:53Z",
+        "content": "$LCID they don't even have cars on the market. Good luck bag holding for 5 years.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918021559715271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-24T23:37:55Z",
+        "content": "$AMC I am curious what is your PT? Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988787770271301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-24T23:12:56Z",
+        "content": "$GME if Vlad halts trading again tomorrow ......he's ded",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996084570884705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-24T23:04:48Z",
+        "content": "$SOS Looking bloody red Bearish",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990031123161316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-24T21:34:40Z",
+        "content": "$GME Get ready to buy next week puts. Who ready? Bearish",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980599284172058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-23T21:22:49Z",
+        "content": "$UVXY 1.5x leveraged??? Anyone feel this is broken....",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993963241577148
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-23T15:24:07Z",
+        "content": "$UVXY should this be up a lot more",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966015815734863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-23T10:58:38Z",
+        "content": "$AMC holding heavy at 5.60. Limit sell at 25 GTC. No stop loss. Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996442973613739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-23T10:31:10Z",
+        "content": "$SOS get it right......this ain't bitcoin. You're NOT investing in bitcoin. This company hasn't even mined one coin yet. Lmao",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982172846794128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-17T04:47:30Z",
+        "content": "$DVA smh. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927619099617004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T15:17:26Z",
+        "content": "$APA This is  taking off while the other big oil stocks are coming down. Any news?",
+        "sentiment": {
+            "TextBlob": -0.09351851851851851,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988895058631897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T02:50:49Z",
+        "content": "$NOK long term....I don't know.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958589673042297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T02:50:07Z",
+        "content": "$ET dividends coming in baby... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967553019523621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T02:44:56Z",
+        "content": "$APHA kicking myself for selling my 2.50 shares. Here is a goal for 2021. Do this 10 times. If my initial investment on a stock is covered by realizing half gains then let the other half ride LONG TERM for free. That way I make money and still part of the play at a great entry price. Bullish",
+        "sentiment": {
+            "TextBlob": 0.09880952380952382,
+            "NLTK": 0.9246,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6727495193481445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T02:40:41Z",
+        "content": "$EZGO This one has been fun. Buying the dips and hold. Then sell the rips. Rinse, repeat. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9788579344749451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T02:39:35Z",
+        "content": "$TNXP breakout territory looking to set up a new support. More good news will keep it there.  Keeping and \ud83d\udc41\ud83e\uddd0",
+        "sentiment": {
+            "TextBlob": 0.4454545454545455,
+            "NLTK": 0.7089,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9922842383384705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T02:32:34Z",
+        "content": "$DRIP $GUSH Gas prices have gone up in norcal.  Sucks....but under this administration a lot things will get pricier. Still riding gush. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969559907913208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-16T02:27:47Z",
+        "content": "$CVX that 600 gallon oil spill did almost nothing to alter the stock.  Oil spills just don't matter when stimulus and deals and basically making money is more important than saving the world. I'm watching this and $XOM this week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.2544,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984625577926636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-15T18:53:28Z",
+        "content": "$AMC if this doubles in less than 3 years.....I'd be happy with that \ud83d\udc4d\ud83d\udc4d\ud83d\udcaf\ud83d\udcc8\u2705 Bullish",
+        "sentiment": {
+            "TextBlob": 0.3166666666666667,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981371164321899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-10T15:44:37Z",
+        "content": "$GME  ROFL",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993057131767273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-10T15:30:32Z",
+        "content": "$GME selling at 56 was your chance to save face...... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914149641990662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-10T15:21:00Z",
+        "content": "$GME big red Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995468258857727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-10T13:23:36Z",
+        "content": "$RYCEY buy when others are fearful....sell when others are greedy......",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920435547828674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-10T04:59:43Z",
+        "content": "$GME short interest is way down. It's now at 42%......its over. Gg. Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997207522392273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-10T03:58:44Z",
+        "content": "$GME  truth about bag holders. Face reality and stop being a clown. Sell and move on. Buy puts.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8876471519470215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-10T03:57:32Z",
+        "content": "$NOK going to 3 dollars by end of month. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924492835998535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-09T21:51:05Z",
+        "content": "$GME GameStop came into the limelight two weeks ago when an army of retail investors who coordinated trades on social media pushed the stock up 400% in just a week.\n\nBag holders.....I been there. I know it sucks...feel better when you get out. Bearish",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996478259563446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-09T21:25:31Z",
+        "content": "$GME Senvest Management, recently boasted to clients that it made more than $700 million from a bet it placed on GameStop in September, the Wall Street Journal reported last week. Bearish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98285311460495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-09T19:24:56Z",
+        "content": "$GME bigs sold already. Billions were made. Life goes on. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980251133441925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-09T14:40:33Z",
+        "content": "$GME 50 dolla puts looking good baby....weekly. Risky, but i like it. Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9801675081253052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-09T14:12:47Z",
+        "content": "$GME The four largest asset managers in the world together own 39 percent of GameStop shares, according to regulatory filings. Those stakes, which are mostly held for years in passive index funds, have collectively gained roughly $1 billion in value since the beginning of this year. One hedge fund, Senvest Management, recently boasted to clients that it made more than $700 million from a bet it placed on GameStop in September, the Wall Street Journal reported last week. Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8591,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9557930827140808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-09T13:02:25Z",
+        "content": "$GME The four largest asset managers in the world together own 39 percent of GameStop shares, according to regulatory filings. Those stakes, which are mostly held for years in passive index funds, have collectively gained roughly $1 billion in value since the beginning of this year. One hedge fund, Senvest Management, recently boasted to clients that it made more than $700 million from a bet it placed on GameStop in September, the Wall Street Journal reported last week. Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8591,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9557930827140808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-09T07:33:36Z",
+        "content": "$GME Mark Cuban....\n\n\u201cSometimes its expensive to learn,\u201d Cuban posted on group\u2019s message board. \u201cAnyone who has traded for a while has learned an expensive lesson they couldn\u2019t afford. I know I have.\u201d\n\nRead between the lines... Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893004298210144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-08T21:07:56Z",
+        "content": "$GME weekly....50 puts looking good right now. Close this week in the 30s maybe. Bearish",
+        "sentiment": {
+            "TextBlob": 0.4928571428571428,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.929167628288269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-08T03:55:14Z",
+        "content": "$GME this might cut in half tomorrow... Bearish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995085000991821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-07T14:33:33Z",
+        "content": "$EZGO It is hard to find anything on Cenbird or Dilang.....",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995576739311218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-05T19:54:18Z",
+        "content": "$GME picked up some 50 dollar puts for next week. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955626726150513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-05T08:17:11Z",
+        "content": "$EZGO Buy low....sell high. It actually works. \n\n$TSLA $NIO $AAPL Bullish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7930774688720703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-02-01T07:41:22Z",
+        "content": "$EZGO $AMD $SPY Electric bikes are the future Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989116370677948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2021-01-22T16:46:54Z",
+        "content": "$GEVO long term winner here. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969872832298279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-07-17T06:37:38Z",
+        "content": "$WKHS Aug  puts only up 10%. I might roll em over?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975469708442688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-07-02T23:05:14Z",
+        "content": "$WKHS I bought August puts on this from 22. So far so good. Bearish",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.6213,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992879033088684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-06-10T16:05:18Z",
+        "content": "$PLUG missed out on this one",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995853304862976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-06-10T14:55:48Z",
+        "content": "$SONO just hit a new daily low. Waiting",
+        "sentiment": {
+            "TextBlob": 0.04545454545454545,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991165995597839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-06-10T14:32:21Z",
+        "content": "$CLDR up 90% on my august 12.50 calls. I think imma wait a bit longer. A bounce up should be coming. I want 100% gain because it just sou d better. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974327683448792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-05-26T05:17:33Z",
+        "content": "$SPCE failed to reach orbit....is that a good thing or bad thing?",
+        "sentiment": {
+            "TextBlob": -0.16666666666666663,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997904896736145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-05-23T19:35:41Z",
+        "content": "$TLRY news off the covid benefits ran my calls up nicely for a 100% gainer. Now I have weekly puts for next week already looking good. Pullback Tuesday and Wednesday is what I'm expecting unless good news happens this weekend.",
+        "sentiment": {
+            "TextBlob": 0.49999999999999994,
+            "NLTK": 0.8834,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9205372929573059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-05-19T18:46:33Z",
+        "content": "$LKNCY so what happens to all the options contracts I own???",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995713829994202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-05-19T18:43:57Z",
+        "content": "$SPOT joe Rogan exclusive to spotify.  Wow. What a move. Who got on that? Nice play.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.8591,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990754127502441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-21T21:27:27Z",
+        "content": "$NFLX I bought shares. 10% upside pop. That's a nice buffer to look forward too. Let's go!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992844462394714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-17T23:02:18Z",
+        "content": "$BAC sep calls looking good Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7744437456130981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-17T23:01:55Z",
+        "content": "$TLT puts looking good",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985452890396118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-17T20:31:13Z",
+        "content": "$LKNCY my portfolio says I gained money on this today??? Anyone else???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5514,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988896250724792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-16T18:04:24Z",
+        "content": "$BRZU when is the reverse split?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994137287139893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-13T18:56:20Z",
+        "content": "$USO loaded up on may, june, and october calls Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991607666015625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-13T08:10:55Z",
+        "content": "$USO I like it when it opens red and then goes green. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9544696807861328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-09T06:17:33Z",
+        "content": "$RCL taking some off the table  tomorrow.. GN.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902434945106506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-08T21:55:01Z",
+        "content": "$RCL open green, close red.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9744848012924194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-07T20:27:47Z",
+        "content": "$GLD bull flag... run up is coming",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989532232284546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-07T20:22:27Z",
+        "content": "$LKNCY no profile pic = not reliable source = muted",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999754011631012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-07T09:11:36Z",
+        "content": "$LKNCY o koko ok ok. This is going back up quickly...buying calls for july Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947836995124817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-06T21:08:02Z",
+        "content": "$LKNCY you know people angry and bag holding when they just say ridiculous statements. Not my fault you bought a corrupted company. Bearish",
+        "sentiment": {
+            "TextBlob": -0.41666666666666663,
+            "NLTK": -0.5487,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982085227966309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-06T21:05:27Z",
+        "content": "$LKNCY how many bag holders here? Lmao",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981834292411804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-06T04:39:07Z",
+        "content": "$LKNCY the scandal is just getting started...corruption at the top.... Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977248311042786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-04T20:23:43Z",
+        "content": "$BRZU reverse split likely going to happen again...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981740713119507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SUPERKING66",
+        "timestamp": "2020-04-02T13:14:06Z",
+        "content": "$MU 6.6 million unemployed...whoa",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994561076164246
+            }
+        },
+        "image_url": ""
+    }
+]

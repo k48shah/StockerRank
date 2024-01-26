@@ -1,0 +1,940 @@
+[
+    {
+        "username": "anuaimi",
+        "timestamp": "2021-09-03T21:35:02Z",
+        "content": "@dannystef72 @howardlindzon trading at a low multiple vs competition. I also bought with the though that it might head to about 25-30x ev/sales. Moved some from $NET which I love but has had quite a run Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.2617,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972471594810486
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2021-09-02T00:51:26Z",
+        "content": "@jedgar I remember when $DOCN launched, what a great service. Moved all my servers over from $AMZN. Can\u2019t believe how long it\u2019s been",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9015429019927979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2021-08-06T03:52:37Z",
+        "content": "@jedgar @CapitalCapital also like the CEO but the product is not wonderful. I used it in a global network I built. The product is sticky and we valued it but it was not loved by the team. If I was starting today would consider atlassian\u2019s product first. $PD might still own the larger customers though",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979686141014099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2021-04-14T01:50:27Z",
+        "content": "$net $nvda wonder what the partnership involves. Can\u2019t $net just by GPUs like any other customer. It\u2019s a cool service though",
+        "sentiment": {
+            "TextBlob": 0.056249999999999994,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995386600494385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2021-02-16T13:48:49Z",
+        "content": "@mmitche7 @sc0re2day that\u2019s just the marketing website. All the growth is on their iOS app. The only place where the growth will be seen on the backend is on the api servers which likely are on a different domain. Think that most of the upside goes to $API who gets the voice minutes",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992485642433167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-12-17T23:16:28Z",
+        "content": "@mmitche7 $NET had a pretty big run up and is trading at one of the higher multiples. Might trade sideways for a while before the next phase starts",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988856911659241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-12-10T22:27:57Z",
+        "content": "@bluefuel @zj82119 $NET has released a ton of new stuff. Things have been quiet on the $FSLY side Bullish",
+        "sentiment": {
+            "TextBlob": 0.04545454545454545,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.979487955570221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-11-29T19:57:11Z",
+        "content": "@gunzblazn187 unlikely this early in the serverless game. Things are changing pretty quickly and use cases are still fairly simplistic. Will make sense with customers ask for things that are not strategic for $NET. But see it one day",
+        "sentiment": {
+            "TextBlob": -0.10238095238095239,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7999703884124756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-10-15T14:46:26Z",
+        "content": "@ishe123 not sure what your timeframe is but in the long term I believe $NET will do better than $FSLY",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5218,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964158535003662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-10-12T14:03:59Z",
+        "content": "@Crizpicks all the $FSLY traders really should in on $NET as well Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988310933113098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-10-12T14:01:59Z",
+        "content": "@Wombastic @Heavy_Pockets also expect to own $NET for a long time Bullish",
+        "sentiment": {
+            "TextBlob": 0.18333333333333332,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978406429290771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-10-12T13:58:50Z",
+        "content": "@howardlindzon have always loved segment but also did not realize how valuable and big they would get. Interesting to see show $TWLO is repositioning itself. They basically own a lot of the CISP space and now are adding CRM to their target market. Good execution on their part Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7593,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7926153540611267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-09-28T01:49:36Z",
+        "content": "@humour they are hinting at big improvements to their serverless stuff (ie workers).  While I also have $FSLY,\nI think $NET will do better long term Bullish",
+        "sentiment": {
+            "TextBlob": 0.1125,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978657364845276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-08-22T18:29:18Z",
+        "content": "@funnyguy8888 lots of opinions but little data on why one is better than the other. Here is my thought, $NET protects millions of websites and has had its serverless platform out for 3 years. Very technical team and able to develop new products. $FSLY has some very innovative CDN features and is lead by a well respected CTO. They are doing interesting work in serverless but platform is only in beta. Feel like while they both are in similar spaces, $NET is more focused on security while $FSLY on the CDN space. I\u2019ve put my $$$ on both Bullish",
+        "sentiment": {
+            "TextBlob": 0.19029720279720277,
+            "NLTK": 0.9861,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7685728669166565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-07-27T23:36:26Z",
+        "content": "$NET For recent blog post.... \"Just last quarter, 20,000 developers deployed for the first time a new application using Cloudflare Workers. More than 10% of all requests flowing through our network today use Cloudflare Workers\" Had no idea Workers was growing so quickly Bullish",
+        "sentiment": {
+            "TextBlob": 0.17424242424242425,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995286464691162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-07-10T03:18:40Z",
+        "content": "@howardlindzon actually overdue. I have a lot of respect for $FSLY (which I also own) but feel $NET products are as strong if not stronger Bullish",
+        "sentiment": {
+            "TextBlob": 0.2583333333333333,
+            "NLTK": 0.5753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957481026649475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-07-08T14:05:23Z",
+        "content": "@snidely I started with $NET and still own it. Great company. But there is momentum behind $FSLY so I\u2019ve bought some of it as well. Bullish",
+        "sentiment": {
+            "TextBlob": 0.24999999999999997,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5129874348640442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-07-08T04:29:58Z",
+        "content": "@scuba84 @Flettster @Mr_Carter both are strong companies.\nWhat specifically do you think makes $FSLY a better bet? Btw, I own both",
+        "sentiment": {
+            "TextBlob": 0.5111111111111111,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985221028327942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-02-09T21:39:21Z",
+        "content": "@howardlindzon have had a few devs mention how much they like clubhouse for smaller teams. Don\u2019t think it will hurt $TEAM but very likely to do well",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9967639446258545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2020-01-06T03:30:53Z",
+        "content": "@howardlindzon I think the issue is to divide your stocks between companies that are doing something big and are likely to be around in 10 or more years and others that are one-hit wonders.  I've had tech stocks that had a few good years and disappeared.  Not everyone is an $AAPL or a $GOOG.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987082481384277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-12-16T13:33:15Z",
+        "content": "@victorpopescu @howardlindzon also $ESTC is targeting a number of verticals with enhanced solutions based on the generic stack. Security is one example. That\u2019s something Amazon is not going to do",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9641011953353882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-12-04T21:22:06Z",
+        "content": "$ESTC anyone know what \u2018calculated billings\u2019 is vs normal revenue?",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987218976020813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-09-06T02:48:18Z",
+        "content": "@emjay1989 it\u2019s only overvalued if they stop growing. Look at $SHOP. was in nose bleed valuation but each quarter the earnings continued to be good. So price continued to climb. Crazy how much has gone up this year. agree $ZM has high valuation but quarterly report was strong. And should continue for next while. Very hard to find this kind of growth",
+        "sentiment": {
+            "TextBlob": 0.12379629629629631,
+            "NLTK": 0.8785,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9744930863380432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-09-06T02:33:47Z",
+        "content": "@chefpatrick99 @GoodRiddance convertible note usually means there is an option to covert to shares. If that happens there will be dilution. $OKTA is going to take the money and use it to grow the company so long term, as long as they make good use of the money, it will be fine. But today investors are seeing it as dilution.",
+        "sentiment": {
+            "TextBlob": 0.15333333333333332,
+            "NLTK": 0.4497,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9804918766021729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-08-30T14:17:50Z",
+        "content": "@firehorse @kwmi it is. But the rules for pricing stocks have changed. Basically people are looking for growth in a world where there isn\u2019t much. I used to be a value investor (but now focus on momentum stocks). I\u2019ve used $TEAM\u2019s products for years. I\u2019m comfortable betting  on them. Bullish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.899,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991665780544281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-08-30T13:41:12Z",
+        "content": "@firehorse @kwmi fair enough. But that\u2019s been that way for a while and $TEAM seems to be managing. But agree they are not only player in space",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966213703155518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-08-29T13:00:06Z",
+        "content": "@tl1720 @ThereminJack I think we\u2019ll find out in the next quarterly release whether there is an issue with competition from $TEAM . If it\u2019s not that big a deal, I expect this stock to move back up to track the other high flying SasS stocks Bullish",
+        "sentiment": {
+            "TextBlob": 0.007000000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986903071403503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-08-29T12:54:15Z",
+        "content": "@sg83 $SPLK competes more with $ESTC. But Splunk did buy a monitoring company that competes with $PD although it\u2019s a small part of their business. $team also bought a monitoring company so they also are starting to compete with PagerDuty. PagerDuty is the 800 lb gorilla in the monitoring space and I believe they can maintain their leadership. The next couple of quarters will show how things are going. But the new competition is depressing Pagerduty\u2019s price.",
+        "sentiment": {
+            "TextBlob": -0.035606060606060606,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992908239364624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-08-02T00:39:59Z",
+        "content": "@mattewpanz feel free to do so. Doesn\u2019t hurt my feelings. I\u2019m here to share ideas and be as informed as possible. Also very comfortable with my $shop investment. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3066666666666667,
+            "NLTK": 0.6613,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990501999855042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-07-23T09:09:48Z",
+        "content": "@MauiOnMyMind @clarky2o2o it\u2019s takes a while after an IPO for a stock to find its true range. If you\u2019re holding for the long term, don\u2019t worry too much about the current price. $META took about a year to find its groove after the IPO. It\u2019s fell to half IPO price and then took off. More important you decide if you believe in the company or not",
+        "sentiment": {
+            "TextBlob": 0.1761904761904762,
+            "NLTK": 0.2484,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974712133407593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-07-21T12:55:46Z",
+        "content": "@webattorney agree there is a risk $team will shake up the category. Will have to see how serious they are about OpsGenie. With other acquisitions they didn\u2019t change things up too much. Also, still early days in the category, probably room for both right now. Right now $PD is the market leading and no reason for them not to keep growing Bullish",
+        "sentiment": {
+            "TextBlob": 0.06884920634920634,
+            "NLTK": -0.5136,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996198832988739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-07-21T12:49:28Z",
+        "content": "@Apey88 @donversation at its core agree it\u2019s just a message. But that\u2019s not why people use $PD. It\u2019s the workflow around incidents. I used to manage a global network and we looked at other solutions and there really are just a couple of enterprise grade options. Lots of low end things though. As an example each public cloud has something simple that people can use. The people that will use PagerDuty are the ones where the revenue for the business depends on the servers being up. Today almost all big businesses are being driven by software Bullish",
+        "sentiment": {
+            "TextBlob": 0.010714285714285716,
+            "NLTK": 0.0387,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958055019378662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-07-21T09:46:27Z",
+        "content": "@seetee6819 first of all, $WORK is a chat app while outlook is for email. $MSFT has Teams for chat. I remember when voip phones came out for business. Big companies already had NorTel phones. Hard to get them to replace. So companies like $CSCO went after new businesses. Same will happen for chat. As an example, most startups use Slack. Also anyone using Google\u2019s GSuite is a perfect candidate as they don\u2019t have a good chat app",
+        "sentiment": {
+            "TextBlob": 0.28683712121212124,
+            "NLTK": 0.8393,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981541037559509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-07-21T02:25:57Z",
+        "content": "@rxking @monsooncloud @johnhanigosky room for both teams and slack. Big companies will use teams as they have multi year contract with $MSFT while startups and other companies will probably use $WORK",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973564147949219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-07-18T02:03:31Z",
+        "content": "@Imrnlil @allstarcharts @howardlindzon not sure it\u2019s a $SHOP but also believe there is a lot of upside. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.1232,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991786539554596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-19T18:32:54Z",
+        "content": "@ChicagoMan this model is more profitable for $AMZN than if they sell their own stuff. $SHOP investment here will be worth it. Will be a real moat vs other competitors",
+        "sentiment": {
+            "TextBlob": 0.29500000000000004,
+            "NLTK": 0.624,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968628883361816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-19T10:30:21Z",
+        "content": "@cybercash28 have $MSFT stock in my wife\u2019s account. My stuff tends to be a bit riskier (newer SaaS companies) but I am more able to take the ups and downs",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9742876887321472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-12T23:45:50Z",
+        "content": "@ninaln @silentmax it\u2019s a tough call. $TWLO started the same way when it went public. I sold too early and missed the upswing. I\u2019m going to hold on to $ESTC but sucks seeing pretty much everything else go up. Not a huge part of my portfolio though",
+        "sentiment": {
+            "TextBlob": -0.0423611111111111,
+            "NLTK": -0.3056,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993225336074829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-10T15:49:56Z",
+        "content": "@zerohedge2018 @sethnovick @trader365 @howardlindzon I agree good numbers.  But Elastic is also growing quickly.  Also, both not close too profitable.  My guess is that there are so many enterprise sw stocks on fire, $ESTC is just getting lost in the noise.",
+        "sentiment": {
+            "TextBlob": 0.5111111111111111,
+            "NLTK": -0.6607,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985700845718384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-10T15:34:40Z",
+        "content": "@howardlindzon @trader365 isn\u2019t this the same as with $MDB? Wonder why not affecting Mongo stock price but affecting Elastic?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6379834413528442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-07T17:31:58Z",
+        "content": "@50Gs I agree. Hard to stick with $ESTC while the rest of my portfolio has such momentum. But impossible to time when things will pop. So I\u2019m holding for now. As to $SHOP, that\u2019s a stock I want to own for years. $MDB didn\u2019t always have a great reputation amongst developers of larger websites. So surprised it\u2019s doing well. I also sold too early as did not believe in underlying product. Feel $ESTC product is better than $MDB so expect it to eventually start to pop as well Bullish",
+        "sentiment": {
+            "TextBlob": 0.12685185185185185,
+            "NLTK": 0.9617,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925405383110046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-07T16:43:45Z",
+        "content": "$ESTC love the company but boy they are not catching any breaks. All the other enterprise SaaS stocks are on fire. $ESTC NOT SO MUCH. Long term should be fine but no momentum right now Bullish",
+        "sentiment": {
+            "TextBlob": 0.12123015873015874,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997263550758362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-06T17:05:46Z",
+        "content": "$ESTC another great company that the market has not discovered yet.  Based on very popular open source package that has a large user base. 70%  sales growth is nothing to sneeze at.  Only issue is expenses still very high Bullish",
+        "sentiment": {
+            "TextBlob": 0.17175510204081632,
+            "NLTK": 0.8687,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995080828666687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-06-06T16:59:41Z",
+        "content": "$PD wow crazy swings over last few days.  Feel that the market is still getting comfortable with the company.   Has a very strong CEO and a product that is very sticky.   Lots of upside here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0661904761904762,
+            "NLTK": 0.8516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898428320884705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-04-30T17:52:17Z",
+        "content": "@Banana3 also really respect him. But was silly to follow his $BOX recommendation. Think he\u2019s good for macro ideas not good for stock picks",
+        "sentiment": {
+            "TextBlob": 0.012499999999999997,
+            "NLTK": 0.8764,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924813508987427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-04-26T20:53:55Z",
+        "content": "@howardlindzon not sure for $MMYT but $CTRIP now owns 2 of fastest growing markets. No position though, intrl stocks are hard/volatile",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.3029,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937871694564819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-04-25T11:23:30Z",
+        "content": "@Maldevs @TaxAnalyst @scuba84 @KlNGPlN been part of Toronto tech scene for years & can confirm lots of great stuff happening at $shop Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.996454119682312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2019-03-11T16:23:01Z",
+        "content": "@howardlindzon and $TWLO and $TEAM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7684953808784485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-09-04T23:59:21Z",
+        "content": "@howardlindzon $META has been trying to figure out commerce for a while. I assumed it would be a home run for them but seems to be a struggle",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4497,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991233944892883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-07-31T12:43:09Z",
+        "content": "looks like a bunch SaaS stocks are down pre-market. Maybe be tough for $SHOP if the general tech market sentiment is bearish Bullish",
+        "sentiment": {
+            "TextBlob": -0.16481481481481483,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997504353523254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-07-24T16:35:38Z",
+        "content": "@jurisdoctor lots of SaaS stocks are down. This is probably not a $SHOP issue",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998006224632263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-07-20T01:00:33Z",
+        "content": "@eclass @Nautica I don\u2019t have the same insight as major investors but still think $shop is a multi year story",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8427588939666748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-07-20T00:58:22Z",
+        "content": "@eclass @Nautica would only sell if they thought $shop had peeked Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982606768608093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-07-20T00:57:40Z",
+        "content": "@eclass @Nautica it would be the major investors that would make decision. Would compare to what $shop could do independently Bullish",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9702438712120056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-07-20T00:54:52Z",
+        "content": "@eclass @Nautica be surprised if $shop would sell. Even at a big premium it would be less than what they could do in 1-2 years themselves Bullish",
+        "sentiment": {
+            "TextBlob": -0.022222222222222216,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986572265625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-06-15T01:10:37Z",
+        "content": "@Nautica $AAPL is one of my \u2018losers\u2019. Only up 20% y/y. Feel like most are higher because people are accepting higher multiples. Sustainable?",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994070529937744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-06-15T01:01:09Z",
+        "content": "$SHOP there definitely is a love in for tech stocks this year. Valuations are sky high. Have benefited but know it must end at some point Bullish",
+        "sentiment": {
+            "TextBlob": 0.33,
+            "NLTK": 0.5346,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921709299087524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-06-07T19:29:51Z",
+        "content": "@rupert1 @wilstone a number of tech stocks are down quite a bit today. Don\u2019t feel this is about $OKTA. Just major profit taking Bullish",
+        "sentiment": {
+            "TextBlob": -0.04652777777777779,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991918206214905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-05-26T00:59:18Z",
+        "content": "@OneManWolfPak @Options_Action I really like $DOCU but I just wish they weren\u2019t losing so much money. $OKTA financials are much better",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7092,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9740123152732849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-05-22T12:07:53Z",
+        "content": "Fun thought: $SHOP had enough cash to buy Magento if they wanted to. Magento bankers would have reached out. Clearly were not interested Bullish",
+        "sentiment": {
+            "TextBlob": 0.06875,
+            "NLTK": 0.63,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993241548538208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-05-22T12:02:37Z",
+        "content": "@Helper In the short term. Then the better product wins and the price follows. Believe $SHOP has a great product and great team Bullish",
+        "sentiment": {
+            "TextBlob": 0.4800000000000001,
+            "NLTK": 0.9413,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9949886202812195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-05-22T11:47:43Z",
+        "content": "$SHOP not only does $ADBE have to deal with Magento being older tech they also have to make acquisition work. Not all do",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908133149147034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-05-22T11:38:13Z",
+        "content": "@timglade @Billet @zerohedge2018 Agree. Think the Plus team will keep focusing on great new features and $SHOP will be fine Bullish",
+        "sentiment": {
+            "TextBlob": 0.451010101010101,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9883104562759399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-05-22T03:35:54Z",
+        "content": "$SHOP ecommerce space still growing & has other successful competitors beside Magento, eg Square. Room for several to be successful Bullish",
+        "sentiment": {
+            "TextBlob": 0.34375,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9285712838172913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-05-22T03:27:37Z",
+        "content": "$SHOP Fact that Adobe paid 10x revenue for Magento shows how important ecommerce is. Shopify is in the right place at the right time Bullish",
+        "sentiment": {
+            "TextBlob": 0.3238095238095238,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9935459494590759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2018-02-21T22:35:37Z",
+        "content": "$SHOP now has over $1B of cash on hand.  Very unusual. Gives them options not normally available for a company of this size",
+        "sentiment": {
+            "TextBlob": 0.03,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8943002820014954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "anuaimi",
+        "timestamp": "2017-05-18T13:44:37Z",
+        "content": "$SHOP is going to have a war chest after this offering is completed. A lot you can do with $2.5B.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939127564430237
+            }
+        },
+        "image_url": ""
+    }
+]

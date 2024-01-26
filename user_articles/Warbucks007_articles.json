@@ -1,0 +1,2130 @@
+[
+    {
+        "username": "Warbucks007",
+        "timestamp": "2023-05-23T16:37:59Z",
+        "content": "$ABCL Run shorty run",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999431312084198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-12-26T07:52:45Z",
+        "content": "$AVYAQ This was a high risk play since August. Bankruptcy imminent . Now it\u2019s nothing but a way to lose $$. Big loss here. Don\u2019t buy the pump and throw your money away:",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": -0.7469,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995928406715393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-12-02T21:17:19Z",
+        "content": "$AVYAQ Kings add on converts nice show of confidence. Rise up. Still holding large here. Think Avaya puts its house in order this month and we make a nice bump up. Bullish",
+        "sentiment": {
+            "TextBlob": 0.47142857142857136,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990878105163574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-11-15T16:04:47Z",
+        "content": "$AVYAQ just need some buying pressure",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988870024681091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-11-15T15:16:08Z",
+        "content": "$AVYAQ Going higher every day",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8999149203300476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-11-11T18:32:34Z",
+        "content": "$AVYAQ As we see from all the technical predictions that the chart is a poor indicator of where AVYA headed. It\u2019s all about the debt resolution, costumer retention and if Alan can right the ship. Short interest slowly decreasing. Big move up or down coming in the next few weeks. Bullish",
+        "sentiment": {
+            "TextBlob": -0.08553791887125223,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997870326042175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-11-02T17:23:39Z",
+        "content": "$AVYAQ That a girl Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925507307052612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-28T13:47:29Z",
+        "content": "$AVYAQ Bloody day \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926295280456543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-26T15:33:12Z",
+        "content": "$AVYAQ Selling now is the equivalent of stabbing yourself in the back. I\u2019ve got a great idea, why not sell on no volume to try to make ten cents to miss $5.",
+        "sentiment": {
+            "TextBlob": 0.05000000000000002,
+            "NLTK": 0.6584,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938799142837524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-25T15:08:54Z",
+        "content": "$AVYAQ Only news here is Kali pumping like a mofo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967548251152039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-19T00:06:01Z",
+        "content": "$AVYAQ AH ripping. Interesting to see where we go tomorrow. Not that it matters for me. Holding for 10+",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3871,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7715070843696594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-17T20:43:14Z",
+        "content": "$AVYAQ I\u2019ll take 5% a day for the next 365 days. \n\nGuessing  we will see small increases in share price until the real news hits next month where we will see a big swing up or possibly down. Until then it\u2019s looking like very low volume short covering to continue. \n\nLoaded to the gills here at $1.38 avg cost.",
+        "sentiment": {
+            "TextBlob": -0.025694444444444447,
+            "NLTK": 0.3197,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999559223651886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-13T18:16:44Z",
+        "content": "$AVYAQ Looks like she wants to get back to 1.4 today \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f. I don\u2019t have a problem with that.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5199609994888306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-11T15:59:51Z",
+        "content": "$AVYAQ Anyone keeping a tally on short interest?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988633394241333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-11T15:20:23Z",
+        "content": "$AVYAQ Greed cuts both ways. Let\u2019s go!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920578598976135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-11T15:06:44Z",
+        "content": "$AVYAQ Now is the time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5223508477210999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-10T16:21:24Z",
+        "content": "$AVYAQ Have to say I\u2019m impressed how this has been walked back. A rare tip to the hat to the shorts. Haven\u2019t sold a share. Long term holder.",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9216574430465698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-07T16:37:59Z",
+        "content": "$AVYAQ This is why watching day to day isn\u2019t for everyone. Nothing has changed. Higher shorting to shake out the small retail presence. See those that hold in another year. Good luck to those moving on.",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964569211006165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-05T14:34:17Z",
+        "content": "$AVYAQ morning short and buyback. So predictable until it isn\u2019t. Temped for sell late and then buy an hr or two after open. My luck would be it moves when I have no shares. Will just hold for 10+ and long term cap gains. Someone has to pay taxes.",
+        "sentiment": {
+            "TextBlob": -0.11000000000000001,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985697269439697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-10-03T14:17:22Z",
+        "content": "$AVYAQ They have to buy them back later in the day. Like we have done this before people. Don\u2019t get shook out.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9437345266342163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-28T16:57:02Z",
+        "content": "$AVYAQ Have some patience people. The price will catch up to the expectations. Results talk and will take some time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780510663986206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-23T20:02:07Z",
+        "content": "$AVYAQ Have an old 401k being rolled to my IRA. Hopefully when it arrives. We are still at these lows when cash come available. Even after an ugly week this is still my favorite stock in my portfolio for expected gains the next few years. Have a good weekend",
+        "sentiment": {
+            "TextBlob": 0.0875,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8584070801734924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-22T15:18:33Z",
+        "content": "$AVYAQ There is a reason shorts are paying people full time to drive down the sentiment of this stock. (See Boogyman and others) Their greed put them in a place where 35% of the float is short sold with only a small percentage of that available to buy back. They want your shares. Sadly a bunch of you rookies gave them up the last few days. Holding for the big money. I bought for the turn around, not the squeeze.",
+        "sentiment": {
+            "TextBlob": -0.03232323232323232,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991266131401062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-22T15:15:01Z",
+        "content": "$AVYAQ Just caught up on the board today. Looks like Kali didn\u2019t take his meds. Hellbent on driving stock down to his entry point. You would think a hedge fund manager would know that comments on a chat board don\u2019t drive a stocks price. Or do they ???",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985826015472412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-22T15:07:10Z",
+        "content": "$AVYAQ Rocket this back to $2.70 to lock Kali out. \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978577494621277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-22T15:02:08Z",
+        "content": "$AVYAQ Get them while they are cheap. Nothing has changed where this is going long term \ud83d\udcb5\ud83d\udcb5\ud83d\udcb5.",
+        "sentiment": {
+            "TextBlob": 0.17500000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959779381752014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-21T13:48:50Z",
+        "content": "$AVYAQ BoogieMan is Apallo\u2019s mouthpiece. Want to give your shares back cheap?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989352822303772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-21T13:44:11Z",
+        "content": "$AVYAQ Great opportunity to add if you are looking to. $5+ by year end.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986005425453186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-20T14:18:56Z",
+        "content": "$AVYAQ Constant spamming by shorts also shows their desperation. Buy the dips and hold. Easy $$$",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891775250434875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-19T18:24:24Z",
+        "content": "$AVYAQ Volume is picking up. Easy way to make money is just sit tight on your shares. Fully loaded and loving where we are going. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2849206349206349,
+            "NLTK": 0.8505,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996570348739624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-19T14:21:32Z",
+        "content": "$AVYAQ Article is WSJ. Calling AVYA a meme stock which i found funny. Might become one. Actual real reasons why this company is turning around. Like the spotlight however. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964948296546936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-17T09:13:59Z",
+        "content": "$AVYAQ looks like Matador is Apollos mouthpiece. Spam us with some more old news.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984334111213684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-16T19:27:03Z",
+        "content": "$AVYAQ Tried to post my position on WSB. Blocked. Some degenerate gambler money into the witches brew would be fun. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989616870880127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-16T17:43:06Z",
+        "content": "$AVYAQ Hold  your shares tight. They are going to be worth significantly more if you have the patience. Bullish",
+        "sentiment": {
+            "TextBlob": 0.20714285714285716,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9960899949073792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-16T17:04:39Z",
+        "content": "$AVYAQ And she\u2019s off!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992913007736206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-14T15:30:33Z",
+        "content": "$AVYAQ This is where we buy ladies and gentlemen. They buy back later in the day. Let\u2019s go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969689249992371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-13T15:45:13Z",
+        "content": "$AVYAQ Time to load up before the next leg up to $2.7 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992367029190063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-09T14:44:25Z",
+        "content": "$AVYAQ If you liked it at $2.30\u2026 I\u2019m not trading it, but damn this is an easy add at this price. Nothing has changed in the investment thesis.",
+        "sentiment": {
+            "TextBlob": 0.5166666666666666,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874995350837708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-09T14:28:20Z",
+        "content": "$AVYAQ Money should be pouring in to punish the predicable market open short. If it doesn\u2019t then shorts are back in control for now. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996404647827148
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-08T14:51:22Z",
+        "content": "$AVYAQ The shares shorted at open will be bought back through the day\u2026.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927258491516113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-08T13:43:30Z",
+        "content": "$AVYAQ Grab them while they are cheap!",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962252378463745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-07T16:34:26Z",
+        "content": "$AVYAQ We just  need one or two large investors, possibly a hedge fund,  to invest and drive a nail into the shorts coffin. Nice stable consolidation. Building a base for the next leg up to $2.7.",
+        "sentiment": {
+            "TextBlob": 0.002857142857142847,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8790257573127747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-07T14:04:30Z",
+        "content": "$AVYAQ Loaded again. This is going to be a money volcano when shorts finally cover\ud83d\udcb5\ud83d\udcb5\ud83d\udcb5\ud83d\udcb5\ud83d\udcb5\ud83e\udd19\ud83c\udffc\ud83e\udd19\ud83c\udffc\ud83e\udd19\ud83c\udffc\ud83d\udcb5\ud83d\udcb5\ud83d\udcb5\ud83d\udcb5\ud83d\udcb5",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967220425605774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-06T19:17:12Z",
+        "content": "$AVYAQ Plenty of room to run. Don\u2019t let them cover cheap.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933179616928101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-06T14:34:53Z",
+        "content": "$AVYAQ Booom Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984149932861328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-06T14:13:09Z",
+        "content": "$ZYME Based on price movement I guess the market expected better data. Still holding here but this is ugly.",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997031092643738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-02T20:15:18Z",
+        "content": "$AVYAQ Oh boy the shorts are desperate here. Enjoy the weekend longs. Great week and start of our rally.",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9198339581489563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-02T17:08:45Z",
+        "content": "$GLOP Added 20k shares today. 8+ by eoy no problem. Too easy",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9582931399345398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-02T16:38:01Z",
+        "content": "$AVYAQ $1.8 is a great entry point before $5. Love the shorts have hired additional spammers here and retired Niko. We are dominating these greedy bastards.",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.930651843547821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-01T16:03:53Z",
+        "content": "$AVYAQ Tip of the hat to those here early. This is going to be fun",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996848106384277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-09-01T15:10:55Z",
+        "content": "$AVYAQ Everyone and their mother knows where this is going Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983996748924255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-31T19:59:01Z",
+        "content": "$AVYAQ Let\u2019s order a Costco size lube for Nico and his boss. Have a feeling tomorrow going to be another painful day for shorts",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992865920066833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-31T19:47:29Z",
+        "content": "$AVYAQ  2$ tomorrow??? Think we just might. More and more people discovering our little secret",
+        "sentiment": {
+            "TextBlob": 0.103125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987864077091217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-31T17:28:04Z",
+        "content": "$AVYAQ Shorts losing control. Get ready",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997661709785461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-31T17:07:47Z",
+        "content": "$AVYAQ okay let\u2019s start the next leg up.\nNiko grab my golf clubs and make yourself useful.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999121367931366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-29T14:27:51Z",
+        "content": "$AVYAQ Build nice and easy baby. SEC filing and bond news is where we make the real money.",
+        "sentiment": {
+            "TextBlob": 0.2833333333333333,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988442659378052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-28T20:48:05Z",
+        "content": "$AVYAQ If this rips\u2026.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981638789176941
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-26T17:55:10Z",
+        "content": "$AVYAQ Added. See you next week for $2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9892940521240234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-26T16:03:39Z",
+        "content": "$AVYAQ Get them while they are cheap Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964306950569153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-25T02:49:43Z",
+        "content": "$AVYAQ Got a real good feeling about tomorrow.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996747970581055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-24T17:33:12Z",
+        "content": "$AVYAQ just getting started",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936853051185608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-12T16:17:06Z",
+        "content": "$ZYME Some good news and this goes up like a rocket. Still have 10.5-11 Million shares to cover.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987292885780334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-10T17:13:29Z",
+        "content": "$ZYME No volume. Everyone waiting on Sept Data",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994320273399353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-08-05T22:37:42Z",
+        "content": "$ZYME Galbraith getting the boot. Just stepped down as president\u2026.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954760670661926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-06-30T16:54:05Z",
+        "content": "$ZYME This crazy man just picked up another 10k shares.",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981402158737183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-06-13T17:16:37Z",
+        "content": "$ZYME looks like the market is taking the poison pill news poorly. Crap day in the market but definitely some holders jumping ship.",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.3071,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995250701904297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-06-01T18:46:38Z",
+        "content": "$ZYME Where is the volume. Guess it\u2019s just ABF and us paying attention. Even the shorts have forgotten they have shares they need to cover\u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981898665428162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-27T03:28:49Z",
+        "content": "$ZYME Don\u2019t settle for the low fruit. Hold\nand let\u2019s all make some loot. 20k shares, not selling for under $20",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937467575073242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-24T21:04:03Z",
+        "content": "$ZYME interesting after hours movement",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9848109483718872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-18T17:50:45Z",
+        "content": "$ZYME Definitely not the day I was expecting here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9349959492683411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-17T19:21:45Z",
+        "content": "$ZYME If there is good news to be announced at ASCO on 6/3, could be catalyst to close deal at a price that everyone is comfortable with. Give me my \ud83d\udcb5",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9244316220283508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-17T19:09:33Z",
+        "content": "$ZYME Houston, we have lift off",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.988768458366394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-17T18:03:40Z",
+        "content": "@DaFlipper Management needs to wet their beaks. Options start at 14$. Won\u2019t sell for less than $17-18",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995930016040802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-17T16:05:56Z",
+        "content": "$ZYME Long way to go. Undervalued!!",
+        "sentiment": {
+            "TextBlob": -0.078125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9612212777137756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-05T18:56:24Z",
+        "content": "$ZYME And here comes the share buyback $",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958133101463318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-04T14:03:51Z",
+        "content": "$ZYME Good entry. Probably won\u2019t get any cheaper",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931619167327881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-03T19:57:23Z",
+        "content": "$ZYME Still plenty of meat on the bone. Join the party",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9693672060966492
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-03T19:35:09Z",
+        "content": "$ZYME Come on board, accept at $13 and throw shareholders a bone! Do the right thing.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.4389,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994561076164246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-05-03T18:39:54Z",
+        "content": "$ZYME Starting to go\u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9817004799842834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-04-25T17:23:32Z",
+        "content": "$GLOP this stock definitely allows for accumulation with its irrational sell offs. Added",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9255712628364563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-04-01T17:58:43Z",
+        "content": "$SAVA Coiled spring . Any positive news next week and boom \ud83d\udca5",
+        "sentiment": {
+            "TextBlob": 0.11363636363636363,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9315835237503052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-03-29T14:49:27Z",
+        "content": "$SAVA Throw off the chains SAVA!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892431497573853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-03-28T17:09:43Z",
+        "content": "$SAVA Load up before it rips",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980121850967407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-03-10T19:48:01Z",
+        "content": "$TME When you think that there is no chance it can go lower\u2026. This company has almost 500 mil in positive cash flow. Will be interesting to see where this is in a couple of years",
+        "sentiment": {
+            "TextBlob": 0.36363636363636365,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6752382516860962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-03-01T19:13:27Z",
+        "content": "$GLOP ugly how they are knocking this down slowly for a low ball bid.",
+        "sentiment": {
+            "TextBlob": -0.28888888888888886,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99969482421875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-02-10T21:55:26Z",
+        "content": "$SAVA Welcome to the show. Gains just starting",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9945111274719238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-02-10T20:02:16Z",
+        "content": "@qaiskhan You\u2019re an idiot is my counter. You are talking about financials on a biotech stock that hasn\u2019t completed phase three trials. The money either .1) pours in after they have good results, get bought out or form partnership. Share price 500-1000$. 2.) results are bad and stock tanks to under $5",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996347427368164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2022-02-07T15:30:43Z",
+        "content": "$BABA Easy buy. Ignore for two years and come back to a 2-3x",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984695315361023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-12-23T16:17:19Z",
+        "content": "$TSLA 1150 and then short again. Easy money. Pump it boys!",
+        "sentiment": {
+            "TextBlob": 0.27083333333333337,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970253109931946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-12-15T16:55:03Z",
+        "content": "$CLPS This one going private in 2022 for sure. The question is at what price\u2026",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961252808570862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-30T09:19:23Z",
+        "content": "$TSLA Making money on the sell off. Only gamblers and naive money want in at this level Bearish",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937216639518738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-29T16:04:42Z",
+        "content": "$TSLA At this price, it\u2019s like buying hot garbage. Trade it, make money. This will go under $600 in a year.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987867474555969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-22T14:53:07Z",
+        "content": "$TSLA easy short at 1200, who\u2019s buying here \ud83d\udcb5\ud83d\udcb5\ud83d\udcb5",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996575653553009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-17T18:20:12Z",
+        "content": "$TME Now is the time to add if you\u2019re looking to build your position.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9346582293510437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-16T19:15:54Z",
+        "content": "$TSLA Thanks for pushing it up so I could reload my puts!! Bearish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9744126200675964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-16T06:13:39Z",
+        "content": "$BABA 185$ this week Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966397285461426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-15T16:29:27Z",
+        "content": "$TSLA Not done. $900 then it\u2019s time to go long",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995763897895813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-12T23:52:23Z",
+        "content": "@horsesandhounds I\u2019m loaded. Bought my leaps early and got killed when it was between 10-11$. Bought 500 jan 23 leaps  with $13 strike and 5000 shares. When it went below $7 I bought 250 contracts jan 23 with strike of 10 and another 5000 shares. Plan is now to sell 250 of the 13 strike and 5000 shares to offset gains. But if this baby runs I may just keep a way too large position here. Wouldn\u2019t be smart but could be a mega score if this gets back to 15+ next year. $20+ would be insane",
+        "sentiment": {
+            "TextBlob": -0.09591836734693879,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989068508148193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-12T15:11:40Z",
+        "content": "$TSLA And stall and back down Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992201328277588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-12T15:00:06Z",
+        "content": "$TSLA under 1020 today \ud83d\udcb6 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926639795303345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-11T17:20:05Z",
+        "content": "$TSLA Here it goes Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983996570110321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-11T16:13:14Z",
+        "content": "$TSLA Timber Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878455996513367
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-11T15:20:58Z",
+        "content": "$TSLA Let the route begin Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9533050656318665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-11T00:52:15Z",
+        "content": "$TSLA Going to be some broke baby bulls. \n\nBro up print bro (Avg Tesla bull buying/gambling at these prices).",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946848750114441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-10T21:33:08Z",
+        "content": "$TSLA Loaded up on 1050 weekly puts. Back to $1000 or lower by end of week. Market will continue to sell off. Reality check for the suckers buying the dip",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982044696807861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-10T20:48:24Z",
+        "content": "$TSLA Let\u2019s buy one of the most overpriced stocks in a market selloff where insiders are soon to be selling massive amounts of shares. Seems like a good idea",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9090144634246826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-10T20:30:50Z",
+        "content": "$TSLA And back down Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996132493019104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-08T23:03:43Z",
+        "content": "$TME Solid earnings. Good job TME. On the right track for the rise back up!!",
+        "sentiment": {
+            "TextBlob": 0.2464285714285714,
+            "NLTK": 0.6229,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998036026954651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-08T10:13:35Z",
+        "content": "$TSLA Under 1100 by close",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930136799812317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-04T14:48:24Z",
+        "content": "$TSLA Buy this overpumped garbage. It will end well trust the fanboys Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9821915030479431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-11-02T15:31:50Z",
+        "content": "$TSLA finally ran out of idiots to buy at 1200",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996947050094604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-10-29T17:06:21Z",
+        "content": "$TME All the dark clouds need to sell and take their money elsewhere. Long term this company will be a market outperform. Don\u2019t watch it daily if you can\u2019t take the roller coaster. Chinese stocks going through one of the worst times ever. Yet some of you expect daily sunshine.",
+        "sentiment": {
+            "TextBlob": -0.19999999999999998,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945991039276123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-10-27T18:36:59Z",
+        "content": "$TSLA So greedy Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3804,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931879043579102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-10-22T20:18:00Z",
+        "content": "$TSLA Nothing but bulls and optimism\u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.996311604976654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-10-19T15:17:23Z",
+        "content": "$TME \nMarket finally waking up to the fact that this is a free company. After accounting for cash, holdings in WMG, UMG, and Spotify, you are getting a company that makes of a billion in free cash flow for free. Criminally undervalued. Run baby run",
+        "sentiment": {
+            "TextBlob": 0.16000000000000003,
+            "NLTK": 0.872,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778919816017151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-10-08T18:45:10Z",
+        "content": "$TME curious as to other long positions. I\u2019m mostly in Jan 2023 leaps with about 30% in shares.",
+        "sentiment": {
+            "TextBlob": 0.056249999999999994,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9431586861610413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-10-04T15:36:13Z",
+        "content": "$TSLA More institutions dumping into retail buyers. Increase in deliveries priced into this overpriced joke. Waiting for this one to drop from the moon to the ocean. $400 in 2022",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.046,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988425970077515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-09-14T17:51:00Z",
+        "content": "$TME Would like to see them sell UMG when it goes public and put those funds to share buybacks. Share price out of touch with reality.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983891248703003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-09-09T18:14:00Z",
+        "content": "$GME Timber Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950506091117859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-09-09T17:31:57Z",
+        "content": "$GME Greed made you money. Greed will make it fall apart. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975716471672058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-09-01T17:14:48Z",
+        "content": "$BABA someone accumulating Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991169571876526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-30T20:22:45Z",
+        "content": "$BABA Looking like the bottom is in. Delisting and VIE mostly noise from the China haters and shorts. Compromise  will come and those that bought China tech on this dip will be richly rewarded, especially if you can hold 3+years. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2916666666666667,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9832452535629272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-24T13:41:00Z",
+        "content": "$TME Shorts are burning\u2026 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988993406295776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-23T18:07:15Z",
+        "content": "$BABA bottom??? Think so",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995890259742737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-23T16:28:00Z",
+        "content": "$BABA Scale tipping Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998548686504364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-23T16:03:42Z",
+        "content": "$TME let\u2019s go!!! Nice color change",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5684,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995111227035522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-22T15:14:57Z",
+        "content": "$BABA All these shorts and fake negative comments. Give me more BABA. \ud83d\udcb5\ud83d\udcb5. In five years these shares will be over $1000",
+        "sentiment": {
+            "TextBlob": -0.10000000000000002,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966262578964233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-19T18:56:52Z",
+        "content": "$TME wish a fund would come in here and pull a gamma squeeze. Be fun to watch these pile-on-pricks get roasted.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936594367027283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-19T18:32:25Z",
+        "content": "$BABA Feel free to launch all 15B now. This is just silly",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998526930809021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-19T17:27:08Z",
+        "content": "$GLOP finally down to buyout prices. Let\u2019s see if they make their move\u2026.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942963719367981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-18T19:49:50Z",
+        "content": "$TME share buybacks, high volume, weak hands getting flushed. Base forming for the slow grind up. $30 2023",
+        "sentiment": {
+            "TextBlob": -0.32875000000000004,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985503554344177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-18T16:33:24Z",
+        "content": "$BABA perfect spot to trade sideways for buybacks. Longterm winner Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9601742029190063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-17T15:13:41Z",
+        "content": "$TME Should sell SPOT and UMG position and do share buyback. Burn the hedge funds that burned us.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993207454681396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-16T18:58:11Z",
+        "content": "$BABA There is a reason Goldman came out of the closed door meeting with CPP version of SEC and bought a massive amount of BABA. Ignore the noise. Buy or hold, longs will be happy in two years. It doesn\u2019t feel that way now, but BABA $400-600 in 2023",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840880632400513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-13T16:52:24Z",
+        "content": "$BABA Selling at $186. Your mother would be ashamed. See you at $300 in a year. One of the easiest buys in the market.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981144666671753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-13T15:18:20Z",
+        "content": "$BABA Market has hit an irrational level. Those that buy now will be very happy in 18 months. Getting laughable at all the negative posters here. Hope you\u2019re getting paid, because you losers and going to get burnt soon.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3415,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856364727020264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-12T15:55:07Z",
+        "content": "$BABA Hope the buyback finger is heavy today. 15B at these prices would make for a\nstrong 3rd quarter, not including other growing metrics. Bullish",
+        "sentiment": {
+            "TextBlob": 0.02708333333333332,
+            "NLTK": 0.689,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987877011299133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-03T15:42:40Z",
+        "content": "$BABA well we didn\u2019t get any help from the \u201cVideo games are opium\u201d post in the newspaper. That said it\u2019s a long term boon. BABA will buyback more shares a reduced cost this quarter. 18 months from now we will be sitting at $400-600 and this will be regarded as a golden buying opportunity for those that had the stones.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8439,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9596502780914307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-03T15:33:32Z",
+        "content": "$TME Added more TME and BABA today. Easy long term trade $$$",
+        "sentiment": {
+            "TextBlob": 0.29444444444444445,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9751259684562683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-02T20:51:00Z",
+        "content": "$BABA All these daily convos are white noise. Get some sun outside and enjoy yourselves. BABA $400-$600 in 2023.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.547147274017334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-02T16:55:02Z",
+        "content": "$TME Curious if anyone knows how much of the 20% interest in UMG is owned by TME vs Tencent holding company. Thx",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983431100845337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-08-02T15:40:21Z",
+        "content": "$TSLA please go higher. Will be an easy short from $800 to $650",
+        "sentiment": {
+            "TextBlob": 0.22777777777777777,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984084963798523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-07-30T20:13:36Z",
+        "content": "$GLOP blackrock looking to get this to $3.5 and then buy the rest of the company. Just speculation as a former GLOG shareholder. Crooked management will let them too. Will hold for their 5.25 buyout and do just fine.",
+        "sentiment": {
+            "TextBlob": 0.1388888888888889,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9949557185173035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-07-22T04:29:47Z",
+        "content": "$TME Monster opportunity right now for those with a higher risk tolerance. This is a multibagger as the US China tension fades over the next 12 months. Trumps lame politics should fade in October when Biden meets with China to plan forward policy. Reducing accounting compliance from three to two years recently is concerning for Chinese listed securities, but when investment banks lobby get involved cooler heads should prevail. Seems like TME is compliant with accounting standards anyway from what I\u2019ve read? Tide rising\u2026 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0059523809523809494,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990862607955933
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-07-21T16:10:42Z",
+        "content": "$TME  bought shares and Jan 23 leaps. I\u2019ll let the dust settle and wake up then to a $30 stock. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975268244743347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-06-04T15:21:49Z",
+        "content": "$PSTH Panic selling the in the money options foolish. Great deals Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999277651309967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-06-01T18:04:56Z",
+        "content": "$PSTH Just added 50 contracts June $26 strike. It\u2019s either happening this month or the current deal falls apart and on to the next. Bills closing this one in the next three weeks, at least that\u2019s what my FD\u2019s are telling me. Bullish",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996238946914673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-05-28T18:20:10Z",
+        "content": "$PSTH word may be getting out. Options ripping today  \ud83d\udcb5 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991973042488098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-05-27T16:54:54Z",
+        "content": "$PSTH keep waiting to check in and see the jump up after the announcement. I have patience. Easy money.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9082152843475342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-01-28T19:00:30Z",
+        "content": "$MAC  Get in on the ground floor. Elevator going up!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7017276883125305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-01-27T19:06:51Z",
+        "content": "$MAC Late session rally. Let\u2019s hit $23. 28$ tomorrow!!! Bullish",
+        "sentiment": {
+            "TextBlob": -0.5859375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992805123329163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Warbucks007",
+        "timestamp": "2021-01-27T18:40:35Z",
+        "content": "$OPK  This train is leaving!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989489912986755
+            }
+        },
+        "image_url": ""
+    }
+]

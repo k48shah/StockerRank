@@ -1,0 +1,198 @@
+[
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2023-05-23T12:18:24Z",
+        "content": "$MPW down ~20% since the post below. I don\u2019t have a position but hate the thought of folks buying this for the dividend. Don\u2019t do it. Bearish",
+        "sentiment": {
+            "TextBlob": -0.4777777777777778,
+            "NLTK": -0.7227,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992848038673401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2023-03-09T14:53:28Z",
+        "content": "$MPW there\u2019s much more risk in this name then most folks realize. If you\u2019re holding this for the dividend income and haven\u2019t done the work on the company there are much safer places to find yield at present. \n\nNo position for me but I do have a strong opinion that most retail folks don\u2019t have a good understanding of the risk involved with this one. Most are simply looking at the dividend yield and making a decision solely based on that information.",
+        "sentiment": {
+            "TextBlob": 0.37037037037037035,
+            "NLTK": 0.7017,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993287980556488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2022-03-15T17:34:05Z",
+        "content": "$VXX if you were lucky enough to be long, this was a gift. Don\u2019t be a pig. There is a very good chance this will be a zero.",
+        "sentiment": {
+            "TextBlob": 0.29833333333333334,
+            "NLTK": 0.8799,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9548576474189758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2022-03-09T22:03:15Z",
+        "content": "$AMZN don\u2019t chase on the stock split hype. Look at google. Next ER doesn\u2019t look great. Time and space. Might be interesting into the back half of the year. Don\u2019t chase.",
+        "sentiment": {
+            "TextBlob": 0.22666666666666666,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993263483047485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2021-02-02T19:35:23Z",
+        "content": "$crmd\n\nCrmd\u2019s mom: honey how was your first day at your new Nasdaq school\n\nCrmd: it was great mom \n\nCrmd\u2019s mom: that\u2019s wonderful dear, did you make any friends? \n\nCrmd: yes, I saw some of the older kids in the cafeteria, tsla even invited me to sit at their lunch table.",
+        "sentiment": {
+            "TextBlob": 0.4706060606060606,
+            "NLTK": 0.9451,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994603991508484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2021-01-19T23:13:46Z",
+        "content": "$SRNEQ Sorrento\u2019s was a pizza place in my hometown. Buffet says invest in what you know. So I\u2019m very comfortable moving all my chips in here.",
+        "sentiment": {
+            "TextBlob": 0.52,
+            "NLTK": 0.5936,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982799291610718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2021-01-19T22:56:52Z",
+        "content": "$NFLX New here. What does this company do again? Thanks in advance.",
+        "sentiment": {
+            "TextBlob": 0.16818181818181818,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957408905029297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2021-01-19T21:11:32Z",
+        "content": "$CRMD \n\nGood afternoon passengers. This is your captain speaking. First I'd like to welcome everyone aboard Flight CRMD. We apologize for the multi year delay. We\u2019ll now be wheels up soon. When we\u2019re at our cruising altitude of 33,000 ft you\u2019ll be offered a 2nd bag of chips and a full can of soda for your troubles. Sit back and enjoy the flight.",
+        "sentiment": {
+            "TextBlob": 0.35714285714285715,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985851049423218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2020-11-30T18:16:59Z",
+        "content": "$CRMD this stabilizing around 9 with the increased volume the past 10 sessions should be seen as bullish.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995008707046509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2020-11-27T15:27:01Z",
+        "content": "$GBTC does this have a circuit breaker and if so down what % ?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985535740852356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2020-11-25T05:52:02Z",
+        "content": "@howardlindzon @evanmedeiros shoot even if $VIX goes sub 20 here everyone is going to feel like a genius. Gotta know when to play big. Might be one of those times.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9938449859619141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2020-11-25T04:56:37Z",
+        "content": "$CRMD been holding this a while (small position) and forgot about it. I hear good things potentially coming Q1 21\u2019?",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994256496429443
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2020-11-17T04:30:13Z",
+        "content": "$ABNB let\u2019s go on vacation ya\u2019ll",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8339834809303284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RISEoverRUN",
+        "timestamp": "2020-11-17T04:29:26Z",
+        "content": "$tsla welcome to the S&P",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991570711135864
+            }
+        },
+        "image_url": ""
+    }
+]

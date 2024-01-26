@@ -1,0 +1,5406 @@
+[
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-08-01T16:21:51Z",
+        "content": "$AAPL still resting easy on my E*trade account too. Life is good",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982036352157593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-08-01T11:19:45Z",
+        "content": "$AAPL premarket dips equals buy more splits. We all know where this is headed. Still holding my sept 6 and aug 30 calls. Tim Apple will treat us right. Bullish",
+        "sentiment": {
+            "TextBlob": 0.39285714285714285,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.969577968120575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-08-01T08:08:47Z",
+        "content": "$AAPL still cleaning up my nut",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983741044998169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T13:58:55Z",
+        "content": "$AAPL unlike the bears I can comfortably hibernate today between this and my other Apple trades.",
+        "sentiment": {
+            "TextBlob": 0.1375,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9586668610572815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T13:50:47Z",
+        "content": "$AAPL time to take a much earned nap. \ud83d\ude2a\ud83e\udd11\ud83e\udd43 Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989966750144958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T13:41:45Z",
+        "content": "$AAPL basic break down of revenue last quarter: keep in mind those red numbers rival a fortune 50 company",
+        "sentiment": {
+            "TextBlob": -0.038888888888888896,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979453682899475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T13:31:41Z",
+        "content": "$AAPL waiting.... \ud83d\ude44",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965052604675293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T12:47:32Z",
+        "content": "$AAPL pretty sure people are just eating raw lead and huffing paint fumes at this point.",
+        "sentiment": {
+            "TextBlob": 0.17307692307692304,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987279772758484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T12:39:50Z",
+        "content": "Keep an eye out for $CRAY, $OKTA and $PYPL for possible 3-5 day swings. Will do some more charts later.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9956412315368652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T12:18:20Z",
+        "content": "$AAPL - E*trade just alerted me Apple is reiterated as a buy.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9747492074966431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T11:26:59Z",
+        "content": "$AAPL glad to see someone else is paying attention.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9278755187988281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T00:17:47Z",
+        "content": "$AAPL anyone else heard of this possible plant in Texas?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987121820449829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-31T00:12:58Z",
+        "content": "$AAPL is it tomorrow morning yet??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971151351928711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:58:03Z",
+        "content": "$AAPL you know nothing l, joe blow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941002726554871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:57:19Z",
+        "content": "$AAPL .........lol. That\u2019s all I can say. \ud83d\ude44",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962465167045593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:50:32Z",
+        "content": "$AAPL I want what this guy is smoking",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983470439910889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:43:29Z",
+        "content": "$AAPL - if I\u2019d have listened to the naysayers this month I wouldn\u2019t have all these delicious ITM contracts for August and Sept. You need to be able to stomach red colored text.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860664010047913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:36:14Z",
+        "content": "$AAPL mhm",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994682252407074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:33:46Z",
+        "content": "$AAPL *clears throat*",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901130199432373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:31:49Z",
+        "content": "$AAPL mhm.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960827827453613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T23:23:00Z",
+        "content": "$AAPL you know all those bears sure aren\u2019t sending me any messages now lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982744455337524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T15:50:31Z",
+        "content": "$AAPL called \u201cpumo&dump overvalued hype. I\u2019ve now seen it all.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988481998443604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T15:49:45Z",
+        "content": "@ShortyMcFly @DaCrashMarket those analysts aren\u2019t clogging up my $AAPL fees though",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9744663834571838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T15:03:01Z",
+        "content": "$AAPL - hmm businesswire.com/news/home/... businesswire.com/news/home/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932394027709961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T15:01:59Z",
+        "content": "$AAPL $AAPL anddddd they\u2019re already unleashing some surprises before ER today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.976851761341095
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T14:44:07Z",
+        "content": "$AAPL hmm swift ... yeah def heard of that before",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849515557289124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T14:39:24Z",
+        "content": "$AAPL And yet another announcement.... bears you starting to feel silly yet?",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969685673713684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T14:34:53Z",
+        "content": "$AAPL well with Huwei sucking the big fat one who can compete.....",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854162335395813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T14:31:16Z",
+        "content": "$AAPL here wonder what those 30 patents could be for....",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948998093605042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T14:10:12Z",
+        "content": "$AAPL TOO EZ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992546439170837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:56:42Z",
+        "content": "$AAPL you really think a jump to 19% that quick is going to just slow down for no reason? \n\nYou\u2019re seeing less iPhone adds for a reason folks.",
+        "sentiment": {
+            "TextBlob": -0.01777777777777779,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995500445365906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:46:14Z",
+        "content": "$AAPL wow, Forbes actually slinging some common sense for once -",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990180492401123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:41:57Z",
+        "content": "$AAPL @tedmel",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97197026014328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:36:15Z",
+        "content": "$AAPL $SPY damn... it\u2019s up almost two dollars in 6 minutes- how\u2019s that short going bud?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984135627746582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:35:33Z",
+        "content": "$AAPL been saying since June and July - get your options cheap for the fall...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998874843120575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:32:31Z",
+        "content": "$AAPL\n@tedmel @mendobud you SERIOUSLY think Apple is going to report a 25% loss in sales?? Now that is rich",
+        "sentiment": {
+            "TextBlob": 0.020833333333333343,
+            "NLTK": -0.1263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838878512382507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:26:28Z",
+        "content": "$AAPL - for the dense people that can\u2019t read context clues. $AAPL said screw chime and put its Asian localization divisions into India, Vietnam and Thailand. All emerging and established markets with high populations of tech savvy people. This trump-China -MacBook tariff thing is all hot air so they can dump surprises on the shareholders and look like they care about politics. They dgaf about China after seeing google and facebooks problems",
+        "sentiment": {
+            "TextBlob": 0.1366666666666667,
+            "NLTK": 0.1621,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9714105725288391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:23:04Z",
+        "content": "$AAPL - okay I\u2019ll play like the bears. Look! Someone said it\u2019s going g up! Buy buy buy!\n\nI mean sell sell sell! Do whatever the f you want! \n\nApple faces 'low bar of expectations' on Q3 earnings  cnbc.com/2019/07/29/apple-f...",
+        "sentiment": {
+            "TextBlob": 0.16276041666666666,
+            "NLTK": 0.7326,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970832467079163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T13:01:26Z",
+        "content": "@superman_ yeah cause $AAPL and the market are doing so bad...... yellow line is Apple, red area is SPY, blue is DAX, orange is DJI. \n\nPlease tell me the issue here",
+        "sentiment": {
+            "TextBlob": -0.17499999999999996,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996964931488037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T12:41:34Z",
+        "content": "$AAPL - I mean the chart speaks for itself",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9500308632850647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T11:31:13Z",
+        "content": "@techspec1000 @cybercash28 if you don\u2019t hold literally never trade again a day in your life. You shouldn\u2019t be swinging $AAPL if your worried about a 0.5-1.5% fluctuation before earnings.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965611100196838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T11:17:36Z",
+        "content": "@NCMod literally all analysts were negative until the intel and Tesla acquisition news. Ignorance rampant on $AAPL earnings day",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999150276184082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T11:12:55Z",
+        "content": "$AAPL if you\u2019re not bullish for $AAPL SKYROCKETING in 2020 please just hide your money in a mattress or invest in beanie babies. You don\u2019t belong here. Acquisitions starting, sniping Tesla employees, chip makers, Intel business units, renting air field space, consolidating MacOS - 5g 2020, TONS of Indian localization rolling out in iOS 13 - yes even Siri; and oh yeah.... how many people live in India? If you fall for these guys saying earnings is going to crash the stock...just... Wow.",
+        "sentiment": {
+            "TextBlob": 0.18409090909090908,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998742401599884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-30T11:07:03Z",
+        "content": "$AAPL want to learn how to lose a ton a cash really quick?? Just read below! Free lessons",
+        "sentiment": {
+            "TextBlob": 0.4083333333333333,
+            "NLTK": 0.372,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986005425453186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-29T15:39:29Z",
+        "content": "$AAPL  called this run way back on 7/1 - what a rollercoaster month !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979453682899475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-29T15:27:21Z",
+        "content": "$AAPL well ... I\u2019m waiting on $BTC.X to settle but soooo glad I held on to my Apple calls. Let\u2019s go!!",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.7298,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9903449416160583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-29T15:08:32Z",
+        "content": "$AAPL and today is even better :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8772833347320557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-25T11:27:09Z",
+        "content": "Okay decided to start the discord and YouTube channel again. If you'd like the discord invite just send me a private message - always free of course we just talk and help each other out. This is not a stock alert service or anything like that - just people doing research and having fun. Youtube streams will be starting again as well once people are interested again. Good luck out there today!  $AMRS $AAPL $TMUS $AJG $BTC.X $AMD $TSM $XXII $CVRS $OGEN Bullish",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.9612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8546560406684875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-25T10:53:03Z",
+        "content": "$BTC.X screw it - going to swing this today as well",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9929171800613403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-25T10:27:40Z",
+        "content": "Watchlist for today : $AAPL $AJG $TMUS $AMD - sold my $TSM shares for $AAPL calls Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991924166679382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-25T10:25:38Z",
+        "content": "$AJG grabbing 5 calls for Oct",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924693703651428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-25T10:09:32Z",
+        "content": "$TMUS hopping in some weekly calls for today let\u2019s see what happens during that call after market. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991021156311035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T13:28:36Z",
+        "content": "$AAPL yum yum yum L2 and book just about to open - let's go boys",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5409907698631287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T12:26:09Z",
+        "content": "$AAPL got a morning bump from Bloomberg just now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9383808970451355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T12:15:05Z",
+        "content": "$BTC.X - do we see $8k again?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993558526039124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T12:09:31Z",
+        "content": "$AAPL current premarket L2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927051663398743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T12:07:59Z",
+        "content": "$AAPL $210 at least once today",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836169481277466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T11:26:33Z",
+        "content": "$AAPL AWWWW YEEE tickerreport.com/banking-fi... tickerreport.com/banking-fi...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943650960922241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T11:12:52Z",
+        "content": "$AAPL just saying",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890163540840149
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T06:54:32Z",
+        "content": "$AAPL this is why you hold onto your research and don\u2019t get weak hands. Don\u2019t bleed to death but don\u2019t be a wimp if you trust yourself.",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.2617,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9911952018737793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T06:49:52Z",
+        "content": "$INTC intel? Who needs \u2018em when you have $TSM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981720447540283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T06:35:06Z",
+        "content": "$TSM $AAPL another green day ahead? \nfool.com/investing/2019/07/...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993796706199646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T04:22:46Z",
+        "content": "$TSM $AAPL if you\u2019re still not in in Apple or TSM what is wrong with you. Free money all week.",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992443323135376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-23T04:21:24Z",
+        "content": "$INTC $AAPL this is completely separate from their cpu processors...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925006031990051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-22T20:19:28Z",
+        "content": "$TSM $AAPL keep on rollin rollin rolllin",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6776294708251953
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-22T13:47:49Z",
+        "content": "$TSM Another good day so far :)",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.7334,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9893118739128113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T15:23:52Z",
+        "content": "$CTXS  not sure what to think for earnings. I\u2019m betting it will be good though. Thoughts? I\u2019m still on the fence for an earnings play.",
+        "sentiment": {
+            "TextBlob": 0.22499999999999998,
+            "NLTK": 0.5168,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9447744488716125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T15:16:24Z",
+        "content": "$TSM and the L2 has flipped green :)   $AAPL $AMD $MU",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979643821716309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T14:57:19Z",
+        "content": "$TSM $AAPL 45 bucks an hour for one holding? Don\u2019t mind if I do. I don\u2019t miss wagecucking a bit. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8659777045249939
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T14:45:35Z",
+        "content": "$AMD hate to say it but I\u2019m bearish on AMD for a little bit. Too much good news from other manufacturers and not enough enterprise sales showing up yet. It will return though with holiday cpu sales. Bearish",
+        "sentiment": {
+            "TextBlob": -0.08250000000000002,
+            "NLTK": 0.7227,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894179701805115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T14:38:19Z",
+        "content": "$TSM yum yum keep going. $AAPL thanks for the good news today Apple",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9951996803283691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T14:10:16Z",
+        "content": "$TSM current lvl 2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9629599452018738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T13:29:26Z",
+        "content": "$TSM going to try to swing this premarket dip considering the $AAPL news and liking the chart setup. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976314306259155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T13:22:17Z",
+        "content": "$AAPL current lvl2 during premarket",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904409646987915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T13:16:46Z",
+        "content": "$AAPL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836944937705994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T12:54:50Z",
+        "content": "$AAPL $BTC.X  With bitcorn\u2019s and Libra\u2019s latest foibles why not enjoy this swing :) notice anything? Besides all the good news this week of course.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803804755210876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T06:56:47Z",
+        "content": "$AAPL glad I held on to these bad boys. My Robinhood options looking good now too.",
+        "sentiment": {
+            "TextBlob": 0.1666666666666667,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972438812255859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-19T06:55:13Z",
+        "content": "$AAPL my options and stocks thank you Mr. Raymond.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996089339256287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-03T15:30:33Z",
+        "content": "$BTC.xand $AAPL calls going well! Hope you guys making some dough today!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6792,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9973019361495972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-02T18:43:52Z",
+        "content": "$AAPL I may lose $600ish this week, may not. But this is definitely a fun position to watch even while red.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.7992,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995881915092468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-02T18:39:48Z",
+        "content": "$BTC.X what a nice day, thank you China US relations.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997778534889221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-02T18:37:42Z",
+        "content": "$AAPL $BTC.X  ah glorious.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7533887028694153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-07-01T14:51:45Z",
+        "content": "$AAPL $BTC.X all I\u2019m interested in right now options on AAPL and loading up more bitcoin. Pro platform back finally almost done moving!",
+        "sentiment": {
+            "TextBlob": 0.20714285714285713,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978023171424866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T23:23:48Z",
+        "content": "$LINK.X Just a comparison update from earlier",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978390336036682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T17:50:42Z",
+        "content": "$LINK.X If you're swinging today - keep your wits about you -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9926214218139648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T16:48:27Z",
+        "content": "$LINK.X What the heck - why won't it let you post youtube links here? \n\nhttps://youtu                .be/g08E-LfcpPg",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971838593482971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T16:45:49Z",
+        "content": "$LINK.X Not sure why the video didn't show up - but here it is again. \n\nyoutube.com/watch?v=g08E-Lf...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.1232,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957018494606018
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T16:38:10Z",
+        "content": "$AMD - damn - anyone make their 100% from here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994075298309326
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T16:35:26Z",
+        "content": "$DCTH oof. Big oof. Lmao",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964240193367004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T15:31:56Z",
+        "content": "@bioisrisky ohhhhhhhhhhhhhhhh I'm retarded - I thought you replying to my $XXII post - yes CEMPRA duh.... fuck them",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991501569747925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T15:21:15Z",
+        "content": "What are your biggest trading blunders? \n\nMine would have to be $DCTH  and $FLXN - needless to say Biopharma can SMD.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994775652885437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T15:18:48Z",
+        "content": "$XXII but for real.... what have they been doing the last 3 years. We're below EOY 2017....",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995830237865448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T15:15:00Z",
+        "content": "$XXII >_> ......................<_< .......... wtf has this company been doing for 3 years to still be $2",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960894584655762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T14:44:16Z",
+        "content": "$LINK.X  Latest video on the Link to BTC to USD ratios - youtube.com/watch?v=g08E-Lf...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917306303977966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T14:38:18Z",
+        "content": "@seanstafford here you go bud! A $LINK.X update requested by Sean! Let me know what you guys think. What did I miss, where is it going, what do you think will happen?? Short term slight dip imo but we can maybe hold stead around 1.40 - will be an interesting June!  youtube.com/watch?v=g08E-Lf...",
+        "sentiment": {
+            "TextBlob": 0.1527777777777778,
+            "NLTK": 0.6874,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9582344889640808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T14:02:26Z",
+        "content": "$ATVI If you look at my post history..... $40-45 has always been a good buy - when you get your indicators I'd take a bite. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779541492462158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T13:55:07Z",
+        "content": "$LINK.X  video uploading RN by request from @seanstafford  - Should be available in around 20 minutes. \n\n$BTC.X $ETH.X $LINK.X Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983547329902649
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T12:52:38Z",
+        "content": "What would you guys like charted today? $XXII $ATVI $CSCO $TSLA $LINK.X $BTC.X $SPY $AAPL $ORCL ?  I'm cool with whatever - glad to be back to posting!",
+        "sentiment": {
+            "TextBlob": 0.2833333333333333,
+            "NLTK": 0.8152,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9855124354362488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T12:47:18Z",
+        "content": "whoops forgot the tag, $LINK.X $BTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99935382604599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-06-07T12:10:27Z",
+        "content": "$XXII $CSCO $ATVI $AMD $AMZN $NVDA $TSLA $ATRS $INTC - needless to say not the 2019 quarters we expected. \n\nThe good news? Brand new discord and YT - fresh start lads. Enough of the 9-5 - trading again it is. \n\nMiss you guys!",
+        "sentiment": {
+            "TextBlob": 0.0893939393939394,
+            "NLTK": 0.2942,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8097447156906128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-04-30T22:56:06Z",
+        "content": "youtube.com/watch?v=GEumidf... - current thoughts on $LINK.X , $BTC.X, and $ETH.X during current market trend. Time for another swing?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913713932037354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-04-30T22:25:19Z",
+        "content": "$XXII This is STILL 2 dollars? Jesus I think I last checked in like spring last year. WT swinging would work - youtube.com/watch?v=GEumidf...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4329,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947691559791565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-04-30T21:52:13Z",
+        "content": "youtube.com/watch?v=GEumidf... - current thoughts on $LINK, $BTC, and $ETD during current market trend. Time for another swing? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982946515083313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-01-12T04:32:16Z",
+        "content": "$XXII I just really don't know on this one anymore. It's a whale's game. Pump and dump ad nauseum. It's going nowhere until fed legalization",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995118379592896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2019-01-12T04:26:40Z",
+        "content": "$LINK.X - mhm.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964646100997925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-14T10:59:38Z",
+        "content": "$ATVI going to have to chart this again - I remember kicking myself for not buying at $43 ... maybe I'll get the chance again.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983251690864563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-14T10:55:19Z",
+        "content": "$AMD This will be good come 2nd qtr 2019 - waiting on my entry. Still hoping for $12-15 - watching for now.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9188563227653503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-13T01:27:29Z",
+        "content": "$AMD Prelim chart - better chart this weekend. ~$15.60 week of 12/03 then rise up until EOY. Thoughts? Better fibs/indicators EOW.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827660322189331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-13T01:03:53Z",
+        "content": "$XXII Better chart coming this weekend - using crappy Fidelity tonight - Anyone making gains on the swings? What do you guys think of this -",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995018482208252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-13T00:45:08Z",
+        "content": "$ATRS Make of it what you will. Chart made back in november 2017. $3.10-3.20 entry for a month or two swing. Thoughts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6833265423774719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-13T00:35:05Z",
+        "content": "$BAC what do you guys think? Correlation to a rise next week? I made this chart back in August - fibs still matching up in my opinion.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8473445773124695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-13T00:21:05Z",
+        "content": "$AMD Looking for entry around $12-15 - Charting fibs and trends this weekend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920685291290283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-11-13T00:12:26Z",
+        "content": "$AMD $XXII $OKTA $ATVI $ORCL $OGEN $CTXS I'm back - charting starts again next week. Hope everyone has been making that $$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938856959342957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-10T17:25:01Z",
+        "content": "$XXII still fitting in with what I said earlier this week - let's see if we can stay above $2.50 into next week and try to get the bounce up",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8565889596939087
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-10T17:22:51Z",
+        "content": "$AKCA lol wish i held onto my shares back in january - still going strong",
+        "sentiment": {
+            "TextBlob": 0.41111111111111115,
+            "NLTK": 0.875,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9977043271064758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-08T21:17:56Z",
+        "content": "$JNJ Quick and dirt on this - either $139 or $129 on Sept 3rd. All depends on Aug 10-13th.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982993006706238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-08T17:13:46Z",
+        "content": "Still keeping an eye on $.80. Closing on Friday will be telling - will update chart accordingly this week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9686049222946167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-08T17:03:52Z",
+        "content": "$ATRS looking good for my prediction so far - still want to see it hold $3 into monday",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.5367,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9479598999023438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-08T16:55:55Z",
+        "content": "$BAC Super quick look at BAC for a buddy - if it can bust $33 in the next two weeks I think a good launch possible",
+        "sentiment": {
+            "TextBlob": 0.2733333333333333,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9927167296409607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T17:33:47Z",
+        "content": "$PTN Needs to hold $.80 late August and start reversing soon there. If it dips below the cloud could be worrying for more dip.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985930323600769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T17:14:11Z",
+        "content": "$DPW Seems to only respond to high volume days. Going to need some good news for a pop. If you can sell for profit next pop prob good idea",
+        "sentiment": {
+            "TextBlob": 0.312,
+            "NLTK": 0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994879961013794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T16:31:42Z",
+        "content": "$EGLT Volume to price increase on MACD a little spooky, keep look out for news otherwise I don't know the outcome of this pop.",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943134784698486
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T16:19:59Z",
+        "content": "$EGLT could be a false pump since no news... I'd be wary but grats to anyone selling for a profit today.",
+        "sentiment": {
+            "TextBlob": -0.45000000000000007,
+            "NLTK": 0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984714388847351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T16:15:48Z",
+        "content": "$EGLT quite a bounce today, no news though?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3535,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957979321479797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T16:01:05Z",
+        "content": "$ATRS @Itchymoekoo Seems solid since November. Would like to see $3.00 break and hold Fri-Mon. Potential dip to $2.60s if not.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8915079236030579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T15:40:46Z",
+        "content": "$ATRS @Itchymoekoo  taking a look now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8822563290596008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T15:36:49Z",
+        "content": "$XXII If we can hold $2.55 til the 10th chance for upswing to mid $2.70s, if dip to support at $2.42 chance to be $2.30s next week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981429576873779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T15:29:48Z",
+        "content": "$FLXN you were the chosen one...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9398839473724365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T15:25:20Z",
+        "content": "$HMNY oof what happened here? I take a few months off and this is crazy.",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987449645996094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-08-07T15:24:16Z",
+        "content": "I think I'm back. Miss me? Prob not but that's okay! $XXII $ATVI && more coming soon",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": -0.38,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998418927192688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-03T14:52:08Z",
+        "content": "$HMNY pretty good volume so far - let's see how it goes today",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996874332427979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T21:01:38Z",
+        "content": "$HMNY closing L2 - good day guys",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9946734309196472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T21:00:55Z",
+        "content": "$HMNY And it was",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6875730752944946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T20:57:38Z",
+        "content": "$XXII 4.30s by 2/08? Maybe -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957329630851746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T20:31:49Z",
+        "content": "$HMNY YESSSSSS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9680808186531067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T20:22:59Z",
+        "content": "$HMNY let's keep this going - good day so far! Fun to watch",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.7763,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998385906219482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T18:40:59Z",
+        "content": "$HMNY liking the 60 min",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7715277671813965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T18:36:29Z",
+        "content": "$HMNY 13k wall at 6.68 - let's see how this plays out",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3071,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9195702075958252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T18:29:20Z",
+        "content": "$HMNY liking this L2 post lunch -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9761679768562317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T18:19:42Z",
+        "content": "$HMNY 5 min chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914501309394836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T18:18:27Z",
+        "content": "$HMNY trending now sweet",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980584979057312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T18:05:32Z",
+        "content": "$HMNY woohoo broke $6.50",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.956887423992157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T17:09:50Z",
+        "content": "$HMNY current L2 - shorts been trying hard but buying has been pretty solid in this zone today.",
+        "sentiment": {
+            "TextBlob": -0.010416666666666671,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995076656341553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T17:06:34Z",
+        "content": "$XXII good to see the price above $3 again. Been a while",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9913390278816223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T17:04:46Z",
+        "content": "@jbstck Ah unfortunately $MSDI is still down for the day -  but yes not as bad as before!",
+        "sentiment": {
+            "TextBlob": -0.5101851851851852,
+            "NLTK": 0.7856,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9742043614387512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T16:54:29Z",
+        "content": "$DPW and $XXII charts up - if there are a couple more requests will be glad to do them while on a break. Have a great trading day everyone",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989199638366699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T16:50:48Z",
+        "content": "@army13p23 @IconTraderz @timmmbuck2 here is the $DPW chart guys - Risky play due to short amount of data avail - but could be on uptrend",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978901743888855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T16:37:54Z",
+        "content": "@army13p23 Good deal, I just posted that chart for $XXII, will work on $DPW now man.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9279841184616089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T16:37:15Z",
+        "content": "@seanstafford $XXII here you go buddy. Looking good imo. PT $3.22",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987850785255432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T16:26:23Z",
+        "content": "@seanstafford Word - I'll post an updated $XXII chart later this morning for you man.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9531710743904114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T16:21:03Z",
+        "content": "Up today: $IGC $XXII $ASXC $AMD $SENS $BABA $FLXN $SHOP - down today: $ALRT $KABD $EGLT $MSDI $CRAY - Great day overall for the market",
+        "sentiment": {
+            "TextBlob": 0.21481481481481482,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984322726726532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T15:47:18Z",
+        "content": "$HMNY Think I'm gonna hold this for a few weeks and see how it goes. In at $6.49",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9197298884391785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T14:48:34Z",
+        "content": "$XXII a good morning for the first market day of the year so far",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9933664202690125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2018-01-02T14:23:39Z",
+        "content": "$HMNY could be a good day",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9902888536453247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-28T00:56:06Z",
+        "content": "$XXII $FLXN $HMNY $ASXC $BTSC youtube.com/watch?v=rpi4D-W...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939826130867004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-27T15:17:42Z",
+        "content": "$XXII youtube.com/watch?v=rpi4D-W...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9782696962356567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-27T15:09:23Z",
+        "content": "$XXII $FLXN $HMNY $ASXC $BTSC New video out, enjoy! youtube.com/watch?v=rpi4D-W...",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.5411,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9360964298248291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T17:27:36Z",
+        "content": "$XXII Seems to be riding the upper fib channel well",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.961428165435791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T01:58:31Z",
+        "content": "$NAK needs to stay above 1.88 this week then looks good for more upside, 1.70s I might start to worry a little.",
+        "sentiment": {
+            "TextBlob": 0.253125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980625510215759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T01:38:31Z",
+        "content": "$ATVI prob will hit $62 again before going up - hopefully 64.50 by 12/14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874556064605713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T01:25:04Z",
+        "content": "$IMNN looking good - I think a little sideways and upwards the rest of the month. GLTA",
+        "sentiment": {
+            "TextBlob": 0.25625,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9531264901161194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T01:23:14Z",
+        "content": "$CAPR - thoughts - If it doesn't bounce of 1.62 we're in for a bad time - notice the previous gap down levels.",
+        "sentiment": {
+            "TextBlob": -0.34074074074074073,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995262622833252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T00:54:00Z",
+        "content": "$XXII While I think this week will be good - do NOT be surprised by a snap back mon-wed first. Really sharp rise.",
+        "sentiment": {
+            "TextBlob": 0.18499999999999997,
+            "NLTK": 0.3036,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9969074130058289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T00:50:13Z",
+        "content": "@Sean2775 We are starting youtube again this week broski, will do some $XXII",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9345609545707703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T00:49:53Z",
+        "content": "$FLXN sorry guys I'm out - I think we see 23-24 again soon. Maybe less depending... GLTA longs - hold through",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976490139961243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-11T00:35:53Z",
+        "content": "$XXII important to maintain upward fib - indicators look solid careful of overbought STCH MTM outlook overall good.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9882562756538391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-10T23:53:43Z",
+        "content": "$XXII i'm gonna do a chart for monday prep I think , will post in a few",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9763597846031189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-10T23:51:08Z",
+        "content": "$XXII who thinks this week will be really interesting? I do",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4576,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8652184009552002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-08T20:38:50Z",
+        "content": "$XXII was right about the turning point :)",
+        "sentiment": {
+            "TextBlob": 0.39285714285714285,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9835689663887024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-06T03:33:31Z",
+        "content": "$XXII such hatred on this board.... does no one just accept opinion and take it their own way? Calm down people. It's just a stock.... peace",
+        "sentiment": {
+            "TextBlob": 0.18611111111111112,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9855029582977295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-05T15:21:29Z",
+        "content": "$XXII - 12/6 afternoon will be the turning point either direction.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8930374383926392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-05T15:03:44Z",
+        "content": "$FLXN looking decent on the daily, would really love to see a strong green candle on the Elder Impulse today -",
+        "sentiment": {
+            "TextBlob": 0.18,
+            "NLTK": 0.8313,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990087151527405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-05T14:56:20Z",
+        "content": "Morning gainers : $IGC $SQ $LABU $ASXC $ATVI $AMD - Down $MSDI $HMNY $SENS $LABD $XXII $VRAY $EGLT - taking suggest",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978546500205994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-05T14:48:40Z",
+        "content": "$XXII - Looks like we will be on slight uptrend with dips along the way. Could go either way imo. Notes on chart.",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994795024394989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-05T14:18:02Z",
+        "content": "$XXII will do a chart review today - sorry it's been a while. Congrats on not dipping back below $2 as predicted a couple weeks ago!",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6894733309745789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-05T14:14:05Z",
+        "content": "premarket movers : $IIGC $ASXC $XXII $FAS $LABU $MA - Down $HMNY $BABA $TVIX $SHOP $NVDA $PTN",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983530044555664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-12-01T16:35:15Z",
+        "content": "$FLXN So tired of this short manipulation.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.659,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999497652053833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-28T08:32:09Z",
+        "content": "$XXII $FLXN $INTC $ATVI $IGC $PTN $HMNY you may ask why we've been quiet. You're not ready. Prepare for the release. It's coming. Soon.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.2755,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987087249755859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-18T00:29:42Z",
+        "content": "$XXII $FLXN $ASXC $IMNN $CRAY $MRNS sorry guys - stream pushed to tomorrow - will post the time",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978479146957397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-17T20:44:00Z",
+        "content": "$XXII $PTN $EGLT $ASXC $MRNS $FLXN and more live requests - will do EOW chart stream tonight. Most likely around 6-7 PM CST",
+        "sentiment": {
+            "TextBlob": 0.28409090909090906,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986213207244873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-17T14:46:33Z",
+        "content": "@PJSINGHH It's still just riding on the fib line, $XXII doesn't seem to be reacting to TA buy signals really yet",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989830851554871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-17T14:41:22Z",
+        "content": "Opening gainers : $DCTHD $HMNY $EGLT $TSLA $SQ $AMD = losers: $ASXC $ONCS $MSDI $PTN $VRAY $MRNS",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979848861694336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-17T14:04:53Z",
+        "content": "$EGLT Premarket chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977849125862122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-17T01:04:41Z",
+        "content": "Day's winners: $EGLT $VRAY $PTN $SHOP $PYPL $HMNY $IGC , Losers: $DCTHD $AVID $ONCS $MSDI",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980717897415161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-17T01:00:49Z",
+        "content": "$EGLT closing chart and L2 - $1.35",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933677315711975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-16T22:06:20Z",
+        "content": "$EGLT enjoying this immensely.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997840523719788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-16T17:08:05Z",
+        "content": "Midday Gainers: $VRAY $SHOP $IGC $LABU $CRAY $PYPL - losers: $DCTHD $LABD $AVID $ONCS $ASXC $XXII",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973939657211304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-16T16:10:52Z",
+        "content": "$XXII Accumulation still going down, buy signals on MACD and STCH MTM haven't helped price yet. Still on Fib trend",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961397051811218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-16T16:06:28Z",
+        "content": "$FLXN Alligator finally turning around on the daily chart, getting hungry?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966283440589905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-16T15:51:00Z",
+        "content": "$OPHC holy guacamole",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850245714187622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-16T15:27:39Z",
+        "content": "Early AM gainers : $ARGS $LABU $SHOP $PTN $MRNS $FLXN losers: $DCTHD $LABD $AVID $ONCS $ASXC $HMNY",
+        "sentiment": {
+            "TextBlob": 0.049999999999999996,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976584911346436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-15T23:03:23Z",
+        "content": "After Hours Movers: $MSDI $ONCS $ASXC $IGC $SQ - Down: $ARGS $HMNY $ATVI $AMD $BABA",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984573125839233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-15T21:14:47Z",
+        "content": "$XXII Still following fib trend line",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.743256688117981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-14T17:46:21Z",
+        "content": "$FLXN Yup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9691087007522583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-14T16:53:50Z",
+        "content": "$XXII You tell me -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5777312517166138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-14T16:32:24Z",
+        "content": "$FLXN don't be surprised if we see $21.70 again :-/  Hopped back on the downward fib and the Coppock can still drop",
+        "sentiment": {
+            "TextBlob": -0.049999999999999996,
+            "NLTK": -0.608,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932135343551636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-14T15:20:26Z",
+        "content": "$FLXN Or worse...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996150732040405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-14T15:19:00Z",
+        "content": "Very Red Day so Far: Up - $LABD $PTN $AMD $AMZN - Down $DCTHD $ARGS $ASXC $MRNS $FLXN $XXII",
+        "sentiment": {
+            "TextBlob": -0.018518518518518528,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963937401771545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-14T00:52:45Z",
+        "content": "$XXII Here's a chart for you guys - Take from it what you will.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7421817779541016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-14T00:29:21Z",
+        "content": "@ChiefLittleTurtle You obviously haven't looked at the last few $XXII charts then. Have a good night I guess... Lay off the caffeine buddy.",
+        "sentiment": {
+            "TextBlob": 0.12499999999999999,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.968910276889801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-13T19:28:42Z",
+        "content": "Midday Leaders: $ARGS $HMNY $ASXC $XXII $LABD $TSLA | Losers: $DCTHD $IGC $HUSE $MRNS $LABU $AXGT $FLXN",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997586727142334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-13T18:36:20Z",
+        "content": "$FLXN at this rate we're going to see 23.00 again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9427516460418701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-13T17:11:56Z",
+        "content": "$XXII Seems to be following this slow upward fib channel even with the peaks/dips. Not sure when next swing may be.",
+        "sentiment": {
+            "TextBlob": -0.1375,
+            "NLTK": -0.2411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959659576416016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-13T17:08:44Z",
+        "content": "$FLXN shorts still having their fun today -",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9838828444480896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-13T16:55:15Z",
+        "content": "Today's current leaders: $ASXC $HMNY $XXII $LABD $TSLA $SENS | Losers: $DCTHD $HUSA $AXGT $LABU $MRNS $AMD",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978671073913574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-13T16:45:58Z",
+        "content": "$XXII Congrats on the minor upswing today - let's see if it can continue into power hour.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5208437442779541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-11T03:30:33Z",
+        "content": "$XXII look at % not the 3 names there. I'm sorry. Hate me all you want this is crashing next week.",
+        "sentiment": {
+            "TextBlob": -0.43333333333333335,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996583461761475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-11T01:28:02Z",
+        "content": "$XXII 2.06 is not bottom",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9869076013565063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-10T22:20:10Z",
+        "content": "$XXII yowza. That cc q&a was all I needed to keep studying away for a while. No reporting agencies, no tutes.. all stoners. See you in 4 mo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.933814287185669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-10T18:53:35Z",
+        "content": "$MRNS in at 8.04",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9718443751335144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-10T16:50:27Z",
+        "content": "$FLXN my guess? Will look like we close 24.14 then we get shorted to 23.50 EOD. We'll see",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939649701118469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-10T16:42:22Z",
+        "content": "$XXII chart update - same lines as last week haven't needed to change anything yet -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936274290084839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-08T21:04:59Z",
+        "content": "$FLXN 8 million dollar short cover at close today. So much manipulation still. Computers still in 100% control.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.3566,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940947890281677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-07T04:51:49Z",
+        "content": "@sixth200  you can't even buy 48 calls for this. How dumb are you? $FLXN it was for Intel. Learn to read",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996695518493652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-07T00:10:49Z",
+        "content": "$FLXN This is spoken like a truly blind and unaware person. Why do I even look at this site some days? Now i know why I just stay in discord",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985411167144775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-06T22:36:07Z",
+        "content": "$FLXN literally exactly as expected. Only up from here. Great earnings report for launching a product, commercializing and hiring sales.",
+        "sentiment": {
+            "TextBlob": 0.23333333333333336,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6764252781867981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-06T16:57:31Z",
+        "content": "$FLXN like i said - shorts in total control until humans start buying again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959954023361206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-06T16:30:56Z",
+        "content": "$FLXN Accumulation looking good",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9940817952156067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-06T16:06:18Z",
+        "content": "$FLXN technically has a chance to hit $24 today... let's see how hard the shorts work at it -",
+        "sentiment": {
+            "TextBlob": -0.14583333333333334,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986944794654846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-06T15:34:32Z",
+        "content": "$FLXN shorts still trying their hardest. Need more buying pressure",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.3566,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974744915962219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T21:51:02Z",
+        "content": "$FLXN  $23.50 AH - I'm not complaining",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1511,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.980455756187439
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T20:00:41Z",
+        "content": "$FLXN said 23.19 would be peak, we closed at 23.25, I'll take it!! GL next week everyone",
+        "sentiment": {
+            "TextBlob": -0.078125,
+            "NLTK": 0.5599,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983592629432678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T19:34:14Z",
+        "content": "$FLXN I love when the previous day's chart gets filled in beautifully -",
+        "sentiment": {
+            "TextBlob": 0.39583333333333337,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983770847320557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T17:21:10Z",
+        "content": "@JBSmooth11 $XXII here ya go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779372811317444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T15:49:53Z",
+        "content": "$ATVI same thing happened last earnings.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898766875267029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T15:49:02Z",
+        "content": "$FLXN yep just like usual",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5479630827903748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T15:31:36Z",
+        "content": "$XXII",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5109015703201294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T15:28:35Z",
+        "content": "$FLXN Well so far I'm happy to be wrong! Let's see if we can break my peak guess of 23.19",
+        "sentiment": {
+            "TextBlob": 0.09166666666666667,
+            "NLTK": 0.5033,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6186216473579407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T15:26:18Z",
+        "content": "$FLXN nervous about a short attack at 23 again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955629110336304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T15:18:21Z",
+        "content": "$XXII Let's see if I'm right from yesterday - $1.84 inbound",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867335557937622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T15:17:01Z",
+        "content": "current % leaders on personal W/L $LABU $FLXN $AMD $PYPL - losers $XXII $LABD $ATVI $INTC",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922522902488708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T14:30:42Z",
+        "content": "$FLXN huge buy",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9883127808570862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T01:05:02Z",
+        "content": "$XXII alright here you go - MACD and Coppock not looking so hot needs to hold 2-2.06 and reverse. Notes on chart",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915988445281982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T00:38:32Z",
+        "content": "$XXII doing a chart for you guys - been a while - will post soon",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9753170013427734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-03T00:37:06Z",
+        "content": "$FLXN predict close tomorrow 22.29 , possible peak 22.61 , very tiny chance of hitting 23.19 , most likely low 21.88",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951050281524658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T21:43:53Z",
+        "content": "$FLXN where do the algos take us tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948187470436096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T20:24:46Z",
+        "content": "$FLXN ADVERSE REACTIONS Most commonly reported adverse reactions (incidence \u22651%) in clinical studies include sinusitis,cough, and contusions",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.7181,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972847700119019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T20:15:50Z",
+        "content": "$FLXN Zilretta is now commercially available in the U.S. For more information, visit www.zilretta.com or call 1-844-FLEXION.",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975631237030029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T20:08:29Z",
+        "content": "$FLXN as usual crazy covering at the tape from the shorts that hold it down all day -",
+        "sentiment": {
+            "TextBlob": -0.3351851851851852,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948068261146545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T20:03:59Z",
+        "content": "Closing winners: $ASXC $LABU $SENS $UGAZ $INTC , losers $TSLA $HMNY $LABD $XXII",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940083026885986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T19:55:41Z",
+        "content": "$ATVI good luck",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996527433395386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T19:50:38Z",
+        "content": "$INTC loving it",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996057152748108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T19:30:33Z",
+        "content": "$XXII \"I'm sure\" \"I hope\" \"I think\" - please don't buy stocks based on ST hunches. Watch the chart and wait for filings/PR.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982452392578125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T19:03:55Z",
+        "content": "$ASXC $LABU $SENS $UGAZ still in the lead, $TSLA $LABD $DGAZ $ECYT $XXII on the losing side",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972303509712219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-11-02T16:08:07Z",
+        "content": "$SENS $LABU $UGAZ $ASXC leading the way today - $TSLA $LABD $DGAZ $XXII on the losing side so far",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958867430686951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-31T20:05:30Z",
+        "content": "$FLXN ever wanted to see what manipulation looks like? Well here you go -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9292680025100708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-30T20:35:19Z",
+        "content": "$FLXN My February calls looking good again.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958792924880981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-30T20:33:03Z",
+        "content": "$XXII eeshh... still going to wait on this. Daily Ichi not looking good. We're at August levels now. could potentially see 1.75 if 2 breaks",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996663331985474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-27T17:33:17Z",
+        "content": "@Jesse_ $VRAY hey buddy, still looking good over here :)",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994040727615356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-27T17:05:12Z",
+        "content": "$XXII Well my patience has paid off. Almost buying time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9617658257484436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-26T21:45:12Z",
+        "content": "$FLXN lmao - pull up the On Balance Volume on the 3 year chart. If you're feeling spicy also pull up the Positive Volume Index.",
+        "sentiment": {
+            "TextBlob": 0.41363636363636364,
+            "NLTK": 0.8402,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9954804182052612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-20T20:02:39Z",
+        "content": "$FLXN who is this douche bag every day?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984498023986816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-19T04:12:51Z",
+        "content": "$FLXN $XXII $IMNN $IDXG $ASXC $ATRS and more - live stream dvr available now youtube.com/watch?v=fErLxth...",
+        "sentiment": {
+            "TextBlob": 0.34545454545454546,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928593635559082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-19T03:34:09Z",
+        "content": "$ECYT $AEZS $IDXG $IMNN $BW $SUNEQ $BIOA $SGMO live now! taking questions about charts/stocks as well",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9502495527267456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-19T03:07:25Z",
+        "content": "Part 3: $ECYT $AEZS $IDXG $IMNN $BW $SUNEQ\ufeff $BIOA $SGMO Starting in a couple min : youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984048008918762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-19T02:08:34Z",
+        "content": "$FLXN $XXII $ATRS $ASXC Live stream starting in 2 minutes",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930644631385803
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-19T02:05:24Z",
+        "content": "Part 1 : $FLXN $XXII $ATRS $ASXC\nPart 2: Live Requests starting soon - youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924863576889038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-19T01:34:33Z",
+        "content": "$FLXN $IMNN $XXII $ASXC $ATRS $VRAY $ATOS Stream in 30 minutes - live requests and charting",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923288226127625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-16T13:21:20Z",
+        "content": "$XXII",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5109015703201294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-15T04:14:50Z",
+        "content": "$BTCUSD chart tradingview.com/x/gCA00hGA/ via tradingview.com/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971386194229126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-15T00:22:58Z",
+        "content": "@DontFollowTheHerd @JEAHH what? You obviously know nothing about $FLXN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983114004135132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-13T22:06:39Z",
+        "content": "$FLXN $29 close on Tuesday",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988777220249176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-13T21:51:30Z",
+        "content": "$FLXN Yep.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8438257575035095
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-13T19:32:09Z",
+        "content": "$FLXN 10 contracts FEB 16 '18 $30 strike @1.90",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936491847038269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-12T22:47:00Z",
+        "content": "$FLXN I know something you don't know.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948567152023315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-12T12:58:21Z",
+        "content": "$FLXN $ATRS $XXII $TOVX $ACRX $IMNN $NAK $MU in case you missed the livestream last night: youtube.com/watch?v=Aly_Ktg...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961392283439636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-12T04:05:57Z",
+        "content": "Part 3 - $CCLD - $MNKD - $HMNY - $AAOI\ufeff - $ARDX - $ADD  going now: youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958123564720154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-12T03:22:51Z",
+        "content": "$IMNN $SRNEQ $NAK $MU $APTO $ANIX $VXRT Part 2 of live stream starting now youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966553449630737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-12T02:40:59Z",
+        "content": "$FLXN $ATRS $ACRX $TOVX $XXII $DFFN $EKSO $IMNN $SRNEQ $NAK $MU $APTO $ANIX $VXRT Going now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960118532180786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-12T02:19:34Z",
+        "content": "$FLXN $ATRS $ACRX $TOVX $XXII $DFFN $EKSO $IMNN $SRNEQ $NAK $MU $APTO $ANIX $VXRT youtube.com/channel/UC4TEBm... stream starting - pregame",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961516261100769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-12T02:01:34Z",
+        "content": "$FLXN $ATRS $ACRX $TOVX $XXII $DFFN $EKSO $IMNN $SRNEQ $NAK $MU $APTO $ANIX $VXRT - Tonights Requests for Live Stream -- Starting in about 10",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967970252037048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-11T20:23:38Z",
+        "content": "@YVRBDX @Bostonstrong32163 we've been following $FLXN super closely in my discord, we feel like dilution/shorting is starting to end already",
+        "sentiment": {
+            "TextBlob": 0.1111111111111111,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999218225479126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-11T20:18:24Z",
+        "content": "$FLXN 2mil dollar block at close followed by another big one. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992424249649048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-09T05:32:27Z",
+        "content": "$FLXN $ATRS $XXII $FRTX $BSTG $FENG and more! Livestream DVR is available  - youtube.com/watch?v=NYD5PBV...",
+        "sentiment": {
+            "TextBlob": 0.5125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9768129587173462
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-09T05:24:51Z",
+        "content": "$FLXN get in early",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9743975400924683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-09T03:21:49Z",
+        "content": "$ATRX $APPL $AMD $IMNN $FLXN $CAPR $ATRS and more - live lessons - ask your questions and get them answered - youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939286708831787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-09T01:50:46Z",
+        "content": "Charts for Part 2 - $IGC | $HEPA | $CCLD | $ATOS | $IPI | $TGTX Part 2 question/answer session starting - youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967727065086365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-09T01:08:29Z",
+        "content": "$CAPR $ATRS $XXII $FLXN $TOVX $IMNN stream starts in 2 min",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940316081047058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-09T01:02:29Z",
+        "content": "Part 1 - $CAPR | $ATRS | $XXII | $FLXN | $TOVX | $IMNN  - Starting in 8 minutes - youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960169196128845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-09T00:10:23Z",
+        "content": "$FLXN $XXII $ATRS $CAPR $TOVX and more. Live lessons with question and answer session on livestream tonight. Approx 1 hr from now",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889061450958252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-07T04:19:26Z",
+        "content": "going over ichimoku and more, question and answer session live! youtube.com/channel/UC4TEBm... $XXII $ATRS $NETE $DHCP $ARGS $ARDX $ATOS $PSHG",
+        "sentiment": {
+            "TextBlob": 0.3352272727272727,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958742260932922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-07T01:46:40Z",
+        "content": "$XXII $ATRS | $FLXN | $ARDX | $IMNN | $CAPR | $MRNS  Stream starting in 4 minutes - https://www.youtube.com/channel/UC4TEBm_QMnBLcWwlr4_CjNA/live",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946784973144531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-07T01:40:49Z",
+        "content": "Part 1 - $ATRS | $FLXN | $ARDX | $IMNN | $CAPR | $MRNS  Stream starting in about 5 minutes - https://www.youtube.com/channel/UC4TEBm_QMnBLcWwlr4_CjNA/live",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956138134002686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T22:33:59Z",
+        "content": "$FLXN $XXII $ATRS $CAPR $IMNN $NETE $ATOS $EDIT and more - live stream with requests tonight. Around 7-8pm CST start time",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898820519447327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T22:20:36Z",
+        "content": "$FLXN PT $45",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922709465026855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T21:11:37Z",
+        "content": "$FLXN up to 30.80 now... I'm telling you EZ money",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4995,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923757910728455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T20:55:53Z",
+        "content": "$FLXN $30.25 AH so far. Get in before Monday. EZ money.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4995,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997787356376648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T20:50:46Z",
+        "content": "$FLXN In at 29.80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806104898452759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T04:26:41Z",
+        "content": "$ATRS $XXII $CAPR $IMNN $NETE $TOVX $ATOS $MRNS and more! Live stream DVR now available - youtube.com/watch?v=r5qzlt4... Skip the first few min",
+        "sentiment": {
+            "TextBlob": 0.24227272727272728,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998712420463562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T03:26:17Z",
+        "content": "$PTN $GRPN $CDNA $PSHG $MRNS $SFM $GNCAQ $LODE $EDIT $ATOS Next one the livestream! https://www.youtube.com/channel/UC4TEBm_QMnBLcWwlr4_CjNA/live",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99481201171875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T02:15:02Z",
+        "content": "Part 1 - ATRS | $HMNY | $XXII | $CAPR | $IMNN | $NETE | $TOVX https://www.youtube.com/channel/UC4TEBm_QMnBLcWwlr4_CjNA/live",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993683934211731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-06T01:31:16Z",
+        "content": "$ATRS $MRNS $IDRA $CAPR $IMNN $NETE pushing live stream back a bit - some stuff came up to deal with. Looking to be 9pm CST",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912530779838562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T23:51:31Z",
+        "content": "$ATRS $CAPR $XXII $NETE $IMNN $IDRA okay people are asking for live stream. Will probably do one around 8:30 PM CST if people interested",
+        "sentiment": {
+            "TextBlob": 0.29545454545454547,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927950501441956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T22:45:22Z",
+        "content": "$OHGI up 10% today? Thanks but more please.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.653,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9936995506286621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T22:06:53Z",
+        "content": "$ATRS mmm, fibs. Weekly chart is amazing.",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997398257255554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T21:49:52Z",
+        "content": "$ATRS 5Y Monthly Chart w/ Fib Pivots, MACD, RSI. Notice anything?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975099563598633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T20:12:42Z",
+        "content": "$ATRS this is your chance. 10/20 is right around the corner.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9892399311065674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T15:26:59Z",
+        "content": "$ATRS I'll just leave this weekly MACD here. Have a good day.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9930216670036316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T14:19:43Z",
+        "content": "$ATRS $CAPR $XXII $TOVX $ATOS $AMZN $SQ in case anyone missed the live stream, many more covered than this! youtube.com/watch?v=F15P6jN...",
+        "sentiment": {
+            "TextBlob": 0.4204545454545454,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978074431419373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T05:12:34Z",
+        "content": "$XXII $ATOS $ECYT $AMZN $ATRS $FRTX $CAPR live stream DVR ready! Many more tickers were covered - youtube.com/watch?v=F15P6jN...",
+        "sentiment": {
+            "TextBlob": 0.34659090909090906,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997875452041626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T04:13:53Z",
+        "content": "$AMZN $FRTX $ATOS $INSY $ATXS $EXEL $GSAT $FIT - next on livestream! youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958162903785706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T03:06:37Z",
+        "content": "$SKVI $CYT $MBOT $PTN\ufeff $RGSE $INPX $OHGI $SQ $TANH next on the livestream! youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978773593902588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T01:52:43Z",
+        "content": "$ATRS $CAPR $ARDX $XXII $TOVX $MWA first up tonight on the live stream - youtube.com/channel/UC4TEBm... Going live in 8 minutes",
+        "sentiment": {
+            "TextBlob": 0.17424242424242423,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930611252784729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-05T00:41:34Z",
+        "content": "$XXII $ATRS $ECYT $IMNN $RGSE live stream has been requested for tonight. We'll start at about 1 hour from now",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878478050231934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T17:04:23Z",
+        "content": "$ATRS been loving this play all week, super strong chart. Holding.",
+        "sentiment": {
+            "TextBlob": 0.45555555555555555,
+            "NLTK": 0.9306,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9962834715843201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T17:03:55Z",
+        "content": "$ECYT next 6.05 break will be a good one",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989207983016968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T14:26:33Z",
+        "content": "$ECYT you're stupid af if you're trying to short this still lmao.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666665,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997408986091614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T13:48:36Z",
+        "content": "$ECYT I told you guys last night $6.30 easy. boom",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9095942974090576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T05:12:53Z",
+        "content": "$XXII we cover XXII as one of the last two charts - just skip to the end - youtube.com/watch?v=jx5EWnF...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984706044197083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T05:11:20Z",
+        "content": "$XXII $IMUC $TOVX $NETE $ECYT $FRTX $BB $ATRS and more! Live stream DVR is ready to watch anytime! Enjoy youtube.com/watch?v=jx5EWnF...",
+        "sentiment": {
+            "TextBlob": 0.35284090909090904,
+            "NLTK": 0.7418,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9679850935935974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T02:07:17Z",
+        "content": "$ECYT $NETE $TOVX $FRTX Stream Starting soon! 7 minutes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854626655578613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-03T01:34:37Z",
+        "content": "$ECYT $NETE $TOVX $FRTX and more! Live stream at 9 PM CST - youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.3806818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9807644486427307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-02T21:28:32Z",
+        "content": "$ECYT so glad I bought in at 3.20",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5095,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9630216360092163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-02T17:35:08Z",
+        "content": "$ATRS great day",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984955787658691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-02T16:55:49Z",
+        "content": "$ATRS yup.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9176040887832642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-02T16:04:37Z",
+        "content": "$ATRS In at 3.37",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9717517495155334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-02T03:11:08Z",
+        "content": "$XXII $NETE $CAPR $ATRS $ARGS $INPX $DRYS $MRNS and more! live stream complete DVR available now - youtube.com/watch?v=_tCZ9D6...",
+        "sentiment": {
+            "TextBlob": 0.31534090909090906,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949835538864136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-02T01:35:04Z",
+        "content": "$CLMT $XXII $AWSM $OPGN $NUAN $CAPR $NEOT next up on the live requests stream! youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.08522727272727272,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994965136051178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-02T00:35:01Z",
+        "content": "$IMUC $NETE $DCTH $HMNY $MRNS $MVIS youtube.com/channel/UC4TEBm... live stream with requests now!",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9802866578102112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-01T22:32:14Z",
+        "content": "$XXII $TOVX $NETE $ARGS $ATOS stream starts in a couple minutes! LIVE REQUESTS! youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938099980354309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-10-01T19:30:44Z",
+        "content": "$XXII $TOVX $NETE $ARGS and more! Livestreaming around 5pm CST. Live requests!",
+        "sentiment": {
+            "TextBlob": 0.3977272727272727,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9728713035583496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T20:07:38Z",
+        "content": "@BuffaloBobby guess what I'm posting now? You're blocked son. $XXII PEACE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963801503181458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T20:02:38Z",
+        "content": "$XXII @BuffaloBobby  You done ??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950985312461853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T20:00:47Z",
+        "content": "@BuffaloBobby @jonathan27 you literally private messaged me that my chart did you wrong! $XXII",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": -0.5255,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944925308227539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:48:07Z",
+        "content": "@scorsagian $XXII Just DARN those non-normal trading days!! Who can I blame for my mistakes???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7205,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969359636306763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:46:34Z",
+        "content": "@BuffaloBobby sorry you've not passed level 1 trading or trash talking. You'll get there one day $XXII",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852279424667358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:45:23Z",
+        "content": "@Sincerely @BuffaloBobby He blamed me for his losses  $XXII said it was my fault hahahah",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952718615531921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:43:43Z",
+        "content": "$XXII You guys really listen to this person? What the hell is 'normal trading' no weird trading guys okay!?",
+        "sentiment": {
+            "TextBlob": 0.30625,
+            "NLTK": -0.8463,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888235926628113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:42:48Z",
+        "content": "@BuffaloBobby @Newtothagame @lnp30 your argument is so sad...  there is only trading....$XXII guys are you really listening to him?",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996355772018433
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:31:48Z",
+        "content": "@BuffaloBobby @lnp30 you can't take responsibility for your own trades and blamed me lol $XXII freaking child",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977992177009583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:29:35Z",
+        "content": "@BuffaloBobby @Sincerely @TheWillMiller $XXII you're calling people out so yeah im gonna come defend myself  - you're nothing.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4341,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984032511711121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:26:34Z",
+        "content": "@lnp30 @BuffaloBobby you can't read charts and you said I'll lose? $XXII what is going on with this ticker",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993194341659546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:24:30Z",
+        "content": "@BuffaloBobby $XXII hey buddy, looks bad on the 60 minute too! OH NO!",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.7916,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995474219322205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:23:26Z",
+        "content": "@BuffaloBobby $XXII you may want to go pick it up, seems to be falling there bud",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854715466499329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:22:59Z",
+        "content": "@BuffaloBobby $XXII hey trash talker, you stock is falling",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997382760047913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:20:43Z",
+        "content": "@BuffaloBobby $XXII what about huge resistance clouds?",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963276982307434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:20:09Z",
+        "content": "@BuffaloBobby $XXII you also realize it's literally only up 3 cents right. lmao",
+        "sentiment": {
+            "TextBlob": 0.29523809523809524,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997559666633606
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:18:12Z",
+        "content": "@BuffaloBobby $XXII Enjoy your cloud trash talker -",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980639636516571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T19:16:13Z",
+        "content": "@BuffaloBobby $XXII you mean 2.43-2.26 but close",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9772917032241821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T18:38:21Z",
+        "content": "$NETE let's go boys",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5957711935043335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T17:34:44Z",
+        "content": "$HMNY bruh.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920904636383057
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T17:20:27Z",
+        "content": "$NETE just look at this MACD, LOOK AT IT!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.987940788269043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T17:09:05Z",
+        "content": "$NETE lmao are these shorts stupid?",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996843338012695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T16:08:20Z",
+        "content": "$NETE $HMNY MAKE IT RAINNNNNNNNNNNN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889939427375793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T15:29:54Z",
+        "content": "$NETE bonercity",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9656445384025574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T14:35:50Z",
+        "content": "$ATOS just .... don't. Look at the daily ichi.... it's obv",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994244575500488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T13:55:13Z",
+        "content": "$ATOS daily chart - -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883438348770142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T13:50:16Z",
+        "content": "$NETE just bend me over and take me raw. Jesus",
+        "sentiment": {
+            "TextBlob": -0.23076923076923078,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8866629004478455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T13:48:01Z",
+        "content": "$XXII like i said  in the video - still needs to cool off - wait to avg down or enter imo",
+        "sentiment": {
+            "TextBlob": 0.0972222222222222,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992330074310303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T13:46:35Z",
+        "content": "$NETE Daily chart -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9617418646812439
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T13:41:45Z",
+        "content": "$HMNY holy balls batman",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9676936268806458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T13:13:24Z",
+        "content": "$XXII $TOVX $NETE $ROKU who's ready to kick today's ass!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918431639671326
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T12:53:33Z",
+        "content": "$XXII in case you missed the video last night : youtube.com/watch?v=ygTnkWF...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913068413734436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T12:46:03Z",
+        "content": "$HMNY $NETE gooooodd morninggggg",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925129413604736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-29T12:44:32Z",
+        "content": "$HMNY that premarket tho",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931555390357971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T22:44:21Z",
+        "content": "$XXII $ATRS $NETE $HMNY in cased you missed live stream today during market - youtube.com/watch?v=tbW136K... may do one later tonight",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975887537002563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T21:38:04Z",
+        "content": "$XXII here is the video guys- doesn't look too bad today - youtube.com/watch?v=ygTnkWF...",
+        "sentiment": {
+            "TextBlob": -0.6999999999999998,
+            "NLTK": 0.431,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.822587788105011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T21:18:45Z",
+        "content": "$XXII uploading XXII video right now - should be up in about 10 minutes",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964534044265747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T19:39:55Z",
+        "content": "$TOVX $XXII $NETE $HMNY $ANIX $ATRS and more! Live stream DVR ready - youtube.com/watch?v=tbW136K...",
+        "sentiment": {
+            "TextBlob": 0.3204545454545455,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927080273628235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T19:14:46Z",
+        "content": "$LPTX $BLDP $STAF $FNMA last 4 for this afternoon's stream going now! will stream again tonight - youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875962734222412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T18:38:57Z",
+        "content": "$DCTH $ATOS $ARDX $HMNY $PLUG $PSHG next requests on the live stream! going now! youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.1065340909090909,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949277639389038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T18:07:04Z",
+        "content": "$IMUC $NETE $SND $ATRS  - next tickers coming up for part one - youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977643489837646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T17:07:30Z",
+        "content": "$TOVX $AVGR $NETE $XXII starting live stream soon - youtube.com/channel/UC4TEBm... waiting for people to fill in",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972647428512573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T16:57:32Z",
+        "content": "$XXII $NETE $TOVX $AVGR livestream in 5-10 min - will take live requests - link soon",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985089123249054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T16:56:30Z",
+        "content": "@UsualTrader3 @seemynametotalkDCTH you guys blame others - take responsibility for your own actions $DCTH",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959140419960022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T16:37:59Z",
+        "content": "$NETE reversal soon imo according to 15min -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990239143371582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T16:24:43Z",
+        "content": "$NETE hope you averaged down",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960804581642151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T16:19:07Z",
+        "content": "$NETE just avged down at .88",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985907673835754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T16:00:35Z",
+        "content": "$XXII video for XXII from last night: youtube.com/watch?v=if64WLz...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906525611877441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T16:00:08Z",
+        "content": "$NETE video for nete from last night: youtube.com/watch?v=b2YPbtj...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947773218154907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T15:59:29Z",
+        "content": "$TOVX video for syn from last night: youtube.com/watch?v=VNdUhZM...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951460957527161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T15:41:27Z",
+        "content": "$TOVX $NETE $XXII $AVGR hey guys sorry to be late! We'll do a stream during market today! Just give me a little time probably around noon ct",
+        "sentiment": {
+            "TextBlob": -0.3854166666666667,
+            "NLTK": -0.2225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844622611999512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T08:08:38Z",
+        "content": "$NETE $XXII $AVGR $TOVX Will do early morning live stream - taking live requests! Shooting for 9-10am cst. LMK if you're interested!",
+        "sentiment": {
+            "TextBlob": 0.17982954545454544,
+            "NLTK": 0.508,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862676858901978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T05:26:40Z",
+        "content": "$TOVX  here you go! Good luck tomorrow!! youtube.com/watch?v=VNdUhZM...",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9872816205024719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T05:09:54Z",
+        "content": "$TOVX video uploading now guys",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9768872261047363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T04:53:39Z",
+        "content": "$TOVX okay doing video for SYN now for those that missed the livestream",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778032302856445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T04:02:02Z",
+        "content": "$NETE here you go guys - late night vid for NETE - enjoy! youtube.com/watch?v=b2YPbtj...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5411,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9093310236930847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T03:50:23Z",
+        "content": "$NETE okay uploading video now for you guys",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8301588296890259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T03:35:38Z",
+        "content": "$XXII alright guys here you - special late night vid for ya - youtube.com/watch?v=if64WLz...",
+        "sentiment": {
+            "TextBlob": 0.02857142857142858,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9810523986816406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T03:18:32Z",
+        "content": "@stocktrader8864 okay give me a few, uploading $XXII right now",
+        "sentiment": {
+            "TextBlob": 0.1952380952380952,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9758270978927612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T03:18:07Z",
+        "content": "$XXII video uploading now - about 10 minutes will be ready to watch",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9649859070777893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T03:04:41Z",
+        "content": "$NETE is there still a need for a video or did you guys catch the livestream?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989882111549377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T03:04:22Z",
+        "content": "$XXII okay a lot of you missed it during livestream so I will make a video I think for you guys if people will watch",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985119700431824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-28T01:40:55Z",
+        "content": "$XXII $NVDA $ARGS $NETE $TOVX $RAD and more! 4 hours almost of livestreaming! Enjoy the DVR! youtube.com/watch?v=nAW9jPN...",
+        "sentiment": {
+            "TextBlob": 0.640625,
+            "NLTK": 0.5876,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.927770733833313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-27T23:12:06Z",
+        "content": "$XXII $TOVX $DCTH $HMNY and more! Live Requests are next after this short break! youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.1903409090909091,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974890947341919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TheClassicman",
+        "timestamp": "2017-09-27T21:59:23Z",
+        "content": "$XXII $DCTH $SQ $NETE $VSAR $TOVX and more! Live in 1 minute! youtube.com/channel/UC4TEBm...",
+        "sentiment": {
+            "TextBlob": 0.3977272727272727,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925529360771179
+            }
+        },
+        "image_url": ""
+    }
+]

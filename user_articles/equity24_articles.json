@@ -1,0 +1,5784 @@
+[
+    {
+        "username": "equity24",
+        "timestamp": "2023-06-07T01:10:11Z",
+        "content": "$COIN Cathie is not saving this dumpster fire. She\u2019s down bad here",
+        "sentiment": {
+            "TextBlob": -0.4277777777777777,
+            "NLTK": -0.7684,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997445940971375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-06-06T18:46:18Z",
+        "content": "$COIN only reason this clawed back from premarket is that btc has ripped today. Wait until it falls to see COIn bottom this week Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990758895874023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-06-06T00:04:41Z",
+        "content": "$AAPL should stick to phones and iPads Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979519248008728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-06-05T15:36:29Z",
+        "content": "$TSLA this needs to cool off. Took some profit at 215 and will take a few more chips off the table if it touches 220 again",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984431862831116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-06-01T15:14:31Z",
+        "content": "$TSLA good place to take profits",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996626377105713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-26T03:35:17Z",
+        "content": "$TSLA nice 10%+ net income increase with almost zero downside. I\u2019m a fan of this move Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6887,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5556237101554871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-25T14:07:09Z",
+        "content": "$TSLA no buyers. Pathetic volume",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994271993637085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-24T15:15:37Z",
+        "content": "$TSLA closed puts out and bought short dated calls",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986693859100342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-23T15:34:08Z",
+        "content": "$TSLA volume is drying up. Look for a pop off the debt ceiling resolution today or tomorrow then red rest of the week Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994713664054871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-22T19:38:00Z",
+        "content": "$TSLA tutes just dumped $10M worth on Retails head in the last 15 minutes Bearish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997970461845398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-22T18:31:49Z",
+        "content": "$TSLA large order flow is negative today - just foolish retail buying at these levels",
+        "sentiment": {
+            "TextBlob": -0.04285714285714286,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998078942298889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-22T17:44:53Z",
+        "content": "$TSLA will rug pull this week hard. Fed governors now saying June pause is not likely, with potential for multiple more hikes needed to cool inflation. Debt ceiling will be solved, but not today, and it\u2019s going to have only a short term affect on the market since no one expects us to default. Bearish",
+        "sentiment": {
+            "TextBlob": 0.06979166666666667,
+            "NLTK": -0.3716,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928478002548218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-22T15:16:05Z",
+        "content": "$TSLA markets going to dump when no progress is made today on debt ceiling negotiations, with only a promise to \u2018try again tomorrow\u2019 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997063279151917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-16T14:10:36Z",
+        "content": "$TSLA what a dog Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953941106796265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-10T19:36:17Z",
+        "content": "$UPST literally can\u2019t go tits up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900103211402893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-05-10T15:24:46Z",
+        "content": "$TSLA market loves to trick people doesn\u2019t it?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838694930076599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-04-05T13:26:31Z",
+        "content": "$TSLA hitting $187.36 today, book it Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886355400085449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-03-23T17:49:32Z",
+        "content": "$TSLA stick a fork in this. It ends red today and trades down 3% tomorrow. Book it Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948862195014954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-03-09T18:25:02Z",
+        "content": "$TSLA can\u2019t get out of its own way Bearish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950869679450989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-03-09T13:17:53Z",
+        "content": "$TSLA I was bullish on a small pop over $180 yesterday, then I saw Ark buy smh Bearish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986864924430847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-03-07T14:12:32Z",
+        "content": "$TSLA Powell dumps markets at 10a. Bulls should cut calls loose before that",
+        "sentiment": {
+            "TextBlob": -0.07692307692307693,
+            "NLTK": -0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999457061290741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-03-01T15:41:01Z",
+        "content": "$TSLA incoming rug pull Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964824914932251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-03-01T13:30:24Z",
+        "content": "$TSLA no way they let this run today. If there even is a pop, it will be sold hard Bearish",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997323751449585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-02-23T19:01:22Z",
+        "content": "$TSLA somebody just dropped 3M bucks on 1DTE calls at 200 and 202.5",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994515776634216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-02-07T13:55:16Z",
+        "content": "$TSLA expect a pullback soon. Dollar strength, rates spiking, incredible January returns\u2026 reversion to the mean incoming Bearish",
+        "sentiment": {
+            "TextBlob": 0.29375,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9526355862617493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-01-30T14:05:46Z",
+        "content": "@Taxes_are_2_Damn_High what percentage of revenue for $F is the Mach-E? Drop in the bucket vs 100% of TSLAs revenue seeing margin compression with their price cut. This move by Ford seems bullish for TSLA but in reality it\u2019s probably neutral",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996821880340576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-01-27T13:30:30Z",
+        "content": "$TSLA likely a PCE miss today drags this down. Next week will be interesting as it could retrace or power back close to $180s",
+        "sentiment": {
+            "TextBlob": 0.06888888888888889,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9481678605079651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-01-13T12:24:15Z",
+        "content": "$TSLA this is going -10% today Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9864715933799744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-01-12T21:18:09Z",
+        "content": "$TSLA impressive round trip after being down 4%, but let\u2019s see what tomorrow brings",
+        "sentiment": {
+            "TextBlob": 0.21481481481481482,
+            "NLTK": 0.2846,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994096755981445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-01-12T12:17:32Z",
+        "content": "$TSLA ladies and gentlemen, degenerates of all kinds, step right up and place your bets",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990518689155579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-01-06T13:27:21Z",
+        "content": "$TSLA love those who said over the past few days the bottom is in guys!!!1!\u201d Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7482,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8879315257072449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2023-01-05T14:29:20Z",
+        "content": "$TSLA I\u2019ll give you four reasons this is going to test $100 this month:\n1. Us economy still strong, implies continued rate hikes\n2. No more Chinese car subsidies, which is a huge market for TSLA\n3. Musk continues to alienate natural domestic customers of his cars with his rhetoric and focus and pander to people who are not likely buyers of his products\n4.  Given they missed Q4 deliveries, they are likely to have an earnings miss in two weeks Bearish",
+        "sentiment": {
+            "TextBlob": 0.08541666666666667,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973639845848083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-23T17:37:38Z",
+        "content": "$TSLA great place to short",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976257681846619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-23T16:04:02Z",
+        "content": "$TSLA even the bulls are laughing at this dumpster fire now Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882611632347107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-23T15:10:56Z",
+        "content": "$TSLA is on its way to becoming a \u2018value\u2019 stock \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9826841950416565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-23T13:13:20Z",
+        "content": "$TSLA only way this flies today is if Elon announced a buyback",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937670230865479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-22T19:40:24Z",
+        "content": "$TSLA so SPY recovered but this thing is back to LOD rofl Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.7227,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981741905212402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-22T13:43:05Z",
+        "content": "$TSLA an \u2018epic\u2019 fourth quarter so far, can\u2019t wait to see them miss all estimates Bearish",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980148077011108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-16T15:57:44Z",
+        "content": "$TSLA the daily beatings will continue until morale improves Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8748407959938049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-14T15:43:42Z",
+        "content": "$TSLA still overvalued fundamentally by at least $300B",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903646111488342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-13T17:14:56Z",
+        "content": "$TSLA is a POS overvalued stock but this will bounce in the short term",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7936920523643494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-13T15:04:24Z",
+        "content": "$TSLA almost pathetic at this point",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.5279,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997392296791077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-08T16:06:30Z",
+        "content": "$TSLA trash lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993987083435059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-08T14:09:41Z",
+        "content": "$TSLA the daily beatings will continue until morale improves Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8748407959938049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-07T18:26:08Z",
+        "content": "$TSLA SPY turning positive and this POS can\u2019t even get back to just -10% on the week lol",
+        "sentiment": {
+            "TextBlob": 0.34242424242424246,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5730672478675842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-07T16:27:48Z",
+        "content": "$TSLA the cults fever may have broken. Seems obvious some of the luster here is gone Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996956586837769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-06T14:02:54Z",
+        "content": "$TSLA company derived so much of its equity value from its brand, which is being tarnished daily by the egomaniac fool. No other way to justify the lofty PE. \n\nThey need to innovate with new models or complete redesigns, not cost cutting \u2018Highlander\u2019 barely-an-update updates. That won\u2019t excite anyone and it won\u2019t invigorate sales Bearish",
+        "sentiment": {
+            "TextBlob": -0.016856060606060597,
+            "NLTK": 0.7827,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994701743125916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-12-05T21:28:29Z",
+        "content": "$TSLA heading for 2022 lows this week it seems Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984710812568665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-11-09T12:56:18Z",
+        "content": "$TSLA idiots say \u2018Elon is done selling!\u2019 after just 4B. He\u2019s sold 30B in the last year - he will never be done",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994434714317322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-10-27T00:21:13Z",
+        "content": "$META being long Meta is like being the last fax machine salesman on earth. Irrelevance is staring you in the face",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967568516731262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-10-20T18:03:22Z",
+        "content": "$TSLA can\u2019t go down forever, right? I want off of the Elon rollercoaster",
+        "sentiment": {
+            "TextBlob": 0.06507936507936506,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940506815910339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-10-19T12:38:49Z",
+        "content": "$TSLA this thing is going down like the chance for most Americans being able to afford retirement Bearish",
+        "sentiment": {
+            "TextBlob": 0.2814814814814815,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959392547607422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-09-07T12:15:25Z",
+        "content": "$TSLA how bloody are these Fed speakers going to make things today? Bearish",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993929862976074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-09-07T09:28:16Z",
+        "content": "$AAPL new iPhones are barely a technological upgrade. I\u2019m not going to bother with it until the 15 comes out",
+        "sentiment": {
+            "TextBlob": 0.09318181818181817,
+            "NLTK": 0.2584,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950748085975647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-09-06T13:23:47Z",
+        "content": "$TSLA gap likely needs to fill around $250",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996891021728516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-08-24T14:19:30Z",
+        "content": "$TSLA flagging here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990559220314026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-08-10T14:18:50Z",
+        "content": "$TSLA idiots thinking 8.5% is good lol ok",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9406934976577759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-08-10T01:14:22Z",
+        "content": "$TSLA what\u2019s the reason this time, cultists? No expiring options, taxes to settle,  or Twitter to buy as an excuse for this - yet he takes another dump on your head anyhow. Bearish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997401833534241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-07-13T18:16:35Z",
+        "content": "$TSLA stupid strong today for no reason. Feels like a rug pull happens towards end of the day into the weekend",
+        "sentiment": {
+            "TextBlob": -0.18333333333333332,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991012811660767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-27T16:22:24Z",
+        "content": "$TSLA going to fall under $700 this week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982037544250488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-24T16:54:17Z",
+        "content": "$TSLA squeeze Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998176097869873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-23T16:06:51Z",
+        "content": "$TSLA 685 on tap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938653111457825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-23T14:50:17Z",
+        "content": "$TSLA appears to be running out of steam after the $30 rally from the daily low",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997679591178894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-22T20:08:33Z",
+        "content": "$TSLA ugly daily candle closing that far below the open",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994816184043884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-21T17:07:15Z",
+        "content": "$TSLA refuses to sell off today. Such wow",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987789988517761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-17T04:22:11Z",
+        "content": "$SPY I was thinking we have a small technical bounce tomorrow, but now that I hear Cramer is advising folks to wait on buying the dip, I am 100% sure a reversal is imminent Bullish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.4497,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985097050666809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-13T23:06:25Z",
+        "content": "$TSLA the daily beatings will continue until morale improves",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9240342974662781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-06-11T22:28:52Z",
+        "content": "$TSLA this pops out the gate, possibly breaks $750 then sells off for the next 4-5 hours into close. Market forces are not in its favor",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3089,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993651509284973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-02-18T01:38:47Z",
+        "content": "$PLTR Cathie dumped shares? Means this will be higher by the end of the month. Book it. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996896982192993
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2022-01-27T15:56:09Z",
+        "content": "$LCID I like this level. Loading the boat Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891535639762878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-12-16T19:21:12Z",
+        "content": "$TSLA such a POS stock now. Maybe when Elon is done selling this can pop over 1k for more than a minute",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988184571266174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-12-10T16:09:36Z",
+        "content": "$LCID single order of almost 120k just hit the bid. Probably nothing Bullish",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972364902496338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-12-09T21:11:46Z",
+        "content": "$LCID bought a lot of $37 calls and sold credit spreads at $38 at the end of day. Should bounce tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5315975546836853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-24T13:17:00Z",
+        "content": "$TSLA where have all the bulls gone?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988621473312378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-24T01:55:38Z",
+        "content": "$TSLA knowing her recent track record, seeing Cathie unloading another slug means this probably pops the rest of the week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6832700967788696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-23T15:28:44Z",
+        "content": "$TSLA should be $1050 and it looks like it will get there this week Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6269034147262573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-20T17:44:20Z",
+        "content": "$LCID don\u2019t worry bears, I am sure the guy who called for a 20% price cut in September when LCID was trading at $20 will eventually be right here. I am sure he isn\u2019t just pulling numbers out of his ass to cut down his golden goose\u2019s biggest competitor\n\nwccftech.com/tesla-permabul... Bullish",
+        "sentiment": {
+            "TextBlob": 0.28603174603174597,
+            "NLTK": -0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955127835273743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-19T21:14:58Z",
+        "content": "$UPST bought a bunch of 215C here at EOD. Almost 50% retracement from its high Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973801970481873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-19T17:15:51Z",
+        "content": "$LCID bears got awfully quiet within the past few hours Bullish",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990272521972656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-19T15:27:44Z",
+        "content": "$LCID but I thought we were heading to $30s today?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994295239448547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-18T15:15:10Z",
+        "content": "$LCID add in steps to your long term holdings. Good bid support at $46 and I am sure $45 will be the same if it falls Bullish",
+        "sentiment": {
+            "TextBlob": 0.2875,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952380657196045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-16T22:38:13Z",
+        "content": "$LCID well that took far less time than anticipated\u2026",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988123178482056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-16T14:00:51Z",
+        "content": "$LCID well good morning Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9948293566703796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-15T20:50:53Z",
+        "content": "$UPST swinging $235C for Friday Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892123937606812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-15T16:05:40Z",
+        "content": "$TSLA Elon repeatedly showing he has the maturity of a teenager is not good for the stock. Someone needs to take his Twitter away",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997426867485046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-12T15:32:26Z",
+        "content": "$TSLA just saw a 130k share buy \ud83d\ude2f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968589544296265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-11T04:49:18Z",
+        "content": "$TSLA crazy that Elon sold $5B worth this week yet over the past three days large order flow has only been -400M. Tutes are snatching up shares",
+        "sentiment": {
+            "TextBlob": -0.06714285714285714,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968289732933044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-11T01:46:28Z",
+        "content": "$UPST I expect $275 tomorrow. AFRM crushed it and this ER wasn\u2019t that bad. It didn\u2019t help that this was overextended prior Bullish",
+        "sentiment": {
+            "TextBlob": -0.2666666666666666,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8531457781791687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-11T01:38:57Z",
+        "content": "$TSLA isn\u2019t it ironic how no matter what Elon does the share price goes up? Dude could crap his pants during an interview and shares would end the day in the green",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999366819858551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-09T18:02:52Z",
+        "content": "$TSLA time to dip a toe in Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976654052734375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-06T23:14:27Z",
+        "content": "$TSLA will be surprised if this doesn\u2019t open Monday in the $1100s",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963234663009644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-05T14:24:02Z",
+        "content": "$TSLA credit spreads were the move yesterday",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854819774627686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-05T14:08:22Z",
+        "content": "$QS closed my short position just now, thanks for the suggestion",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6205493807792664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-11-04T14:20:52Z",
+        "content": "$QS this is due for a pullback here Bearish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952402114868164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-26T12:08:15Z",
+        "content": "$TSLA this definitely needs to cool off but it has turned into such a meme stock. Probably won\u2019t dip below $1000 today",
+        "sentiment": {
+            "TextBlob": 0.11666666666666665,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846693873405457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-23T18:47:12Z",
+        "content": "$LCID I believe that other EV companies and their investors owe TSLA a huge debt of gratitude for paving the way. Were they perfect in their execution? Of course not. They moved relatively fast and broke things, a la Facebook, but they proved there is room in the marketplace for EVs. A decade ago that certainly was not as clear as it is today.\n\nRecent observations about many TSLA bulls is that they are now afraid of competition and try to make it out as of there is only room for one player in this field. Fundamentally, their competitors believe there is room for many companies in this burgeoning niche. There definitely are enough dollars for there not to be a winner take all situation. EVs account for around 2% of the market.\n\nThat said, what is more likely to happen from an investment returns viewpoint: TSLA doubles in value to over $1.5T in the next year or two, or LCID, GGPI, or another company\u2019s market cap 2X\u2019s? I am betting on the latter happening first. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1632936507936508,
+            "NLTK": 0.6933,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978663325309753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-22T19:48:11Z",
+        "content": "$LCID definitely says something that we were one of the only SPACs to recover today. Plenty still down 5-8% on the daily that can\u2019t catch a bid Bullish",
+        "sentiment": {
+            "TextBlob": -0.038888888888888896,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989908337593079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-22T18:28:51Z",
+        "content": "$LCID given the prior communication of production delay occurred months prior to their actual intended delivery date (announced in q1 that deliveries would be q4 instead of mid-2021), and their stellar factory tour - I wholeheartedly believe they make good and deliver cars next week.\n\nI hate constantly comparing us to TSLA, but  that stock was beaten up early on because of their numerous production delays. I do not think we will be nearly as off schedule as early Tesla was. Nor will we have the same awfully high level of craftsmanship and quality issues. Bullish",
+        "sentiment": {
+            "TextBlob": 0.04357142857142857,
+            "NLTK": -0.6956,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977637529373169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-22T18:00:20Z",
+        "content": "$LCID this is not a LCID issue. This is a SPAC issue. See others, especially today, like $QS as a prime example. Good chart from Bloomberg just out Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6887,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946807026863098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-22T15:38:28Z",
+        "content": "$QS bought the dip Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875820875167847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-21T21:59:09Z",
+        "content": "$LCID two bullish things happened today. Massive 25C contracts bought with 1DTE and huge AH dark pool settlements Bullish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333337,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980894923210144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-19T16:32:26Z",
+        "content": "$DNA had to buy 15Ps. This is insanity Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986318945884705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-18T20:11:28Z",
+        "content": "$CCXI bought some 30 and 35C for November looking for a bounce back Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971707463264465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-18T20:10:40Z",
+        "content": "$QS still holding some calls. Sold half",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985637068748474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-17T16:41:00Z",
+        "content": "$SPY worrying that China surprised US intelligence with their hypersonic missile capabilities and they no one is talking about it here? Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943580031394958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-16T16:31:39Z",
+        "content": "$DNA sold my puts on the morning dip and rebought at $12 for November Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978278279304504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-16T13:13:04Z",
+        "content": "$UPST was going to buy puts at $400 but the premiums are insanity. Definitely should have done it though",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980498552322388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-16T13:10:22Z",
+        "content": "$SPY short term bearish here. Crazy 3 day rally will top out this week Bearish",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9628183841705322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-16T13:07:35Z",
+        "content": "$LCID whether the infrastructure bill includes money for a national charging network or not, we are good. If it gets done or dies in Congress, we have a partnership with Electrify America. Those Superchargers will yield the Air 300 miles of range in 20 minutes. This is by far the fastest kwh charge rate on the market, which will further differentiate the car from wannabe competitors if a national charging network doesn\u2019t come to reality in the next few years Bullish",
+        "sentiment": {
+            "TextBlob": 0.11999999999999997,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7733568549156189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-16T13:02:45Z",
+        "content": "$QS picked up some ATM calls for a swing next week Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99866783618927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-15T12:38:31Z",
+        "content": "$LCID most likely sideways trading early today then a late pop Bullish",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990137815475464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-15T10:19:04Z",
+        "content": "$DNA \u201cit\u2019s not a scam, it\u2019s a scheme\u201d Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4585,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894941449165344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-13T22:41:36Z",
+        "content": "$CCXI I closed my puts here this morning and picked up some $35C",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899936318397522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-13T19:25:55Z",
+        "content": "$LCID somebody bought 200K shares in a single order. Money moves Bullish",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995918333530426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-13T12:34:55Z",
+        "content": "$LCID I\u2019m fully hedged here and expecting this to bottom out this week before moving up in anticipation of deliveries. \n\nFundamentally all investors should be buying when there is blood in the streets and selling on the pops. If you aren\u2019t, you are doing it wrong",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986487030982971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-11T16:45:11Z",
+        "content": "$CCXI what\u2019s the cash position like here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956921935081482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-06T21:09:52Z",
+        "content": "$DNA no, founding a biotech company should not be as easy as founding a website. \n\nThis CEO seems clueless Bearish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": -0.7274,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988147020339966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-10-06T19:08:29Z",
+        "content": "$DNA if even 10% of the short report is true, a lot of well known investors are in on the fraud Bearish",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925682544708252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-29T15:50:02Z",
+        "content": "$LCID I do not care where we end today, tomorrow or next Tuesday. I know where this company will be in 12 months and that is over $50 per share. The noise in between does not matter Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1285,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868065714836121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-29T13:22:27Z",
+        "content": "$PLTR another SA article that focuses on a bearish view because \u201ctrust me bro\u201d \u2026 laughable",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9726879596710205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-29T01:40:33Z",
+        "content": "$LCID TSLA sold less than they built of Model S\u2019s in 2012. They built only 3100 that year. In 2013, they had a full year and built about 20k. These are similar numbers to what Lucid projects, but the average sale price will be much higher for the Air - especially early on. Bullish",
+        "sentiment": {
+            "TextBlob": 0.06904761904761905,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939796924591064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-28T22:25:35Z",
+        "content": "$LCID I say again: what is the best battery tech in the game worth? You can dislike or debate the merits of the car, but if this is where they start their production mileage at, I wonder how efficient they\u2019ll get over time. Exciting times Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.9022,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9860876202583313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-28T21:56:31Z",
+        "content": "$LCID deliveries are great, but let\u2019s not overlook another 3K reservations in a basically a week. Assuming all at 170k, nice revenue boost to 2022 of over $500M Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.8689,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9683324694633484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-28T20:44:09Z",
+        "content": "$LCID should be a nice bounce back day tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8515560626983643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-24T20:14:57Z",
+        "content": "$LCID predictable",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999687671661377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-24T11:31:19Z",
+        "content": "$LCID this probably trades sideways until late in the day, where I expect to see a similar run as we did the last half hour of trading yesterday into the event Monday",
+        "sentiment": {
+            "TextBlob": -0.11666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972811937332153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-24T11:25:45Z",
+        "content": "$PLTR I can see this slide back to $26 today before bouncing, but it will be a good opportunity to add some long term shares if it trades that low",
+        "sentiment": {
+            "TextBlob": 0.16249999999999998,
+            "NLTK": 0.8271,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9854267835617065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-24T00:50:43Z",
+        "content": "$PLTR Cathie trimming a small portion here is prudent and I am doing the same over $28.50. Stock needs to reset the RSI a bit then we break into $30s next push",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990593791007996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-16T22:09:03Z",
+        "content": "$LCID clearly the best battery tech in the game. What is that worth? Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9878703951835632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-16T13:06:02Z",
+        "content": "$LCID just got a shoutout on Bloomberg radio for beating TSLAs longest range vehicle by 28% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.976351261138916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-16T12:54:13Z",
+        "content": "$LCID big day here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987980127334595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-15T18:21:46Z",
+        "content": "$LCID crazy how MMS won\u2019t let this get past $20 today. Lots of dark pool orders holding it down it seems",
+        "sentiment": {
+            "TextBlob": -0.2888888888888889,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949221014976501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-14T16:34:15Z",
+        "content": "$AFRM this probably ends the day within $1 plus or minus from here. Nice reversal this morning but doesn\u2019t appear it sill have a follow through",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997700035572052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-02T17:13:55Z",
+        "content": "$PLTR insane that tutes cannot dump the bid. A 20k share sell gets met with 20k of market order buys. Somebody bog has been sitting on the bid buying any dip over the past two weeks",
+        "sentiment": {
+            "TextBlob": -0.625,
+            "NLTK": 0.1739,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950205087661743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-02T16:40:15Z",
+        "content": "$PLTR careful of double top here. It needs to cool at some point. It\u2019s either today or at $27.50",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994966983795166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-09-02T13:07:20Z",
+        "content": "$PLTR I am very optimistic in the long term here, but between being overextended for the past week and all these bullish SA articles, I can\u2019t help but think this pulls back this month and consolidates. Where were these bulls when it was under 20?",
+        "sentiment": {
+            "TextBlob": -0.024999999999999994,
+            "NLTK": 0.6538,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934691190719604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-31T19:33:52Z",
+        "content": "$PLTR amazing that a few million shares dumped at the EOD can erase a whole day of grind",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993602633476257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-31T19:26:59Z",
+        "content": "$PLTR $26 needs to be a line in the sand or we will retest $24s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995229244232178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-31T16:42:56Z",
+        "content": "$PLTR needs to cool off before seeing $27.50 again",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992486834526062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-31T15:19:53Z",
+        "content": "$PLTR volume needs to be sustained here or it breaks below $26",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996145963668823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-30T14:51:02Z",
+        "content": "$LCID how is everything else on fire for the last month and this so stuck in the mud?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997565150260925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-30T14:46:45Z",
+        "content": "$PLTR incredible resilience along with the overall market, though I feel we need a decent reset before retesting $30s Bullish",
+        "sentiment": {
+            "TextBlob": 0.35555555555555557,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871712327003479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-25T22:00:29Z",
+        "content": "$SNOW feel bad for those who listened to that short report and sold. Missed out on $40 per share in two days",
+        "sentiment": {
+            "TextBlob": -0.3499999999999999,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997753500938416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-25T21:52:23Z",
+        "content": "$PLTR awkward that they have to call out their biggest customer for security failures. Not sure how that will play.\n\nAlso the stock sales are getting out of hand. Or maybe just the timing feels like it\u2019s another punch in the gut",
+        "sentiment": {
+            "TextBlob": -0.425,
+            "NLTK": 0.6044,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996411800384521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-25T12:05:43Z",
+        "content": "$DLO why does this company feel like a scam? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995689988136292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-24T15:01:05Z",
+        "content": "$PLTR such strength in the bid support, much wow Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.8658,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9628424644470215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-20T20:46:17Z",
+        "content": "$BABA bought Sept $160C @ $159 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960750937461853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-20T02:30:09Z",
+        "content": "$UPST this will pop straight out the gate then sell off",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922974705696106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-18T16:31:24Z",
+        "content": "$UPST apparently this is never going to go down, 300 next week for sure \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.09861111111111111,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902340173721313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-18T12:47:38Z",
+        "content": "$UPST this will eventually run out of steam and fall well below $200, but it may take until next week to break. Large orders were negative big yesterday, so it was mostly retail holding on",
+        "sentiment": {
+            "TextBlob": 0.08285714285714285,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998927891254425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-16T13:22:22Z",
+        "content": "$UPST if I were a bull I would ask myself why Cathie hasn\u2019t bought a share in weeks here. Just a coincidence that she mentioned last week that we are beyond peak auto sales Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9693387150764465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-11T20:24:20Z",
+        "content": "$DM consolidation means higher sector multiples in the future. Should be quite bullish in the long term Bullish",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994474053382874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-09T17:32:07Z",
+        "content": "$QS congrats longs. Looks to be just getting started, though I expect a slight pullback soon",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904707670211792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-03T18:45:22Z",
+        "content": "$QS bleeding like a stuck pig",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997497200965881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-08-02T16:40:46Z",
+        "content": "$SQ wouldn\u2019t want to hold shares into this ER",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991034865379333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-07-28T17:00:02Z",
+        "content": "$QS going to $25 today before taking a breather Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947205781936646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-07-21T12:15:36Z",
+        "content": "$SPY crazy how manipulated the market is",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993984699249268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-07-21T00:53:41Z",
+        "content": "$SPY crazy past 2 trading days",
+        "sentiment": {
+            "TextBlob": -0.425,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99309903383255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-07-15T00:17:25Z",
+        "content": "$AMC pure manipulation",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964788556098938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-07-13T15:29:37Z",
+        "content": "$SPY lol 450 EOW",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898726940155029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-07-09T15:51:03Z",
+        "content": "$LCID $27 incoming Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962917566299438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-06-29T20:32:24Z",
+        "content": "$SPCE on watch rest of the week Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972729086875916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-06-18T14:16:27Z",
+        "content": "$LCID ascending wedge perhaps",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924269914627075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-06-15T18:10:30Z",
+        "content": "$LCID buying July calls here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993736147880554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-06-09T03:28:39Z",
+        "content": "$CLOV people who think Chamath won\u2019t issues shares because they have a few hundred million in the bank are delusional. Slowing growth rate and eroding margins is not a recipe for success. Didn\u2019t they burn $125m last quarter?",
+        "sentiment": {
+            "TextBlob": 0.033333333333333326,
+            "NLTK": 0.2028,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996086955070496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-06-09T02:32:45Z",
+        "content": "$CLOV literally can\u2019t go tits up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919499158859253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-06-08T17:41:10Z",
+        "content": "$CLOV this company is garbage, but we are forming a bullish rising wedge and will probably retest HOD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976767897605896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-06-08T16:52:34Z",
+        "content": "$CLOV who wants to bet Chamath raises capital off this run?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989792108535767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-26T19:03:21Z",
+        "content": "$QS  nevermind I see it. A director bought 10k shares while everyone else dumped RSUs worth over $12M",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992172718048096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-26T18:59:39Z",
+        "content": "$QS TD Ameritrade says insider buy but all I see are sales and free options being redeemed. What am I missing?",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970347881317139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-26T18:25:28Z",
+        "content": "$PIRS did offering news leak or something? 20% reversal from top to bottom today",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999288022518158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-26T18:05:15Z",
+        "content": "$PIRS $3.50 better hold or this stock free falls back to mid $2s to fill the gap",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995701909065247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-26T17:48:18Z",
+        "content": "$QS next stop: the moon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999037504196167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-26T16:42:10Z",
+        "content": "$PIRS what is their cash balance? Anyone know?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991965889930725
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-18T19:37:46Z",
+        "content": "$QS cannot.be.stopped Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964278340339661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-18T15:45:00Z",
+        "content": "$QS crazy how divergent this is from QQQ over the past two days. Someone has been buying big Bullish",
+        "sentiment": {
+            "TextBlob": -0.2833333333333333,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983521699905396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-17T17:57:24Z",
+        "content": "$ADA.X what\u2019s everyone\u2019s staking average annual return? Trying to get a ballpark of returns I can expect",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988935589790344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-14T14:08:25Z",
+        "content": "$QS isn\u2019t Jagdeep able to sell today?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994982481002808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-12T01:26:45Z",
+        "content": "$PLTR Cathie was responsible for more than 1% of shares traded today Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948306679725647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-11T17:08:54Z",
+        "content": "$DDD feels like this is a nice swing short tomorrow, but long term this is going up",
+        "sentiment": {
+            "TextBlob": 0.18333333333333332,
+            "NLTK": 0.3919,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8653061985969543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-07T18:09:31Z",
+        "content": "$PLTR amazing how easily the indices bring this down, and how when they bounce, this barely moves back up",
+        "sentiment": {
+            "TextBlob": 0.18555555555555558,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949437975883484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-07T17:29:37Z",
+        "content": "$PLTR projecting a bounce from here into ER Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828692078590393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-05-07T12:56:20Z",
+        "content": "$FLGT amazing ER. The management team is executing the business plan to perfection. Cash equivalents almost half of the market cap. Core business is seeing exponential growth. All of that said, this probably won\u2019t break $80 \ud83e\udd37\u200d\u2642\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.21666666666666673,
+            "NLTK": 0.8779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9861410856246948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-23T18:31:57Z",
+        "content": "$PLTR close above $23.36 and we Gucci Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969170093536377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-23T17:42:26Z",
+        "content": "$LCID feels like this wants to squeeze to $22 by May Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992514252662659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-23T17:41:55Z",
+        "content": "$PLTR such strength after what has already been a solid week. Dips are bought up furiously. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894918203353882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-23T02:00:10Z",
+        "content": "$COIN anyone happen to know when lock up expires?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976039528846741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-16T18:06:15Z",
+        "content": "$PLTR $22.50 seems to be a line in the sand today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866365790367126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-16T12:45:46Z",
+        "content": "$PLTR new bullish and detailed article on SeekingAlpha. Has some very good points and comparisons in it.\n\nThe stock will respond by tanking another 3% today",
+        "sentiment": {
+            "TextBlob": 0.4821212121212121,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8548988103866577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-14T19:24:48Z",
+        "content": "$PLTR what a terrible day for tech to dump",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996986389160156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-12T18:04:29Z",
+        "content": "$PLTR does not bode well for Demo Day. If this isn\u2019t the bottom this week, it is going to break below $20",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999731719493866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-08T18:49:13Z",
+        "content": "$PLTR Melius research? Who are they...? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994019269943237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-08T00:54:33Z",
+        "content": "$PLTR Auntie Cathie is buying the dip, are you? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986063838005066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-07T19:52:27Z",
+        "content": "$SPY it\u2019s amazing that every little quote or insignificant statement from an official sends this up a dollar, even at this price level. Insane.",
+        "sentiment": {
+            "TextBlob": -0.1958333333333333,
+            "NLTK": -0.0094,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9522722363471985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-07T04:55:08Z",
+        "content": "$QQQ futes rippin Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982159733772278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-04-06T12:23:15Z",
+        "content": "$SPY if this is all bears can muster, it is going to be a long week",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985591769218445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-31T21:00:38Z",
+        "content": "$PLTR dip and rip tomorrow morning. Won\u2019t go below $23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879963994026184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-24T20:17:33Z",
+        "content": "$PLTR sure looks like this wants to hit 20 before it bounces Bearish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994813799858093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-24T14:58:35Z",
+        "content": "$QS Almost 20% down on an offering that adds less than 5% to the OS count, eh? \n\nAn offering that helps fund a JV with one of the largest automakers in the world, which they were obligated to do in order to maintain the partnership? \n\nYeah, I am buying in here Bullish",
+        "sentiment": {
+            "TextBlob": -0.16111111111111112,
+            "NLTK": 0.6322,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980505704879761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-17T12:56:07Z",
+        "content": "$PLTR I think Cathie buys big here today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9703898429870605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-16T14:19:00Z",
+        "content": "$LCID this is setting up for a Cramer drop",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904472827911377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-16T11:55:44Z",
+        "content": "$LCID either flys over $31 or falls back to $28 this week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985219836235046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-16T11:53:36Z",
+        "content": "$PLTR should trade down to $25 here for a bit Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993308782577515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-12T21:06:51Z",
+        "content": "$PLTR \ud83c\udfaf",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916050434112549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-11T23:12:30Z",
+        "content": "$NVAX this is one of your last pumps to get out at this price level. Do not squander it if you have a high cost basis Bearish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662450551986694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-11T14:27:46Z",
+        "content": "$GE this stock is done for a few weeks, if not more. Bearish",
+        "sentiment": {
+            "TextBlob": -0.225,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981257319450378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-05T17:50:28Z",
+        "content": "$SPY this rally is going to get sold. Seemingly no support anywhere Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997555613517761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-03T19:00:48Z",
+        "content": "$INSG gap fill at $9.87. Make or break this week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976848363876343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-03T13:12:19Z",
+        "content": "$INSG on watch for a reversal Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996517539024353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-03-02T19:42:01Z",
+        "content": "$INSG I am adding here for the first time in a few years. Complete overreaction Bullish",
+        "sentiment": {
+            "TextBlob": 0.049999999999999996,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992058873176575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-02-21T13:02:19Z",
+        "content": "$OMER 'A tragic case:' Organ transplant patient dies after receiving Covid-infected lungs via nbcnews - nbcnews.com/health/health-n... Bullish",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996274709701538
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-02-18T12:05:06Z",
+        "content": "$PLTR I exited all my short dated calls early yesterday, but still hold a few leaps. Will be adding more over the next few trading days Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911202788352966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-02-17T15:51:17Z",
+        "content": "$ARKF bought leaps, Jan 23 $90C \n\nInflation will be beneficial to financials Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947057366371155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-02-17T13:06:05Z",
+        "content": "$PLTR buying the dip here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984610080718994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-02-04T16:30:36Z",
+        "content": "$KALA bought some lotto calls Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923617839813232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2021-01-26T21:53:40Z",
+        "content": "$GME there is no way that this isn\u2019t a good short entry point Bearish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996927976608276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-12-17T18:46:49Z",
+        "content": "$OMER I remember some here used to complain that we haven\u2019t sold off ex-US rights to Omidria. Let $AUPH today be a cautionary tale for those still hoping for that outcome. Be careful what you wish for.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5354928374290466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-11-24T17:09:03Z",
+        "content": "$FLGT this stock is a proverbial rollercoaster",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9756725430488586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-10-14T20:01:25Z",
+        "content": "$QTNTQ why such a bad day?",
+        "sentiment": {
+            "TextBlob": -0.3499999999999999,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997511506080627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-10-14T16:28:41Z",
+        "content": "$FLGT ugly",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995089769363403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-09-28T17:08:27Z",
+        "content": "$QTNTQ not the reaction you would expect; problems with the management or the product?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996702671051025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-09-21T14:51:59Z",
+        "content": "$OMER market is awful today",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997465014457703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-09-03T19:32:18Z",
+        "content": "$CRBP this had held up exceptionally well compared to peers over the past few bumpy trading sessions Bullish",
+        "sentiment": {
+            "TextBlob": 0.0722222222222222,
+            "NLTK": 0.3384,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9931517839431763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-08-13T21:59:08Z",
+        "content": "$OMER never a dull moment with this one. I added heavily today and am unbothered by the press release, offering and subsequent price action. I am not here for COVID and those here prior to that should have seen this offering coming Bullish",
+        "sentiment": {
+            "TextBlob": 0.009166666666666667,
+            "NLTK": 0.3089,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947928786277771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-05-22T14:51:27Z",
+        "content": "$CRBP nice strength here Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9940694570541382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-05-18T17:49:24Z",
+        "content": "$CCXI they picked a great day to release bad news",
+        "sentiment": {
+            "TextBlob": 0.0500000000000001,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888060092926025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-04-15T18:57:34Z",
+        "content": "$OMER between 14 to 30% of Coronavirus infected patients require daily dialysis or some other form of renal therapy, perhaps for the rest of their days. Not sure if 721 is the answer but something needs to be and it likely will be complement focused",
+        "sentiment": {
+            "TextBlob": -0.09375,
+            "NLTK": 0.2069,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.964674711227417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-03-12T16:43:28Z",
+        "content": "@humour how\u2019s $ADMA treating you?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860196113586426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-03-12T14:21:40Z",
+        "content": "$EPD had to add more Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994909763336182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-03-10T18:00:47Z",
+        "content": "$EPD Nice buying opportunity here Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923465251922607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-03-02T21:35:39Z",
+        "content": "$OMER short squeeze has begun Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989877343177795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-01-09T20:21:07Z",
+        "content": "$LJPC Geert on suicide watch? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990649819374084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-01-06T20:04:56Z",
+        "content": "$OMER not sure why Hoff is getting all this hate. Who cares about his TA? If it doesn\u2019t change your thesis, why hate on him? You can disagree without being disagreeable and at the end of the day, this is what makes a market.\n\nLastly, if you think swinging 12k shares matters to the daily (let alone long term) SP, you are severely overestimating things Bullish",
+        "sentiment": {
+            "TextBlob": -0.3166666666666667,
+            "NLTK": -0.9025,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987086057662964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2020-01-06T16:48:26Z",
+        "content": "$OMER with JPM next week, we should see some support for the sector. Should bode well Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941673278808594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-12-05T14:59:51Z",
+        "content": "@jeepdrew22 you know all about that from $PAVM eh?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998040497303009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-12-05T14:57:39Z",
+        "content": "$OMER not thrilled with the timing but cash isn\u2019t an overhang now. This company now rests on if you believe trial results or not. People who would have died are still alive today thanks to this drug. You can\u2019t fake that. Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.5428,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8578675389289856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-11-26T18:03:15Z",
+        "content": "$LJPC dipped a toe here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954849481582642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-11-20T15:59:55Z",
+        "content": "$VKTX interesting that on back to back solid days for bio indices that this has languished",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940639138221741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-11-13T14:05:43Z",
+        "content": "$GE getting to be time to short this again Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975501894950867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-11-12T21:11:06Z",
+        "content": "$OMER can't believe net cash decreased only 5M or so since last quarter. Haven't yet tapped the SVB loan, either. Could even be cash flow positive next quarter if we see more 12% sequential growth Bullish",
+        "sentiment": {
+            "TextBlob": 0.046753246753246755,
+            "NLTK": 0.7553,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981008172035217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-11-12T13:14:55Z",
+        "content": "$AMRN AF wrong again Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984456896781921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-11-11T02:17:28Z",
+        "content": "$CRBP buying shares tomorrow morning Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979948997497559
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-11-08T19:08:43Z",
+        "content": "$SUPN strong on back to back days after what I believe to have been a slight overcorrection. Bullish",
+        "sentiment": {
+            "TextBlob": 0.06666666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977254271507263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-10-23T21:29:19Z",
+        "content": "$TSLA wtf did this come from?",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984561204910278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-10-15T13:00:53Z",
+        "content": "@Romanwarrior please post a screenshot. I doubt you have any holdings of consequence outside of $ADMA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994358241558075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-10-08T19:50:41Z",
+        "content": "$OMER added and will continue to do so Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884755611419678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-09-26T17:13:45Z",
+        "content": "$OMER this week we have tracked XBI commensurate with our beta, but so have others. I'm buying every dip",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9263018369674683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-09-03T20:22:55Z",
+        "content": "$NVCR that's a big chunk of insider shares, what's the reason? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946249127388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-08-09T16:35:17Z",
+        "content": "$OMER for shorts who are praying dilution is around the corner and will save their position: do you think CEO and massive stakeholder Greg would risk temporarily losing 10-15% market cap vs paying a few million in interest a year on a 50M loan? Bet wisely. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998547375202179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-08-02T18:29:29Z",
+        "content": "$OMER given how bloody benchmarks are, it is almost amazing this hasn't broken below $15 Bullish",
+        "sentiment": {
+            "TextBlob": -0.19999999999999998,
+            "NLTK": 0.4873,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968382120132446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-06-14T19:46:42Z",
+        "content": "$OMER added here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9573404788970947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-05-31T00:57:12Z",
+        "content": "$OMER more tariffs, this time on Mexican imports, caused this latest SPY jolt nbcnews.com/news/us-news/tr...",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9294118881225586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-04-18T12:53:40Z",
+        "content": "$CRBP nice endpoint win Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9622578620910645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-03-04T13:06:31Z",
+        "content": "$OMER few things..strange how little the 13C for March moved last trading day. Next, crazy how this company is only trading at 8x 2019 sales Bullish",
+        "sentiment": {
+            "TextBlob": -0.16458333333333333,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983760118484497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-01-17T20:57:40Z",
+        "content": "$SPY closed out all my puts here and went long for the next few weeks. Expecting some good geopolitical news soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.06999999999999998,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995313882827759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2019-01-17T13:39:17Z",
+        "content": "$OMER last two PRs were on point Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990691542625427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-12-24T13:00:25Z",
+        "content": "$OMER seems some of you can't see the forest from the trees. Look around biotech - everything has gotten crushed. This isn't an OMER issue",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995909333229065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-12-11T13:28:35Z",
+        "content": "@Stellar_Capital @Foolhardy12 more than toxic debt, $SGYP had an approved product no one wanted. 721 will be in immediate demand",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.3947,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7724772691726685
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-12-07T21:39:17Z",
+        "content": "$SPY this will only get worse in the short term. Nothing seems to stem the tide lately. Bearish",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996581077575684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-11-29T19:53:59Z",
+        "content": "$OMER the hell is going on with 12/21 $18C today? Gone schizo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995273351669312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-11-23T15:38:18Z",
+        "content": "$RDS.B how far down can this tumble?",
+        "sentiment": {
+            "TextBlob": -0.02777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994637370109558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-11-13T21:33:09Z",
+        "content": "$AMRS I expect more dilution then another reverse split. Change my mind Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929853081703186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-11-09T15:04:08Z",
+        "content": "$OMER it's amazing how few people involved here know anything structured finance. Thought dumb retail had fled but apparently some remained Bullish",
+        "sentiment": {
+            "TextBlob": 0.01875000000000002,
+            "NLTK": 0.0644,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976358413696289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-10-29T20:36:40Z",
+        "content": "$AMRN held up well today given that the bio benchmarks got crushed Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.969788670539856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-10-24T18:50:24Z",
+        "content": "$ALXN I'm a buyer at $92 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939232468605042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-10-04T15:47:27Z",
+        "content": "$OMER Bigger buys hitting the tape, bucking IBB Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950553178787231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-10-04T14:43:59Z",
+        "content": "$AMRN Only thing going strong in this market Bullish",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987744688987732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-10-04T12:53:19Z",
+        "content": "$ARWR nice Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940715432167053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-09-28T19:57:25Z",
+        "content": "$OMER somebody just spiked the $30C 10/19 minutes before close. Somebody nose something? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995467066764832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-09-26T18:09:35Z",
+        "content": "$OMER Congrats to $ALXN - almost positive returns for the past 12 months! \n\n$OMER returns have beaten them YTD, 12mo and for the past 5 yrs",
+        "sentiment": {
+            "TextBlob": -0.11174242424242424,
+            "NLTK": 0.6368,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959982633590698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-08-02T17:35:36Z",
+        "content": "$OMER Great hire. ALXN getting torched off it today, too.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939402341842651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-01-22T13:35:31Z",
+        "content": "$OMER I just so happen to have closed half of my hedged short and bought more long shares Friday. Let's see if this news starts the reversal Bullish",
+        "sentiment": {
+            "TextBlob": 0.03666666666666667,
+            "NLTK": 0.3566,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986562728881836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-01-19T20:47:24Z",
+        "content": "$OMER The worm will soon turn Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999744713306427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2018-01-08T17:06:27Z",
+        "content": "$CRBP Such strength much wow Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985009431838989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-12-14T12:39:01Z",
+        "content": "$CRBP there's RESOLVE baby Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993793249130249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-12-07T15:17:27Z",
+        "content": "@moarphysics making significant regiment or delivery changes adds risk. Odd to see $ALXN do this with a drug about to start a pivotal trial",
+        "sentiment": {
+            "TextBlob": 0.23611111111111113,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9263729453086853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-30T17:27:13Z",
+        "content": "$NKTR I would take profits",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847449660301208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-28T20:54:28Z",
+        "content": "$OMER Nice strength into close Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982023239135742
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-28T13:03:49Z",
+        "content": "$CYTO stick a fork in this Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943864345550537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-27T17:36:13Z",
+        "content": "$OMER Looks like smart money isn't back from vacation yet. Super low volume",
+        "sentiment": {
+            "TextBlob": 0.1369047619047619,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992031455039978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-18T03:48:34Z",
+        "content": "$OMER CORRECTION: Bihua controls over 4M shares now. Quite the power move from her over the last few months Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9136525988578796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-16T20:07:55Z",
+        "content": "$AUPH how on this blessed day in the markets is this barely up 2% after getting sold so hard recently? Ominous",
+        "sentiment": {
+            "TextBlob": -0.08055555555555556,
+            "NLTK": 0.2721,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988337159156799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-14T21:06:39Z",
+        "content": "$OMER what a monster day given the bio carnage Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985606074333191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-13T19:51:59Z",
+        "content": "$OMER Jan Calls getting scooped here after those big blocks Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986082911491394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-13T19:45:20Z",
+        "content": "$CRBP Gotta love management that believes in the therapy and routinely buys on the open market Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9650387763977051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-10T15:01:14Z",
+        "content": "$OMER I wonder how bad Citadel got boned on those puts they bought just before ER lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.0500000000000001,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999220609664917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-09T21:12:08Z",
+        "content": "$OMER this is Christmas in November. Proteinuria is much bigger than almost 22m Omidria quarterly revenue.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844410419464111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-09T11:47:12Z",
+        "content": "$SAGE these results are not as impressive as their p2 Bearish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": -0.4023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996817111968994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-07T21:35:56Z",
+        "content": "$OMER told you it was dumb retail getting shaken out by pros. Bihua knows more than the shorts here do Bullish",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979379773139954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-06T18:20:57Z",
+        "content": "@Trust_The_Science price actions similar 2 $ALXN after winning additional indication approval and nabbing another patent for their main drug",
+        "sentiment": {
+            "TextBlob": 0.2222222222222222,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975568056106567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-11-06T13:40:19Z",
+        "content": "$CRBP Great results in the open label release! SSc seems like a layup for FDA approval after an accelerated p3 Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.8748,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966842532157898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-31T14:22:42Z",
+        "content": "@StockTrader21  they put out a note mentioning $AMGN has a biosim of Soliris in p3 for PNH. Entire complement space down on news of it",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992815852165222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-31T13:51:43Z",
+        "content": "$ALXN Getting hammered today despite tailwinds on the $IBB and $XBI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853979349136353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-26T14:50:16Z",
+        "content": "@applepie2014 says the guy pumping $HMNY in the 30s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955322742462158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-26T13:35:43Z",
+        "content": "$OPNT wow let's talk about declarations but don't really do anything. Again.",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994094371795654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-25T15:01:03Z",
+        "content": "$CRBP excited to check out the data once they drop open-label SSc readout Bullish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9568929672241211
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-23T17:50:24Z",
+        "content": "@keith103 try again. You post multiple times on this board more than what I do. I also comment on more stocks than just $OMER unlike you",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8120576739311218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-23T13:35:08Z",
+        "content": "$OMER Dip and rip this week Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989169836044312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-06T20:08:36Z",
+        "content": "$OMER Not worried at all. Those of you who are crying over a high-beta bio giving back gains from the past session or two need to reevaluate Bullish",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.3794,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944412112236023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-05T15:05:27Z",
+        "content": "$OMER Burning shories Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979311227798462
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-05T02:58:27Z",
+        "content": "$CYTO I can't believe how undervalued this is with multiple phase 3 trial readouts right around the corner. I'm in Bullish",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993144273757935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-10-02T13:57:10Z",
+        "content": "$OMER First day back in the saddle. Short squeeze engaged Bullish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8662738800048828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-09-15T10:40:02Z",
+        "content": "$UVXY another missile launch from NK and new terror attack in London but this will barely close green",
+        "sentiment": {
+            "TextBlob": -0.0045454545454545565,
+            "NLTK": -0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993811845779419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-09-14T13:31:05Z",
+        "content": "@Shelman23 says the fool who thinks $EFX is undervalued here LOL",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.1613,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978821873664856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-09-09T01:09:48Z",
+        "content": "$UVXY Irma is set to potentially devastate 90% of the economy of the third most populous state in the US if it goes up the peninsula",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999242901802063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-09-07T17:35:37Z",
+        "content": "$ALNY Its amazing this is down less than 20% given its ridiculous valuation Bearish",
+        "sentiment": {
+            "TextBlob": -0.013888888888888853,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990881681442261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-09-07T13:29:48Z",
+        "content": "Top Upgrades and Downgrades for today. Good luck all $RH $PX $SPY",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9713522791862488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-09-05T16:00:30Z",
+        "content": "$BLPH get out now. $MNKKQ just lost patent case on inhaled nitric oxide. Not good Bearish",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.5727,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997596144676208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-09-05T12:36:25Z",
+        "content": "$BLPH Well this was worth the almost 2 month wait",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5297235250473022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-30T03:02:45Z",
+        "content": "$ABEO on watch to be a multi-day runner. Most likely breaks $14 Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832077026367188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-29T16:29:46Z",
+        "content": "$PBYI I think it's a good time to book profits here Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7022994756698608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-23T21:08:40Z",
+        "content": "$OMER I would be a little upset if I were paying STAT and they keep giving away free articles. Why pay? If its salacious they post it free",
+        "sentiment": {
+            "TextBlob": 0.2041666666666667,
+            "NLTK": 0.7425,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990532994270325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-22T22:07:37Z",
+        "content": "$OMER It appears STAT doesn't make enough off subs to hire an editor or researchers. I wonder hows their legal team?",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997487664222717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-22T19:24:33Z",
+        "content": "$OMER Two strong power hours in a row. Despite extenuating circumstances, the price action today speaks volumes. Bullish",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978804588317871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-22T11:07:26Z",
+        "content": "@AdamAlpha He did the same with $CRBP in the quiet period before their SSc data. Crushed the stock for a bit, despite good data afterwards",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.6377,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997809529304504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-22T10:54:18Z",
+        "content": "$OMER Prepare for a lot of fools rushing in today to short this based upon Doyle/AF (probably same person) reusing same old made up BS",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984164237976074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-21T18:54:36Z",
+        "content": "@Thaddeus24 Partnering has worked well for $ARRY and $NKTR hasn't it?? Lets just give away all of the upside",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3527,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933202266693115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-21T15:57:39Z",
+        "content": "$OMER dilution is a fact of life for bios, large and small. I rather us have the cash and options than no cash and needing a a lifeline Bullish",
+        "sentiment": {
+            "TextBlob": -0.017857142857142863,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988898634910583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-21T15:23:44Z",
+        "content": "$OMER buying more everyday this week Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981443881988525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-18T20:30:04Z",
+        "content": "$OMER Have a great weekend! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9824873805046082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-18T20:04:03Z",
+        "content": "$BLPH I added a lot of shares here today. Expecting great news here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7189963459968567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-18T15:22:11Z",
+        "content": "$OMER I added a couple hundred more shares today with the expectation we resume an uptrend next week. Offering officially closes today too Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992677569389343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-16T05:40:37Z",
+        "content": "$OMER Not sure if this has been mentioned but Cormorant recently almost doubled their stake here, now sitting on 1.3M shares Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.3224,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973756074905396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-15T21:19:49Z",
+        "content": "$BMY Shareholders here just can't catch a break",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997796416282654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-15T15:21:07Z",
+        "content": "$EPD I wonder how much of this has to do with $ETP and their struggles?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981527924537659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-15T01:16:00Z",
+        "content": "$OMER I bet we conveniently see Elemer revise his PT higher soon, bowing to OMS721s overwhelmingly positive track record in trials. Bullish",
+        "sentiment": {
+            "TextBlob": 0.23863636363636365,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8731974363327026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-14T20:36:22Z",
+        "content": "$OMER will net over $75m from this and it'll fund them to commercialization of OMS721. I don't mind the move and will buy into the offering Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941698312759399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-14T17:11:16Z",
+        "content": "$OMER More good news! Bullish",
+        "sentiment": {
+            "TextBlob": 0.6875,
+            "NLTK": 0.54,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9664859175682068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-14T11:29:43Z",
+        "content": "$ZYNE Not only did this fail on efficacy but the safety was even worse than placebo arm...their patch is less safe than natural cbd... wow Bearish",
+        "sentiment": {
+            "TextBlob": -0.05238095238095238,
+            "NLTK": 0.8574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988239407539368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-14T11:10:36Z",
+        "content": "$ZYNE For anyone who can't read the trial results and/or doesn't realize its another failure, you should not be investing in microcap bios. Bearish",
+        "sentiment": {
+            "TextBlob": -0.3166666666666667,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994137287139893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-14T10:50:48Z",
+        "content": "$ZYNE another trial fail Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991948008537292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-13T23:32:57Z",
+        "content": "$CYTR due for a reversal at some point but still a terrible company Bearish",
+        "sentiment": {
+            "TextBlob": -0.5625,
+            "NLTK": -0.631,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980208873748779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-11T18:30:56Z",
+        "content": "@WeylandYutani Clinical stage bios worry about data, cash & cash burn. $BLCM has enough cash for 7 quarters so that overhang isn't here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984807372093201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-11T18:23:45Z",
+        "content": "$CRBP Like clockwork, longs. We know the deal here :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988558292388916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-11T14:36:50Z",
+        "content": "$CRBP Anyone who knows this company knows the insider buy posted today won't be the only one that comes out over the next week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995088577270508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-11T14:35:32Z",
+        "content": "$BLCM I like this spot for a reversal play in this well-funded company with promising science, albeit no immediate catalysts that I know of Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913902282714844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-09T19:31:02Z",
+        "content": "$ACHN Can't say I didn't warn people about this",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0565,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9561895728111267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-09T15:46:50Z",
+        "content": "$OMER We haven't even begun the real short squeeze. Will take days to get them all out Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999567449092865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-09T14:04:15Z",
+        "content": "$ACHN I don't see how this move lasts. $ALXN already treats PNH and this trial was in 4 patients with one dropping out... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966471791267395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-08T21:23:26Z",
+        "content": "$OMER I like that Greg is taking the time to make the distinction between AA and full approval. Much more powerful Bullish",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.8268,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9649605751037598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-08T21:13:10Z",
+        "content": "$AEZS This company has the most BS press releases and halts I have ever seen. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991703033447266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-08T20:59:29Z",
+        "content": "$OMER I like how Greg leaned into the mic when he talked about compassionate use in OMS721 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9543538093566895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-08T20:56:36Z",
+        "content": "$OMER Even if you discount that 2m order from last quarter, we still beat estimates by a good margin for revenue Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828385710716248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-08T20:13:25Z",
+        "content": "$OMER Counting down the minutes to the CC Bullish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988077878952026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-07T14:47:23Z",
+        "content": "$TEVA Martin recommends bonds yet they have only 600m cash and over 35b debt...neither good plays here at this moment Bearish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991204142570496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-05T13:26:13Z",
+        "content": "$XXII Company has been on a tear recently but RSI needs to reset for now. With this large of a float, I think this trades sideways for a bit Bearish",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967076778411865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-04T17:37:58Z",
+        "content": "$OMER This was a nice but unexpected Friday pop here. I think we run into ER and if Omidria does what we all expect it to, this soars after Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9868296980857849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-04T16:06:39Z",
+        "content": "$CRBP $ZYNE $XXII $CARA All marijuana-related stocks doing well today Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861921668052673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-04T15:59:33Z",
+        "content": "$OMER ALXN suspends clinical trial clinicaltrials.gov/ct2/show...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996541738510132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-04T14:07:29Z",
+        "content": "$ZYNE We may not see 13s again. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993348717689514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-03T14:35:28Z",
+        "content": "$ZYNE Adding on every $0.25 down. Not fazed a bit Bullish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7047122120857239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-03T13:51:07Z",
+        "content": "$BLPH Nice news, decent pop, but I only care about the PH-COPD data here until 4q2017 Bullish",
+        "sentiment": {
+            "TextBlob": 0.25555555555555554,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947891235351562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-02T21:39:51Z",
+        "content": "$CRBP Not much news here to report but $JNJ got their RA candidate trashed by the FDA on a safety vote with only 2 yes 11 no",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99969482421875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-02T19:50:11Z",
+        "content": "$ZYNE I picked up another 300 shares on this dip Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965993762016296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-02T14:53:49Z",
+        "content": "$XXII Strange I didn't find the patent news anywhere except BenzingaPro. I wonder when the company will PR it? Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993866682052612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-02T14:23:30Z",
+        "content": "$ZYNE Buying every dip until data. This is due for a reversal soon and we  had the line drawn in the sand intraday yesterday Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988192915916443
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-01T19:02:54Z",
+        "content": "$KA If this is what a successful outcome looks like for the shareholders here, imagine when they fail the next trial Bearish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9375240206718445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-01T15:51:16Z",
+        "content": "$ZYNE This is why you don't set stop losses on microcap biotechs with low floats, people. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2607,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998629093170166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-01T13:49:31Z",
+        "content": "$ZYNE Bought 1k more at $13.50 and will continue to buy more this week regardless of price. No news was leaked; just low float manipulation Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": -0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875023365020752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-01T12:19:02Z",
+        "content": "$ZYNE Guy makes an account yesterday and 95% of his posts are on this board crying about how it missed EPS earnings LOL",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": -0.1943,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994996786117554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-08-01T12:16:52Z",
+        "content": "$KA No efficacy here mentioned, just safety? Yeah that is a failure in a phase 2 trial coupled with an already FDA-approved CFTR Bearish",
+        "sentiment": {
+            "TextBlob": -0.3166666666666667,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997130036354065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-31T19:09:55Z",
+        "content": "$ZYNE This is a few factors: stop loss raid mixed with overall weak market sentiment. I am buying more this week once the bleeding stops Bullish",
+        "sentiment": {
+            "TextBlob": -0.01499999999999999,
+            "NLTK": -0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981056451797485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-31T15:48:26Z",
+        "content": "$SGYP I was tempted to get back in here sub $4 until I saw the formulary exclusions. Oh well perhaps at $3 flat Bearish",
+        "sentiment": {
+            "TextBlob": -0.0125,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995036125183105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-31T09:29:55Z",
+        "content": "@Abaco24 $DVAX is derisked here with approval coming inside two weeks. Zalviso still could receive another CRL. Dilution is possible but",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2617,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958853125572205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-31T09:12:55Z",
+        "content": "$ZYNE I am starting a position here in anticipation of a positive ph2 readout for Zyn002 within a few weeks and with more data to come. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1318181818181818,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9839841723442078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-28T14:26:35Z",
+        "content": "$BLPH Glad I moved most of my position out of here in the past few weeks. Still holding a few thousand shares but expect to buy more cheaper",
+        "sentiment": {
+            "TextBlob": 0.1416666666666667,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895721673965454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-28T13:12:40Z",
+        "content": "$CYTR Patrick Soon-Shiong buying this failure of a last-gen cancer treatment is a match made in heaven. Watch the pop & drop here Bearish",
+        "sentiment": {
+            "TextBlob": -0.3166666666666667,
+            "NLTK": -0.795,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872089624404907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T17:42:00Z",
+        "content": "$BLPH market turned into a bloodbath in the matter of an hour",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994850158691406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T14:54:42Z",
+        "content": "$ARRY I caught this reversal for a small position in the high $7.50s. Oversold for sure Bullish",
+        "sentiment": {
+            "TextBlob": 0.1366666666666667,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992440938949585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T14:41:29Z",
+        "content": "$CRBP 8 straight down days yet this still isn't oversold on RSI? Nuts",
+        "sentiment": {
+            "TextBlob": 0.022222222222222213,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6427388191223145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T11:53:53Z",
+        "content": "@TalonStrike $GILD has the cash to pull that deal off where few else do but management won't risk their careers on such an acquisition IMO",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.3007,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6996814608573914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T11:30:44Z",
+        "content": "@Magellan Of course its all speculation but a PL-L1/CTLA-4 targeting molecule is exactly what $BMY is testing in this same indication",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962494969367981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T11:18:24Z",
+        "content": "$CAPR Sold half of position at $1.75. Will hold the rest and see how the day plays out. I doubt this pop will last today",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9873921275138855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T11:06:55Z",
+        "content": "@Magellan AZNs checkpoint inhibitor failed all endpoints. They were testing combo PD-L1/CTLA4 similar to $BMY. Hence negative readthrough",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.8074,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999763548374176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T10:52:31Z",
+        "content": "$BMY anyone who doesn't know why this is tanking today, you need a refresher course on checkpoint inhibitors. Negative readthrough with $AZN Bearish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994626641273499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-27T02:11:52Z",
+        "content": "$CAPR strong close EOD. I took a position here under a dollar expecting a reversal Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9798669815063477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-26T14:31:11Z",
+        "content": "$BLPH Huge buy just now Bullish",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990848302841187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-25T13:31:57Z",
+        "content": "$PALI Failed primary endpoint. One of secondary endpoints was questionnaire & that 'passed' - esp in mental health disorders could be placebo Bearish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992177486419678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T20:40:51Z",
+        "content": "@HazzMatt I have said for weeks $NVAX will fall after this trial readout/CC hype is over. I also said it was a nice uptrend to ride til this",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9438540935516357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T20:38:19Z",
+        "content": "$NVAX Just to refresh people's memory. Bulls can make money, bears can make money, but the pigs get slaughtered.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9937344193458557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T20:36:43Z",
+        "content": "$NVAX Does this look like success to you, bagholders? What did I tell you Bearish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9975841045379639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T20:10:29Z",
+        "content": "$NVAX No p-value mentioned = this isn't statistically significant. \"Exacerbations\" aren't a clinically-validated endpoint. Good luck holders Bearish",
+        "sentiment": {
+            "TextBlob": 0.5375,
+            "NLTK": -0.2955,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993520379066467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T20:00:41Z",
+        "content": "$NVAX Whoever didn't sell in the $1.70s today gets the loss they deserve the rest of this week. You have nothing but your greed to blame Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2175,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993139505386353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T14:20:00Z",
+        "content": "$OMER Looking like the algos are on today Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989500641822815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T12:36:52Z",
+        "content": "$PSTV I wouldn't bother trying to catch this falling knife. Management has proven to be inept & their candidates do nothing but fail trials Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.6017,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997885525226593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T12:14:07Z",
+        "content": "$CRBP FYI: CYTX failed p3 for a therapeutic to treat Scleroderma-related loss of hand function. One less potential roadblock in the way Bullish",
+        "sentiment": {
+            "TextBlob": -0.2222222222222222,
+            "NLTK": 0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997079968452454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-24T12:02:53Z",
+        "content": "$PSTV Results not statistically significant. Stock is done, get out now. Bearish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": -0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997208714485168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-23T23:18:20Z",
+        "content": "@ACInvestorBlog @Thagreat1 @keitrader I believe $SRPT can touch $60s by mid-Augus; two pieces of great news recently. $NVAX is a gamble tho",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8467520475387573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-22T13:55:36Z",
+        "content": "$AEZS This company is almost flat broke & will either smash the ATM (already active) or do a traditional offering off this fake news run Bearish",
+        "sentiment": {
+            "TextBlob": -0.16458333333333333,
+            "NLTK": -0.7308,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997828602790833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-21T17:24:31Z",
+        "content": "$OMER Shorts here have been getting reamed for the past 2+ weeks and we are just getting started Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993332028388977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-20T14:26:37Z",
+        "content": "$BVXV Shorts are getting fried since Monday. I think this grinds up from here over the coming weeks Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993811845779419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-19T01:55:01Z",
+        "content": "@Mr_Feynman $OMER",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903998970985413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-17T18:04:35Z",
+        "content": "$OMER This has been an absolute roller coaster today. Red to green three times",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9680548906326294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-17T13:59:03Z",
+        "content": "$BLPH Either way, I'd like Areezy to apologize to me when he said we would only move on news and nothing else :P",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.0827,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963757395744324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-17T13:58:38Z",
+        "content": "$BLPH So this could be two things: Phase 2 results leaked early to select people or the run-up to these results has finally started to Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997636675834656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-17T13:17:33Z",
+        "content": "$BLPH Lets not go crazy over 100 or so shares. I want data! Bullish",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": 0.6978,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969411492347717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-15T08:20:13Z",
+        "content": "$OMER when you are offered a seat on a rocket ship, you don't ask \"which one?\"... you just get on. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998150646686554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-14T16:39:30Z",
+        "content": "$OMER Showing no signs of letting up today! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989688396453857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-13T20:10:21Z",
+        "content": "$OMER Cutler Group LP is net-long here 15K calls as of 7/11/17 with hedging. We still haven't really been discovered by tutes though Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987748265266418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-12T16:50:08Z",
+        "content": "$CRBP SP has been on a grind!. But today there is a massive ask wall at $7 so it may be prudent to take some off the table and rebuy at $6",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988237023353577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-11T19:17:38Z",
+        "content": "$MTNB May be a short squeeze here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926964044570923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-11T00:30:15Z",
+        "content": "$OMER I couldn't help but add a few hundred more here today. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.1603,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972373247146606
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-10T17:04:43Z",
+        "content": "$OMER Somebody just came back from lunch at 1pm and bought well over half a million dollars worth. Which fund do you think it was? Bullish",
+        "sentiment": {
+            "TextBlob": 0.044444444444444446,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988991022109985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-10T16:03:19Z",
+        "content": "$CRBP Smart money accumulating here before reporting Bullish",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960623383522034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-09T20:09:39Z",
+        "content": "$BLPH Over 70% sold short last Friday. I would love to have good news tomorrow morning so this will really fly Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9291942715644836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-07T20:39:28Z",
+        "content": "$BLPH Very nice upturn at the end of the day and generally decent volume throughout. I am anxious for next week. 22k shares going into data Bullish",
+        "sentiment": {
+            "TextBlob": 0.17416666666666666,
+            "NLTK": 0.5095,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9692287445068359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-07T17:14:09Z",
+        "content": "$PSTV Huge bid wall at $1.03 and $1.02. This climbs from here towards close I believe Bullish",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927883744239807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-07T15:33:08Z",
+        "content": "$BLPH Its almost laughable if you watch the order book. 2-3k buys take us up 0.01 and 100 share sells into the bid take us down 0.02-0.03",
+        "sentiment": {
+            "TextBlob": -0.3277777777777778,
+            "NLTK": 0.2748,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979629516601562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-07T13:34:21Z",
+        "content": "$BLPH There has been an increasing percentage of shorting in the past three days. I don't think it continues today for fear of data Monday Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999200165271759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-07T13:29:08Z",
+        "content": "$OMER Over 70% shares were sold short yesterday. Obvious this happens right when Doyle starts up again. I'll triple down once MACD turns Bullish",
+        "sentiment": {
+            "TextBlob": 0.03253968253968253,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883924126625061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-07T12:11:50Z",
+        "content": "$BLPH Today should be an interesting one. I predict a down day with a late run hopefully that leaves us green. One day closer to data too! Bullish",
+        "sentiment": {
+            "TextBlob": -0.05138888888888889,
+            "NLTK": 0.69,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695531725883484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-06T23:48:16Z",
+        "content": "$OMER Laugh the meaningless off, friends. I added to my count here today to take advantage of this low-volume manipulation Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972770810127258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "equity24",
+        "timestamp": "2017-07-06T19:14:39Z",
+        "content": "$OMER More ALXN problems. I wonder if the real findvalue is tired of his bags over there yet?",
+        "sentiment": {
+            "TextBlob": 0.09999999999999998,
+            "NLTK": -0.7076,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993233680725098
+            }
+        },
+        "image_url": ""
+    }
+]

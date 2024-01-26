@@ -1,0 +1,3922 @@
+[
+    {
+        "username": "zerobeta",
+        "timestamp": "2021-02-22T15:06:03Z",
+        "content": "Perhaps the most underrated play on NFT\u2019s in the public equity markets is 3-D printing stocks. Watching $DDD.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3976,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984565258026123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-12-01T16:00:31Z",
+        "content": "Remember when $AMZN bought Whole Foods and everyone thought Instacart was toast? Years later and I\u2019m increasingly using Instacart as much as $AMZN.",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973956346511841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-03-13T16:45:06Z",
+        "content": "How much of $BTC.X 's drop is due to the fact that the virus is likely to make institutions and nation states stronger in the long run?",
+        "sentiment": {
+            "TextBlob": 0.006250000000000002,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985058307647705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-27T01:15:45Z",
+        "content": "$UBER test a different one",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942682981491089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-27T01:15:24Z",
+        "content": "$SQ test again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970266222953796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-27T01:13:31Z",
+        "content": "$SQ testing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928171634674072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-26T22:54:29Z",
+        "content": "$TWTR.P test 2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949618577957153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-26T22:54:01Z",
+        "content": "$SQ test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968699812889099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-20T20:24:56Z",
+        "content": "@michaelbozzello call you on $TWLO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.924454391002655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-20T20:20:50Z",
+        "content": "$SQ was down 7% at one point today.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994561076164246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-02-14T16:05:32Z",
+        "content": "$PTON is like video games for adults",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988175630569458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2020-01-28T01:59:36Z",
+        "content": "Test on $SQ cc @jskogen",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971036314964294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-10-24T14:42:17Z",
+        "content": "The $TWTR.P miss and $TSLA beat happening in sync is quite fitting and poetic. The platform that enables The $TSLA CEO to communicate with and cultivate a rabid community of consumers and investors can\u2019t effectively monetize that value creation.",
+        "sentiment": {
+            "TextBlob": 0.4916666666666667,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978830218315125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-10-24T13:26:16Z",
+        "content": "\u202a$TWTR\u2019s users and revenue expectations are diverging likely because new Twitter web design increased the monetizable users but didn\u2019t monetize them at the rate expected.\u202c",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.1406,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943413734436035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-10-08T16:39:25Z",
+        "content": "$AAPL Testing sharing this. this ia gret chart @everytimeicash",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955982565879822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-09-20T03:25:09Z",
+        "content": "\u202aThey\u2019re shooting one of the new $AAPL  originals on my block. While it would never happen, I can\u2019t help but think if $AAPL  bought $DIS it could be game over.\u202c",
+        "sentiment": {
+            "TextBlob": -0.13181818181818183,
+            "NLTK": -0.3775,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993906021118164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-09-10T18:14:09Z",
+        "content": "$SNAP: We're a camera company.....\n\n$AAPL: Hold my White Claw...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888074398040771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-09-09T21:15:54Z",
+        "content": "When does $SODA roll our the DIY White Claw kit?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984643459320068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-07-25T16:54:08Z",
+        "content": "Over the past week I think I've actually shifted from very bearish on $BYND to very bullish. Do whatever you want with that info.",
+        "sentiment": {
+            "TextBlob": 0.037500000000000006,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988133907318115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-05-16T01:43:48Z",
+        "content": "$UBER I\u2019m old enough to remember when this was a magical service",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9178726673126221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-05-15T14:59:52Z",
+        "content": "Maybe I'm jaded, but it feels almost inevitable that one day in the future we will be reading an article about how someone found meat in $BYND's not-meat.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992326498031616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-05-12T04:53:25Z",
+        "content": "$ETC.X  what\u2019s the biggest reason to be bullish on Ethereum Classic?",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990755319595337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-05-10T19:31:12Z",
+        "content": "I just bought some $MFIN in my Trade App test account.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998820960521698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-04-27T11:40:19Z",
+        "content": "I fear that people are going to spend all day trading $WORK that they\u2019re not going to get any real investing done.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996751546859741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-04-26T17:02:46Z",
+        "content": "The last 2 days I came across two unrelated actual day to day business problems where blockchain would be a great solution. Both involved trust. Starting to look at crypto again during this drop. Majors like $BTC.X and $ETC.X as well as some tokens.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.8491,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866085052490234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2019-04-23T17:04:26Z",
+        "content": "$TWTR.P's mDAU began to accelerate right after they announced this adexchanger.com/platforms/t... Trump embedded tweets the gasoline on the fire",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9831552505493164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-12-11T01:44:42Z",
+        "content": "For the StockTwits 2019 room, I wrote about the great $META unwind. stocktwits.com/r/2019/gIZ02...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942820072174072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-10-10T19:46:21Z",
+        "content": "@robgray_ $SQ mostly because I\u2019ve been trading it from the short side most of the week so I know it",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964632391929626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-10-09T15:46:24Z",
+        "content": "Went flat this morning and starting to buy longer dated puts in $SLM and $LC, based on this from $GS on Marcus. https://www.bloomberg.com/news/articles/2018-10-08/goldman-is-said-to-reduce-marcus-lending-goal-on-credit-caution",
+        "sentiment": {
+            "TextBlob": -0.0125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996412992477417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-10-04T03:24:47Z",
+        "content": "@LouiePatouie @howardlindzon $MDB is a good analog",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999327540397644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-09-10T14:37:44Z",
+        "content": "It sucks as I feel like $SNAP still has a chance in the market but they've let their product basically become Taboola with a Stories feature",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972289204597473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-08-20T18:17:21Z",
+        "content": "When you think about it, $TSLA might turn out to be just a huge, publicly traded Kickstarter campaign.",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976410865783691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-06-21T15:43:38Z",
+        "content": "@scheplick you are really going to put $2500 into $DRYS ?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999006450176239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-05-04T13:23:35Z",
+        "content": "Loving this move in $EURUSD the day I leave for Lisbon and Prague.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9973070621490479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-04-24T13:10:26Z",
+        "content": "Out of my $BTC.X on this run. Will revisit",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9112825989723206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-04-05T13:17:08Z",
+        "content": "Serious question: At what point does $BTC.X become an inflation trade in this market?",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980814456939697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-04-02T14:38:52Z",
+        "content": "Starting to rebuild a small position in $BTC.X here. Not touching $ETH.X at this time.",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995362758636475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-03-26T17:30:23Z",
+        "content": "Now that $META is getting crushed and $TWTR.P is hot, should FANG become TWANG?",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979425072669983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-03-12T16:40:19Z",
+        "content": "Looking forward to the future when we all get paid by $AMZN in $AMZN gift cards and $AMZN shares in our $AMZN 401K plan.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9737140536308289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-02-28T20:22:36Z",
+        "content": "Excited that $SPOT is going public, so that markets can trade on Taylor Swift news more often.",
+        "sentiment": {
+            "TextBlob": 0.2916666666666667,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958860278129578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-02-12T20:42:29Z",
+        "content": "I still can't believe no company has changed their ticker to $APPL yet.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942355751991272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-01-25T16:55:43Z",
+        "content": "@ST_Investor why would they sell to shift to robinhood when you can just send $BTC.X in there?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994378685951233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-01-21T21:38:21Z",
+        "content": "@howardlindzon $CPTO.TSXV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874513745307922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2018-01-18T15:44:30Z",
+        "content": "What's the $AMZN whisper city?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980531930923462
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-12-12T14:52:55Z",
+        "content": "Everyone going nuts for Diet Bitcoin today. $LTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9855829477310181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-12-04T20:17:57Z",
+        "content": "$OTEX test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955353736877441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-28T16:20:47Z",
+        "content": "Imagine if $BTC.X had an earnings day. Right now it would be $AAPL earnings in its prime x 10.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935693740844727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-17T18:01:47Z",
+        "content": "If you sold $TSLA when Lil Uzi Vert dropped Luv is Rage 2 with the verse \"Higher than Elon Musk\" you would have done pretty well",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9653438329696655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-15T15:36:21Z",
+        "content": "The $SQ move makes tons of sense, but has me wondering how many CEO's are waiting for a bad quarter to pull out their \"bitcoin play\".",
+        "sentiment": {
+            "TextBlob": -0.09999999999999992,
+            "NLTK": -0.6956,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986010193824768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-08T19:14:15Z",
+        "content": "When's the CNN/$TWX fork?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996916055679321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-07T21:54:51Z",
+        "content": "When does $SNAP come out with the hot dog dancing to The Cure?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973614811897278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-07T14:35:13Z",
+        "content": "With $SNAP and $MTCH reporting today, we should get a good barometer on how much millennials are getting laid.",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5158792734146118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-02T20:34:11Z",
+        "content": "I'm old enough to remember with $AAPL earnings was StockTwits' biggest day of earnings season. Now it's maybe 4th or 5th.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6368565559387207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-01T20:21:14Z",
+        "content": "$TSLA Yikes. Going to take a lot more hats than that.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977228045463562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-11-01T19:37:00Z",
+        "content": "Will $META be announcing EPS Ex-Russian Propaganda?",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988283514976501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-10-24T20:25:25Z",
+        "content": "How do you fuck up queso? $CMG",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979575872421265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-10-19T19:13:19Z",
+        "content": "$SEND S1 sec.gov/Archives/edgar/data...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961636066436768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-10-19T16:38:20Z",
+        "content": "Instead of selling hats, $TSLA should give away the car for free and charge for the charge.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976098537445068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-10-19T14:26:25Z",
+        "content": "$XTZ.X updated this symbol to reflect pricing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753822088241577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-10-18T20:23:13Z",
+        "content": "So $SNAP decided to come out with a sandwich costume?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977225661277771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-10-17T13:18:13Z",
+        "content": "$ETH.X Price is back. It froze up overnight",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953065514564514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-10-10T19:39:13Z",
+        "content": "We have a great @StockTwits $BTC.X 5000 shirt ready if this thing ever happens.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947583079338074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-29T19:44:02Z",
+        "content": "$DCTH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9855551719665527
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-29T15:52:37Z",
+        "content": "$ROKU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9813904762268066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-28T14:42:56Z",
+        "content": "I have both $ROKU and $NFLX on my watchlist but it's taking me 30 minutes to figure out what I want to trade.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1154,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991258978843689
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-26T21:04:38Z",
+        "content": "Can't wait for 3x Leveraged $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974241256713867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-15T20:22:48Z",
+        "content": "$SPY almost worth as much as $BTC.X  \n \n<ducks>",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.1548,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965831637382507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-13T18:42:10Z",
+        "content": "$JUNO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8431030511856079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-12T17:36:47Z",
+        "content": "It's important to make sure you watch the entire $AAPL announcement live. There will be no recaps on the internet later this afternoon.",
+        "sentiment": {
+            "TextBlob": 0.20727272727272728,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962104558944702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-12T15:49:06Z",
+        "content": "Really looking forward to $AAPL releasing the thing I'm going to be staring at instead of talking to my family for the next 2 years.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844887256622314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-09-12T15:39:08Z",
+        "content": "$TWTR.P sup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959579110145569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-08-10T21:09:54Z",
+        "content": "$SNAP, like me, has found that sometimes the last minute hot dog isn't the best idea.",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": -0.2187,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986838698387146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-08-10T19:54:57Z",
+        "content": "$UBER when it finally goes public",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966145157814026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-08-02T15:45:31Z",
+        "content": "@Koichi @gajago we just updated to $BCH.X because our data provider seems to be using BCH. Both symbols will still post to streams",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977244734764099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-08-02T15:42:57Z",
+        "content": "Changed $BCC.X to $BCH.X because our data provider supports that symbol. Both symbols will still post to stream.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9712722301483154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-07-31T16:50:55Z",
+        "content": "Yo $BTC.X - we added a symbol for Bitcoin Cash over at $BCC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971924424171448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-07-21T16:54:59Z",
+        "content": "@Estrdr @oracle_man Done $FLO.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970850348472595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-07-20T18:55:09Z",
+        "content": "What does $F stock do on this news?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997582197189331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-07-19T01:11:06Z",
+        "content": "Is $GOOG throwing in the towel?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983489513397217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-07-13T14:04:51Z",
+        "content": "$BTC.X test 3",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922915101051331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-07-13T13:58:33Z",
+        "content": "$BTC.X test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943312406539917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-06-28T22:36:45Z",
+        "content": "$APRN but for dogs",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9768626689910889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-06-20T19:11:11Z",
+        "content": "$DHI testing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9785355925559998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-06-20T19:06:12Z",
+        "content": "$COST test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9690434336662292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-06-19T19:58:07Z",
+        "content": "@lucyyeslucy yeah that's the beauty and magic of $AMZN. Investors and executives aligned on a long term roadmap and constant execution",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980047345161438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-06-19T19:46:27Z",
+        "content": "In many ways $AMZN is that model of perfect competition that you learned about in Econ 101, but your professor told you didn't really exist.",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964042901992798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-06-16T13:35:05Z",
+        "content": "This week $AMZN got into banking and grocery shopping. Amazon is eating the world.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8580752611160278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-05-10T20:18:23Z",
+        "content": "$SNAP I bet @zuckd is just lighting up a cigar right now.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9905112385749817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-05-09T18:15:25Z",
+        "content": "I was going to invest in $DIS even though its assets were Frozen.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7997251152992249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-05-03T20:49:22Z",
+        "content": "$TSLA misses earnings. Back to where it was last week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997873902320862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-05-03T16:23:27Z",
+        "content": "Just bought some $LTC.X on the coinbase news",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878687262535095
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-05-01T15:44:20Z",
+        "content": "$YHOO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9225414991378784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-04-29T14:33:25Z",
+        "content": "$SQ @scheplick",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939352869987488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-04-19T16:33:27Z",
+        "content": "$BOJA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981889128684998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-04-11T15:44:02Z",
+        "content": "Imagine being a regular person responsible for $1 Billion in market cap lost. $UAL",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994619488716125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-03-29T10:55:05Z",
+        "content": "I wonder if Buzzfeed will go with $LOL as their symbol.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950416684150696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-03-28T19:32:13Z",
+        "content": "I am starting to warm up to the hypothesis that neither $UBER or $LYFT makes it.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968612194061279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-03-16T19:59:41Z",
+        "content": "$GOOS should buy $FIZZ and just become a Williamsburg ETF.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987404942512512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-03-02T16:27:04Z",
+        "content": "I own $SNAP. Am I diversified?",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870119690895081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-03-02T14:19:32Z",
+        "content": "Old adage: Buy on the Snap. Sell on the Replay. $SNAP",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860903024673462
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-02-23T21:52:44Z",
+        "content": "If you're $LYFT why not go public now while $UBER is against the ropes?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988094568252563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-02-15T22:05:00Z",
+        "content": "\"Be greedy with $GOOS when others are freezing\" - Warren Buffet",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926967024803162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-02-15T21:58:51Z",
+        "content": "$GOOS is such a great ticker",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992313385009766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-02-08T20:44:45Z",
+        "content": "We need to rename StockTwits to \"Uber Stocks\" and go public before $UBER gets out bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994679093360901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-02-02T22:27:13Z",
+        "content": "The worst part of $SNAP IPO is going to be all the \"and then your money disappears\" jokes. Probably makes it a buy.",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998016953468323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2017-02-02T22:00:06Z",
+        "content": "Snap is both the Snapchat stock symbol and the name for the food stamp program. Weird that both will share a google query. $SNAP",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984329342842102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-10-27T12:10:46Z",
+        "content": "9% of $TWTR.P workforce are getting blocked. 20% are getting muted, and a staggering 30% are going to remain getting hate-followed.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994258880615234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-10-18T16:17:12Z",
+        "content": "$TWTR.P test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967252612113953
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-09-26T18:00:52Z",
+        "content": "If $DIS buys $TWTR.P, then $TWTR.P will be a literal mickey mouse company.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942106008529663
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-08-30T19:56:18Z",
+        "content": "$YHOO to also get into ride sharing. Will pick you up in an actual clown car.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9906589984893799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-08-08T14:01:17Z",
+        "content": "$W\u00a0Have spent a lot of money here in the last week. Great site. Chart is looking pretty interesting as well.",
+        "sentiment": {
+            "TextBlob": 0.29000000000000004,
+            "NLTK": 0.9022,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991230368614197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-07-26T11:20:49Z",
+        "content": "If you own $NTDOY be sure to blow into your stock a few times before selling it. Should help.",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990261793136597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-18T15:24:28Z",
+        "content": "Whenever I see $MGTI I think of the band MGMT. And then I think of their song \"Time to Pretend\", which is perfect.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996964931488037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-17T15:37:15Z",
+        "content": "You have to think that McAfee is on StockTwits right now doing lines of coke and watching the $MGTI stream.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983845949172974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-17T15:11:02Z",
+        "content": "$MGTI investors rn",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9759467840194702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-17T15:03:46Z",
+        "content": "Should $MGTI buy $AAPL?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991323351860046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-17T14:56:10Z",
+        "content": "I own $MGTI. Am I diversified?",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907643795013428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-12T20:24:37Z",
+        "content": "$TCEHY $GLUU @glumobile FC: Rivals (aka #WeFire) v 0.3.0 ***4.5/5*** Beta iOS World Rankings as of May 11 https://www.appannie.com/apps/ios/app/frontline-commando-rivals/app-ranking/#device=iphone&daily=2016-05-11&type=ranks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921572208404541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-12T20:20:38Z",
+        "content": "$TCEHY $GLUU @glumobile FC: Rivals (aka #WeFire) v 0.3.0 beta *4.5/5* UK iOS #419 Top 500 Grosng https://www.appannie.com/apps/ios/top-chart/united-kingdom/games/?device=iphone",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842334389686584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-12T15:05:37Z",
+        "content": "The $AAPL bottom will be in when 9to5mac and AppleInsider merge.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994195699691772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-10T13:55:17Z",
+        "content": "$SCTY Solar City downgraded to Solar Hamlet",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983722567558289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-05-03T16:23:09Z",
+        "content": "If $AAPL really wants to mess with people, they should launch a much cooler iMessage and also launch it on Android.",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": -0.4144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990106821060181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-28T20:19:32Z",
+        "content": "$LNKD $AMZN $META, and $F all crushed earnings. Hopefully this is the start of the LAFF trend",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982303977012634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-28T18:08:43Z",
+        "content": "\"Alexa, is $AMZN going to beat earnings after the bell?\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975178241729736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-28T13:45:39Z",
+        "content": "1/28/11: Pros think $META is overvalued. bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985498785972595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-26T21:07:12Z",
+        "content": "$TWTR.P could be making real product traction underneath, but it would take a long time to see since everyone is so concerned with top line #",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.3809,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978381991386414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-26T21:06:06Z",
+        "content": "it's going to be harder for $TWTR.P to actually move the needle, since most of those people aren't actually users.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994580149650574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-26T21:04:01Z",
+        "content": "Since $TWTR.P has changed definition of \"Month Active User\" to someone who is cookied, but sees a tweet in a given month...",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.2144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995717465877533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-26T20:43:47Z",
+        "content": "Just glaring at my iPhone, disappointed with it. $AAPL",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997366070747375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-26T20:13:32Z",
+        "content": "Our $TWTR.P shirt appears to be still relevant http://stkw.it/jBcW",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944220185279846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-26T20:10:22Z",
+        "content": "$TWTR.P Yikes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973006844520569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-21T13:37:33Z",
+        "content": "$SUNE bankruptcy. Timing of the StockTwits \"Setting $SUNE\" shirt couldn't have been better http://stkw.it/gA5U",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999350368976593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-20T14:25:27Z",
+        "content": "$KO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9793968200683594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-19T20:13:44Z",
+        "content": "$YHOO reported earnings of $10.00 per bid.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9750160574913025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-04-18T21:29:04Z",
+        "content": "The one year $SPY chart is great. Just completely sideways.",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964197874069214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-03-29T14:58:24Z",
+        "content": "Based on my recent connections, if the Premium Accounts doesn't work for $LNKD they should be able to own the Russian mailorder bride market",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981179237365723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-03-21T17:45:25Z",
+        "content": "Really odd for $AAPL to release a new phone size but not update the existing sizes.",
+        "sentiment": {
+            "TextBlob": -0.015151515151515152,
+            "NLTK": -0.2014,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996256947517395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-03-21T17:14:53Z",
+        "content": "It's amazing to me how much investor (and consumer) enthusiasm in $AAPL has become: \u00af\\_(\u30c4)_/\u00af",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997013211250305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-03-21T13:53:28Z",
+        "content": "Looking forward to $AAPL's rotary phone launch.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9326395988464355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-03-04T16:49:03Z",
+        "content": "$MSFT was going to bid for Slack but then someone posted a funny gif and it got distracted.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994938373565674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-03-01T17:06:49Z",
+        "content": "Loving that $EWZ @ppearlman @allstarcharts",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9870046973228455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-02-10T21:38:51Z",
+        "content": "Understand why $TWTR.P shifted its MAU calc to \"those who we have cookied and have seen a tweet, anywhere\" but feel like its hurting them now.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992770552635193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-02-10T20:42:37Z",
+        "content": "In order to align their IR strategy with their new product strategy, $TWTR.P to first release best data from earnings followed by all data.",
+        "sentiment": {
+            "TextBlob": 0.4621212121212121,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922394752502441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-02-05T18:14:31Z",
+        "content": "Regarding $LNKD, I remain cautiously optimistic about the endorsements on the sidelines.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9918870329856873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-02-04T21:13:58Z",
+        "content": "$LNKD rn",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915297031402588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-02-02T19:58:29Z",
+        "content": "Using $TWTR.P message id's to look at my account year over year can see that message volume has dropped/flatlined",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997679591178894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-01-27T21:12:12Z",
+        "content": "$META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9424152970314026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-01-27T20:49:18Z",
+        "content": "$AAPL is sitting on $216B of cash. For perspective, that would nearly fill up Kanye's head.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958970546722412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-01-20T20:41:29Z",
+        "content": "I think the $DJIA Intraday Chart says it all",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930288195610046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-01-19T21:17:45Z",
+        "content": "$NFLX DVD service is the new AOL dialup. Will be in financials for years.",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933018684387207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2016-01-15T14:34:36Z",
+        "content": "Wow, $BTC.X is down about 10% since yesterdays post on Medium medium.com/@octskyward/the-...",
+        "sentiment": {
+            "TextBlob": -0.02777777777777779,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993614554405212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-12-16T19:25:56Z",
+        "content": "Cool watching Bitcoin react to its first Fed Rate hike $BTC.X",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7986995577812195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-12-14T20:03:26Z",
+        "content": "If $TWTR.P had beat out $META, we'd all be talking about TANG, which would be pretty funny.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8497583270072937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-12-10T17:54:36Z",
+        "content": "If you bought a GoPro Hero instead of $GPRO at IPO you would have nearly the same amount of $$ plus a video of how pumped you are right now.",
+        "sentiment": {
+            "TextBlob": 0.12857142857142856,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975467324256897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-12-10T16:39:09Z",
+        "content": "So, who got to close the \"Go Public\" ticket on Jira at $TEAM ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999182403087616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-23T18:14:15Z",
+        "content": "I have 100% of my portfolio in $KBIO. Am I diversified?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848243594169617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-20T15:37:05Z",
+        "content": "FUN FACT: Adele wrote her entire new album while she was long $VXX",
+        "sentiment": {
+            "TextBlob": 0.09659090909090909,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991100430488586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-19T20:36:35Z",
+        "content": "So today we had a company where you swipe to get paid ($SQ) and a company where you swipe to get laid ($MTCH) IPO on the same day.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986709356307983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-16T19:02:14Z",
+        "content": "$URBN buys pizza chain. Stating, \"it's ironic\", and \"you wouldn't get it\" http://stks.co/p3BfJ",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930146932601929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-13T17:05:01Z",
+        "content": "Bought some $bis here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9471663236618042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-09T21:40:40Z",
+        "content": "This wasn't how it was supposed to down $TWTR.P",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995915293693542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-05T02:52:44Z",
+        "content": "If Musk thought the end game of $TSLA was a car company he would have named it Ford. Bullish",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989712238311768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-04T18:07:36Z",
+        "content": "Times must be tough at $TWC",
+        "sentiment": {
+            "TextBlob": -0.3888888888888889,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982479810714722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-11-03T17:35:34Z",
+        "content": "Pretty pumped for Call of Duty: Candy Crush Recon $ATVI $KING",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97589111328125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-10-27T20:27:53Z",
+        "content": "I can't imagine what is going on in Ballmer's playroom right now. $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975929856300354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-10-27T20:09:06Z",
+        "content": "Currently seeing this Twitter ad on the StockTwits $TWTR.P stream. Wonder if that portends a miss.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972520470619202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-10-16T15:32:58Z",
+        "content": "Ballmer joining Twitter is much more bullish for Twitter than Ballmer buying $TWTR.P.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989645481109619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-10-14T20:12:08Z",
+        "content": "So $NFLX is not much more than a House of Cards?\n\n<ducks>",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997434020042419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-10-14T18:45:00Z",
+        "content": "Why wouldn't $WMT go the way of all the other local departments stores that came before it?",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987922310829163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-30T17:56:39Z",
+        "content": "The market accidental faves the $TWTR.P news.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996907651424408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-30T17:22:00Z",
+        "content": "Kind of a funny juxtaposition of articles today ($TWTR.P)\n\nbits.blogs.nytimes.com/2015...\nfortune.com/2015/09/30/thri...",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972730278968811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-30T16:22:49Z",
+        "content": "Sold some $DHI this morning and started a position in $BIS. Been looking to get short biotech for a while and starting to feel comfy",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9548762440681458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-24T20:45:21Z",
+        "content": "$NKE's new logo",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8491579294204712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-16T17:42:53Z",
+        "content": "I like stocks of co.'s that sell things they said Millennials would never own: cars, houses, mortgages, and the such. $F $DHI #fedfreechat",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9829040169715881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-15T19:57:36Z",
+        "content": "Just reduced some of my long side risk and added some $SDS.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.942987859249115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-09T19:11:31Z",
+        "content": "First test drive of the new $AAPL pencil",
+        "sentiment": {
+            "TextBlob": 0.19318181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99588543176651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-09-09T18:59:31Z",
+        "content": "The year is 2163. The $AAPL announcement has been going on for 148 years.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832793474197388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-25T14:44:03Z",
+        "content": "Also looking at Southern lenders. Added some $OZK on the @ppearlman hire. Really nice long term chart as well.",
+        "sentiment": {
+            "TextBlob": 0.18333333333333332,
+            "NLTK": 0.6361,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9610810875892639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-25T14:20:34Z",
+        "content": "@venkysrinivasan was looking at that too. Like $DHI's markets more than $LEN",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9179726243019104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-25T14:13:56Z",
+        "content": "Bought some $DHI instead of $PHM for my housing play.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978717565536499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-25T13:14:01Z",
+        "content": "Using this selloff to start looking to invest in \"Aging Millennial\" theme: Cars, Houses, etc. $RH, $PHM, and $F to name a few",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926504492759705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-10T21:24:33Z",
+        "content": "I can\u2019t wait for the first analyst to say \u201cAlphabet earnings ex-G are up/down X% per year!\u201d $GOOG",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977096319198608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-10T20:53:37Z",
+        "content": "So will $TWTR.P claim the letter \"T\"?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986359477043152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-10T14:41:53Z",
+        "content": "On Buffett buying $PCP cc @EddyElfenbein",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800517559051514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-07T15:10:56Z",
+        "content": "But $TWTR.P on Super Tuesday and sell on Election Day.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.7469,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987199604511261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-08-05T15:25:08Z",
+        "content": "If I was the CEO of $DIS I would find it very hard not to say, \"Listen, this isn't some Mickey Mouse stock\" on analyst Q&A.",
+        "sentiment": {
+            "TextBlob": -0.3791666666666667,
+            "NLTK": -0.1761,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993727803230286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-07-29T15:34:21Z",
+        "content": "$IAC should buy $YELP.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983951449394226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-07-28T18:28:00Z",
+        "content": "NOTE: Only the $TWTR.P Q&A is going to be live on Periscope. Earnings will be released as usual, 30 minutes early through Selerity.",
+        "sentiment": {
+            "TextBlob": -0.0034090909090909102,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965457320213318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-06-08T17:57:52Z",
+        "content": "What was the last $AAPL native app that \"killed\" anything?",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999678373336792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-05-27T14:55:58Z",
+        "content": "Where are all the $KORS bagholders? <ducks>",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987366795539856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-05-07T21:16:54Z",
+        "content": "Not sure about \"obvious\" bear case on $FIT stock.",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": -0.2411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996854066848755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-05-07T17:29:05Z",
+        "content": "If $META bought $TWTR.P and $YELP, they would own about 90% of what I do on my phone.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981799125671387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-05-06T17:15:37Z",
+        "content": "I wonder if $WU uses Western Union to pay for an acquisition.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998445451259613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-05-04T12:11:24Z",
+        "content": "$MCD turnaround video not exactly inspiring mcdonalds.webcasts.com/star... Bearish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.3252,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997205138206482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-30T20:27:00Z",
+        "content": "The easy endorsements have been made. $LNKD",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9118862152099609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-30T15:16:11Z",
+        "content": "After reading some of the positive reviews, I decided to try $YELP stock this week. To much of my surprise, my experience was AWFUL.",
+        "sentiment": {
+            "TextBlob": -0.19090909090909092,
+            "NLTK": 0.2422,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993305206298828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-28T21:00:28Z",
+        "content": "$TWTR.P's problem: Most will see \"Twitter Earnings Leak on Twitter\" on the news but never experience the 20 min on Twitter when it leaked.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982085227966309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-28T20:08:06Z",
+        "content": "Jitter - Twitter for people who are long $TWTR.P",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993790328502655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-28T19:57:46Z",
+        "content": "The easy money has already been made. $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986577033996582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-28T19:37:53Z",
+        "content": "$TWTR.P The Dick Leak",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990077614784241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-27T16:47:36Z",
+        "content": "REMINDER: Only 4 more hours to dig up obscure references to make comparisons to how much cash $AAPL holds.",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990527033805847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-23T20:08:18Z",
+        "content": "All of Seattle has now reported earnings. $SBUX $AMZN $MSFT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9724201560020447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-17T04:28:09Z",
+        "content": "$ETSY's 82% IPO pop has much more to do with the prospects of $UBER than it does with $ETSY",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985448122024536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-16T15:58:10Z",
+        "content": "The biggest risk if you're a $NFLX shareholder seems to be that they don't get a big new hit in the next 12 months.",
+        "sentiment": {
+            "TextBlob": 0.04545454545454545,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994397759437561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-15T17:04:45Z",
+        "content": "Ashley Madison should use its IPO proceeds to buy $KNOT. Own the full customer lifecycle.",
+        "sentiment": {
+            "TextBlob": 0.475,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973251819610596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-15T13:34:15Z",
+        "content": "Price for Foursquare seems a bit steep, but interesting to see $YHOO gobble up big NY tech names.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5499,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9929245710372925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-13T13:01:38Z",
+        "content": "To those saying 1M $AAPL watches preorder is disappointing: At average price of $700, 1M watches = $700M = 1/4 of $FOSL 2014 Watch Sales",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997432827949524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-07T16:53:30Z",
+        "content": "I wonder how much campaign ad spend $META and $TWTR.P are going to get.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979865550994873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-04-06T14:42:09Z",
+        "content": "I'd rather own Pinterest at $11B than $ETSY at $2B",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991515874862671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-03-26T14:43:26Z",
+        "content": "Imagine how different the entire social media landscape would be if $TWTR.P bought Instagram over $META.",
+        "sentiment": {
+            "TextBlob": 0.011111111111111112,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956052899360657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-03-25T12:01:21Z",
+        "content": "Hopefully Miracle Whip is the first casualty of the Heinz-Kraft merger. $KRFT",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9810442328453064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-03-10T14:04:02Z",
+        "content": "Buying some $BTC.X here. I think the slaughter is over.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993016719818115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-03-09T16:26:59Z",
+        "content": "$BB smart watch coming out soon http://stks.co/a1rMh",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9661060571670532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-03-02T17:06:14Z",
+        "content": "Lumber Liquidators website looks like the cover of a \"... for Dummies\" book lumberliquidators.com/ll/home $LL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977573752403259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-24T14:37:13Z",
+        "content": "$META as the dominant consumer platform of the future medium.com/@anamitra/facebo... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982695579528809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-14T01:18:26Z",
+        "content": "Did this message on $NRF go through? @panda317",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983431100845337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-13T23:13:26Z",
+        "content": "$AAPL car as a minivan actually makes a ton of sense. Make something really practical and lame cool. Sell into young influential market.",
+        "sentiment": {
+            "TextBlob": 0.03,
+            "NLTK": 0.2815,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.960962176322937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-13T21:46:53Z",
+        "content": "After playing around with it, I think $TWTR.P has to buy YikYak.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986993074417114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-12T17:40:49Z",
+        "content": "$STWIT.P test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968756437301636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-12T17:28:14Z",
+        "content": "$LNKD test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937359094619751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-12T16:59:04Z",
+        "content": "$TSLA test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934371113777161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-10T16:37:53Z",
+        "content": "It seems like $YELP is a popular short. I would still worry about a takeout as it starts to approach these levels.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9143606424331665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-06T20:48:02Z",
+        "content": "You can tell all these $TWTR.P features are just getting thrown out the door because of their names: \"Native Video\", \"Group DM\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997914433479309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-04T19:25:25Z",
+        "content": "How long until $MSFT buys Slack?",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994246959686279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-02-02T22:55:17Z",
+        "content": "Text from $SHAK CEO to $RSH CEO:\n\n\"There can only be one...\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962134957313538
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-01-30T15:26:45Z",
+        "content": "This wouldn't be happening if Dave Thomas was still alive. $SHAK",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982343912124634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-01-30T14:31:13Z",
+        "content": "I was going to buy the $SHAK IPO but the line was too long.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995937943458557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-01-28T22:50:52Z",
+        "content": "Downsize Me? $MCD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996840953826904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2015-01-14T15:02:34Z",
+        "content": "$ETSY will be listing in multiple share classes, each one delicately handcrafted by a real person.",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9486616253852844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-12-19T19:38:57Z",
+        "content": "$TWENTY15 Will see the return of $BTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939181804656982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-12-16T22:17:00Z",
+        "content": "Not something you read at the top medium.com/message/the-curi... $AAPL",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997619986534119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-11-12T19:29:45Z",
+        "content": "Just saw that the Italian restaurant on my block ties their pasta prices to the $DJIA sandrosnyc.com/dinner_speci... \n\nKind of weird.",
+        "sentiment": {
+            "TextBlob": 0.033333333333333326,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956615567207336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-11-06T20:07:32Z",
+        "content": "@alphaarchitect Just added your symbol $QVAL!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9781374931335449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-10-21T13:47:38Z",
+        "content": "\"@reformedbroker: POSTER CHILDREN thereformedbroker.com/2014/... $MCD $KO $IBM\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941080808639526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-10-15T17:47:08Z",
+        "content": "This is the part of the correction when everybody trots out their leading tell for the market turnaround, whether it be $GS, $USDJPY, etc.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983598589897156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-10-02T18:41:39Z",
+        "content": "Unfortunately, \"The Electric D\" is nothing new. $TSLA",
+        "sentiment": {
+            "TextBlob": -0.18181818181818182,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997091889381409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-09-29T19:34:48Z",
+        "content": "Exclusive scene from inside the first $WMT board meeting w/ Systrom youtube.com/watch?v=VXNj2Bo...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9455533623695374
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-09-25T14:28:21Z",
+        "content": "$CYBR, a company with \"Cyber\" in its name and symbol is a much more alarming IPO \"top signal\" than $BABA.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.0697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985736608505249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-09-19T12:49:01Z",
+        "content": "\"Does the baby want its $BABA?\" - Wall Street right now. \n\n(Also kind of perfect for a huge IPO)",
+        "sentiment": {
+            "TextBlob": 0.5714285714285714,
+            "NLTK": 0.719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9924829602241516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-09-10T20:56:16Z",
+        "content": "Twitter also announces that once a tweet hits 50 Favs it is converted into one common RT. $TWTR.P",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974724650382996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-09-08T20:43:48Z",
+        "content": "Watch this video of a guy who strapped a GoPro to his brokerage account and then shorted the stock at IPO $GPRO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991067051887512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-08-21T15:55:07Z",
+        "content": "Investing on a HF manager's \"public hedge fund/department store\" with a downside \"real estate play\" was the most 2007 thing ever. $SHLDQ",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9864516258239746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-08-21T14:52:13Z",
+        "content": "Looks like rumors on a big tech company CEO change: twitter.com/danprimack/stat... $YHOO or $TWTR.P?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996971607208252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-07-29T20:31:38Z",
+        "content": "Why do I care what you had for lunch? $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888878464698792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-07-22T17:50:47Z",
+        "content": "This whole $HLF story basically shows that with enough money, you can make people care about the dumbest shit.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959760308265686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-07-15T19:58:18Z",
+        "content": "PSA: Please avoid all Dave Matthews Band song titles/lyrics allusions when constructing your headline/tweet about $YHOO earnings.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983034133911133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-07-10T16:14:56Z",
+        "content": "$CYNK is up on news that it just acquired all available copies of \"Random Walk Down Wall Street\".",
+        "sentiment": {
+            "TextBlob": -0.08518518518518518,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983398914337158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-07-01T16:30:52Z",
+        "content": "At some point, owning shares in $GPRO will be riskier than anything you can film using a GoPro.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983957409858704
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-06-12T12:56:02Z",
+        "content": "I find myself using $YELP more and more over $GOOG for local search. Both web and mobile.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990704655647278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-06-09T14:00:55Z",
+        "content": "$AAPL should announce a reverse split tomorrow just to troll everyone.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995241165161133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-06-02T18:22:22Z",
+        "content": "$AAPL is announcing a connected ecosystem around healthcare data on your phone and we are like, \"Where's the f*cking TV?\"",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975392818450928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-05-30T12:37:17Z",
+        "content": "Noticing many more Candy Crush notifications on Facebook now that $KING is public.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": -0.2212,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895528554916382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-05-20T16:27:17Z",
+        "content": "$BCOIN looks like it's starting to try to make a move.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994692206382751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-05-19T19:24:42Z",
+        "content": "Twitchy in $GOOG's hands for $1B is worth more than Oculus in $META's hands for $2B",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8391021490097046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-05-09T12:32:24Z",
+        "content": "$AAPL is buying Beats to shield its customers' ears from all the nice things people are saying about Android.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9543351531028748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-05-07T14:20:16Z",
+        "content": "After all the crap everyone took for the $META IPO, the $TWTR.P one is looking much worse in hindsight.",
+        "sentiment": {
+            "TextBlob": -0.6000000000000001,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99982088804245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-04-23T20:14:50Z",
+        "content": "Right now, IMO, $META is creating some of the best ads out there.",
+        "sentiment": {
+            "TextBlob": 0.6428571428571428,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993777275085449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-04-23T20:07:51Z",
+        "content": "In a few years you will be able to attend $META's earnings call via Occulus Rift.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7700227499008179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-04-17T18:01:55Z",
+        "content": "The $META Friends Nearby feature is useful and smart. A major benefit of $META is connecting with old friends when they are in town.",
+        "sentiment": {
+            "TextBlob": 0.16919642857142855,
+            "NLTK": 0.93,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997270703315735
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-04-15T20:21:18Z",
+        "content": "It's the Purple Wedding after hours for $YHOO shorts.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8794029355049133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-04-07T20:06:25Z",
+        "content": "It seems to me that Uber and $AMZN could potentially be on a collision course.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985760450363159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-04-01T23:23:40Z",
+        "content": "This $GOOG stock split might be good for Larry and Sergey but it's pretty annoying for StockTwits.",
+        "sentiment": {
+            "TextBlob": 0.04999999999999997,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999622106552124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-03-12T17:59:57Z",
+        "content": "$HLF, the Kim Kardashian of stocks, continues to be famous for no reason.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994596838951111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-26T19:26:52Z",
+        "content": "Utility companies worried about being \"downgraded to simple pipes\" businessinsider.com/mark-zu... $META $VZ $T",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992075562477112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-22T00:07:26Z",
+        "content": "From 1998: $AOL to Buy Internet Chat Service nytimes.com/1998/06/09/busi... $META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970683455467224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-20T22:02:06Z",
+        "content": "$GRPN was more volatile after hours than President Hamilton after a few drinks.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930847883224487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-20T18:49:02Z",
+        "content": "$META is basically one big news app purchase away from buying itself into Marissa's vision for a mobile $YHOO.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979521632194519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-19T22:46:30Z",
+        "content": "WhatsApp acquisition for $META was purely defensive. Only social platform beginning to truly approach their scale.",
+        "sentiment": {
+            "TextBlob": 0.08253968253968254,
+            "NLTK": 0.5095,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994943141937256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-18T21:04:42Z",
+        "content": "$HLF is the Kim Kardashian of stocks. Has no real reason to be as famous as it is, yet people still can't help talking about it.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.5358,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890830516815186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-12T22:18:32Z",
+        "content": "If Chambers sucks so much at instilling investor confidence, I wonder how bad he is with employees. $CSCO",
+        "sentiment": {
+            "TextBlob": -0.2666666666666666,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997784495353699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-11T20:13:11Z",
+        "content": "Sold some $BTC.X going to wait until this mess shakes out.",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.4357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997410178184509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-06T22:00:00Z",
+        "content": "Google autocompleting the $DJIA. Why is [company] so... http://stks.co/i0G2q",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990536570549011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-02-05T22:25:14Z",
+        "content": "The biggest problem with $TWTR.P has been the drain of original founders and early employees over time out of $TWTR.P.",
+        "sentiment": {
+            "TextBlob": 0.2375,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997907280921936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-01-22T23:21:16Z",
+        "content": "Plepler just snapchatted this to $NFLX's Hastings. http://stks.co/strZ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934093952178955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-01-22T21:12:38Z",
+        "content": "Looks like $NFLX is not the \"House of Cards\" Investors Thought it Was! [Throws up in mouth a little]",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996392726898193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-01-22T19:40:25Z",
+        "content": "I must say, anecdotally, that $META has gotten an order of magnitude better at serving up ads.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996166229248047
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-01-22T16:37:06Z",
+        "content": "$MSFT launches once were like $AAPL launches. How far we've come (ht HistoricalPics on Twitter) http://stks.co/j0BwI",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946550130844116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-01-21T21:30:46Z",
+        "content": "Real question: If Watson is being used for investing purposes, should its output be allowed to purchase $IBM stock?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977859258651733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-01-17T23:19:41Z",
+        "content": "More and more it seems that Uber and $AMZN are on a collision course. Both logistics companies moving towards instant order fulfillment.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974708557128906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "zerobeta",
+        "timestamp": "2014-01-17T21:49:59Z",
+        "content": "Went long some $BTC.X on Coinbase again at a hair under $800.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998640239238739
+            }
+        },
+        "image_url": ""
+    }
+]

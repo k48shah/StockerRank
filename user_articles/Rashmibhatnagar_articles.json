@@ -1,0 +1,16 @@
+[
+    {
+        "username": "Rashmibhatnagar",
+        "timestamp": "2022-01-10T14:59:15Z",
+        "content": "Who\u2019s tracking $MARUTI.NSE for a breakout? \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985987544059753
+            }
+        },
+        "image_url": ""
+    }
+]

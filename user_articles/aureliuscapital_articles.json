@@ -1,0 +1,30 @@
+[
+    {
+        "username": "aureliuscapital",
+        "timestamp": "2022-04-08T14:46:24Z",
+        "content": "$MRNA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899905920028687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aureliuscapital",
+        "timestamp": "2022-04-03T22:52:36Z",
+        "content": "$SPY $STUDY  You are the carbon they want to reduce.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811646938323975
+            }
+        },
+        "image_url": ""
+    }
+]

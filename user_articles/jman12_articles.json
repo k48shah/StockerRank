@@ -1,0 +1,3404 @@
+[
+    {
+        "username": "jman12",
+        "timestamp": "2020-04-14T13:17:57Z",
+        "content": "$GBTC Idiots buying gbtc when they could buy qbtc.u lol",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989731311798096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2020-01-22T15:32:48Z",
+        "content": "$TSLA Holy shit my $600 June calls full repump!! Leggggoooooooo I may retire this year baby! Bullish",
+        "sentiment": {
+            "TextBlob": 0.241796875,
+            "NLTK": -0.6679,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999503493309021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2020-01-13T21:32:05Z",
+        "content": "$TSLA Hey bears how does covering at $420 sound now, i remember you guys werent too keen on that not long ago \ud83d\ude02\ud83d\ude02 Oh Snap! We 526 now! $420 in your dreams.. Bullish",
+        "sentiment": {
+            "TextBlob": 0.21953125,
+            "NLTK": -0.4007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942888021469116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2020-01-10T20:20:13Z",
+        "content": "$TSLA Bullseye!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981330037117004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2020-01-10T20:18:59Z",
+        "content": "$TSLA  That worked!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9706177115440369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-12-23T15:02:14Z",
+        "content": "$TSLA Another week of pain for the shorts. We close at $475.\nBeen earning 2 Teslas a week here in the calls! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976710677146912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-12-20T14:14:55Z",
+        "content": "$TSLA Remember everyone laughing at Funding Secured!! Now they will wish they could cover at $420!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.8679,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984040856361389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-12-20T13:38:15Z",
+        "content": "$TSLA Another day of pain for the foolish shorts \ud83d\ude01\ud83d\ude01 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987792372703552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-12-16T17:56:40Z",
+        "content": "$TSLA youtube.com/watch?v=tTelnNm... Goodnight. GGWP bears Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984398484230042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-12-16T16:09:25Z",
+        "content": "$TSLA Bears confused \ud83e\udd23\ud83e\udd23",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985930323600769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-12-16T16:02:29Z",
+        "content": "$TSLA Insanely bullish news, why isnt this at $420 already?? Bullish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996286630630493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-11-22T15:53:45Z",
+        "content": "$TSLA lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902685880661011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-11-11T13:57:42Z",
+        "content": "$TSLA Insha allah. I am rich at open Bullish",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.845951497554779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-08-08T19:59:41Z",
+        "content": "$HEAR  Like I said. Last chance to exit.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986746609210968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-08-08T19:12:36Z",
+        "content": "$HEAR Remember folks, when its trending its ending.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7904700636863708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-06-05T15:01:11Z",
+        "content": "$NIO When youve been holding $tsla wondering how things could be worse, imagine the $nio \"investors\" lmao. Remember that \"neotrades\" idiot",
+        "sentiment": {
+            "TextBlob": -0.20000000000000004,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997647404670715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-04-01T21:55:54Z",
+        "content": "$TSLA Can this pattern please not happen again lol. Let's see a continued break tomorow plz elon. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.069,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990314245223999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-26T19:32:29Z",
+        "content": "$NIO \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891685247421265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-14T19:16:36Z",
+        "content": "$NIO Will cover rest of short mid $5's or so ($10 puts). This cash register just cant stop giving...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975823163986206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-14T15:17:11Z",
+        "content": "@ALLTWIT To be fair i have never met or known anybody to own a $nio so cant say there cars are shit $TSLA on the other hand i own 3. BESTCAR",
+        "sentiment": {
+            "TextBlob": 0.31499999999999995,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951452612876892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-14T15:10:45Z",
+        "content": "$NIO atleast $TSLA builds cars unlike $NIO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973852038383484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-14T15:10:13Z",
+        "content": "$NIO like these guys dont even make their own damn cars....LOL",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999509334564209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-14T15:04:42Z",
+        "content": "@EXPRTTRDR $Nio is trash back to ipo price lol bagholders still support this wtf? Come to $tsla we winning here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99931800365448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-14T13:48:59Z",
+        "content": "$NIO this thing just cant keep up with $TSLA lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995214939117432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-13T14:36:52Z",
+        "content": "$TSLA cant decide whether to add to $NIO short or add to $TSLA long. Hmm Bullish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994939565658569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-12T20:14:46Z",
+        "content": "$NIO this trash draggin down tsla, damn.. Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996084570884705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-11T19:58:28Z",
+        "content": "@neotrades Jeesus u still wasting time here? Well half of my short covered holdings since pre earn hype, profits added to $tsla positn. Thx.",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989240765571594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-06T11:38:12Z",
+        "content": "$NIO  Like I said. Easy money.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9725238084793091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-06T01:08:36Z",
+        "content": "$NIO China rug pull \ud83d\ude02. Buy it at $5 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948144555091858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-03-01T17:38:40Z",
+        "content": "$TSLA Load at 280! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996405839920044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-28T20:56:27Z",
+        "content": "$TSLA LOADDDDDDED on the calls!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991280436515808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-28T20:55:17Z",
+        "content": "$TSLA Just loaded boat on $350 calls. Officially all in......LETS RIDE BOYS!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997423529624939
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-15T15:22:42Z",
+        "content": "$SOLO No one thanked me lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966669678688049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-15T14:39:20Z",
+        "content": "$SOLO great reshort opp Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9600702524185181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T21:35:46Z",
+        "content": "@flone6 I hate NIO but atleast it has a chance with the cash it has.  $SOLO needs to dilute by about 5x to even have a chance with 50m or so",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": 0.3919,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9747284054756165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T21:16:52Z",
+        "content": "$SOLO only one way to go. Im sure the longs know where although too sad and shamed to admit it lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995158851146698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T21:06:27Z",
+        "content": "$SOLO This will see 3's tomorrow and 2's next week. Thank me later.\nAlthough no1 thanked me for tweeting to buy at a buck few weeks bak lol. Bearish",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8172566890716553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T21:01:29Z",
+        "content": "$SOLO see you at $2 next week...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.983824610710144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T20:49:18Z",
+        "content": "$SOLO greedy longs rekt as usual... Bearish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982765913009644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T20:41:57Z",
+        "content": "$Solo yup.. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9665733575820923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T19:59:13Z",
+        "content": "$SOLO jeesus this is gonna get ugly. Bearish",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997217059135437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T19:25:22Z",
+        "content": "$SOLO tick tock till offering news. Bullish long term but shares will settle alot lower first.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981316924095154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T18:51:21Z",
+        "content": "$SOLO a close over $6 seems unlikely but would be super bullish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333334,
+            "NLTK": 0.7469,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982931017875671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T18:42:46Z",
+        "content": "$SOLO Scoop her back up at $4 will be a good buy Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907162189483643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T16:10:13Z",
+        "content": "$SOLO Raving about this since a buck no one listens. Now goes 5 bucks and everyone loves it lol. Took half profit this am Bullish",
+        "sentiment": {
+            "TextBlob": 0.3166666666666667,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887930750846863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-14T15:00:49Z",
+        "content": "$SOLO Well that was fun!",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.69,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999760091304779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-13T19:05:46Z",
+        "content": "$SOLO Grabbed the warrants at $0.46 ill take a lil risk here! Bullish",
+        "sentiment": {
+            "TextBlob": -0.625,
+            "NLTK": -0.636,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992071986198425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-12T16:18:58Z",
+        "content": "$TSLA surprisingly weak.",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999790608882904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-11T15:14:30Z",
+        "content": "@A_A_Ron_ Same. All in here for next several months $TSLA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989928603172302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-11T13:38:42Z",
+        "content": "@BornKing lmfao $RGSE Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939457774162292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-08T14:10:44Z",
+        "content": "$TSLA All in $350 calls . Sept baby Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982438087463379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-08T13:58:17Z",
+        "content": "$TSLA Unreal news. This is gone! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997803568840027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-02-05T19:47:40Z",
+        "content": "$TSLA She takes a breather here imo boys, reload $313. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975295662879944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-31T04:14:21Z",
+        "content": "$TSLA lmao what an opportunity. Slam the open she goin up. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800423979759216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-30T23:45:55Z",
+        "content": "$TSLA Great call until Deepak departure. However replacement is fully gay so downside should be very limited #Yearofthequeer Bullish",
+        "sentiment": {
+            "TextBlob": 0.3746031746031746,
+            "NLTK": -0.01,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993843674659729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-30T20:58:58Z",
+        "content": "$TSLA UP HUGE NOT SELLING LETS GO!!! $5.70 avg",
+        "sentiment": {
+            "TextBlob": 0.7812500000000001,
+            "NLTK": 0.6006,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971357583999634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-30T20:08:35Z",
+        "content": "$SPY $QQQ $AMZN $NFLX $MSFT $TSLA Welcome to the new leg of a FRESH 20 yr bull market. Load the best and forget about em. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5590909090909091,
+            "NLTK": 0.8531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9435687065124512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-30T19:56:50Z",
+        "content": "$TSLA Bears vaporized \ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990965127944946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-30T19:36:28Z",
+        "content": "$TSLA Ok I just MAD fomod into 50 contracts 325 weekly calls baby lessssss go! 350 tomorrow! Bullish",
+        "sentiment": {
+            "TextBlob": -0.23828125,
+            "NLTK": -0.5134,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983194470405579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-25T21:20:40Z",
+        "content": "@Tykon @Jethro_5555 @EazyEarlII @neotrades If you actually believe that $nio can go to $380 I dont think you can actually be helped.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971426129341125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-25T21:18:20Z",
+        "content": "@Tykon @Jethro_5555 @EazyEarlII @neotrades jeesus, your the guy that said buying $nio is like buying $tsla at $7 ($6.50 now lol).Cant help u",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970523118972778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-25T19:04:46Z",
+        "content": "@neotrades @Tykon @EazyEarlII put it this way. You arent going to see a triple digit $nio ever. Likely never double digit even again...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9784841537475586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-25T19:02:29Z",
+        "content": "@Tykon @neotrades @EazyEarlII I think even the $nio bulls are aware that nio isnt able to run like tsla ever, due to the share structure..",
+        "sentiment": {
+            "TextBlob": 0.20833333333333334,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961932897567749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-25T18:27:18Z",
+        "content": "$TSLA Lol shorts literally retarded... Giddy up to 420! Thx for the cheapies in low 280s! Bullish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666665,
+            "NLTK": 0.4912,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992020726203918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-24T20:48:27Z",
+        "content": "$TSLA Smell of roasted shorts....so sweet Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9178615212440491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-24T19:10:15Z",
+        "content": "$TSLA Welll. That was easy! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979861974716187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-24T16:11:42Z",
+        "content": "$TSLA Shorts sweating. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994837045669556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-24T16:11:07Z",
+        "content": "$TSLA Thats all you got bears? Jeez I was hoping for atleast 275 today. Thanks again for the cheap shares. Bullish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891452789306641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-24T14:17:57Z",
+        "content": "@MainSt They have never not been burned. $TSLA was heavily shorted since ipo at $17 Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954512715339661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-24T13:57:54Z",
+        "content": "@Stockdude525 @2hikeJarome @ay8888 poor $TSLA  bears just blindly follow analysts. Sheeple. Bullish",
+        "sentiment": {
+            "TextBlob": -0.45,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990448355674744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-23T13:51:58Z",
+        "content": "$NIO $KNDI Dont get suckered in for the china scams folks Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3226,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987090528011322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-22T13:11:59Z",
+        "content": "@SuperiorCosmos @Figgy1million $Nio not even listed on Chinese car brands wikipedia. Are you sure it exists?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949776530265808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-18T20:27:43Z",
+        "content": "$TSLA Load up half here and another half if it gets to 260s. Ignore the bears and sell over 500 in 6 months. Or add other half over $320 Bullish",
+        "sentiment": {
+            "TextBlob": -0.15625,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997221827507019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-16T14:56:48Z",
+        "content": "$TSLA Loaded my face off in calls Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995916485786438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-16T14:56:37Z",
+        "content": "$TSLA Looking super strong what a beast! Bullish",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.8172,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6621726751327515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-14T19:55:11Z",
+        "content": "$STZ Anyone know why nothing in filings for ceos 1.1m buy from 2 weeks ago?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999188244342804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-14T17:58:59Z",
+        "content": "$ATVI $47.50 line in the sand.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996618390083313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-14T17:41:58Z",
+        "content": "@TCBinaFlash Maybe you should consider a calculator. Its about $340k actually. 1000 X $TSLA @ $340 = $340,000. Stop embarrassing urself lol.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990948438644409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-14T16:11:42Z",
+        "content": "$QQQ $spy we all know its going to new highs 2019. Question is only when to add. Bullish",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968221187591553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-14T14:36:43Z",
+        "content": "@TCBinaFlash @uknowwho $KNDi down from the 20s 3 years ago. TSLA up from 20s lol",
+        "sentiment": {
+            "TextBlob": 0.32222222222222224,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965835809707642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-14T13:12:43Z",
+        "content": "@uknowwho double? Sounds more like a 5x lol stock is 5 bucks. Buy something with real value like $tsla not Chinese scam like $NIO $KNDI",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.9417,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996926486492157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-14T13:09:49Z",
+        "content": "@uknowwho wow what a misleading stat. Would imply $kndi a leader lol",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984650611877441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-13T22:23:39Z",
+        "content": "@hashtagg slow and ugly compared to $TSLA",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99978107213974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-11T19:51:57Z",
+        "content": "$TLRY Praying she dips to fill me at 93...Fingers crossed! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980984330177307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-10T17:34:27Z",
+        "content": "$CGC Not gonna get greedy. Selling a 40k 4 day gain in $30 calls. From $2.55 to $8.70. Still holding shares. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7623,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959878325462341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-10T14:23:01Z",
+        "content": "$NIO Will these cars ever be sold in western countries?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975908994674683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-09T18:48:42Z",
+        "content": "$CGC Get ready to rescoop the dip to $32! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994807839393616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-07T21:10:58Z",
+        "content": "$IQ Sometimes \"I told you so\" just isnt enough... \"it's the next netflix\" \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987937211990356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-07T21:00:28Z",
+        "content": "$CGC Would be a generational buy in low 20s. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986618757247925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2019-01-07T19:42:00Z",
+        "content": "@Tradezx $nio up 1% $tsla up 5% . Its not Tesla structure that makes it better. Its much more than that. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9629642367362976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-12-31T20:57:27Z",
+        "content": "$TSLA Nice little short squeeze into the close! Bullish",
+        "sentiment": {
+            "TextBlob": 0.13749999999999998,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.877519965171814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-12-27T17:28:26Z",
+        "content": "@Tradezx a year old and this $nio car still not available lol. $nio desperate posting year old articles to pump",
+        "sentiment": {
+            "TextBlob": 0.04000000000000002,
+            "NLTK": -0.5621,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996621608734131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-12-12T21:28:53Z",
+        "content": "$BTC.X Caught that sucker on the low to the penny! Lets go!! Bullish",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.7488,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978458881378174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-12-12T17:07:08Z",
+        "content": "$TSLA Lol bears shorting the best performing stock at the market bottom. well done. Bullish",
+        "sentiment": {
+            "TextBlob": 0.9,
+            "NLTK": 0.8442,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9571067690849304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-12-10T21:22:58Z",
+        "content": "@WillRobinson @Tanthallas Great day for shorts! \ud83d\ude02\ud83d\ude02 $TSLA Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9185535907745361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-12-07T21:16:41Z",
+        "content": "$TSLA Bears \"winning\" with TSLA 25 bucks off ATH, meanwhile market tanking huge. Bears couldn't of picked a worse stock to short.. Bullish",
+        "sentiment": {
+            "TextBlob": 0.12500000000000003,
+            "NLTK": 0.5932,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986723005771637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-17T15:38:16Z",
+        "content": "@wildcards @davidos Yeah. Its widely known hydrogen/fuel cell cars are a scam. Just take a look at $PLUG lol",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991298317909241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T20:51:20Z",
+        "content": "$PYX this is a sub $5 stock. Enjoy bagholders. I aint selling these $20 puts for a penny under $15 a piece Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994397759437561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T14:56:56Z",
+        "content": "$TSLA Amazing choice to pick a female chair. 2018/#metoo would never let it be red the day that's announced or WS would be shamed sexist Bullish",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.990484356880188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T14:03:30Z",
+        "content": "$TSLA #metoo buy Algos will be all over this. 2018 the year of the female Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976968169212341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T14:02:46Z",
+        "content": "$TSLA #metoo movement takes this to new highs, wall st cant let it drop on a day a female takes the chair would be sexist in 2018 Bullish",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.742453932762146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T13:47:32Z",
+        "content": "@tripplett Its 2018. obv female is good, wall st cant let this drop would be sexist ever heard of #metoo $TSLA moon time Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.1343,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9702746272087097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T13:25:44Z",
+        "content": "@BagH0ld3r \ud83d\ude02\ud83d\ude02\ud83d\ude02 $pyx gotta love em easy puts Bearish",
+        "sentiment": {
+            "TextBlob": 0.4666666666666667,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9750961661338806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T13:21:20Z",
+        "content": "$TSLA Women has to be bullish or wall st is sexist. #metoo its 2018 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965165853500366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-08T13:17:27Z",
+        "content": "$PYX $25 Puts pumping!! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898075461387634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-07T20:41:34Z",
+        "content": "$TSLA let her breath guys, rebuy 300-320 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972932934761047
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-07T14:51:40Z",
+        "content": "$HEAR $20 puts pumping!! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886559247970581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-06T21:23:43Z",
+        "content": "$HEAR Goodnight sally! Lets rock em $20 puts! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.953029990196228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-06T18:24:21Z",
+        "content": "$TSLA Over $400 end of year. But probably pull back at this point, seems to be alot of new bulls Bullish",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995781421661377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-11-06T17:33:24Z",
+        "content": "$NIO Investors taking profit here and putting into profitable $TSLA are wise.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9956855773925781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-28T23:41:56Z",
+        "content": "$RHT Any idea what the $130 calls worth tomorrow for next week? Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995560050010681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-24T21:35:27Z",
+        "content": "$TSLA Doesnt get easier than this bulls. Lol. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.12,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976258873939514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-23T14:45:17Z",
+        "content": "$HEAR Consoles are a dying market...PC is the esports play Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984366297721863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-23T14:44:17Z",
+        "content": "$HEAR $14 will probably be a good area to reload, shift to PC will be difficult Bearish",
+        "sentiment": {
+            "TextBlob": 0.09999999999999998,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988730549812317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-22T20:21:58Z",
+        "content": "$LOGI will be very good imo. Bad for $HEAR Bullish",
+        "sentiment": {
+            "TextBlob": 0.10500000000000004,
+            "NLTK": -0.1458,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9584174156188965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-22T10:21:11Z",
+        "content": "@OSTKBlockchainETF @erom @JohnStCap In other words they own a trivial amount. $OSTK Bearish",
+        "sentiment": {
+            "TextBlob": 0.2375,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969797134399414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-19T17:25:17Z",
+        "content": "$HEAR Tech soaring whats happening here? More insider selling again?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949125051498413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-11T14:24:59Z",
+        "content": "$HEAR got a great exit over $20 this AM. Will re enter below $15. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985764026641846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-10-11T13:23:30Z",
+        "content": "$HEAR Nice news today. Solid buy under $15 Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.977451503276825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-09-20T13:19:56Z",
+        "content": "$TSLA weeeeeeeeeeee Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963153004646301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-09-19T20:56:30Z",
+        "content": "$TLRY God the amateurs here lol. Ill hang onto my shares. Will add if 120 comes. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980593323707581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-09-19T20:52:46Z",
+        "content": "$TLRY A steal under $200 wont last folks! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978938698768616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-09-19T19:53:33Z",
+        "content": "$TLRY Bears celebrating \"only\" a 40% up day. Keep holding strong bulls. Added heavy on this \"dip\" Bullish",
+        "sentiment": {
+            "TextBlob": 0.07777777777777777,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8979002833366394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-09-19T19:44:17Z",
+        "content": "$TLRY WHat a steal! Just reloaded $150 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995896220207214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-09-13T17:00:45Z",
+        "content": "$NIO And people think $tsla is overvalued.....lmao",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988263249397278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-09-07T21:18:59Z",
+        "content": "$TSLA Bulls know he didnt even inhale. Bounce incoming. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981623291969299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-20T20:03:48Z",
+        "content": "Well that was easy :) Thanks for the cheapies! $TSLA Bullish",
+        "sentiment": {
+            "TextBlob": 0.39444444444444443,
+            "NLTK": 0.8805,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9719521403312683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-20T14:05:36Z",
+        "content": "Well that was easy. $TSLA Bullish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899910688400269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-17T18:49:03Z",
+        "content": "$TSLA Capitulation gap down Monday Ill be buying. Bullish",
+        "sentiment": {
+            "TextBlob": -0.3277777777777778,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994252920150757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-17T15:04:02Z",
+        "content": "$TSLA Anyone have a link to this interview? Like the video of it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932123422622681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-16T14:25:04Z",
+        "content": "$OSTK back in this junk for 500 shares, $30.70 filled Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997196793556213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-14T13:40:45Z",
+        "content": "$IQ A fool and his money are soon parted. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961936473846436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-07T18:30:40Z",
+        "content": "$TSLA Poor Leap buyers... $420 and up calls evaporated out to 2020. I had a few but also had shit load of 390s and alot of shares so we good Bullish",
+        "sentiment": {
+            "TextBlob": -0.025000000000000022,
+            "NLTK": 0.0303,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990414977073669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-07T17:39:25Z",
+        "content": "$TSLA My $390 calls just made me $300k, thanks elon. Truly the gift that keeps on givin. <3 <3 Bullish",
+        "sentiment": {
+            "TextBlob": 0.7333333333333334,
+            "NLTK": 0.926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990849494934082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-07T17:34:44Z",
+        "content": "$TSLA Shorts are pro lawyers now? lmao Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998982846736908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-07T16:41:46Z",
+        "content": "$TSLA WE GOT THE ARAB MONEYYYYY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969407320022583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-03T18:47:26Z",
+        "content": "@oneTipster @RaTrade Trapped bulls in $TSLA ? lol I think you mean shorts Bullish",
+        "sentiment": {
+            "TextBlob": 0.09583333333333337,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978780746459961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T22:16:41Z",
+        "content": "@mysteryoftime AND custom rims! Made specifically for $TSLA (light weight and shot, and fkn expensive!) Bullish",
+        "sentiment": {
+            "TextBlob": -0.11249999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975679516792297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T22:13:53Z",
+        "content": "$TSLA Another BANGER for the shorts! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893934726715088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T22:11:12Z",
+        "content": "$TSLA TWIST and SHOUTTTTT CMON BABY NOW!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996806263923645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T22:10:28Z",
+        "content": "$TSLA This ones for the bears. Gotta love dem short shorts! Damn this song never sounded so good! Bullish",
+        "sentiment": {
+            "TextBlob": 0.4583333333333333,
+            "NLTK": 0.7799,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98725825548172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T22:08:28Z",
+        "content": "$TSLA Beautiful. If this is up another $20 tommorow I'll put the deposit on the new roadster AND not sell a single share for it. Bullish",
+        "sentiment": {
+            "TextBlob": 0.30497835497835496,
+            "NLTK": 0.461,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967057108879089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T21:35:45Z",
+        "content": "$TSLA This is what the bulls buy. Thanks for the cash shorties! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974048733711243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T21:18:23Z",
+        "content": "$IQ A fool and his money are soon parted. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961936473846436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T21:01:26Z",
+        "content": "$TSLA Shocked this closed under $350. Screaming buy at these levels, wont last. Bullish",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779947400093079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T20:01:39Z",
+        "content": "No joke lmao this was me, accidental fill. I now own 20% of company \n$HMNY",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984588623046875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T19:58:37Z",
+        "content": "$HMNY Im the new 25% owner. Cost me 10k, no joke. Bid i forgot about just got filled for 100k shares at $0.10",
+        "sentiment": {
+            "TextBlob": 0.2681818181818182,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989123344421387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T19:57:06Z",
+        "content": "$HMNY All hail me. Just bought 100k shares at 0.10 for shits, I own 25% of the float.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99724942445755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T19:28:07Z",
+        "content": "$TSLA Shorts think Tesla lost alot this quarter? Not as much as the shorts lost today alone! lol 750m vs 1b+ Bullish",
+        "sentiment": {
+            "TextBlob": 0.525,
+            "NLTK": -0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996623992919922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T14:02:53Z",
+        "content": "$TSLA Easiest call of my life. Too many dumb shorts. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997605681419373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T12:47:21Z",
+        "content": "$IQ A fool and his money are soon parted. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961936473846436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-02T02:22:53Z",
+        "content": "$TSLA For those who missed the earnings call. Here is a 30 second recap streamable.com/byb4a Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983395338058472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-01T23:23:28Z",
+        "content": "$gm and $f dying trash :D Bearish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990504384040833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-01T23:22:50Z",
+        "content": "$TSLA Back to most valuable american automaker! Where it belongs! Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6094,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962557554244995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-01T22:41:05Z",
+        "content": "$TSLA All praise musk! He just paid for my roadster deposit!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6973,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.968715488910675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-08-01T22:22:54Z",
+        "content": "$TSLA 20% short boys hang on!!!! Plenty more upside to come",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9818945527076721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-07-31T22:14:23Z",
+        "content": "$TSLA Leaked earnings!!  streamable.com/byb4a Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4374,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994331002235413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-07-31T20:39:20Z",
+        "content": "$AAPL Congrats Longs!!! Lets goooo BABY big profits tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.8007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922021627426147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-07-17T14:45:32Z",
+        "content": "No thankyou? :( $NFLX",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971702694892883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-07-17T00:27:05Z",
+        "content": "@cotrader @florindoc In BC you only get the tax credit if car is under 80k. My $TSLA was $230k so no rebate. Even most model 3 over 80k... Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.0686,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997908353805542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-06-08T13:15:13Z",
+        "content": "$CRON Dumbass Americans. All the good pot stocks trade on the TSX. Don't waste your time with this trash. Bullish",
+        "sentiment": {
+            "TextBlob": 0.24999999999999997,
+            "NLTK": 0.1611,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986144304275513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-04-11T12:07:21Z",
+        "content": "$SPX $SPY $NASDAQ $BTC.X $DJIA @AlejandroMasari",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930999279022217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-03-15T20:39:01Z",
+        "content": "$OSTK Bulls, don't say I didn't warn ya Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0565,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917902946472168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-03-15T16:19:34Z",
+        "content": "$OSTK Watch one of the most textbook head and shoulder breakdown I've ever seen play out live in a few hours. Perfect storm here",
+        "sentiment": {
+            "TextBlob": 0.35909090909090907,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881477952003479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-03-15T16:15:59Z",
+        "content": "$OSTK $28 in a week or so or right after earnings. That will be a good buy point. Squeeze the longs out and ride her up! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5803571428571428,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8701618909835815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-03-14T14:10:08Z",
+        "content": "$OSTK If they had a buyout offer they would have announced that, not an earnings date. This was an easy sell when they announced earnings.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970219731330872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-03-08T21:35:41Z",
+        "content": "$CLF Sell the news. EASY trade.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944297671318054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-03-05T17:34:06Z",
+        "content": "$OSTK $SQ Soaring! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988477230072021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-03-05T17:33:27Z",
+        "content": "@adallica @jwsf1 Yeah I sure feel like a sucker holding $nflx lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986302852630615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-02-27T20:18:12Z",
+        "content": "$ICPT Shkreli says this will go bankrupt. He was sure right on his other picks I gotta say. Bearish",
+        "sentiment": {
+            "TextBlob": 0.22023809523809523,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982820749282837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-02-27T16:12:11Z",
+        "content": "$OSTK Great buy in the mid 50's Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877047538757324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-25T17:52:47Z",
+        "content": "$TSLA Pick her up at 1pm boys. Never would i have imagined I could buy my dream car with cash in my 20's. Thanks trump. Thanks $GBTC #P100D Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9927858114242554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-24T18:42:41Z",
+        "content": "$TSLA Im dropping $200k in cash on a P100D I pickup tommorow. Been waiting years for this moment. Pics to come. Thanks $GBTC Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9839694499969482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-22T16:11:12Z",
+        "content": "$OSTK I have an irresponsibly large position here Bullish",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994893074035645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-11T15:37:45Z",
+        "content": "$ATVI Was a sweet show last night! Bullish",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9481002688407898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-09T20:54:27Z",
+        "content": "$OSTK No need to panic. Very crowded trade. Let the weak hands sell and scoop up more around 76. Bullish",
+        "sentiment": {
+            "TextBlob": 0.10833333333333334,
+            "NLTK": -0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970819354057312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-09T20:48:32Z",
+        "content": "$OSTK $76 looking like good support good buy area Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.875,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987337589263916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-09T20:35:54Z",
+        "content": "$OSTK  Reloaded $81.55 fill. Was just what i was looking for.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974944591522217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-08T20:55:44Z",
+        "content": "$OSTK sold 25% at $88.10 from $28. Trade of the year last year for me (closing this year) Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983649849891663
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-08T20:54:38Z",
+        "content": "$OSTK How the fk does this have so many shorts?? Retail kicking their ass lol what do they see that we dont. Bullish",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": -0.264,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990309476852417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-05T18:20:52Z",
+        "content": "$OSTK Easiest trade of my life. Long very heavy. Trade of the year. In since 28 Bullish",
+        "sentiment": {
+            "TextBlob": -0.155,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981012940406799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2018-01-02T16:52:09Z",
+        "content": "$QIWI time to buy! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991625547409058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-12-21T18:28:31Z",
+        "content": "$OSTK Holding long. Waiting to buy a flush into low 60s Bullish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990087747573853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-12-19T21:24:44Z",
+        "content": "$OSTK Folks scrambling to lock in gains A/h",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952979683876038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-12-19T19:56:11Z",
+        "content": "$OSTK setup to 80s trapped longs. I bet big drop tommorow very deep on selling the big news. Couple further days down. Then we go over $100. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05925925925925927,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990413784980774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-12-01T21:01:51Z",
+        "content": "$OSTK Bought 1300 shares 42.25. Maybe a bit early but expect bottom 40-42 Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992055296897888
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-12-01T20:17:31Z",
+        "content": "@edevlin77 declining sales during the biggest online shopping boom in history. Please the underlying $OSTK business is worth pennies",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964355230331421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-12-01T17:55:04Z",
+        "content": "$OSTK Suspect this bottoms at $40-42. Still holding pos. Will double down at $40-42. Gl to all. Bullish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978688955307007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-30T20:08:48Z",
+        "content": "$OSTK lol at the early dip buyers. Cmon guys let her test 40 already",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990824460983276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-30T16:51:37Z",
+        "content": "$OSTK 42 pretty stong level",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926113486289978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-30T16:06:05Z",
+        "content": "$OSTK about to get ugly",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994415640830994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-30T15:36:53Z",
+        "content": "$OSTK Come back down to papa at $40! Bullish",
+        "sentiment": {
+            "TextBlob": -0.09722222222222224,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981437921524048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-17T04:45:12Z",
+        "content": "$TSLA Just reserved two semis!!!= Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999180018901825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-14T21:07:07Z",
+        "content": "$OPK Hey bulls it must be bottom your beloved master Frost is buying! Keep buying \ud83d\ude02\ud83d\ude02\ud83d\ude02lmao. Bearish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947985410690308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-10T17:27:41Z",
+        "content": "$OSTK Long but kinda upset on ICO delay till 30th. Will be patient. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.7105,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969749450683594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-09T16:40:51Z",
+        "content": "$OPK keep buying boys remember frost keeps buying he must know something! Lmao stay short Bearish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.636,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957923889160156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-08T22:11:39Z",
+        "content": "$OSTK Pat is hilarious. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991984963417053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-11-08T21:19:24Z",
+        "content": "$OSTK jeesus the actual business is worth pennies on the dollar. Thankgod for tzero! Bullish",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.2942,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.954681396484375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-10-25T19:25:52Z",
+        "content": "$TSLA expecting tight range/pinned till earnings Bullish",
+        "sentiment": {
+            "TextBlob": -0.17857142857142858,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982507824897766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-10-05T21:34:25Z",
+        "content": "$SPY $QQQ hope everyones loaded. First leg of a fresh 20 year bull just started Bullish",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949729442596436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-28T15:36:45Z",
+        "content": "$TSLA yeah bottom in lol. Free money BTD's here Bullish",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.8074,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996259212493896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-25T13:16:58Z",
+        "content": "$BLDP $TSLA $GOOGL $PLUG $FCEL LOL",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975767731666565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-21T15:20:06Z",
+        "content": "$OPK Ezzzz Money folks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949841499328613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-21T15:19:26Z",
+        "content": "$OPK easy money folks",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982079029083252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-20T16:17:20Z",
+        "content": "$BA $260 in sight. Lets go bulls!! One of my best stocks 2017! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985585808753967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-19T14:30:03Z",
+        "content": "@rezo13 @4leafclover yet very effective. Like crack for retail to continue holding $OPK bag",
+        "sentiment": {
+            "TextBlob": 0.78,
+            "NLTK": 0.7328,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999126136302948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-19T13:42:18Z",
+        "content": "$TSLA Nice pullback. Thanks for thr cheap shares! Bullish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.8016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.949959933757782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-18T19:24:38Z",
+        "content": "$TSLA CNBC talking rocket companies! RIP shorts. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977769255638123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-18T18:18:52Z",
+        "content": "Still own a boat load of shares purchased with those profits. Also always in and out of some calls. $tsla changed my life Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940396547317505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-18T18:17:54Z",
+        "content": "$TSLA Owned 50 of these calls at a $0.90 avg. Sold half at $6.00 and rest at $18.00. Still kicking myself... But was my best trade 2017.",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9441144466400146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-18T18:16:26Z",
+        "content": "$TSLA Holding all shares, loaded the boat on calls. I see $400 quick! Bullish",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99869304895401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-18T14:34:03Z",
+        "content": "$TSLA NEW ALL TIME HIGH BABY LETS GO 400 NEXT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0987878787878788,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980679988861084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-18T14:23:38Z",
+        "content": "$TSLA shorts decimated!! \ud83d\ude02\ud83d\ude02\ud83d\ude02 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999349057674408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-18T05:50:52Z",
+        "content": "$TSLA cnbc.com/2017/09/17/abb-cha... Shorts dead tomorrow!!! Bullish",
+        "sentiment": {
+            "TextBlob": -0.390625,
+            "NLTK": -0.7332,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993151426315308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-17T19:46:29Z",
+        "content": "$AAPL Just finished watching Forest Gump and i cant find Mr. Gump or The Bubba Gump Shrimp company anywhere on the 13D. What am i missing?? Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.3736,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994377493858337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-15T22:38:23Z",
+        "content": "$TSLA best thing about this is the squeeze has actually not even begun yet. Should add atleast $50 once we are over $400. $450 calls anyone? Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992963075637817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-15T18:31:07Z",
+        "content": "$TSLA LETS GO BABY CALLS YOLKING OUT HUGE! GOD I LOVE FRIDAYS!!! WE EATIN GOOD TONIGHT BULLS! Bullish",
+        "sentiment": {
+            "TextBlob": 0.7838541666666666,
+            "NLTK": 0.9485,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9923214316368103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-15T18:18:23Z",
+        "content": "$OPK just 5k shares this time. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980839490890503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-15T18:16:46Z",
+        "content": "$OPK alright ill bite. Bought this hunk of shit at 6.00. Last time i touched it i slayed it from $9.50-$18. In for a short bounce this time.",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958542585372925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-15T15:57:01Z",
+        "content": "$BA $250 on deck legooooo Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947463870048523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-15T03:54:15Z",
+        "content": "$SPY $GLD $TLT $UVXY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998237133026123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-14T22:49:33Z",
+        "content": "$TSLA hahaha shortys silenced as fk here. Knew the bulls held strong here. Cya at 400!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.4385416666666666,
+            "NLTK": 0.8168,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934914708137512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-11T22:14:05Z",
+        "content": "$TSLA youtube.com/watch?v=4MKASGd... we going much higher folks! Hang on to them shares and calls!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.48828125,
+            "NLTK": 0.4724,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947145581245422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-11T15:53:50Z",
+        "content": "$AVXS all in because of pharmabro \ud83e\udd23\ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959942102432251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-01T14:32:36Z",
+        "content": "$QQQ $spy $tsla $amzn $nflx $aapl lettttsss goooo Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980632662773132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-09-01T04:31:20Z",
+        "content": "$TSLA instagram.com/p/BYckipugds5/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981088638305664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-25T18:49:55Z",
+        "content": "$TSLA wake me up at $400 long and strong Bullish",
+        "sentiment": {
+            "TextBlob": 0.19166666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9511541724205017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-24T21:46:52Z",
+        "content": "$AMZN yeah if your like me and havent added to your amzn position on this dip yet your greedy as fk. Just like me lol. Will add soon. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5911152958869934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-23T16:22:35Z",
+        "content": "$TSLA my 350 calls are back in play! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998296320438385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-21T14:53:12Z",
+        "content": "$TSLA Bought the dip lets goooo! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967501163482666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-18T15:52:47Z",
+        "content": "$TSLA short puts, loaded calls, long shares Bullish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995656609535217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-18T14:29:06Z",
+        "content": "$TSLA Competition heating up. youtube.com/watch?v=AsTxS6t...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994078516960144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-15T17:48:58Z",
+        "content": "$TSLA Just bought a floor model P100D adding 155k to tsla bottom line. All i can say is buy this stock. Going much higher. Pictures to come. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963915944099426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-11T17:27:19Z",
+        "content": "$PGEN im back boys! Reloaded this am at $18.14. Delighted to already see it higher. Lets go bulls! Bullish",
+        "sentiment": {
+            "TextBlob": 0.33749999999999997,
+            "NLTK": 0.5972,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861823320388794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-09T23:00:01Z",
+        "content": "$TSLA Best ever...",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993641972541809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-09T14:18:18Z",
+        "content": "@Joejo calls added yesterday up 450% in $tsla Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846877455711365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-09T00:20:52Z",
+        "content": "$COF Continue to hold this long Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965086579322815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-08T19:51:13Z",
+        "content": "$TSLA idiot",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999795138835907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-08T19:26:55Z",
+        "content": "@Joejo optimism? There is not a stock with more money betting against it than with $TSLA lmao Bullish",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987332224845886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-08T14:48:19Z",
+        "content": "$TSLA shorts so triggered they raised debt and not sold equity \ud83e\udd23\ud83e\udd23\ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906272888183594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-08T14:29:35Z",
+        "content": "$TSLA adding to calls, holding shares Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987829327583313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-08T13:04:47Z",
+        "content": "$TSLA @AlejandroMasari",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9628913402557373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jman12",
+        "timestamp": "2017-08-08T13:02:18Z",
+        "content": "$TSLA Bears b like youtube.com/watch?v=K8E_zML...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950778484344482
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,3782 @@
+[
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-19T07:50:33Z",
+        "content": "$MOS bully here for a bit... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992656111717224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-19T04:45:50Z",
+        "content": "$QQQ \ud83e\udde0\n\nhttps://twitter.com/mr_derivatives/status/1670630544659578880?s=46&t=4oN4mq2k4zsYQGN7yX_N1A",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888159036636353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-18T09:09:55Z",
+        "content": "$SOFI curious if anybody here has looked closely at their student loan portfolio and how it might respond to the upcoming changes?",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980210065841675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-18T02:14:54Z",
+        "content": "$SPY would line up seasonally. \n\n\u2026Strong possibility a bunch of crypto faithful will be forced to liquidate their coins to facilitate. $BTC.X\ntwitter.com/zerohedge/statu...",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998389482498169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-02T09:23:12Z",
+        "content": "$DG hard times \n\ntwitter.com/wallstreetsilv/...",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978129863739014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-01T07:19:40Z",
+        "content": "$SCHD the 'D' stands for 'Distribution'",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985890984535217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-01T06:38:58Z",
+        "content": "$DDOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956186413764954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-01T06:33:20Z",
+        "content": "$SOFI 8.5 top of the box",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6607252955436707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-01T05:47:27Z",
+        "content": "$QQQ macro stinky but the monthly chart showing clean breakout.",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992645263671875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-06-01T05:37:58Z",
+        "content": "$MOS bounce territory",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9789867997169495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-30T17:53:57Z",
+        "content": "$SOFI smack into that level. \n\nBulls have a chance here. \nAnd with the amount of resistance, there\u2019s definitely squeeze potential.. \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9977328777313232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-30T16:22:50Z",
+        "content": "$MOS approaching a big level into ex-divy",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935551285743713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-28T21:03:25Z",
+        "content": "$XLV seen this pattern a lot over the last couple of years. Sure suggests distribution.  \n \nThe consolidation pre-covid has some similarities, so maybe... \ncc: @crysis00",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9139674305915833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-28T05:16:02Z",
+        "content": "$SPY \n\ud83d\ude05\ud83d\udc80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806523323059082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T17:58:03Z",
+        "content": "Sometimes valuations matter\nCurrent $NVDA p/s is 36+\n\ntwitter.com/macroalf/status...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875460267066956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T08:26:00Z",
+        "content": "$PLTR big move",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9034976363182068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T07:20:27Z",
+        "content": "$VEEV sick",
+        "sentiment": {
+            "TextBlob": -0.7142857142857143,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958720803260803
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T07:05:25Z",
+        "content": "$TLT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779120683670044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T06:41:05Z",
+        "content": "$APPS updated",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9926816821098328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T06:26:43Z",
+        "content": "$HYG the wall of worry has me worried",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946461319923401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T06:14:15Z",
+        "content": "Took my $IOVA this one... \nSure looks nice.",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995633959770203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T06:09:28Z",
+        "content": "$SOFI 6ish is the upside pivot for now.  \nYear long box..... when she goes, it'll be pronounced",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9542916417121887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T06:01:56Z",
+        "content": "$SNOW global warming",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8122273087501526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T05:50:39Z",
+        "content": "Mkt says z job or bust $XBI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979592561721802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T05:34:40Z",
+        "content": "$ABBV update",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9790264368057251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T05:29:24Z",
+        "content": "D...... $AMZN !  \nHaven't looked here in weeks. \ninteresting spot.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7368038296699524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T05:25:38Z",
+        "content": "$SCHW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993945300579071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-27T05:22:49Z",
+        "content": "Old school $APPS  \nplenty more downside available \nand clearly out of favor.",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.4779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993502497673035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-25T20:05:02Z",
+        "content": "$APPS starter \ud83e\udd1e\ud83c\udffd\n\nProlly silly but whatyagonnado?",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0129,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958640336990356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-16T19:39:21Z",
+        "content": "$HOOD \nBounce/floodgate ~ 7.7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801811575889587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-16T17:48:31Z",
+        "content": "$UEC brutal",
+        "sentiment": {
+            "TextBlob": -0.875,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997063934803009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-16T05:12:10Z",
+        "content": "$SPX NQ had a similar post.... \n \ntechnically looking prime",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.926633358001709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-16T05:10:41Z",
+        "content": "$SPY $QQQ \nObvious battleground. \nExplosive move inbound.\n\nKeep in mind, the market has a \u2018forever\u2019 bid.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957932233810425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-14T04:57:54Z",
+        "content": "$CPRT one of the stronger charts I've seen recently",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994115948677063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T10:36:47Z",
+        "content": "$SQ 20\u2019s\nProbably teens. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969442486763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T10:33:44Z",
+        "content": "$DBC commodities been gettin shanked! \n \n(especially oil)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916320443153381
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T10:18:36Z",
+        "content": "$MNST i didn't realize how old this stock is. \nNor how beasty. \n \nPersonally, don't see a clear trade here, aside of selling premium.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": -0.2924,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993763566017151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T10:09:22Z",
+        "content": "$TLT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779120683670044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T09:21:40Z",
+        "content": "$SOFI one of these days, a few of you will believe me. Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9942307472229004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T09:19:44Z",
+        "content": "$ABNB still a touch quicker. But the rhymes are phat! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838134050369263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T09:13:37Z",
+        "content": "$OXY 45",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6834068298339844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-13T07:30:28Z",
+        "content": "$CGC zing.\nAccounting issues are not a small thing.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9773494601249695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-12T17:12:08Z",
+        "content": "$BTC.X will it rhyme?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983077049255371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-10T09:01:29Z",
+        "content": "$LLY ..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6381257176399231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-10T08:49:06Z",
+        "content": "saucy bish  \n$XBI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9818737506866455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-10T08:35:05Z",
+        "content": "$EQX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9535127878189087
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-10T07:32:34Z",
+        "content": "$CGC some potential",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9946184754371643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-10T03:42:07Z",
+        "content": "$MCD \ud83d\udd25\n\ntwitter.com/fasc1nate/statu...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893710613250732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T16:08:13Z",
+        "content": "$QQQ \nStill a backtest. Lol\nAAPL gonna set us straight? \ud83d\ude43",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911293983459473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T16:03:16Z",
+        "content": "$JPM lol. \nWe got 99 problems y'all",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988349080085754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T14:50:03Z",
+        "content": "@Buckthetrend42 @CactusPicksEm\n$DBC stands for death bead countdown \ud83d\ude2c",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963077306747437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T14:19:32Z",
+        "content": "$BAC bounce territory",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926074743270874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T14:06:53Z",
+        "content": "$MOS \nStands for \u2018mos\u2019t significant break in 18 months",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985982775688171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T13:49:12Z",
+        "content": "$SHOP \nOn a spree!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854410290718079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T13:06:02Z",
+        "content": "$SEDG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775440096855164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T12:37:07Z",
+        "content": "$SPY banks failing? Just buy tech. \ud83e\udee0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995185136795044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T12:27:27Z",
+        "content": "I $SHY a bull flag. \nFinally.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6433872580528259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T12:26:16Z",
+        "content": "$GLD faded\n\nIs it all about US03M?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996894598007202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T11:46:34Z",
+        "content": "$SHOP pretty sure it's a smash n grab",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9949750900268555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T11:22:52Z",
+        "content": "Fully compelled to seek looong term positioning in the $JPM onster Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9857059717178345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T10:59:16Z",
+        "content": "The beginning of the $AMD Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948910474777222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T10:40:09Z",
+        "content": "$MET its maker Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9479517340660095
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T09:46:02Z",
+        "content": "$TLT Oops. scale got twisted..... Sorry. \nPrefer log.  \n \n..and the difference is significant.",
+        "sentiment": {
+            "TextBlob": -0.20833333333333334,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9697859883308411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T09:15:07Z",
+        "content": "$SPY \nI have long felt that financial illiteracy is an issue. \n\nNow I suspect it was by design.",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953318238258362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T08:59:21Z",
+        "content": "$TLT three days into the month and spiked both sides of the range. \n#Spicy",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971380233764648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T08:37:02Z",
+        "content": "$ZG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853835701942444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T08:07:33Z",
+        "content": "$ZM zero has a non-zero probability.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996065080165863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T07:57:00Z",
+        "content": "$MGNI lifetime POC 6.5",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883615374565125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T07:47:38Z",
+        "content": "Quick vindication L $APPS \n\nWould still like to see an extra 50% fire sale",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972010850906372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T07:36:23Z",
+        "content": "$S till lookin rough",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897067546844482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T07:21:46Z",
+        "content": "$SCHD I never did beat this game. \n \nPS: what's the risk of collateral damage as SCHW struggles with the environment??",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.7998,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978735446929932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T07:15:20Z",
+        "content": "$ENPH Lost the channel with authority.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992222785949707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T07:01:04Z",
+        "content": "$SCHW quarterly Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920822381973267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T06:32:02Z",
+        "content": "Still think crypto is in big trouble though. \nPeople calling for moonshots in the face of recession. \n\nCan\u2019t eat it, burn it, spend it. \u2026Folks gonna liquidate that for eggs n rent. \n$BTC.X",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984773993492126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-04T06:19:26Z",
+        "content": "$DDOG \ud83d\udc40\ud83e\udee2\n\ntwitter.com/shortsellerst/s...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956670999526978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-02T21:33:27Z",
+        "content": "$NVDA \ud83e\udd79",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917044639587402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-02T20:41:04Z",
+        "content": "$SOFI new ink \nLove me some fractals!! \nIVR still way too muted and sentiment too lofty. \n \n@ away Bearish",
+        "sentiment": {
+            "TextBlob": 0.4588068181818182,
+            "NLTK": 0.6988,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989930987358093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-02T19:24:17Z",
+        "content": "$SOFI turns out we're in a banking crisis",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960920214653015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-01T23:18:45Z",
+        "content": "@ass_et_man Still has some bullish structures in place but looking rough.  \n..high powered-move after a high-powered rejection at the top of the range.  \n$TLT",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.5499,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980795383453369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-01T19:50:57Z",
+        "content": "$TLT grabbed their divy to go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8904521465301514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-01T19:25:53Z",
+        "content": "$TMF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870823621749878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-05-01T07:10:58Z",
+        "content": "$LQD tradingview.com/x/PeEelnpI/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993653416633606
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-30T19:47:35Z",
+        "content": "$SQ updated",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928761720657349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-30T19:38:47Z",
+        "content": "$IIPR Wick off of the lifetime POC is not a place I'd lean short into ER.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9755911827087402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-30T19:29:54Z",
+        "content": "$SMH top of the channel and IVR is negative..",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997406601905823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-30T18:43:01Z",
+        "content": "$QQQ 'Tech'nicals are winning",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996292591094971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-30T18:38:50Z",
+        "content": "$ABBV 168 proving durable resistance for now. Looks ready to lose the channel",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997592568397522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-28T07:34:31Z",
+        "content": "$XBI technicals suggest you're on the wrong side of reality",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991494417190552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-28T07:12:21Z",
+        "content": "$ABBV Needs to change the ticker to 'AED'",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991927742958069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-28T07:07:28Z",
+        "content": "$IBB still indecisive from these previous moves. \n \nbuuut.... my bias is persistent.",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963362216949463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-28T06:52:26Z",
+        "content": "$VLO  \nVL-nO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984204769134521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-28T06:24:11Z",
+        "content": "$NQ_F  \njust wish it were more than 7 companies",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979751706123352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-28T05:52:00Z",
+        "content": "$IWM looks sick to me",
+        "sentiment": {
+            "TextBlob": -0.7142857142857143,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996292591094971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-27T19:26:24Z",
+        "content": "$DPZ whoopsie",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9550266265869141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-27T19:20:45Z",
+        "content": "$AMZN .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919829964637756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-27T19:16:12Z",
+        "content": "$FSLR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9825794696807861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-27T17:07:17Z",
+        "content": "$IIPR trying for a weekly hammer.. ER 5/8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977586269378662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-27T15:44:12Z",
+        "content": "$QQQ premature monthly. \nThey sure know how to keep things interesting...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9792615175247192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-27T15:38:29Z",
+        "content": "$SOFI muted IVR into ER. \n..Prolly adjust my cc's (which looked better yesterday).",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980182647705078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-27T04:09:35Z",
+        "content": "$IYT significant",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7317521572113037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-25T20:25:27Z",
+        "content": "$ENPH inside the expected move and into support",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.51979660987854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-25T19:41:19Z",
+        "content": "$GOOGL saucy",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9531952142715454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-25T19:32:25Z",
+        "content": "$CL_F steady...",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856165647506714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-25T19:28:45Z",
+        "content": "$SOFI why trending? Not even moving.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999649167060852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-25T17:50:45Z",
+        "content": "$TLT is it happening?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998009979724884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-25T17:33:05Z",
+        "content": "$VX_F atta girl",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9572256803512573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-23T06:48:50Z",
+        "content": "$GOOGL\ntwitter.com/slopeofhope/sta...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951071739196777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-20T04:29:11Z",
+        "content": "$TLT gettin weird",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992380678653717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-20T02:23:12Z",
+        "content": "$ETH.X sauce",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9802430272102356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-20T01:07:47Z",
+        "content": "$BTC.X slipped back under resistances... tell me more",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971742630004883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-13T10:23:35Z",
+        "content": "$MARA love the volume.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998015761375427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-13T02:26:48Z",
+        "content": "$NVDA now we're talkin",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5009240508079529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-12T19:18:58Z",
+        "content": "$SHOP helluva rejection Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989950060844421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-12T00:43:08Z",
+        "content": "$GLD $GDX\ntwitter.com/mfhoz/status/16...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950824975967407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-11T18:38:07Z",
+        "content": "Still a ? \n$NFLX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967657327651978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-11T18:28:00Z",
+        "content": "Is it different this time? \n$TLT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899302124977112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-11T18:00:43Z",
+        "content": "$VX_F  \nE $VIX erated. \n \n....into earnings...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995872437953949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-11T16:31:27Z",
+        "content": "$BAC found a 6 year level heading into ER.  \nHigh IVR. ... might roast some premium",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946994781494141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-11T15:48:46Z",
+        "content": "Just c $APPS itulate already",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933775067329407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-10T18:01:12Z",
+        "content": "$GOOGL ivr very high here. Interesting",
+        "sentiment": {
+            "TextBlob": 0.354,
+            "NLTK": 0.4522,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959419369697571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-09T15:48:53Z",
+        "content": "$IIPR nearing bounce potential. \nwatching for bids in the mid-high 60's.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9574098587036133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-09T05:53:32Z",
+        "content": "$SPX  \nThis move is so much more pronounced than it is in $SPY",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9816901087760925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-09T03:09:50Z",
+        "content": "$AAPL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836944937705994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-09T01:27:43Z",
+        "content": "$SLV old chart",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993808269500732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-09T01:07:28Z",
+        "content": "$INDA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.972080647945404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T20:57:49Z",
+        "content": "$GOOGL update",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925313591957092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T20:05:52Z",
+        "content": "$AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828813076019287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T06:36:09Z",
+        "content": "$XYL looking rough",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982748031616211
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T05:36:24Z",
+        "content": "$TLT *if* it breaks out here, i think it finds 124 fairly quickly.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9453680515289307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T05:08:54Z",
+        "content": "$ZM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982434093952179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T04:05:09Z",
+        "content": "$BTC.X ,",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880405068397522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T03:58:24Z",
+        "content": "$SOL.X .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9358562231063843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T03:28:03Z",
+        "content": "$ETH.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9594240188598633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-08T01:05:30Z",
+        "content": "$GLD  \ntextbook pattern",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969733953475952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-07T18:46:19Z",
+        "content": "$SPY $QQQ \nNailed it\ntwitter.com/trendspider/sta...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9790357351303101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T19:10:15Z",
+        "content": "Edge of its s$ETSY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7074336409568787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T18:21:25Z",
+        "content": "@CactusPicksEm a different look \n$IWM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9000095129013062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T18:01:26Z",
+        "content": "$IWM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916718602180481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T17:12:55Z",
+        "content": "$MARA ??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934321641921997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T16:48:16Z",
+        "content": "$QQQ my problem with the Q\u2019s is that there aren\u2019t enough of them. $QQQE more interesting to me.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0754,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932727813720703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T16:44:13Z",
+        "content": "$VX_F $VIX .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879178404808044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T16:14:55Z",
+        "content": "$PAAS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993891716003418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-06T07:22:37Z",
+        "content": "$XBI the 'B' stands for 'bearish' Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965665340423584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-05T21:50:22Z",
+        "content": "$OR zip",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7000218629837036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-05T18:55:51Z",
+        "content": "$DG 'recession stock' that hasn't actually seen a recession.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993281364440918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-05T18:16:39Z",
+        "content": "$IWM $QQQ  \na little c/c",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917809367179871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-05T16:34:23Z",
+        "content": "$NVDA strongest stock of '23 so far. If symmetry plays out, this should be a decent dip. From a fib perspective, it's kind of a line in the sand for bears. Measured move from the IHS completed from a nominal perspective but not percentage-wise. \n \nAll that insider selling suggests this run is about done. \nBut it's been punishing bears, so....",
+        "sentiment": {
+            "TextBlob": 0.2888888888888889,
+            "NLTK": -0.5346,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945276379585266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-05T16:04:10Z",
+        "content": "$HYG still not a fan.  \nIn this environment, I prefer debt over equities, investment grade corporate bonds over junk, and treasuries over the rest.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.374,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963282942771912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-04-05T15:02:45Z",
+        "content": "$TLT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779120683670044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-30T21:44:36Z",
+        "content": "$NQ_F\n$QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841307997703552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-29T17:03:00Z",
+        "content": "$NFLX ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953362345695496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-29T15:47:25Z",
+        "content": "$CL_F Running out of room on the breakdown retest",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996877908706665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-29T14:07:31Z",
+        "content": "$GOOGL big time rejection \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986640214920044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-26T20:24:19Z",
+        "content": "$ARMCO \nFor those concerned about the petrodollar\u2026\n$DXY $USO \n\nSaudi Aramco in Deal with Chinese Partners to Build Refinery  bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895987510681152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T20:12:28Z",
+        "content": "$SPX .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819715619087219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T19:57:18Z",
+        "content": "$ENPH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8804126977920532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T19:15:06Z",
+        "content": "$XLC\n$META accounts for over 20%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888498187065125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T18:50:34Z",
+        "content": "$SMH !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867760539054871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T18:46:43Z",
+        "content": "$IYT .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9528759121894836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T18:43:19Z",
+        "content": "$IWM distribution",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942511320114136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T18:29:27Z",
+        "content": "Still seeing calls for 500%+ gains over the next few months... \n$BTC.X",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9817076921463013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-25T18:11:32Z",
+        "content": "$GOOGL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930688142776489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-24T02:55:17Z",
+        "content": "$SPX $NDX\ntwitter.com/rjrcapital/stat...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940570592880249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-24T00:22:07Z",
+        "content": "$NQ_F high volume rejections so far. big pivot",
+        "sentiment": {
+            "TextBlob": 0.08666666666666667,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989414811134338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-23T21:17:09Z",
+        "content": "$SQ caught the cliff edge",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9404727816581726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-23T20:07:13Z",
+        "content": "$UEC clearer now in\u2019t?\n\n\u2018Slowly at first\u2019",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985687732696533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-23T20:04:39Z",
+        "content": "$QQQ two daily wicks off the AVWAP from the top\u2026",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914361834526062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-22T05:00:51Z",
+        "content": "$QQQ interesting spot. \nMonster bar last week...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8347254991531372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-22T04:44:15Z",
+        "content": "$NQ_F zero accident",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996705055236816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-20T21:58:38Z",
+        "content": "$CL_F big hammer off a big level \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9804095029830933
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-20T08:45:20Z",
+        "content": "$SPX $SPY new week ahead, but this was the volume peak from last week's mega exchange..",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.992244303226471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-20T08:11:36Z",
+        "content": "$IWM not cute",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997666478157043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T07:40:38Z",
+        "content": "$SOFI quality ink still printing despite the doubts. \n \nI do not trust this level..... but I do respect it.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.578,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988118410110474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T07:33:00Z",
+        "content": "$BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881139397621155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T07:29:43Z",
+        "content": "$NVDA not the first time she's been overcrowded and extended....",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980050265789032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T07:07:16Z",
+        "content": "$ENPH the fact that this is trending fuels my sentiments. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.927833616733551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T05:52:00Z",
+        "content": "$VX_F volatility caught some bids",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9738116264343262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T04:30:21Z",
+        "content": "$MO similar sentiments",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9680110812187195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T04:25:36Z",
+        "content": "$BTI actually don't like the look here. Which is personally a little gratifying (and/or bias) as I struggled with addiction for many years.  \n...Still get cravings. Crazy. \n \nAnyway... dome might be a stretch, but I don't think it is to theorize that this is in it's distribution phase. \ncc: @Grouphome",
+        "sentiment": {
+            "TextBlob": -0.071875,
+            "NLTK": -0.2386,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953930377960205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T04:10:15Z",
+        "content": "$GC_F / $CL_F  \nFed fuel",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929631352424622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T03:59:37Z",
+        "content": "$BTC.X notably reclaimed the AVWAP from Covid bottom. \nApproaching some overhead levels.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879055023193359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T03:22:17Z",
+        "content": "$EQX ,",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9823307991027832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T03:13:59Z",
+        "content": "$ABNB .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915423393249512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T03:06:40Z",
+        "content": "$ENPH bounce potential",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9106845855712891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-18T03:04:43Z",
+        "content": "$XBI significant rejection. Bearish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994413256645203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-16T09:39:14Z",
+        "content": "$TLT .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988556444644928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-16T08:41:48Z",
+        "content": "$ENPH have i shared my old lines recently? \nI believe in one two five",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6618154048919678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-16T08:20:10Z",
+        "content": "$SPX pivot \n$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947026371955872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-16T07:36:03Z",
+        "content": "$CROX .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968795776367188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-16T06:55:57Z",
+        "content": "$AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828813076019287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-16T00:40:47Z",
+        "content": "Bet they added to the SPR. \n$USO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9502029418945312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T22:11:49Z",
+        "content": "$SOFI\n\nQuery: \nWith the 2nd and 3rd largest American bank failures less than a week past, what is it that\u2019s stirring your bully sentiments??",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.7622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988586962223053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T21:32:52Z",
+        "content": "$CL_F bounce potential",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9324682950973511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T21:15:58Z",
+        "content": "$JPM warning signs continue to proliferate",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923129677772522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T20:54:15Z",
+        "content": "$CS gap up you sexy turd!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.573321521282196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T19:49:06Z",
+        "content": "$AMD old and messy but breaking out nonetheless. \n \nStill do not believe in anything equity",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993056058883667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T19:37:21Z",
+        "content": "$USO bully for a snapback",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980290532112122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T19:24:31Z",
+        "content": "$XOP .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9724756479263306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T19:19:13Z",
+        "content": "$MOS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9837665557861328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T18:11:18Z",
+        "content": "$OXY that tickles",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9400025606155396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T17:22:37Z",
+        "content": "$ENPH Don't let my crazy fool you",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.2177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.86236172914505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T15:34:08Z",
+        "content": "$CL_F gimme some pop",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8080059885978699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T12:59:49Z",
+        "content": "$CL_F indicating trouble",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998723566532135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T11:38:03Z",
+        "content": "$GLD / $TLT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928021430969238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T11:15:17Z",
+        "content": "$JNJ hold the line",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5639786124229431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T10:19:34Z",
+        "content": "$BAC consider selling premium",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9739943146705627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T10:06:34Z",
+        "content": "$NQ_F $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841307997703552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T09:42:08Z",
+        "content": "$BTC.X  \n-",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885461926460266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T09:16:52Z",
+        "content": "$SPX ..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846795201301575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T09:03:33Z",
+        "content": "$TNX .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921002984046936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T08:46:27Z",
+        "content": "$TSM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9736687541007996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-15T08:39:47Z",
+        "content": "$SCHD show me 53",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955937266349792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T08:04:40Z",
+        "content": "$IOT .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921595454216003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T07:51:35Z",
+        "content": "$AI Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993787944316864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T06:00:34Z",
+        "content": "$AN ,",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7820174098014832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T05:28:16Z",
+        "content": "$GOOGL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930688142776489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T05:06:55Z",
+        "content": "$UBER .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868336319923401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T05:00:37Z",
+        "content": "$ETSY getting closer to trend. will she keep it?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993918776512146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T04:48:44Z",
+        "content": "$TLT peepers",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895462393760681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-14T04:25:49Z",
+        "content": "$GTLB",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9654284715652466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T12:06:41Z",
+        "content": "$TMF show me 14 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982459545135498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T11:56:19Z",
+        "content": "$TMF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870823621749878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T11:45:18Z",
+        "content": "$DDOG ..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964020252227783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T11:31:06Z",
+        "content": "$SNOW melting",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9863460659980774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T11:11:43Z",
+        "content": "$JEPI indeed",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9677271246910095
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T10:59:45Z",
+        "content": "$CHK .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940432906150818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T10:45:24Z",
+        "content": "$SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620757699012756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T10:22:00Z",
+        "content": "$KRE beware of anybody trying to spin this sh!t Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951381087303162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T10:03:58Z",
+        "content": "I will never understand why people doubt the power of technicals. Haven't looked here in a substantial amount of time. .... But price and levels remain pertinent.  \n \nNotable rejection here. \n$XME",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8650602698326111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T09:56:28Z",
+        "content": "$RSP \nI understood supply and demand concepts long before I became acquainted with Wyckoff principles.  \n \n...Kinda feels like he's the Darwin of asset prices. ....",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955102205276489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T09:44:41Z",
+        "content": "$IYT if you want the world to believe that this is truly a new bull market, ..... yo better step tha k up",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951743483543396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T09:19:18Z",
+        "content": "$SOFI ATL's inbound",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830522537231445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T09:15:46Z",
+        "content": "$IBB midmonth peek",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7412149906158447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T09:00:21Z",
+        "content": "$XBI all these lines are old. Anything under this monster level is big time trouble.  \n \nThis move is either the mother of all fake outs, or the mother signal.",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994766116142273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:55:32Z",
+        "content": "$SCHD better luck tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6798920631408691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:53:15Z",
+        "content": "$STWD that's a shame",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993267059326172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:48:13Z",
+        "content": "$TNX .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921002984046936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:45:04Z",
+        "content": "$ETH.X there are fluctuations, and there are trends.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7872095704078674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:39:31Z",
+        "content": "$ENPH no sir! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950632452964783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:36:33Z",
+        "content": "$VX_F  \nVol trend from '20",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827839136123657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:34:10Z",
+        "content": "$XLB ..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9713013172149658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:31:56Z",
+        "content": "$SPY $QQQ \nStraight talk: \nIf you continue to believe this is a bull market, I would like to know why...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983763694763184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:15:38Z",
+        "content": "$DBC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990942656993866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:10:09Z",
+        "content": "$BX orderly",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955713152885437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-12T08:01:06Z",
+        "content": "$BTC.X it\u2019ll be interesting to see how this responds to rate cuts. \n\nNot so lowkey think it gets hammered. It works as a hedge against frivolous fiat, but that\u2019s not where we\u2019re at in the cycle and it\u2019s still highly correlated and speculative. \n\n\u2026and has yet to prove out two of the the three tenets of how \u2018money\u2019 is  defined:\n-medium of exchange \n-store of value\n\nJust like always, this market needs to hardcore shake the faithful-ish into capitulation before the next run can truly begin. Bearish",
+        "sentiment": {
+            "TextBlob": 0.22,
+            "NLTK": 0.8859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913512468338013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-11T03:43:11Z",
+        "content": "$BAC \ud83d\udc40\ud83e\udee2\n\ntwitter.com/mayhem4markets/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942409992218018
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-11T01:09:58Z",
+        "content": "$GC_F $GLD You have my attention",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9893641471862793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-11T00:13:08Z",
+        "content": "@Payme92 $XLF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871392846107483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T23:34:59Z",
+        "content": "$TLT This is a breakout that I believe Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963299632072449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T23:17:20Z",
+        "content": "$SE Guessing a decent amount of risk came off right there. \nOn watch for developments.",
+        "sentiment": {
+            "TextBlob": 0.22619047619047616,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6849333047866821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T22:52:40Z",
+        "content": "$BAC toil and trouble Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937176704406738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T22:24:51Z",
+        "content": "Sweet relative breakout \n$JPM / $XLF",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.544139564037323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T22:15:44Z",
+        "content": "$JPM appears to be a clear candidate if the smaller, more speculative banks continue to fall. Crazy move today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2247,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6815523505210876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T21:03:59Z",
+        "content": "$SCHW \nPretty good discussion on \u2018Last Call\u2019 today about opportunities in banks v. brokerages. \n$XLF $SPY\n#tastylive\ntastylive.com",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.8271,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9961085915565491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T19:51:39Z",
+        "content": "$SOFI I know this board is fairly allergic to cautionary words but here are some more\u2026\n\nKeep in mind Noto been buying all the way down. \n\nIt\u2019s great that he believes and that his incentives are aligned with shareholders, but that doesn\u2019t mean the market cares nor does it say anything about \u2018bottom.\u2019 Dude has more time and deeper pockets than most folks posting on here. \n\nFood for thought. \nStay safe. Bearish",
+        "sentiment": {
+            "TextBlob": 0.3617063492063492,
+            "NLTK": 0.9505,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9771815538406372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T18:52:38Z",
+        "content": "$SOFI i understand buying in the face of panic. Just realize this is not a bullish development. Unhedged fan club will continue to be smacked around. \n\nPS: cc\u2019s working magic. \ud83e\ude84 Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856827855110168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T18:22:50Z",
+        "content": "$ARKK wen liquidation? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952728152275085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T18:17:14Z",
+        "content": "$SOFI when R/S?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99757319688797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T18:08:32Z",
+        "content": "$QQQ intraday h/s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9807090759277344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T15:25:24Z",
+        "content": "What\u2019s the opposite of \u2018$SCHW ing?!?\u2019",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996464252471924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-10T14:38:51Z",
+        "content": "$TLT \ud83d\udc40\n$TMF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934958219528198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T22:29:54Z",
+        "content": "$XBI weekly looking rough atm \n \nMaybe they buy it tomorrow, but this looks like a major break to me Bearish",
+        "sentiment": {
+            "TextBlob": -0.018750000000000003,
+            "NLTK": 0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940305352210999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T22:20:57Z",
+        "content": "@Lone_Wolf_1 here's what I'm working with until it quits working. \nSo slow. ....for now \n$OXY",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996558427810669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T21:43:22Z",
+        "content": "$QQQ ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950063228607178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T20:22:21Z",
+        "content": "Re- $TICK -ulous",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968532919883728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T20:18:36Z",
+        "content": "$BTC.X when the calls for 150k+ change to 0- \n\nThat\u2019s when I change my mind",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997963547706604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T18:28:25Z",
+        "content": "$CGC dumpage\n\nThrough a big level",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996464252471924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T17:35:12Z",
+        "content": "$CRWD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860321283340454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T17:03:49Z",
+        "content": "$BAC \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822040796279907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "HOSTILE",
+        "timestamp": "2023-03-09T16:15:22Z",
+        "content": "$MOS folks caught their divy and selling not realizing there\u2019s another one next week. \n\nI\u2019ll lower the cc level after that one.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991783499717712
+            }
+        },
+        "image_url": ""
+    }
+]

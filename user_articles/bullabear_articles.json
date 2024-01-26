@@ -1,0 +1,1388 @@
+[
+    {
+        "username": "bullabear",
+        "timestamp": "2022-03-10T14:44:00Z",
+        "content": "$MQ new long on the dip. Will add further weakness.",
+        "sentiment": {
+            "TextBlob": 0.028787878787878782,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985307455062866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-12-28T14:16:14Z",
+        "content": "@BIOS2022 I think this is a 0. Trading like $AKAO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976046085357666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-12-23T14:16:55Z",
+        "content": "@humour or $FLGT for a bit more ;)",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.2944,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885990619659424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-11-26T14:41:51Z",
+        "content": "$FLGT $TLIS buying/ adding for hedge.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99237060546875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-11-24T15:04:09Z",
+        "content": "$RBLX $AFRM $META - just buy and hold these into the end of the year.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868437647819519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-11-18T13:55:32Z",
+        "content": "$RBLX Still here. HODL on.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962551593780518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-11-12T16:32:24Z",
+        "content": "$RBLX Love it even more. Along 900 shares.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7693,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999763548374176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-11-11T04:04:15Z",
+        "content": "$XMTR hidden gem.",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9069095849990845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-11-01T13:46:42Z",
+        "content": "I give up. $RBLX is the future of existence.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5712582468986511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-10-26T14:25:26Z",
+        "content": "@yidarmy Don\u2019t forget $LFTR - Lots of volume today. Jumped into this one.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9945971965789795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-10-07T14:19:29Z",
+        "content": "$AFRM Lets go parabolic",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940980672836304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-10-06T15:53:13Z",
+        "content": "$AFRM keeping things spicy here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9955286383628845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-09-17T18:55:56Z",
+        "content": "$MGTA I am back in this gem. 1500 shares from this AM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9824715256690979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-09-17T18:55:02Z",
+        "content": "$bli Newiphone money. $AAPL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940563440322876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-09-15T13:48:38Z",
+        "content": "$BLI In. 28.8 avg.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989690899848938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-09-09T20:18:16Z",
+        "content": "$AFRM Selling a couple PUTS into earnings. Gas money.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917957186698914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-08-30T14:00:22Z",
+        "content": "$RBLX Bought 300 shares. Gaming sector weakness = opportunity.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953085780143738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-08-30T13:59:22Z",
+        "content": "$SNOW sold the weekly 280puts.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9684694409370422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-08-25T21:34:46Z",
+        "content": "$PLTR Loaded shares on the tree shake today.  Let\u2019s have a day tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994450569152832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-08-25T20:54:43Z",
+        "content": "$SNOW Added a few shares on the ah blip. Some gas money.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890151619911194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-08-09T13:38:49Z",
+        "content": "$HOOD going to 100",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7582359910011292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-07-25T19:15:33Z",
+        "content": "$SNAP Amazing. Another sold too early.",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983939528465271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-07-09T19:00:45Z",
+        "content": "$SNOW Mega day. 400 long.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9795533418655396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-07-09T16:16:43Z",
+        "content": "$SNOW Where my snowflakes at?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996759831905365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-06-24T22:36:36Z",
+        "content": "@MonkeyBananaGenius Went long $baba and $RAAS today. I think we see some positive Momentum in the China names.",
+        "sentiment": {
+            "TextBlob": 0.08863636363636362,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9961748123168945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-05-20T13:28:21Z",
+        "content": "@GalaxyBrainCapMgmt this\u261d\ufe0f and $NET",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9693199396133423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-05-19T14:29:13Z",
+        "content": "$COIN Selling some 195 puts, next week expiry. x2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911858439445496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-05-06T21:00:17Z",
+        "content": "$pton shorted the 75 puts into earnings.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998084545135498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-04-30T14:05:56Z",
+        "content": "$PARA give it the Friday pump so I can sell some same day calls.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989659786224365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-04-30T13:58:33Z",
+        "content": "$AGCB could be a sleeper for a grade A acquisition.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930701851844788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-04-30T13:56:41Z",
+        "content": "$OCUL dont sell before May expiration.\ud83e\udd13",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9705361723899841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-02-24T16:29:30Z",
+        "content": "$AFIB New starter position. Keep waiting for lower but I think lower is here.",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969769716262817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-31T01:16:42Z",
+        "content": "@AnchorsAweigh @SmartMoney999 Yes. long and strong the big cat. Going to add more monday. I also bought 20x 30/45 June call spreads on $SLV",
+        "sentiment": {
+            "TextBlob": 0.22083333333333333,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886849522590637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-22T16:08:53Z",
+        "content": "$GATO Only the best of ST on this board. Target $30.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945458173751831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-06T00:51:34Z",
+        "content": "$scpe Check it out tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9877665042877197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-05T14:43:12Z",
+        "content": "$GRTS bought 500 shares for a trade at opening.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9746745824813843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-05T14:39:56Z",
+        "content": "$SNOW Beautiful. Too many bears here. Reminds me of $PTON when I was buying in the 20\u2019s.",
+        "sentiment": {
+            "TextBlob": 0.675,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976084232330322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-04T15:51:53Z",
+        "content": "$PSNL Added 1100 shares this morning in my short term account. Long term acct has a large position, will share once we hit $75 by end of year.",
+        "sentiment": {
+            "TextBlob": 0.054761904761904755,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7710666060447693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-04T15:26:11Z",
+        "content": "$SNOW Short weekly puts on this. Sold weekly calls against my position (310\u2019s). I will keep selling 2-3 calls a week on my position - the premium is juicy.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9933764338493347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-04T15:17:47Z",
+        "content": "Bought $RMO $LGVW $DM on morning dip. Trying to be more active this year / contributing good ideas.",
+        "sentiment": {
+            "TextBlob": 0.35555555555555557,
+            "NLTK": 0.7089,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940102100372314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2021-01-03T22:39:07Z",
+        "content": "@Theoriginalspacattack Thoughts on $ELMS ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931341409683228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-12-21T16:03:53Z",
+        "content": "$VRTX Sold the weekly puts on this name. Nice $700 in premium for Christmas Dinner.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8450995087623596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-12-16T15:05:24Z",
+        "content": "$TDOC added 100 shares at 183 avg. I have short puts expiring Friday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995876669883728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-12-16T14:58:48Z",
+        "content": "$ABCL Everyone wants 30. We dont see 30\u2019s yet. Picked up 250 starter at 43.25",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925952553749084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-12-01T01:38:25Z",
+        "content": "$ARRY Offering already? Made some good cash on the ipo. Will be building a lt position.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.968482255935669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-11-24T00:40:29Z",
+        "content": "$LGVW Pamp it Cathie!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910797476768494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-11-23T18:40:09Z",
+        "content": "$PSNL i shouldn\u2019t but i did. Added 1000 at 26.82.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7669880390167236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-09-14T13:43:19Z",
+        "content": "$KALA 1000 shares starter",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9443891048431396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-09-04T02:01:25Z",
+        "content": "@jack_skellington @Partridge there is. and they all trading with 250$.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922687411308289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-08-28T19:36:23Z",
+        "content": "$NARI Let\u2019s go.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927381873130798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-08-27T18:29:16Z",
+        "content": "$MGTA Doubles position down here. 5000 shares.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876508116722107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-08-12T18:07:11Z",
+        "content": "$NARI Don\u2019t forget.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9967212080955505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-07-27T15:53:10Z",
+        "content": "$NARI Remember the guru shorted. we going to 100.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7823967933654785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-07-02T12:05:59Z",
+        "content": "@MonkeyBananaGenius this or $LMND?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980064034461975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-02-14T21:57:23Z",
+        "content": "$AYX out. easy money.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842034578323364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2020-01-29T17:50:25Z",
+        "content": "@jwsf ok. $i will be below 3 by friday. - you can load the boat my friend.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944643378257751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-10-24T15:31:05Z",
+        "content": "$lyft buy 2000 shares",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9241065979003906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-10-24T15:02:20Z",
+        "content": "$SDC 5000 share buy",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5314632654190063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-10-24T14:58:40Z",
+        "content": "$snap in 5000 shares",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8540989756584167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-10-24T14:57:25Z",
+        "content": "$AYX Bought 500 shares - 93.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9232614636421204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-10-16T15:06:42Z",
+        "content": "$ESTC the biggest mind f\u2019er in the stock market. made money, lost money, made money, lost and now back in this POS. The truest example of alpha is being able to beat yourself, the way you digest information and take action. The stock market is the only that matters in this simulation.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968981742858887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-07-18T13:55:16Z",
+        "content": "$PSNL in 3-5 years you will wonder how you missed a 5x. Will comment then.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984843134880066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-06-11T15:01:18Z",
+        "content": "$ESTC picked up first 250 shares here. Will add 250/week. Market has not valued growth prospects.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.507,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985727071762085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2019-03-05T18:02:14Z",
+        "content": "@howardlindzon @stocktwits $INTEQ $WSH $ELON $WUHN $TSLA $PRVT $F $LLAP .  $FUND $INTEQNG $SCUR $ED",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953917264938354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2018-10-26T14:41:33Z",
+        "content": "@Moench also $kweb arriving as wwll",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936610460281372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2018-09-25T16:12:29Z",
+        "content": "@nkeaandy do you like $snap at these levels? feeling nervous at these levels",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9784796833992004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2018-09-21T18:36:42Z",
+        "content": "@howardlindzon thoughts on $SNAP at this valuation?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914690852165222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2018-06-20T17:44:53Z",
+        "content": "@howardlindzon $ICPT $BMRN $ALNY $LOXO $BPMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939860105514526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-10-18T15:31:13Z",
+        "content": "$TECK Out. 5X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887964725494385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-03-18T22:32:09Z",
+        "content": "$BHC looks like ackman sold some 60 puts on march 8 - had to pay up - sold $MDLZ and now has a 5,000,000 increased (forced) stake in vrx",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992576241493225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T21:10:21Z",
+        "content": "@howardlindzon Also, my list of Canadian Oil Co's (>10b MC) - $CNQ $CVE.TSX $HSE.TSX $IMO.TSX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913867115974426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T21:04:52Z",
+        "content": "@howardlindzon @Trader_X2 Any other quality chinese names? $QUNR $BIDU $NOAH $JD $NTES ?",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972123503684998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T20:02:02Z",
+        "content": "Out for the day. Picked up some $HTZGQ 03 9's - $IWM 12 110's - $SPY 03 200's",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99685138463974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:58:26Z",
+        "content": "$COP 2016-03-18 C44.00 3,000+ $1.22",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8547185659408569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:57:28Z",
+        "content": "$PGEN  In some XON 2016-04-15 C25.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871203303337097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:51:25Z",
+        "content": "$S 2017-01-20 P2.00 5,000@$0.34 - Protection or bankruptcy?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968909621238708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:46:30Z",
+        "content": "More puts on that $DISH 2016-02-19 P47.50 8,000 @ 1.85",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928587675094604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:44:38Z",
+        "content": "$MYL 2016-01-22 P50.00 7,000@\t$1.30 - More Put buying. What do they know?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967948794364929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:43:57Z",
+        "content": "$KHC 2016-02-19 C70.00 2500@$1.80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9075942635536194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:41:59Z",
+        "content": "$SPY Picked up some 16/03/18 200c at 1.37",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919902682304382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:40:52Z",
+        "content": "$IWM Picked up some of those Dec 110 calls that were raided yesterday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950723052024841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:12:05Z",
+        "content": "$HTZGQ - Don't forget they raided this yesterday - 2016-03-18\t$9.00\t33,300 @ $1.65 - Might be a good one to get in right now.",
+        "sentiment": {
+            "TextBlob": 0.4928571428571428,
+            "NLTK": 0.5523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753129482269287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:02:11Z",
+        "content": "$MSFT 2016-01-22 C51.50 Trading between .56-.59",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904196858406067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T19:00:46Z",
+        "content": "$BAC 2016-01-22 C14.00 6700@$0.69",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.979921817779541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:53:47Z",
+        "content": "$PFE 2016-04-15 30 Calls 2500 @ 1.62",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9771308898925781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:26:29Z",
+        "content": "$MTW 2016-03-18 P13.00 9,000@$1.30",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9481614232063293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:25:22Z",
+        "content": "$DIS 2016-01-29 P94.00 2,500@$2.50",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879825115203857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:24:33Z",
+        "content": "$DISH 2016-02-19 P50.00 8333@$2.25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9790433645248413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:20:27Z",
+        "content": "$HLF 2016-05-20 P40.00 2,000 @ 3.8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9372053146362305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:19:37Z",
+        "content": "$BHC 2016-03-18 P70.00 5,000@\t$4.35",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8720999360084534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:13:43Z",
+        "content": "$PBR 2016-02-19 C3.50\t4,000 @ .26",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.936809241771698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:12:33Z",
+        "content": "$QCOM 2016-03-18 C50.00\t10,000 @ 1.19",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8677176833152771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:12:01Z",
+        "content": "$SRPT 2016-01-29 C20.00 - 1500 @ 3.10",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9134929180145264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:11:31Z",
+        "content": "$TIF 2016-02-19 C70.00\t 5,000 @2.55",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9515649080276489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2016-01-15T18:10:47Z",
+        "content": "$PRU - PRU 2016-06-17 C75.00 - 2000 @ 2.90",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9588462114334106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2015-12-02T18:32:42Z",
+        "content": "$TECK In 2500 @ 3.98",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887011051177979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2015-06-11T14:55:51Z",
+        "content": "$CSX Waiting for my boy Bill to announce his stake.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890506267547607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2015-06-04T19:18:33Z",
+        "content": "@pnross25 buy $KITE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9735494256019592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bullabear",
+        "timestamp": "2015-05-26T15:18:02Z",
+        "content": "@fredbenz0 Nice. Grabbed some $GSK - saw they were going after August calls on Friday.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846444129943848
+            }
+        },
+        "image_url": ""
+    }
+]

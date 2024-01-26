@@ -1,0 +1,2508 @@
+[
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-10-18T21:48:42Z",
+        "content": "Dow Jones Futures: First Bitcoin ETF To Debut; $TSLA Nears Record High\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.20500000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5687423944473267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-09-25T00:37:09Z",
+        "content": "Dow Jones Futures: Market Rally Takes Bullish Ride; $TSLA Leads 5 Stocks In Buy Zones Before FSD Beta Launch\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9734035730361938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-09-22T15:54:06Z",
+        "content": "$LCID Eyes Buy Point As Air Deliveries Loom With 520-Mile Range, Outgunning $TSLA\ninvestors.com/news/lucid-st...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9234223961830139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-27T00:02:32Z",
+        "content": "$ABNB Stock: Is It A Buy? Here's What Fundamentals, $ABNB Stock Chart Action Say\ninvestors.com/research/airb...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982459545135498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-26T15:13:23Z",
+        "content": "$ASND Stock Surges To 6-Month High; FDA Approval Lands It In A Major Market\ninvestors.com/news/technolo...",
+        "sentiment": {
+            "TextBlob": 0.11125,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9640288352966309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-25T22:14:45Z",
+        "content": "Dow Jones Futures: Market Rally Keeps Rising Before Fed Chief Powell; $CRM Leads 4 Earnings Movers In Buy Zones\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8058805465698242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-25T16:42:44Z",
+        "content": "Is $AMZN Stock A Buy Right Now As Epic Battle With $WMT Escalates\ninvestors.com/news/technolo...",
+        "sentiment": {
+            "TextBlob": 0.19285714285714284,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889201521873474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-24T20:03:59Z",
+        "content": "$ABNB, IBD Stock Of The Day, Maintains Cruise Control During Pandemic\ninvestors.com/research/ibd-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5471237897872925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-23T19:09:51Z",
+        "content": "$DIS Reveals Huge Streaming Sales In 'Black Widow' Lawsuit\ninvestors.com/news/disney-s...",
+        "sentiment": {
+            "TextBlob": 0.11666666666666671,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8640480637550354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-23T17:12:20Z",
+        "content": "ARK Invest Stocks To Buy And Watch: 6 Stocks That Cathie Wood's ARK ETFs Own; $TSLA Races Back Above Buy Point\ninvestors.com/research/ark-...",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8928070664405823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-23T05:09:25Z",
+        "content": "Dow Jones Futures: Market Rally Rebounds But Does It Pass Your Test? $AAPL, $META, $NVDA Near Buy Points\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913669228553772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-20T20:00:48Z",
+        "content": "Dow Jones Rallies As $MSFT Surges On Subscription Hike; Tesla's AI Day Gains Fade\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983313679695129
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-19T22:21:01Z",
+        "content": "Dow Jones Futures: $NVDA, $MSFT, $ADBE Lead But Market Rally Narrows; $TSLA AI Day On Tap\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943101406097412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-19T15:13:43Z",
+        "content": "Graphics-Chip Maker $NVDA Tops Quarterly Views As Gaming Sales Soar\ninvestors.com/news/technolo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9481208324432373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-18T23:56:27Z",
+        "content": "Dow Jones Futures: Stock Market Sells Off As Fed Moves To Exit; $NVDA, $DLO, $HOOD Earnings Late\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983867406845093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-18T15:42:35Z",
+        "content": "Dow Jones Today, Stocks Open Lower Ahead Of Fed Minutes; $TGT Goes Low, $LOW Goes High On Earnings; $CRM Climbs\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.04,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982678890228271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-17T21:32:46Z",
+        "content": "IBD Stock Of The Day $CPRT Sets Up Buying Opportunity As Demand For Used Cars, Parts Soars\ninvestors.com/research/ibd-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.73647540807724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-17T20:06:04Z",
+        "content": "Is $F Stock A Buy Now After Biden EV Push? Automaker Hits Resistance At Key Level\ninvestors.com/research/ford...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940598011016846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-13T20:40:59Z",
+        "content": "$AIRBNB Slumps Despite Earnings Beat As Covid Variants Loom\ninvestors.com/news/technolo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996724128723145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-13T16:54:31Z",
+        "content": "Dow Jones Rises As $DIS Earnings Beats Expectations; These Growth Stocks Score Breakouts\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9935124516487122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-12T22:12:51Z",
+        "content": "Dow Jones Futures: $AAPL, $TSLA Are New Buys In Market Rally; $DIS Makes Bullish Earnings Move Late As 5 IPOs Report\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": -0.08181818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947232007980347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-12T17:03:46Z",
+        "content": "5 Dow Jones Stocks To Buy And Watch In August 2021: $AAPL Races Higher\ninvestors.com/research/dow-...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9572738409042358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-11T20:27:39Z",
+        "content": "$AAL Stock Flashes Rising Price Strength; Sales Soared 361% Last Quarter\ninvestors.com/news/stocks-w...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994544386863708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-10T20:54:47Z",
+        "content": "Is $COIN Stock A Buy Right Now After Reporting Earnings?\ninvestors.com/research/coin...",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974761605262756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-10T18:07:04Z",
+        "content": "5 Dow Jones Stocks To Buy And Watch In August 2021: $AAPL Falls\ninvestors.com/research/dow-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987491369247437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-09T22:07:21Z",
+        "content": "Dow Jones Futures: $TSLA Retakes Buy Point With China Sales Due; $AMC Stock Surges On Earnings\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8991581797599792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-09T17:20:23Z",
+        "content": "Is $F Stock A Buy Now After Biden EV Push? Automaker Hits Resistance At This Key Level\ninvestors.com/research/ford...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912376403808594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-05T17:57:59Z",
+        "content": "Dow Jones Rises While Tech Stocks Lead Market; $SQ Stock Scores Breakout; Health Care Sector Underperforms\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899634718894958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-04T20:38:45Z",
+        "content": "$HOOD, IBD Stock Of The Day, Offers Early Buy Point With Bullish Bounce\ninvestors.com/research/ibd-...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9608381390571594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-04T17:42:56Z",
+        "content": "Is $JNJ Stock A Buy Or A Sell As Delta Question Plagues Covid Shot?\ninvestors.com/news/technolo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983748197555542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-03T22:06:59Z",
+        "content": "Dow Jones Futures: $TSLA, $SQ, $STLD Find Support With Market Rally; $PAYC Flashes Buy Signal Late\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876282215118408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-08-02T19:47:21Z",
+        "content": "$SQ, IBD Stock Of The Day, Makes Big Acquisition, Forges New Entry Point\ninvestors.com/research/ibd-...",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998528242111206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-30T20:37:30Z",
+        "content": "Stock Market Rally Pauses Near Highs Amid Earnings From $AAPL, $MSFT, $TSLA, $AMZN, $GOOGL, $META\ninvestors.com/news/stock-ma...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961128234863281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-29T22:20:54Z",
+        "content": "Dow Jones Futures: $AMZN, $PINS, $SWKS Tumble Late After S&P 500 Hits Highs, $TSLA Flashes Buy Signal\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940051436424255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-29T14:29:11Z",
+        "content": "$HOOD Stock Set To Jump In Debut After IPO Prices At Low End Of Range\ninvestors.com/news/robinhoo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9706928133964539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-28T15:51:39Z",
+        "content": "Dow Jones Falls Ahead Of Fed Policy Decision; $AAPL Stock Sells Off On Earnings, While $BA Surges\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8790245056152344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-27T21:46:21Z",
+        "content": "Dow Jones Futures Fall Amid $AAPL, $MSFT, $GOOGL, $AMD Earnings, Fed Meeting To Drive Market Rally After Leaders Slump\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990623593330383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-26T20:52:11Z",
+        "content": "$TSLA Earnings Beat Despite Production Woes; No Bitcoin Sales In Q2\ninvestors.com/news/tesla-st...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979118704795837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-26T17:25:50Z",
+        "content": "ARK Invest Stocks To Buy And Watch: 6 Stocks That Cathie Wood's ARK ETFs Own; $TSLA Climbs Ahead Of Earnings\ninvestors.com/research/ark-...",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952098727226257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-21T15:24:23Z",
+        "content": "$DOCU, $CROX, $GOOGL Stock Among 34 Fastest-Growing Stocks Eyeing Up To 416% Growth In 2021\ninvestors.com/research/fast...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9792841672897339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-20T16:26:30Z",
+        "content": "$TSLA Close To Semi Production; $GM Confirms 3rd Electric Truck\ninvestors.com/news/tesla-st...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993347704410553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-19T21:17:08Z",
+        "content": "Dow Jones Futures: Stock Market Rally Falters On Covid-19 Fears; $IBM Earnings Beat, $NFLX Earnings On Tap\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993380904197693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-16T20:39:28Z",
+        "content": "$MRNA Stock \u2014 Soon To Join S&P 500 \u2014 Rockets To Yet Another Record\ninvestors.com/news/technolo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9469203948974609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-15T16:26:50Z",
+        "content": "Dow Jones Reverses, Tech Stocks Slide As Powell Defends Fed Policy; $TSLA Skids, $AMC Stock Surges\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937735199928284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-14T19:38:28Z",
+        "content": "$SBUX Stock Relative Strength Rating Climbs To 73; Funds Buying At Brisk Pace\ninvestors.com/news/starbuck...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6521011590957642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-13T22:29:04Z",
+        "content": "Dow Jones Futures Await Fed Chief Powell As Inflation Report Hits Market Rally; $AAPL, $MSFT Lead, But ARK ETFs Offer Warning\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953184723854065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-13T15:41:21Z",
+        "content": "Is $COIN Stock A Buy Right Now As Bitcoin Hits $33,000\ninvestors.com/research/coin...",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894205331802368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-12T15:35:05Z",
+        "content": "$DKNG Stock: Is It A Buy Right Now After Plunging On Short Seller Report?\ninvestors.com/research/draf...",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939883947372437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-07T19:53:57Z",
+        "content": "5 Dow Jones Stocks To Buy And Watch In July 2021: $AAPL In New Buy Range\ninvestors.com/research/dow-...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.952997624874115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-07T16:16:42Z",
+        "content": "ARK Invest Stocks To Buy And Watch: 6 Stocks That Cathie Wood's ARK ETFs Own; $TSLA Sells Off\ninvestors.com/research/ark-...",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954903721809387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-07-06T20:03:10Z",
+        "content": "Dow Jones Dips, Small Caps Mauled; $AAPL Rises As $TSLA Stalls Amid Lawsuit; $AMC Stock Dives\ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995703101158142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-06-25T16:47:44Z",
+        "content": "$CROX, $SQ Stock Among 23 Fastest-Growing Stocks Expecting Up To 1,247% Growth In 2021\ninvestors.com/research/fast...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.982029139995575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-06-23T20:20:14Z",
+        "content": "$XPEV Eyes $2 Billion In More Capital As Key New EV Looms\ninvestors.com/news/xpeng-st...",
+        "sentiment": {
+            "TextBlob": 0.21212121212121213,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9833522439002991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-06-02T15:33:22Z",
+        "content": "Is $AMC Stock A Buy Or Sell Now? Here's What Fundamentals, Stock Chart Action, Mutual Fund Ownership Metrics Say\ninvestors.com/research/amc-...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967193007469177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-06-01T21:20:30Z",
+        "content": "$GS, IBD Stock Of The Day, In Buy Zone As Yield Curve Gets Steeper\ninvestors.com/research/ibd-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963467717170715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-06-01T16:15:16Z",
+        "content": "Dow Jones Rallies, Tech Stocks Fall As $AMC Stock Surges 22%; $BIDU, $NIO Advance, While $ZOOM Video Earnings On Tap \ninvestors.com/market-trend/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989668130874634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-05-26T18:14:30Z",
+        "content": "Is $CRM Stock A Buy? Digital Transformation Powerhouse Struggles Amid Slack Deal\ninvestors.com/news/technolo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976370334625244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-05-25T18:03:41Z",
+        "content": "Is $COIN Stock A Buy Right Now After Surging On Key Analyst Buy Rating?\ninvestors.com/research/coin...",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953275918960571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2021-05-21T20:32:12Z",
+        "content": "$MGM Stock A Buy As Its Vegas Casinos Are Set To Reopen Fully?\ninvestors.com/news/mgm-stoc...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949284791946411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2020-06-05T21:02:46Z",
+        "content": "IBD's Head Market Strategist Mike Webster joined the podcast this week to discuss the unprecedented coronavirus stock market rebound. He also explained the power trend indicator and how it acts as a signal for investors to get aggressive in a market uptrend. Plus, we take a look at four potential stocks: $TSLA $DDOG $LULU $LVGO investors.com/videos/mike-w...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8510125875473022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-09-09T22:14:50Z",
+        "content": "$TSLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9475893974304199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-08-23T21:57:55Z",
+        "content": "$SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620757699012756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-08-13T21:54:22Z",
+        "content": "$TYL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9532034397125244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-08-06T21:39:27Z",
+        "content": "Investor's Business Daily NEW show just launched! Watch our first episode of #InvestingStrategies now out at (link: investors.com/how-to-invest...) investors.com/investingstrat\u2026 \u2013 we discuss how to find top stocks in a weak market, the importance of relative strength and more! $TWTR.P $MRVL",
+        "sentiment": {
+            "TextBlob": 0.1672077922077922,
+            "NLTK": 0.6892,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.616034746170044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-08-02T21:51:44Z",
+        "content": "$CORT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9810212850570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-31T22:38:57Z",
+        "content": "$DXY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9705904126167297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-17T22:11:57Z",
+        "content": "$SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620757699012756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-16T21:54:33Z",
+        "content": "$SSRM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892472624778748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-15T20:35:16Z",
+        "content": "$APH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6413315534591675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-15T15:38:39Z",
+        "content": "This week's Momentum Monday is here! Check it out! $XLF $CYBR $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9199404120445251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-15T15:37:23Z",
+        "content": "Check out Andy's latest blog post! $SPY $QQQ $IWM $MDY $BKX",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868621826171875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-12T22:02:43Z",
+        "content": "Check out our swing trading article for this week! $AMRN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7534881234169006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-12T15:50:38Z",
+        "content": "Want to see advanced selling strategies that can help maximize your profits, plus an interview about market trends and IPOs with IBD Chief Content Officer @ChrisGessel_IBD? Read our Q3 Stock Guide! marketsmith.investors.com/L... $STUDY",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.701116144657135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-12T15:26:43Z",
+        "content": "$NMIH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97807776927948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-11T20:31:47Z",
+        "content": "Watch our market video from today here! $UNH $ELV $DAL $CIEN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994152843952179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-11T20:28:20Z",
+        "content": "$DJIA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5337008237838745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-11T15:22:04Z",
+        "content": "$BZUN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922926425933838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-10T22:38:25Z",
+        "content": "$JCOM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898576736450195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-10T20:20:53Z",
+        "content": "In case you missed our market video, here is the link! $AMZN $DIS $DAL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986133575439453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-10T15:23:54Z",
+        "content": "$PCTY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926653504371643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-09T20:43:05Z",
+        "content": "Check out our market video from today! $META $AMZN $NFLX $SQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996095597743988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-09T19:06:58Z",
+        "content": "$EBAY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9477087259292603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-09T15:36:41Z",
+        "content": "$COMPQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9719780683517456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-08T21:06:24Z",
+        "content": "Our market video from today is here! Watch it now - $CMG $EPAM $CHGG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99594646692276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-08T17:19:15Z",
+        "content": "$QD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9545141458511353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-08T15:27:56Z",
+        "content": "$INSP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862770438194275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-08T15:27:11Z",
+        "content": "This week's Momentum Monday is here, check it out! $TWLO $META $EPAM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.967602014541626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-08T15:26:36Z",
+        "content": "Check out Joe's blog post! $Z $ZG $ZS $NEO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9712193608283997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-05T17:07:50Z",
+        "content": "$ROKU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9813904762268066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-03T19:14:36Z",
+        "content": "$ZS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986323714256287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-03T18:34:59Z",
+        "content": "Watch our market video now! $IGV $AMRN $MTCH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936774373054504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-03T16:30:37Z",
+        "content": "Did you miss out on the big run in $AAPL going back more than a decade? On this week\u2019s podcast, we tackle FOMO and other mental mistakes \u2013 there are easy fixes! Episode drops TODAY at investors.com/how-to-invest...!",
+        "sentiment": {
+            "TextBlob": 0.15868055555555557,
+            "NLTK": -0.1984,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993523359298706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-03T16:25:00Z",
+        "content": "$GDXJ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9816939234733582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-02T20:57:06Z",
+        "content": "In case you missed our market video from today, here it is! $DAL $ZS $DIS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982383251190186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-02T15:33:53Z",
+        "content": "$AXSM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9805178642272949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-01T21:18:11Z",
+        "content": "Our market video is here! Watch it now! $IPHI $BZUN $ADBE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913982152938843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-01T19:25:20Z",
+        "content": "Check out our new How to Invest video on YouTube! $STUDY",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5271365642547607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-01T15:46:20Z",
+        "content": "This week's Momentum Monday is here! $SMH $XHB $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928025603294373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-07-01T15:45:31Z",
+        "content": "Check out Andy's latest article on Seeitmarket! $USO $CL_F",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7568366527557373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-28T21:30:56Z",
+        "content": "$COMPQ $MELI $EPAM $DXCM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957972764968872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-28T20:58:45Z",
+        "content": "Our market video from today is here! Watch it now! $FAS $UBER $TW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834534525871277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-28T16:56:21Z",
+        "content": "If you're searching for the next long-term winning stocks with charts that look like this, then you NEED to check out our latest podcast episode! --> investors.com/how-to-invest... $AMZN Bullish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.7345,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869661331176758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-28T16:04:14Z",
+        "content": "Check out our full story on 5G network technology! $VZ $T $S",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9752453565597534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-28T15:57:19Z",
+        "content": "$IBP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8213804960250854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-27T20:52:17Z",
+        "content": "Our market video from today is here! $OMCL $RUN $TDG $IWM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979026317596436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-27T20:47:10Z",
+        "content": "$XLNX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9458110332489014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-27T15:39:29Z",
+        "content": "$BOOT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862986207008362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-26T21:47:53Z",
+        "content": "Our market video is here! $MU $MSFT $MELI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942860007286072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-26T15:27:59Z",
+        "content": "$JBL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8546966910362244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-25T22:41:50Z",
+        "content": "Check out our new video installment! $STUDY",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6006168723106384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-25T20:44:05Z",
+        "content": "In case you missed our market video from today, here is the link! $SHOP $ADBE $CMG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982320666313171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-25T17:24:46Z",
+        "content": "Learn the secrets of stock chart reading in less than 3 minutes with this free video from IBD! Watch here: investors.com/ibd-videos/ $STUDY",
+        "sentiment": {
+            "TextBlob": 0.16666666666666669,
+            "NLTK": 0.633,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973464012145996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-25T15:32:26Z",
+        "content": "$NTRA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9578775763511658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-24T20:21:48Z",
+        "content": "Watch our market video here! $MTCH $ULTA $ZM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964184761047363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-24T19:02:20Z",
+        "content": "$JCOM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898576736450195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-24T16:02:22Z",
+        "content": "$MTCH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902234673500061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-24T16:02:04Z",
+        "content": "This week's Momentum Monday is here! $AXON $META $BA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9706150889396667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-21T22:12:43Z",
+        "content": "Don't miss our video from today! $CMCSA $EPAM $FAS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1867,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8783664703369141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-21T21:05:45Z",
+        "content": "$CVNA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827483296394348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-21T19:26:00Z",
+        "content": "$EDU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9357863664627075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-21T15:15:53Z",
+        "content": "$PRFT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830906391143799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-21T15:15:13Z",
+        "content": "Check it out! $TSLA $FNKO $Z",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9900206327438354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-20T22:22:17Z",
+        "content": "Check out our quick video on bull/bear market! $STUDY",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989652693271637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-20T21:54:52Z",
+        "content": "Check out Andy's latest blog post! $DJIA $SPY $QQQ $IWM",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.972250759601593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-20T20:51:55Z",
+        "content": "Our market video is here! Check it out! $ORCL $RPD $CDNS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9734253883361816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-20T18:59:26Z",
+        "content": "$BZUN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922926425933838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-20T17:21:43Z",
+        "content": "Check out IBD Stock Of The Day! $IIPR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8584208488464355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-20T15:40:56Z",
+        "content": "Check out $LULU chart!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9417601227760315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-20T15:38:50Z",
+        "content": "$RPD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840458631515503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-19T22:32:52Z",
+        "content": "Check out our market video! $ADBE $IQV $SHOP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917294383049011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-19T20:30:12Z",
+        "content": "Check out HCPG's new blog post! $CDNS $OLED $VOYA $SPY",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942540526390076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-19T16:33:14Z",
+        "content": "$CDNS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9859084486961365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-19T15:23:16Z",
+        "content": "Keep an eye on $FNKO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998710036277771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-19T15:22:26Z",
+        "content": "$AUDC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983745813369751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-18T22:35:39Z",
+        "content": "Check out our video! $META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7757092118263245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-18T21:22:21Z",
+        "content": "In case you missed our market video from today, here is the link. $AMD $NOW $ADBE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977481961250305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-18T18:21:10Z",
+        "content": "Check out our video on $BYND!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9418613314628601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-18T15:04:50Z",
+        "content": "$AMD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878861904144287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-17T22:02:33Z",
+        "content": "$SMAR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9776005148887634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-17T20:08:53Z",
+        "content": "Our market video is here! Watch it now - $LULU $META $NOW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9823946356773376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-17T18:58:23Z",
+        "content": "Check out IBD Stock Of The Day - $ULTA!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7940472364425659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-17T18:55:17Z",
+        "content": "$CDNS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9859084486961365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-17T15:51:31Z",
+        "content": "Uber Air Offers First Look Inside Its Flying Taxi: futurism.com/the-byte/uber-... $UBER",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8450244069099426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-17T15:16:28Z",
+        "content": "This week's Momentum Monday is here! Check it out! $DIS $ARRY $META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9768412709236145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-17T15:15:52Z",
+        "content": "Check out Joe's video! $GH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9792249798774719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-14T22:12:48Z",
+        "content": "In case you missed our market video from today, here is the link! $AVGO $HD $CMSCA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963249564170837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-14T21:44:17Z",
+        "content": "Check out our video on $UBER!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8099526166915894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-14T21:41:16Z",
+        "content": "$HD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6227817535400391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-14T21:00:58Z",
+        "content": "In case you are interested in swing trading! $MSCI",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990987241268158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-14T17:08:58Z",
+        "content": "$IWM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916718602180481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-14T15:38:31Z",
+        "content": "KFC is meeting with plant-based 'meat' makers as chains like Burger King and Del Taco jump on the vegan bandwagon: businessinsider.com/kfc-con... $YUM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5050957798957825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-14T15:35:10Z",
+        "content": "$CDNA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9782152771949768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-13T20:34:34Z",
+        "content": "Our  market video is here! Watch it now - $DIS $ULTA $LULU $NFLX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954456090927124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-13T18:38:54Z",
+        "content": "$FDX $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946098327636719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-13T17:32:21Z",
+        "content": "$BZUN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922926425933838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-13T15:35:03Z",
+        "content": "$BLD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9843204021453857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-12T22:07:28Z",
+        "content": "Watch our How to Invest series NOW! $STUDY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9477738738059998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-12T20:44:07Z",
+        "content": "Check out our market video here! $ZM $PLNT $ETSY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937102794647217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-12T15:43:56Z",
+        "content": "$OLED",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901725053787231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-11T20:48:59Z",
+        "content": "In case you missed our market video from today, here it is! $ZM $AMZN $MDSO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974464178085327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-11T15:35:36Z",
+        "content": "$LULU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6091972589492798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-10T22:33:44Z",
+        "content": "$ZM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982434093952179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-10T20:50:33Z",
+        "content": "Stock Charts 101! See how to decode the lines and symbols of a stock chart, plus spot the patterns that can mean big gains! Check out our FREE INFOGRAPHIC: shop.investors.com/offer/sp... $STUDY",
+        "sentiment": {
+            "TextBlob": 0.029166666666666674,
+            "NLTK": 0.7916,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932829141616821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-10T20:09:18Z",
+        "content": "Don't miss our market video from today! $RTX $RTN $CRM $UPLD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1867,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5532517433166504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-10T20:07:53Z",
+        "content": "$IOVA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9905499815940857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-10T15:45:11Z",
+        "content": "This week's Momentum Monday is OUT! $SPY $MDB $TNDM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960350394248962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-10T15:44:14Z",
+        "content": "Check out Joe's Weekend Market Video here! $SPY $QQQ $IWM $DIA $COUP $MDB $GH $NTRA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960646033287048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-07T21:03:13Z",
+        "content": "For those who are interested in swing trading! $COMPQ $NOW $PCTY $MA",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996773898601532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-07T20:28:01Z",
+        "content": "$FCX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9601520299911499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-07T15:33:32Z",
+        "content": "$BZUN $YY $TCEHY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955392479896545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-07T15:33:12Z",
+        "content": "Great blog post to check out! $IIPR $TREE $JKS",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965524673461914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-06T22:00:20Z",
+        "content": "Our market video is here! $AMD $CIEN $NOW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889802932739258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-06T21:00:20Z",
+        "content": "Stock Charts 101! See how to decode the lines and symbols of a stock chart, plus spot the patterns that can mean big gains! Check out our FREE INFOGRAPHIC: shop.investors.com/offer/sp... $STUDY",
+        "sentiment": {
+            "TextBlob": 0.029166666666666674,
+            "NLTK": 0.7916,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932829141616821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-06T16:48:43Z",
+        "content": "$MCY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6715041995048523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-05T15:56:52Z",
+        "content": "$VEEV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5083922147750854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-04T22:01:37Z",
+        "content": "Stock Charts 101! See how to decode the lines and symbols of a stock chart, plus spot the patterns that can mean big gains! Check out our FREE INFOGRAPHIC: shop.investors.com/offer/sp... $STUDY",
+        "sentiment": {
+            "TextBlob": 0.029166666666666674,
+            "NLTK": 0.7916,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932829141616821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-04T21:02:27Z",
+        "content": "$SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620757699012756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-04T20:40:34Z",
+        "content": "In case you missed our market video from today, here is the link! $IGV $ZS $MCD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975178241729736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketSmith",
+        "timestamp": "2019-06-04T16:33:44Z",
+        "content": "Check out IBD Stock Of The Day! $LMT $NOC $RTN $LLL $HEI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913772344589233
+            }
+        },
+        "image_url": ""
+    }
+]

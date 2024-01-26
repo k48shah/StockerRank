@@ -1,0 +1,394 @@
+[
+    {
+        "username": "Vest1",
+        "timestamp": "2022-12-14T03:07:02Z",
+        "content": "$DWAC The stock is dead. Large holders inject on low volume,  get some buyers in and rug pull more out. It will keep fading as mm try to hold option levels without large losses.",
+        "sentiment": {
+            "TextBlob": 0.1457142857142857,
+            "NLTK": -0.63,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99808669090271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2022-10-13T22:02:16Z",
+        "content": "$AGEN long but this takes time. Not what the market is interested in as debt draw increases. Rough road ahead for a while.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993869066238403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2022-09-23T04:06:51Z",
+        "content": "Truthfully has no effect just a fan. We see near ten up and down.  Most will lose $. I will not sell. Cpi and inflation data will show slight hurt, then alot of hurt jpowell will pause. Then quickly put.",
+        "sentiment": {
+            "TextBlob": 0.15873015873015875,
+            "NLTK": -0.7769,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991593360900879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2022-09-23T03:58:58Z",
+        "content": "$DIA didn't look good fellas browns won",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.3169,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998976469039917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2022-03-31T03:24:36Z",
+        "content": "$AKBA Could be thinking of another company but didn't akba have a fast track or something of the sort that they could have used but didn't due to its value?",
+        "sentiment": {
+            "TextBlob": 0.037500000000000006,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971562623977661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2022-02-19T00:59:52Z",
+        "content": "$CZOO Is warrant expiration 5yrs?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972490668296814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2021-11-18T16:58:56Z",
+        "content": "$KLIC Options exp tomorrow. Next week climbs quickly without overall market correction. Shares on sale today.",
+        "sentiment": {
+            "TextBlob": 0.1111111111111111,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9855109453201294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2021-10-07T01:33:40Z",
+        "content": "$AUPH it was a nice buy dip tonight after selling a 1/3 a while ago it dipped to my price point and I'll buy again with conviction tomorrow or the next dip.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9760096669197083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2021-08-29T08:12:36Z",
+        "content": "$ATER could squeeze with this much attention",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8611007332801819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2021-08-28T03:40:24Z",
+        "content": "$DKNG easy double. Shouldn't take long.",
+        "sentiment": {
+            "TextBlob": 0.1277777777777778,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956543445587158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2021-08-13T04:07:20Z",
+        "content": "$TWOH pump and dump",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982784986495972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2021-08-12T03:28:51Z",
+        "content": "$PLTR if I was a bear, this is the one I would worry about. Little info. Eventually there will be a burn.",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990767240524292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2021-06-15T15:26:48Z",
+        "content": "$ETON people don't understand this approval is just a tease of other immediate approvals. Not the day to sell.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.3237,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931134581565857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-10-07T05:55:45Z",
+        "content": "$CLSK the only problem with this one is loose lips. Had good pr this morning and someone leaked tonight. You saw the price react early today.",
+        "sentiment": {
+            "TextBlob": 0.18076923076923077,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985637068748474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-08-26T04:39:27Z",
+        "content": "$CLSK would enjoy hearing some clsk long holds(several years even if unsuccessful). Have had success and some not. Amgen great, still holding mannkind and continue to add. Several others that have past away.",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.5583,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9864526391029358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-08-24T02:43:29Z",
+        "content": "$MNKD options week is over. Gladly exercised some shares. I look for this to start movin. Many, many years here but wildly undervalued within current scrips n especially the royalty.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9824358224868774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-08-20T04:27:22Z",
+        "content": "$MNKD \n2009. it will win. Accumulated a lot. Thx mnkd.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7188504934310913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-08-13T01:28:27Z",
+        "content": "$DFFN have avg down. They are quiet   This will be a boom.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9481889605522156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-29T03:31:21Z",
+        "content": "$TFFP watching but other biotech in this space has not done well. Small  position and  this changes the space.",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": -0.3007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8926514387130737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-24T17:53:40Z",
+        "content": "$CLSK wish u guys would stop selling.  I keep having to transfer  $ from my bank acct to buy these dips.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990567564964294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-24T03:01:57Z",
+        "content": "$CLSK you guys are hoing for the top. Why not walt for the high?",
+        "sentiment": {
+            "TextBlob": 0.33,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975985884666443
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-24T02:49:20Z",
+        "content": "$MNKD Shane on  u.  Feel dirty?\nAhhhh uuuu make excuses for such.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991766810417175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-24T02:43:26Z",
+        "content": "$MNKD how much do u guys make for doing this every day?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998286783695221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-24T02:14:19Z",
+        "content": "$MNKD can someone show  short  interest? We've known these guys are here . All joker territory. Been here since 15'.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988754391670227
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-16T16:53:51Z",
+        "content": "$DFFN if u want a long hold this is the one. This is an unmet medical need that had implications far beyond covid. It can easily become a standard of care.",
+        "sentiment": {
+            "TextBlob": 0.09666666666666666,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9808259606361389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2020-07-09T04:43:15Z",
+        "content": "$MNKD  lol these mike posts all have  agenda be careful.",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963172674179077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2017-11-20T13:07:17Z",
+        "content": "$MNKD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998297393321991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Vest1",
+        "timestamp": "2017-11-16T12:51:14Z",
+        "content": "$MNKD saw the commercial in central ohio last night",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947456121444702
+            }
+        },
+        "image_url": ""
+    }
+]

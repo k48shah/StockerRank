@@ -1,0 +1,2578 @@
+[
+    {
+        "username": "sentimentrader",
+        "timestamp": "2019-07-01T16:35:39Z",
+        "content": "Bitcoin never quite triggered \"bubble\" signals, but it has still moved +/- 4% for 6 straight days.\n\n#bitcoin $BTC.X $XBT_F",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964487552642822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2017-09-16T15:30:59Z",
+        "content": "Wut             businessinsider.com/stock-m... $SPX $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976154565811157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2016-07-08T19:15:53Z",
+        "content": "There have been 8 times when $SPY, $TLT, $GLD all up when payrolls beat estimates. A week later, SPY down 7 times, avg -1.9%.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996213912963867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2016-01-19T16:16:54Z",
+        "content": "Since the 2008 crisis, only two days had more financial stocks at new lows than Friday did. $XLF Bullish",
+        "sentiment": {
+            "TextBlob": 0.1590909090909091,
+            "NLTK": -0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988817572593689
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2016-01-14T15:09:07Z",
+        "content": "More than 3 put options traded for every call in $TWTR.P over the past month. Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987006187438965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-24T18:41:52Z",
+        "content": "Returns when $GLD gaps down to a yr low, then closes up. Tiny sample size and all the usual caveats. $gold $GC_F",
+        "sentiment": {
+            "TextBlob": -0.10138888888888889,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937204122543335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-22T19:14:54Z",
+        "content": "10-day losing streaks in gold. Umm, yeah...rare. $GC_F $GLD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968388080596924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-22T15:59:43Z",
+        "content": "Obsessed lately? Twitter mentions of gold skyrocket. $GC_F $GLD",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9825419187545776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-21T19:50:06Z",
+        "content": "Optimism on $AAPL is in the top 1% of its 3-year history. It is the 19th most-loved stock in the S&P 1500.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992808699607849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-20T18:36:58Z",
+        "content": "If the S&P closes at a new high and we don't see more advancing stocks, it will be the worst NYSE breadth day ever (since '62). $SPX",
+        "sentiment": {
+            "TextBlob": -0.050909090909090904,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997865557670593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-17T19:01:58Z",
+        "content": "This could be the 2nd time $NASDAQ up 1% to a 52wk high with more decliners than advancers. h/t @jessefelder",
+        "sentiment": {
+            "TextBlob": 0.22,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963147044181824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-17T17:49:09Z",
+        "content": "If gold $GLD closes below its lower Bollinger Band and at a 1yr low, returns if you WAIT two days then buy.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961853623390198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-15T19:15:53Z",
+        "content": "In a week, $13 billion+ flowed into the \"big four\" index ETFs, $SPY, $QQQ, $DIA, $IWM. 3rd highest in 5 years.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.903404951095581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-14T14:26:43Z",
+        "content": "Google sentiment, getting optimistic. $GOOG $GOOGL. @hmeisler @sharkbiotech",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961022138595581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-10T19:39:09Z",
+        "content": "Smart money goes long ~$5 billion in index futures this week, 3rd highest of the bull market. $SPX $SPY",
+        "sentiment": {
+            "TextBlob": 0.054761904761904755,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905712604522705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-10T13:53:00Z",
+        "content": "This is 6th open gap of +/-.75% in $SPY, past 10 days. Matched by May '10, Aug '10 , Aug-Nov '11. Bottom action during bull mkts.",
+        "sentiment": {
+            "TextBlob": -0.049999999999999996,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996857643127441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-09T18:15:06Z",
+        "content": "Largest weekly outflow among active ETFs = $EEM. Largest inflow = $XLF...that's a new 5-year high.",
+        "sentiment": {
+            "TextBlob": 0.05434343434343434,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7914227843284607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-09T01:34:57Z",
+        "content": "Rare to see an ETF trade 7% away from NAV. $ASHR at -8%. When it was +7%, the air leaked out for months.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993157386779785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-07-07T18:12:36Z",
+        "content": "When $SPY drops 0.5% to a 3mo low then closes positive, > 200 day avg, up 11/13 times next week.",
+        "sentiment": {
+            "TextBlob": 0.07575757575757576,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930904507637024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-06-29T14:41:49Z",
+        "content": "When the Nasdaq Composite ($COMPQ) lost its 50 day avg via a 1% gap down, 10/11 instances saw risk>reward over next 1-4 weeks.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932475090026855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-06-23T21:03:06Z",
+        "content": "Here's the last time $NFLX split its stock...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963406920433044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-06-05T19:07:07Z",
+        "content": "\"Meh\" reaction from $SPX. Still has time, but mkts that can't rally from pessimism get a note from teacher.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.395,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938382506370544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-05-29T14:52:25Z",
+        "content": "Whoa. Ratio of assets in equity funds versus money markets. Big surge in April. $SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9575704336166382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-05-28T13:57:23Z",
+        "content": "Most active ETF win rates for June. Homebuilders $XHB, ouch.",
+        "sentiment": {
+            "TextBlob": 0.3888888888888889,
+            "NLTK": 0.7939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9746944308280945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-05-26T19:48:31Z",
+        "content": "Every $SPX break from tight range at a hi led to a bad month. Relaxed inputs for larger sample still neg.",
+        "sentiment": {
+            "TextBlob": -0.2928571428571428,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994389414787292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-05-26T13:19:33Z",
+        "content": "$SPY returns the day after Memorial Day @CashRocket @gregvanman69",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6268540024757385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-05-22T19:34:40Z",
+        "content": "The latest Commitments of Traders report - not a great sign for silver $SLV. Bearish",
+        "sentiment": {
+            "TextBlob": 0.04999999999999999,
+            "NLTK": -0.4203,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997249245643616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-05-22T16:10:50Z",
+        "content": "Fund flow in REITs $VNQ about the worst seen in the past five years. Bullish",
+        "sentiment": {
+            "TextBlob": -0.625,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991501569747925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-05-21T19:00:34Z",
+        "content": "Fund flows into small-cap $IWM nearing the top of its range over the past year. Bearish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892681241035461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-02-04T15:10:25Z",
+        "content": "Investors haven't exactly been giddy about $PG this year, with optimism at its lowest point in 3 years. http://stks.co/q1PL8",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986987113952637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-01-29T15:16:54Z",
+        "content": "Instances when the FOMC gives the economy or employment a \"solid\" in a policy statement.  $SPX http://stks.co/g1e1e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913071990013123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2015-01-27T20:04:01Z",
+        "content": "Optimism on $AAPL was relatively low heading into their last earnings report.  Now facing a higher hurdle.  http://stks.co/a1YwO",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993414282798767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2013-01-23T20:21:42Z",
+        "content": "This will be only the 3rd time in its history that $SPY closed above its open for 10 straight days (10/16/06 & 2/11/11).",
+        "sentiment": {
+            "TextBlob": 0.016666666666666666,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7822311520576477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2013-01-04T20:31:38Z",
+        "content": "@fundmyfund Surely.  Has happened 13 times for $IWM.  Next week was positive 4 times, avg return -0.2%.",
+        "sentiment": {
+            "TextBlob": 0.24242424242424243,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9596928358078003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2013-01-04T17:24:40Z",
+        "content": "When the $VIX closes < 14 for the 1st time in 3 months, 2 weeks later it was higher 5/5 times, +26% avg.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928781390190125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2013-01-02T20:54:47Z",
+        "content": "This will be only the 2nd time in history that $VIX closed down >15% two days in a row (10/29/87).",
+        "sentiment": {
+            "TextBlob": -0.0638888888888889,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980134963989258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-12-31T21:18:28Z",
+        "content": "Today saw one of the 10 lowest $TRIN, or Arms Index, readings since 1950.  Of the 10 others, $SPX was up 30 days later 9 times.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999484658241272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-12-28T14:22:34Z",
+        "content": "@fundmyfund 10/23/12.  There were 6 distinct occurrences in 2012 of 4 gaps down in a row in $SPY.",
+        "sentiment": {
+            "TextBlob": 0.0722222222222222,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997653067111969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-12-27T17:31:26Z",
+        "content": "Thanks, Congress...this is now the worst 4-day Christmas stretch for the S&P 500 since at least 1950. $SPX $SPY",
+        "sentiment": {
+            "TextBlob": -0.3666666666666667,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997079968452454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-11-13T14:28:26Z",
+        "content": "Fun FWIW Fact...when $SPY opened down at least -0.5% to a 3-month low on a Tuesday, it gained into Thursday's open 8/9 times.",
+        "sentiment": {
+            "TextBlob": -0.031111111111111117,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.932106614112854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-08-21T19:48:35Z",
+        "content": "# of times $SPY hit a 52-week high then reversed to close below 3 prior closes:  12.  # of times it marked a major top:  0",
+        "sentiment": {
+            "TextBlob": 0.1645,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742255210876465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-07-24T20:41:31Z",
+        "content": "There were 8 times $AAPL gapped >-5% after earnings.  Impact on the broader mkt in days/weeks ahead was...exactly same as random.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968315958976746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-06-28T14:21:52Z",
+        "content": "@fundmyfund It's not uncommon at all.  110 such days (<1% range in June) in $SPY history.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964157342910767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-06-19T19:26:57Z",
+        "content": "Fun fact...if $SPY was up 3 days in a row into a FOMC day, it was also up that day 15/15 times.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9970006346702576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-06-08T15:49:51Z",
+        "content": "When $VIX and $SPX both up on a Friday, on Monday $SPY gapped up 56% of the time, but declined into the close 61% of the time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999038815498352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-04-10T19:52:42Z",
+        "content": "Of the 21 other times $VIX has jumped +10% two days in a row, the next week was positive 18 times, avg +1.3%.",
+        "sentiment": {
+            "TextBlob": 0.03409090909090909,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8956577777862549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-04-10T18:16:37Z",
+        "content": "According to Bloomie, @fundmyfund, $ZOLL, $IOC, $JAZZ, $NEM, $DFG, $MMI, $ABC, $HPQ, $CRK, $LOGI, $SVU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993287980556488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-03-29T20:16:21Z",
+        "content": "@abnormalreturns @VIXandMore That reading was misleading .3 call series in $MU accounted for almost all of it.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994475245475769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-03-28T19:50:07Z",
+        "content": "It's no contest, $CSCO wins vs $AAPL @fundmyfund ow.ly/i/xcCq",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6735674738883972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-02-29T18:49:47Z",
+        "content": "A month after 5 other stocks hit $5b mkt cap, every one was negative, avg -15.9%.  Details in tonight's member report.$$ $aapl",
+        "sentiment": {
+            "TextBlob": -0.2125,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979093670845032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-02-28T20:57:44Z",
+        "content": "Just a reminder about $AAPL stock price after the introduction of IPad 2... ow.ly/i/tZkL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966907501220703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-02-03T13:54:14Z",
+        "content": "When Payrolls >50k beat, and $SPY gaps >+0.5%, next 3 days up 4/14 times, -0.9% avg.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963369369506836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-02-02T21:20:35Z",
+        "content": "When $SPY closed at 6-month high and volume was within 10% of its low of the past month, next 2 days were positive 12/46 times.",
+        "sentiment": {
+            "TextBlob": 0.0062121212121212105,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9328403472900391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-01-24T21:42:42Z",
+        "content": "$AAPL has gapped +10% following earnings 4 times since '97.  Over the next week, $NDX was positive 0/4 times",
+        "sentiment": {
+            "TextBlob": 0.07575757575757576,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822120070457458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2012-01-17T14:27:55Z",
+        "content": "Only twice before has $SPY opened >+0.5% after MLK day (1999 and 2002).  Didn't gain >0.3% rest of week either time, FWIW.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4168,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946409463882446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-12-21T23:04:09Z",
+        "content": "@bespokeinvest And Jeff Bezos has lost ~$4.2 billion since the BusinessWeek \"Company That Ate The World\" cover story. $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999727189540863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-12-21T20:58:05Z",
+        "content": "Re: prior stats, this would be only 2nd time in past decade that $SPX up on a day the $NDX lost -1.5%.  7/18/08 was the other.",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980694651603699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-12-21T18:47:06Z",
+        "content": "This could be only 3rd time in 10 years $SPX down <0.75% when $NDX down >2.5%.  11/8/07, 10/14/08 were the others.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992227554321289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-12-20T16:42:52Z",
+        "content": "When $SPY gapped up >1.5% and hit a higher high this late in the morning, it closed < open only 3 of 25 times since '98.",
+        "sentiment": {
+            "TextBlob": 0.0016666666666666728,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898339509963989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-12-13T19:43:25Z",
+        "content": "When $SPY lost >1% the day before a FOMC day and then lost >0.4% the day of...uhh, wait, it's never happened before.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984068274497986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-12-12T20:39:51Z",
+        "content": "If $SPY lost -1.5% or more the day b/4 a scheduled FOMC meeting, FOMC day never lost more than -0.3%.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9633896946907043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-12-02T13:10:56Z",
+        "content": "If $SPY gapped up >1% on Nonfarm Payroll day, when already up on the week, next 3 days were 2/11, -1.2% avg.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985404014587402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-11-09T18:59:18Z",
+        "content": "When $SPY gaps >-1% and then has a lower low this late in the day, it rallied in the last 2 hours 14/38 times.  Only once by +1%.",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943640232086182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-10-28T22:21:24Z",
+        "content": "$YHOO to sell its Asian assets (tax event?) and buy back its own shares (maybe).  Can't imagine a bigger corporate finance mistake.",
+        "sentiment": {
+            "TextBlob": 0.12,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985658526420593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-10-25T20:18:14Z",
+        "content": "Since just before Jeff Bezos' BusinessWeek cover story, he has lost about $3,347,000,000.  Ouch.  $AMZN $$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997066855430603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-10-18T18:32:24Z",
+        "content": "Could be 8th time since '97 that $SPY was >+1% the day $AAPL reported earnings.  Next day was up 2 times, down 5, -0.3% avg.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966310858726501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-10-10T20:02:59Z",
+        "content": "This is the first time in the history of $SPY that it rose 3% or more on its lightest volume in a month. $$",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7632437944412231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-10-07T13:19:38Z",
+        "content": "There were 7 times $SPY rose >+0.5% on Wed & Thu, then gapped +0.5% on NFP day.  From Fri open thru Mon close, 6 loses, 1 win.$$",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961104989051819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-08-05T20:05:11Z",
+        "content": "$SPY volume >600mm shares for 14th time in its history.  After the others, it was positive over the next 3 days 10/13 times.$$",
+        "sentiment": {
+            "TextBlob": 0.11363636363636363,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9895910620689392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-08-04T20:23:55Z",
+        "content": "I can find only 2 other times $VIX up 35% to a one-year high.  10/19/87 and 10/13/89.  S&P was up +5.3% and +2.8% next day, FWIW.$$",
+        "sentiment": {
+            "TextBlob": 0.00875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947559833526611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-07-19T21:01:11Z",
+        "content": "There was only 1 other time in the past 15 years that $AAPL closed at a 52wk high on earnings day, then gapped +5% - 10/23/07.",
+        "sentiment": {
+            "TextBlob": -0.06299999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996309220790863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-06-14T16:37:05Z",
+        "content": "RT @agwarner: Where I demonstrate yesterday's $VIX lift was *real*, just ahead of today's $VIX drop , on @InvestorPlace http://t.co/JwG02iZ",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9626012444496155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-06-10T17:19:07Z",
+        "content": "Next-month returns since 1900 when $DJIA loses 6wks in a row and is above 52wk avg: +2.9%, -1.7%, +2.2%, +3.7%, +4.5%.  $$",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9757120013237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-06-08T13:15:05Z",
+        "content": "$SPY has dropped 5 straight days into a Tuesday 11 times.  All 11 rallied on Wednesday. $$",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909601211547852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-05-06T17:36:35Z",
+        "content": "There have been 6 Bearish Engulfing candles on weekly $SPY when at a 52wk hi.  All led to lower prices; all but one >-3% loss.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995301961898804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-05-06T13:03:04Z",
+        "content": "When payrolls >+50K, $SPY gaps up 76% of the time, +0.5% avg.  Open to close was up only 34% of the time, -0.1% avg. $$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974111914634705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-04-27T13:29:56Z",
+        "content": "RT @tradefast: http://on.wsj.com/g71VGL  WSJ - day traders \"are going crazy\" in silver  $SLV",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996059775352478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-04-20T12:22:46Z",
+        "content": "When $SPY gaps up >1% on >5% gap in $INTC the morning after its report, future was mixed.  Better than when SPY gaps <1%, though.$$",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991101086139679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-04-14T13:25:09Z",
+        "content": "This would be the 8th time that $SPY slid 5 days in a row then gapped -0.5%.  6 out of 7 prior led to rebound into next close.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863903522491455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-04-11T21:08:21Z",
+        "content": "Very rare to see $VIX down this much with $SPY also down.  A dozen cases since '93, kinda bearish short-term, bullish longer-term.$$",
+        "sentiment": {
+            "TextBlob": 0.06972222222222221,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994731545448303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-04-01T13:01:31Z",
+        "content": "When Payrolls >+25 and $SPY gaps >+0.5%, next 3 days were up 6/18 times. Took an avg of 5 days to close gap; 3 times it never filled.$$",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995883107185364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-03-03T21:49:26Z",
+        "content": "$SPY has rallied >1.5% the day before a Payroll report 15 times.  It closed higher on report day 11 times, +0.4% avg. $$",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995219886302948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-03-01T21:17:15Z",
+        "content": "1st time since 06/10 that $SPY started a month with >1% loss.  Of 16 precedents, 10 were up over next 3 days; not a huge edge.$$",
+        "sentiment": {
+            "TextBlob": -0.10000000000000002,
+            "NLTK": -0.5043,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993744492530823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-02-07T14:15:03Z",
+        "content": "5 times $SPY at 52wk high on Payroll day, then gapped >+0.25%.  Next 3 days: -1.0%,-0.2%,-1.8%,-1.1%, -0.1%.  Only 1 >+1% at any point.$$",
+        "sentiment": {
+            "TextBlob": 0.05333333333333334,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977318644523621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-02-04T20:31:53Z",
+        "content": "80% of the time when $SPY closed at a 52wk high on Payroll Report day, it had a lower close within 3 days.$$",
+        "sentiment": {
+            "TextBlob": 0.03,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974608421325684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-28T19:13:32Z",
+        "content": "Could be 1st time since '80 that $SPX hit a 52wk hi then closed at 10day low.  Usually more selling next few weeks, avg -5%.$$",
+        "sentiment": {
+            "TextBlob": 0.04,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981278777122498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-19T20:44:36Z",
+        "content": "Of the 23 times $SPX has gone at least 30 days w/o a 1% drop, coming off a 52-week high, it was higher 3 days later 74% of the time.$$",
+        "sentiment": {
+            "TextBlob": 0.027500000000000004,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967213273048401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-17T15:40:00Z",
+        "content": "So un-important, but last time Jobs stepped down from $AAPL was 1/14/09.  Stock opened -6%, went -8% next few days.  That was its bottom.$$",
+        "sentiment": {
+            "TextBlob": -0.0888888888888889,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993010759353638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-13T21:31:59Z",
+        "content": "This is 5th time $NDX was w/in 3% of 52wk hi when $INTC reports Q4 results.  Rest of earnings season:  -1.7%, -3.5%, -1.1%, -3.4%.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884338974952698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-11T14:37:14Z",
+        "content": "61% of the entire 2010 rally in $SPY was due to gap opens on the first day of a new month.  Unusual, yes, but it was 65% in 2005.$$",
+        "sentiment": {
+            "TextBlob": 0.09227272727272727,
+            "NLTK": 0.2144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943472743034363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-07T14:29:25Z",
+        "content": "5 times Payrolls < est but $SPY gapped up, near 52wk hi.  Close>open all 5 times. But 1mo later = -1.3%, -4.8%, -2.8%, -1.1%, -4.5%.$$",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945843815803528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-06T20:54:44Z",
+        "content": "Consensus seems to be a beat on Payroll.  When jobs >50k than est, $SPY gapped up 76% of the time.  But next 3 days up only 9/29 times.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973523616790771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-06T14:37:52Z",
+        "content": "When $SPY closed January Payroll report week with a gain, here are next 2 week returns: -1.3%, -3.1%, -3.8%, -8.5%, +3.1%, -1.6%, -4.2%.$$",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99457848072052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-03T15:18:43Z",
+        "content": "$SPY started a new year with >+1% gain 6 times.  Here are its next 3-week returns: -1.4%, -2.0%, -2.6%, -0.1%, -10.6%, -3.1%.$$",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950266480445862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2011-01-03T13:44:22Z",
+        "content": "Bear stat du jour: $SPY >+0.5% to start a new year when near a 3mo high 5 times: '97, '00, '02, '05 & '10. 4 of 'em gave back Dec gains.",
+        "sentiment": {
+            "TextBlob": 0.09909090909090909,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9743777513504028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-12-22T20:08:41Z",
+        "content": "FWIW stat du jour.  Last 3 times $SPY formed back-to-back NR7 days at a 52wk hi: 12/24/04, 2/2/07, 4/12/10. All >-4% drop over next month.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974109530448914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-12-17T19:08:44Z",
+        "content": "When weekly $VIX closes < lower Bollinger Band, next 6 weeks VIX up 13/15 times, avg +22.7%. Median max loss -2.1%, median max gain +35.0%.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993354082107544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-12-10T18:34:14Z",
+        "content": "ISE Equity Call/Put ratio likely to close at 2nd-highest level in 5 yrs.  $GE is making up much of the call volume on that exchange,FWIW.$$",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849423170089722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-11-16T21:13:03Z",
+        "content": "This is the 3rd time $SPY has suffered a \"breakaway gap\" off a high.  Others were 2/20/96 & 4/27/98.  Both led to immediate rebounds,FWIW.$$",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5796809196472168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-11-04T15:36:37Z",
+        "content": "If u like beating your head against a wall...when $SPY has an unfilled gap to 6mo hi and close>open, next 2wks up 2/16 times, -2.1% avg.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978819489479065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-11-04T12:53:46Z",
+        "content": "Not that this matters post-Fed, but 1-day returns when $QQQQ at 1yr hi then gaps +0.75%: -2.3%, -3.2%, -2.2%, -3.3%, -3.1%.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0161,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959371089935303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-11-02T16:44:39Z",
+        "content": "As volatility drags along near its lowest levels of the year, Goldman recommends that clients buy puts...on the $VIX.$$",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959589838981628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-29T12:05:47Z",
+        "content": "RT @VIXandMore: A transcript of my conversation with Charles Kik:  (good questions about the $VIX, $VXX,  ...",
+        "sentiment": {
+            "TextBlob": -0.025000000000000022,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.879898190498352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-22T20:08:48Z",
+        "content": "This is the 10th time $SPY had the narrowest range & volume in 3mos that wasn't near a holiday.  No particular bias after the others.$$",
+        "sentiment": {
+            "TextBlob": 0.008333333333333338,
+            "NLTK": -0.195,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878988862037659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-18T19:37:14Z",
+        "content": "If you bought $AAPL at next day's open, the returns were -5.0%, -16.8%, -3.7%, -18.5%.  Just sayin'. $$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916632175445557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-18T19:35:47Z",
+        "content": "This is the 5th time $AAPL has ramped +30% and at a 52-wk hi on earnings day.  3 wks later, its returns were +4.5%, -18.6%, -3.8%, -11.8%.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866049885749817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-18T16:34:10Z",
+        "content": "$NDX stats over next 5 days when it was w/in 2% of a 52-week hi when $AAPL reports:  Up 4/14 times, -1.1% avg, -3.1% risk, +1.5% reward.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953769445419312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-13T15:04:14Z",
+        "content": "This would be only the 2nd time since mid-90s that $SMH lost at least -0.5% the day after $INTC earnings but $QQQQ closed higher.$$",
+        "sentiment": {
+            "TextBlob": -0.030000000000000006,
+            "NLTK": -0.1655,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998666524887085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-13T12:59:14Z",
+        "content": "RT @TradingTheOdds: New blog post: Multiple 3-Month Highs (SPX) and Lows (VIX)    URL: http://bit.ly/aqJ7Il ($$ $SPX $ES_F $NDX $NQ_F)",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962280988693237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-10-08T19:07:32Z",
+        "content": "Of the 7 times the $VIX closed at a 1-mo low b/ween Oct 1st-10th, the next 2 wks showed a S&P median return of -2.6% & 7-to-1 risk/reward.$$",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921903014183044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-08-16T18:59:25Z",
+        "content": "If $SPY was down 5 straight days into a Monday, then through Thursday it was up 7 out of 8 times, +1.7% avg (the loser was -0.3%).$$",
+        "sentiment": {
+            "TextBlob": 0.022222222222222213,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958152174949646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-08-16T18:57:00Z",
+        "content": "If $SPY closes down, it would only be the 3rd 5-day losing streak since Mar '09.  The others were 6/24/10 and 7/2/10.$$",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985128045082092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-07-30T13:42:12Z",
+        "content": "@tradefast re: Mondays and 1st day of month.  When 1st trading day in Aug = Monday, $SPX up 59% of the time, incl 7 of last 8 years.$$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897575378417969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-05-19T18:35:44Z",
+        "content": "$C also playing havoc with Arms Index (aka TRIN).  If C flips down, watch TRIN spike.  $C volume 6 times heavier than next SPX component.$$",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963629841804504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-05-19T18:20:36Z",
+        "content": "Big spike in p/c ratio, but heavy #puts in $C again, May series  Harder to trust p/c when so much volume in 1 stock, to expire in 2 days.$$",
+        "sentiment": {
+            "TextBlob": -0.02500000000000001,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995136260986328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-05-06T19:28:01Z",
+        "content": "Of the 5 times $VIX up 40% in a day, S&P negative 10 days out each one.  Usual pattern...very s.t. bounce, then retest of panic low.$$",
+        "sentiment": {
+            "TextBlob": -0.18333333333333335,
+            "NLTK": -0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988046884536743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-05-05T13:26:12Z",
+        "content": "Wow, it's been awhile.  Last time $SPY lost -2% then gapped -1% was 3/2/09.  Historically, it was up 73% of time over next 2 days, FWIW.",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896671772003174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-05-03T16:47:31Z",
+        "content": "$AAPL accounts for 24% of the $NDX rise today.  The next-biggest contributor is $CSCO, with...4.5%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7222571969032288
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-04-15T18:00:31Z",
+        "content": "P/C ratios ridiculous again today.  Without Citigroup ($C), CBOE ratio would only move from 0.38 to 0.41.  Still historically low. $$",
+        "sentiment": {
+            "TextBlob": -0.1111111111111111,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991264939308167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-04-13T20:24:56Z",
+        "content": "Seems like we do this every report....when $INTC gaps &gt;+2%, buying the gap and holding for 3 days wins 31% of the time, -1.6% average.",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5032792091369629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-04-09T15:20:40Z",
+        "content": "Tight window, but $SPY close b/ween 118.76-119.03 will be a sell into Monday morning...esp with such heavy call buying: ise.com/WebForm/viewPage.as...",
+        "sentiment": {
+            "TextBlob": -0.1261904761904762,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943073391914368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-04-06T13:06:18Z",
+        "content": "Not my usual cup of tea, but:  iPad, Apple, And The Next Week (Or So):  sentimentrader.blogspot.com... $AAPL $NDX #ipad #aapl",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940335154533386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-04-05T15:20:57Z",
+        "content": "With yield on 10-year oh-so-close to 4%, $LQD and $HYG funds acting poorly in relation to $SPY.  Largest divergence since late December.",
+        "sentiment": {
+            "TextBlob": -0.2333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996896982192993
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-03-29T19:23:08Z",
+        "content": "$SPY has had 12 unfilled Monday gaps up in past year.  9 of them led to negative returns by Thursday's close, 2-to-1 risk/reward ratio.",
+        "sentiment": {
+            "TextBlob": -0.275,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988601207733154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-03-08T18:42:17Z",
+        "content": "Whenever $SPY formed a NR7 day  with the highest high in a month and lowest volume in a month, had a lower close w/in 5 days 12/13 times.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984588623046875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-02-18T22:16:08Z",
+        "content": "RT @agwarner: $SPX Feb. options have essentially expired, but don't settle until opening prices tomorrow, so pre-open moves can magnify.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921614527702332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-02-05T21:05:24Z",
+        "content": "Will take a bit more study, but reversals like today on huge volume (in $SPY) have been very inconsistent predictors of lasting reversal.$$",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980465173721313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-02-05T19:08:42Z",
+        "content": "RT @agwarner:  if you widen parameters ever so slightly, $VIX up 19.2% Jan 21 then 22.6% on Jan. 22.&gt;&gt;Good point...and similar result.",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9604350924491882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-02-05T19:03:15Z",
+        "content": "Amazingly, there has only been 1 other time $VIX rose &gt;20% one day then &gt;10% the next - 8/6/90.  Led to short-term bounce, but that's it.$$",
+        "sentiment": {
+            "TextBlob": 0.21500000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9525941610336304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-02-01T21:01:30Z",
+        "content": "When $SPY closed at a 2-month low, then gaps up and closes &gt; open on at least 25% lower volume, it's short-term future was...not...good.",
+        "sentiment": {
+            "TextBlob": -0.08,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997674822807312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-01-14T21:36:33Z",
+        "content": "When $INTC gaps &gt;+2% on earnings & $QQQQ is near a 52-week high, QQQQ was positive only 1 out of 7 times 2 weeks later.",
+        "sentiment": {
+            "TextBlob": 0.09745454545454546,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9709032773971558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-01-14T21:34:37Z",
+        "content": "When $INTC gaps &gt;+2% on earnings & $QQQQ is near a 52-week high, QQQQ was positive only 1/10 times 2 weeks later.",
+        "sentiment": {
+            "TextBlob": 0.09745454545454546,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832594394683838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2010-01-12T20:49:27Z",
+        "content": "Bob McHugh $VIX sell signal today.  When we add a slight twist, the S&P was up only 3/11 times over the next month since '90.$$",
+        "sentiment": {
+            "TextBlob": -0.05555555555555555,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912694692611694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-12-14T21:04:04Z",
+        "content": "Only 2 other times $SPY made a one-year high in price and one-year low in volume on same day: 11/28/03 and 11/25/05.",
+        "sentiment": {
+            "TextBlob": 0.007000000000000001,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985587000846863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-12-14T20:43:39Z",
+        "content": "RT @agwarner: RT @day54 Turnaround Tues tomorrow SPY RSI 2 near 93-&gt;&gt; would have worked 51% of the time using $SPY.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983094930648804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-11-06T13:45:50Z",
+        "content": "When $SPY opens &lt;-0.5% on payroll day, close &gt; open 47% of the time...reversals are more consistent on more extreme reactions.",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889367818832397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-11-05T18:30:23Z",
+        "content": "For reference on $UUP, here is $UNG premium/discount after it halted shares on July 7th:   twitpic.com/odq9o",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990087151527405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-11-05T18:28:08Z",
+        "content": "$UUP discount/premium (per halted shares pending new issuance):   twitpic.com/odq1s",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99605393409729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-10-15T14:43:35Z",
+        "content": "When $SPY gapped down &gt;0.5% and didn't close gap w/in first hour, it closed in positive territory only 16% of the time (53/331 occurrences).",
+        "sentiment": {
+            "TextBlob": 0.04434343434343434,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5167354345321655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-07-30T19:29:07Z",
+        "content": "This is kinda crazy...assuming my data feed is correct, today is only 6th time since '40 that $TRIN is >1.5 and $SPX is >+1.5%.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970358610153198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-07-17T20:05:16Z",
+        "content": "Expiry normally = high volume.  According to Bberg, $SPY volume = lowest in 3 mos.  Only happened 3 other times, 6/18/99, 7/16/99 & 8/15/03.",
+        "sentiment": {
+            "TextBlob": 0.011666666666666667,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986804127693176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-07-14T21:46:50Z",
+        "content": "All 17 times $INTC gapped >+5% during earnings season since '97, S&P futes gapped up too, avg of +1.7%.  But close>open only 7 times.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868655800819397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-07-14T18:49:36Z",
+        "content": "$VIX predicting the future, and it's cloudy (hat tip @agwarner)  http://tinyurl.com/l9qyks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978511333465576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-07-14T16:05:15Z",
+        "content": "Few precedents, but...when $SPY was > +2% on Monday and b/ween 0% to +0.5% on Tues, it dropped into Thurs close 7 of 7 times, avg -1.6%.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986365437507629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-07-07T13:27:57Z",
+        "content": "Battle of the fear indexes - how the $VIX is hiding traders' fears  http://bit.ly/FC34U",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.8689,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975811243057251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-25T02:46:38Z",
+        "content": "@cperera When $SPY gaps up >+0.5% and also closes up >+0.5% on FOMC day, two days later it was negative 9/10 times avg of -1.9%.",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990672469139099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-24T16:18:01Z",
+        "content": "Further to the FOMC stats just tweeted, next day was up only 1 of the 6 times, with an avg of -1.0% in $SPY.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981402158737183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-24T16:17:25Z",
+        "content": "If a/d line was >+1500 at 2:00pm on FOMC day, the hour post FOMC was up 6/6 times, avg +0.7% on $SPY.  Into close it was 5/6, avg +1.2%.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980358481407166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-24T13:17:06Z",
+        "content": "RT @agwarner: really think attempts to chart $VIX particularly misguided this week. Will drop after Fed news, what's that prove?",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995303153991699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-23T16:34:36Z",
+        "content": "If we slide...all 5 times since '07 that $SPY was down 2 in a row into FOMC mtg, it rallied on FOMC day.  +2.9%, +4.2%, +0.5%, +2.7%, +2.1%.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848047494888306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-18T21:05:29Z",
+        "content": "@ryamada It's happened twice on expiration morning, $SPY gapped down twice by -1.8% and -0.1%.  Closed > open once, down once.",
+        "sentiment": {
+            "TextBlob": -0.1027777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975735545158386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-18T20:57:24Z",
+        "content": "When $BB gaps down -5% or more, SPY gaps down 85% of the time, by an avg of -1.1%.  But it closes > open 61% of the time, avg of +0.6%.",
+        "sentiment": {
+            "TextBlob": 0.047222222222222214,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935765862464905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-17T11:49:27Z",
+        "content": "Big miss from $FDX.  Dow futures dropped 20pts immediately.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896262884140015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-11T19:22:22Z",
+        "content": "Absolutely mandatory reading if you're trading commodity ETFs, $UNG in particular  http://tinyurl.com/lf6nbm",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.1513,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983453094959259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-06-09T19:57:33Z",
+        "content": "Odd that $VIX down >-5% with $SPY up less than +0.5%.  Historically not very meaningful, with $SPY up over next week 57% of the time.  But..",
+        "sentiment": {
+            "TextBlob": -0.16277777777777777,
+            "NLTK": -0.5391,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995307922363281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-05-19T19:40:31Z",
+        "content": "RT @VIXandMore Nice take on the $VIX by Steven Sears http://bit.ly/l8ZvC  #MKT",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8116046190261841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-05-18T19:55:09Z",
+        "content": "Per Bbberg, $GS, $JPM apply for early exit from under the TARP.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987508058547974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-05-18T13:47:47Z",
+        "content": "Those trading $UGA, be aware of what you're trading and why.  Severe backwardation (kinda like $USO in February) http://tinyurl.com/ql4rm4",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994624257087708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-05-12T17:12:04Z",
+        "content": "Know what you're buying with ETFs...this time with $UNG, which has become quite the cool kid lately  http://tinyurl.com/o6fy7r",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": 0.3774,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9060689210891724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-05-06T20:49:51Z",
+        "content": "Since '98 when $CSCO gaps up 5% during earnings season, S&P futes have gapped up 22 out of 24 times, avg +1.4%.  After that, not so good.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.464,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995445609092712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-05-06T18:55:55Z",
+        "content": "@agwarner It's all become so surreal as to be meaningless to me anymore.  Minyan Peter had a great point on $BAC on the Buzz a bit ago.",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993820190429688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-04-28T13:31:46Z",
+        "content": "$IBM boosts dividend, sets $3b buyback per Bloomberg.  Futures don't care.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0844,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998595654964447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-04-16T17:39:27Z",
+        "content": "@agwarner \"Volatility buyers in $FXI\"...any idea if this is usually \"smart money\" type of trading?",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988646507263184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-04-16T17:18:48Z",
+        "content": "$TRIN on Nasdaq lowest midday reading since 4/2, 3/26, 3/18...all days the mkt (esp $NASDAQ) had trouble maintaining upside momentum.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993465542793274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-04-09T17:45:09Z",
+        "content": "If $SPX closes here, would be 5th most-positive pre-holiday session since '50.  But beware post-holiday letdown...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894801378250122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-30T14:32:50Z",
+        "content": "There's the lower low in $SPY after first hour of trading.  Per morning comment, would be extremely unusual to see close>open today.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927653670310974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-23T15:10:19Z",
+        "content": "When $SPY gaps up >1%, then sets higher high during 10:30-11:00, closes even higher 4/5 times avg of +1.8%.  Rare to see big reversals.",
+        "sentiment": {
+            "TextBlob": 0.192,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9843660593032837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-19T18:37:07Z",
+        "content": "New blog post, \"Rydex Traders Are Playing Merger Arb\":  http://tinyurl.com/caa5c9  $SMH",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920916557312012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-19T17:49:39Z",
+        "content": "I've never found consistency in \"pin risk\" or \"max pain\" for indices, but FWIW here's the chart for $SPY:  http://tinyurl.com/cvf82m",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985737800598145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-12T17:16:46Z",
+        "content": "On $SPX, 740ish = R2 pivot, 38% retrace of Feb-Mar decline and breakdown level from end of Feb.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984498023986816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-11T18:43:07Z",
+        "content": "$JPM profitable in Jan and Feb according to Dimon.  Stocks lifting a bit on the news.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9742258787155151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-10T18:09:32Z",
+        "content": "When $SPY gaps > +1% and hits new high by 2:00pm, return to close is +0.7% with 17/21 positive.  Would be REALLY odd to see a major fade.",
+        "sentiment": {
+            "TextBlob": 0.08389393939393941,
+            "NLTK": 0.0706,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.945736289024353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-10T15:31:23Z",
+        "content": "$SPX got that higher high, would be exceptionally unusual to see close<open today.  Trend day looks good too, S&P should hold 702 intraday.",
+        "sentiment": {
+            "TextBlob": 0.3275,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9975417852401733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-09T16:41:28Z",
+        "content": "$TRIN still under 0.40.  It's been this low this late in the day only twice since bear began, 11/23/07 and 12/04/08, led to stock drops s.t.",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": -0.3346,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997569918632507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-09T14:21:19Z",
+        "content": "$SPX has minor resistance at 700, bigger trouble from 720-740.",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980370402336121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-06T15:52:36Z",
+        "content": "$SPX back under Tuesday's low...the gap up failure on jobs report scores again.",
+        "sentiment": {
+            "TextBlob": -0.15833333333333335,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995487332344055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-05T17:06:58Z",
+        "content": "> Why the $VIX could be maxed out, via the FT:  http://tinyurl.com/b5skjf",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984831213951111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-05T16:23:42Z",
+        "content": "> $C under $1.00/share",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910610318183899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-05T14:24:05Z",
+        "content": "> $WMT increases dividend 15%.  When was the last time we heard *that* among all the decreases?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983547329902649
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-04T20:26:39Z",
+        "content": "> Initial target for $S&P is 730 (not necessarily today).  Secondary target is 780.",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954161643981934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-04T15:32:18Z",
+        "content": "> $GE denying claims they need money in near-term.  Causing a little bounce in the stock & market.  Will be important tell today.",
+        "sentiment": {
+            "TextBlob": 0.10625000000000001,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9702642560005188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-02T15:56:01Z",
+        "content": "> As long as we're down here, would prefer to see a flush today into 68-70 on $SPY.  Based on recent comments, I would be int-term buyer.",
+        "sentiment": {
+            "TextBlob": -0.06851851851851853,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935626983642578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-02T15:43:11Z",
+        "content": "> There's the new low in $SPY after the first hour.  This is now more treacherous in terms of upside reversal attempts.",
+        "sentiment": {
+            "TextBlob": 0.2215909090909091,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994072914123535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sentimentrader",
+        "timestamp": "2009-03-02T15:01:19Z",
+        "content": "$SPY is so far holding this morning's gap low.  Most interested to see the first-hour range as per the morning comment.",
+        "sentiment": {
+            "TextBlob": 0.2125,
+            "NLTK": 0.2247,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97121262550354
+            }
+        },
+        "image_url": ""
+    }
+]

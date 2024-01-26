@@ -1,0 +1,44 @@
+[
+    {
+        "username": "leadlagreport",
+        "timestamp": "2022-11-04T10:43:35Z",
+        "content": "Emerging Markets $EEM now trading ABOVE the FOMC melt-down when nearly everyone started\u2026 facebook.com/login/?next=ht...",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822853803634644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "leadlagreport",
+        "timestamp": "2022-11-04T10:43:33Z",
+        "content": "Emerging Markets $EEM now trading ABOVE the FOMC melt-down when nearly everyone started\u2026 facebook.com/login/?next=ht...",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822853803634644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "leadlagreport",
+        "timestamp": "2022-06-22T23:49:34Z",
+        "content": "On June 15th, Tesla issued its fourth price hike\u2026 this year. $TSLA #automotive #EV\u2026 facebook.com/login/?next=ht...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9312270879745483
+            }
+        },
+        "image_url": ""
+    }
+]

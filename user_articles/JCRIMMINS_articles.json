@@ -1,0 +1,44 @@
+[
+    {
+        "username": "JCRIMMINS",
+        "timestamp": "2020-06-30T02:10:46Z",
+        "content": "$SPG @Daman125 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978298544883728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JCRIMMINS",
+        "timestamp": "2020-06-05T02:15:07Z",
+        "content": "$SPG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9821666479110718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JCRIMMINS",
+        "timestamp": "2020-05-05T02:21:35Z",
+        "content": "$TSLA @Daman125",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9676225185394287
+            }
+        },
+        "image_url": ""
+    }
+]

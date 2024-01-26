@@ -1,0 +1,2914 @@
+[
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-11-09T20:39:59Z",
+        "content": "$PERI Institutional Options Flow market active post-earnings.",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8846728801727295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-10-15T15:49:54Z",
+        "content": "$SKIN seeing IOF as it consolidates. Worth watching above $25 spot. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9037299156188965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-10-15T15:49:01Z",
+        "content": "$BROS attempting a rally up its right side. Recent REPEAT IOF. on the name as it consolidates.",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951855540275574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-10-15T15:48:17Z",
+        "content": "$AFRM a leading stock with Repeat IOF all September and October. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988864064216614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-10-15T15:47:26Z",
+        "content": "$UPST into $400s this morning after repeat IOF in the $250s. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979113936424255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-08-21T14:31:55Z",
+        "content": "$DLO a recent Gap Up on earnings is seeing Repeat Institutional Options Flow post-earnings. #IOF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951373934745789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-08-12T22:27:20Z",
+        "content": "$LYFT #IOF Markets active past week with repeat flow. Building Declining stops line on daily chart. Woth watching above $55 spot.",
+        "sentiment": {
+            "TextBlob": -0.09583333333333333,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993110179901123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-08-12T22:25:41Z",
+        "content": "$OKTA prints largest #IOF YTD on our database. Worth watching above 240 mark.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9909501671791077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-08-12T22:24:20Z",
+        "content": "$FICO seeing large IOF Premium today as it makes new lows on daily frame. Watch for reversal back up above the $470 mark on this stock.",
+        "sentiment": {
+            "TextBlob": 0.07012987012987013,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7944073677062988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-08-10T14:16:24Z",
+        "content": "$CFLT acting well after REPEAT IOF activity the last few weeks.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5327600836753845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-08-03T14:07:57Z",
+        "content": "The #IOF markets have been active on $LC - watching for repeat positioning next few weeks.",
+        "sentiment": {
+            "TextBlob": -0.11111111111111112,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997276246547699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-06-08T17:03:49Z",
+        "content": "$ABNB is seeing a pick up in volume on the #IBT markets. Such action results in large directional price movement in the coming weeks/months.",
+        "sentiment": {
+            "TextBlob": 0.10476190476190476,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6511198878288269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-06-07T23:14:49Z",
+        "content": "$PAGS is seeing Repeat #IOF activity as it works up its right side. Worth watching as it begins to consolidate its gains.",
+        "sentiment": {
+            "TextBlob": 0.2928571428571428,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9899918437004089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-05-27T14:23:51Z",
+        "content": "$DASH Has seen repeat #IOF activity post-earnings and is attempting the $150 mark today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7461972832679749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-05-24T21:11:04Z",
+        "content": "Similar to $PATH - $APP a new issue is seeing repeat activity since it's IPO.\n\nThis tells us institutional interest exists in $APP.",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935250282287598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-05-24T21:05:23Z",
+        "content": "$PATH It is rare for IPOs to see such heavy size via the #IOF markets early on. \n\nThat in and of itself is an edge to know institutional interest exists.\n\nThe rest is Price, Volume, Risk Management.",
+        "sentiment": {
+            "TextBlob": 0.049999999999999996,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9768948554992676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-05-24T20:58:14Z",
+        "content": "$RBLX #IOF markets remain active as price makes progress.",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9144615530967712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-04-14T03:54:23Z",
+        "content": "$SHLS a new issue - with the Block Trades market active in the $30s area. Working on a 3 Weeks Tight on its weekly. Good one to have on the WL.",
+        "sentiment": {
+            "TextBlob": 0.1311147186147186,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9948583841323853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-04-04T17:38:33Z",
+        "content": "$BMBL with Institutional Block Trade activity at the $61.9 level.\nIt's largest since its IPO. Watching for directional action in the coming weeks.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847437739372253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-26T03:41:40Z",
+        "content": "$GRWG seeing its largest IOF on our database today. The Cannabis space. Watch for a change in character and the $50 spot in the coming weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8648494482040405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-26T03:40:45Z",
+        "content": "The Institutional Block Trade Market has been active on $ABNB in the $175-180 area as the bulk of Block Trades have been made in that zone. A large one again today.\n\n$180/$200 are of interest to us in a cooperative market.",
+        "sentiment": {
+            "TextBlob": 0.04047619047619047,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7572281956672668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-26T03:14:40Z",
+        "content": "$LYFT acting well recent has seen large IOF activity with the largest bet on our database coming in last week.",
+        "sentiment": {
+            "TextBlob": 0.05357142857142857,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7430015802383423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-26T03:14:03Z",
+        "content": "$GM Continues to act well with REPEAT Institutional Options Flow the past month. Institutional Positioning via Options Market remains strong here.",
+        "sentiment": {
+            "TextBlob": 0.09166666666666665,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998672604560852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-26T03:13:06Z",
+        "content": "$MNDT continues seeing repeat Institutional Options Flow on weakness in price. In the Application Software space, acts well with Group RS on it's side.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9275436401367188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-26T03:12:17Z",
+        "content": "$PINS the Institutional Options Flow market has been active this week. It's largest bet on size in our database.",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9822307229042053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-02T00:26:08Z",
+        "content": "$CHWY with its largest YTD IOF today. $100 mark is solid support per our data.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999053418636322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-02T00:22:45Z",
+        "content": "$FSR Repeat IOF on strength. Should be watched for consolidation and tight action for possible entry, if not already long stock.",
+        "sentiment": {
+            "TextBlob": -0.03214285714285714,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8387768268585205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2021-03-02T00:20:34Z",
+        "content": "$LAZR Seeing repeat IOF activity the past two sessions on weakness in stock. \n\nV1 Characteristic on display. On watch for big volume move through $30/35.",
+        "sentiment": {
+            "TextBlob": -0.10555555555555556,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990215301513672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-12-30T14:24:15Z",
+        "content": "$JMIA seeing a pick up in Institutional Block Trades activity the past week. \n\nWatching for a change in character and price ranges to tighten in the coming weeks.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948251247406006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-12-04T18:15:19Z",
+        "content": "$NET acts well with large IOF earlier in the week. The edge is isn\u2019t \u201csee its up after seeing options flow\u201d the edge is that institutional interest exists. \n\n$70 key on weakness.",
+        "sentiment": {
+            "TextBlob": 0.05357142857142857,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964537620544434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-12-04T18:12:47Z",
+        "content": "$SE breakout today with IOF earlier in the week. Though it failed its breakout yesterday, data (IOF) chart adds to conviction to watch for \u201cin the wick\u201d action.",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9879433512687683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-12-04T18:11:08Z",
+        "content": "$PINS has seen repeat IOF since it\u2019s recent earnings gap up. \n\nA consolidation phase within $60-70 would be a +.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9581086039543152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-19T20:23:04Z",
+        "content": "Not all the charts are as clean as $BILI posted earlier and $SONO attached. \n\nRepeat IOF within sideways base structure and a buyable gap up post earnings.",
+        "sentiment": {
+            "TextBlob": -0.14444444444444446,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996533393859863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-19T18:36:22Z",
+        "content": "$BILI basing action had repeat IOF. IOF is institutional options flow, it adds to conviction on an earnings gap, it adds to conviction if you want to position within a base (our V2 release will teach you how).",
+        "sentiment": {
+            "TextBlob": -0.35000000000000003,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9925038814544678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-19T16:13:28Z",
+        "content": "A few more levels to guage institutional bias.\n\n$PINS - $60-$65\n$SNAP - $40\n$NET - $65 \n$ZI - $40 \n$TWLO - $290 \n$UPWK - $30 - $35 \n\n:-) hope it helps.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9804598689079285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-19T15:53:15Z",
+        "content": "Been a while since we've posted.\n\nWatch the following levels on these stocks.\n\n$DKNG - $50 \n$UBER - $50 \n$TSLA - $500 \n$NVDA - $520 / $500 \n\nThese are key pivots and closes above would result in bullish thesis to build.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985927939414978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-09T00:31:18Z",
+        "content": "Add $AMZN to the basket of big caps seeing IOF. \n\n$AMD $BABA $TSLA posted earlier.\n\nV1 Thesis: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978814721107483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-09T00:29:30Z",
+        "content": "$XPEV part of the recent IPO crop that has seen rare Institutional Options Flow action.\n\nNote this data *adds* to conviction on a breakout move.",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9967126846313477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-09T00:19:15Z",
+        "content": "$TSLA fairly quiet on the Institutional Options Flow markets after its large premium in September 2020.\n\nOur data says: $400 and $420 are key levels of support for the bullish thesis to build.",
+        "sentiment": {
+            "TextBlob": 0.07142857142857142,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9859845638275146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-08T21:05:05Z",
+        "content": "$C with a large premium on the Institutional Options Flow (IOF) markets. \n\nPer our V2 data: $40-42 remain absolute support. Failure below those levels would coincide with market corrective action.",
+        "sentiment": {
+            "TextBlob": 0.04940476190476189,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9831207990646362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-08T21:01:47Z",
+        "content": "$MODG showing a V1 characteristic - weakness in price leading to institutional footprints showing via the block trades markets. \n\nV1 Thesis: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983375072479248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-08T20:56:06Z",
+        "content": "$BABA seeing large bullish premium via the Institutional Options Flow markets.\n\nThis data tell us that institutional interest exists and should add to conviction once price action, volume and risk/reward align",
+        "sentiment": {
+            "TextBlob": 0.15714285714285714,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9651537537574768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-08T20:55:23Z",
+        "content": "$AMD seeing large bullish premium via the Institutional Options Flow markets.\n\nThis data tell us that institutional interest exists and should add to conviction once price action, volume and risk/reward align.",
+        "sentiment": {
+            "TextBlob": 0.15714285714285714,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9701210856437683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-11-08T20:53:48Z",
+        "content": "$COUP with large premium from the Institutional Options Flow markets should be on your WLs. \n\nThis data tell us that institutional interest exists and should add to conviction once price action, volume and risk/reward align.",
+        "sentiment": {
+            "TextBlob": 0.15714285714285714,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9880350232124329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-27T15:53:55Z",
+        "content": "It's rare to see active positioning in IPOs within the first few weeks of trading. \n\n$U $SNOW $PLTR are some new issues that have seen repeat IOF activity. A rare occurrence.",
+        "sentiment": {
+            "TextBlob": 0.10883838383838383,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969394207000732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-24T15:59:17Z",
+        "content": "$ROKU shaping up well - with large IOF within its consolidation. \n\nA bullish thesis can be built as long as it trades above $220 in a closing basis.\n\nEarnings: November 5, 2020",
+        "sentiment": {
+            "TextBlob": 0.054761904761904755,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9538255929946899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-24T15:53:00Z",
+        "content": "$TEAM prior to its breakout move, saw large premium via the IOF markets. Now flagging on its daily chart above the prior consolidation phase.",
+        "sentiment": {
+            "TextBlob": 0.04285714285714286,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9349722266197205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-24T15:49:16Z",
+        "content": "$TTD acts well after its' large premium on the IOF markets in early September to a tune of $60.5M.\n\nHow to Interpret the chart below: traderlion.com/tl-moneyflow...\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.15714285714285714,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9824407696723938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-21T03:06:41Z",
+        "content": "We will start tracking $FSLY over the next few weeks to see how it shapes up after its large drawdown on news. \n\nInstitutions have been buyers of weakness.\n\nOur data has significant amount of support near $80.00.",
+        "sentiment": {
+            "TextBlob": 0.09785714285714284,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9723777770996094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-20T17:24:25Z",
+        "content": "With Market Turbulence the past two sessions - a few *key levels* to watch on leadership stocks\n\nAAPL - $115\nAMD - $80\n$JD - $80\n$META - $270\n$AMZN -  $3200 \n\nAs long as the levels are maintained - one must keep a bullish \"posture\"",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952646493911743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-14T18:06:20Z",
+        "content": "$TSM acts well and is part of a leadership group. Within its consolidation, TSM saw repeat IOF. \n\nSemis now lead a potential rally in the markets. This data adds to conviction. \n\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9975415468215942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-14T18:02:20Z",
+        "content": "$QCOM trades at new highs today. Note the Repeat IOF action within its current consolidation phase. \n\nPrice action powered by the IOF markets. \n\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.08409090909090909,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.963962197303772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-14T18:00:12Z",
+        "content": "$NIO exhibits what we call \"price action powered by the MoneyFlow Markets\". \n\nNote the repeat flow on NIO within its consolidation phase. \n\nThere is an EDGE we've built from the group up and we want you to learn and incorporate it into your systems.\n\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980694651603699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-14T17:54:21Z",
+        "content": "$EDU an example of REPEAT IOF within consolidation leading to a price breakout and trend. \n\nLearn More: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867216348648071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-11T22:26:00Z",
+        "content": "$DRI and $EAT were two rotational candidates after they saw Repeat Institutional Options Flow and Institutional Block Trades action via the MoneyFlow Markets in July 2020.\n\nOver the past several months both have acted well.\n\nLearn More: traderlion.com/tl-moneyflow...\n#anunfairEDGE #TLMoneyFlow",
+        "sentiment": {
+            "TextBlob": 0.0875,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9795630574226379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-10T14:27:32Z",
+        "content": "$NET Price action powered by Repeat Institutional Options Flow\n\nLearn More: traderlion.com/tl-moneyflow...\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952711462974548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-09T22:31:16Z",
+        "content": "$PTON Price action powered by Institutional Options Flow\n\nLearn More: traderlion.com/tl-moneyflow...\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923316240310669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-09T03:26:05Z",
+        "content": "$PLUG price progress came with a warning from the IOF and IBT MoneyFlow markets. \n\nLearn more: traderlion.com/tl-moneyflow...\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976512789726257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-08T17:49:39Z",
+        "content": "$PENN retrace is not of surprise. Failure started near the $70 level.\nNote the repeat IOF to the downside recently. \nOur data says $65 on a closing basis is where a bullish can be rebuilt.\nFailure to stay above $65 will result in further failure.",
+        "sentiment": {
+            "TextBlob": -0.12142857142857144,
+            "NLTK": -0.1803,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998124241828918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-08T13:09:31Z",
+        "content": "$DDOG note the REPEAT IOF. \n\nWe call this \"Price action powered by IOF\".\n\nRead: traderlion.com/tl-moneyflow...\nExamples: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977436065673828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-08T05:20:46Z",
+        "content": "$FSLY Price found support near repeat IOF levels and now trade at new highs. \n\nSee attached visual and read V1 thesis: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.07878787878787878,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914495348930359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-05T19:01:50Z",
+        "content": "$BYND Price action as it nears new YTD highs is powered by the Institutional Options Flow Markets.\n\nSee the attached chart and read over V1 Thesis and our recent blog post titled: X-Ray Vision.\n\ntraderlion.com/tl-moneyflow...\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.07878787878787878,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9231565594673157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-05T01:20:31Z",
+        "content": "$TNDM with Institutional Options Flow (IOF) last week as it trades right underneath its prior highs. \n\nSupport: $110\n\nA bullish thesis can be built as long as it trades above $110 in a closing basis.",
+        "sentiment": {
+            "TextBlob": 0.04714285714285714,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961041212081909
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-04T18:16:09Z",
+        "content": "$DKNG Data Driven. Statistical. EDGE. \n\n#anunfairEDGE \ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928505420684814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-04T00:36:54Z",
+        "content": "$ROKU rise in price is accompanied by repeat Institutional Options Flow (IOF). \n\nNote the repeat action as price consolidates, institutions accumulate. \n\nChart attached.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967362284660339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-03T18:11:02Z",
+        "content": "$PAYC in the Application Software domain is another example of institutional options flow followed by price expansion. \n\nRead the V1 Thesis to learn about our IOF charts: traderlion.com/tl-moneyflow...\n#anunfairEDGE \ud83e\udd81",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959201812744141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-03T04:23:45Z",
+        "content": "$TTD similar to $NET $DDOG $ZS and other examples posted earlier the week saw institutional options flow act as support when markets were in a corrective state.",
+        "sentiment": {
+            "TextBlob": -0.03125,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971641898155212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-03T04:20:03Z",
+        "content": "$WORK institutions remain buyers of weakness in the IOF markets. Note the gap down in late August was met by the largest Premium YTD. Price has attempted a recovery since.",
+        "sentiment": {
+            "TextBlob": -0.2277777777777778,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9126466512680054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-03T04:18:47Z",
+        "content": "$ZS continues to see repeat bullish activity from the institutional options flow (IOF) markets. \n\nNote the repeat activity in June, July has acted as support the past 2 months.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980375170707703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-03T04:17:40Z",
+        "content": "The price action in $Z and its outperformance recently is powered by the Institutional Options Flow markets. \n\nSee the attached levels visual. \n\nRead: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6977502107620239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-02T04:29:46Z",
+        "content": "$DRI Repeat Institutional Options Flow powers the stock higher in recent sessions. \n\n#anunfairEDGE #TLMoneyFlow",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9374448657035828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-01T18:04:26Z",
+        "content": "$100 level will act as stiff resistance on the $FSLY chart per MoneyFlow markets.\n \nA close above would require institutions to step up and push it through.\n\nIOF chart shows institutions were buyers of \"support\" at $80.00.",
+        "sentiment": {
+            "TextBlob": -0.10714285714285714,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958470463752747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-01T15:44:33Z",
+        "content": "$CELH is down on the session based on news.\n\nInstitutional positioning shows $20.00 is key into the close. Failure to hold that level puts a pause on the BULLISH case for the stock.",
+        "sentiment": {
+            "TextBlob": -0.15740740740740744,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997351765632629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-01T03:02:29Z",
+        "content": "Similar to $DDOG - $TTD the IOF markets were bullish on weakness. \n\nStock traded at new highs today. \n\n#anunfairEDGE #MoneyFlow",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982722997665405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-10-01T00:41:49Z",
+        "content": "We can't make this up, even if we wanted to. It stems from the methodology we are building with the MoneyFlow markets. \n\n$DDOG Institutional Options Flow (IOF) markets were active on weakness in price in early August. DDOG trades at new highs today.",
+        "sentiment": {
+            "TextBlob": 0.03434343434343434,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958437085151672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-30T15:54:41Z",
+        "content": "On a net basis, institutions are net BULLISH on $SNOW since its IPO.  Our Institutional Options Flow visual attached.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8201218247413635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-29T21:05:21Z",
+        "content": "$NET has seen REPEAT Institutional Options Flow near the $33.00 level before making its way back near the $40 mark.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949315190315247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-29T14:28:08Z",
+        "content": "Per our data $NIO will require a large amount of equity volume for it to push past the $20.00 - closing above the level would be a big feat. \n\nWatch the $20.00 on a closing basis today.",
+        "sentiment": {
+            "TextBlob": -0.008928571428571432,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9795271754264832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-28T22:47:31Z",
+        "content": "$ZM latest run-up was fueled by Institutional Options Flow markets - note the increasing BULLISH premium as the price climbed higher.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925056099891663
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-28T16:06:36Z",
+        "content": "Key Levels to Watch on Key Stocks this week\n\n$AAPL - 110\n$TSLA - $400 \n$NVDA - $500 \n$AMZN - $3100",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877607822418213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-25T14:29:31Z",
+        "content": "Traders who are watching the financial space should eye on the following level on BoA:\n\n$BAC - $23 - A key money flow level - a break below would have a trickle effect in the financial space.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970179796218872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-23T13:39:55Z",
+        "content": "$TSLA per MoneyFlow markets $400 remains a strong level of support. \n\nFailure to close above would be a negative for the bullish case to stand.",
+        "sentiment": {
+            "TextBlob": -0.04583333333333335,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7057083249092102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-18T17:23:59Z",
+        "content": "Outperformance in $KGC vs other Miners can be attributed Repeat Institutional Options Flow (IOF)",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961186647415161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-16T23:42:09Z",
+        "content": "September 16: Institutional Options Flow Report \n\n$JAZZ $WPC $GNW $PVG $ZEN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960605502128601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-16T16:18:57Z",
+        "content": "Recent IOF activity on $BYND supports its price action in the underlying stock.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8270910382270813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-16T15:35:29Z",
+        "content": "$DIS since the start of August is seeing REPEAT Insitutitional Options Activity (IOF). \n\n$130 level acts as strong support.",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9704312682151794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-16T13:48:26Z",
+        "content": "Key Levels of Support on Key Stocks in the Markets per our data analysis.\n\n$AAPL - $112 \n$AMZN - $3100 \n$NFLX - $500 \n$META - $260\n$GOOG - $1525",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9712202548980713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-14T15:48:18Z",
+        "content": "We continue to see $25.00 as the \u201csweet spot\u201d on $WKHS - some consolidation here would be \u201chealthy\u201d. \n\nWhat we shared with TL Private Access members on September 9, 2020.",
+        "sentiment": {
+            "TextBlob": 0.2833333333333333,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5128750801086426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-11T14:26:12Z",
+        "content": "Traders should closely watch how $AAPL is acting vs the $112 area into the close. Failure to close above this level today would not bode well for the market uptrend.",
+        "sentiment": {
+            "TextBlob": -0.10555555555555557,
+            "NLTK": -0.6266,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995014667510986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-09T17:59:38Z",
+        "content": "Traders who have $NKLA on respective WLs should keep a close eye on how it acts around the $45 level to maintain a \u201cbullish\u201d stance.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5104246735572815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-06T14:52:52Z",
+        "content": "In the coming months we look forward to introducing a NEW concept exclusive to TL MoneyFlow.\n\nAttached a chart of $AAPL - our data says the reversal near $112 on Friday is not a coincidence...",
+        "sentiment": {
+            "TextBlob": 0.11818181818181818,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940551519393921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-04T15:36:21Z",
+        "content": "$QQQ Key Levels of Support via the Signature Dark Pool Prints market.\n\nKey Levels of Support: $272 $260\n\nLearn more: traderlion.com/tl-studies/s...",
+        "sentiment": {
+            "TextBlob": 0.0875,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924516081809998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-03T21:25:48Z",
+        "content": "September 3: Unusual Options Flow Report \n\n$LMND $SNPS $FIZZ $NEM $IVR \n\n\ud83d\udc4d",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973287582397461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-03T16:03:18Z",
+        "content": "Some key levels to watch into the close today - per MoneyFlow markets\n\n$AMZN - $3400 \n$PINS - $35 \n$CRM - $260 \n$AMD - $85 \n$AAPL - $120",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9824768900871277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-02T23:24:23Z",
+        "content": "September 2: Top Unusual Options Flow Report \n\n$TSM $CRM $ADBE $TEAM $ZTS",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964966177940369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-02T17:20:19Z",
+        "content": "Large Premium via the Options Market the past week in $PINS - this has been the main driver for the price to see new all-time highs. \n\nScreenshot via our IOF Database.",
+        "sentiment": {
+            "TextBlob": 0.06682900432900432,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7901321649551392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-02T16:39:58Z",
+        "content": "Per MoneyFlow markets, $NET key pivot level is vs the $40.00 level. \n\nPatiently watch for high relative volume vs that level, to maintain a bullish stance.",
+        "sentiment": {
+            "TextBlob": 0.04,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932141304016113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-01T22:53:29Z",
+        "content": "September 1: Top Unusual Equity Options Flow Report \n\n\ud83d\udc4d and \ud83d\udd02\n\n$PINS $OKTA $KGC $SWBI",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9762791395187378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-09-01T17:31:34Z",
+        "content": "Traders who have $MRNA on respective WLs should watch an undercut and rally from $60.00 level. It\u2019s a key pivot per MoneyFlow markets.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854627847671509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-31T21:26:56Z",
+        "content": "August 31: Top Unusual Equity Flow Report\n\n$PINS $ENPH $HAL $AAP",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877106547355652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-31T13:05:56Z",
+        "content": "Top Unusual Equity Flow via the IOF markets\n\n$MIC $YPF $ENR $RGEN $RPD",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9650088548660278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-28T21:34:53Z",
+        "content": "$AAPL similar to $V $ADBE also saw repeat flow in early August. Price trades at the $500 mark now.\n\n#IOF #TLMoneyFlow\n\nLearn how to interpret the charts from our V1 Thesis: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890915155410767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-28T21:31:38Z",
+        "content": "To follow up to the chart on $V - $ADBE saw similar bets in late July - now trades at new highs. \n\n#IOF #TLMoneyFlow",
+        "sentiment": {
+            "TextBlob": -0.05454545454545454,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970198273658752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-28T18:09:21Z",
+        "content": "Not all of our IOF charts look this neat. However our filtering criteria does its JOB well. \n\n$V IOF chart attached.  Only at \ud83e\udd81",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9204164147377014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-27T14:34:18Z",
+        "content": "The MoneyFlow Markets have $35 as a key pivot level on $PINS \n\nPatiently watch for big volume at the $35 level and a resounding close above - to maintain a bullish stance.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9763163924217224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-22T18:50:34Z",
+        "content": "Traders who have $SPCE on WLs should key in on $15.48 area as a level of support. \n\nFailure below does not bode well for SPCE.",
+        "sentiment": {
+            "TextBlob": -0.15833333333333335,
+            "NLTK": -0.343,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996200799942017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-22T16:55:34Z",
+        "content": "Key Block Trade Levels on the Top 4 Banks\n\n$BAC $WFC $GS $JPM",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948701858520508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-22T15:16:21Z",
+        "content": "A few things to note on $AMD IOF chart\n\n*Large Premium near March 11 lows\n*Large Premium within base consolidation\n*Bullish Premium clearly outweighs Bearish Premium\n*Top Bet was 7M at $55 Strikeout to June 2021",
+        "sentiment": {
+            "TextBlob": 0.0183673469387755,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951093792915344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-22T15:02:23Z",
+        "content": "$TSLA price action is driven by institutional volume on the price/volume charts, block trade activity, and also by \"time-sensitivity\" of the IOF markets.\n\nAttached a chart - that shows REPEAT flow on TSLA the past month as the price climbs higher.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882274270057678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-21T22:30:37Z",
+        "content": "$PINS is seeing large IOF activity within its consolidation and gap up range. \n\nInstitutional interest remains STRONG post gap up.",
+        "sentiment": {
+            "TextBlob": 0.32380952380952377,
+            "NLTK": 0.7925,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9416856169700623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-21T22:26:43Z",
+        "content": "$CRWD is seeing repeat IOF activity as of close today. \n\nLevels visual exclusive to TL attached.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923751950263977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-21T22:25:58Z",
+        "content": "$DDOG saw repeat IOF activity on weakness in underlying stock earlier in the week. \n\nPrice subsequently retraced higher into end of week.",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987218976020813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-20T17:59:23Z",
+        "content": "August 20: $ROKU $170.5 is the largest block trade node the past 12 months - price stalled near that level recently.",
+        "sentiment": {
+            "TextBlob": -0.049999999999999996,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993414282798767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-20T15:54:58Z",
+        "content": "August 20: $ZS heck even we doubted the data - as we continue to learn about the IOF markets - it leads to better conviction. \n\nZS trades at new all-time highs today - after repeated bullish IOF activity.",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9755553007125854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-18T22:18:15Z",
+        "content": "August 18: Top Unusual Opening Put Sellers via IOF Database\n\n$SY $HUN $VALE $UAL \n\n\"Put Sellers present the best edge in the Options market versus any other activity.\" - From our V1 Thesis\n\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.315,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9767758846282959
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-18T21:51:02Z",
+        "content": "Check out our new FAQ section on our Institutional Block Trade and Options Flow Database pages that answer most of the common questions users have on a day-to-day basis. \n\n1. traderlion.com/unusual-inst...\n\n2. traderlion.com/institutiona...\n$STUDY",
+        "sentiment": {
+            "TextBlob": 0.11212121212121212,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895201921463013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-17T16:22:05Z",
+        "content": "$FTS seeing its largest block trade activity via the \"dark pool (reported late)\" market.\n\nFortis Inc. operates as an electric and gas utility company in Canada, the United States, and the Caribbean countries.\n\nWe added an FAQ to our site recently: traderlion.com/institutiona...",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902031421661377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-13T21:34:33Z",
+        "content": "Consider this if you are paying up to see \"real-time\" Block Trades...\n\nWe conducted the same study for a 1 and 4-hour time span and found similar results. \n\nReal-time block trades data present no edge intraday. $STUDY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995074272155762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-13T03:49:24Z",
+        "content": "August 12: YTD Institutional Dark Pool Activity in the $QQQ pointing to $260 as a key level of support going forward. \n\nLearn about Signature Dark Pool Prints: traderlion.com/tl-studies/s...",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994763970375061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-12T22:09:13Z",
+        "content": "August 12: $LYFT $30 is the 2nd highest institutional block trade node. It trades in the $30 range post earnings release. \n\nHolding this level into close tomorrow is key for any upside in the coming weeks/months.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9147676825523376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-12T22:02:03Z",
+        "content": "August 12: $ONEM reported earnings AMC. Traders watching the stock should key in on $32.50 as a level tomorrow morning.\n\n$32.50 - 400K Block Trade - 32% of Average Volume",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853297472000122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-12T21:36:51Z",
+        "content": "August 12: Top Unusual Block Trade Activity via Block Trade Database\n\n\ud83d\udfe3 DarkPool (\"Reported Late\") Orders\n\ud83d\udfe0 Sweep Orders\n\n$UBER $ZNGA $FSCT $CDAY $MOMO",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981210827827454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-12T21:25:27Z",
+        "content": "August 12: Top Opening Call Buyers via IOF Database\n\n$STM $PLUG $GOTU $SQ $AMD",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822435975074768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-12T21:24:09Z",
+        "content": "August 12: Top Opening Put Sellers via our IOF Database\n\n$PTON $MRVL $BAC $DBX $BJRI",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9678507447242737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-06T17:22:07Z",
+        "content": "The action in $SLV is remarkable to watch. Repeat action, big directional premium. \n\nThe Insititutional markets have been active in Silver since May, 2020.",
+        "sentiment": {
+            "TextBlob": 0.16333333333333333,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986017346382141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-05T14:58:44Z",
+        "content": "$MYOK testing a key block trade market level of $103.17 post-earnings release today. A close above would be considered a + for a potential test of new highs.\n\nVisualize MoneyFlow only at TL.",
+        "sentiment": {
+            "TextBlob": 0.02727272727272727,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9749783277511597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-05T14:16:02Z",
+        "content": "Attached the Institutional Options Flow chart of $HZNP \n\nThe Block Market has also been active on the name since early April 2020.",
+        "sentiment": {
+            "TextBlob": -0.016666666666666663,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876413941383362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-04T14:38:36Z",
+        "content": "$CHWY Institutional Options Flow chart shows a cluster of REPEAT bullish bets - which are powering price higher to new highs. \n\nRepeat and Unusual action leads to directional move in price. \n\nRead: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.1715909090909091,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5018825531005859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-03T14:56:04Z",
+        "content": "$WKHS is on pace to close above its $16 zone for the first time since mid-July. The $16.00 level remains key to maintain a bullish stance on the name.\n\nLearn how to interpret the MoneyFlow markets: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.945578932762146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-03T14:48:25Z",
+        "content": "A member pointed out $DOCU IOF. Note the large unusual activity via the \"Institutional Options Flow\" markets leads to a large directional move in price. \n\nAlso, net $DOCU activity has been \"bullish\" on the entire run-up. Our filtration methods reduce the noise associated with following the MoneyFlow markets.",
+        "sentiment": {
+            "TextBlob": 0.10476190476190476,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924148917198181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-03T14:42:43Z",
+        "content": "The IOF markets were also active on $FSLY weakness as it trades at new highs today.\n\nWith options markets having a timing element associated with them, price \"must move\" for trades to be profitable\n\nLearn how to interpret the MoneyFlow markets - at TL: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.001515151515151511,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9788118004798889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-03T14:40:48Z",
+        "content": "$ZS continues to make progress to new highs as the IOF markets remain active and bullish on the name.\n\nLearn how to interpret the MoneyFlow markets - the right way at TL: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.09624819624819625,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9802383184432983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-08-03T12:47:18Z",
+        "content": "$MNDT trades near a key block trade level zone of $16 - over the past year, most institutional block trade activity has been around the $16.00 zone. \n\nLearn how to interpret the MoneyFlow markets - the right way at TL: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.12714285714285714,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7190617918968201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-31T18:32:58Z",
+        "content": "We are working on that methodology, system, approach whatever you may want to call it. We will call a spade, a spade, and be brutally honest with our findings. \n\nThank you for following. $STUDY ... continues.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989394545555115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-31T18:31:17Z",
+        "content": "Even if \"someone always knows\" you still need a consistent methodology, system, and a risk-sensitive approach in the MoneyFlow markets.\n\nSaying \"someone always knows\" after the fact helps nobody and once again paints a dream that retail traders can follow such trades. $LAB",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9221553802490234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-31T18:16:50Z",
+        "content": "We refuse to \"sell a dream\" for a few subscription dollars\n\nInstitutional positioning was rampant in $PINS pre-earnings however for retail trades it was little to no cushion into earnings\n\nRisk management remains an important principle regardless of the edge you choose to follow",
+        "sentiment": {
+            "TextBlob": 0.00416666666666667,
+            "NLTK": -0.3446,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9666046500205994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-31T02:24:47Z",
+        "content": "$AMD continues seeing repeat and large activity before the $INTC news, pre-earnings and post earnings via the Institutional Options Flow market. \n\nLearn how to interpret the MoneyFlow markets - the right way at TL:  traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9316484332084656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-31T02:20:26Z",
+        "content": "When large and unusual activity prints on the \u201ctape\u201d via Block Trade / IOF markets it takes several days to interpret the action, build bias, risk reward and more. \n\nSo is it worth it to pay up for real-time data for very little edge?\n\nDecide for yourselves. $STUDY",
+        "sentiment": {
+            "TextBlob": 0.15293367346938774,
+            "NLTK": 0.0164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978457689285278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-31T02:09:56Z",
+        "content": "$ULTA seeing the largest YTD block trade activity  - watch for a directional move in the coming weeks. \n\nMembers: Check the IOF chart as well.\n\nLearn how to interpret the MoneyFlow markets - the right way at TL: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6233674883842468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-30T19:34:47Z",
+        "content": "$HOLX trades at new highs today. \n\nIn May, $HOLX saw an unusually large options flow transaction and acted well around the $50.00 level ever since.",
+        "sentiment": {
+            "TextBlob": 0.17532467532467533,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9955675005912781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-30T03:33:48Z",
+        "content": "\u202a$QCOM the 750K in earnings bets being flaunted as smart money is not smart money.\u202c\n\n\u202aWe studied over 1M short term historical earnings bets.\n\n\u202aThere is no statistical or consistent edge in them. It\u2019s good bait for the \u201ccome join us\u201d in \u201cYOLOs\u201d crowd that sells a dream. Not reality.",
+        "sentiment": {
+            "TextBlob": 0.1761904761904762,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983164072036743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-29T19:00:09Z",
+        "content": "Traders who are watching $WKHS should note the $16.00 level remains key via the Institutional Options Flow markets.\n\nCC: @traderstewie who has been actively eyeing this past few sessions.",
+        "sentiment": {
+            "TextBlob": -0.14583333333333331,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7810214757919312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-29T01:33:07Z",
+        "content": "Similar to the $SLV chart we posted earlier in the week, $GDX saw large repeat Institutional Options Flow in mid-April 2020. \n\nPrice has traded near or above ever since.",
+        "sentiment": {
+            "TextBlob": 0.06285714285714286,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9388478398323059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-27T22:31:44Z",
+        "content": "@Douglas06 Well Douglas have a look at this. Interesting. \n\n* $BHC Glenview Files 13D on Bausch Health, reports 5.9% Stake\n\nSchedule 13D is an SEC filing that must be submitted to the US Securities and Exchange Commission within 10 days by anyone who acquires beneficial ownership of more than 5% of any class of publicly traded securities in a public company.",
+        "sentiment": {
+            "TextBlob": 0.18,
+            "NLTK": 0.8891,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9158673882484436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-27T21:53:35Z",
+        "content": "Do Signature \"DarkPool\" prints on the $SPY present an edge that can't be overlooked?\n\nWe are doing a historical analysis to find out. Our approach is simple, they either present a CONSISTENT edge or they don't\n\nAttached a visual-only at TLMoneyFlow.\n\nRead traderlion.com/tl-studies/s...",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0191,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9885104894638062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-27T19:02:25Z",
+        "content": "\u202aFailure to link the basics of price action, volume and market trend to MoneyFlow is the primary point of failure for many traders and why they experience inconsistency when keeping track of the MoneyFlow markets. \u202c\n\n\u202aYes, you still have to use the basics... $STUDY \u202c",
+        "sentiment": {
+            "TextBlob": 0.17083333333333334,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997143149375916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-27T18:35:19Z",
+        "content": "\u202aExclusive to TLMoneyFlow is our filtration methods for the options markets.\u202c\n\n\u202aWe are not looking for day trades, rather where institutions are likely positioning.\u202c\n\n\u202aWe\u2019ve found the shorter the time to expiration the higher the failure rate in the \u201cflow\u201d. Just data-based facts.\u202c $TSM",
+        "sentiment": {
+            "TextBlob": -0.022222222222222237,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968679547309875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-27T14:38:53Z",
+        "content": "$SSRM the week of June 22, 2020 saw repeat institutional options flow which was also unusual in nature. \n\nThis fits our preliminary finding that repeat and unusual long term IOF leads to large directional movement in price. \n\nNow trades +22.5% from June 24 IOF.",
+        "sentiment": {
+            "TextBlob": 0.14107142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9547964930534363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-27T13:06:43Z",
+        "content": "$OLED upgraded this morning. Some key institutional block trade levels to watch. \n\nNote how price is consolidating right near $154/155 range. \n\nTitle shows Top 5 Key Levels.",
+        "sentiment": {
+            "TextBlob": 0.17714285714285713,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908577799797058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-26T18:53:39Z",
+        "content": "July 26: $UBER has seen very little directional options flow since early March 2020. \n\nPrice has not made meaningful progress since May 2020. \n\nAttached IOF chart only at TLMoneyFlow.",
+        "sentiment": {
+            "TextBlob": 0.08906249999999999,
+            "NLTK": -0.5096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995843768119812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-26T17:54:20Z",
+        "content": "Data will always be better than your opinion. \n\n$AMD directional move from $55.00 is not surprising per institutional block trade markets. \n\nFact: Large and Unusual activity leads to large directional price movement. \n\nVisualize the BlockTrade Markets only at TLMoneyFlow.",
+        "sentiment": {
+            "TextBlob": 0.12976190476190477,
+            "NLTK": -0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836986064910889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-26T17:49:12Z",
+        "content": "July 26: The move in Silver should be of no surprise to traders closely following the MoneyFlow markets.\n\n$SLV in Mid-May saw nearly $6M in bullish premium via the IOF markets\n\nThe MoneyFlow markets have an uncanny ability to signal large directional price movement. Consistently.",
+        "sentiment": {
+            "TextBlob": 0.14107142857142857,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9895637631416321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-26T17:43:37Z",
+        "content": "July 26: $CQQQ seeing the largest block trade activity in well over a year. \n\nThe ETF seeks to track the investment results of the FTSE China Incl A 25% Technology Capped Index. \n\nTop 5 Holdings: $BIDU $NTES $TME $GDS $WUBA",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9643334150314331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-26T17:34:41Z",
+        "content": "July 26: $GOOS $22 - $24 shows significant institutional interest via Block Trade Market. \n\nIt remains a key zone for $GOOS in the coming weeks and months.",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8923004269599915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-26T17:32:24Z",
+        "content": "July 26: $BHC after seeing a cluster of block trade activity in April - May continues to respect key block trade volume nodes.\n\nVisualize MoneyFlow only at TL.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961329698562622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-26T17:23:53Z",
+        "content": "July 26: $SPCE now seeing repeat activity via the Block Trade Markets as price makes progress from $15.45. \n\nWatch for ranges and direction to develop in the coming weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.96734219789505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-25T13:40:47Z",
+        "content": "Visualize MoneyFlow only at TL! $STUDY\ntraderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967845678329468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-23T14:55:35Z",
+        "content": "Yes. Of course?  The IOF markets were buyers in weakness on $ZS and other Software Application names near or post July 13, 2020. \n\nAs we continue to dig beneath surface we are also building \u201ctrust\u201d in the MoneyFlow markets. $ZS trades at new highs today.",
+        "sentiment": {
+            "TextBlob": 0.03712121212121212,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7794609069824219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-22T13:00:27Z",
+        "content": "$ABT price holds key support levels and rallies +8% \n\nBlock Trade levels act as support in an up trending market.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.652476966381073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-22T12:58:18Z",
+        "content": "$SPCE now trades nearly 60% from its unusual and repeat block trades. The institutional options flow (IOF) Market was also actively positioning in the name. \n\n#MoneyFlow",
+        "sentiment": {
+            "TextBlob": 0.05555555555555557,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8274900317192078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-22T12:54:52Z",
+        "content": "MoneyFlow markets pointed to a large move in gold near May 28, 2020 with a pick up in MoneyFlow across the board in several ETFs and individual names. \n\n$GLD $IAU $GLDM",
+        "sentiment": {
+            "TextBlob": 0.07857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7198408246040344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-21T19:51:11Z",
+        "content": "$SONO trades at 52-week highs today. This came with a warning via the Institutional Options Flow market in Mid-May. \n\nThe market environment also helps, let's not be naive.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.2533,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9718250036239624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-21T01:03:10Z",
+        "content": "$SPOT Institutional Options Flow chart shows repeat bullish action past 6 sessions. Trades at new high ground today.",
+        "sentiment": {
+            "TextBlob": 0.03659090909090909,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974013566970825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-14T22:03:26Z",
+        "content": "July 15: $FSLY Seeing repeat bullish IOF activity on weakness.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989251494407654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-10T19:12:56Z",
+        "content": "$TSLA Institutional Options Market has been rather \"bullish\" on the name despite large price progress. \n\nJuly 7 - $TSLA saw the highest bullish premium since March 2020. Amazing.",
+        "sentiment": {
+            "TextBlob": 0.4071428571428572,
+            "NLTK": 0.3544,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9723005890846252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-09T23:55:32Z",
+        "content": "Attached is a summary of how the Institutional Options Market is positioned in $MRNA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9622682332992554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-09T18:40:59Z",
+        "content": "What the Institutional Options Market says of about $NET \n\nLarge action near June 16 - repeat buyers on weakness in price leads to new highs today.",
+        "sentiment": {
+            "TextBlob": 0.11012987012987012,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9841734170913696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-08T16:51:07Z",
+        "content": "@Douglas06 It is false to assume the direction will only be \u201cup. It is also false to assume that holdings must be reflected in filings as it can be several different institutions at play not just one. \n\nIf $16.00 acts as support in the coming weeks this bodes well for BHC. You also want to see $BHC outperform the markets in the coming weeks (which it hasn\u2019t done so yet) to have a \u201cbullish\u201d stance on the name. \n\nRepeat and Unusual block trade activity leads to large directional moves in price. Direction can be up and down. The data simply gives us insight that \u201cinstitutional\u201d interest exists in the name. Now we track the action to make a judgement on which way it\u2019s headed. As long as it is above recent range of $15.4 it should be considered direction less. Hope that helps. \n\nDefinitely good to see folks tracking the action and holding us accountable. TYVM.",
+        "sentiment": {
+            "TextBlob": 0.008878968253968245,
+            "NLTK": 0.9656,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9482839703559875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-08T13:01:36Z",
+        "content": "MoneyFlow markets pointed to a directional move in gold on May 28, 2020. \n\nGold now trades at multi-year highs with eyes on 2010-2011 highs. $GLD $IAU $GLDM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8322451710700989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-07T00:25:39Z",
+        "content": "Failure in $EOLS is not surprising. With no block trade activity since the $10 range - institutions are not interested whatsoever.",
+        "sentiment": {
+            "TextBlob": -0.2638888888888889,
+            "NLTK": -0.8118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996683597564697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-07T00:15:13Z",
+        "content": "$TME saw institutional options flow in early June now trades 3 points above the $12.00. \n\nUnusual institutional options activity leads to directional movement in price due to time sensitivity attached to the options market.",
+        "sentiment": {
+            "TextBlob": 0.04375000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8391923904418945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-06T18:55:45Z",
+        "content": "July 6: Action in $NKLA is not surprising per MoneyFlow Markets.",
+        "sentiment": {
+            "TextBlob": -0.12499999999999999,
+            "NLTK": -0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993938207626343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-06T18:44:02Z",
+        "content": "July 6: $GO Institutional Block Trade Activity on June 25, 2020 - stock acts well since.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7597023248672485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-06T14:38:37Z",
+        "content": "Action in $SWBI from $18.00 is in line with the institutional options activity seen on June 23, 2020",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9210416674613953
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-03T03:49:20Z",
+        "content": "Weakness in $NKLA should be of no surprise. \n\nMoneyFlow Markets have nearly $41M in Bearish Premium in the July 17 Expiry and it is trading below all major key block trade levels. $66 and $75 remain key for any upside.",
+        "sentiment": {
+            "TextBlob": 0.040625,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965702295303345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-03T02:34:44Z",
+        "content": "We now maintain a database on 4 major ETFs $SPY $IWM $QQQ $DIA for Signature DarkPool Prints. \n\nAttached is $SPY \n\nRedline: Moving Average of daily count\nPurple Bar: Volume by Price for Signature Prints\nBlue Bars: Daily Count\n\nUpdated daily at 6 pm EST. A $STUDY is also underway",
+        "sentiment": {
+            "TextBlob": -0.014583333333333332,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841916561126709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-03T02:22:21Z",
+        "content": "$CHGG is another example similar to $LVGO $AKAM $AMZN posted earlier. \n\nThe institutional options flow market saw bullish premium on weakness. Multiple examples. Same observation.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986012578010559
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T22:44:44Z",
+        "content": "July 2: Large block trade activity in $GM via Dark pool market. The highest in over 2 years. \n\nWatch for a directional move in $GM in the coming weeks!\n\nChart by TLMoneyFlow",
+        "sentiment": {
+            "TextBlob": 0.013392857142857137,
+            "NLTK": -0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9390143752098083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T22:29:25Z",
+        "content": "Similar action can be observed on $NOW with nearly $6M in Premium on March 20, 2020. \n\nUnusual and Insitutitional bets lead to large directional movement in price.",
+        "sentiment": {
+            "TextBlob": 0.12285714285714286,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830994606018066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T22:27:59Z",
+        "content": "$LVGO institutional options flow near May 19 - was the largest since Feb 2020 - while the stock was consolidating its gains. \n\nPrice breaks out above $66 mark in Mid-June.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875204563140869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T22:25:19Z",
+        "content": "Did $AMZN latest run-up through highs come with a warning from the institutional options flow market? You bet. \n\nOn June 15 $AMZN saw the biggest bullish premium in over 3 months.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982977509498596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T14:56:44Z",
+        "content": "July 2: Key levels on $MYOK if you have it on your WLs. \n\nIt is testing the 50DMA/10WMA today. Key Level remains $100-$103 long term.",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972900152206421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T14:51:35Z",
+        "content": "July 2: $AKAM follow through and breakout action comes after 600K in bullish premium that traded mid-June within this \"base\" on the daily charts.\n\nWe are presenting what we see in data - no bias.",
+        "sentiment": {
+            "TextBlob": -0.23333333333333336,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6683887839317322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T14:38:02Z",
+        "content": "July 2: $PINS recovery from $20.00 level also saw 2M in bullish premium traded on weakness. \n\nIncreased institutional block trade activity + options flow a good combo for a reversal back near $24.00 past few sessions",
+        "sentiment": {
+            "TextBlob": 0.06999999999999998,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867780208587646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-02T01:46:24Z",
+        "content": "$DOCU Price action is being powered by large institutional options flow since Mid-May.",
+        "sentiment": {
+            "TextBlob": 0.15714285714285714,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9354854226112366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-01T03:58:17Z",
+        "content": "June 30: The majority of the stocks that show \"unusual\" block trade activity - see institutional activity with the \"base\". \n\nOnce price trends - little to no block trade activity is observed. $LSCC an example attached.",
+        "sentiment": {
+            "TextBlob": -0.2625,
+            "NLTK": -0.7732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921675324440002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-01T03:46:09Z",
+        "content": "June 30: $SSRM repeat institutional options flow leads to positive price action. \n\nGiven the time-sensitivity of options \"price must move\" for profitability.",
+        "sentiment": {
+            "TextBlob": 0.16363636363636364,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9950926303863525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-07-01T03:33:18Z",
+        "content": "June 30: The options market for the month of June has been \"bullish\" on $TSLA \n\nNote 1M in premium post-June 9 and repeat action as price consolidated.\n\nThe follow-through action higher is of no surprise - this data adds to conviction.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9144256711006165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-29T21:44:16Z",
+        "content": "It is **key** that financials hold key money support level in the coming weeks. \n\n$XLF $BAC $C $WFC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7081590294837952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-29T21:42:32Z",
+        "content": "$GO acts well since Repeat block trade activity last week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.97682124376297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-29T21:41:40Z",
+        "content": "$SPCE continues to trade near its key MoneyFlow level of $15.45. \n\nRepeat action last week on weakness is a positive.",
+        "sentiment": {
+            "TextBlob": 0.08545454545454545,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989796280860901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-28T02:02:36Z",
+        "content": "An important next few weeks for financials - $XLF $C $JPM and others are right at \u201cMoneyFlow\u201d support levels. \n\nFailure below these levels will coincide with a market breakdown.",
+        "sentiment": {
+            "TextBlob": 0.0338095238095238,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985244870185852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-28T02:00:47Z",
+        "content": "$TGT Prints biggest block trade level of the year. $117.26 - 900K shares.\n\nChart shows key \u201cMoneyFlow\u201d levels to watch.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9530841112136841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-25T05:06:51Z",
+        "content": "$GO has seen an increase in institutional block trade activity since January, 2020.\n\nChart attached shows key levels to watch in the coming weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911291599273682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-25T03:04:47Z",
+        "content": "$KWEB a block heavy ETF the past year has seen no block activity as price \"trends\" above $55.00. \n\nNote how repeat transactions on weakness in the underlying resulted in positive directional movement.",
+        "sentiment": {
+            "TextBlob": -0.055681818181818186,
+            "NLTK": -0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.93476402759552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-25T01:14:11Z",
+        "content": "$SSRM is seeing repeat institutional options flow the past few sessions. \n\nThe company primarily explores for gold and silver deposits",
+        "sentiment": {
+            "TextBlob": -0.016666666666666663,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9727858901023865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T17:18:58Z",
+        "content": "$15.45 remains a key level on $SPCE ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9556982517242432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T13:24:32Z",
+        "content": "$VCYT mini-consolidation since mid-March is right at a Key Level via Block Trade Market",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5179996490478516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T13:20:30Z",
+        "content": "$ALLO another example of Repeat transactions on weakness in the underlying result in positive directional movement.\n\n1 of 3 preliminary conclusions we've made while studying the block trade market. \n\nRead: traderlion.com/tl-moneyflow...",
+        "sentiment": {
+            "TextBlob": 0.22727272727272727,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9548934102058411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T13:16:11Z",
+        "content": "$ABT average block trade volume tends to be high. Which is why visualization of the data is much better than a tabular format with numbers. \n\n$90 is a key level with immediate support at $84-85",
+        "sentiment": {
+            "TextBlob": 0.1275,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8510800004005432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T13:10:14Z",
+        "content": "$ETSY Institutional Options Flow came in within its base pattern. The largest premium since March 2020. \n\nPrice follows suit and breakouts to new highs. Note repeat flow since June 14, 2020.",
+        "sentiment": {
+            "TextBlob": -0.33181818181818185,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871311783790588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T13:08:44Z",
+        "content": "Large, Unusual, and Repeat Block Trade Activity leads to directional movement in price. $XLRN an example.",
+        "sentiment": {
+            "TextBlob": 0.20714285714285713,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889739751815796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T13:07:39Z",
+        "content": "Traders who have $REGN on respective WL should mark up $578.21 as a key level to watch.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7953433990478516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-24T01:45:36Z",
+        "content": "Similar to $PAAS posted earlier. $SSRM has also seen a significant amount of institutional block trade activity from November 2019 to Feb 2020. \n\nThe levels now act as support.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929868578910828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-23T22:45:07Z",
+        "content": "The MoneyFlow Markets have pointed to a large move in Gold and Gold Miners since May 28, 2020. \n\nWe may now be in the midst of a directional move. \n\n$IAU $GDX $GDXJ $GLD \n\nFact: Large and Unusual Activity in the MoneyFlow market leads to large and directional movement in price.",
+        "sentiment": {
+            "TextBlob": 0.21071428571428572,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9315500259399414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-23T22:40:59Z",
+        "content": "Coupled with the $XLF tweet earlier today. \n$WFC is seeing large premium via the Block Trade Market. Largest since the Feb 24 corrective phase.\n\nIf $XLF is to get \"directional\" we expect $WFC to follow suit.",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.896331250667572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-23T22:30:37Z",
+        "content": "$PINS Options Market data from our IOF Database shows Bullish Premium overpowering Bearish Premium by 4:1 Ratio and $PINS has seen its largest flow near March 12 when price traded at $12.00",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9750062823295593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "TLMoneyFlow",
+        "timestamp": "2020-06-23T22:28:17Z",
+        "content": "$PINS MoneyFlow Visual we recently launched shows June's activity via Block Trade Market is the largest in over a year. \n\nWatch for a directional move in $PINS in the coming week.s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5090525150299072
+            }
+        },
+        "image_url": ""
+    }
+]

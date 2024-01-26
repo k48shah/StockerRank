@@ -1,0 +1,4776 @@
+[
+    {
+        "username": "radnorr",
+        "timestamp": "2023-05-31T19:51:39Z",
+        "content": "$AI on your mark",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871698617935181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-05-18T17:29:28Z",
+        "content": "$SLAC.U Does W3BCLOUD have any AI component to it?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996315240859985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-04-28T20:01:59Z",
+        "content": "$HUDI dipping",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892455339431763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T23:11:31Z",
+        "content": "$TSLA I\u2019m gonna have my robot drive me around in my Tesla boat",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921833872795105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T23:09:09Z",
+        "content": "$TSLA each person gets a robot?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956484436988831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T22:50:48Z",
+        "content": "$TSLA they should ask Chat GPT to write the software",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986623525619507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T22:46:29Z",
+        "content": "$TSLA that new car looks like a pillow",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955930113792419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T22:43:54Z",
+        "content": "$TSLA did he say a carrot? Are we in the farm now?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981014132499695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T22:38:26Z",
+        "content": "$TSLA I\u2019m thinking more lasers and thumping music would help",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850597381591797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T22:27:16Z",
+        "content": "$TSLA did he say Tesla Chat?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978006482124329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T21:19:22Z",
+        "content": "$LMT here we go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987241268157959
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-03-01T09:10:33Z",
+        "content": "$TSLA Hang Seng is up 4%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8089923858642578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-02-06T05:06:00Z",
+        "content": "$MBLY it's time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9588488340377808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-02-05T21:39:34Z",
+        "content": "$INO nice!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974752068519592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-01-25T21:11:57Z",
+        "content": "$TSLA uh-oh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890232086181641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-01-13T16:47:44Z",
+        "content": "$BABA here we go again Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980862140655518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-01-11T04:21:48Z",
+        "content": "$BABA does 9988 pull BABA each day or the other way around?",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995093822479248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-01-10T17:26:09Z",
+        "content": "$BABA my guy said if this broke $113.50 that it was going to $120. Anybody else have the same feeling?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988988637924194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2023-01-09T19:08:57Z",
+        "content": "$BABA how high is it going?",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986865222454071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-11-18T21:26:15Z",
+        "content": "$INO now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9389213919639587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-10-28T22:14:00Z",
+        "content": "$INO up 42% since Oct 14?! yikes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954555034637451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-10-14T15:43:02Z",
+        "content": "$PYPL heard a rumor PayPal is thinking of deducting $2,500 from any StockTwits commenter that marks their post with \u201cBEARISH\u201d Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970870614051819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-10-12T20:41:32Z",
+        "content": "$PYPL I think I\u2019m going to start fining any StockTwits user who posts \u201cmisinformation\u201d - just send the fines to my PayPal or Venmo account",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994664788246155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-10-11T15:07:30Z",
+        "content": "$PYPL im going to stop using PayPal/Venmo - hope they don\u2019t fine me for that",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996123909950256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-10-11T13:03:42Z",
+        "content": "$PYPL changed my Uber payment method from PayPal to ApplePay",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980706572532654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-10-10T21:11:37Z",
+        "content": "$PYPL cancelling my account - this is horrific - hope they don\u2019t charge me $2,500 for telling everyone that",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995311498641968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-09-14T21:38:15Z",
+        "content": "$AXSM hey will somebody pass the tea please",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920318126678467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-06-08T10:56:09Z",
+        "content": "$WDC it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9252927899360657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-05-13T00:28:48Z",
+        "content": "$HOOD Those call options are going to be up 10,000% in the morning. I should have bought! Two cents a contract!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948033690452576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-05-03T23:28:10Z",
+        "content": "@iluvufor30s in $INO since early \u201820 - on Stocktwits since \u201818",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954997897148132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-04-01T12:34:25Z",
+        "content": "$LAC it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7108409404754639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-03-30T01:12:36Z",
+        "content": "$CTVA now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9815540313720703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-03-24T20:13:54Z",
+        "content": "$TLRY remember $300 - ahh, those were the days!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870545268058777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-03-18T11:27:15Z",
+        "content": "$COST nice!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986153841018677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-03-17T18:14:19Z",
+        "content": "$COST solid",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995962977409363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-03-02T16:32:59Z",
+        "content": "$SFM.X so this is safe? and it\u2019s going to the moon? count me in",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5459,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8553028702735901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-02-04T03:30:42Z",
+        "content": "$SFM.X now we need to get to the trending list",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978241920471191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-01-26T12:53:40Z",
+        "content": "$INO at noon on the DE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9794071912765503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-01-13T13:00:55Z",
+        "content": "$SFM.X help me out here - if Bitmart can weather the hack and the V2 conversion and pay reflections (on 15th) what\u2019s not to like there?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.049,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983348250389099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-01-11T21:07:38Z",
+        "content": "$SFM.X I think you got to give some kudos to Bitmart for coming through 100%. Could have been a LOT of other scenarios that could have played out. I had almost given up hope but Bitmart delivered.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.5673,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9745587706565857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2022-01-11T14:53:43Z",
+        "content": "$SFM.X on my Bitmart \u201cAssets\u201d page it shows two lines - one for SFM with the new amount (1/1000th) and one for SAFEMOON with the old amount. Maybe it\u2019s a gift!",
+        "sentiment": {
+            "TextBlob": 0.13068181818181818,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.880508303642273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-12-31T12:22:31Z",
+        "content": "$INO wonder if they know each other",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9482867121696472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-12-17T21:01:26Z",
+        "content": "$INO what a close. Nice",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996540546417236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-12-16T16:30:57Z",
+        "content": "$IVVD the stock that I own the least of is up 113% today - just great",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991356730461121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-11-13T03:24:08Z",
+        "content": "$OC nice!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982897639274597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-11-09T20:56:52Z",
+        "content": "$INO AH today ;)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9816869497299194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-10-23T00:43:12Z",
+        "content": "$USO alright, I think it's just about time we smash on through that $58 for good",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919300675392151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-10-16T09:03:02Z",
+        "content": "$USO so what would USO be at $100 oil?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989410042762756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-09-28T01:47:15Z",
+        "content": "$USO is there a rough algorithm for how much $USO moves when oil moves $1?",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994895458221436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-09-10T19:54:54Z",
+        "content": "$SLAC.U moving in the right direction",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.853763222694397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-08-25T13:58:06Z",
+        "content": "$AMD what was that volume pop all about?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973229765892029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-08-25T13:06:24Z",
+        "content": "$AAPL \n\nAccount Challenge Update:  \n\nStart Date: yesterday\nStarting Balance: borrowed $10\nfrom my wife\nCurrent Balance: $2 (bought four\nscratch off tickets - no winners)\nGoal: one million dollars by the\nend of August\nStrategy: let it ride baby, ye-haw!\n\nFollow me for brilliant ideas daily",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.759292721748352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-08-25T13:05:48Z",
+        "content": "$RBLX \n\nAccount Challenge Update: \n\nStart Date: yesterday\nStarting Balance: borrowed $10\nfrom my wife\nCurrent Balance: $2 (bought four\nscratch off tickets - no winners)\nGoal: one million dollars by the\nend of August\nStrategy: let it ride baby, ye-haw!\n\nFollow me for brilliant ideas daily",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6326069831848145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-08-25T13:05:02Z",
+        "content": "$AMD \n\nAccount Challenge Update:\n\nStart Date: yesterday\nStarting Balance: borrowed $10\nfrom my wife\nCurrent Balance: $2 (bought four\nscratch off tickets - no winners)\nGoal: one million dollars by the\nend of August\nStrategy: let it ride baby, ye-haw!\n\nFollow me for brilliant ideas daily",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6438586115837097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-08-25T09:50:33Z",
+        "content": "$AMD \n\nAccount Challenge Update:\n\nStart Date:  yesterday\nStarting Balance: borrowed $10 from my wife\nCurrent Balance:  $2 (bought four scratch off tickets - no winners)\nGoal:  one million dollars by the end of August\nStrategy:  let it ride baby, ye-haw!\n\nFollow me for brilliant ideas daily",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6438586115837097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-08-25T08:01:29Z",
+        "content": "$AMD a month ago I started investing and right away lost a million dollars, then I joined all these discord sites and quickly made a hundred million. good on me",
+        "sentiment": {
+            "TextBlob": 0.4396825396825397,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987905621528625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-08-23T21:22:36Z",
+        "content": "$AMD it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.953525722026825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-07-08T13:40:37Z",
+        "content": "$M oh come on. Is this going to be negative price like oil was last year?",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988007545471191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-28T15:44:09Z",
+        "content": "$INO just a reminder to everyone - we don't use the \"L\" word here ever - please follow the rule.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967535138130188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-28T15:18:14Z",
+        "content": "$INO umm, what the heck is going on?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985221028327942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-27T19:22:47Z",
+        "content": "$INO at least nobody has said the \"L\" word so far - that's when things get wacky round here",
+        "sentiment": {
+            "TextBlob": 0.02500000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903122186660767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-25T23:17:48Z",
+        "content": "$INO what the heck is shooting this right on up there? MMs playing around after hours?  or is this something real?",
+        "sentiment": {
+            "TextBlob": 0.24285714285714285,
+            "NLTK": 0.327,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964609742164612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-25T20:00:11Z",
+        "content": "$INO what's going on there in the power three minutes?!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960417747497559
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-25T18:40:27Z",
+        "content": "$JD how bout JD over these last few days - I give it a standing O for these calls I have left for this afternoon - whew!",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9745228886604309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-25T18:38:47Z",
+        "content": "$XBI what the heck was that?  biggest volume minute all day!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9656990170478821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-24T20:01:29Z",
+        "content": "$INO how bout that Power Five Minutes!?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922731518745422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-22T07:01:09Z",
+        "content": "$UBER Uber is horrible now.  Way to long to wait.  Way too expensive.  I now use almost exclusively Lyft and I never used Lyft before.",
+        "sentiment": {
+            "TextBlob": -0.5166666666666667,
+            "NLTK": -0.5829,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997022747993469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-18T06:19:01Z",
+        "content": "$INO lucky",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979405999183655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-11T17:34:35Z",
+        "content": "$AMD and where's this nice little bounce coming from?",
+        "sentiment": {
+            "TextBlob": 0.20625,
+            "NLTK": 0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775396585464478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-11T17:03:42Z",
+        "content": "$CWH how low is this thing going to go today! come one",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997988343238831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-11T16:53:32Z",
+        "content": "$INO ok - it's time",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.996451735496521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-11T14:55:12Z",
+        "content": "$CWH oh no",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977419376373291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-11T12:08:50Z",
+        "content": "$TIGR nice!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9757930636405945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-11T12:02:17Z",
+        "content": "$INO here we go!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8979081511497498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-10T16:19:26Z",
+        "content": "$CWH is this thing going to go back up again?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984810948371887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-10T15:30:33Z",
+        "content": "$CWH uh-oh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933151602745056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-10T13:08:54Z",
+        "content": "$TIGR hmm, another day of this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987624883651733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-10T12:21:44Z",
+        "content": "$CRSR amazing",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998475313186646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-09T22:16:30Z",
+        "content": "$INO can we puhleese take it slow and steady this time - no need for spiky spiky",
+        "sentiment": {
+            "TextBlob": -0.0666666666666667,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8182885646820068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-09T19:08:22Z",
+        "content": "$INO and now for the hour of the power",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9765579104423523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-06-07T16:44:35Z",
+        "content": "$INO past 8.50!  yikes",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971171617507935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-05-27T16:14:18Z",
+        "content": "$EDIT holding 35s.  any hope to to 36 or 37 by tomorrow?!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963907599449158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-05-13T03:35:11Z",
+        "content": "$SAFEMOON.X my SAFEMOON is on Bitmart, have been holding\nfor about three weeks. just got my reflection coins which were about 4.5% of the amount I have been holding - nice",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992482602596283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-05-07T22:16:29Z",
+        "content": "$DOGE.X and there we go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8415632843971252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-05-07T22:14:55Z",
+        "content": "$DOGE.X here we go!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5962250232696533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-26T16:45:26Z",
+        "content": "$CLF woah Clifford - what's going on",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940420985221863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-20T14:12:01Z",
+        "content": "$ZEP.X my wife actually used to work at the Zep headquarters (the chemical company) in Atlanta before they went private in 2015 - they would love to know that we are using their ST room",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8905532360076904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-20T08:14:14Z",
+        "content": "$ZEP.X it would have a dot X after the ticker if it was a coin",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986514449119568
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-20T08:12:55Z",
+        "content": "$ZEP.X hey everyone - this ZEP is a chemical company, not the crypto coin",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996435284614563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-20T05:16:09Z",
+        "content": "$DOGE.X still trending",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9767968058586121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-20T05:04:56Z",
+        "content": "$DOGE.X amazing we are trading at 42 cents on 4.20",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9532169103622437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-19T23:31:34Z",
+        "content": "$SAFEMOON.X just have two questions:  is this safe? and is this going to the moon?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5768,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970965385437012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-19T23:30:38Z",
+        "content": "$INO two questions:  is this safe? and is this going to the moon?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5768,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917516112327576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-19T23:20:17Z",
+        "content": "$SAFEMOON.X  bout to drop a 0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9776372909545898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-19T22:20:03Z",
+        "content": "$DOGE.X looks like people waking up early in Asia and haven't gone to sleep in Europe",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9470536112785339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-19T18:52:17Z",
+        "content": "$COIN how I wish it worked: in Coinbase convert USD to SAFEMOON. \n\nHow it really works: in Coinbase convert USD to ETH, send ETH to Bitmart, convert ETH to USDT, convert USDT to SAFEMOON",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937096834182739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-19T03:18:34Z",
+        "content": "$DOGE.X screenshot to show the DOGE I just bought on Webull (it\u2019s only $150 worth just to test it out - but will be adding more from here)",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.1154,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975563287734985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-19T03:12:04Z",
+        "content": "$DOGE.X finally Webull trading DOGE!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944456815719604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-17T19:19:45Z",
+        "content": "$DOGE.X and there\u2019s 0.30",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940164089202881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-17T19:18:55Z",
+        "content": "$DOGE.X up 9% in the past hour!!!",
+        "sentiment": {
+            "TextBlob": -0.48828125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9686344861984253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-04-15T04:24:38Z",
+        "content": "$COIN is there any way the Coinbase guys could take some of the billions and create an actual iPad version of the app (both Coinbase.com and Coinbase Pro) instead of that little iPhone version that shows up",
+        "sentiment": {
+            "TextBlob": -0.09375,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995325803756714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-15T16:18:49Z",
+        "content": "$INO what's up with all these $1,400 bids I see on the Level 2 data?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983392953872681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-14T05:32:37Z",
+        "content": "$RBLX uh oh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899274706840515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-14T05:29:55Z",
+        "content": "$SLAC.U I\u2019m thinking maybe something to do with NFTs or maybe DEFI or Crypto \u2014 what i don\u2019t think it will be is some boring something or other.  Howard knows too many people on the cutting edge and is so up on what\u2019s coming next - you got to believe this going to land on an exciting company pushing the limits",
+        "sentiment": {
+            "TextBlob": -0.15416666666666667,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.95010906457901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-11T14:43:29Z",
+        "content": "$COG yep, broke through the 19.30 - finally!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3561,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9602214694023132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-11T08:34:58Z",
+        "content": "$INO ok, ready",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9405292868614197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-11T08:33:50Z",
+        "content": "$COG it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903837442398071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-11T06:22:33Z",
+        "content": "$INO I\u2019m not \u2014> Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965319633483887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-10T17:57:51Z",
+        "content": "$COG could we please break out of 19.30?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984732270240784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-05T19:17:13Z",
+        "content": "$INO watch this",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.973301351070404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-04T20:50:02Z",
+        "content": "$BLNK can someone please let me know if this is going to go up or down tomorrow",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971025586128235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-04T19:05:15Z",
+        "content": "$BLNK I guess $19 is the next destination",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927574396133423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-04T19:01:59Z",
+        "content": "$BLNK how low can this go?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997630715370178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-04T18:44:22Z",
+        "content": "$BLNK uh oh, oh no",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981237053871155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-04T18:21:03Z",
+        "content": "$BLNK maybe $19",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916533827781677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-04T18:20:18Z",
+        "content": "$BLNK below $30 I don't see any support levels - does anyone?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3089,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987800717353821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-01T21:47:36Z",
+        "content": "$INO btw, I heart Kate",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9738146662712097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-01T21:08:41Z",
+        "content": "$INO :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9783677458763123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-03-01T18:58:38Z",
+        "content": "$SLAC.U awesome interview Howard - looking forward seeing what happens next",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987332224845886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-26T20:03:32Z",
+        "content": "$V to begin",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9493487477302551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-26T19:10:40Z",
+        "content": "$V its time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953442215919495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-25T01:00:43Z",
+        "content": "$AMC dang that was a fun ride",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989926218986511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-19T18:43:34Z",
+        "content": "$INO ok, now it's moving.  let's finish the week with a nice push to the finish line",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995610117912292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-19T16:46:07Z",
+        "content": "$INO respecting the 50 min",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9160709381103516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-18T01:07:56Z",
+        "content": "$INO so guess which institute I happen to pass by on my run through the Penn campus this evening!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975258708000183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-17T20:59:18Z",
+        "content": "$INO Looney, Vicky - Vicky, Looney",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6460644006729126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-17T15:36:57Z",
+        "content": "$INO kind of reminds me of",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.913066029548645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-13T04:23:27Z",
+        "content": "$INO nine piles of tiles - what does it mean?",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99835604429245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-12T23:28:22Z",
+        "content": "$CARM did I mention Tom is nice?",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9705938696861267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-12T20:17:04Z",
+        "content": "$INO comes a time when you got to let it ride",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9411155581474304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-12T12:23:50Z",
+        "content": "$INO trending",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9785884618759155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-12T12:10:54Z",
+        "content": "$INO five of clubs",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9512290358543396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-12T00:59:10Z",
+        "content": "$INO lots of people walking around this place, with a different story on every face \u2014 hearts on fire, will they make it through \u2014 at the wire, will they win or lose",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952141046524048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-11T23:27:15Z",
+        "content": "$INO $VXRT I have both of these - so watch the % change up and down each day - it seems so odd that they seem to track with each other more days than not",
+        "sentiment": {
+            "TextBlob": 0.01319444444444444,
+            "NLTK": -0.4572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973318576812744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-10T02:56:23Z",
+        "content": "$INO 48 fifty dollar win tickets on the three horse in the seventh race",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9460373520851135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-01T19:59:41Z",
+        "content": "$INO time for the wonder twins",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9521229863166809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-01T18:49:55Z",
+        "content": "$INO we\u2019ve been trending all darn day!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.884632408618927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-01T16:20:50Z",
+        "content": "$INO I'm gonna call this a triple top for this morning -- time to break on through this time",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9640282988548279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-01T14:57:05Z",
+        "content": "$INO is that a 15 I see up ahead?!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9409830570220947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-02-01T14:55:33Z",
+        "content": "$SLV uh-oh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971240162849426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-30T00:57:07Z",
+        "content": "$INO solid AH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982118606567383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-29T20:31:17Z",
+        "content": "$INO this time she should break through the 13s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9574522972106934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-29T20:24:24Z",
+        "content": "$INO could we get past these 13s please",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930254220962524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-29T19:50:17Z",
+        "content": "$VXRT nice!!!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5684,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981309771537781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-27T16:12:01Z",
+        "content": "$INO I'm glad Kate is the lead picture on the homepage",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9857639670372009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-27T14:54:50Z",
+        "content": "$AMC uh-oh - was anybody in $TLRY a few years ago - was just this kind of euphoria, then fell apart in halt after halt on the way down over an hour",
+        "sentiment": {
+            "TextBlob": 0.08148148148148146,
+            "NLTK": 0.6133,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999589741230011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-27T05:10:41Z",
+        "content": "$INO you got love it when a 9% gain isn't even enough to make it trending",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929888844490051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-26T17:13:44Z",
+        "content": "$INO now that\u2019s some vol",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981280505657196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-26T17:13:01Z",
+        "content": "$INO what the heck! Let\u2019s go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885075092315674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T20:51:20Z",
+        "content": "$INO let it ride",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9661980867385864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T20:42:54Z",
+        "content": "$VXRT and here we go again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.601833164691925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T20:37:14Z",
+        "content": "$VXRT if this makes it to $17.49 it could easily see $18",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930065870285034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T20:24:59Z",
+        "content": "$VXRT there she goes again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6234344244003296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T20:23:59Z",
+        "content": "$VXRT does somebody know something?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979816675186157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T17:29:52Z",
+        "content": "$GME is this a video game?",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991554021835327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T17:19:50Z",
+        "content": "$GME oh no!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988328814506531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T16:18:02Z",
+        "content": "$GME this needs a hard reset",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999365508556366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T14:52:39Z",
+        "content": "$BB yikes!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953351616859436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T14:51:54Z",
+        "content": "$BB UH-OH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988149106502533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-25T12:03:34Z",
+        "content": "$INO Merck",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8525761961936951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-21T15:24:59Z",
+        "content": "$INO verte",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6323809623718262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-15T18:39:26Z",
+        "content": "$ON tight range, boxed in - which way does it go",
+        "sentiment": {
+            "TextBlob": -0.17857142857142858,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9601803421974182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-12T13:57:00Z",
+        "content": "$ON Nice!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988656044006348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2021-01-08T03:56:32Z",
+        "content": "$LVS nice, it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9969701766967773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-12-30T07:03:29Z",
+        "content": "$INO don\u2019t worry I\u2019ve got a hundred bucks stashed away for a day just like this",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982142984867096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-12-22T12:18:42Z",
+        "content": "$AMZN yeah, what the heck is an announcement?!  I think of announcements as facts, like, \"we are experiencing turbulence, please return to your seat\" or \"after further review, the ruling on the field stands, touchdown.\"  But \"I think the price is going to go up\"??? I mean, I'm all for AMZN going up, but an announcement? Or maybe these algorithms have just advanced so much they actually know it will go up? Bullish",
+        "sentiment": {
+            "TextBlob": 0.05750000000000001,
+            "NLTK": 0.7752,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986709356307983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-12-19T02:37:16Z",
+        "content": "$INO just FYI I think its about time to go all in",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.368,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920578598976135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-12-08T01:41:38Z",
+        "content": "$KODK look familiar?",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923998713493347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-12-04T04:59:01Z",
+        "content": "$INO sam, are you telling me you had the boy hold charity back for eight straight races?",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931733012199402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-12-04T04:46:45Z",
+        "content": "$INO I got the horse right here, the name is paul revere",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9279453158378601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-11-30T05:22:49Z",
+        "content": "$INO there\u2019s a perfect time, when you\u2019re tempting fate, and you lay your money down",
+        "sentiment": {
+            "TextBlob": 0.4222222222222222,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8727055191993713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-11-17T01:19:24Z",
+        "content": "$INO so was thinking, if the military has a nearly unlimited budget, and their main mission was to secure a vaccine which would be the strongest, longest lasting, with the least side effects \u2014 so that our soldiers were at their best and strongest to be able to protect us at all times ...",
+        "sentiment": {
+            "TextBlob": 0.22083333333333333,
+            "NLTK": 0.9325,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6507290601730347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-11-10T20:57:31Z",
+        "content": "$INO TTM Squeeze has been green all day long since 9:30 - never seen that before",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900643229484558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-11-09T21:31:26Z",
+        "content": "$INO will one of you Stocktwitters please ask a question",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941282272338867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-11-09T21:29:27Z",
+        "content": "$INO the hold music is Vivaldi, Four Seasons. Nice",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988239407539368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-29T20:03:35Z",
+        "content": "$AMZN up more in 3 min than all day long",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9688568711280823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-29T20:02:53Z",
+        "content": "$AMZN amazing numbers!",
+        "sentiment": {
+            "TextBlob": 0.7500000000000001,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997308850288391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-28T06:09:19Z",
+        "content": "$INO guten Morgen",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912093877792358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-23T20:00:38Z",
+        "content": "$JMIA what was that at the very end?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979464411735535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-23T04:26:16Z",
+        "content": "$INO many worlds:  the one where INO saves the world",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9925375580787659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-16T19:00:48Z",
+        "content": "$TSLA what the",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.96220463514328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-14T18:58:46Z",
+        "content": "$TSLA 0 t0 60 - damn fast",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9797658324241638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-14T01:05:26Z",
+        "content": "$YY it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8887556195259094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-12T18:23:12Z",
+        "content": "$JMIA rising",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9781007766723633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-09T17:29:06Z",
+        "content": "$PLUG ok chart masters, which way does it go from here?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987622499465942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-05T20:00:00Z",
+        "content": "$INO yikes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904869198799133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-05T10:01:57Z",
+        "content": "$INO up in the pre",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9561681747436523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-02T18:56:40Z",
+        "content": "$NIO what a green bar in the pre-power hour!",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925289750099182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-02T18:56:16Z",
+        "content": "$NIO what the heck was that?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992250204086304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-10-01T19:53:31Z",
+        "content": "$INO oh just wonderful - can\u2019t wait to get my shot",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998359680175781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-30T17:54:10Z",
+        "content": "$NIO bingo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879145622253418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-30T15:32:11Z",
+        "content": "$INO about to turn",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.93296217918396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-29T20:58:16Z",
+        "content": "$NIO so the AH is holding - nice, wtg nio",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7047615051269531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-29T19:37:12Z",
+        "content": "$NIO winding up one more time",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988428354263306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-29T15:28:23Z",
+        "content": "$JMIA $23.90 here we come again!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8087151050567627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-28T04:12:17Z",
+        "content": "$INO last time my wife asked about my portfolio balance we were at $24.  only need $7 more dollars to get back there before she inquires again.  if she happens to ask any of you, please don\u2019t tell her about that $8.78 low we had there along the way. go $INO!",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987962245941162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-26T03:05:14Z",
+        "content": "@ohnonotagain @cxdbps123 last night I had a dream $INO hit an ATH of $332.62.  my dreams usually come true.  note to self:  set a limit sell for $332.61",
+        "sentiment": {
+            "TextBlob": 0.033333333333333326,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5182243585586548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-25T20:27:31Z",
+        "content": "$INO holding strong in the AH",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9836015105247498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-25T20:24:14Z",
+        "content": "$INO hypothetical question:  what happens if INO-4800 proves to actually be 94% effective and the others end up being 50% or 60% or 70% effective?  how does the world deal with that?",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.7622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989215135574341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-25T20:00:20Z",
+        "content": "$INO $16.94",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9642696380615234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-25T16:29:22Z",
+        "content": "$INO winding up again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979138970375061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-25T13:28:47Z",
+        "content": "$INO and here we go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8554058074951172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-25T13:23:57Z",
+        "content": "$KODK ready to rise",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982176423072815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-25T12:55:35Z",
+        "content": "$INO RHers in 5 min",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867817759513855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-24T19:59:02Z",
+        "content": "$INO this is it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915468096733093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-24T16:42:48Z",
+        "content": "$INO winding up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989545345306396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-22T13:46:41Z",
+        "content": "$INO tug-o-war",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806053638458252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-22T13:38:14Z",
+        "content": "$INO stop sweeps over and over",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997687816619873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-18T19:07:09Z",
+        "content": "$KODK my Dec \u201821 $10 calls finally ITM!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951732754707336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-18T19:04:45Z",
+        "content": "$INO \u30d1\u30ef\u30fc\u30a2\u30ef\u30fc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917169213294983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-18T18:20:05Z",
+        "content": "$INO and here we go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8554058074951172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-18T18:18:16Z",
+        "content": "$INO up 13% - nice, nice, nice, nice, nice",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.9186,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986327290534973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-18T18:17:32Z",
+        "content": "$KODK it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9554947018623352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-18T18:12:32Z",
+        "content": "$INO on the one-min chart, every time the 50 converges with the 200 it seems to send INO on a run up.  over and over again this happens.  they are about to converge again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6350504159927368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-18T16:15:42Z",
+        "content": "$INO it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6604709029197693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-17T10:10:06Z",
+        "content": "$INO climbing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9704329967498779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-16T19:50:42Z",
+        "content": "$INO HOD at 18.18 with 10 min to go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924330711364746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-16T19:45:13Z",
+        "content": "$INO look at the volume building over the last three days",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.965858519077301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-15T21:33:11Z",
+        "content": "$INO some hefty AH volume supporting it",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9796918034553528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-15T21:27:56Z",
+        "content": "$INO dang. what happened to slow and steady?",
+        "sentiment": {
+            "TextBlob": -0.0666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998514711856842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-15T17:25:52Z",
+        "content": "$INO at $13.34 as of right now, this is up 52% vs 11 days ago on Sep 4 when it hit $8.78",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928514957427979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-15T14:21:18Z",
+        "content": "$RCL I truly don\u2019t understand how this is still at $67.  It\u2019s a binary thing.  Restaurants at least can get some revenue from outdoor seating or 25% capacity inside seating or shift to a deliver-focused model \u2014 but cruise ships are not sailing!  There is no revenue that I\u2019m aware of \u2014 and no clear path to them starting up again.  I think there\u2019s a lot of hoping going on here.  I want to cruise again more than most \u2014 but I just don\u2019t get it.",
+        "sentiment": {
+            "TextBlob": 0.13749999999999998,
+            "NLTK": 0.636,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988235831260681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-10T06:14:37Z",
+        "content": "$INO please let\u2019s not use the L word on this run up. I truly believe the algos search Stocktwits for that word and then go short based on the frequency!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992300271987915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-03T03:52:26Z",
+        "content": "@ch3vy this crap straightened my teeth for $1,500 - $SDC rules",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991142153739929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-09-01T01:23:35Z",
+        "content": "$KODK my DD:  glancing over a day\u2019s worth of the the KODK StockTwits feed ...\nD.E. Shaw\u2019s DD:  big team of Ivy League smart dudes with a bunch of AI computers analyzing a boatload of data and coming up with a real strategy",
+        "sentiment": {
+            "TextBlob": 0.17857142857142855,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969111084938049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-31T21:17:22Z",
+        "content": "$KODK KODK drank some Red Bull and grew wings",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995185911655426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-31T21:10:42Z",
+        "content": "$KODK AH volume will be more than the regular hours",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5763412714004517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-31T21:09:32Z",
+        "content": "$KODK uh oh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993035614490509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-31T21:05:17Z",
+        "content": "$KODK wow. really starting to fly now.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991782307624817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-30T03:24:55Z",
+        "content": "$MOS this is it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933978319168091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-23T02:37:23Z",
+        "content": "$INO it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6604709029197693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-21T14:45:46Z",
+        "content": "$INO this is it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915468096733093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-16T22:53:18Z",
+        "content": "$INO i propose we rename it to INO-4800K for Kate",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892945289611816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-14T19:00:53Z",
+        "content": "$INO oh, I heard this was going up in the power of the hour",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988412261009216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-12T17:01:13Z",
+        "content": "$SPWR keeps bouncing off the 50",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.934563159942627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-10T21:51:09Z",
+        "content": "$INO our next question will come from xxx from StockTwits",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975759387016296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-10T20:47:24Z",
+        "content": "$INO green bars while Kate is speaking",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887520670890808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-10T20:32:47Z",
+        "content": "$INO put Kate on!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9327855706214905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-10T20:26:46Z",
+        "content": "$INO being a Philly business \u2014 don\u2019t you think they should be playing Rocky theme instead of the sleepy music they are playing?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940226674079895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-07T03:08:31Z",
+        "content": "@mistam16 depends on your view of where the stock price will go.  If you think the highest it will go before is expiration is 10.49, then go with the $10!  If you think it will go way above $10.50, then go with the $10.50 - you\u2019ll make more $. (but that\u2019s what every single person on here is trying to figure out - if it was easy to do we\u2019d all be on the beach right now)",
+        "sentiment": {
+            "TextBlob": 0.22952380952380952,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971591234207153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-06T20:24:41Z",
+        "content": "$MCD announcing the new delivery fleet",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9496340751647949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-06T19:53:13Z",
+        "content": "$MCD one HOD after another",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947156310081482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-06T18:42:12Z",
+        "content": "$MCD broke $203 for the second time today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9760714769363403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-06T17:55:24Z",
+        "content": "$MCD and off we go again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8756471872329712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-06T15:08:44Z",
+        "content": "$MCD and here we go again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8722389340400696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-06T14:26:11Z",
+        "content": "$MCD TTM Squeeze shows this has room to run still",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998578667640686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-06T14:11:25Z",
+        "content": "$MCD needs to break 202.52 and this is going to fly",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9956732392311096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-05T18:49:36Z",
+        "content": "$MSFT yeah, I needed a straight edge for some light renovation work I\u2019m doing, couldn\u2019t find one, but then noticed how dang flat this has been trading and just used that",
+        "sentiment": {
+            "TextBlob": 0.19166666666666668,
+            "NLTK": 0.2617,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999515175819397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-04T15:29:42Z",
+        "content": "$MCD does this break $200 today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970550537109375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-03T20:25:32Z",
+        "content": "$INO nice!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974752068519592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-03T16:27:29Z",
+        "content": "@howardlindzon @ivanhoff Howard, Ivan first alerted us to $JMIA $6 Jul 17 calls back in the middle of June.  I keep rolling it over - has been an epic run so far!",
+        "sentiment": {
+            "TextBlob": 0.095,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.638073742389679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-08-03T16:22:25Z",
+        "content": "$INO nice to be moving up in the mid-day!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9963861703872681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-31T19:58:33Z",
+        "content": "$INO ok, now",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.935689389705658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-22T15:10:56Z",
+        "content": "$INO ok time to move on up",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9333453178405762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-21T17:54:33Z",
+        "content": "$INO here we go again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.946982204914093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-17T19:52:14Z",
+        "content": "$INO right to the top - don\u2019t look back",
+        "sentiment": {
+            "TextBlob": 0.2619047619047619,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9884802103042603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-17T05:36:44Z",
+        "content": "$INO I believe this will be $30 EOW from the probable CEPI funding tomorrow!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983950257301331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-16T08:23:22Z",
+        "content": "$VXRT //folllowers only// now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983710646629333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-16T08:22:34Z",
+        "content": "$VXRT go with it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5674386024475098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-16T08:15:03Z",
+        "content": "$JMIA now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8745193481445312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-16T06:06:13Z",
+        "content": "$WLL wow. rolling to earnings.  it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952908754348755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-15T11:34:45Z",
+        "content": "$WLL ok",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9925105571746826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-15T11:29:25Z",
+        "content": "$TIGR it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911823272705078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-14T19:51:39Z",
+        "content": "$INO time for the power 10",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982801079750061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-14T19:45:43Z",
+        "content": "$F if able to jump this 6.34 then sky\u2019s the limit",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8925607204437256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-14T19:44:07Z",
+        "content": "$F oh no, back to the dreaded 6.34",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989160299301147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-14T18:36:18Z",
+        "content": "$INO now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9389213919639587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-14T18:02:17Z",
+        "content": "$F is that an hour and 15 min consolidation or what",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997161865234375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-13T17:52:42Z",
+        "content": "$INO I\u2019ve noticed $INO seems to consistently move ahead of the news - over and over again",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995920062065125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-07-04T17:24:46Z",
+        "content": "$INO It has been revealed that Citron\u2019s short strategy is wholly based upon them counting the number of moon and spaceship emoji\u2019s and the word \u201clambo\u201d appearing on StockTwits feeds.  So during this next INO run-up can we tone down the emoji use and consider buying a VW or Subaru instead \u2014 Andrew will be so proud.",
+        "sentiment": {
+            "TextBlob": 0.16111111111111112,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9346358180046082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-30T15:40:56Z",
+        "content": "$AAL go Bernie!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9143014550209045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-29T23:08:10Z",
+        "content": "$INO the AH power hour  - it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.570087730884552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-29T12:36:47Z",
+        "content": "$INO If I ever run for president i would make my first order of business to have the market open 24/7 for all stocks - and options trading as well",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9420549273490906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-28T18:50:04Z",
+        "content": "$INO i\u2019m long and bullish.  but most times I see this many moon comments things end up not so well.  could we just keep the mood here a little bit toned down.  slow and steady wins the race.  thank you very much",
+        "sentiment": {
+            "TextBlob": 0.11484567901234567,
+            "NLTK": 0.7482,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9774353504180908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-28T05:20:56Z",
+        "content": "@pavors why do you say $INO fans won\u2019t be happy?  The $CANF product is a treatment for COVID, not a vaccine for it?  Or am I missing something?",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996010661125183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-27T16:07:36Z",
+        "content": "$INO and another from the DOD report",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994053065776825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-27T16:06:16Z",
+        "content": "$INO interesting screenshots from the DOD report (thx @james008)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9447525143623352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-27T03:49:58Z",
+        "content": "$INO something to remember - in 2019 the military rcvd about $800 billion out of a total federal budget of about $4.5 trillion.  The military is loaded.  Interesting which vaccine they chose to spend their $ on.  They want the best for our military professionals.  We need to keep them healthy so they can protect us and keep us safe.  thank you very much",
+        "sentiment": {
+            "TextBlob": 0.2733333333333333,
+            "NLTK": 0.9529,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5759512782096863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-27T03:41:55Z",
+        "content": "$INO just FYI, when the results come out remember the people were split into three groups.  Group 1 received 1.0 mg of INO-4800, Group 2 received 2.0 mg, and Group 3 received 0.5 mg.  This is normal as they are looking for responses using different amounts of INO-4800.  So all the groups most likely won\u2019t have the same results - which is ok.",
+        "sentiment": {
+            "TextBlob": 0.19166666666666665,
+            "NLTK": 0.5766,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.620120108127594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-26T19:47:35Z",
+        "content": "$INO i love friday AHs",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972149133682251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-26T15:54:59Z",
+        "content": "$INO CNN:  32 states now increasing the number of cases.  this is all the news channels will be talking about all weekend",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9473660588264465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-26T15:50:04Z",
+        "content": "$INO 8,942 new cases in Florida today.  we need a vaccine now!",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778012633323669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-26T14:41:01Z",
+        "content": "$DAL this sell-of is not stopping, is it?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1139,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991543292999268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-26T13:29:19Z",
+        "content": "$INO i wish everyone a good day!",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984422326087952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-26T11:13:46Z",
+        "content": "$INO here we go again!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8265208601951599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-25T20:00:21Z",
+        "content": "$INO 31.25 at the bell",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9657949209213257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-25T19:49:07Z",
+        "content": "$INO HOD, HOY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9821085929870605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-25T15:09:10Z",
+        "content": "$INO aaand up we go again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923601746559143
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-25T14:33:13Z",
+        "content": "$INO there it goes again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9757763743400574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-25T14:30:14Z",
+        "content": "$INO dang, the dips just keep getting bought",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924860000610352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-25T06:06:43Z",
+        "content": "$INO um, we need a vaccine like right now, ok",
+        "sentiment": {
+            "TextBlob": 0.39285714285714285,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906167387962341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-24T20:51:38Z",
+        "content": "$INO alright then - let\u2019s get this AH party started",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9071809649467468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-24T12:26:01Z",
+        "content": "$INO and the pre-market volume - what the heck!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959549903869629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-24T12:13:58Z",
+        "content": "$INO it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6604709029197693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-22T20:00:08Z",
+        "content": "$INO 15.30 at the close!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9729734063148499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-22T19:54:35Z",
+        "content": "$INO dang everything seems to be swinging up here at the close - across the board",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.930290699005127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-12T18:53:39Z",
+        "content": "$NKLA uh-oh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920893907546997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-12T16:22:07Z",
+        "content": "$INO dang, on it\u2019s way again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9817153215408325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-12T16:18:24Z",
+        "content": "$INO 13 is a lucky number in China",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982718229293823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-11T00:49:54Z",
+        "content": "$NKLA in my fours years of trading, this is the first time I have found myself on the Citron side of the position.  got to say it feels a whole lot better than trying to convince myself he is wrong - only to see the stock drop 100% of the time he dumps on it",
+        "sentiment": {
+            "TextBlob": 0.09,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993539452552795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-11T00:35:34Z",
+        "content": "$NKLA uh oh, again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939716458320618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-10T23:27:20Z",
+        "content": "$NKLA uh-oh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920893907546997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-08T22:13:19Z",
+        "content": "$INO it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6604709029197693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-05T23:51:32Z",
+        "content": "$DGLY nice, nice day - way to go",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998569488525391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-06-01T18:05:36Z",
+        "content": "$INO wow, nice climb over the last hour",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984930753707886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-29T20:01:09Z",
+        "content": "$INO man, what a close at 14.75",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865754246711731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-29T19:59:26Z",
+        "content": "$INO dang. broke 14.50 with 3 min to go then wham",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9731903672218323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-29T19:58:14Z",
+        "content": "$INO wow. There she goes",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995318591594696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-29T19:40:44Z",
+        "content": "$INO what the heck is going on!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972401857376099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-29T19:35:30Z",
+        "content": "$INO HOD with 25 min to go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925554394721985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-29T17:33:53Z",
+        "content": "$INO what was that pop for?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979429841041565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-28T20:34:03Z",
+        "content": "$INO I\u2019m liking the dark mode!",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9539679884910583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-28T20:31:10Z",
+        "content": "$AMZN how cool is dark mode!",
+        "sentiment": {
+            "TextBlob": 0.08124999999999999,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.934482991695404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-22T19:44:19Z",
+        "content": "$INO now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9389213919639587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-22T13:27:50Z",
+        "content": "$INO so INO invents the vaccine, make billions of doses, saves the world, life back to normal ... andrew: \u201cINO should be halted\u201d",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986889958381653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-21T17:18:03Z",
+        "content": "$CARM hey how \u2018bout that little sesn that could",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9672549962997437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-19T23:32:24Z",
+        "content": "$INO what\u2019s up with that little spike?",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950190782546997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-19T19:06:52Z",
+        "content": "$INO yeah, what the heck happened at 2:30. Everything dropped then is coming back up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9408553242683411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-18T05:11:32Z",
+        "content": "$INO :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9783677458763123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-14T05:03:08Z",
+        "content": "$INO when it rains!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9669851660728455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-13T22:27:34Z",
+        "content": "$INO oh, I heard this is going to run",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988511800765991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-13T19:53:21Z",
+        "content": "$INO rock on",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.947548508644104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-12T16:05:45Z",
+        "content": "$INO Kate just now: \u201cwe are in discussions with other funders\u201d",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9746187329292297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-12T16:01:59Z",
+        "content": "$INO I\u2019m glad Kate is on the team. She is articulate and confident. What a good presentation and responses from her to the follow up questions.",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.8442,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998664855957031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-12T15:42:49Z",
+        "content": "$INO go Kate! nice",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994144439697266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-12T15:28:38Z",
+        "content": "$INO hmm, 10.61 at 5PM last night and now 13.00 - I see",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865859746932983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-08T14:27:33Z",
+        "content": "$CARM when I say \u201cnow\u201d it is time to buy - does everyone get that?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982075691223145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-08T03:50:05Z",
+        "content": "$ZO it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7823584675788879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-07T20:47:52Z",
+        "content": "$CARM no wonder they didn\u2019t need to consider RS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5670889019966125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-07T13:04:32Z",
+        "content": "$CARM now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9794475436210632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-05-06T18:33:10Z",
+        "content": "$INO now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9389213919639587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-24T19:00:01Z",
+        "content": "$INO the hour of power has begun",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9625609517097473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-24T17:51:29Z",
+        "content": "$INO 15",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8579013347625732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-23T15:20:47Z",
+        "content": "$INO swing in - now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7368615865707397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-22T13:50:24Z",
+        "content": "$CARM Honest question here: is the reason you want to vote \u201cno\u201d is that you want to force the company to do something else to stay compliant?  You do realize that if we go past the compliance date without going above $1.00 we get DELISTED!  Does that seem like a better alternative to you than reverse splitting?  And you do realize in a reverse split that you will have less shares but they are at a higher price, right?",
+        "sentiment": {
+            "TextBlob": 0.1741496598639456,
+            "NLTK": 0.7533,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965864419937134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-22T13:42:53Z",
+        "content": "$CARM do it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9732233285903931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-22T13:36:49Z",
+        "content": "$INO where are all the sellers?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989709854125977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-22T13:35:43Z",
+        "content": "$INO yep - now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.941597580909729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-22T13:35:16Z",
+        "content": "$WLL right now",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9122617244720459
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-22T13:34:38Z",
+        "content": "$ZOM now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898356795310974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "radnorr",
+        "timestamp": "2020-04-22T02:35:48Z",
+        "content": "$ZOM it\u2019s time",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9511079788208008
+            }
+        },
+        "image_url": ""
+    }
+]

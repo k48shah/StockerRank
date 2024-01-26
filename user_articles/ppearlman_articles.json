@@ -1,0 +1,828 @@
+[
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-06-12T20:21:52Z",
+        "content": "Nasdaq 100 ETF $QQQ closed at $360 today, $100 above the Dec 28 '22 low of $260.  Pretty good.",
+        "sentiment": {
+            "TextBlob": 0.16999999999999998,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972706437110901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-05-30T14:51:41Z",
+        "content": "$NVDA There it is.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944137334823608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-05-25T13:46:00Z",
+        "content": "$NVDA doing The Trillion Roll. \n \n($939B 15 minutes in)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899984002113342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-05-24T20:48:00Z",
+        "content": "$NVDA gonna do the trillion dollar roll?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994220495223999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-05-11T22:57:25Z",
+        "content": "$BYND Founder One: Hey, lets find the perfect food and make a fake version of it thats terrible for you. \n \n$$BYND Founder Two: Brilliant!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7293447256088257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-05-03T16:13:36Z",
+        "content": "dont really care about the interest rates. $FED",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.04,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997063279151917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-04-25T16:27:43Z",
+        "content": "All these junk food companies are making all-time highs. This is a reflection of our culture. This is the real pandemic. $MCD $YUM $GIS $HSY $PEP\nprimecuts.substack.com/p/al...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9854812026023865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-04-06T14:11:56Z",
+        "content": "My 2 high school age sons will work full time this summer. They've opened brokerage/savings accounts & will save & invest some of what they earn. \n \nThey're interested already & have asked good questions. Some I've answered well & others they've researched with various degrees of success. \n \nI recommended 2 books to them that I think are foundational for young investors. \n \nThe Richest Man in Babylon provides narratives for building wealth. \"Spend less than you earn\" etc. It is simple, clear, fun, & has stood the test of time. \n \nJust Keep Buying contextualizes data in clear, smart language provides evidence & answers the \"but why?\" \n \nI share these because I think they provide a solid foundation. I will report back at the end of the summer on how this went. \n \nI'd love to hear what other resources, books or otherwise, you recommend. $STUDY cc @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.16368347338935574,
+            "NLTK": 0.9832,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995535016059875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-03-29T15:45:20Z",
+        "content": "Lets go bruh! $CALM",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915251135826111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2023-03-06T18:33:15Z",
+        "content": "$SPY $QQQ $SMH $TLT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973477125167847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2022-12-21T21:05:24Z",
+        "content": "$GBTC What's the discount here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942850470542908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2022-12-21T19:35:18Z",
+        "content": "$CALM Is this ATHs?",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985212683677673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2022-06-22T17:31:46Z",
+        "content": "$FLYU & $FLYD\n\nMicrosectors Travel 3X and 3X Inverse begin trading today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7573264837265015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2022-04-25T18:23:02Z",
+        "content": "Partisanship aside.\n\nIt's not the \"current board.\" $TWTR.P been poorly led & mismanagd for 15yrs.\n\nIf u view Musk as an activist & the asset as distressd, $50B for a world changng realtime 1 to many comms platform might look cheap in 3yrs.\n\nReal question is- Can he right the ship?",
+        "sentiment": {
+            "TextBlob": 0.16428571428571428,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996976852416992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2022-04-04T22:24:46Z",
+        "content": "The richest man in the world, who builds fiercely loved products, took a large stake in $TWTR.P. \n\nI wonder if he will be able to influence a product development system that has been broken since one day after the original launch in 2006.",
+        "sentiment": {
+            "TextBlob": 0.27785714285714286,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819386005401611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-11-23T23:55:02Z",
+        "content": "$BYND there's solid support at zero.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985675811767578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-11-15T17:10:15Z",
+        "content": "What's worse? Take the Poll $BYND $OTLY\ntwitter.com/ppearlman/statu...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998095631599426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-11-11T14:20:15Z",
+        "content": "$BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881139397621155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-11-08T16:59:28Z",
+        "content": "This was a pleasure and fills u in on things u can control to improve your trading. $STUDY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990291595458984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-11-08T16:39:37Z",
+        "content": "$MSOS why is pot doing so great now?",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7384,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6614322662353516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-11-07T11:07:03Z",
+        "content": "Been watching the $MSOS stream for a while now. Incredibly disappointed by the absence of Cheech and Chong gifs. C'mon you guys.\n\n\"Save the whales, kill the seals...\" \ud83c\udfb6\ud83c\udfb6",
+        "sentiment": {
+            "TextBlob": -0.38125,
+            "NLTK": -0.7089,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997460246086121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-11-05T13:32:01Z",
+        "content": "$QQQ 400",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9539806842803955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-10-22T13:56:08Z",
+        "content": "How do you possibly compete against steak? $BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957373142242432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-10-22T12:43:52Z",
+        "content": "$BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881139397621155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-10-16T20:26:01Z",
+        "content": "Weekend Recap \u2014 Bitcoin\u2019s Revenge\n\n- Bitcoin Outperforming Alts\n- Stripe Comes Back To Crypto\n- US Mining Growing Fast\n\n$BTC.X $ETH.X\nospreyfunds.io/newsletter/b...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993286669254303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-10-15T12:33:38Z",
+        "content": "$BTC.X now up over 100% for 2021 after rising over 400% in 2020.\n\nMaxi's Delight.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995834231376648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-10-08T18:28:03Z",
+        "content": "Man, $BYND is getting slaughtered.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991878867149353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-10-06T18:43:52Z",
+        "content": "#rib #chuck #brisket #tongue #itsallgood $BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908109903335571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-09-16T17:06:09Z",
+        "content": "$BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881139397621155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-09-15T20:17:22Z",
+        "content": "@Nicole_vegan @ppearlman @OreoWookie I do not have a moral dilemma eating meat. I'm an animal, a carnivore like a lion or eagle or wolf or other human. It's optimal nourishment. No hard feelings. $BYND",
+        "sentiment": {
+            "TextBlob": 0.005208333333333336,
+            "NLTK": 0.4438,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9873484373092651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-09-15T17:54:41Z",
+        "content": "@sspencer_smb @ppearlman @OreoWookie have you looked at the ingredients in $BYND? highly processed and incredibly unhealthy. Ew.\n\nMeanwhile, eggs and ground beef are inexpensive at $COST.\n\nA brilliant value in terms of nutrient density.",
+        "sentiment": {
+            "TextBlob": 0.22,
+            "NLTK": 0.3626,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6305399537086487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-09-15T17:16:21Z",
+        "content": "@OreoWookie I am dedicated to eating animal protein. It is the healthiest food and I am lean and metabolically healthy af. I do want to understand $BYND peeps better.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965236783027649
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-09-15T14:27:54Z",
+        "content": "Ok, I get it. So you guys love meat but don't want to eat it. $BYND",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4586,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9225770831108093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-09-15T14:06:34Z",
+        "content": "If vegans dislike meat so much why do you spend so much effort trying to concoct fake meat? \n\nDo you secretly love meat and covet it?\n\nAren't veggies good enough with having to pretend you have meat?\n\nHelp me understand $BYND peeps.",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": -0.2837,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986758828163147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-09-14T11:28:35Z",
+        "content": "$LTC.X has underperformed $ETH.X by 90% since 2019.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900965690612793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-25T20:35:25Z",
+        "content": "$BTC.X $OBTC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989566802978516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-19T17:48:10Z",
+        "content": "Real beef better than fake beef $BYND",
+        "sentiment": {
+            "TextBlob": 0.06666666666666665,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6832981109619141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-13T18:42:44Z",
+        "content": "$SPY up 20% YTD\n$BYND down 2% YTD",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979442954063416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-10T20:51:22Z",
+        "content": "$BYND \ud83d\ude32\n\n\"Public health officials for years have urged Americans to limit consumption of red meat and processed meats because of concerns that these foods are linked to heart disease, cancer and other ills.\n\nBut on Monday, in a remarkable turnabout, an international collaboration of researchers produced a series of analyses concluding that the advice, a bedrock of almost all dietary guidelines, is not backed by good scientific evidence.\n\nIf there are health benefits from eating less beef and pork, they are small, the researchers concluded. The advantages are so faint they can be discerned only when looking at large populations, the scientists said, and are not sufficient to tell individuals to change their meat-eating habits.\n\n\u201cThe certainty of evidence for these risk reductions was low to very low,\u201d said Bradley Johnston, an epidemiologist at Dalhousie University in Canada & leader of the group publishing the new research in the Annals of Internal Medicine.\"\n\nnytimes.com/2019/09/30/heal...",
+        "sentiment": {
+            "TextBlob": 0.050598845598845595,
+            "NLTK": 0.59,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941984415054321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-10T20:25:30Z",
+        "content": "@Maximu5 if you drive a car youre way worse for the environment than cow farts. ground beef is one of the five healthiest foods in the world. a good burger made from real beef is one of the five tastiest foods in the world. $BYND",
+        "sentiment": {
+            "TextBlob": 0.09166666666666666,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.980552613735199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-10T20:22:09Z",
+        "content": "nope nature.com/scitable/knowled... $BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988924860954285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-10T20:17:04Z",
+        "content": "@Nicole_vegan humans are meat eaters by evolution. your ancestors and my ancestors. its not bad. its how we get nutrients we need to grow. its the reason u have a big brain. theres nothing bad about it. its the circle of life. $BYND",
+        "sentiment": {
+            "TextBlob": -0.11666666666666664,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9916200637817383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-10T19:53:15Z",
+        "content": "$BYND why would anyone eat a fake burger? Why not just eat a delicious real burger?",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": -0.7549,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9560685157775879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-08-10T19:06:05Z",
+        "content": "This would be the meal Satan served me everyday for eternity if I wound up in Hell. $YUM $BYND\ncnbc.com/2021/08/10/pizza-h...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955902099609375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-07-15T19:03:14Z",
+        "content": "would be lowest close since early jan for $msos. bad buzz bro. \ud83e\udd23Would love to see it break down hard to the low 30s to get involved for a long term hold.",
+        "sentiment": {
+            "TextBlob": -0.0853174603174603,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988304972648621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-07-13T14:45:26Z",
+        "content": "Are treasuries rallying on higher inflation? $TLT $LOL",
+        "sentiment": {
+            "TextBlob": 0.525,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988810420036316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-06-14T18:51:38Z",
+        "content": "Q's going for the all-timers. $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920429587364197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-05-27T12:49:55Z",
+        "content": "$ALGO.X  Let's Go Guys!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9853707551956177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-05-19T17:47:58Z",
+        "content": "Gavin Wood speaks at 3:30 ET today. You might not have heard much about him yet but you probably will. $DOT.X\ndecoded.polkadot.network/",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941008687019348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-05-13T17:54:51Z",
+        "content": "$BTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985431432723999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-05-05T23:19:35Z",
+        "content": "$DOT.X $OBTC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990922212600708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-05-04T15:13:41Z",
+        "content": "Doge all time highs. Flight to quality. $DOGE.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5114038586616516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-04-08T15:30:14Z",
+        "content": "$QQQ was down 10% plus from All Time Highs a month ago today. Now, it's about 0.5% off the All Timers.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994124174118042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-03-31T15:42:45Z",
+        "content": "We're Hiring at @OspreyFunds. Seeking a Content Lead to Help Develop Media Strategy! $OBTC $BTC.X\nospreyfunds.io/contentlead/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987484216690063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-03-30T14:55:32Z",
+        "content": "$QQQ down one penny YTD.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974353909492493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-03-25T17:00:17Z",
+        "content": "$BTC.X $OBTC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989566802978516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-03-15T21:16:41Z",
+        "content": "Q's have retraced half of the drubbing. $QQQ",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983226656913757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-03-11T23:58:26Z",
+        "content": "Oh, I wrote this! \ud83d\ude09 $OBTC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972535967826843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ppearlman",
+        "timestamp": "2021-03-09T14:38:12Z",
+        "content": "$OBTC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982321858406067
+            }
+        },
+        "image_url": ""
+    }
+]

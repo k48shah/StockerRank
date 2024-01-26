@@ -1,0 +1,534 @@
+[
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-03-31T13:45:04Z",
+        "content": "$FCEL I\u2019m equally annoyed when bears come out of their den when we are down as when bulls start calling for $50 EOW when there is an uptrend. Buy and hold. It\u2019s that simple.",
+        "sentiment": {
+            "TextBlob": -0.1851851851851852,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.972269594669342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-03-16T12:30:35Z",
+        "content": "$FCEL Bears coming out of their dens today folks. Haha, all you can do is smile. \ud83e\udd24",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9616475105285645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-03-03T14:53:12Z",
+        "content": "@LongJohnStonkton $FCEL isn\u2019t EV for God\u2019s sake people.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984993934631348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-03-03T14:50:40Z",
+        "content": "$FCEL sucker is being held underwater. Patience will win here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9300014972686768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-23T00:38:00Z",
+        "content": "$FCEL need opinions @nick20000 @JasonFew on the proposed authorized share increase...\n\n1. Do you think some of these will be built into employee packages? Are they already telling us this (haven\u2019t read the entire proxy). \n\n2. Do we have any idea how much debt we are in, if so, could this increase wipe it away? Or by how much?\n\n3. What\u2019s your 1\u201310 confidence that this will be put to good use?\n\nAnyone is free to respond, I just tagged my favorite StockTwats Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.9443,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994022846221924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-20T22:25:06Z",
+        "content": "@winwin21 this has been out for weeks. It means nothing. It\u2019s not trading near $.07 right now",
+        "sentiment": {
+            "TextBlob": 0.19285714285714284,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994170665740967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-18T19:52:35Z",
+        "content": "$FCEL 38 million volume ain\u2019t shit. Wait until Monday",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97675621509552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-18T19:43:45Z",
+        "content": "@thevamp @Mkohl1 not necessarily. Yes you will \u201cwin\u201d but it is worth the risk if gamma smacks dat a$$ and you make $.10?",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": -0.2333,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.932481586933136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-18T19:35:31Z",
+        "content": "$FCEL added 50 because why not?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902500510215759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-18T12:29:36Z",
+        "content": "@Midwit $FCEL doesnt do EVs",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991926550865173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-12T17:02:46Z",
+        "content": "@TayTayXCIII but then $FCEL is anything but typical. \ud83d\ude09",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948193430900574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-11T16:41:37Z",
+        "content": "$FCEL my technical analysis would show a bullish trend, with a high volume down day tomorrow, driving the price down into the high $24-low $25 range at close. \n\nThis is healthy pull back folks. We\u2019ll see a high volume uptrend next week into the mid $30s. Bullish",
+        "sentiment": {
+            "TextBlob": 0.06688888888888889,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7368792295455933
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-10T12:25:44Z",
+        "content": "@ChantalFX can I pay in $DOGE.X ? \ud83e\udd24",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972484707832336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-02-01T16:53:31Z",
+        "content": "@hammy0520 @Heirtrigger Correct-a-Mundo. \n\nPeople WANT this to run like GME is. Hell, every ticker on ST wants their ticker to move like GME or AMC. The reason these tickers were targeted was their high shorted share volume. $FCEL does not have that. We have shorts, but not at the rate of these other guys. Their really wouldn\u2019t be a, \u201cstick to the man,\u201d in FCEL\u2019s case, because not that many people would be out of the money for it to have the same impact. \n\nThe goal for $FCEL is for people to lock up their shares from being borrowed (put a Limit Sell at $100 for all your shares with no expiry for example) and longs need to quit worry about \u201cprofit taking\u201d and either add or hold. Profit taking does nothing if you think this stock is going to the moon, like me. You\u2019re not doing anyone any favors by taking profits. Unless you need them to pay your bills (a whole different situation, I feel for y\u2019all, we\u2019ve all been there) then just set your final exit and hold long. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1085,
+            "NLTK": 0.9121,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995538592338562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-01-27T11:40:11Z",
+        "content": "@Lsky7 I have no position on this one for good reason. There are two front-runners in this sector, $FCEL AND $PLUG. Everything else is running with the sector. I\u2019ve done my DD and I\u2019m just not in a position to risk that much with a company whose CelEO is public ally pumping the SP.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951931238174438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-01-26T11:25:46Z",
+        "content": "@ChantalFX @MyOpinion002 I\u2019ve been holding 20K shares since $.30. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969797134399414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-01-26T11:20:03Z",
+        "content": "@ChantalFX @MyOpinion002 I understand. Tread carefully. Confidence can\u2019t exist in the market. Doing your DD is very important, but remember, $FCEL is currently running on no news.",
+        "sentiment": {
+            "TextBlob": 0.14,
+            "NLTK": 0.0378,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978959560394287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-01-25T01:04:13Z",
+        "content": "@W3027193 sell off and put it all in $FCEL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9453548192977905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-01-14T16:54:46Z",
+        "content": "@dingis I wouldn\u2019t. It\u2019s not going to be down for long. Wait for $PLUG to climb back up and this will be right there with it. Bullish",
+        "sentiment": {
+            "TextBlob": 0.020039682539682524,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9566743969917297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-01-14T12:57:02Z",
+        "content": "$FCEL $10 price target for JPM Chase...you guys missed the boat, eh?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996968507766724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2021-01-13T19:12:46Z",
+        "content": "$FCEL holding in the 19s...Happy Camper over here. \ud83e\udd24",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9883670210838318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-12-26T20:58:30Z",
+        "content": "@NKLAMVP don\u2019t listen to this guy. $ENG is not going anywhere. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995718598365784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-12-24T19:03:26Z",
+        "content": "$FCEL for everyone expecting a jump next week...remember the tax year is coming to an end. Lots of profits will be taken and the SP will be going down (mid 9s, no doubt)!until after the new year. \n\nI see everyone hooting and hollering about next week. Just set your expectations. It\u2019s going to continue to climb up and set new highs, just not next week. There will be too many people signing off on their 2020 capital gains. Bullish",
+        "sentiment": {
+            "TextBlob": 0.07714646464646464,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982559084892273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-12-17T14:02:16Z",
+        "content": "$FCEL rocket ship, rocket ship",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9804871678352356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-12-02T13:18:15Z",
+        "content": "$FCEL Bears out here in full force this morning...get a life folks. Kong\u2019s are here to stay, see ya\u2019ll when we\u2019re back in the teens...except I won\u2019t because y\u2019all will be hiding again just like when we made the run to $11. Bullish",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9234980940818787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-07-22T14:02:31Z",
+        "content": "$FCEL $2.55 EOW\n$3.70 new high in the weeks to follow. \nNature of the beast. Buy more now or sell at the new high and get back in. After it tops out we\u2019ll be back down to $2.95 before the next jump. Bullish",
+        "sentiment": {
+            "TextBlob": 0.10413019079685747,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998475968837738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-07-07T16:08:37Z",
+        "content": "$FCEL sold everything yesterday at $2.80. Going to get back in on the dip. $2.40s again coming soon",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921397566795349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-04-02T16:28:39Z",
+        "content": "@Calivapor short term $AYTU ... long term $FCEL   the latter has a much higher ceiling",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959293007850647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-03-17T17:49:23Z",
+        "content": "$FCEL who is buying $2.50 calls for Friday?? \ud83e\udd24",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981905817985535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-03-10T11:12:33Z",
+        "content": "$FCEL unfortunately FCEL is tied into the gas/oil sector in many ETFs and mutual funds. Scaredy cats selling those off are driving the price. Hope this clears up the people wondering how we\u2019re tied to oil and gas. That along with the CV scare is what is keeping this balloon underwater. It\u2019s funny because the people who SHOULD be long, investing in ETFs and mutual funds, are the ones pulling out too early.",
+        "sentiment": {
+            "TextBlob": 0.06000000000000001,
+            "NLTK": 0.1469,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9806252717971802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-03-10T11:02:14Z",
+        "content": "$FCEL don\u2019t worry about CV scare, don\u2019t worry about this false \u201crecession\u201d. The value of this stock is much higher, and will be much higher as we approach the election. Hold strong guys/gals. Rome wasn\u2019t built in a day. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1333333333333333,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.660351037979126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-02-13T00:09:14Z",
+        "content": "@minicus I grabbed $153,000 today off the $NRBO jump. Only took a month.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967761635780334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-02-12T10:59:53Z",
+        "content": "@minicus I\u2019m in long of $FCEL but have buddies who says it \u201cisn\u2019t moving fast enough for them.\u201d There\u2019s some situations for fast money and some for long",
+        "sentiment": {
+            "TextBlob": 0.06000000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983855485916138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-02-12T10:48:40Z",
+        "content": "@nick20000 just a heads up. This isn\u2019t $FCEL. It\u2019s fuel cell technology in general. A lot of people see \u201cfuel cell\u201d and assume it\u2019s this stock. Make sure you do your DD",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948260188102722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2020-01-15T14:06:02Z",
+        "content": "$PCG Are we worried at all about a pump-n-dump? Or is this the real deal?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.3736,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990910291671753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2019-12-18T17:41:52Z",
+        "content": "$PCG my calls for Friday at $15 aren\u2019t looking too bad right now. AH and Pre-Market boosting this sucker to the moon!",
+        "sentiment": {
+            "TextBlob": -0.26309523809523805,
+            "NLTK": -0.75,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9884053468704224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2019-12-17T15:38:16Z",
+        "content": "$PCG calm down boys DONT SELL judge approves and we\u2019ll ride to the moon!",
+        "sentiment": {
+            "TextBlob": 0.052777777777777785,
+            "NLTK": 0.0859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9763492345809937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SneakyDoze",
+        "timestamp": "2019-12-16T20:48:26Z",
+        "content": "$PCG a deal will be done after close tomorrow. Another day of manipulation is in the works. I\u2019m holding. See you at $18 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801720976829529
+            }
+        },
+        "image_url": ""
+    }
+]

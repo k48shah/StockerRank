@@ -1,0 +1,422 @@
+[
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T17:31:24Z",
+        "content": "$CHK if only puts were actually cheap, after the RS, i couldve rode this all the way from 50s down",
+        "sentiment": {
+            "TextBlob": 0.08148148148148147,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964189529418945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T17:25:44Z",
+        "content": "$THC whatre we waiting for we need to get this bull run started Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989649057388306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T17:20:57Z",
+        "content": "$PTON yeah not going to stay in this and find my short squeezed any further. Goodluck bulls you will learn one day. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903642535209656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T16:34:00Z",
+        "content": "$APRN time for a short squeeze to continue Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984304308891296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T16:32:20Z",
+        "content": "$DDOG  ok. Take profit. Let 10% run if you wish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987521171569824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T16:31:44Z",
+        "content": "$PTON take profit here. Bring elsewhere. Risk to reward is key in this market. Lot of gains else where to be made Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5255777835845947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T05:23:05Z",
+        "content": "$WORK this is looking parabolic. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994334578514099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-12T05:21:28Z",
+        "content": "$BAC whos ready for a short squeeze Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99692302942276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T17:54:03Z",
+        "content": "$WORK buy the dip its time to load up. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991624355316162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T16:16:45Z",
+        "content": "$BAC let the weak break, buy the dip from here. Bullish",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993672966957092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T14:48:18Z",
+        "content": "$CCL all aboard the carnival cruise lines.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6706083416938782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T04:58:32Z",
+        "content": "$RWT just waiting for the breakout. Expecting 5-6 before may is over. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997045397758484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T04:35:36Z",
+        "content": "$AMD expecting we break past 60s before july. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988719820976257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T04:14:24Z",
+        "content": "$M this may just turn out to be like the next $JCP  slow bleeder? Bearish",
+        "sentiment": {
+            "TextBlob": -0.15000000000000002,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988592863082886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T04:10:38Z",
+        "content": "$BAC breakthrough above 25s incoming. Fasten that seatbelt. The rally will be confirmed in june. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9171819090843201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T04:06:27Z",
+        "content": "$UAL going to have some more downside short term. Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3167,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995661377906799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T03:38:33Z",
+        "content": "$ET well this may actually run after ER, since it held 7.50s im looking to see if it sides towards 8s again or goes down towards 6s. ER move will tell the direction for sure. 65% chance rally will continue. Bullish",
+        "sentiment": {
+            "TextBlob": 0.11481481481481481,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985897421836853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T03:34:36Z",
+        "content": "$TSAT grind time Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990078806877136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T03:25:08Z",
+        "content": "$BDSI im expecting continuation this week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993184804916382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T03:24:09Z",
+        "content": "$DDOG strap in your seatbelt. Are we ready for blast off Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959484934806824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-11T03:22:23Z",
+        "content": "$SDC feeling bullish Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992526173591614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-05-10T19:25:44Z",
+        "content": "$NBEVQ longterm hold Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971399307250977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T14:36:49Z",
+        "content": "$ET will we see 6s today that is the question Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819594025611877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T14:19:53Z",
+        "content": "@JoeBilly kind of looks like a red day for the markets, trying to think of where $ET will close today. The asian markets were down so we may follow",
+        "sentiment": {
+            "TextBlob": 0.1111111111111111,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967725872993469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T14:18:09Z",
+        "content": "$ET this is time to get out guys. Oil is overbought. Overall oil news is also not good. We are just putting bandaids on the real oversupply problem so remember to take your profit and lock in gains while they are there. Risk reward is priority. This isnt a casino unless you make it into one. Bearish",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": 0.4203,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996403455734253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T13:53:51Z",
+        "content": "$HTZGQ buy signal has been invalidated. Wait in speculation or gamble some 2 year out leap contracts at at 7 strike",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996064305305481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T13:32:28Z",
+        "content": "$ET might have a fair pullback by next week, 2m barrels extra storage is not much and they have rallied quite a bit this week",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944486618041992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T13:12:34Z",
+        "content": "$HTZGQ This is a super value buy at these levels, if planning for a one moth-1 year hold. To those planning holding longer a year or longer then its a no brainer this will be above well above 4 before the season of fall begins. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1111111111111111,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934189915657043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T12:55:47Z",
+        "content": "$TXN this is a great growth stock play with a good paying dividend. This should make it above 115 before the ex dividend date comes on may 01 Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.9001,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9883038997650146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Qeektrading",
+        "timestamp": "2020-04-24T12:49:56Z",
+        "content": "$SNAP expecting a drop down today in order to fill the gap between 12 and 16 Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952579140663147
+            }
+        },
+        "image_url": ""
+    }
+]

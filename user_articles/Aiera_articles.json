@@ -1,0 +1,338 @@
+[
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-11T12:14:01Z",
+        "content": "Q1 2023 Robinhood $HOOD Earnings Call Summary (Q&A): \n \n- Chris Koegel and Jason Warnick of Robinhood discussed the company's plans to become profitable in 2023, launching new products, driving profitable growth, and efficiently deploying capital. \n \n- Steph Guild was hired as Head of Investment Strategy and they are looking to launch futures trading by the end of this year. \n \n- William Nance asked about the sustainability of the securities lending business and the drivers of the options take rate. \n \n- They also discussed the Cash Card, MAUs, and the reallocation of cash to held-to-maturity securities. \n \n- Lastly, they mentioned their progress towards launching brokerage in the U.K. and the upcoming launch of 24 Hour Market. \n \nPrice Reaction During Call: $-0.19 (-2.01%) \n \nYou can view the full Robinhood earnings call transcript with search and price tracking here: dashboard.aiera.com/p/HOOD/...",
+        "sentiment": {
+            "TextBlob": 0.1621212121212121,
+            "NLTK": 0.946,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9508376121520996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-11T12:13:39Z",
+        "content": "Q1 2023 Robinhood $HOOD Earnings Call Summary (Prepared Remarks Part 2): \n \n- The CFO reported that the company is generating operating leverage and annualized revenue per employee has doubled from a year ago. \n \n- OpEx prior to SBC was slightly below the outlook range, and SBC included a one-time noncash charge from the founder award cancellation. \n \n- The balance sheet remains strong with $6 billion of corporate cash and investments, and the company is making progress on discussions to purchase most or all of the 55 million Robinhood shares acquired last summer. \n \n- On an annualized run rate basis, adjusted EBITDA increased by more than $1 billion, and an all-time high adjusted EBITDA margin of 26% was achieved. \n \n- Q1 was the 4th consecutive quarter of revenue and adjusted EBITDA growth, and they are focusing on driving profitable growth over time. \n \nPrice Reaction During Call: $-0.19 (-2.01%) \n \nYou can view the full HOOD earnings call transcript here: dashboard.aiera.com/p/HOOD/...",
+        "sentiment": {
+            "TextBlob": 0.19740740740740736,
+            "NLTK": 0.9638,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9853500127792358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-11T12:12:30Z",
+        "content": "Q1 2023 Robinhood $HOOD Earnings Call Summary (Prepared Remarks Part 1): \n \n- CEO and Co-Founder Vlad Tenev discussed the company's strong quarter, noting their product velocity, new product growth, and customer satisfaction. \n \n- The company saw $4.4 billion in net deposits and a total net revenue increase of 16%. \n \n- They also launched Robinhood Retirement and Robinhood Gold, both of which have seen positive customer response. \n \n- EPS was -$0.57, including a onetime noncash charge from founders canceling their 2021 equity awards, but EPS prior to the cancellation was -$0.03. \n \n- Customer assets under custody increased 26%, net funded accounts increased by $120,000, and monthly active users were 11.8 million. \n \n- Total net revenues were $441 million. \n \nPrice Reaction During Call: $-0.19 (-2.01%) \n \nYou can view the full Robinhood earnings call transcript with search and price tracking here: dashboard.aiera.com/p/HOOD/... \n \nContinue reading for more \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.11643356643356643,
+            "NLTK": 0.9584,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5104010701179504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-11T12:03:39Z",
+        "content": "Q2 2023 Disney $DIS Earnings Call Summary (Q&A Part 2): \n \n- Christine McCarthy discussed the outlook for Domestic Parks and their investments in ad tier technology and data platforms. \n \n- McCarthy also mentioned the launch of the ad tier on Disney+ in Europe by the end of the calendar year. \n \n- Douglas Mitchelson asked about integrating Hulu into the Disney+ app, and Robert Iger and Christine McCarthy discussed efficiency, flexibility, and the possibility of broadening the number of subscriptions and monetization of the platform. \n \n- Christine McCarthy also stated that Q3 would widen out by $100 million due to the timing of some releases but that they would be improving significantly from '22 peak losses in Q4 through the balance of fiscal '23. \n \nPrice Reaction During Call: $-1.37 (-1.4%) \n \nYou can view the full Disney earnings call transcript with search and price tracking here: dashboard.aiera.com/p/DIS/e...",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4118,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7030734419822693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-11T12:03:17Z",
+        "content": "Q2 2023 Disney $DIS Earnings Call Summary (Q&A Part 1): \n \n- Robert Iger and Christine McCarthy of Disney discussed the success of their price increases for Disney+, the cost rationalization, and the minimal loss of subscribers. \n \n- Michael Nathanson asked questions about global subscriber growth and cash content spending, and Kannan Venkateshwar asked about Hulu's revenue and its plans with the combination of Disney+. \n \n- Robert Iger discussed new attractions and customer needs in the company's growth business, as well as the success of their cruise business following the pandemic. \n \n- Iger also discussed using direct-to-consumer advertising for Disney+ and the potential use of artificial intelligence (AI) to create efficiencies and better serve customers. \n \nPrice Reaction During Call: $-1.37 (-1.4%) \n \nYou can view the full Disney earnings call transcript with search and price tracking here: dashboard.aiera.com/p/DIS/e...",
+        "sentiment": {
+            "TextBlob": 0.08863636363636362,
+            "NLTK": 0.9747,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8565765023231506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-11T12:03:01Z",
+        "content": "Q2 2023 Disney $DIS Earnings Call Summary (Prepared Remarks): \n \n- Disney reported a successful quarter, with Marvel's Guardians of the Galaxy topping the global box office and ABC being the #1 broadcast network. \n \n- They announced plans for a one-app experience domestically, increasing the ad-free tier price, and windowing opportunities. \n \n- Christine McCarthy reported diluted earnings per share were $0.93 in the second quarter, a decrease from the prior year due to improvements at DPEP and direct-to-consumer being offset by declines at Linear Networks business. \n \n- Disney also reported Parks, Experiences and Products increased by over 20% versus the prior year to $2.2 billion, while Domestic Parks and Experiences operating income increased 10%. \n \nPrice Reaction During Call: $-1.37 (-1.4%) \n \nContinue reading for a summary of Disney\u2019s Q&A \ud83d\udc47 \n \nYou can view the full Disney earnings call transcript with search and price tracking here: dashboard.aiera.com/p/DIS/e...",
+        "sentiment": {
+            "TextBlob": 0.121875,
+            "NLTK": 0.9201,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9621796011924744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-10T12:11:47Z",
+        "content": "Q1 2023 Airbnb $ABNB Earnings Call Summary (Q&A): \n \n- Brian Chesky and David Stephenson, the CEO and CFO of Airbnb respectively, spoke about international expansion, investment performance, 8% growth in India, North America's average daily rates, and their loyalty program, as well as the balance between increasing supply and redistributing demand and potential risk of incremental ADR compression. \n \n- Additionally, they discussed pay over time plans, full funnel marketing, and the return on search engine marketing. \n \n- Lastly, they mentioned the growth of Airbnb's long-term stay segment, upgrades to their product to make it more affordable, and their marketing strategy having strong returns with potential expansion to Europe, Latin America, and Asia. \n \nPrice Reaction During Call: $-1.10 (-0.96%) \n \nYou can view the full ABNB earnings call transcript with search and price tracking here: dashboard.aiera.com/p/ABNB/...",
+        "sentiment": {
+            "TextBlob": 0.13484848484848486,
+            "NLTK": 0.9118,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9846746921539307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-10T12:11:08Z",
+        "content": "Q1 2023 Airbnb $ABNB Earnings Call Summary (Prepared Remarks): \n \n- Airbnb reported a record high of 120 million Nights and Experiences Booked, 24% year-over-year revenue increase, $117 million net income and $1.6 billion free cash flow. \n \n- They also shared some positive business trends, such as increased cross-border travel, more guests booking trips further in advance, and growth in long-term stays. \n \n- Finally, they discussed their three strategic priorities: making hosting mainstream, perfecting their core service, and expanding beyond their core. \n \n- Airbnb discussed their 2023 Summer Release, which exceeded expectations. This release included total price display, new pricing tools for Hosts and more affordable stays. Management claims they will continue to listen and improve Airbnb. \n \nPrice Reaction During Call: $-1.10 (-0.96%) \n \nContinue reading for a summary of Airbnb\u2019s Q&A \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.17487603305785127,
+            "NLTK": 0.9661,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9746131896972656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-09T15:03:35Z",
+        "content": "Q1 2023 PayPal $PYPL Earnings Call Summary (Q&A): \n \n- Daniel Schulman and Gabrielle Rabinovitch reported that the PayPal app has seen a 600 basis point increase year-over-year, and they expect delinquencies to worsen in the second quarter before improving throughout the rest of the year. \n \n- Lisa Ellis asked about Braintree's 30% growth in unbranded TPV and PayPal Complete Payments' competitive positioning. Daniel Schulman explained that Braintree is doing well due to its open architecture, integrated servicing, and value-added services like FX-as-a-Service. \n \n- Darrin Peller asked about the dynamics of margins in the second half, and Schulman responded by explaining how the Braintree mix affects the margin guidance. \n \n- Schulman added that the strength of the Braintree volume should translate to higher-margin offerings at a faster pace. \n \nYou can view the full PYPL earnings call transcript with search and price tracking here: dashboard.aiera.com/p/PYPL/...",
+        "sentiment": {
+            "TextBlob": 0.0072916666666666685,
+            "NLTK": 0.9186,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8278647065162659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-09T15:03:05Z",
+        "content": "Q1 2023 PayPal $PYPL Earnings Call Summary (Prepared Remarks): \n \n- PayPal Holdings had a successful first quarter of 2023, achieving strong financial performance and growth in transaction revenue, non-GAAP operating income, and free cash flow. \n \n- They allocated $1.4 billion to share repurchases and expect non-GAAP earnings per share to grow 20% to approximately $4.95 for the full year. \n \n- Daniel Schulman attributed the strong start to the year to improved latency, availability, and bug fixing. \n \n- PayPal expects e-commerce growth to be low single digits to mid-single digits. \n \n- Daniel Schulman discussed how unbranded services are a strategic imperative for the company due to their relationship with clients and ability to drive data into machine learning and AI engines. \n \n- The company expressed confidence that it is well positioned to deliver revenue and earnings growth, expand margins, and generate strong free cash flow. \n \nContinue reading for a summary of PayPal\u2019s Q&A \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.19668367346938773,
+            "NLTK": 0.9909,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9767031073570251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-04T19:44:41Z",
+        "content": "Q1 2023 Shopify $SHOP Earnings Call Summary (Q&A): \n \n- Harley Finkelstein and Jeff Hoffmeister discussed Shopify's plans for the future, including a potential partnership with Amazon and the use of AI, as well as their 23% reduction in workforce. \n \n- Finkelstein discussed how Shopify is partnering with other businesses to create better products and services faster, and Hoffmeister noted that there is strong momentum across all segments and geographies of the business. \n \n- Hoffmeister answered a question about the cadence of OpEx in Q2, noting that it will be a partial quarter reflecting the new workforce footprint. \n \n- He also clarified that Flexport will be the preferred partner for logistics, but not necessarily an exclusive one. \n \nYou can view the full SHOP earnings call transcript with search and price tracking here: dashboard.aiera.com/p/SHOP/...",
+        "sentiment": {
+            "TextBlob": 0.13274410774410775,
+            "NLTK": 0.6117,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9915595650672913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-04T19:44:23Z",
+        "content": "Q1 2023 Shopify $SHOP Earnings Call Summary (Prepared Remarks): \n \n- Shopify reported GMV of $50 billion and revenue of $1.5 billion, setting a new record with the highest throughput flash sale in their company's history, and seeing strong growth across all elements of their business in Q1 of 2021. \n \n- Gross profit for the quarter was $717 million and gross margin was 47.5%, and operating expenses were $910 million. \n \n- In connection with the sale of their logistics business, Shopify and Flexport intend to deepen their partnership. Shopify has agreed to receive stock representing a 13% equity interest in Flexport, in connection with the closing of the sale. \n \n- Shopify also announced that they are reducing headcount by approximately 20%, and they anticipate that their Q2 revenue will grow at a similar rate as their Q1 year-over-year growth rate. \n \n- Finally, they expect to incur $140 million to $150 million in severance. \n \nContinue for a summary of Shopify\u2019s Q&A \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.024242424242424225,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9159743785858154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-04T12:47:39Z",
+        "content": "Q1 2023 Etsy $ETSY Earnings Call Summary (Q&A): \n \n- Josh Silverman and Rachel Glaser discussed the success of Mother's Day, quarterly retention trends, habitual buyers, and new buyers. \n \n- Deepak from Wolfe Research asked about Q2 EBITDA margin guidance and planned marketing investments. \n \n- Joshua Silverman discussed the team's value creation and investment into improving customer experience, while Rachel Glaser discussed the take rate expanding and their philosophy of reinvesting back into the marketplace. \n \n- They also discussed recent initiatives for the House of Brands, as well as the company's plans to focus on Western European markets and its new seasonality. \n \n- Josh Silverman previewed the upcoming Etsy Up event, which is designed to help sellers be as efficient and successful as possible, before ending the discussion. \n \nPrice Reaction During Call: $-0.69 (-0.68%) \n \nYou can view the full Etsy earnings call transcript with search and price tracking here: dashboard.aiera.com/p/ETSY/...",
+        "sentiment": {
+            "TextBlob": 0.1672727272727273,
+            "NLTK": 0.9657,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7037279009819031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-04T12:47:20Z",
+        "content": "Q1 2023 Etsy $ETSY Earnings Call Summary (Prepared Remarks): \n \n- Etsy reported a successful 1Q23, despite a volatile macroeconomic backdrop. \n \n- They reported consolidated gross merchandise sales of $3.1 billion, revenue at $641 million, adjusted EBITDA of $170 million, and a take rate of 20.7%. \n \n- Marketing spend increased 11% YOY. \n \n- Etsy marketplace GMS declined approximately 5% year-over-year in the first quarter, but 46% of GMS was from transactions outside of the US. \n \n- Etsy also added 6.7 million new buyers and reactivated 6 million lapsed buyers. \n \n- The company ended the quarter with 7 million habitual buyers, up 238% from the first quarter of 2019. \n \n- Etsy estimated their Q2 2023 consolidated GMS to be approximately $2.85 billion to $3.1 billion, about $3 billion at the midpoint down approximately 1.8% compared to last year. \n \nPrice Reaction During Call: $-0.69 (-0.68%) \n \nContinue for a summary of Etsy\u2019s Q&A \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.00280073461891643,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938634634017944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-02T22:54:15Z",
+        "content": "Q2 2023 Starbucks $SBUX Earnings Call Summary (Q&A): \n \n- Laxman Narasimhan, the CEO of Starbucks, discussed staffing levels and the labor market, as well as their expectations for average weekly sales in China. \n \n- Frank Britt, Sara Trilling, Rachel Ruggeri, David Palmer, Belinda Ching Wong, Peter Saleh, Brady Brewer, and Lauren Silberman provided additional insight into their performance in the second quarter, the growth of traffic, the Siren System, and the recovery in China. \n \n- Laxman Narasimhan expressed his pleasure with the results of the quarter, concluding the conference call. \n \nPrice Reaction During Call: $-3.78 (-3.38%) \n \nYou can view the full SBUX earnings call transcript with search and price tracking here: dashboard.aiera.com/p/SBUX/...",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9886438846588135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-02T22:53:56Z",
+        "content": "Q2 2023 Starbucks $SBUX Earnings Call Summary (Prepared Remarks): \n \n- Starbucks' executive leadership team discussed the company's impressive Second Quarter Fiscal Year 2023 results, which exceeded expectations. \n \n- They experienced 11% comp growth globally, increased productivity, stabilized customer connection scores, and a 200 basis point expansion in North American margin. \n \n- In China, they experienced a faster-than-expected recovery with 3% comp growth and 153 net new stores. \n \n- They reaffirmed their guidance for the year and expressed confidence in their long-term opportunity. \n \n- Margin is expected to improve sequentially in Q3 and Q4 and EPS is expected to step up in the second half of the year. \n \n- G&A growth is expected to be outsized in FY2023 due to technology investments. \n \nPrice Reaction During Call: $-3.78 (-3.38%) \n \nContinue for a summary of Starbucks\u2019 Q&A \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.15319264069264069,
+            "NLTK": 0.9648,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9737658500671387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-02T22:35:25Z",
+        "content": "Q1 2023 Advanced Micro Devices $AMD Earnings Call Summary (Continued\u2026): \n \n- The company increased inventory by $464 million in anticipation of new product launches. \n \n- At the end of the quarter, AMD had $5.9 billion in cash, cash equivalents, and short-term investments, and returned $241 million to shareholders through share repurchases. \n \n- For the second quarter of 2023, AMD expects revenue to be around $5.3 billion, a decrease of 19% year-over-year, and non-GAAP gross margin to be approximately 50%. \n \n- Non-GAAP operating expenses are expected to be around $1.6 billion and the effective tax rate to be 13%. \n \n- According to management, AMD is pleased with their strong top line and bottom line execution and will continue to invest in long-term strategic priorities. \n \nPrice Reaction During Call: $-2.09 (-2.44%) \n \nYou can view the full AMD earnings call transcript with search and price tracking here: dashboard.aiera.com/p/AMD/e...",
+        "sentiment": {
+            "TextBlob": 0.2199724517906336,
+            "NLTK": 0.9136,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9144619107246399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-02T22:34:48Z",
+        "content": "Q1 2023 Advanced Micro Devices $AMD Earnings Call Summary (Prepared Remarks): \n \n- AMD reported a 9% year-over-year decrease in revenue for their first quarter of 2023. \n \n- Data Center segment revenue was flat year-over-year, while Client segment revenue declined 65% year-over-year, and Gaming segment revenue declined 6%. \n \n- Embedded segment revenue increased significantly due to increased demand from multiple end markets. \n \n- AMD is confident in their ability to grow in the second half of the year, driven by adoption of their Zen 4 product portfolio and improved demand trends in their client business. \n \n- They are also making progress in bringing together their expanded portfolio and scale to drive deeper engagements with their largest embedded customers. \n \nPrice Reaction During Call: $-2.09 (-2.44%) \n \nContinue reading for more summarization \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.12333333333333334,
+            "NLTK": 0.9349,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.923177182674408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-01T14:30:07Z",
+        "content": "Q1 2023 SoFi Technologies $SOFI Earnings Call Summary (Q&A): \n \n- Christopher Lapointe and Anthony Noto discussed SoFi's loan sales, gain on sale margins, and strategy of buying and distributing loans. \n \n- They also discussed the acquisition of Wyndham Capital, modest growth in their personal loans business, demand for student loan originations, deposit and spending trends, macroeconomic conditions impacting life loan losses, and benefits of increased members across financial services SoFi Money. \n \n- Noto also mentioned the transition of the Technology Platform from a lot of small accounts to fewer larger and more durable customers, and the demand for the platform remains high. \n \n- Noto concluded by saying that SoFi is in an all-out sprint to build out its digital product suite, and it has been able to do that consistently. \n \nPrice Reaction During Call: -$0.10 (-1.5%) \n \nYou can view the full SoFi earnings call transcript with search and price tracking here: dashboard.aiera.com/p/SOFI/...",
+        "sentiment": {
+            "TextBlob": 0.14636363636363636,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9879007339477539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-05-01T14:28:31Z",
+        "content": "Q1 2023 SoFi Technologies $SOFI Earnings Call Summary (Prepared Remarks): \n \n- SoFi Reaches Record Revenue & Adjusted EBITDA in First Quarter of 2023. \n \n- Deposits increased by $2.7 billion and cash and cash equivalents on the balance sheet increased by $1.1 billion since year-end. \n \n- Financial Services revenue tripled year-over-year to $81 million and Technology Platform revenue grew 28% year-over-year with a 19% margin. \n \n- Adjusted EBITDA was $76 million at a 16% margin, exceeding guidance and setting a new record. \n \n- For the full year of 2023, SoFi is expecting adjusted net revenue of $1.955 billion to $2.02 billion and adjusted EBITDA of $268 million to $288 million. \n \n- SoFi achieved positive GAAP net income of $73 million and remains well capitalized to pursue its ultimate goal. \n \nPrice Reaction During Call: -$0.10 (-1.5%) \n \nContinue for a summary of SoFi\u2019s Q&A \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.12045454545454545,
+            "NLTK": 0.8442,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9812018871307373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-04-28T15:02:45Z",
+        "content": "Q1 2023 Colgate-Palmolive $CL Earnings Call Summary (Q&A): \n \nAnalysts asked questions about inflation, commodities prices, profitability margins, net interest expense, consumer behavior, volume performance by category, competitive environment, and logistics. \n \n- Fulvio Cazzol of Berenberg asked about the medium-term outlook for the pet nutrition category and the competitive standpoint. Wallace and Sutula responded that they feel good about the low brand penetration and brand awareness of Hill's franchise. \n \n- Andrea Teixeira of JPMorgan asked about the volume increase and trade down into the lower end. Wallace and Sutula responded that the premium segment continues to grow and is fueling their advertising investment and channel strategies, while the middle is getting squeezed and there is some trade down into the lower end. \n \nPrice Reaction During Call: +$0.39 (+0.5%) \n \nYou can view the full CL earnings call transcript with search and price tracking here: dashboard.aiera.com/p/CL/ev...",
+        "sentiment": {
+            "TextBlob": 0.10555555555555554,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5885727405548096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-04-28T15:01:48Z",
+        "content": "Q1 2023 Colgate-Palmolive $CL Earnings Call Summary (Prepared Remarks): \n \n- Colgate reported strong performance in the first quarter of 2021, with double digit growth in Toothpaste and positive pricing and volume across their portfolio. \n \n- Home Care was slightly more challenged, particularly in the Cleaner segment, and Personal Care in the Bar Soap segment. \n \n- Stan Sutula and Noel Wallace discussed their positive volume growth in Oral Care, Personal Care, and Home Care and the impact of Fabuloso on their North America volume line. \n \n- Logistics had been an incremental headwind to their overheads and expected it to come down slightly. \n \nPrice Reaction During Call: +$0.39 (+0.5%) \n \nContinue reading for a summary of Colgate-Palmolive\u2019s Q&A segment \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.11519360269360268,
+            "NLTK": 0.9852,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9482519030570984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-04-28T14:37:29Z",
+        "content": "Q1 2023 Amazon Inc $AMZN Earnings Call Summary (Q&A): \n \n- During the earnings call Q&A, Amazon management discussed AWS optimization, their CapEx budget, pre-pandemic margin levels, investments in machine learning and AI tools, and long-term business growth drivers \n \n- Jassy also discussed how Amazon makes investments and looks for opportunities to move the needle, such as expanding categories and international stores, and investing in healthcare \n \n- Finally, Jassy discussed Amazon's Kiper project which is a large initiative to provide internet access to hundreds of millions of households and businesses \n \nPrice Reaction During Call: -$10.85 (-9.1%) \n \nYou can view the full AMZN earnings call transcript with search and price tracking here: dashboard.aiera.com/p/AMZN/...",
+        "sentiment": {
+            "TextBlob": 0.11285714285714285,
+            "NLTK": 0.872,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8404444456100464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Aiera",
+        "timestamp": "2023-04-28T14:36:30Z",
+        "content": "Q1 2023 Amazon Inc $AMZN Earnings Call Summary (Prepared Remarks): \n \nAmazon Reports Increased Net Sales & Operating Cash Flow in Q1 2023, Despite Negative Impact of Severance Charge \n \n- In Q1 2023, Amazon reported worldwide net sales of $127.4 billion, a 9% increase YOY \n \n- Operating income was negatively impacted by an employee severance charge of ~$470 million \n \n- Net income for the first quarter was $3.2 billion & operating cash flow for the trailing 12 months ended March 31 increased to $54.3 billion \n \n- Brian Olsavsky discussed improvements to Amazon's supply chains & Andy Jassy shared thoughts on the success of reducing cost to serve in the storage business, providing customers with more 1-day and same-day deliveries, and delivering robust growth in advertising \n \n- Amazon has taken several actions to streamline their costs while still pursuing transformative long-term investments \n \nPrice Reaction During Call: -$10.85 (-9.1%) \n \nContinue for a summary of Amazon\u2019s Q&A \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.9741,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8539363741874695
+            }
+        },
+        "image_url": ""
+    }
+]

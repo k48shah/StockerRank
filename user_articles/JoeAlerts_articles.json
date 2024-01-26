@@ -1,0 +1,2046 @@
+[
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-16T18:12:29Z",
+        "content": "$MSTR Beast mode today. U.S stock markets are closed on Monday",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963686466217041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-16T13:38:51Z",
+        "content": "$UNH $610 PT reiterated by Oppenheimer this morning \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952754974365234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-16T13:36:29Z",
+        "content": "$UNH $475 lottos today\u2019s expiration worth a look for a small entry",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982279360294342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-16T12:52:59Z",
+        "content": "$AI Moving nicely in pre-market, def worth a look for a day trade.",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990891218185425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-16T12:25:59Z",
+        "content": "$MVIS News: They\u2019re entering into a $45M \u201csales agreement\u201d, selling $45M worth of shares and at $6.14? That should be bullish! Interesting to watch.",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.7263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948086738586426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T19:09:33Z",
+        "content": "$MPAA watch close, coming up on a key level around $6.80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900463223457336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T15:43:50Z",
+        "content": "$AI $50+ on the horizon",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9169071316719055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T15:29:13Z",
+        "content": "$MVIS about 47M shares short! With the volatility and volume, this could turn into a short squeeze play quickly. I am going to swing small $6 calls next week\u2019s expiration",
+        "sentiment": {
+            "TextBlob": 0.016666666666666663,
+            "NLTK": 0.5983,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979482293128967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T14:20:22Z",
+        "content": "$AI Squeezing like a rocket after it broke that key level at $45.20. $50 might be the next leg-up \n\n$MVIS Looking to break off of AI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990919828414917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T14:12:32Z",
+        "content": "$MVIS Looking for a squeeze higher on this name, holding $6 calls next week expiration",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992327690124512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T14:11:38Z",
+        "content": "$INMB wants to reverse! \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984470009803772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T14:07:23Z",
+        "content": "$AI out! \ud83d\udd25\ud83d\udd25\ud83d\ude4f\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982560276985168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T14:05:59Z",
+        "content": "$AI broke out! \ud83d\ude80\ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971639513969421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T14:03:57Z",
+        "content": "$MVIS Is pretty volatile, just 5 days ago jumped to around $8.20, keep on watch.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997776448726654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T13:50:53Z",
+        "content": "$AI Break of $45.20 area should send it to new highs!",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9821457266807556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T13:48:53Z",
+        "content": "$INMB Looks primed! Just needs that catalyst and volume. CEO gave a great interview last Fri on Benzinga, Keep on for later, as soon as they release any significant news \ud83d\ude80\ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.29375,
+            "NLTK": 0.7345,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9625653624534607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T13:46:00Z",
+        "content": "$MVIS $AI are moving nicely!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997732043266296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T13:40:56Z",
+        "content": "$MVIS June 23rd small starter on $6 calls \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943566918373108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-15T13:36:36Z",
+        "content": "$MSTR $BTC.X dropping, looking at Fri $260 puts, small for a quick day trade.",
+        "sentiment": {
+            "TextBlob": 0.04166666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999545156955719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-14T21:45:35Z",
+        "content": "$UNH Nice come back from $445 lows today! Tomorrow ex-dividend date! Will see what happens.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.3786,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9111908674240112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-14T16:33:23Z",
+        "content": "$SPY The FED interest rate decision and FOMC statement are at 1:00 PM CT/2:00 PM ET. Expecting a lot of volatiltiy picking up as we get closer to that time window. Maybe a FED rug pull who knows lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997784435749054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-14T15:28:12Z",
+        "content": "$MPAA Keep on watch",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9350049495697021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-14T14:56:29Z",
+        "content": "$UNH Looking at Fri lottos, could reverse after rate decision today. Keep on watch \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929728507995605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-14T13:40:59Z",
+        "content": "$GME bounce off of lows! Trigger should be $27.5 to $28 zone as long as the $26 support confirmation stays intact \n$INMB watching",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938794374465942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T19:25:36Z",
+        "content": "$GME $INMB holding both overnight into tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9760349988937378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T17:19:54Z",
+        "content": "$AI $NVDA The squeeze is crazy! $GME is starting as well. Would be nice if $INMB starts some action",
+        "sentiment": {
+            "TextBlob": -0.012500000000000004,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9653686881065369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T16:56:48Z",
+        "content": "$GME On may 31st, it was reported that there was around 56M shares short! So far, volume on the day is below 12M, this definitely has potential for a major short squeeze.",
+        "sentiment": {
+            "TextBlob": 0.027083333333333334,
+            "NLTK": 0.6825,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9633179306983948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T16:44:08Z",
+        "content": "$SAVA Out, $GME got Fri $30 lottos, possibly swinging into tomorrow for AH action in case it repeats last time.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996479332447052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T16:42:17Z",
+        "content": "$GME Wants to short squeeze! \ud83d\udc40 making new high of day.",
+        "sentiment": {
+            "TextBlob": 0.12409090909090909,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934959411621094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T15:49:10Z",
+        "content": "$GME Squeeze?. Is she about to do it again?. \ud83d\udc40\ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975499510765076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T15:23:25Z",
+        "content": "$INMB Added $10 calls, small.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888906478881836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T15:18:11Z",
+        "content": "$GME Is this going to squeeze after Ryan Cohen\u2019s new $10M stake revealed?. $26.50 to $27 is the key zone to break for a possible squeeze.",
+        "sentiment": {
+            "TextBlob": 0.04545454545454545,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893655776977539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T14:57:18Z",
+        "content": "$GME Another one to watch, Ryan Cohen grabbed some shares.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6348355412483215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T14:56:07Z",
+        "content": "$INMB If it manages to break $10.50, volume will  come in.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948210716247559
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T14:53:29Z",
+        "content": "$SAVA grabbed some $26 lotto calls Fri expiration. Looking for a nice spike between now and then.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958832263946533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T14:07:06Z",
+        "content": "$SAVA Watch those $26 Fri calls, small positon.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956833124160767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T13:52:01Z",
+        "content": "$INMB $SAVA \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850717782974243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-13T13:36:54Z",
+        "content": "$MPAA $7.5 calls keep an eye on it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5657796859741211
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T18:41:57Z",
+        "content": "$INMB slow  but moving, about to break $10.50 which is a key level that could trigger squeeze volume to the upside! \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.15000000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949729442596436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T18:12:13Z",
+        "content": "$INMB Breaking the $10 level \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695772528648376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T17:35:49Z",
+        "content": "$INMB over 1M shares short as of end of May, float is only around 11.65M, I think once it starts going above $10.50 cover volume will start kicking in",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976648092269897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T17:26:17Z",
+        "content": "$INMB had a price target upgrade on 6/1 to $16 by Baird. $10.50 to $11 is a key zone if it breaks, things can start moving.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933382272720337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T17:22:30Z",
+        "content": "$INMB on scanners and chart is primed, grabbed small starter end of week $10 calls, looking for a break of $10.50 before then as per chart",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979133009910583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T15:08:52Z",
+        "content": "$DFLI The catalyst is that it was included in the Russell 3000 index and chart looks primed, could escalate so watch close \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6145596504211426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T14:56:31Z",
+        "content": "$DFLI 1 year chart is interesting, former runner and could cause a short squeeze, looks like 52 weeks high is around $28 level, key level to break is $6-$7 zone to watch for \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.132,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8177350163459778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-12T14:49:20Z",
+        "content": "$DFLI flying, grabbed some $5 calls end of this week in case it goes crazy!",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": -0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917914867401123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-09T17:56:41Z",
+        "content": "$MSTR $285 calls can pay, small for a day trade same day expiration",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995991051197052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-09T17:33:04Z",
+        "content": "$BIOR Finally moving nicely!",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998242259025574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-09T15:36:13Z",
+        "content": "$TSLA What a beast, so far non-stop",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8769345879554749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-09T14:50:26Z",
+        "content": "$DWAC is it gonna fly to that $16 level like it did on a Friday back in April out of no where?. Def worth watching those lottos for the remainder of the day \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995372474193573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-09T14:41:37Z",
+        "content": "$DWAC Watch here in case it makes a sudden move, she\u2019s trying. Grabbing some $14 lottos calls",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919173121452332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-09T14:15:02Z",
+        "content": "$GME Nice",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979957342147827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-08T20:44:04Z",
+        "content": "$TSLA She\u2019s back at it again! After hours squeeze \ud83d\ude80\ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9659527540206909
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-08T19:11:26Z",
+        "content": "Is $GME going to pick up on the $CVNA squeeze action after the drop?. Worth watching into tomorrow for sure.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9361571073532104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-08T19:05:43Z",
+        "content": "$CVNA Wow what a short squeeze! \ud83d\udd25\ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9738954901695251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-08T18:04:52Z",
+        "content": "$GME key level is $22 on chart, if that break could get interesting tomorrow \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970430731773376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-08T18:03:01Z",
+        "content": "$BYND Squeezing! Could get interesting \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908022284507751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-08T14:39:21Z",
+        "content": "$BTC.X is slightly higher, Watch $MSTR call lottos\n$GME Watching to see if this makes a reversal post earnings release from yesterday on that 20% dip.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951521158218384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-07T19:18:10Z",
+        "content": "$BTC.X $MSTR Watching BTC.X price action along with $MSTR for the next two days! Got some MSTR \u201clotto\u201d Fri $315 calls, could hit or miss depends on BTC.X price action overnight but keeping it small since this one can go either way based on Bitcoin action. Planning to sell on a spike tomorrow if there is one but will exit likely tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.008333333333333337,
+            "NLTK": -0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956902861595154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-07T16:21:31Z",
+        "content": "$BTC.X $MSTR Watching Fri calls for a possible reversal from these levels \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993046522140503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-07T14:27:07Z",
+        "content": "$GIII Added $22.5 June 16th calls small.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992877185344696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-07T13:50:12Z",
+        "content": "$GIII $22 is a key level, if broken, could fly on a short squeeze. \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904048442840576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-07T13:36:58Z",
+        "content": "$GIII Give us that short squeeze \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.979362964630127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-07T13:33:00Z",
+        "content": "$GIII Received PT upgrades this morning from 4 different analysts! All boosted r\u00eaveur price targets from previous targets \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9682174324989319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T19:29:04Z",
+        "content": "$GIII If that $21 wall breaks, could get interesting. \ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989432692527771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T19:25:18Z",
+        "content": "$BTC.X headed towards $27K level $MSTR \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980214834213257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T19:13:08Z",
+        "content": "$GIII $21.50 to $22 is the key resistance to break. If that zone breaks, this has another leg up as per chart!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954516291618347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T18:38:10Z",
+        "content": "$GIII New highs",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.982235312461853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T18:29:05Z",
+        "content": "$MSTR Over $300 now, looking good as $BTC.X has recovered little over $1000 points.",
+        "sentiment": {
+            "TextBlob": 0.25625,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999665379524231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T18:25:48Z",
+        "content": "$GIII Looking primed! If this continues to make new day highs, shorts are going to start covering \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5216398239135742
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T18:13:09Z",
+        "content": "$GIII $22.5 calls end of next week\u2019s expiry are pretty cheap given the volatility on this name, they can pay nicely if this continues higher!",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.7177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991878867149353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T16:44:33Z",
+        "content": "$GIII Bouncing back over $20, reclaim of $20.50 and break of $22 zone would be key for a move higher",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886187314987183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T16:39:33Z",
+        "content": "$MSTR Keep an eye on it, they signed a an AI deal with Microsoft $MSFT can squeeze big if $BTC.X starts recovering",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926626682281494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T15:05:28Z",
+        "content": "$GIII Heating up on a catalyst and guidance raise, almost 100% of shares owned by institutions and insiders per Yahoo Finance and about 3.8M shares short. Key level around $22. Pay attention to this name",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3554,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985135197639465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T15:03:37Z",
+        "content": "$AI Nice chart work and Toni by from yesterday! Stock is almost up 20% and options over 100% from yesterday.",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958245754241943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T14:41:44Z",
+        "content": "$AI Nice \ud83d\ude80  from $20s \ud83d\udd25\n$GIII Waiting for that takeoff too",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962140917778015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T14:02:04Z",
+        "content": "exited $AI from yesterday, will watch on sidelines, almost 80% gain. got some $GIII small, wanting to see if it breaks $22 key level",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.4804,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889169931411743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T13:55:08Z",
+        "content": "$GIII almost 100% of shares is held by institutions and insiders. This can be very volatile if it goes. Also, about 3.88M shares short! This can go if it breaks above $22",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.4879,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994932413101196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T13:49:55Z",
+        "content": "$GIII getting close to breaking some key level \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.979478120803833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-06T13:44:19Z",
+        "content": "$GIII Heating up, trying $22.5 lottos calls end June 16th",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9665887355804443
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-05T16:58:03Z",
+        "content": "$AI Looking good, price action is breaking critical zone but need to break that $35 and possible continuation into AH \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892280101776123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-05T15:04:21Z",
+        "content": "$AI Heating up, still want to see that $34.5 to $35 zone break for a possible short covering later! So far, chart is playing nicely.",
+        "sentiment": {
+            "TextBlob": 0.13999999999999999,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986076951026917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-05T14:04:28Z",
+        "content": "$AI if C3.AI breaks $35, could see a lot of covering pushing it towards recent highs of $40+ otherwise your support is around $30 level.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959169030189514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-05T13:54:18Z",
+        "content": "$AI Pay attention, lots of shorts on this name and it is in a hot sector. Could move bug if it catches a squeeze.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972274899482727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-02T15:39:08Z",
+        "content": "$SAVA On 5/11/2023, HC Wainwright & Co reiterated BUY rating and maintained PT of $124. If any positive trial data comes out, this will look much better.",
+        "sentiment": {
+            "TextBlob": 0.36363636363636365,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969984292984009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-06-02T15:23:34Z",
+        "content": "$SAVA worth a look here for a swing trade, got some small $24.5 June 23rd calls, looking for reversal.",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969651103019714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-30T21:04:06Z",
+        "content": "$AI Wow, what a beast!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9977982044219971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-30T13:48:28Z",
+        "content": "$NVDA $MSTR on fire \ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970301389694214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-26T14:09:45Z",
+        "content": "$BTC.X $MSTR Lottos on watch",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920238256454468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-25T15:40:48Z",
+        "content": "$NVDA Wow, this reminds me of the Tesla price action when it finally turned around while back, about to join the $1T club",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9754009246826172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-22T19:33:56Z",
+        "content": "$BIOR Very nice action, going to swing small into tomorrow could see some AH/PM action with the way the spread is moving, can get interesting \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.246,
+            "NLTK": 0.6997,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971056580543518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-22T18:25:59Z",
+        "content": "$BIOR Wonder if this is the next runner with that $65 recent price target reiteration and buy rating, if it manages to break $7/$8 level, could really get interesting.",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.4549,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998138427734375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-22T18:13:34Z",
+        "content": "$BIOR There is like 3000 contracts bid on $5 calls \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925994873046875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-22T17:10:37Z",
+        "content": "$BIOR Chart looks primed for a run, on scanners now \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963233470916748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-22T16:51:09Z",
+        "content": "$BIOR $7.70 level is important to watch if this starts breaking out on the $65 PT announced recently. They had a reverse split end of 2022 so can move quick if it gets a bull run. 52 weeks highs were $28.75, ref chart below.",
+        "sentiment": {
+            "TextBlob": 0.24444444444444446,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955625534057617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-22T16:40:33Z",
+        "content": "$BIOR on scanners, Received BUY reiteration  from  HC Wainwright & Co. and $65 price target. \n\nLow floater and Great watch as it could move much higher! Got a small starter",
+        "sentiment": {
+            "TextBlob": 0.215625,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9730192422866821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-19T14:44:37Z",
+        "content": "$BTC.X $MSTR Market indexes are super hot but Bitcoin hasn\u2019t moved, I would watch closely in case it tries to test previous support levels",
+        "sentiment": {
+            "TextBlob": 0.07916666666666666,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901221394538879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-19T14:41:30Z",
+        "content": "$IPA Watch that $3.30 level, once it breaks could start making a nice move.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800359606742859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-19T14:24:01Z",
+        "content": "$BTC.X $MSTR Watching puts, so far BTC.X is weak, could drop.",
+        "sentiment": {
+            "TextBlob": -0.1375,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996116757392883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-18T19:43:30Z",
+        "content": "$BTC.X $MSTR lots of volatility on these names on daily basis, it follows Bitcoin direction so can be traded either way if mastered correctly, lots of opportunities.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901166558265686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-18T19:31:49Z",
+        "content": "$IPA after reading their investor 45 pages report today, this could possibly catch an AI run, they're actually an AI driven biopharma company that has its own patented AI - worth paying attention to going forward.",
+        "sentiment": {
+            "TextBlob": 0.22499999999999998,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960594177246094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-18T15:32:33Z",
+        "content": "$ENVB is now up nearly 160%, when they go they go \ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9460163712501526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-18T14:30:58Z",
+        "content": "$AI Still goin strong, broke some key resistance around $26.75 area!",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.2003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5088598132133484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-18T13:48:23Z",
+        "content": "$ENVB today\u2019s healthcare related runner on scanners",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748154878616333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-18T13:46:20Z",
+        "content": "$IPA Another AI related tweet just came in from ImmunoPrecise, I am watching in case it catches #AI related action later \ud83d\udc40\n\ntwitter.com/immunoprecise/s...",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982024431228638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-17T18:12:56Z",
+        "content": "$AI Getting close to that $26.70s resistance \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927946925163269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-17T15:48:07Z",
+        "content": "$AI looks like the next leg up is around $26.70, if that resistance breaks I think shorts will likely start covering and pushing it higher",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972270131111145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-17T15:41:58Z",
+        "content": "$XELA this move started for a round $2.60s  on Monday now almost $9. Looking at $IPA same pattern could be playing out on chart as it reached lows of $2.60s and bounced off slowly",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945802092552185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-17T15:18:00Z",
+        "content": "$IA If it maintains support around the $25 area, that will technically push towards the next leg-up given the AI status-quo otherwise can retest some lows if it can't maintain $25 support. Worth watching here today and remainder of the week",
+        "sentiment": {
+            "TextBlob": 0.09999999999999999,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910003542900085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-17T14:51:23Z",
+        "content": "$AI still moving up slowly, new penny stock runners on scanners $SMFL $EPOW \nAlso, keep an eye on $IPA in case it starts making a reversal. Also, $MSTR as if the debt ceiling issue is resolved, markets are likely to rally w/ Bitcoin & related stocks higher and vice-versa",
+        "sentiment": {
+            "TextBlob": 0.09659090909090909,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873340129852295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-16T16:11:25Z",
+        "content": "$AI watching that $25.13 to $25.50 resistance zone, if they break and maintained as support, can see some nice action.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9963504076004028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-16T15:52:00Z",
+        "content": "$AI broke yesterday highs, keep on watch \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6230900883674622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-16T14:30:45Z",
+        "content": "$GDC halted up on reversal around $9!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984444975852966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-16T14:25:48Z",
+        "content": "$GDC Reversal in progress, back at it again. \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993196725845337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-15T19:25:42Z",
+        "content": "$AI What a beast, this will trigger another AI related bull cycle imho",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941900968551636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-15T19:20:00Z",
+        "content": "$IPA watch for reversal, getting some buys form what appears to be day lows, lots of shorts form this morning \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958547949790955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-15T19:02:46Z",
+        "content": "$AI Back at it again \ud83d\udca5",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973982572555542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-15T18:18:11Z",
+        "content": "$GSIT Nice reversal off of the lows of day around $4! Let\u2019s see if $IPA bounces as well off of lows.",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898161888122559
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-15T17:15:59Z",
+        "content": "$MSTR $BTC.X worth a look!",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.2942,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984562397003174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-15T16:34:27Z",
+        "content": "$IPA grabbed a small position on this dip, looking for a reversal  as they announced a new website that is integrated with artificial intelligence (AI) this morning, looking for a reversal play like $GSIT did.",
+        "sentiment": {
+            "TextBlob": -0.23787878787878788,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994502663612366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-15T13:42:35Z",
+        "content": "$IPA judging by the hashtags on their tweet the news could be a new drug discovery using AI but who knows. Maybe something good and this flys, morning dip on low vol, keep on watch still.",
+        "sentiment": {
+            "TextBlob": 0.27878787878787875,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.969992995262146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-12T22:44:44Z",
+        "content": "$GSIT What a squeeze in AH \ud83d\udd25 Let\u2019s see if $IPA pulls a squeeze next week \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933217167854309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-12T22:27:06Z",
+        "content": "$IPA $GSIT to watch next week!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.577946126461029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-12T19:50:47Z",
+        "content": "$IPA Nice! Wonder what it will do after hours now that it is on scanners and has a decent buying coming in!",
+        "sentiment": {
+            "TextBlob": 0.47916666666666663,
+            "NLTK": 0.5242,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9851623177528381
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-12T18:50:42Z",
+        "content": "$IPA Getting some volume towards close, could this be one of the upcoming penny runners? Looks like it was a former runner too. So far up over 20%. Watching close.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983905017375946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-12T18:16:46Z",
+        "content": "$IPA Keep on watch in case this starts squeezing. Company tweeted \u201cGet ready \u2014 something exciting is coming next week\u201d\n\ntwitter.com/ImmunoPrecise/s...",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7439942359924316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-12T14:16:00Z",
+        "content": "$CAAS Goin to swing $7.5 June 16th calls in case it makes a run later. ER report was solid imho.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972635507583618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-12T11:39:36Z",
+        "content": "$CAAS Beat estimated earnings by 91.67%, reporting an EPS of $0.23 vs. $0.12. Estimate. Q1 23 $142.2M vs. $136.4 Q1 22, cash$164.3M as of Mar 31st, reaffirm $560M FY 23 guide",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9820458292961121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-11T18:17:56Z",
+        "content": "$DWAC inching up \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862527251243591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-11T16:47:54Z",
+        "content": "$BTC.X $MSTR \ud83d\udc40 into tomorrow in case they reverse front his dip.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982774257659912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-11T16:44:19Z",
+        "content": "$RMBL added $10 call lottos next week. Want to see if it breaks $10 key level",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944055080413818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-11T15:36:58Z",
+        "content": "$MSTR $BTC.X watching this dip for a possible reversal on MSTR  if Bitcoin starts reversing, got a starter on $305 calls but small. Looking for a spike",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987447261810303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-11T13:34:38Z",
+        "content": "$RMBL Break of $10 is a key level \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928175210952759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-11T13:11:15Z",
+        "content": "$RMBL Wedbush Raises RMBL price target to $12 form $9, keeps outperform rating \n\n5/11/2023",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879141449928284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T16:23:44Z",
+        "content": "$RMBL As of last report on April 28th, there is nearly 2M shares short and float is only 6.97M so that\u2019s about 27% short. Todays volume is below 400K shares so far. If this starts to squeeze, it will be a nice one.",
+        "sentiment": {
+            "TextBlob": 0.1142857142857143,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9741798639297485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T16:06:19Z",
+        "content": "$MSTR out on the $330 calls, will revisit tomorrow and Fri",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881601333618164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T16:02:03Z",
+        "content": "$DWAC some buying yesterday and today, not sure what\u2019s going on but worth watching \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": 0.2189,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9854806065559387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T15:59:10Z",
+        "content": "$RMBL actually has nice revs around $1.79 BN annually or $113 per share and beat expectations today on the quarter yet market cap around $150M right now. Should start getting some momentum if it crosses $10, low float and highly shorted, Keep on watch",
+        "sentiment": {
+            "TextBlob": 0.20914285714285713,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869135022163391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T15:37:49Z",
+        "content": "$RMBL $10 is a key level, if broken and maintained as support, should see a nice move, driven by news catalyst that beat earnings expectations",
+        "sentiment": {
+            "TextBlob": 0.06666666666666665,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989932179450989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T15:26:24Z",
+        "content": "$RMBL If it manages to break $9.80-$10 area should get interesting from there so keep on watch.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9422131180763245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T15:20:36Z",
+        "content": "$RMBL Moving nicely and broke initial resistance. This run is driven by revenue catalyst so hopefully it goes parabolic \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5561,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.996916651725769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T15:16:56Z",
+        "content": "$RMBL 52 weeks highs around $27 and 52 weeks lows near $5.50, chart is reversing off of bottom on revenue catalyst",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968299269676208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T15:13:42Z",
+        "content": "$RMBL Up around 18% on the day and on scanners, grabbed May 19th $10 call lottos in case it starts squeezing over $10",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963732361793518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T14:36:19Z",
+        "content": "$CAAS If ER is a nice hit, could be that catalyst to make that China move so keep an eye on it on tomorrow and Fri morning before market open.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9770205020904541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T14:30:39Z",
+        "content": "$CAAS Earnings on Fri, added $7.5 June 16th calls, may or may not hit but chart is around support levels, anything can happen if earnings are good",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9625713229179382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JoeAlerts",
+        "timestamp": "2023-05-10T14:02:46Z",
+        "content": "$MSTR \ud83d\udd25\ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991955578327179
+            }
+        },
+        "image_url": ""
+    }
+]

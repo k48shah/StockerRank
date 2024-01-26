@@ -1,0 +1,254 @@
+[
+    {
+        "username": "fabien_hug",
+        "timestamp": "2023-06-09T12:57:48Z",
+        "content": "$DWAC Keep voting for the Swamp, get the wars, the deficit, the crime, fentanyl and meth beaucoup.  When TX and FL will go down where are you going to go?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.7627,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948796033859253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2023-04-14T12:29:11Z",
+        "content": "$JPM OK! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.4981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978159666061401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2023-03-17T13:56:47Z",
+        "content": "$FRCB looking at call options' prices for April, this stock is going to the moon. I passed and bought a small position in the stock. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980921149253845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2022-08-25T21:33:09Z",
+        "content": "$TDOC If AMZN can't make money out of this \"service\", TDOC will not.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993521571159363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2022-07-12T02:13:27Z",
+        "content": "$KWEB Excellent thing to mention KWEB as leading indicator of risk appetite. didn't think about that.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5250644683837891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2022-03-07T17:10:55Z",
+        "content": "$UL the 40 area would be ideal. I'm watching it cause you can't really go wrong with mayo. Even woke mayo.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.7319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9675521850585938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2022-02-02T18:25:55Z",
+        "content": "$AAPL I have an eMac. I think the new model is bad. Screen smaller, I don't see the progress. Can't add RAM, order it at purchase, range anxiety, overspend. And it's expensive. The \"magic\" mouse can't be charged whilst in use. Got to check it regularly before bed. The \"magic\" keyboard tactile feeling is bad, no feed back, hard touch. Not a good product. Long AAPL, follow the apes.",
+        "sentiment": {
+            "TextBlob": -0.1212752525252525,
+            "NLTK": -0.9177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995424747467041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2021-12-23T14:06:41Z",
+        "content": "$QDEL I don't see a reason to sell on that new.",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995617270469666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2021-11-02T14:23:04Z",
+        "content": "$CHGG Bought call Apr 50 for 150.  Lottery ticket.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984386146068573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2021-09-21T19:07:52Z",
+        "content": "$QS trying an OCT 30 call for $ 55. Lottery ticket.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980112314224243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2021-08-20T19:09:52Z",
+        "content": "$SNOW now I sell. I hit myself on the toe this morning to keep my mind away of this mess. The pain subdued, I just sold and moved to quieter pastures. Bearish",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.7331,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996729850769043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2021-04-15T15:22:14Z",
+        "content": "$QS first loss is the best loss. out.",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954590797424316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2021-03-05T18:04:15Z",
+        "content": "$PSTH long for a while, not selling Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953042268753052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2020-12-18T13:47:06Z",
+        "content": "$SPCE Never forget ; the first loss is always the best loss. By the way, I'm still sitting on Lunkin Coffee but out of SPCE, for the moment.",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.1613,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9768476486206055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2020-10-21T17:16:17Z",
+        "content": "$ASLE There is an offer by MNCL to buy back the shares for $ 10.265  What is that? Does anybody knows?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3736,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987043142318726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2019-11-14T19:42:07Z",
+        "content": "$KHC Last time I saw a GS downgrade was on NTAP when the stock was in the low 50s early October....",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979428648948669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2019-10-09T19:23:08Z",
+        "content": "$ALGN  just bought it back. today's action is very positive. Bullish",
+        "sentiment": {
+            "TextBlob": 0.13181818181818183,
+            "NLTK": 0.5984,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997240900993347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "fabien_hug",
+        "timestamp": "2019-05-10T19:39:56Z",
+        "content": "$MAXR Not selling, not selling, didn't sell.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982759952545166
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "username": "coldcace",
+        "timestamp": "2020-12-04T16:21:35Z",
+        "content": "$CRSP Been on a massive run. And I love it",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998284578323364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coldcace",
+        "timestamp": "2020-12-03T17:37:15Z",
+        "content": "$CRSP been on a tear in recent weeks. Long",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9839949607849121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coldcace",
+        "timestamp": "2018-05-30T15:37:03Z",
+        "content": "$GLUU anybody trading options? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994899034500122
+            }
+        },
+        "image_url": ""
+    }
+]

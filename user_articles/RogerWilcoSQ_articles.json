@@ -1,0 +1,5434 @@
+[
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-09-08T14:20:27Z",
+        "content": "$LUMO I hope you all made money on this today. We sure did! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5224220752716064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-21T13:57:13Z",
+        "content": "$AMD Sold 13.50 calls .09 - .47, now entered puts for the retrace",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967628717422485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-20T20:08:21Z",
+        "content": "$AMD Great launch! Stock price not moving. Welcome to the market!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.4946,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6242067813873291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-20T19:37:32Z",
+        "content": "$AMD uhhh....guys?....uhh.....it's dying....guys?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997848868370056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-20T19:09:48Z",
+        "content": "@MagicallyDelicious holding my $AMD weeklies, let's go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921258687973022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-15T20:02:08Z",
+        "content": "$FNSR all time record fiscal numbers, yet it's dropping hard Bearish",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956997632980347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-15T20:00:51Z",
+        "content": "$FNSR Here goes nothing! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993879795074463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-15T19:54:50Z",
+        "content": "$FNSR all eyes are watching...it's going sideways here until ER...then hopefully jumps off a cliff! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5801423788070679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-06-06T20:10:13Z",
+        "content": "$AMD What? No \"to the moon\" comments? Wow..impressive! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4314,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9905200004577637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-05-12T18:36:13Z",
+        "content": "Shorting $SBS going into earnings Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986644983291626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-05-09T21:27:22Z",
+        "content": "All over $SEII from 4.40, reached high of 6.99, congrats to everyone that got a piece of this pie!",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9860149621963501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-05-08T15:11:06Z",
+        "content": "Scanner alerted $MNKD at 0.87 this morning, rode it until 1.00, easy money! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957161545753479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-05-01T14:20:30Z",
+        "content": "$AMD Now the MMs will channel here between 13.30-13.49 so nobody in options can make any money. Welcome to the stock market!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919114708900452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-05-01T14:07:46Z",
+        "content": "$AMD Wow, a lot of people believing in you, what a shame...what a shame..",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987277388572693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-05-01T13:39:37Z",
+        "content": "$AMD There's the dump...oh well, it was worth a shot",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979192614555359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-04-06T17:25:54Z",
+        "content": "@fester_ For a loss, or a gain? $BBBYQ Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993844032287598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-04-06T17:00:03Z",
+        "content": "@TheGreek88 Thank you my brother. I'm still holding my $37 puts on $BBBYQ ! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9922521710395813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-04-06T13:32:23Z",
+        "content": "$BBBYQ admit it, we all failed on this BBBY earnings bet.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994882345199585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-04-05T19:55:12Z",
+        "content": "$BBBYQ Who is buying this right now? Stop it! Bearish",
+        "sentiment": {
+            "TextBlob": 0.3571428571428571,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994215965270996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-31T13:54:14Z",
+        "content": "@Ed_M $AMD then you hold!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9954409599304199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-31T04:26:08Z",
+        "content": "$LPTH looking to scalp if it breaks the 52 week high of 3.25 Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989213943481445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-31T04:01:37Z",
+        "content": "$CIE support, 0.46, resistance 0.59, looking for continuation Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997046172618866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-31T04:01:00Z",
+        "content": "$HSTO 5.20 support, 6.00 resistance, 52 week high, waiting for the break of 6.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880049824714661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-31T03:59:42Z",
+        "content": "Watchlist 3-31-17 $HSTO $CIE $LPTH $SSI $ITEK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977490305900574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-31T02:20:40Z",
+        "content": "@MoneyLong I say tomorrow $AMD prints as high as $14.15",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933183193206787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-30T16:56:23Z",
+        "content": "Congrats @bigmoreatz with profit on $ANY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8299965858459473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-30T16:53:35Z",
+        "content": "$XXII alerted yesterday at 1.15, reached 1.35 today, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9787832498550415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-22T14:09:33Z",
+        "content": "$SNAP Money to be made riding this up and down. Made +$297 last week on puts, and made +$574.60 on calls overnight",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916649460792542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-20T20:59:54Z",
+        "content": "Just watched the CNBC broadcast where Cakmak gave a $SNAP buy rating, what a cringe-worthy mess. Short this crap! Bearish",
+        "sentiment": {
+            "TextBlob": -0.39166666666666666,
+            "NLTK": -0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999784529209137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-16T18:41:57Z",
+        "content": "Scanner caught $DRYS as a buy at 1.68, went on to reach 1.91! Who made money on this today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927917718887329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-16T18:40:58Z",
+        "content": "Scanner alerted $TOPS as a buy at 1.22, I hope you guys profited off of this one!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764080047607422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-14T18:51:32Z",
+        "content": "$AZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9735713601112366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-09T13:58:15Z",
+        "content": "$OCRX watching for possible gap fill, yesterday's support 1.00 resistance 1.15, up in premarket trading Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975510239601135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-09T13:57:30Z",
+        "content": "$PRKR looking for a red to green move today, yesterday's support 2.65 resistance 3.64, pulled back the entire day from premarket Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969808459281921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-09T13:56:21Z",
+        "content": "$PIP looking for continuation today, yesterday's support 0.60 resistance 0.78, seeing reversal candle on the daily Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9790478348731995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-09T13:55:41Z",
+        "content": "$DRYS seeing unusual volume, yesterday's support 1.32 resistance 1.60, strong close after hours Bullish",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8926414847373962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-08T14:07:51Z",
+        "content": "$XTNT possible breakout, support 0.58 resistance 0.95, needs continuation of bullish volume Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968076944351196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-08T14:07:25Z",
+        "content": "$PRKR saw after hours volume, support 2.15 resistance 3.64, wait for the break above pm high for a scalp Bullish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984461665153503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-08T14:06:30Z",
+        "content": "$AUPH sitting near all time highs, support 6.00 resistance 7.32 Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753381013870239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-08T14:06:10Z",
+        "content": "$PHIO Could see continuation today, support 0.64 resistance 0.84, closed above the 20sma and 50sma Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.692972719669342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-08T14:05:33Z",
+        "content": "$BLPH watching for possible breakout, support 1.38 resistance 2.00, hit above 20sma for 3 weeks Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997350811958313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-07T16:02:24Z",
+        "content": "Scanner alerted $PRSO as a buy at 2.42, reached 2.85 so far! Easy money!",
+        "sentiment": {
+            "TextBlob": 0.33333333333333337,
+            "NLTK": 0.6325,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934038519859314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-07T15:12:26Z",
+        "content": "Thanks CamTheMan for alerting $CENN at 2.36, it went on to reach 2.62 so far!",
+        "sentiment": {
+            "TextBlob": 0.1625,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999103844165802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-07T15:09:19Z",
+        "content": "Thanks MrFrush for alerting $MYSZ at 2.74, reached 3.83 within 30 minutes!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995218813419342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-07T02:21:03Z",
+        "content": "Scanner alerted $DXTR as a buy at 1.29, reached 1.98, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940746426582336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-07T02:19:58Z",
+        "content": "Scanner alerted $CNCE as a buy at 15.55, reached 18.48, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921925663948059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-06T14:19:31Z",
+        "content": "$BLPH watching for continuation here, is holding above the 200sma, support is around 1.25 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927608966827393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-06T14:19:03Z",
+        "content": "$NAVB watching for possible breakout, trading above the 200sma Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901082515716553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-06T14:18:37Z",
+        "content": "$SAEX joined the 52 week low club, wait for bullish volume and reversal Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978950023651123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-06T14:18:08Z",
+        "content": "$BLIN unusual volume here, closed above 200sma for 2 trading days! Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984110593795776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-06T14:17:41Z",
+        "content": "$CDMO looking for continuation today, support is 0.67 resistance is 0.76 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991514682769775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-03T14:48:17Z",
+        "content": "$ADPT in at 3.06 this morning, out at 3.22, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806040525436401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-03T14:43:15Z",
+        "content": "$RNVA in 2.07 yesterday for an overnight, out today at 2.22, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896103143692017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-03T13:39:07Z",
+        "content": "$CDMO up in pre-market, possible breakout on watch Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981593489646912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-03T13:38:20Z",
+        "content": "$ADHD still holding above the 20sma Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992833137512207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-03T13:38:06Z",
+        "content": "$BLIN Closed above 200 sma Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992328941822052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-03T13:37:49Z",
+        "content": "$NAVB wait for the break of pre-market for a scalp Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991101622581482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-03-03T13:37:28Z",
+        "content": "$RNVA closed strong, must hold above 1.60 Bullish",
+        "sentiment": {
+            "TextBlob": 0.11111111111111109,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840133786201477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-17T23:27:33Z",
+        "content": "$PFE gets FDA warning letter related to compliance at the facility used to make Glatopa products. Currently holding 24 Feb 33.50 puts ITM Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947414398193359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-16T18:33:33Z",
+        "content": "@beenjiggy thanks for convincing me to stay! ended up going $BSTG .3168 to .3634",
+        "sentiment": {
+            "TextBlob": 0.4125,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995353102684021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-16T18:29:06Z",
+        "content": "$BSTG in .3168 out .3634, patience is a virtue",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9820422530174255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-16T15:50:49Z",
+        "content": "$BSTG bids are stacking up, do or die here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958071708679199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-15T15:45:10Z",
+        "content": "$BSTG turned out to be another junk stock, I am now -> Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998000264167786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-14T16:37:14Z",
+        "content": "I'm in $BSTG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990949630737305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-13T14:48:45Z",
+        "content": "$BSTG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982301592826843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-07T15:31:26Z",
+        "content": "$MSI puts looking good here Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9888279438018799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-07T15:10:17Z",
+        "content": "Sold my $AMD call at the spike",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972513318061829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-02-03T16:53:30Z",
+        "content": "Scanner alerted $MYOS at $3.06, reached 5.10, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881985783576965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-27T19:57:45Z",
+        "content": "Scanner alerted $LTRX at $1.99, reached $2.25, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926044940948486
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-27T13:29:59Z",
+        "content": "Watchlist for 1/27/17 $AUPH $BTB $EGY $GLF $SSH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951743483543396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-26T15:00:26Z",
+        "content": "Congrats to our members that killed it on $GLBS, alerted at $8.00, reached $9.93 so far",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992497980594635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-25T17:23:11Z",
+        "content": "Alerted $CARM at $2.10, reached $2.23 within minutes, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938401579856873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-25T16:33:44Z",
+        "content": "Alerted $IPI as overnight pick last night, could have bought as low as $2.05 and held until $2.34 today, easy money!",
+        "sentiment": {
+            "TextBlob": 0.18055555555555558,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973589777946472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-25T15:02:16Z",
+        "content": "Alerted $AUPH under $2.65..reached $3.55..easy money!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962683320045471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-12T18:28:33Z",
+        "content": "$961.78 PROFIT on $BIOC, scanner tells me when to buy, follow me for access to the scanner!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9784084558486938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-12T17:51:12Z",
+        "content": "$MYOS folks: scanner alerted $APOP as a buy at $4.50, it reached $8.78 high of day! Follow for follow!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2462,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865742325782776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-12T17:49:58Z",
+        "content": "$RSLS folks: scanner alerted $APOP as a buy at $4.50, it went on to reach $8.78! Follow me for these picks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994958221912384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-12T17:46:21Z",
+        "content": "Scanner alerted $BVXV as a buy at $4.65, reached high of $7.40, easy money!!",
+        "sentiment": {
+            "TextBlob": 0.41854166666666676,
+            "NLTK": 0.5972,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943072199821472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-11T19:10:22Z",
+        "content": "Scanner alerted $MYOS as a buy at $1.76, currently at $4.67! Easy money! Bullish",
+        "sentiment": {
+            "TextBlob": 0.27083333333333337,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985839128494263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-11T18:59:58Z",
+        "content": "Scanner alerted $AIRI as a buy at $3.62, reached $3.88 within minutes, easy money! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988143444061279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-10T20:57:36Z",
+        "content": "$ONTX alerted as a buy at $3.01, reached $3.20 within minutes! Follow me for easy money! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5972,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990532994270325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2017-01-03T15:30:44Z",
+        "content": "$IDXG alerted as a buy this morning in premarket! Easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989282488822937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-28T14:45:32Z",
+        "content": "$OCRX in long Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978861212730408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-27T18:08:46Z",
+        "content": "Scanner alerted $IRG as a buy at $0.49, it went to $0.69, easy money!!",
+        "sentiment": {
+            "TextBlob": 0.6770833333333335,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984159469604492
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-27T16:29:44Z",
+        "content": "Scanner alerted $CYCC as buy at $4.75, went to $5.80, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962080717086792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-27T16:27:12Z",
+        "content": "$AMPE looking for an entry! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993492960929871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-27T16:19:56Z",
+        "content": "Scanner alerted $ENG as a buy at $2.22, went to $2.72, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969428181648254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-22T18:08:53Z",
+        "content": "$BAS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9626883268356323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-22T16:43:40Z",
+        "content": "Scanner alerted $ACER as a buy at $0.96 this morning, went on to reach $1.15, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956701993942261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-22T16:41:12Z",
+        "content": "Scanner alerted $WW as a buy this morning at $11.79, went on to reach $12.50, easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964936375617981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-22T14:33:55Z",
+        "content": "$RGSE wow what a p.o.s. Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.765335202217102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-20T17:42:35Z",
+        "content": "$GALT looking for an entry long Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986845850944519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-14T20:56:45Z",
+        "content": "$SMRT in overnight Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990054965019226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-14T15:06:03Z",
+        "content": "$POAI my scanner alerted this as a buy at 3.17, easy money",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958739876747131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-12T19:09:57Z",
+        "content": "$AKAO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9548037648200989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-12T16:31:06Z",
+        "content": "$ISEE wow, way to die! flushed bad",
+        "sentiment": {
+            "TextBlob": -0.2874999999999999,
+            "NLTK": -0.5983,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999687671661377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-12T16:11:07Z",
+        "content": "$AKAO alerted at 8.00, congrats to our team that made money on this today! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.697942852973938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-09T14:42:11Z",
+        "content": "$SSH set limit above 1.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996669352054596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-09T14:38:20Z",
+        "content": "$SSH look at the flag right at pm high! get in now, last chance Bullish",
+        "sentiment": {
+            "TextBlob": 0.1619047619047619,
+            "NLTK": 0.3164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936285614967346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-09T14:35:58Z",
+        "content": "$SSH get in now, set your sell limit high! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987952709197998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-08T19:07:30Z",
+        "content": "$SSH scanner alerted to buy this at 0.22 people! We are printing money over here!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987271428108215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-08T19:02:43Z",
+        "content": "$SSH buy and hold, squeeze the shorts! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907776117324829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-08T14:48:51Z",
+        "content": "$PTEIQ all over this before market open, easy money! Bullish",
+        "sentiment": {
+            "TextBlob": 0.27083333333333337,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995768666267395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-07T14:16:13Z",
+        "content": "holding $ALPN from overnight at 2.34, will watch at open Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6711891889572144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-06T20:50:21Z",
+        "content": "$ALPN in for a swing, holding long Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.974053144454956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-06T17:40:42Z",
+        "content": "My scanner first alerted $NVCN at 1.82 as a buy! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998893678188324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-06T14:58:46Z",
+        "content": "sold my overnight $JNUG 7.39-7.75, it's looking weak to me here",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997754693031311
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-05T14:35:48Z",
+        "content": "I finally sold my $SGY swing 6.51 - 8.20!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870750308036804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-05T00:47:05Z",
+        "content": "@Roonster I'm still holding $SGY from 6.51 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963234663009644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-02T18:34:18Z",
+        "content": "$SGY what is this small climb? short covering? Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992115497589111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-01T17:30:47Z",
+        "content": "$SGY holding from 6.51, swinging overnight Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981545627117157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-01T16:50:25Z",
+        "content": "$APPY Wow! Short squeeze! Incredible",
+        "sentiment": {
+            "TextBlob": 0.3416666666666666,
+            "NLTK": 0.658,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991068243980408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-01T16:47:48Z",
+        "content": "$APPY shorters attacking this now, run! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989751577377319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-01T16:46:06Z",
+        "content": "$APPY my scanner alerted me to buy at 3.38! This scanner prints money! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997733473777771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-01T16:22:44Z",
+        "content": "$SGY scanner alerted me to buy at 5.65, woot woot! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998450517654419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-12-01T14:57:13Z",
+        "content": "$CRC well...that was anticlimactic",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995387613773346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-29T19:49:42Z",
+        "content": "$USAU failed trade. Still holding from 1.51 but it looks ugly Bullish",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996875524520874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-29T19:46:28Z",
+        "content": "$USAU in long at 1.51, let's see what PH can do Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983289837837219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-29T19:17:07Z",
+        "content": "scanner alerted me to buy $SPHS at 3.06, currently up to 3.18. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974063038825989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-29T15:40:21Z",
+        "content": "$MOC very thinly traded, volume is just not there. Small pop on good news, then faded. Shame. Bullish",
+        "sentiment": {
+            "TextBlob": -0.023333333333333355,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996992349624634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-29T15:04:52Z",
+        "content": "scanner alerted me to buy $GENE at 1.68. Easy money!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806483387947083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-28T16:39:38Z",
+        "content": "$GLBS scalped twice 5.50-6.15 and 6.90-7.06",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933086633682251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-25T17:11:51Z",
+        "content": "$IDXG in .2463 out .2647, I got impatient Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994400143623352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-23T16:32:45Z",
+        "content": "$RLOG I smell manipulation",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986127614974976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-22T20:50:42Z",
+        "content": "$EXK entered 3.97 looking for break over 4 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978969097137451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-22T20:34:05Z",
+        "content": "$MIRN in for a hold Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973788261413574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-22T17:26:41Z",
+        "content": "$AGFS I took my profits, 2.94 - 3.00, g/l to all longs! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988999366760254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-22T17:25:09Z",
+        "content": "$AGFS just woke up, now above 3.00, keep going! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968158602714539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T20:57:50Z",
+        "content": "$AGFS holding position overnight Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993149042129517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T19:43:45Z",
+        "content": "@FonsieTrader OMG I saw you call this earlier so perfectly!  $NSPR Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7689,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9661334156990051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T19:38:13Z",
+        "content": "@FonsieTrader $NSPR climbed after you alerted. You are on fire! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9614611268043518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T19:08:10Z",
+        "content": "$PZRX alerted at 1.24, reached 1.38 within 30 minutes Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986357092857361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T19:04:50Z",
+        "content": "$PZRX and there goes the pop near 1.30 Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998735249042511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T18:32:43Z",
+        "content": "$PZRX bids are coming in now Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988477230072021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T18:18:20Z",
+        "content": "$PZRX looking ready to pop up near 1.30 Bullish",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975994229316711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-21T14:47:50Z",
+        "content": "$ADPT I'm out Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888624548912048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-18T21:05:08Z",
+        "content": "$SPU buy alerted at 6.42, reached high of 6.79",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9709513783454895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-18T20:45:37Z",
+        "content": "$SPU buy alerted at 6.42 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978399276733398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-18T19:53:45Z",
+        "content": "$BIOA looking to break the 5.75 wall for a ph run Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985491633415222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-18T16:45:26Z",
+        "content": "$ADPT Some buying has returned...phew...that was scary Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99910968542099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-18T16:36:26Z",
+        "content": "$ADPT Alert alert! Warning warning! ABORT ABORT! Abandon ship!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6671,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996774196624756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-18T15:25:55Z",
+        "content": "$ADPT holding long, expecting $20 in the next couple of weeks Bullish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983491897583008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-17T14:50:21Z",
+        "content": "$PACD Shorts better cover or get squeezed on this Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988715052604675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-16T18:48:15Z",
+        "content": "@Kmullick_NY @MariaR I'm holding long and strong! $PSHG Bullish",
+        "sentiment": {
+            "TextBlob": 0.24583333333333332,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9640651941299438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-16T18:25:10Z",
+        "content": "$PSHG WSJ 12/14/14: \"....companies that move up their announcements tend to announce better earnings and see their stocks rise.\" Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982054233551025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-16T17:03:07Z",
+        "content": "$PSHG Buy now and hold this overnight! Do you or do you not want another $DRYS! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2037,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984147548675537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-16T17:00:29Z",
+        "content": "$PSHG Buy now and set your sell limit for $20! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989629983901978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-16T16:51:17Z",
+        "content": "$PSHG Here comes another halt on the way up, I'm in Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994478821754456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-16T15:04:40Z",
+        "content": "$PSV Look at those bids stacking! Ready to break 3.40 Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968632459640503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-16T14:58:50Z",
+        "content": "$PSV holding NAO all day, it likes to grind Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921817779541016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-15T22:47:51Z",
+        "content": "I'm in $GBR 1.98 holding overnight. Ah already shows 2.35 high Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997912585735321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-15T18:59:18Z",
+        "content": "$GBR You were saying? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913042783737183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-14T20:47:10Z",
+        "content": "$GEVO We are listening to the radio control tower for the flight in real time in our chat room!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9733802080154419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-14T20:29:04Z",
+        "content": "$GEVO You were saying?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931126236915588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-10T20:43:51Z",
+        "content": "$ODP I like what I see here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753344655036926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-10T14:19:52Z",
+        "content": "$JNUG Humm....turns out JNUG is manipulated...who knew? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997753500938416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-08T16:26:47Z",
+        "content": "$TOPS Sold from 2.29 to 2.33, and then of course the bid goes up to 2.36. Oh well, profit is profit! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.8016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9586589336395264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-06T20:57:42Z",
+        "content": "@mingminglau Agreed, and then $TOPS is next! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936304688453674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-04T14:44:31Z",
+        "content": "Oil making a recovery, holding $TOPS here long, price target $3.00 Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979518055915833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-03T18:57:13Z",
+        "content": "$TOPS Holding TOPS for an overnight swing! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6514,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9793323278427124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-02T20:02:20Z",
+        "content": "$TTWO Halted!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980282187461853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-02T18:28:11Z",
+        "content": "$ANGI Scalped off the VWAP bounce 7.57-7.71, awesome",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9558291435241699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-02T18:15:08Z",
+        "content": "@ChartMill You called it! $ANGI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778905510902405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-11-01T19:59:30Z",
+        "content": "Holding $TCRT overnight Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979727864265442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-10-19T16:30:01Z",
+        "content": "$JXJT bids stacking again, here comes to pop",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9705345630645752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-10-19T16:03:15Z",
+        "content": "$JXJT Waiting for someone to post the moon reference in here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996758699417114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-10-19T15:54:31Z",
+        "content": "$JXJT the bids are stacking, last chance to get in Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985112547874451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-10-19T15:30:22Z",
+        "content": "$JXJT let's go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998216450214386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-10-19T15:04:54Z",
+        "content": "$JNUG NHOD!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983140230178833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-09-29T17:58:08Z",
+        "content": "$CRC What happened?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989705085754395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-30T18:57:34Z",
+        "content": "$POAI here we go, power hour climb! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921348094940186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-30T18:52:25Z",
+        "content": "$POAI hold this until EOD! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999011754989624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-11T19:18:02Z",
+        "content": "$FES is there a buyout coming? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993263483047485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-11T19:09:56Z",
+        "content": "$FES all aboard the rocketship Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984900951385498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-11T19:04:28Z",
+        "content": "$FES .19!!! called it Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982466697692871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-11T19:03:06Z",
+        "content": "$FES go baby goooo! Moon time Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967982172966003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-11T19:01:57Z",
+        "content": "$FES  getting ready to pop! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983054399490356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-09T13:51:29Z",
+        "content": "$NVCN Now all you pumpers need to formally and publicly apologize Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969615340232849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-09T13:45:01Z",
+        "content": "$NVCN junk",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998006224632263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-08T14:46:24Z",
+        "content": "$NHWK The /force/ manipulation is strong with this one. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9906924366950989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-08-08T14:41:09Z",
+        "content": "$NHWK Don't let the MMs shake you out at 1.66 / 1.65. Hold long! Set your sell limits at 2.00! Bullish",
+        "sentiment": {
+            "TextBlob": -0.078125,
+            "NLTK": -0.3147,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959715008735657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-29T19:19:04Z",
+        "content": "$EVOK All the bulls in here calling for NHOD during powerhour need to fess up and apologize Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908775687217712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-29T19:16:00Z",
+        "content": "$EVOK  Bahahahah! EPIC FAIL Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6731,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999043881893158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-25T15:39:06Z",
+        "content": "$OSN I fell for this P&D junk. I should know better. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997562766075134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-15T15:45:12Z",
+        "content": "$SAEX shares were lower 10% today after the company said it plans to grant 2 series of warrants to existing shareholders on a pro-rata basis",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993041753768921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-14T15:04:25Z",
+        "content": "@matt44 Liar $TGC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966804385185242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-14T14:59:07Z",
+        "content": "@sahmstilllearning Looking for that break above 1.21 $TGC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969664216041565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T19:52:52Z",
+        "content": "$SAEX I promise, if I did not buy this, it would be at .40 by now! Sorry to all longs!",
+        "sentiment": {
+            "TextBlob": -0.625,
+            "NLTK": 0.3786,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992949962615967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T19:52:26Z",
+        "content": "$SAEX hahahha, whatever I buy tanks! Bahaha! I warned you!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4545,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986851811408997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T19:14:02Z",
+        "content": "$SAEX I warned you that whatever I buy tanks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983797073364258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T16:48:39Z",
+        "content": "$SAEX holding for the gap up tomorrow morning Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980337023735046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T16:30:28Z",
+        "content": "When you are ready for $SAEX to gap up huge, let me know and I will hit sell for you. It will climb once I sell!",
+        "sentiment": {
+            "TextBlob": 0.3500000000000001,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9576232433319092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T16:29:49Z",
+        "content": "I told you! I'm cursed. $SAEX tanked as soon as I hit buy.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990196228027344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T16:25:29Z",
+        "content": "$SAEX I just bought shares, get ready for it to crash!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943775534629822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T16:25:02Z",
+        "content": "$SAEX I'm long in @ .2688 Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990531802177429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T15:38:11Z",
+        "content": "@LoneWolf888 if I was still holding $SAEX, it would still be down under .25. It only went up cuz I hit sell.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992753863334656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T15:29:05Z",
+        "content": "$SAEX couldn't break past .25, lost it's momentum, I'm out at a small loss. Now I'm Bearish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989783763885498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T15:19:27Z",
+        "content": "@Garcia7 $SAEX long Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975541234016418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T13:42:45Z",
+        "content": "$CDTI Whoever was holding this from yesterday, I sincerely empathize with you. Get out and add to DO NOT TRADE list. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981234669685364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T12:44:29Z",
+        "content": "I've seen stocks gap n go with lesser / no PR than what $CDTI got yesterday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994356036186218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-13T12:41:08Z",
+        "content": "$CDTI for the volume and PR yesterday and this stock to not budge from below .70 -> pure manipulation. Watch it climb today.",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9619650840759277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T19:01:24Z",
+        "content": "$CDTI worst stock I ever traded Bearish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997848868370056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T17:33:39Z",
+        "content": "@_tradeedge Nice! You called $IFMI and nobody payed attention",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985153079032898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T16:14:22Z",
+        "content": "$CDTI 9 million volume, won't hardly budge, pure manipulation Bullish",
+        "sentiment": {
+            "TextBlob": -0.038690476190476206,
+            "NLTK": -0.235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949819445610046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T15:18:59Z",
+        "content": "$CDTI all the volume is over at REN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994182586669922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T14:58:39Z",
+        "content": "$CDTI Bid is .6702, price is .6701, they aren't even filling orders",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991920590400696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T14:45:00Z",
+        "content": "$CDTI there is only selling happening and no buying",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991564750671387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T14:08:21Z",
+        "content": "$CDTI set your sell limits at 1.00 so the shorts can't use them against you Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945218563079834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-12T14:04:32Z",
+        "content": "$CDTI The manipulation is strong with this one Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9747364521026611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-11T18:41:23Z",
+        "content": "$REN huge wall at 5.90 just went up, break it down guys! Bullish",
+        "sentiment": {
+            "TextBlob": 0.1027777777777778,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989749193191528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-11T14:50:09Z",
+        "content": "$NAK Get in now! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988036155700684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-07T19:16:57Z",
+        "content": "@skeenan11 @towboatindaytrader what's so good about $GNW? I don't see anything.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.5777,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937574863433838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-07T17:09:41Z",
+        "content": "@PPatience I'm working with about 1,000 dollars right now, and trade mostly penny stocks. Just made some money on $LEDS with that last dip",
+        "sentiment": {
+            "TextBlob": 0.2619047619047619,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961861968040466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-06T17:21:25Z",
+        "content": "watching $AXU for an overnight hold Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910804629325867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-06T15:19:24Z",
+        "content": "$TRCH is dead",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996737241744995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-06T15:16:03Z",
+        "content": "$TRCH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980941414833069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-05T20:12:38Z",
+        "content": "$LTBR 1 for 5 R/S coming July 20",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9771280288696289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-05T12:49:45Z",
+        "content": "$AXU getting in at open, watching for breakout above 2.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6383016705513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T16:27:59Z",
+        "content": "$AUMN up from the LOD yes, but back up to where most people bought in earlier? NOPE. Still Bearish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.2144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947128891944885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T16:15:35Z",
+        "content": "$AUMN can't hold it's gains Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2584,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978222846984863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T16:12:28Z",
+        "content": "$AUMN it's at LOD and people are still saying bullish. Hahah! If this thing tests .90 again I will eat my words. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780494570732117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T16:04:42Z",
+        "content": "$AUMN It died, I sold for a loss. junk stock. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997226595878601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T15:57:22Z",
+        "content": "@LoneWolf888 Hello my brother. We're holding $AUMN together! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977027416229248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T15:48:12Z",
+        "content": "@LoneWolf888 Oh my god. This guy IS serious. Awww. Poor guy trading without knowing about support/resistance. $AUMN",
+        "sentiment": {
+            "TextBlob": -0.3666666666666667,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989261031150818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T15:44:21Z",
+        "content": "@LoneWolf888 $AUMN is this guy joking? Please tell me he can't be serious.",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": 0.5302,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995583891868591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T15:37:34Z",
+        "content": "$AUMN need to break a big wall at .83, next wall is .85 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989351630210876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T15:21:49Z",
+        "content": "$AUMN set your sell limits to .90, show the MMs we want that price Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988065958023071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T15:21:27Z",
+        "content": "$AUMN just the MMs grabbing low bids, wait for the bounce, coming back up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981256127357483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T14:15:39Z",
+        "content": "$SLS it died, get out now folks Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980946183204651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-07-01T13:03:06Z",
+        "content": "$SLS currently at .50 premarket, hold the line!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986131191253662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-30T19:49:57Z",
+        "content": "$SLS holding overnight!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979230761528015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-30T19:02:14Z",
+        "content": "$SLS everyone set your sell limit to .50, give the MMs something to chase Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979076385498047
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-30T17:50:05Z",
+        "content": "$SLS .4883 is the wall we need to break, someone buy that ask!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996711254119873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-30T16:52:53Z",
+        "content": "$AMPE halted again, haha",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966936111450195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-30T16:49:11Z",
+        "content": "$AMPE good job to all that got in low. to all who chased: shame on you Bearish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9845148324966431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-30T15:49:04Z",
+        "content": "$TWER is nobody else seeing this making new lows? junk stock Bearish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997593760490417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-29T20:03:25Z",
+        "content": "@andrew7411 I called $HL due to great volume, great accumulation, looking strong to test the HOD again Bullish",
+        "sentiment": {
+            "TextBlob": 0.47708333333333336,
+            "NLTK": 0.91,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6251922249794006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-29T19:52:29Z",
+        "content": "@Roonster I call $HL as the overnight pick for tonight Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977006316184998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-29T17:36:08Z",
+        "content": "$AMRS is dead, get out now! Bearish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.68,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992071986198425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-29T15:20:20Z",
+        "content": "$AMRS learn to recognize a junk stock when you see it Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999562680721283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-29T14:59:27Z",
+        "content": "@Roonster thanks for pointing me towards $SGY, made a good profit overnight",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.8271,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979780316352844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-29T13:55:39Z",
+        "content": "@mordechai10 $SGY in 9.42 out 10.02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991405725479126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T20:08:46Z",
+        "content": "$LPCN already at 6.42 ah Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990697503089905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T19:54:56Z",
+        "content": "$LPCN watch FDA approval come in, and stock still tanks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989752769470215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T19:18:51Z",
+        "content": "@Jmartinez123 eh, just jump in this shark tank with the rest of us, #yolo $LPCN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99677973985672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T19:17:21Z",
+        "content": "@Pkgossett @ryanj1105 Agreed $LPCN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853304624557495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T19:08:27Z",
+        "content": "$LPCN I'm going to say what we are all thinking, \"AH will likely be a mass selloff due to FDA rejection\"",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993945360183716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T19:04:42Z",
+        "content": "$LPCN earlier saw a little up and down action...now this is just down down down",
+        "sentiment": {
+            "TextBlob": -0.13495370370370371,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999445378780365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T18:34:47Z",
+        "content": "$LPCN \"This is an exciting time in Lipocine's history as we approach the PDUFA date for TLANDO,\" Dr. Mahesh Patel, CEO of Lipocine",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999750554561615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T18:18:16Z",
+        "content": "$LPCN sometimes the most obvious answer is the correct answer. maybe this stock is going down down down",
+        "sentiment": {
+            "TextBlob": 0.006666666666666654,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997890591621399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T18:17:36Z",
+        "content": "@timestretch why $SLS?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976154565811157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T18:12:36Z",
+        "content": "$LPCN this is painful to watch",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999314546585083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T18:02:54Z",
+        "content": "$LPCN who is holding and at what price?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965588450431824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-28T17:37:29Z",
+        "content": "$THLD another pump and dump junk Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996857643127441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T20:44:13Z",
+        "content": "$VGZ gapping up at market open tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994021654129028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T19:51:57Z",
+        "content": "$VGZ hold for tomorrow, show these MMs who's boss! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981644749641418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T19:49:58Z",
+        "content": "$VGZ aaaaaand new resistance at 2.01. Stop fighting it MMs, just let it go Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993858337402344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T19:48:58Z",
+        "content": "@Roonster $VGZ is where its at tonight Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970134496688843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T19:45:55Z",
+        "content": "$VGZ break wall at 2.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969513416290283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T19:42:52Z",
+        "content": "$VGZ show me past 2.00 please Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978261590003967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T17:29:30Z",
+        "content": "$XCO brick wall at 1.24, trying to break it Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992011189460754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T17:11:08Z",
+        "content": "$XCO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998619556427002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-27T16:39:36Z",
+        "content": "$AMCO get in cheap while you can Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993067979812622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-24T15:49:20Z",
+        "content": "$VMEM get out before you go bankrupt! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5983,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922181367874146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-24T15:06:02Z",
+        "content": "@Jiggy119 Holding $VMEM at 1.09 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994577169418335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-24T15:01:57Z",
+        "content": "@Jiggy119 That's funny, that's what I'm saying about $VMEM! Haha Bearish",
+        "sentiment": {
+            "TextBlob": 0.25625,
+            "NLTK": 0.7345,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9878563284873962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-24T15:01:29Z",
+        "content": "@Dilllzz Agreed. It's that dumb management that is telling me to bail on this junk $VMEM Bearish",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994934797286987
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-24T14:05:05Z",
+        "content": "$EPRS I finally sold this junk. It's ok, made my loss back with $STAF Bearish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5114756226539612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T18:04:53Z",
+        "content": "$EPRS They are pushing the price down so when it goes up tomorrow, they get the most profit Bullish",
+        "sentiment": {
+            "TextBlob": 0.17222222222222222,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982946515083313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T17:51:37Z",
+        "content": "$VMEM and there goes the quick profit takers bailing at 1.01 Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990814924240112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T17:36:28Z",
+        "content": "@Dilllzz If $VMEM breaks 1.10 today, alot of people owe me an  apology Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997706413269043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T17:30:43Z",
+        "content": "@SquatchEcologist $VMEM EOD prediction: 1.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991342425346375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T17:28:45Z",
+        "content": "@somnium So we are past .70 now. Care to update your opinion? $EPRS Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983226656913757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T16:05:50Z",
+        "content": "$EPRS When I sell at $1.00 tomorrow, I reserve the right to say \"I told you so\" Bullish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988112449645996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T15:55:36Z",
+        "content": "$EPRS Yes I was one of the pumpers on this. Am I disappointed and do I look dumb? Yes. But have I bailed? No, still holding long. Bullish",
+        "sentiment": {
+            "TextBlob": -0.39166666666666666,
+            "NLTK": -0.5661,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998487114906311
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T14:29:32Z",
+        "content": "$EPRS I'm back in the money and still I'm not selling for anything less than $1.00!!!! I will die holding this stock! Bullish",
+        "sentiment": {
+            "TextBlob": -0.25431315104166663,
+            "NLTK": -0.7243,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985383749008179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T14:21:43Z",
+        "content": "$GSL in 1.37 out 1.32 and now it is at 1.47.  Well played MMs...well played.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992040991783142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T14:03:17Z",
+        "content": "$EPRS set your sell limit very high, show the MMs who's boss! Bullish",
+        "sentiment": {
+            "TextBlob": 0.26,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983896017074585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T13:55:30Z",
+        "content": "@FatMilkyLizard Yeah looks like the bleeding stopped. Now we wait for next volume spike to send it up $EPRS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992732405662537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T13:51:18Z",
+        "content": "@nbhitter22 $SEEL was good gapngo, but volume gone now",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.2382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953286647796631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T13:43:01Z",
+        "content": "@mm9 No, have some patience. Did you sell or hold? $EPRS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994168281555176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-23T13:36:07Z",
+        "content": "$EPRS Refuse to sell for anything less than $1.00!!! Bullish",
+        "sentiment": {
+            "TextBlob": -0.32552083333333326,
+            "NLTK": -0.4724,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991137385368347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-22T19:59:07Z",
+        "content": "@mm9 absolutely $EPRS Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955627918243408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-22T19:47:08Z",
+        "content": "@Roonster $CJES is the pick Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964075684547424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-22T19:44:57Z",
+        "content": "@Leathrneck0311 hold strong! don't get shaken out $EPRS Bullish",
+        "sentiment": {
+            "TextBlob": 0.5416666666666666,
+            "NLTK": 0.5878,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8776323199272156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-22T19:43:05Z",
+        "content": "@TraderRobby @Roonster I also liked $CIG the best, but my platform won't let me buy. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950963854789734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-22T14:19:43Z",
+        "content": "@Roonster Yeah I'm feeling a little dumb for selling yesterday $SGY at 8.25. Good job to all who held! Bullish",
+        "sentiment": {
+            "TextBlob": 0.10416666666666667,
+            "NLTK": 0.4376,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8998509049415588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-22T13:46:02Z",
+        "content": "$SPU the shorts had a field day with this one Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875752329826355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-21T20:01:50Z",
+        "content": "@Roonster I anticipated this and got in at 7.97, but decided not to hold overnight, sold at 8.25 $SGY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974422454833984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-21T19:46:09Z",
+        "content": "@Rajnikanth @Roonster it's $SGY for tonight's overnight pick! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942611455917358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-21T18:46:40Z",
+        "content": "@Dilllzz @One4Liberty If that's true, then great job! $VMEM Bullish",
+        "sentiment": {
+            "TextBlob": 0.675,
+            "NLTK": 0.8016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9758223295211792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-20T19:54:08Z",
+        "content": "@Roonster $GSAT will be the pick today, get in now Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955518841743469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-20T18:22:51Z",
+        "content": "@Dilllzz I understand and I don't blame you. I'm holding $VMEM for awhile longer. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2584,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970117807388306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-17T21:48:28Z",
+        "content": "@petergranttrades  i went into $vmem Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986706972122192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-17T13:58:00Z",
+        "content": "@Dilllzz Yes it is. It is returning to previous levels after going parabolic which is .85 and is quite norma. l I'm still holding long $VMEM Bullish",
+        "sentiment": {
+            "TextBlob": -0.10833333333333334,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860451817512512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-17T13:40:50Z",
+        "content": "@Dilllzz Oh nice entries, good you are fine then. I'm all in $VMEM at 1.09 Bullish",
+        "sentiment": {
+            "TextBlob": 0.5722222222222222,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9550930261611938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-17T13:39:32Z",
+        "content": "@Dilllzz $VMEM has gained +180% over the past 3 weeks. Hold it for long, this isn't a day trade stock Bullish",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811245203018188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-16T19:59:42Z",
+        "content": "@petergranttrades @Roonster great pick! what's your entry price? I'm gonna monitor $VBLT Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916250109672546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-16T19:42:13Z",
+        "content": "$VMEM Just the MMs shaking off some profits, hold strong for gap up at open tomorrow! Bullish",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.6996,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984524250030518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-16T19:41:04Z",
+        "content": "$VMEM we're going down! what's happening? help!",
+        "sentiment": {
+            "TextBlob": -0.24305555555555558,
+            "NLTK": 0.508,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997811496257782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-16T19:33:06Z",
+        "content": "@Roonster $AMD is likely the overnight pick for today, but I don't like the hype, not buying in Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.395,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963347911834717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-16T13:57:30Z",
+        "content": "@indyguy Well guess what? I owe you an apology! You were right, I was wrong. Congrats on $MGTI morning spike! @Dannyboymed",
+        "sentiment": {
+            "TextBlob": -0.16964285714285715,
+            "NLTK": 0.4912,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912972450256348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-15T19:50:57Z",
+        "content": "@InvestorPadawan I'll take that bet! $MGTI goes down at open Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937042593955994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-15T19:48:16Z",
+        "content": "@indyguy i sold $MGTI at 3.23 expecting it to crash tomorrow. If it goes up, i owe you apology. If it goes down, you owe me. Bet? Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959582686424255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-15T19:42:53Z",
+        "content": "@indyguy if $MGTI tanks tomorrow, i expect you will offer a formal public apology to @Dannyboymed Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966390132904053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-15T19:35:53Z",
+        "content": "@Dannyboymed Rode $MGTI in 3.16 out 3.23. Thanks for the pick @Roonster Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6688396334648132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-15T19:33:08Z",
+        "content": "@Roonster I'm in $MGTI @ 3.16, ride the wave people Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914250373840332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-15T19:29:15Z",
+        "content": "@Roonster $AKS is most likely the pick Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971489310264587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-14T19:57:48Z",
+        "content": "$SLS Setting up for a gap n go tomorrow at market open. Get in now before you miss it! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2244,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958701729774475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-14T19:55:36Z",
+        "content": "$SLS I refuse to sell here, give me more, show me above $2.15! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982607960700989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-14T19:53:23Z",
+        "content": "$SLS can't get above that 2.11 line Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994149208068848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-13T18:52:04Z",
+        "content": "@alycone29 Yeah, no...just.....no $GBIM Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991406202316284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-13T18:34:55Z",
+        "content": "was watching $GBIM for another break above $2.02, but it just didn't happen Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992415904998779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-13T15:30:52Z",
+        "content": "$AMRS in .5766 out .555 for a small loss. Walking away from this crap. Bearish",
+        "sentiment": {
+            "TextBlob": -0.525,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995723366737366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-13T15:03:56Z",
+        "content": "@snowshoejohn You are better off with a limit of .573 $AMRS Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997511625289917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-13T14:52:56Z",
+        "content": "$AMRS @dodgein2 yes, rumors of news is spreading, that's enough of a catalyst. Buy on rumor, sell on news. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876798391342163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-13T14:44:17Z",
+        "content": "@dodgein2 Anything under $0.57 for $AMRS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965067505836487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-13T14:41:55Z",
+        "content": "$AMRS watching for break over $0.60 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976906776428223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-10T16:13:19Z",
+        "content": "$BOOT in 8.62 out 8.15 for a loss. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986196756362915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-10T16:12:09Z",
+        "content": "@valley08 So ur logic says even though $TPLM hi today is 0.58, impossible to sell at 0.52? Get lost.",
+        "sentiment": {
+            "TextBlob": -0.6666666666666666,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997565150260925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-09T18:54:12Z",
+        "content": "in $BOOT long @ 8.64 Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992191791534424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-09T17:34:23Z",
+        "content": "@HenryRollins @valley08 @demosan @scottsan @SpartacusTrades Ex: Yesterday he was bullish $CJES. If u bought @ ANY price yesterday, ud be up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983807802200317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-09T12:44:29Z",
+        "content": "$CJES",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889022707939148
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T19:57:42Z",
+        "content": "@Roonster $SID is really the obvious choice here folks Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954636693000793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T19:45:53Z",
+        "content": "@Slimsharky I know, that's what's so funny, I intended to hold $SID! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9396774768829346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T19:35:38Z",
+        "content": "@petestocks @Roonster Well $SID is moving pretty good right now. New HOD Bullish",
+        "sentiment": {
+            "TextBlob": 0.3430194805194805,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996942281723022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T19:31:52Z",
+        "content": "@mileshigh @KingMusa @Roonster Attempted an overnight swing with $SID, and it turned into a day trade. LOL Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955776929855347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T19:25:32Z",
+        "content": "@mileshigh @KingMusa @Roonster I bought $SID at 2.36 to hold overnight, and put a high sell limit at 2.40, it ended up selling just now! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901476502418518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T19:24:19Z",
+        "content": "@G3TCRUNK3R You are not, I'm right there with you. $GEVO Bullish",
+        "sentiment": {
+            "TextBlob": -0.14285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8878604173660278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T19:14:53Z",
+        "content": "@Roonster I like $CJES and $SID for overnighters. Anyone else want to chime in here? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959285855293274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T18:54:40Z",
+        "content": "@alvingo overnight $CJES Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978770017623901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T18:49:28Z",
+        "content": "$CJES going long",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996868908405304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-08T18:31:31Z",
+        "content": "@apotassomai @Roonster I did the same thing with $GEVO, nice job Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994604766368866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-03T20:00:25Z",
+        "content": "$GGB uh oh, far dip at close.  still holding long Bullish",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979740977287292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-03T14:13:24Z",
+        "content": "$CARM My stop loss got trigger on that last dip.  I'm out with a +36% gain. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9804354906082153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-03T13:31:29Z",
+        "content": "$CARM  Robinhood app is frozen and won't let me sell!!!  Ahhh @Robinhood",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925742149353027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-02T19:50:53Z",
+        "content": "@DumpthePump I'm with you.  In $CARM long @ 1.88 Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990873336791992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-02T14:23:21Z",
+        "content": "$VISL Level 2's Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977627992630005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-02T14:01:08Z",
+        "content": "$HERO another loss for me, thanks for nothing HERO",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4341,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989963173866272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-01T20:15:24Z",
+        "content": "@iwin123 No...just no......blocked.  $HERO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994786381721497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-01T20:09:05Z",
+        "content": "@BravoVictor What are you even talking about? Do you have anything productive to share about $ARRY ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3736,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992393255233765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-01T19:28:23Z",
+        "content": "$ARRY I'm in with you guys",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989898800849915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-01T13:36:03Z",
+        "content": "@Jiggy119 No way, this stock is too much manipulated. Taking my money and walking away. $VISL Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996825456619263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-01T13:30:40Z",
+        "content": "@vaulker You were saying??  $VISL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953545331954956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-06-01T13:27:51Z",
+        "content": "$VISL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9536515474319458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-05-25T14:04:40Z",
+        "content": "@Jetgenius Done. $PTX Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950030446052551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-05-25T14:03:13Z",
+        "content": "@m1axr017266 It's all manipulation my friend. If you want to make money on $PTX, you need to hold looooong. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984230995178223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-05-12T16:05:44Z",
+        "content": "@Davidpaulson @redairforce $PTX destroyed us!  Hope you guys have since gotten out. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982616305351257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-05-02T18:25:37Z",
+        "content": "@redairforce I'm in $PTX @ $1.02 holding until a pre-ER pop Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979998469352722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-26T14:32:49Z",
+        "content": "$LPTN I panick sold at 0.37, I admit it, lost money",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997220635414124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-26T14:11:45Z",
+        "content": "@shyne @TribalSteez I would have thought the same, but look at it now, coming back down from a lot of hot air $LPTN",
+        "sentiment": {
+            "TextBlob": 0.023611111111111104,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9522849917411804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-26T12:35:49Z",
+        "content": "$LPTN buy limit set for $0.33 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969691634178162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-22T14:40:06Z",
+        "content": "trying to get into $ONTX at $0.491 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996127486228943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-20T14:36:39Z",
+        "content": "@dblue5 Get more $NETE under 35 cents, not higher Bullish",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946788549423218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-20T14:32:43Z",
+        "content": "Almost like someone was waiting for a 35 cent buyer, I said I would buy in at $0.35, the stock dipped there and filled my limit buy $NETE Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2975,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999363124370575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-20T14:27:46Z",
+        "content": "I will buy $NETE if it dips to $0.35 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974598288536072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-19T13:19:27Z",
+        "content": "@Dannyboymed $CRC @ $1.62 Pre Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943169951438904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-12T15:23:47Z",
+        "content": "@Dannyboymed  looking at $PSTV charts, it's up 42.88% over the past 3 weeks, it will be above $0.25 next Monday Bullish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9743574857711792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-08T14:40:29Z",
+        "content": "$CRC is at $1.35 right now, @Dannyboymed will you sell or will you hold?",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905232787132263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-05T16:07:21Z",
+        "content": "$PSTV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9812294244766235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-05T15:10:53Z",
+        "content": "@insidernews And I thought I was bullish about $PSTV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991852641105652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-05T14:58:36Z",
+        "content": "@ndecision73 @Dannyboymed  That's what brought me to this stock pick, the insider trading $PSTV Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9614185094833374
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-05T14:26:19Z",
+        "content": "$PSTV Uhhh....huge plummet...make that $0.23?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997242093086243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-05T14:24:02Z",
+        "content": "$PSTV huge dip! buying opp is now! get in at $0.240 Bullish",
+        "sentiment": {
+            "TextBlob": 0.6250000000000001,
+            "NLTK": 0.4374,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99933260679245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-04-05T14:08:02Z",
+        "content": "Getting into $PSTV at $0.244 @Dannyboymed Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980327486991882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-24T16:07:16Z",
+        "content": "@edge2hedge i own $AMD at $3.78. Nobody is a more loyal long term than I. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3458333333333333,
+            "NLTK": 0.5256,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967959523200989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-23T13:57:51Z",
+        "content": "$LGMK out at $0.51 for a small loss, what a lousy stock Bearish",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995954632759094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-22T13:33:55Z",
+        "content": "$LGMK gonna be another lousy market session today @Dannyboymed Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996669292449951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-21T17:37:14Z",
+        "content": "@Jesustrader $LGMK Agreed! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898884892463684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-21T16:50:12Z",
+        "content": "$LGMK aaaaaand volume is back down to zilch Bullish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984338879585266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-10T20:35:31Z",
+        "content": "@Dannyboymed $GBSN holding steady! Bullish",
+        "sentiment": {
+            "TextBlob": 0.20833333333333331,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919419288635254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-07T21:36:10Z",
+        "content": "@notofthisworld The consensus is to buy in now before FDA approval comes and $GBSN goes up higher. Buy on the rumor / sell on the news! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988725781440735
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-07T16:32:32Z",
+        "content": "$GBSN ok I'm out, i took my small gain and I'm running! @dboymed Bullish",
+        "sentiment": {
+            "TextBlob": 0.09375,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9545832276344299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-07T16:13:24Z",
+        "content": "I just read the $GBSN 510(k) FDA application summary, and it all sounds very positive imho Bullish",
+        "sentiment": {
+            "TextBlob": 0.29545454545454547,
+            "NLTK": 0.5984,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9908350706100464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-07T15:37:37Z",
+        "content": "Everyone talking about $GBSN, meanwhile, they are sleeping on $BBLU Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986363053321838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-07T15:27:18Z",
+        "content": "Where would the press release for $GBSN fda approval likely hit first?",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995071887969971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2016-03-07T15:20:42Z",
+        "content": "@dboymed I hope you know what you're doing, cuz I'm buying $GBSN on your advice! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984562397003174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-07-18T15:37:48Z",
+        "content": "I hope $INTC buys out $AMD, they deserve whatever they get Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980273842811584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-06-30T18:08:41Z",
+        "content": "$AMD expecting the same old through at least earnings. I'm selling at $4.30 and buying back in at the dip...over and over and over again Bullish",
+        "sentiment": {
+            "TextBlob": -0.049999999999999996,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984373450279236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-05-01T21:10:02Z",
+        "content": "$AMD how long should I stay in? I was thinking all of 2014, see where it takes us. But selling at $5.00 is tempting. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.853567361831665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-28T17:19:45Z",
+        "content": "$AMD using this opportunity to average down, this is still a long for me http://stks.co/t0FtU Bullish",
+        "sentiment": {
+            "TextBlob": -0.11851851851851852,
+            "NLTK": 0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983566403388977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-17T22:47:59Z",
+        "content": "$AMD just hit HOD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990206956863403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-17T14:36:32Z",
+        "content": "@Spequlader I believe in $AMD, holding long regardless. 2014 is going to be a good year for them. Bullish",
+        "sentiment": {
+            "TextBlob": 0.32499999999999996,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9857237935066223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-17T14:21:05Z",
+        "content": "$AMD Waiting for a further selloff pre-ER, then yes, I am adding. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985419511795044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-17T14:03:09Z",
+        "content": "Yes, $AMD missed the last 3 quarters. But they are expected to beat tonight. \"Fourth times a charm\"? Bullish",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.0644,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9444295167922974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-17T13:51:33Z",
+        "content": "@redbullhead My thoughts exactly re: $AMD Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983976483345032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-16T04:00:44Z",
+        "content": "Added $AKS to watch for 4/16. If it goes down, then I suck at this. Bullish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976394176483154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "RogerWilcoSQ",
+        "timestamp": "2014-04-15T18:40:29Z",
+        "content": "It's time for $AMD to shine.  Will end green for the day, and climb the rest of the week. Adding more position! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989140510559082
+            }
+        },
+        "image_url": ""
+    }
+]

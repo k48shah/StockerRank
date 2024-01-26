@@ -1,0 +1,4146 @@
+[
+    {
+        "username": "daviemac",
+        "timestamp": "2017-12-04T15:59:02Z",
+        "content": "#WATCHLIST! for 12.4/2017 Definitely ones to keep close eyes on these. $AMPE $SRRA $BLPH $MARA $SN $YUMAQ $AMD $CASI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9855566620826721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-12-04T15:41:55Z",
+        "content": "$ATSC 1st alerts $3.20s! Ran to $4.63 Other chats alerting in $4s Visit me free in chat by clicking profile link",
+        "sentiment": {
+            "TextBlob": 0.1375,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971762895584106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-12-01T19:12:56Z",
+        "content": "$MU $MOMO $MYL $FIVE $NTAP\n$NTNX $PYPL $LRCX $CRZO $JBLU\n$QQQ $QCOM $WBA $TSLA $OCLR $AAPL $TLT $NXPI $ZNGA $SGYP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969106316566467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-12-01T19:07:35Z",
+        "content": "Portfolio Created MidYr w/ Even Share % Distribution Based on 1 of My Scanners That Always Kills It $SPY $TVIX $MU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999408483505249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-11-13T17:37:22Z",
+        "content": "$BTB Great alerts from @AscendTrading  & @CamTheMan_ ! Join Today & see our winning formula ascendtrading.net/plans/",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.8748,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992109537124634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-11-13T17:33:57Z",
+        "content": "Great alerts from the Ascend Trading!! ascendtrading.net/plans/\n$PACB $RDHL $RGSE $RUBI $TEUM $TGTX $TNDM $TOCA $ASXC",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6892,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9874186515808105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-10-16T20:25:09Z",
+        "content": "$YVR Panic selling hitting same resistance all month.  Watch for the rebound here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997593104839325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-23T20:08:14Z",
+        "content": "$GSAT how about that 2,587,153 share buy @ $2.28 AH  That is close to 40% of the entires days volume WHOA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979413151741028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-23T18:14:28Z",
+        "content": "$GSAT looking for $2.33 fib as last resistance to $2.40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982843995094299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-21T16:22:47Z",
+        "content": "@GsatDreamer @jrhammonds @gsatlong I am going to go with AT&T $T Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9424781799316406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-21T15:51:52Z",
+        "content": "$GSAT Anyone notice that Pivotal Commware branding color schematic virtually matches Globalstar color scheme Hmm Coincidence or foreshadow? Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994184970855713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-19T21:38:48Z",
+        "content": "$GSAT Heard of these Projects & Companies; Loon, Aquila, OneWeb $TSLA $GOOG $META $MFST $iPAS $AMZN All working towards global wifi solution Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970357418060303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-19T18:54:46Z",
+        "content": "$GSAT One glaring fact- Foxconn wikipage from 2014 reads like acompany roadmap  entering into IoT, Telecom, autonomous industries, Foxconn?",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962829947471619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-19T17:29:40Z",
+        "content": "$GSAT Anyone care to call $META investor line and do some Q&A about Aquila project and the use of metamaterials in generic terms? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995564818382263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-19T16:51:12Z",
+        "content": "$GSAT Pivotal alliance could light speed the $META Aquila project geekwire.com/2017/facebook-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984087347984314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-19T16:16:55Z",
+        "content": "$GSAT Pivotal alliance could could light speed the $META Aquila project.  https://www.geekwire.com/\u2026/facebook-tether-tenna-internet-\u2026/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974908828735352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-19T16:00:39Z",
+        "content": "@lola4473 I wouldn't count on it  This is very fresh and I am sure it is going to take some time to digest it all & translate to $$$s",
+        "sentiment": {
+            "TextBlob": 0.445,
+            "NLTK": 0.5984,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8726629018783569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-16T19:48:15Z",
+        "content": "$GSAT I think we break that 2.22 wall and close 2.25+",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748173952102661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-16T18:15:31Z",
+        "content": "$GSAT  nice to be back in the .20s again.  Steady accumulation and then move accumulation then move.  Strong hands now with good support Bullish",
+        "sentiment": {
+            "TextBlob": 0.38,
+            "NLTK": 0.8934,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988113641738892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-15T22:25:12Z",
+        "content": "$GSAT haven't seen this yet. High Throughput Satellite. Biggest Fastest (HTS) Largest all very nice adjectives!!!!!! telecomasia.net/content/leo... Bullish",
+        "sentiment": {
+            "TextBlob": 0.58,
+            "NLTK": 0.6441,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9372876286506653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-13T17:50:51Z",
+        "content": "$GSAT an interesting read for sure. Creation of a Space Nation w/ plans to use technology to stay connected  motherboard.vice.com/en_us/...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9953481554985046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-13T15:32:08Z",
+        "content": "$X short-term US steel valuation is more of rumor than action Short-term I think this comes back down to test $21.50s until tangible news Bearish",
+        "sentiment": {
+            "TextBlob": 0.1111111111111111,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955275654792786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-13T15:28:54Z",
+        "content": "$GSAT we need to break out of the $2.15 pivot so we can go test resistance @ $2.20  Nice accum like we have seen before the next leg up Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997481644153595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-09T19:08:42Z",
+        "content": "$GSAT just got back to the PC looks like selling frenzy for the whole market",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952256679534912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-09T16:42:05Z",
+        "content": "$GSAT we break $2.20 today we should see some blue sky next week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8997719287872314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-08T21:32:15Z",
+        "content": "$GSAT article is 100% about small cell architecture $GOOG said exactly what we have all been saying GSAT has a commercially valuable product",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9356266856193542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-08T21:25:58Z",
+        "content": "$GSAT $GOOG is testing 3.5ghz & admits is now part of a \"secret commercially valuable plan\" for the tech giant lightreading.com/mobile/4g-... Bullish",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981611371040344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-08T21:13:56Z",
+        "content": "$GSAT @Horton you might be on to something Taoglas\u2019 Axiom Multiple-Antenna are mentioned & it's in the metadata here taoglas.com/taoglas-launche... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99887615442276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-08T20:15:49Z",
+        "content": "$GSAT main players in sat M2M space are Inmarsat $IRDM $ORBC $GSAT We are one & have partnerships with 2 out of 3 covered :) Good position Bullish",
+        "sentiment": {
+            "TextBlob": 0.45555555555555555,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852295517921448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-08T15:26:59Z",
+        "content": "$GSAT I think we will see a $2.15 close today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915691018104553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-08T15:21:49Z",
+        "content": "$GSAT short game of chicken just got real",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9545808434486389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-07T17:43:17Z",
+        "content": "$GSAT  Guess what just got filed with FCC Asgradia will be using GSAT off Earth storage play things are heating up apps.fcc.gov/els/GetAtt.htm.... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998578667640686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-07T17:40:50Z",
+        "content": "$GSAT very interesting  Asgardia gets ready for its first satellite launch, targeting off-Earth data storage geekwire.com/2017/asgardia-...",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.6697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9729476571083069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-07T16:52:59Z",
+        "content": "$GSAT mighty dangerous game of chicken here the shorts are playing",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866772890090942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-07T15:05:36Z",
+        "content": "$GSAT The daily chart on this is a beauty she is following her channel and bouncing right off her pivots Finally tech trading Thanks tutes",
+        "sentiment": {
+            "TextBlob": 0.09714285714285714,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989204406738281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-07T14:53:52Z",
+        "content": "$GSAT hi volume run low volume pullback this has momentum on its side There must be something around the corner the way this thing is moving",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870878458023071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-07T03:30:20Z",
+        "content": "@aasinapple It tears $IRDM apart throughout the ex parte so from perspective of enemy of my enemy is my friend than yes it is good for $GSAT",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9820600748062134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-06T19:59:37Z",
+        "content": "$GSAT looks like covering IB short shares went from 900k ava last week to 1.7M ava today Covering is still for a reason maybe AH we see",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957186579704285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-06T19:02:30Z",
+        "content": "$GSAT Going to be very interesting power hour if there is a news leak",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.1513,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9335407614707947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-06T18:52:04Z",
+        "content": "$GSAT looks like there may be a leak somewhere in the talks this is a pretty large move without any news Would love to know what they know:) Bullish",
+        "sentiment": {
+            "TextBlob": 0.3660714285714286,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996862411499023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-02T17:02:06Z",
+        "content": "$GSAT Looks like that order imbalance signal yesterday was indeed some foreshadowing of action today.  Thanks @marketchameleonwins",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7443139553070068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-02T16:34:42Z",
+        "content": "$GSAT just confirmed above the 200 MA on the hourly  Should grind up from here I say we close around $2.10 today",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955536723136902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T20:50:16Z",
+        "content": "$GSAT Interesting that Buy Side Order Imbalance of 116K shares just noted by @marketchameleonwins",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986362874507904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T19:34:23Z",
+        "content": "$GSAT thanks for the great find @bohdango for the find here is the complete PR prnewswire.com/news-release...",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9063959121704102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T18:12:35Z",
+        "content": "@Tbabs thoughts are the failed OneWeb Intelsat merger just throws one more hat into the rink, $SFTBY for potential Globalstar suitor",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991012811660767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T17:37:03Z",
+        "content": "$GSAT Sprint\u2019s parent fails to merge OneWeb w/ Intelsat; SoftBank now reportedly eyeing Inmarsat others Globalstar ? fiercewireless.com/wireless... Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996104836463928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T17:05:38Z",
+        "content": "@VRX_BRASSBALLS I like $TSLA too but just can't stomach $BHC too much baggage and not enough clarity",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.2817,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986181259155273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T17:03:10Z",
+        "content": "$BHC guess who is handling the retucturing...yep Goldman Sachs WF MS DB on & on cut GS upgrades.hmmmmm seekingalpha.com/article/40...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975754618644714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T16:56:27Z",
+        "content": "$BHC I am wary of GS Ds/Us how soon all forget marketwatch.com/story/goldm... Hey let's see if the will roll the dice again",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966637492179871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T16:37:03Z",
+        "content": "$BHC all really good points why this stock is going to have a hard time climbing backup especially 7.3X debt ratio investorplace.com/2017/06/v... Bearish",
+        "sentiment": {
+            "TextBlob": 0.1361111111111111,
+            "NLTK": 0.0038,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970166683197021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T16:13:34Z",
+        "content": "$GSAT small cell & satellite tech are a revolution and will be incorporated into everything Its already happening internetofbusiness.com/iot-...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9942635893821716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T13:11:37Z",
+        "content": "$GSAT Think like CEO goal is to build out global Wifi solution 1 sat  company capable of global reach & licensed 2.4 mhz the Wifi standard Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939669370651245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-06-01T04:57:45Z",
+        "content": "@Big_Ben sounds like Qualcomm has some skin in the game & a reason to champion $SFTBY merger of $GSAT and #OneWeb other than just sats",
+        "sentiment": {
+            "TextBlob": -0.2625,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892628788948059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-31T16:57:01Z",
+        "content": "$GSAT possible insight into Inmarsat/GSAT partnership Notice photo for the sat phone they use is courtesy of GSAT thequint.com/technology/201...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920787215232849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-31T16:51:50Z",
+        "content": "$GSAT A small bit of news regarding participation in Global Healthcare Market covering many regions in article digitaljournal.com/pr/3363277",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9739635586738586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-31T16:44:59Z",
+        "content": "@jrhammonds $SFTBY may pivot & focus on us for their plans  One thing I do think is that it will definitely bring back M&A $GSAT discussion",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972903728485107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-31T04:29:49Z",
+        "content": "$GSAT I foresee another large round of M&A speculation for us coming tomorrow with full faucet on Thursday if OneWeb & Intelsat deal fails",
+        "sentiment": {
+            "TextBlob": -0.03392857142857145,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998513400554657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-31T04:25:03Z",
+        "content": "$GSAT ]1 biggest dates coming up - 5/31 the fate $SFTBY merger of OneWeb w/Intelsat Doesn't look like it'll happen May force hand of GSAT BO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2709,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967944025993347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-30T21:46:35Z",
+        "content": "@jrhammonds I think I'll head over to $TSLA & smack it up $10-$15 tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951968789100647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-30T21:11:40Z",
+        "content": "$GSAT facts r facts $META $AMZN $SFTBY $TSLA $NFLX $AAPL $GOOG all have agenda - cover the world in WiFi  $GSAT is unique it can do just that Bullish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8850103616714478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-30T15:57:40Z",
+        "content": "$BHC without a huge tute taking a position this thing is going to continue to fall back to the $11s  Lots of sharks still in the water Bearish",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": -0.2411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991384744644165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-30T05:27:36Z",
+        "content": "$GSAT Click on the \"Abstract \"5/4-5/9 IMS2017 in Hawaii Sounds like engineers & investors talking the same language ims2017.org/technical-progr... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998616099357605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-30T05:17:52Z",
+        "content": "$GSAT cmon this document tells it all haha file:///C:/Users/David/Desktop/DCMAF%20Holdings/Trading/Research/GSAT%20Response%20to%2043.pdf",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972131848335266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-27T17:46:26Z",
+        "content": "$GSAT $STRP $AMZN $GOOG $AAPL $NFLX $META $VZ $T $CHTR $CMCSA $DISH @MaglanCapital putting in the work & DD for big & small Many thnx from all",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996716320514679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-26T17:38:45Z",
+        "content": "$GSAT I really see the value of the \"Block\" for this forum  They could actually limit the amount of Blocks a month to 100 & I would buy more",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.1935,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886246919631958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-25T19:29:04Z",
+        "content": "$GSAT 3 day weekend I see a share call back by tutes if we push over $2.30 could make EOD very interesting and weekend even more",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.6361,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990786075592041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-24T17:28:34Z",
+        "content": "$GSAT has one of the Largest borrow rate increases among liquid names \nthefly.com/landingPageNews.... not good for bears if shares are called back Bullish",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.0531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993972778320312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-24T02:49:33Z",
+        "content": "@jrhammonds at least in regards to it involving $AAPL in spectrum IMO hybrid high & low latency network would have interesting advantages",
+        "sentiment": {
+            "TextBlob": 0.09,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849913716316223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-24T02:45:46Z",
+        "content": "@jrhammonds a few weeks ago I mentioned of whispers  in regards to $AAPL as a serious BO player Looks like there's some validity to rumor NF",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834033846855164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-24T02:41:45Z",
+        "content": "@QuiteCedar Nice find.  I posted a couple of weeks ago hearing that $AAPL was definitely a player this seems to give validity to the rumor",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9199541211128235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-23T17:25:26Z",
+        "content": "$GSAT I am starting to get the feeling India may be 1st country to allow us to play with full TLPS offering.  communicationstoday.co.in/1... Bullish",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940871000289917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-23T16:55:52Z",
+        "content": "$GSAT small cell deployment and increased network density for 4G/5G are ruling conversations fiercetelecom.com/telecom/v... Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957296252250671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-20T03:06:08Z",
+        "content": "$GSAT all interested in doing their own DD for the value of spectrum general this will provide a strong foundation ctia.org/docs/default-sourc...",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9929307699203491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-19T17:35:19Z",
+        "content": "$GSAT Anyone have a rough estimate on amount of float we are are actually trading and what is locked up at the moment?",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988767504692078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-19T17:29:45Z",
+        "content": "$GSAT @jrhammonds this really says it all.  Net Share Change $ from institutional ownership from previous quaarter +1493.09% Hahaha",
+        "sentiment": {
+            "TextBlob": 0.05833333333333334,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9598119854927063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-19T04:52:17Z",
+        "content": "@TheRightHorse @FastTradePro that  includes $META $GOOG $AAPL Carriers hold the key 21st info hghwy for all IoT Valuable opex reduct & control",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896537661552429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-19T04:46:54Z",
+        "content": "@TheRightHorse @FastTradePro more the ability to access any device with an antenna requires access to a network where $AMZN is No one Net N",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0972,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986470341682434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-19T04:32:23Z",
+        "content": "@goolsfold @manndibles @TSykes does your team have eyes on $GSAT Its becoming a BO darling among analyst short squeeze highly probability Bullish",
+        "sentiment": {
+            "TextBlob": 0.20333333333333334,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9238420724868774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-19T01:17:56Z",
+        "content": "@TheRightHorse @FastTradePro so 1 could argue it's good for $GSAT as the author in no way substantiated the headline with that premise",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.2449,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993651509284973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-19T01:11:03Z",
+        "content": "@TheRightHorse @FastTradePro read to me is uninformed focusing only mobile market $AMZN $META $GOOG spectrum strategy much more broader play",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3976,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984301924705505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-18T20:37:58Z",
+        "content": "@Easystreet101 no he was comparing timing of $STRP deal",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996553897857666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-18T18:24:26Z",
+        "content": "$VZ $T $TMUS $S $MFST $GOOG $AAPL $CMCSA $AMZN $QCOM know this and so do all those who are buying weak hands shares for pennies on the $1",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992507100105286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-18T17:58:01Z",
+        "content": "$GSAT Speaking of Japan Asia-Pacific Telecommunity Wireless Group unanimously approved harmonizing 700\u2013800 MHz LTE https://www.rrmediagroup.com/News/NewsDetails/NewsID/15520 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780747890472412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-18T17:48:21Z",
+        "content": "$GSAT Japan = low fruit seeing as their pre-approved set of hop sequences is defined in IEEE 802.11 operate from 2.473 GHz to 2.495 GHz Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992260932922363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-17T15:07:55Z",
+        "content": "$GSAT text cup and handle forming on the 1hrwith uptrend continuing since Thursday bounce right here to confirm trend is still being followe",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947839379310608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T21:52:51Z",
+        "content": "$GSAT here are your funds and institutional players by Top 10 quicktake.morningstar.com/a...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98995041847229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T21:30:19Z",
+        "content": "$GSAT see telco section of Fidelity Focus Funds  They have weighted us with the most share There's a reason for that institutional.fidelity.com/... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985700845718384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T20:31:18Z",
+        "content": "@MattJakub <- love blow hard hypocrites look at this u were  bearish 4/21 on $BHC and then bullish 4/26 professional trader, is that a joke",
+        "sentiment": {
+            "TextBlob": 0.10277777777777779,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984639883041382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T19:42:42Z",
+        "content": "@belmontclan might want to make sure you are looking at the right ticker b/c nowhere on the $GSAT chart does what you are claiming appear Bullish",
+        "sentiment": {
+            "TextBlob": 0.39285714285714285,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996389150619507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T19:39:39Z",
+        "content": "$HTZGQ puts all closed and June 19 $12.5 calls open.  Looks like today was the floor  Clear pattern on 20Y Daily. Push to bottom and rocket up Bullish",
+        "sentiment": {
+            "TextBlob": 3.469446951953614e-18,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971131086349487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T18:57:52Z",
+        "content": "$GSAT istreetresearch.com/2017/04... you can see spectrum value has enormous upside from what wireless carriers were willing to pay per person Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880470037460327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T18:54:30Z",
+        "content": "$GSAT \"The average price per mghz per USA resident was about $0.90 compared with $2.72 in that sale, said Kevin Roe, of Roe Equity Research\" Bullish",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992582201957703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T17:04:16Z",
+        "content": "$GSAT would love to see a big squeeze set off  If momentum carries this up to challenge $2.50 I think we will see just that Little way to go Bullish",
+        "sentiment": {
+            "TextBlob": 0.10416666666666667,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884689450263977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T16:53:18Z",
+        "content": "$HTZGQ fake news going to be a great day tomorrow for shorts Downward momentum from sell-off on fake news+already a short target =$ & it did Bearish",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946597218513489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T16:45:21Z",
+        "content": "$GSAT all short term indicators clearly favor another move up here soon.  If we see this volume continue to increase expecting leg up Bullish",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911972284317017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T16:41:08Z",
+        "content": "$GSAT $2.32 is the hard line in the sand if it can break that and confirm on the 30m chart I would be confident we close in the $2.40s today",
+        "sentiment": {
+            "TextBlob": 0.10416666666666666,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932782053947449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T16:29:52Z",
+        "content": "$GSAT here comes some serious volume Think this is the push into the $2.30s..hoping she can break yesterdays resistance at $2.32",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963241815567017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T16:17:34Z",
+        "content": "@MattJakub @in4thelonghaul2035 one particular high risk to $HTZGQ & others would be company like Turo Ppl will put their cars to work $HTZGQ BO?",
+        "sentiment": {
+            "TextBlob": 0.16333333333333333,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965575933456421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T04:15:02Z",
+        "content": "$GSAT anyone care to sit back a sec & enjoy how straight the uptrend line is holding as support up, up $20 to 1st bear w/opposing chart case Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.875,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9809672236442566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-16T01:00:28Z",
+        "content": "$HTZGQ all smart money is propping this up for an exit Too many assault fronts on traditional rental model ie Uber, Lyft, Turo, Smart Car etc Bearish",
+        "sentiment": {
+            "TextBlob": 0.23214285714285715,
+            "NLTK": 0.2177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994876384735107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T21:00:56Z",
+        "content": "$HTZGQ this fake news is going to be a great day tomorrow for shorts Downward momentum from sell-off on fake news + already a short target = $ Bearish",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998738706111908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T16:44:03Z",
+        "content": "$GSAT ok let's see if this momentum  and influx of volume can push her past $2.32 for some afternnon action.",
+        "sentiment": {
+            "TextBlob": 0.11666666666666665,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983744621276855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T15:11:45Z",
+        "content": "$GSAT @jrhmmnds isn't that exactly the same statement he made when ask about $STRP BO @ $95...then $120..$160.$230  @kerrisdalecap is wrong",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995187520980835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T15:06:50Z",
+        "content": "$GSAT here is where the push starts on the technicals.  Lets see if enough momentum pushes it above $2.32  Then it will get interesting",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.989723801612854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T04:01:37Z",
+        "content": "$AMZN $T $S $CMCSA $TMUS $VZ $VIV $IRDM $DISH \nFYI $GSAT longs the info @MaglanCapital is sharing high $ DD usually reserved for very few",
+        "sentiment": {
+            "TextBlob": -0.11666666666666665,
+            "NLTK": 0.6523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983881711959839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T03:46:58Z",
+        "content": "$AMZN $T $S $CMCSA $TMUS $VZ $VIV $IRDM $DISH @MaglanCapital running a DD scrub for previous dots and pub info on high probability ties",
+        "sentiment": {
+            "TextBlob": -0.003333333333333327,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987348914146423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T03:36:03Z",
+        "content": "@MaglanCapital like it Wide net going w/ROE & intr'l specialty Keepxem guessing ROE affliatns $AMZN $T $S $CMCSA $TMUS $VZ $VIV $IRDM $DISH Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8430072069168091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-15T03:23:19Z",
+        "content": "$GSAT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.978546679019928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-14T17:01:40Z",
+        "content": "$GSAT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.978546679019928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-14T03:15:50Z",
+        "content": "$GSAT straight to the point \"market consolidation\" doesn't just mean M&A/BO Its shoring all related assets under a few Point, fun to come",
+        "sentiment": {
+            "TextBlob": -0.0025000000000000022,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871124625205994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-14T00:26:49Z",
+        "content": "$GSAT $T $VZ $S $TMUS $CHTR $CMCSA $AMZN $MSFT $GOOG $AAPL $META $NFLX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983822107315063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-13T16:12:14Z",
+        "content": "$GSAT hearing chatter that $AAPL may be BO player for use of tech in Project Titan Transportation ind makes sense businessinsider.com/apple-c...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935844540596008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-12T19:03:59Z",
+        "content": "$GSAT hearing rumors and chatter that $AAPL may be the BO player for use in Project Titan Transportation makes sense businessinsider.com/apple-c... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983056783676147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T19:57:15Z",
+        "content": "$GSAT not to play the pumpndump game but coming from a tech analysis me,finish above $1.7 is real bad news 4 shorts uptrend intact sqz setup",
+        "sentiment": {
+            "TextBlob": -0.4666666666666666,
+            "NLTK": -0.6209,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984050393104553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T18:18:46Z",
+        "content": "$GSAT somethings up huge surge of volume just took it to test $1.70",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.975373387336731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T17:20:48Z",
+        "content": "$GSAT I am thinking a close of above $1.70 from a technical perspective leaves uptrend intact and ongoing  Lower we my see some sideways acc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982330799102783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T16:30:27Z",
+        "content": "@jameshutchens10 I would say higher % probability, but knowing that there were 3 players involved in $STRP leaves the possibility open",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880691170692444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T16:17:24Z",
+        "content": "$GSAT Does anyone have a opposing rebuttal for the fact that the market is buying up licensed spectrum and telcos are on an M&A tear?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982214570045471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T16:12:37Z",
+        "content": "$GSAT only statements needed out CC \"here were three involved in it. So it's just not a one-off situation.\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9659737944602966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T15:53:08Z",
+        "content": "$GSAT You have day traders, swing traders,investors,etc all trying to talk on the same level it's amusing if not sad Long Term is not a week",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.6315,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9865940809249878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T13:58:55Z",
+        "content": "$GSAT rolled all 200 contracts out to Jan 18 $2.  Just going to sit and wait.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988111257553101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-04T13:39:49Z",
+        "content": "$GSAT notice the volume.  Institution were waiting for this price.  Short squeeze coming.  All those who bailed lesson to be learned",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954167604446411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T21:23:48Z",
+        "content": "$GSAT looks like UK is getting vocal and serious about coverage.  bbc.com/news/uk-39782636",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9482479095458984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T18:34:30Z",
+        "content": "$GSAT Very interesting that all test locations for $S magic box look to be ln restricted 2.5MHz mid-band areas \n allnetinsights.com/blogs/ne...",
+        "sentiment": {
+            "TextBlob": 0.575,
+            "NLTK": 0.101,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800857901573181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T17:12:22Z",
+        "content": "@CoachBigfudge misteps that $GSAT didn't make  The vision was there and impressive list of investors This is the time they were seeing NOW",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.3736,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8634384274482727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T17:07:10Z",
+        "content": "$GSAT Also, don't forget there were 3 companies like GSAT back in 2003 Iridium Teledesic Teledesic returned in spectrum licenses to FCC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4881,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892695546150208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T16:32:33Z",
+        "content": "$GSAT Haven't seen this posted Pg 128 speaks to DEA contract with INMAT/GSAT Very interesting Who wears short shorts\ndea.gov.in/sites/default/fi...",
+        "sentiment": {
+            "TextBlob": 0.325,
+            "NLTK": 0.4576,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917908906936646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T16:26:48Z",
+        "content": "@jrhammonds @jameshutchens10 In order to get the coverage to all rural POPs they will have to have a way to supplement $S didn;t last check",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997154951095581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T16:22:00Z",
+        "content": "@jameshutchens10 the opposite  the magicbox= Satfi exactly like the architecture GSAT has been working on $S 20 down globalstar.com/en/ir/docs/G...",
+        "sentiment": {
+            "TextBlob": 0.03148148148148147,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990807771682739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T16:13:07Z",
+        "content": "$GSAT what's the only small cell company you know that has the same upload and download speeds writing on the wall sprint.com/content/sprint/s...",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978258013725281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-03T15:57:36Z",
+        "content": "$GSAT shorts are really wading in deep here to hold the price down. Hope @kerrisdalecap bunch has enough to $$ to cover after $STRP disaster",
+        "sentiment": {
+            "TextBlob": 0.011111111111111106,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935835003852844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-02T15:45:06Z",
+        "content": "$CGIP Is it really necessary to signal a buy here.  Alright buy signaled.  For real, textbook capitulation.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997684121131897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-02T00:39:43Z",
+        "content": "An overview GX offerings and how $GSAT compliments and large amount of revenue potential from partnering\n\ninmarsat.com/wp-content/upl...",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978716373443604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-05-01T05:09:54Z",
+        "content": "$GSAT Just to make sure all are clear, 7:30am is the release of financials.  There is not news, then fins, then CC  Just fins followed by CC",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999197781085968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-29T19:14:02Z",
+        "content": "$GSAT See on 4.27 the Aviation Electronics Europe 2017 addressed bandwidth shortage and need for upgrade to ACARS\naviationtoday.com/2017/04/2...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947287440299988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-29T19:06:06Z",
+        "content": "@CoachBigfudge that's the 1$MM question If you want my opinion, it has resources and extrinsic value not being priced so yes it's worth more",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.8103,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7742409706115723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-29T19:03:08Z",
+        "content": "$GSAT I can keep feeding info for the long support.  All markets and industries will need build out of small cell to supplement current tech",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932656288146973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-29T18:57:06Z",
+        "content": "$GSAT here is some info to chew on though while waiting:\natwonline.com/airports-rout... Bet this involves cross-sell of GSAT services.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996250331401825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-29T18:51:34Z",
+        "content": "$GSAT horts avg up when it hit $2+ Negotiations take time FCC lifted 4/27 prtnr/BO news 4 day unlikely watching 4 drop n pop as shorts cover",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963322281837463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-28T16:00:36Z",
+        "content": "@MaglanCapital Also, it means that shorts were actively trying to contain the latest breakout and only succeeded in holding $GSAT in $1.90s",
+        "sentiment": {
+            "TextBlob": 0.12222222222222223,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993458390235901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-28T03:20:19Z",
+        "content": "$GSAT All, I've been involved in the industry for decades and GSAT for years. Forget conjecture, supply/demand economics rule. It is here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999548614025116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T21:35:48Z",
+        "content": "$GG As was pointed out earlier $ABX ER miss was due to internal issues and would have no predictive value $GG 100% plus surprise on est. EPS",
+        "sentiment": {
+            "TextBlob": -0.041666666666666664,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994581341743469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T20:53:50Z",
+        "content": "@oceanrue $ABX ER was impacted by downtime at 2 of their mines and autoclave repairs.  These issues have nothing to do with $GG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988601207733154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T03:33:54Z",
+        "content": "$STRP $GSAT. $GSAT Exactly!!",
+        "sentiment": {
+            "TextBlob": 0.390625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7128634452819824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T01:08:30Z",
+        "content": "$GSAT FCC greenlights small cell free-for-all in the US published in UK  All working lockstep for global structure theregister.co.uk/2017/04/2...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898086190223694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T01:06:28Z",
+        "content": "$GSAT CBRS Alliance working to unify domestic and int'l efforts with all parties to clear the way for uniformity\ncio.com.au/article/616074/c...",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778759479522705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T01:04:35Z",
+        "content": "$GSAT Odeon states reliable sources that intitutional investors are not pricing Int'l agreements Monroe @ $6B on CC\nstreetinsider.com/Analyst+C...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971075654029846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T01:00:15Z",
+        "content": "$GSAT  Pivotal partner who is working to replace the Australia's landline infrastructure with sat services\nmobile.abc.net.au/news/2017...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6721634268760681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-26T00:49:51Z",
+        "content": "$GSAT @jrhammonds @Horton_airtight consolidating the dot-to-dot bottom up\nFrance Setting Up For Approval check Pg 13\narcep.fr/uploads/tx_gspubli...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976104497909546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-25T22:22:38Z",
+        "content": "$GSAT Check this out.  FYI this is a UK article.  Path cleared let deployment and infrastructure begin in UK and US\ntheregister.co.uk/2017/04/2...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951131939888
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-25T21:54:18Z",
+        "content": "$GSAT that 600k wall in last 15min is what shorts have left to keep this from soaring The fact they thew it up at $2.05 is very telling",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822031259536743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-25T21:44:07Z",
+        "content": "$GSAT another piece to the puzzle.  Lawyers get politicians attention. Hmm, the fastest way to curb this comm trend\nlesechos.fr/tech-medias/hig... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962855577468872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-25T21:05:53Z",
+        "content": "$GSAT One has to assume competing bids at extreme premium, loser still usage Supply limited = mucho premium.  $STRP loser pursues $GSAT $$$",
+        "sentiment": {
+            "TextBlob": -0.09821428571428571,
+            "NLTK": -0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981116056442261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-25T19:19:31Z",
+        "content": "$GSAT shorts still holding 83 million shares or 17.6% of float",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884371161460876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-25T19:01:01Z",
+        "content": "$GSAT moment of silence over",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944985508918762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-23T01:01:23Z",
+        "content": "$GSAT $TMUS $VZ $T $S",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969360828399658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-21T18:09:36Z",
+        "content": "$SPY  guarantee a SPY run up next week than a plummet when \"massive\" to him is not \"massive\" to everyone.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962385892868042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-18T00:33:43Z",
+        "content": "$GIMO this will ignore the momentum ER will keep it trending",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997889399528503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-18T00:30:59Z",
+        "content": "@alejrossi going on behind closed doors.  $STRP public atm.  To me $VZ is being smart by making comp pay to play controlling cost premium",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949219822883606
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-17T17:53:21Z",
+        "content": "@commmonnnn not necessarily true,  It is good strategy for $VZ to make $T pony up more if they want something.  Smart play make comp pay",
+        "sentiment": {
+            "TextBlob": 0.3098214285714285,
+            "NLTK": 0.7033,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9856820702552795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-17T17:00:05Z",
+        "content": "$GSAT pace of news just picks up from here. $STRP essentially palm slapped @kerrisdalecap thesis of 0 value spectrum. No denying value now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966363906860352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-16T16:02:07Z",
+        "content": "$GSAT @BloombergNews @Street_Insider @SeekingAlphaTWITS  Great article!  100% clarity on misinformed arguments circulated @kerrisdalecap",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9912882447242737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-14T19:42:19Z",
+        "content": "$GSAT O3B Networks utilize Globalstar 2\no3bnetworks.com/wp-content/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995484471321106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-14T19:41:05Z",
+        "content": "$GSAT Checkout the top of page 13 in this ARCEP report:\narcep.fr/uploads/tx_gspubli...  Says right there France has green lighted deployment",
+        "sentiment": {
+            "TextBlob": 0.1952380952380952,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9826657772064209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-14T17:52:49Z",
+        "content": "@bohdango good points, but logistic concerns you present are already being overcome in real world deployments ex.$VZ people.ucsc.edu/~warner/DAS...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9220113754272461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-14T17:24:36Z",
+        "content": "$GSAT $TMUS $VZ $T $S Sure by now everyone is familiar with coverage maps.  How about that for coverage: \nglobalstar.com/aviation/ima...",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9346214532852173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-14T16:53:20Z",
+        "content": "$GSAT Paving the way for increasing small cell deployment and density at break neck speeds ecfsapi.fcc.gov/file/104130...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9784449934959412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-14T16:14:27Z",
+        "content": "$GSAT telco sector going to start M&A grab fest 4.27  Obvious $TMUS CEO knows it's about to pop off and clearly says it sans the details",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997641444206238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-13T16:41:18Z",
+        "content": "$X this had plenty more room to drop.  If it breaks $29.50 look out below",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.3321,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983653426170349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-10T23:20:01Z",
+        "content": "$GSAT @kerrisdalecap r u saying $T investors just got shafted by $T for $1.25B? Please elaborate ur spectrum thesis, it seems inaccurate Thx",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999612033367157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-10T16:37:42Z",
+        "content": "$GSAT  Adrangi: \"All spectrum plays have different stories\"  @Benzinga care to mention the billion $ price tags they all have in common?",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990403413772583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-04-10T16:31:37Z",
+        "content": "$GSAT Sahm is getting destroyed across the board.  His spectrum thesis is worth 0  $STRP $DISH $GSAT.  He & his followers getting burned bad",
+        "sentiment": {
+            "TextBlob": -0.19999999999999993,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997455477714539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-30T20:04:41Z",
+        "content": "$GSAT why is this material news not being reported domesically cio.com.au/article/616074/c...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981639981269836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-30T19:57:39Z",
+        "content": "$GSAT since are feeds won't report I'll just keep it coming\ncio.com.au/article/616074/c...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971398115158081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-30T19:46:19Z",
+        "content": "$GSAT looks like some is getting the news loud and clear\nmobile.abc.net.au/news/2017...\nstreetinsider.com/Analyst+C...\nqualcomm.com/invention/tech...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966909885406494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-30T19:23:41Z",
+        "content": "$GSAT being used to replace entire Australian continent communication infrastructure? mobile.abc.net.au/news/2017...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952620267868042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-30T18:27:14Z",
+        "content": "$GSAT surprise streetinsider.com/Analyst+C...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876377582550049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-20T16:45:58Z",
+        "content": "$GSAT IMO this looks like some of the Inmersat partnership details may be coming to light.  Must be a doozy.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971120357513428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-17T20:04:47Z",
+        "content": "$GSAT yeah full day volume in last 15 minutes.  Something's up for sure.  Checking the rumor mills seeing if I can find something legit Bullish",
+        "sentiment": {
+            "TextBlob": 0.2833333333333333,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7273004651069641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-16T06:28:53Z",
+        "content": "$BHC today was the pump we just saw for last exit.  That drove this 1.74% higher, including Ex Hrs.  Uh oh I say we see a 10x% dump coming. Bearish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993634819984436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-16T06:16:19Z",
+        "content": "$BREW  If an acq closes after year-end but\nbefore the filing of  10-K on the annual fins in the new 10-K if it is filed before 8-K/A is due Bullish",
+        "sentiment": {
+            "TextBlob": 0.005681818181818177,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998625636100769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-14T21:02:15Z",
+        "content": "$BHC BS sell-off assets will to lower debt ratio. SCAM 0 bargaining power @ table.  A clearance sale won't dent that debt at all. NOSE DIVE! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.8814,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814704060554504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-14T16:16:11Z",
+        "content": "$T downward momentum and 911 outage and national investigation going to drive this down short term.   Bad timing for $T run.",
+        "sentiment": {
+            "TextBlob": -0.28518518518518515,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997511506080627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-14T06:54:18Z",
+        "content": "$BREW remember this article.  Looks like this analyst was spot on:\nseekingalpha.com/article/39...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951162338256836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-14T02:39:20Z",
+        "content": "$GSAT conjecture is fun,bare nuts is:Spectrum is valuable, small cell's the future,GSAT's asset 20-30x market cap.Not if,when rest is noise Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7124752998352051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-13T20:42:12Z",
+        "content": "$GSAT Trader & Investor chat TRDR:WTF u said this will fly.INV:Yes.  TRDR:BS INV:No,I'd be a good Trader if I knew exactly when, u would too",
+        "sentiment": {
+            "TextBlob": 0.475,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9699569940567017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-10T21:06:47Z",
+        "content": "$GSAT Volume getting brought Monday.  Next week looks like the move as we are seeing GSAT name pop up on every major spectrum player radar.",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9507877230644226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-10T21:04:35Z",
+        "content": "$GSAT All you need to know.  Kerrisdale BS or Dish CEO in the satellite business with non-bias value assignment. Ha!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8196991086006165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-03-08T18:12:52Z",
+        "content": "$GSAT looks like textbook consolidation. Coiled tight for big pop when she springs. That combined w/ massive short float = breakout",
+        "sentiment": {
+            "TextBlob": -0.044642857142857144,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972495436668396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-23T22:57:34Z",
+        "content": "$GSAT This will speed things right along dailypress.com/news/politic... Infrastructure cleared.  Say goodbye to macro tower overhead",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8824819922447205
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-23T22:34:57Z",
+        "content": "$GSAT Spectrum already used today with all modern Cell phone, Tablet and PC platforms without the need for macro towers as well LTE.  Hahaha",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.741201639175415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-23T22:24:23Z",
+        "content": "$GSAT Sounds like March 2nd we be the date for partner \"selection.\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894423484802246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-23T22:16:17Z",
+        "content": "$GSAT If you didn't catch it the keyword just used was \"select.\"  Clearly they have multiple partnership offers.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9366506934165955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-22T16:26:01Z",
+        "content": "$GSAT EU peacekeepers use IoT-based fleet tracking in Georgia and Kosovo using Globalstar internetofbusiness.com/eu-p...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936721324920654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-21T23:24:31Z",
+        "content": "$GSAT wait till SEC orders Sahm Andrangi to halt all activity in GSAT until further investigation.  TO DA MOON! will be an understatement",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974967837333679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-16T23:54:38Z",
+        "content": "$GSAT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.978546679019928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-16T08:14:24Z",
+        "content": "$GSAT Only #S you need to know. Since Jan 2017: 83 mil shrs in/ 13 mil shrs out. $55 mil in / $13 mil out. 6:1 shrs 3:1 capital. buy v sell",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979464411735535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-14T00:44:11Z",
+        "content": "$GSAT guys use this in Google and you can find all documentation for things coming  inurl:.gov intext:globalstar intext:small intext:cell",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960700273513794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2017-02-13T22:40:28Z",
+        "content": "$GSAT worthless spectrum,  hmmmmm.  Doubt it.",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996843338012695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-11-16T17:58:40Z",
+        "content": "$DRYS $SHIP $TOPS $SINO $NM any of these subsidiaries of $ACTG ? Nice to know",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955635070800781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-11-08T20:56:49Z",
+        "content": "@zQuant hahahaha $2 scalps on $2.25 contracts = net loss of $.25  How long will zQuant have capital to keep funding this?",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995818734169006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-28T15:12:21Z",
+        "content": "@stockflare_alerts  In  $ACTG latest quarterly Financials released yesterday",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918831586837769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-28T13:12:04Z",
+        "content": "$ACTG ^^  Think you need to tweak your site it is reporting absurdly inaccurately.   May need to check that your hypothesis algorithm",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990203380584717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-25T00:28:32Z",
+        "content": "$TWTR.P Awkems Razor the simplest explanation is usually the right.  Best I have heard so far.  Good call.  This is the most logical reason.",
+        "sentiment": {
+            "TextBlob": 0.36938775510204075,
+            "NLTK": 0.8115,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9540988802909851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T01:02:38Z",
+        "content": "$TSLA Can anyone say hello Uber market share welcome to $TSLA",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6948,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775486588478088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T00:52:21Z",
+        "content": "$TSLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9475893974304199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T00:50:05Z",
+        "content": "$TSLA work remotely on Friday from the car on the way to you vacation destination; Send the car to drop the kids at school; to pick them up Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973821043968201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T00:48:39Z",
+        "content": "$TSLA Deliver takeout to yourself; Have your car drive home after it drop you off at the airport; have it pick you up at the airport;",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8667338490486145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T00:47:28Z",
+        "content": "$TSLA Avoid the dreaded handing the keys over to your teens; send your car to go get it on damn oil change; car wash;etc;",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.8225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987078905105591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T00:45:36Z",
+        "content": "$TSLA Drive home safely after a night of drinks; send your car to pick up a friend; send you car to take your friend home;",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8625,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9975113868713379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T00:44:20Z",
+        "content": "$TSLA NOT BIG NEWS! Wow bears cmon u can't be that foolish.  Oh the possibilities.  Send a car to get you groceries; Take a nap on route; Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.3716,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966543912887573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-20T00:23:50Z",
+        "content": "$TSLA exactly",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5634415745735168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-19T18:52:06Z",
+        "content": "$TSLA tweaking only is for business plans, mergers, partnerships, etc.  Musk specifically delayed to Wed to tweak. Joint product launch?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977341890335083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-19T18:49:32Z",
+        "content": "$TSLA has anyone considered that announcement could $PC to buyout $TSLA huh $NFLX $GOOG $AMZN Guys.  That would WILD just WILD",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978649020195007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-19T18:16:18Z",
+        "content": "$TSLA   My guess guess is that Musk is announcing that he will be running as a 3rd party candidate for President and be at the debates!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.508,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991729855537415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-14T15:21:29Z",
+        "content": "$WFC If forensic team is honest I bet they find that dummy account creation is actually built into the sale rep platform being used @ $WFC Bearish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995797276496887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-14T15:17:27Z",
+        "content": "$WFC 5k employees don't create 2 million accts.  Automoated acct creation with a macro. This is definitely a known and deliberative process. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4563,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.575985848903656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-14T15:11:03Z",
+        "content": "$WFC 0% chance this recovers any before the EOY.  Beating earnings by .02 a share and still dropping like a rock. No tangible guidance.Done Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994120597839355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-14T15:06:49Z",
+        "content": "$WFC Check account down 25% Y-oY, credit cards down mortgage referalls down 24%.  Was Bull, but with these #s going 100% straight Bear. Bearish",
+        "sentiment": {
+            "TextBlob": -0.0666666666666667,
+            "NLTK": 0.4854,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981759786605835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-12T18:19:00Z",
+        "content": "$AA That is quite a delta.  I wonder how many others are actually aware that this scenario could play out.  SCARY!",
+        "sentiment": {
+            "TextBlob": 0.041666666666666664,
+            "NLTK": -0.4263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.949633777141571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-12T18:13:28Z",
+        "content": "$AA If you sold naked puts on this then you sold them to me.  My apologies didn't mean to cause any problems :)",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988824188709259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T19:45:33Z",
+        "content": "$TWTr",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866260290145874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T19:40:35Z",
+        "content": "@JayHey10  I like guessing.  My guess it won't be less than $30 $Twtr",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9741581082344055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T19:28:25Z",
+        "content": "$TWTR.P It appears someone knows something and that somethings is GOOD.  B/O coming in AH?  YEAAAH IT'S GETTING EXCITING Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8208,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9926602840423584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T06:46:54Z",
+        "content": "$TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896335601806641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T04:35:43Z",
+        "content": "$NFLX $GOOG $META $CRM $AMZN $APPL Guarantee what $TWTR.P proved tonight via #NFL and #Debate live stream are top of Board Room Discussion",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834277033805847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T04:32:53Z",
+        "content": "$NFLX $GOOG $META $CRM $AMZN $APPL $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984745383262634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T04:30:02Z",
+        "content": "$NFLX $GOOG $META $CRM $AMZN $APPL Guarantee what $TWTR.P proved tonight via #NFL and #Debate live stream are top of Board Room Discussion Tmrw Bullish",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928340911865234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T04:26:01Z",
+        "content": "$TWTR.P Oh but they are indeed",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9953137636184692
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T04:16:31Z",
+        "content": "$TWTR.P beware of \"posers\" asking deceitfully for information NOW NOW that will come.  A bear that is gonna be squeezed hard on the open.",
+        "sentiment": {
+            "TextBlob": -0.14583333333333334,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966180920600891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T04:05:08Z",
+        "content": "$TWTR.P You do realize a 2 Tier ad platform exist. Just like TV ad revenue=viewer size.  $TWTR.P  adds direct access to product ads. HUGE VALUE",
+        "sentiment": {
+            "TextBlob": 0.25000000000000006,
+            "NLTK": 0.8256,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9226316809654236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T03:35:37Z",
+        "content": "$TWTR.P I challenge anyone to point to a real time platform that has even a 5% chance of competing with a major cable network. Verdict is in.",
+        "sentiment": {
+            "TextBlob": 0.13125,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9434767961502075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T03:34:34Z",
+        "content": "$TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896335601806641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T03:34:20Z",
+        "content": "$TWTR.P I challenge anyone to point to a real time platform that has even a 5% chance of competing with a major cable network.  Verdict is in.",
+        "sentiment": {
+            "TextBlob": 0.13125,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9434767961502075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-10T02:28:17Z",
+        "content": "$TWTR.P Tweeting happens to be a modern-day form of communication,\u201d   This wraps up the value of $TWTR.P in a nutshell.  $40+ PPS easy,real easy",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.966233491897583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-08T03:59:03Z",
+        "content": "$TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896335601806641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-06T05:28:02Z",
+        "content": "$CPSFT $COUP Excellent",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.546265721321106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-06T05:14:11Z",
+        "content": "$CPSFT $NTNX $ELF $TTD $TWTR.P $MANH $ORCL $SAP $COUP projected price @ $16- $18.  Priced  for immediate opening entry place order now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937212467193604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-06T05:06:21Z",
+        "content": "$CPSFT $NTNX $ELF $TTD $TWTR.P $MANH $ORCL $SAP  Coupa Software open for orders on Etrade.  Ticker $COUP PLACE YOUR ORDERS NOW!!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987865090370178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-06T01:47:51Z",
+        "content": "$TWTR.P Time for Time SEC to look into Kara Swisher former partner of $GOOG exec Megan Smith.  Tells on herself. HA recode.net/authors/kara-swi...",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903501868247986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-06T01:00:34Z",
+        "content": "$TWTR.P like Re/Code I have sources that say $GOOG is putting a bid Friday of $45 Billion. $AAPL is bidding once it sees $GOOG offering",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975155591964722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-04T06:03:24Z",
+        "content": "$VISL $MGTWHOOOHOOO BOYS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811466932296753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-04T05:58:24Z",
+        "content": "$BAC $WFC Anyone getting backtest like this of their scanners?  Ascend",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993707001209259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-04T05:57:27Z",
+        "content": "$AAPL $VZ Anyone else getting BT results like this with their scanners>  Let's get that money",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990447163581848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-04T05:56:16Z",
+        "content": "$AMZN $NFLX   Etrade PRO Scanner.  WTF Making it RAIN.  HAHHA\nAre picks aren't the only thing going up everyday. \ud83c\udf46",
+        "sentiment": {
+            "TextBlob": -0.2333333333333333,
+            "NLTK": -0.6739,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998494029045105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-04T05:51:32Z",
+        "content": "$AMZN $NFLX Etrade Scanner Strategy UNREAL.  HAHAHAA So solid:  \n Are picks aren't the only thing going up everyday. \ud83c\udf46 Bullish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.2247,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8386539220809937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-10-04T01:07:00Z",
+        "content": "$MSFT $GOOG $CRM $IBM $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983115196228027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-09-28T04:58:33Z",
+        "content": "$WFC $TWTR.P What is this all about?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964848756790161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-30T15:39:12Z",
+        "content": "$STAF same old I want my money NOW.  This company just increased cash flow YoY from -$3 mil to +$2.1 mil Mkt cap is going to double in a QTR Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996599018573761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-29T22:24:21Z",
+        "content": "$STAF Last year sales: $128.83  Net Income: -$18.02  EPS: -46\n This year's sales:  $165.55  Net Income: $9.51  EPS:  You do the math",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9216984510421753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T20:12:39Z",
+        "content": "$STAF No doubt with 400% increase in EBIDTA  YoY and 28% Revenue Increase YoY epic repeat of 2015 ER stock spike.  Is this free money day? Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997846245765686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T19:56:12Z",
+        "content": "$STAF links b/c seriously\nquote.morningstar.com/stock...",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913835525512695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T19:55:21Z",
+        "content": "$STAF @Roonster See you send overnight picks.  See this ticker. It's like someones completely joking. 5.45M Float MCap 7.3M. 2X # made 1 Qtr",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5709,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937619566917419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T19:50:16Z",
+        "content": "$STAF Really has no one read this companies 10K or audited fins.  WTF is going on here.  Is this a Joke!?!?!?! Whatever send more like this!",
+        "sentiment": {
+            "TextBlob": -0.05833333333333335,
+            "NLTK": -0.7861,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995997548103333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T19:49:22Z",
+        "content": "$STAF How about the 10K w- 1,276,056  Outstanding warrants with exercise price $10 & 1,275,056 warrants with exercise price $17.40. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982587695121765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T19:44:13Z",
+        "content": "$STAF The Market Cap is priced @ 7.3M.  This is hilarious.  Have you looked at their balance sheet. marketwatch.com/investing/s... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986171722412109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T19:25:09Z",
+        "content": "@mark30 Yep. The Market Cap on $STAF right now is equal to what they made in a single quarter.  II find that hilarious. Confident it goes up",
+        "sentiment": {
+            "TextBlob": 0.24285714285714288,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997318387031555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T18:52:59Z",
+        "content": "$STAF The SHARE FLOAT on $STAF is 5.45M.  Is there any better setup up you can ask for? Low float, high profit, YoY Growth, QoQ Growth.  HA Bullish",
+        "sentiment": {
+            "TextBlob": 0.22,
+            "NLTK": 0.9321,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998910665512085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T18:50:31Z",
+        "content": "$STAF Revenue of $44 million, a 38% increase compared to $32 million in the prior period, NO BRAINER!!!! 3 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4217,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6885006427764893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T18:50:04Z",
+        "content": "$STAF Gross profit of $7 million, a 40% increase compared to $5 million in the prior period; NO BRAINER!!!! 2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.459,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9623238444328308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-26T18:49:26Z",
+        "content": "$STAF Adjusted EBITDA of $1.0 million, a 150% increase over the prior period of $400 thousand.  NO BRAINER!!!! 1 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4217,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.821418285369873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-25T06:14:06Z",
+        "content": "Solid scienctific proof. Clearly indicates why CERU CRLX101 is FDA and will be APPROVED ncbi.nlm.nih.gov/pmc/articl...\nUndeniable DD results = $$$s",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.7804,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9645264148712158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-22T16:34:49Z",
+        "content": "$DARE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8587009310722351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-19T17:56:58Z",
+        "content": "$PTX Buyout and is $DARE buyout next to be announced?  Will all pharms being bought please standup!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4374,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9849159717559814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-16T21:56:49Z",
+        "content": "$STEM if you have STEM $1.10 warrants I'll be happy to give $1.15 premium for them.  Let me know.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9266642928123474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-11T23:36:56Z",
+        "content": "$AVGR Brilliant move. Float not diluted. Capital needed for growth without long-term impact to PPS. Note the right way to inject capital",
+        "sentiment": {
+            "TextBlob": 0.5928571428571429,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9409432411193848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-08-11T23:34:44Z",
+        "content": "$AVGR Brilliant move. No dilution to float. Capital needed for growth outpacing demand at previous PPS. Note the right way to inject capital",
+        "sentiment": {
+            "TextBlob": 0.33968253968253964,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9771892428398132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-27T17:10:11Z",
+        "content": "$KEG I take it back Seabasho.  Looks like I am the one full of BS.  My apologies you were right.",
+        "sentiment": {
+            "TextBlob": 0.2119047619047619,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873613119125366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-27T16:17:17Z",
+        "content": "$KEG I am hearing a 10:1 Reverse Split going to be issued",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965468049049377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-27T15:52:33Z",
+        "content": "$KEG Full of BS. There is no automatic delisting for a NYSE stock @ .15.  Bad DD.Misleading\nnysemanual.nyse.com/lcm/sec...",
+        "sentiment": {
+            "TextBlob": -0.17499999999999993,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997019171714783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-22T05:54:41Z",
+        "content": "$SPU Go all in ASAP b/c according this chart $NTDOY to acquire Sky Juice ppl as official drink @ all PokemonGo gym JJ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4084,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935994148254395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-22T05:40:54Z",
+        "content": "@Wall_Street  Alert!! Go all in $SPU ASAP b/c according this chart $NTDOY ito acquire Sky Juice ppl as official drink @ all PokemonGo gym JJ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6723,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959164261817932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-19T19:39:23Z",
+        "content": "$HBTX volume and price going up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9456697702407837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-19T19:38:12Z",
+        "content": "$NHWK volume coming in",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9829423427581787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-07-06T03:50:52Z",
+        "content": "$BGI @WinningTrades4U Hows that possible. Time and Sales for BGI @ 13:46 32K shares being filled @ $5.  CMON, BS",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9789368510246277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-14T01:39:44Z",
+        "content": "$CNXR Watch ALERT. If this breaks 2.00 on good volume in opening will head towards 3+. Up trend  Terms news coming",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7034,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811326861381531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T23:23:09Z",
+        "content": "$MGTI @londonaimcap Not inferring directly stating the info is inaccurate unless ur implying FINRA is misleading:\nregsho.finra.org/FNSQshvol2...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988908171653748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T23:09:18Z",
+        "content": "$MGTI BEWARE OF BEING MISLEAD. At least it's obvious who not to trust @londonaimcap wsj.com/mdc/public/page/2_3...",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.4023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973006844520569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T21:04:43Z",
+        "content": "$MGTI Here comes the news! Name Change and SHORT SQUEEZE.  Back the truck up here please, thanks!",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.6988,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9112381935119629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T20:41:12Z",
+        "content": "$VISL tech\nenterprisecontrol.co.uk/Use...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836822152137756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T18:49:50Z",
+        "content": "$MGTI ha @officialmcafee is head of Anonymous",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934147596359253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T15:57:11Z",
+        "content": "$VISL Agreed .20 by EOW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7550392746925354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T15:54:42Z",
+        "content": "@Gbusto35 The pooper is where you pick them up.  Watch for the turn around.  Buy'em up at this price $VISL run to .20 by EOW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896267652511597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T15:45:25Z",
+        "content": "Looking for $VISL to move to .20+ by EOW.  Not sure of buyout, but no movement is coming :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.1825,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996765851974487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T15:43:13Z",
+        "content": "$VISL bringing in 15K shares @ .143.  $VISL to break this week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979442954063416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-13T01:50:09Z",
+        "content": "$GBR $HK $ETAK $HHS $VGZ $THM $IMNPQ.DL0922 $AROPQ $EMES $EGRX $VIRX $MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953044652938843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-10T18:37:43Z",
+        "content": "@KevinWan $ETAK volume on the move for PH.  Surge if it can break the .20 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948686361312866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-06-10T14:36:55Z",
+        "content": "@KevinWan $MGTI looks like it is opening up again.  In @ 2.40 looking at exit around $2.80 today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8643991947174072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-27T16:39:14Z",
+        "content": "$YIPI breakout. Replacing Google Appliance. Yippy to Acquire MC A Google's main partner in Pursuit of $500 Million Search Appliance Market Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993035793304443
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-27T16:30:37Z",
+        "content": "$YIPI guaranteed to breakout this afternoon.  Low float; PPS $0.59 Yippy to Acquire MC A in Pursuit of $500 Million Search Appliance Market Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989204406738281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-27T05:49:31Z",
+        "content": "$MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695320129394531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-26T05:07:37Z",
+        "content": "@KevinWan I'm using $MGTI $VISL to condition myself to not experience stress So far I think I may have given myself a few mental disorders :)",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.6522,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892007112503052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-26T04:49:05Z",
+        "content": "@KevinWan Did $MGTI just get chopped off or this mfer is so crazy no comment just watch it",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.6803,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983599781990051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-26T04:46:42Z",
+        "content": "@KevinWan your guidance on $CLRB $MGTI get chopped off or its just like these mfrs are crazy might as well watch'em",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982306361198425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-26T04:38:50Z",
+        "content": "$VISL $MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886634945869446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "daviemac",
+        "timestamp": "2016-05-26T03:27:33Z",
+        "content": "$MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695320129394531
+            }
+        },
+        "image_url": ""
+    }
+]

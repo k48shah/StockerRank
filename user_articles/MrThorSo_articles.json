@@ -1,0 +1,5140 @@
+[
+    {
+        "username": "MrThorSo",
+        "timestamp": "2019-08-13T13:11:44Z",
+        "content": "$DCPH $ABCD $MFH $AVYAQ $GNW $FWBI $SUPV $VFF $DOYU $YTEN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970212578773499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-07-05T15:00:26Z",
+        "content": "$SAVA NICE! NHOD at $2.46 if you took $2.27 alert! Bullish",
+        "sentiment": {
+            "TextBlob": 0.9375,
+            "NLTK": 0.7443,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998467743396759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-07-05T13:36:49Z",
+        "content": "$SAVA idea over $2.27 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985595345497131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-07-05T13:21:02Z",
+        "content": "$ANW idea over $1.71 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990436434745789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-07-03T13:18:42Z",
+        "content": "$SAEX Daily chart; Close over the $2.22 resistance was key! O/N play !\ud83d\udd25 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4559,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983299374580383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-13T13:19:01Z",
+        "content": "Down Gappers: $VTVT $SCPH $SEEL $LOMA $VUZI $VSAR $ANY $OHRP $OPGN $CODX $SNES $ANTH $AXGT $UVXY Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981847405433655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-13T13:18:41Z",
+        "content": "Up Gappers: $AYTU $CANF $VTGN $SEII $CRWS $WSCI $RSLS $NNDM $BLIN $DCAR $HMNY $CEI $GALT $MNGA $ANIX $EDSA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989410042762756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-08T10:44:37Z",
+        "content": "06/08/2018 Watchlist  - $MNKD $OSN $TOPS $BLIN $TTNP $DARE $ONTX Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971019625663757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-06T10:35:14Z",
+        "content": "$BVSN - Breakout Watch. Float = 1.99m Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984038472175598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-05T13:39:18Z",
+        "content": "$CODX HOD $6.66 if you guys took $5.90 idea Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987950325012207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-05T13:18:12Z",
+        "content": "09:17 Watchlist - $RSLS $AMRH $ANW $CODX $LITB Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981886744499207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-05T13:13:00Z",
+        "content": "Down Gappers: $ANW $BDRL $FRAN $TEDU $CHNR $JKS $AVXL Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982008934020996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-05T13:12:40Z",
+        "content": "Update on PM Gap Ups: $AMRH $CODX $AST $KNDI $RSLS $MARK $VSTM $CRGY $HPJ $SLNG $TNTR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993853569030762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-04T15:43:30Z",
+        "content": "$SLNG - alerted in chat PreMarket. Currently in a channel",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970625042915344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-04T15:02:20Z",
+        "content": "$SLNG still in from $1.64 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991303086280823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-01T13:40:55Z",
+        "content": "$DDE in $1.96 - Bounced of the 9 EMA, VWAP Reclaim Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987903237342834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-01T13:17:45Z",
+        "content": "Down Gappers: $KTO $KTOV $ANY $TVIX $UVXY $POAI $AVGR $NHWK $EYEG $CRDF $DRIP Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984952211380005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-06-01T13:17:26Z",
+        "content": "Up Gappers: $CLWT $CODX $SASI $PETX $DDE CNAT $GEVO $TOPS $PULM $TOPS $UAVS $TTOO $TNTR $WORX $VTVT $MYSZ $ONTX $VTGN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998497486114502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-31T13:50:12Z",
+        "content": "$MDGS I am long $1.42 - Low Float, Former Runner Bullish",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999593198299408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-31T13:40:22Z",
+        "content": "$VTVT in $2.19 -  Dip buy Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977542757987976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-31T13:24:03Z",
+        "content": "Down Gappers: $SCPH $CBK $QMCO $CLSD $CXRXF $OGEN $UONE $CODX $SASI $INPX $VCEL $MNGA $PSHG Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977154731750488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-31T13:23:05Z",
+        "content": "Up Gappers: $VTVT $ATIS $JILL $TLYS $JONE $KTOV $MYMD $WKHS $POAI $CBAY $ANY $BCLI $VISL $DWT $PFIE $NBRV $CARM $OHGI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985904097557068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-30T13:13:19Z",
+        "content": "Current Down Gappers: $EVTV $PRPO $TTOO $TVIX $UVXY $TPVG $DARE $MYSZ $DRIP $FAZ $TZA Bearish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984902143478394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-30T13:12:59Z",
+        "content": "Current Up Gappers: $OGEN $CODX $NSPR $TNTR $KTOV $PSHG $TPIV $AXGT $BGI $PFIE $SNES $ONTX $LOMA $HMNY $DXLG $NHWK $IDXG $AEZS $ABIO $BTB Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985730648040771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-30T12:47:13Z",
+        "content": "Decent VWAP bounce on $CODX Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9888840913772583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T19:24:46Z",
+        "content": "$CYTO Morgan Stanley purchased 325,823 shares last week, in some here at $1.11 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969859719276428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T19:20:27Z",
+        "content": "$ONTX Late to the party on this one, grabbing some here on the dip. Overnight play for me, Make sure to have AH and PM access. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973702430725098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T15:45:47Z",
+        "content": "$KOSS hit $2.69 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994056224822998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T15:38:53Z",
+        "content": "$KOSS in $2.28 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998641312122345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T15:17:32Z",
+        "content": "$CODX dip bought $2.78 - Risky trade Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963439106941223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T14:01:40Z",
+        "content": "$IZEA entry alerted at $1.70! Hit $2.04 BOOM! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999447762966156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T13:43:40Z",
+        "content": "$IZEA in $1.70! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991415739059448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T13:06:10Z",
+        "content": "Down Gappers: $TOPS $MYMD $ANY $VTGN $FRED $SVXY $EVTV $ENSV $JNUG $RIOT $BKNK $ACST Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979150891304016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-29T13:05:58Z",
+        "content": "Up Gappers: $TNTR $MYSZ $BLIN $TVIX $UVXY $ABIO $KTOC $TTOO $HMNY $GLG $ACRX $MARA $CPST $CEI $VSTM $AVGR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980826377868652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-25T14:08:18Z",
+        "content": "$PXS in again at $1.53, bounced of the 13 EMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951636791229248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-25T13:56:22Z",
+        "content": "$PSX Beauty! In from $1.20 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948347806930542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-25T13:01:17Z",
+        "content": "Down Gappers: $ZOES $CHCI $PRSO $MYSZ $SDR $CYTR $NSPR $MRNS $BLNK $JNUG $CPST Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987989664077759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-25T13:01:04Z",
+        "content": "Up Gappers: $VTGN $CLWT $OHGI $KWE $NWY $DRIP $DCAR $ATOS $AVGR $SMRT $HMNY $SPI $TVIX $KTOV $UVXY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987035989761353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-24T14:06:49Z",
+        "content": "$AWSM HOD $3.85! Are you guys in overnight with me? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998428225517273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-24T13:51:12Z",
+        "content": "In $CCIH $1.30 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989068508148193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-24T13:36:29Z",
+        "content": "$OTIV in here$1.35 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983243346214294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-24T12:59:05Z",
+        "content": "UpGappers: $EDSA $BW $OHGI $ACRX $INPX $SMRT $IMNPQ.DL0922 $MYO $PRPO $CVM $MRNS $NSPR $SCYX $YTEN $SINT $THMO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988401532173157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-24T11:13:47Z",
+        "content": "$ACRX - AcelRx announces FDA acceptance of NDA for DSUVIA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957764744758606
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-23T19:39:39Z",
+        "content": "$AVGR beauty, bounced of VWAP(Purple line) Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965910911560059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-23T18:53:44Z",
+        "content": "Bought some $AVGR here, bounced of trendline Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966692328453064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-23T14:40:20Z",
+        "content": "$VISL in $0.83  - With news Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985816478729248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-23T13:47:01Z",
+        "content": "$BIOL I am in this at $1.49\ud83d\udd25 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987391829490662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-22T14:44:51Z",
+        "content": "$WORX alerted my entry one hour ago at $0.57! Hope you guys caught it! BOOM! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5826,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.969929039478302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-22T14:02:21Z",
+        "content": "$CDTI what a BEAUTY! Alerted in chat in the $0.60's! Link in BIO, it's free! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8661,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897900223731995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-22T14:00:01Z",
+        "content": "$HUSA energy play I am in some! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5848,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983376681804657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-22T13:43:20Z",
+        "content": "$WORX in $0.57 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984825253486633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-22T13:17:25Z",
+        "content": "$PRPO would like to see a VWAP Reclaim for a entry - Link to FREE chat room in BIO Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.7603,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990078806877136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-22T12:54:06Z",
+        "content": "Down Gappers: $LBY $EVTV $HTGMQ $MYMD AAGRC $OCUP $HMNY $RIOT $KTOV $KTRA $DPW $TVIC $BLNK Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980769157409668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-22T12:53:49Z",
+        "content": "Up Gappers: $PRPO $CHECK $SNES $EYEG $MBOT $PULM $CNET $AVGR $INPX $BOXL $UAVS $CPST $CSTM $TNDM $TEUM $FORD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989483952522278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-18T13:45:04Z",
+        "content": "$DDE in $2.22 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989172220230103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-18T13:23:49Z",
+        "content": "$VLRX beauty! In $1.71 out $2.01! Quick premarket scalp! Early alerts in the chatroom! Coin join for FREE! Link in BIO! Bullish",
+        "sentiment": {
+            "TextBlob": 0.38888888888888884,
+            "NLTK": 0.9042,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969136714935303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-18T13:06:45Z",
+        "content": "Down Gappers: $ARQL $TNTR $CHKR $INSY $BRZU $RIOT $SDLP $MARA $HMY Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982253909111023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-18T13:06:34Z",
+        "content": "Up Gappers: $VLRX $SISI $QTNTQ $SPHS $ECYT $AMRS $HEAR $DDE $CPST $AMBA $PTN $ECR $CALI $AMD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987245202064514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-17T18:26:31Z",
+        "content": "$CARV! BOOOM Scanner caught this one at $5.00! Come check out the scanner, it's free! Link in BIO Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6341,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890516400337219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-17T17:07:13Z",
+        "content": "$LGCY Disgusting! Dip scan caught this at $7.60, easy $1+ bounce! Bullish",
+        "sentiment": {
+            "TextBlob": -0.22916666666666663,
+            "NLTK": -0.2695,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991355538368225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-17T15:18:04Z",
+        "content": "$SDRL , $CEI & $ZNOG straight from my watchlist, hope you guys capitalized\ud83d\udcc8 Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991783499717712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-17T13:18:44Z",
+        "content": "Down Gappers: $CGG $IHT $BOXL $MYMD $CALI $HMNY $NVCN $NHWK $NSPR $PERI $ATOS $TEUM Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981885552406311
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-17T13:15:51Z",
+        "content": "Up Gappers: $NERV $PRPO $BLNK $ELV $RGSE $NOG $CHEK $EYEG $PSHG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987950325012207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-17T06:44:57Z",
+        "content": "Here is my watchlist:$SDRL $PERI $RGSE $SMRT $CEI $ZNOG Click the link in bio for FREE Chat! I am always up early PreMarket finding the plays! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.7661,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973021745681763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-17T06:12:35Z",
+        "content": "$ONVO what a pretty chart - Alerted this at $1.32 Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984427094459534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-16T14:22:15Z",
+        "content": "$FORD still in - looking for $1.69 break Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964314699172974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-16T13:54:04Z",
+        "content": "$FORD in $1.60 - Float : 5.12M Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989218711853027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-16T13:00:58Z",
+        "content": "Down Gappers: $VSTM $RDVT $BOXL $OGEN $SBSW $CLWT $LKM $DB Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979372024536133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-16T13:00:44Z",
+        "content": "Up Gappers: $BLNK $BOOT $HEAR $CLMT $FORD $CAPR $NSPR $M $IDEX $CASM $DDE $ACRX $MDGS $PSHG $ONVO $CARM $NHWK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986110925674438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-15T13:42:51Z",
+        "content": "$MDGS in $1.47 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989997744560242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-15T13:02:28Z",
+        "content": "Down Gappers: $VERO $VIPS $BOXL $SBSW $JNUG $NUGT $ORAN $HEAR $CARM $AVGR $TTM Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981691837310791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-15T13:02:15Z",
+        "content": "PreMarket Gappers: $CLWT $XENE $SORL $ATOS $RCON $EMMA $NETE $INO $NHWK $DDE $VLRX $CRON $IMTE $IDEX $OCUP $GALT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983296990394592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-14T16:59:51Z",
+        "content": "$DDE you beauty! Entry alerted at $1.63!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7156,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973464012145996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-14T14:25:50Z",
+        "content": "$ONVO nice! Alerted in chat at $1.32 Bullish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980829954147339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-14T14:22:09Z",
+        "content": "$DDE I am in $1.63 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992327690124512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-14T13:34:06Z",
+        "content": "$PRPO in 0.54 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988981485366821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-14T12:56:44Z",
+        "content": "Down Gappers: $MARK $ECYT $RKDA $SGYP $HEAR $PXS $DRIP $UCXY Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997963547706604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-14T12:56:29Z",
+        "content": "PreMarket Gappers: $MYO $ACIA $SNIO $TAOP $KTOV $OCLR $IDXG $TNDM $NHWK $MEIP $RGSE $RWLK $BLNK $SINT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989872574806213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-11T17:58:17Z",
+        "content": "$RYCE you were fun today! Multiple entry alerts in chat! Guiding through the setups! Link to free chat in bio",
+        "sentiment": {
+            "TextBlob": 0.25833333333333336,
+            "NLTK": 0.8164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9218105673789978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-11T14:09:17Z",
+        "content": "$BIOL Loves these plays! In $1.88 out $2.62! We were early team! Come join us, link to free chat in bio. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2625,
+            "NLTK": 0.9017,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5681188106536865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-11T13:11:21Z",
+        "content": "Down Gappers: $SYMC $CYTR $HALO $SGYP $KOSS $TCRT $MARA $HTGMQ $NCTY $GERN $THMO $VTVT $BLNK Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979130625724792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-11T13:11:08Z",
+        "content": "PreMarket Gappers: $PRSO $RYCE $IMMR $AKCA $VRAY $KTOV $ADXSD $IMNN $KTOS $LGCY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998914361000061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-10T14:30:03Z",
+        "content": "$CASM new 52 week high $1.39 Bullish",
+        "sentiment": {
+            "TextBlob": 0.1481818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976710677146912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-10T14:23:50Z",
+        "content": "$CASM in $1.30, breaking 52 week high Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950928688049316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-10T13:13:09Z",
+        "content": "Down Gappers: $SINT $HDSN $MDCA $SNCR $MYO $PSHG $TGI $INFN $RKDA $LTBR $CTLP $NVAX Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986158609390259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-10T13:12:58Z",
+        "content": "PreMarket Gappers: $HEAR $VTVT $CLNE $AQMS $FSNN $ROKU $PI $UVAS $FNJN $MARA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990328550338745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-09T14:01:31Z",
+        "content": "$YVR in $1.25, like the chart! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989160299301147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-09T13:03:06Z",
+        "content": "Down Gappers: $PCN $EXTR $BLIN $VLR $BLNK $AAOI $PRPH $MNST $VERU Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998725950717926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-09T13:02:56Z",
+        "content": "PreMarket Gappers: $PSHG $ZAGG $ASXC $PXS $TOPS $FTFT $OGEN $TTOO $DRYS $GRPN $MNKD $NOG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998375654220581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-08T18:38:26Z",
+        "content": "$OGEN broke that $1.55! Looking for a run into power hour! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5242,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986109733581543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-08T18:25:54Z",
+        "content": "I like $OGEN, looking for a break over $1.55! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913758635520935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-08T14:42:59Z",
+        "content": "$SINT hit $2.85! Hope you caught my $1.34 entry alert in chat !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6892,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966095685958862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-08T13:10:23Z",
+        "content": "Down Gappers: $ARLZ $NVRO $HLTH $BIMI $ETM $IONS $HTZGQ $AKCA SN $ATOS $AVEO $XTLB Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985450506210327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-08T13:10:13Z",
+        "content": "PreMarket Gappers: $BLNK $RKDA $SEII $PI $YTEN $AEZS $RDHL $FRED $NSPR $TEUM $FSNN $UVAS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990894794464111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-07T12:49:12Z",
+        "content": "Down Gappers : $TSEM $CVIA $CREG $VLRX $IMTE $MARA $AWMS $CARM Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989997744560242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-07T12:48:54Z",
+        "content": "PreMarket Gappers: $FSNN $DARE $CYTO $NOG $USIO $UAVS $CLWT $CHEK $CRNT $CPST $VANI $ZSANQ $DRS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990161657333374
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-04T12:59:28Z",
+        "content": "PreMarket Gappers: $CREG $CLWT $AEHL $CYTO $TAOP $PIXY $OVAS $CYRX $RIOT $CCIH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987016916275024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-03T14:40:13Z",
+        "content": "No problem if you missed the scanner hits in the $1.40's on $VVPR! Bounce entry provided at $2.10! So you could still have made 100% gain!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5538,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968903660774231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-03T14:22:07Z",
+        "content": "$VVPR was awesome! Thankfully the scanner caught this in the $1.40's!! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8306,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9175634980201721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-03T12:55:43Z",
+        "content": "PreMarket Gappers: $IMTE $BOXL $SEII $IPDN $MYSZ $IPWR $APRN $QLGN $JXJT $CYTR $CREG Link to chat in bio, come join us! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991406202316284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-02T13:05:42Z",
+        "content": "PreMarket Gappers: $AVGR $USIO $MRSI $NANO $ABAC $TRVN $MARA $TNTR Link in bio for chat! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990012049674988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-05-01T13:15:40Z",
+        "content": "PreMarket Gappers: $NHWK $INGN $KPTI $UAVS $SCYX $NEPT $TNXP $CNET Come join us in chat, link in bio! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987469911575317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-30T13:18:27Z",
+        "content": "PreMarket Gappers: $GNPX $PLUR $CRME $ATOS $JMEI $NSPR $CENN $AVGR $DARE $DRIO $AKAO $IMGN $MYO  Come join us in chat, link in bio! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989073276519775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-26T19:54:06Z",
+        "content": "$GNPX amazing! Chat was talking about this in $5's! Love it! Link in bio for free room. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6541666666666667,
+            "NLTK": 0.9213,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9942981600761414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-26T13:47:33Z",
+        "content": "$SBET that was fast! Alerted at $2 in chat before it went moving to $2.80! Check out our free room, link in BIO! Bullish",
+        "sentiment": {
+            "TextBlob": 0.40625,
+            "NLTK": 0.6341,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998059093952179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-18T12:55:12Z",
+        "content": "PreMarket Gappers: $DCAR $MDGS $NHWK $NBEVQ $TLGT $CALA $TEUM $KTOS $CYTR $DRS $CPST $QLGN $HEAR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988152980804443
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-13T13:14:06Z",
+        "content": "PreMarket Gappers: $DPW $PLSE $MARA $NETE $SASI $NURO $ECYT $GERN $LGMK $RIOT $AMPE $AVGR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976200461387634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-11T13:12:16Z",
+        "content": "PreMarket Gappers: $VHC $LEDS $WSTL $CBAY $ATXS $APVO $DOMH $BTPH $CREG $GBR $ICON $PSHG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988875985145569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-10T12:54:43Z",
+        "content": "PreMarket Gappers: $WATT $PALI $NUWE $NZRD $SONN $TIO $DRS $KONE $HEAR $LSTA $UAVS $VBLT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985445737838745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-09T13:08:30Z",
+        "content": "PreMarket Gappers: $HEAR $CYTR $TRPX $VSTM $BIMI $SRAX $QNRX $CREG $MYSZ $AWSM $CYCC $TNTR $TEUM $IMNN $SCON $PTN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987596273422241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-06T12:59:20Z",
+        "content": "PreMarket Gappers: $LFIN $ATXS $BDRL $OPTT $PTX $PTN $CDXC $GCAP $NSPR $IZEA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993125200271606
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-04-05T13:09:35Z",
+        "content": "PreMarket Gappers: $NUWE $SNOA $DLPN $VTGN $ARDM $HMNY $APDN $UAVS $NETE $PETX $ANIX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989206790924072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-28T13:09:29Z",
+        "content": "PreMarket Gappers: $ANW $CLWT $ATXS $JXJT $TOPS $CPST $CALI $ONCS $AMTX $BB $GNCAQ $EDGE Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985291957855225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-27T15:23:04Z",
+        "content": "$UAVS top watch! In from $4.52!  440k float! Let's go ! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.453,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957208037376404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-27T13:21:18Z",
+        "content": "PreMarket Gappers: $NSPR $ASTC $PIXY $FENC $VXRT $HROW $CALI $PETX IDSA $CPST Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988433122634888
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-27T13:08:12Z",
+        "content": "$UVAS - AgEagle Aerial Systems Closes Merger with EnerJex; To Initiate Trading on NYSE as UAVS $UAVS $ENRJ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969190359115601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-26T12:55:40Z",
+        "content": "PreMarket Gappers: $DRIO $CVON $SSTI $BOSC $GERN $TOPS $SDD $MDGS $CTEK $RGSE $ONTX $BGI $VKTX Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989633560180664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-23T14:59:47Z",
+        "content": "$DSS - Document Security patent challenge to Apple revived, Bloomberg reports! Scanner caught this one at $1.25! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.508,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984172582626343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-23T14:02:29Z",
+        "content": "$BIMI was a beauty this morning! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9556578397750854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-23T13:06:16Z",
+        "content": "PreMarket Gappers: $CREG $DPW $MDGS $INPX $PSHG $RAVE $LGMK $GERN $PRSO $CALI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987189769744873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-23T11:16:08Z",
+        "content": "Low float shippers should be on watch today - $DRYS $TOPS $PSHG $SINO $GLBS $RLOG $GSL. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968411922454834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-22T13:15:50Z",
+        "content": "PreMarket Gappers: $OMEX $SNGX $CYTO $MNGA $TRHC $CREG $CEI $NVFY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989393353462219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-21T13:02:26Z",
+        "content": "PreMarket Gappers: $TGEN $EDSA $FORK $KA $ATXS $MARA $OHGI $CALI $AEZS $XTNT $AVGR $SEED Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998935878276825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-20T12:54:00Z",
+        "content": "PreMarket Gappers: $CRME $ARNA $LBCC $NUWE $EBO $MRNS $IDXG $ROKU $AMTX $PHIO $BTB $INPX $TRIL $MYSZ $ZSANQ $KTOS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984694123268127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-19T12:56:24Z",
+        "content": "PreMarket Gappers: $KLDX $HRTX $GERN $OPTT $RKDA $CLRB $DSS $OGEN $SONN $XTLB $DARE $THMO $MNGA $XTNT $VYNT $AVGR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983324408531189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-16T14:30:58Z",
+        "content": "$AMTX VWAP Play! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979658126831055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-16T12:50:59Z",
+        "content": "Gappers: \n$SEED $DXR $AMRS $HWSS $KODK $ZSANQ $MBII $AVGR $ATXS $JXJT $CETX $OPGN $CAPR $SMRT $AATC $CBAY $AUPH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983776807785034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-15T12:54:36Z",
+        "content": "Gappers: $SMRT $RUBI $MBX $KA $AATC $ICON $NUWE $TPIV $SRRA $GLMD $CDXC $CAPR $ABUS $DDD $HMY $BPTH $ONCS $TIO $AFMD $IDXG $RIOT $CYCC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991095662117004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-14T13:12:46Z",
+        "content": "Low Float Gappers: $RFIL $RKDA $THMO $NNDM $ABCD $AQMS $USAU $CWH $INTT $ALOT $MDB $TRIL $VYGR $KA $OPGEN $RWLK $GLBS $FTEK $MARA $LTBR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989997744560242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-09T14:11:32Z",
+        "content": "Gappers:$ESES $ZSANQ $ACRZ $PDLI $VRDN $ECYT $FNKD $CCXI $SNMZ $KA $PIXY $NMTR $TCS $ENT $LOCO $CEI $MYO $DPW $MARA $NSPR $BLNK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986444115638733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-08T14:07:55Z",
+        "content": "Gappers$IMRN $NETE $PCMI $EGY $ESRX $BBRG $SHLO $CBK $VANI $OGEN $EVOK $VSTM $RWLK $IDSA $AMRH $PFIE $NSPR $BSPM $EKSO $HNP $GNCAQ $THO $TEUM Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981153011322021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-07T13:49:39Z",
+        "content": "Gap up $APTO $MED $PIXT $ADSK $FRTA $CYTR $MOMO $CFMS $ZSANQ $PTX $MNGA $CPST $PACB $FORM $RGLS $IMMR $CCLD $TRVN $CLSD $SHIP $AMTX $SINT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988798499107361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-03-05T14:12:34Z",
+        "content": "Gappers: $CLSD $ONTX $ANIX $NMTR $CVRS $FATE $ZYNE $IDSA $AVGR $MYO $CCLD $NHWK $SRNEQ $ANTH $ATXS $SBSW $AKAO $ESEA $VERI $LGMK $PTX $NUWE Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984784722328186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-23T14:22:40Z",
+        "content": "Gappers: $BUFF $IMMR $ADMP $TTD $TCCO $BLCM $AFMD $MOMO $SPCB $MYSZ $NURO $GNC $CLIR $CHK $PRSO $MARA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988231062889099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-21T14:01:42Z",
+        "content": "Gappers for today: $AYTU $ANY $ANTH $BCLI $NETE $TTPH $SDPI $INPZ $CFMS $BSPM $ASXC $CVRS $ICON $ARMP $YVR $MBRX $VKTX Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986955523490906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-20T14:31:04Z",
+        "content": "$CVRS idea $1.28",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993643045425415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-20T13:49:47Z",
+        "content": "PreMarket Gappers: $CVRS $ACHV $CRVS $DPW $SLNO $HCFT $DCAR $PTX $RAD $MARA $GOOGL $SONN $NAK $NVAX $ATXS $VISL $MYSZ $POAI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984057545661926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-16T14:17:20Z",
+        "content": "Gappers: $SNCR $HGT $MTNB $ACER $CDLX $TST $BFRA $LXP $MULE $CALA $KW $AXL $NVAX $LINU $NSPR $AFMD $ATXS $VANI $FTFT $AVGR $APRN $ENPH $LTBR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986043572425842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-15T14:31:10Z",
+        "content": "$MBRX Idea $2.70 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992207288742065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-15T14:02:29Z",
+        "content": "Gappers: $AMRH $MBRX $ARGS $AMAG $PTEIQ $TRIP $ATRS $TNXP $CARA $TEVA $SHLM $ZSANQ $GNCAQ $ATXS $PXS $RIOT $DPW $MITK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981986880302429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-15T13:59:33Z",
+        "content": "$MBRX -  Moleculin Announces Breakthrough Discovery of a New Molecule for Cancer Treatment Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9507040977478027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-15T13:40:28Z",
+        "content": "$ARGS - Argos Announces Issuance of Patent Covering the Foundation for Manufacturing its HIV Immunotherapy Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9833599328994751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-14T14:00:30Z",
+        "content": "Gappers for today:  $FOSL $ZSANQ $CRTD $NSPR $TLND $ACCO $BSPM $WIX $TNDM $RIOT $FTFT $NETE $GROW $HYGS $DPW $XXII $TEUM $DRRZ $MARA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998433530330658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-13T13:54:30Z",
+        "content": "Gappers:$WMIH $GNC $ATXS $SISI $MAGS $MNGA $UAA $CENN $CBAY $ADXSD $GNCAQ $APRN $APTV $PYX $GLUU $MBRX $ARGX $CAPR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985753297805786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-12T14:06:04Z",
+        "content": "Gappers:  $AMBR $DARE $AMRK $FNJN $HGSH $INPX $CDLX $ICON $TRT $DO $USAU $FTFT $OHGI $AVGR $TAOP $GNCAQ $SEEL $LGMK $NOG $OCUP $MYSZ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980853796005249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-09T14:10:12Z",
+        "content": "Gappers :  $PYX $UIS $ESIO $MOBL $SEED $INTEQNPX $ROX $CFMS $PIRS $CTRL $SKYS $NVDA $INTEQ $PULM $XIN $CTIC $ARGS $DPW $HTFM $PLUG $NSPR $VTGN $MNOV Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980575442314148
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-08T14:20:40Z",
+        "content": "Gappers: $LGMK $TWTR.P $INFN $JTKWY $DRIO $HSTO $YVR $RSYS $HOS $DRYS $OPNT $RIOT $EMMA $CCIH $CTLP $DPW $NETE $PSHG $PRSO $TEUM $MARA $FTFT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998374342918396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-07T14:05:27Z",
+        "content": "Gappers for today! $TRNC $RIOT $SNAP $HYGS $DRYS $CLRB $DPW $GNW $MBRX $OPGN $NETE $CNET $MARA $MARK $TEUM $RSLS $CCIH $INPX $VSTM $ASXC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998067319393158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-06T14:11:42Z",
+        "content": "Gappers: $ASFI $CYAN $QTNTQ $ARGS $AKTX $LITE $OCLR $NAK $VYNT $BDSI $USAU Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988462924957275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-05T14:03:53Z",
+        "content": "Good Morning! Gappers for today:  $CAPR $MNOV $ECR $ARLZ $USAU $VANI $SINO $MYSZ $PSHG $TAOP $CNET $MARK $APRN $VSLR Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99118572473526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-02T14:10:14Z",
+        "content": "Gapper for today! $CDMO $COGT $VRDN $VIAV $AVGR $LBCC $MARK $AIPT $DECK $TVIX $KA $SNE $APRN $LEDS $ATHX $RCON $DRYS $THTX $VISL $VKTX Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978876709938049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-01T13:53:11Z",
+        "content": "Gappers: $AMFD $OPGN $LTBR $NCTY $USAU $TIK $ROK $ZNOG $KTOV $SGYP $NOK $EBAY $CENN $WKHS $KOPN $NBEVQ $TIO $MYSZ $RWLK $PSHG $AVGR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987480640411377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-02-01T12:22:09Z",
+        "content": "$LTBR   Lightbridge Awarded Key Patents in Europe and China for Innovative Metallic Fuel Design",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9962096214294434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-31T13:55:18Z",
+        "content": "PreMarket Gappers:  $CASC $KONE $IGC $POAI $DGLY $RCON $FWBI $BSPM $OPTT $DPW $MARK $AVGO $NURO $LMFA $IMMR $MBOT $SID Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984843134880066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-30T15:33:13Z",
+        "content": "$ARGS scanner caught it at $2.35! BOOM!! Halted at $3.06 atm Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998175859451294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-30T13:50:54Z",
+        "content": "Gappers: $HROW $AQ $MOBL $XWEL $CVM $TRI $CALD $MYSZ $KA $USAU $HCA $LMFA $MNTA $BSPM $CCIH $HTGMQ $PLUG $CYCC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990965127944946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-29T15:39:54Z",
+        "content": "Pays to be early! BOOM!! $OSN!",
+        "sentiment": {
+            "TextBlob": 0.244140625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8995358347892761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-29T14:36:18Z",
+        "content": "$AEMD idea $1.85",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939349293708801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-29T14:34:18Z",
+        "content": "$ARDN idea $1.57 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991975426673889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-29T14:24:14Z",
+        "content": "$PXS idea $1.87 $ICG idea $1.02 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993172883987427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-29T13:59:56Z",
+        "content": "PreMarket Gappers: $IMMR $KS $ABLX $AVP $BLDP $KDP $RCON $PXS $CASI $DPW $NCTY $CLRX $MNKD $TAOP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986990690231323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-26T15:24:20Z",
+        "content": "$CAPR BOOM! Did you catch my entry alert at $1.84?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975168704986572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-26T14:31:10Z",
+        "content": "$CAPR idea $1.84 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991925358772278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-26T14:29:58Z",
+        "content": "$LMFA $2.44 needs to hold. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999390721321106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-26T13:51:36Z",
+        "content": "PreMarket Gappers: $LMFA $TIK $TEUM $JAKK $CANF $MYO $MYSZ $CAPR $NEBV $STON $GALT $LBCC $MBII $CVO $GST $ANIX $TMBR $BSPM Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991909861564636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-25T13:55:55Z",
+        "content": "PreMarket Gappers:  $LTBR $RMGN $SMMT $PACB $USAU $SYRS $APDN $IOVA $MYSZ $GALT $PULM $ADXSD $OBLN $EMAN $OTIV Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988607168197632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-24T12:48:04Z",
+        "content": "$SPI idea $1.29 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993150234222412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-22T13:50:30Z",
+        "content": "PreMarket Gappers:  $LTBR $TTNP $JUNO $OPTT $SNDX $ANTH $TAOP $RUBI $ANIX $LFIN $AVTX $IGC $PSHG $ARGS $NVFY $TEUM $HTGMQ $ENLV $SRNEQ $RSLS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984815716743469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-22T13:09:13Z",
+        "content": "$TEUM Blockchain Partnership with AirFox\ud83d\udcc8 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943578839302063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-19T15:06:51Z",
+        "content": "$MRDN idea 1.15 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994644522666931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-19T14:38:37Z",
+        "content": "$IPCI idea 0.98 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990804195404053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-19T14:35:09Z",
+        "content": "$NUWE idea 4.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9693014621734619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-19T14:33:18Z",
+        "content": "$PZRX idea $0.54 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991152882575989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-19T14:13:06Z",
+        "content": "$YTEN idea $2.10. Needs to hold $2.06 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995160102844238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-19T13:47:34Z",
+        "content": "PreMarket gappers:  $FORD $PLXPQ $ACOR $EMAN $ELTK $MFH $SNMX $CNET $NUWE $OUCL $NBEVQ $YTEN $NEPT $CRBP $GALT $LGMK $GROW $PSHG $RIOT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978863596916199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-18T20:59:26Z",
+        "content": "My alerts for the day:  $MARA $SPI $LITB $RCON $ONCS $LMFA $TIO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988227486610413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-18T16:22:48Z",
+        "content": "$TIO Ascend Triangle Break, idea $1.34",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9646303653717041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-18T15:12:28Z",
+        "content": "$LMFA idea $1.63, $1.57 needs to hold",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993811845779419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-18T14:36:45Z",
+        "content": "$ONCS idea $2.01 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993372559547424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-18T14:35:35Z",
+        "content": "$RCON idea $2.71 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991218447685242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-18T14:28:48Z",
+        "content": "$MARA idea $4.15, $SPI idea $1.30, $LITB idea $2.60, $MYMD idea $0.30 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999045193195343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-18T13:49:02Z",
+        "content": "PreMarket Gappers:  $SPI $ESIO $LIVE $MARA $GNC $LITB $HCFT $GSL $PPDF $NBEVQ $ICON $BNSO $CLWT $TRPX $TIO $CNET $DPW $APDN $SGRP $FTFT Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985674619674683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-17T20:57:36Z",
+        "content": "Only 3 ideas today, but still money to be made! $PRSO $MYMD $AEZS Let's go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989743232727051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-17T14:39:18Z",
+        "content": "$AEZS idea $2.67 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989093542098999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-17T14:37:57Z",
+        "content": "$MYMD idea $0.25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970697164535522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-17T14:35:43Z",
+        "content": "$PRSO idea $1.64. Could fly over $1.63 Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984190464019775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-17T14:29:50Z",
+        "content": "$NURO idea $2.94 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988600015640259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T21:17:17Z",
+        "content": "Slow day today, still had some decent ideas:    $RCON $YUMAQ $DSS $GBLX $BDRL $RCON had potential of $2.86 from first idea. Bullish",
+        "sentiment": {
+            "TextBlob": 0.029166666666666653,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8673334717750549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T16:47:04Z",
+        "content": "$BDRL Idea $0.78",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997008740901947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T15:23:48Z",
+        "content": "$MRDN idea $1.24 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992415904998779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T14:47:07Z",
+        "content": "$LTBR idea $1.66 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991402626037598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T14:40:45Z",
+        "content": "$RCON idea $2.94 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992769360542297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T14:38:19Z",
+        "content": "$GLBX this could fly over $1.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971480965614319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T14:36:56Z",
+        "content": "$DSS idea $2.32",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932559728622437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T14:33:20Z",
+        "content": "$YUMAQ watch this over $1.75! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982309937477112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T14:29:31Z",
+        "content": "Blockchain ww: $SPI idea $1.68, $RCON idea $2.50, $IZEA idea $7.70 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995489716529846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T13:50:34Z",
+        "content": "PreMarket Gappers: $SPI $IZEA $AMCN $AREX $DSS $OTRK $ATHZ $QNRX $LADR $CAPR $TIO $IMMR $OCUL $RCON $BB Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989194869995117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-16T13:45:16Z",
+        "content": "$SPI was up over 200% PreMarket on Blockchain News! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987289309501648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-11T14:41:18Z",
+        "content": "Watch $DPW over $2.97 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984622001647949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-11T13:54:50Z",
+        "content": "PreMarket Gappers: $SECO $YECO $NBEVQ $RMGN $RELL $DPW $MEIP $FCEL $MDGS $SINO $MYSZ $TEUM $CLRB WW $DRYS $TOPS $PSHG $SINO $GLBS $RLOG $GSL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984866380691528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-05T14:17:43Z",
+        "content": "Gappers:$TIG $TAOP $CCIH $ANY $GLG $AEHL $CGA $SEED $RIOT $BSPM  Watch Low float china names- $BTB $KONE $FTFT $ZX $BNSO $LEDS $LINU $SEII Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999112069606781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-04T20:05:17Z",
+        "content": "$IDXG let's break $1.15 and fly Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982752799987793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-04T15:09:52Z",
+        "content": "$GLG could fly over $1.67 Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949464201927185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-04T13:56:03Z",
+        "content": "PreMarket Gappers:  $CNET $QNRX $STAF $COGT $POAI $CCXI $HTGMQ $ARMP $IMNN $AST $OTIV $MARK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986189603805542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-03T15:07:31Z",
+        "content": "Watch $TEUM over $3.25. Ascending Triangle Break Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969133138656616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-03T13:56:36Z",
+        "content": "Premarket Gappers: $SCG $HGSH $AVGR $JTPY $TEUM $TAOP $TRVN $OTIV $VTGN $RENN $CHCI $NOG $AMD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992250204086304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2018-01-02T14:25:44Z",
+        "content": "PreMarket Gappers: $TIO $SONN $NERE $SNGX $IGC $TEUM $FNJN $WATT $DPW $GROW $PME $TNXP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998448371887207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-29T14:33:18Z",
+        "content": "$SLS idea over $0.32 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989284873008728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-29T14:09:20Z",
+        "content": "PreMarket Gappers: $EDSA $PGNX $ATRA $GCAP $BVSN $TEUM $NVFY $BXTD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987188577651978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-27T14:31:00Z",
+        "content": "$LTBR idea 1.36 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988540410995483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-27T14:18:43Z",
+        "content": "Watchlist for today:  $TEUM idea $3.12 \n $IGC idea $1.31 \n $KTRA idea $1.09 \n $OTIV idea $1.67 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986993074417114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-27T14:06:42Z",
+        "content": "PreMarket Gappers: $WATT $DFFN $NIHD $NVFY $APPS $OTIV $HTGMQ $TENX $LBTR $RLOG $TEUM $LFIN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986434578895569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-26T14:07:07Z",
+        "content": "Watchlist for today: $IGC idea 1.51 $KTRA idea 1.24 $APTO idea 2.33 $ONVO $1.62 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986687898635864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-26T13:49:35Z",
+        "content": "PreMarket Gappers: $IGC $KTRA $EGC $APTO $ONVO $LFIN $IPWR $RLOG $FTFT $INSY $OTIV $RIOT $BMPX $NETE $WLB $LGMK $ZKIN $MYO $IMUC $MARA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982643723487854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-22T14:36:49Z",
+        "content": "$GBR Idea over $1.67 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989790916442871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-22T14:00:29Z",
+        "content": "PreMarket Gappers for Today: $TOPS $STAF $RLOG $GROW $PETZ $LMFA $LGMK $YRWN $VISL $CYTO $RXDX $SGH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978479146957397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-19T14:34:39Z",
+        "content": "$DPW idea $2.80 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989041090011597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-19T14:32:28Z",
+        "content": "$TEUM idea $1.75 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989244341850281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-19T14:30:28Z",
+        "content": "$LGMK idea 2.11 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993471503257751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-19T14:02:50Z",
+        "content": "PreMarket Gappers: $CREG $LGMK $OTIV $TEUM $ONTX $MEET $NEPT $NLST $VYNT $MDGS $AMPE $BASI $EYEG $OHGI $SEII $RLOG $MARA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984086155891418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-18T14:55:07Z",
+        "content": "$TEUM could fly over $1.14 Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996467113494873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-18T14:51:15Z",
+        "content": "$TEUM idea 1.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989544153213501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-18T14:07:11Z",
+        "content": "PreMarket Gappers: $OTIV $LFIN $BETR $VIPS $SISI $HSON $PHIO $SEED $DSS $MLNK $PIXY $NETE $NVFY $MARK $RIOT $MARA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975758194923401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-18T13:46:11Z",
+        "content": "Today's Watchlist: $APRN $LFIN $OHAI $PXLW $SRNEQ $IDEX $BW Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972596168518066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-15T14:46:19Z",
+        "content": "$CXRXF idea 0.97",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921948909759521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-15T14:37:09Z",
+        "content": "$ANY idea 2.45 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988808035850525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-15T14:34:35Z",
+        "content": "$EGLT idea 1.25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927226901054382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-15T14:32:43Z",
+        "content": "$TOPS idea 0.34 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998216450214386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-15T14:25:45Z",
+        "content": "Watch $PSHG over $6.99. Idea $7.01 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984431862831116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-15T14:09:13Z",
+        "content": "PreMarket Gappers: $PIXY $LFIN $NIHD $PSHG $EGLT $DCAR $RIOT $TOPS $DDR $GLBS $MARA $GROW $FCEL $AVGR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983658194541931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-14T15:10:43Z",
+        "content": "$AMPE $1.80's was key break! Awesome to see this $1.04 move! The team was all over this, click the link in bio!",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7163,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7316144704818726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-14T14:37:46Z",
+        "content": "$PALI idea 2.30 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993315935134888
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-14T14:36:21Z",
+        "content": "$IMUC idea here at $0.51, $0.50 must hold Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978805780410767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-14T13:50:40Z",
+        "content": "PreMarket Gappers: $IMUC $TEVA $MBOT $ONCS $IMNPQ.DL0922 $CRDF $SRAX $DRRX $SRRA $SAVA $TCCO $MARK $EKSO $NSPR $BIOA $SDRL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989182949066162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-13T16:02:23Z",
+        "content": "$CPAH needs to hold $5.13. Looking for entry over 5.48 or a bounce of $5.13 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997256398200989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-13T15:32:58Z",
+        "content": "$CPAH BOOM! Voice alert in  chat at $4.08! Let\u2019s go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4724,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984515905380249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-13T14:59:14Z",
+        "content": "$DPW Watch the break of $5.78. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996669590473175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-13T14:25:45Z",
+        "content": "$CAPR top watch out of the gate! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9638968110084534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-13T14:08:35Z",
+        "content": "Watchlist: \n$DPW idea $5.42, $NUWE idea $4.18 , $CAPR idea $1.93, $ANY idea $2.29 $INPX ww Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972776770591736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-13T13:43:11Z",
+        "content": "PreMarket Gappers: $DPW $FNSR $SPI $ANY $STRM $CAPR $NUWE $CMC $AMPE $IDXG $MNGA $VYNT $INPX $GMO $SDRL $DRRX $CARM Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990528225898743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-12T19:54:29Z",
+        "content": "Watch $DPW over $4.68 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985217452049255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-12T16:50:24Z",
+        "content": "$USIO was fun, scanner caught it at $2.64!",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994010865688324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-12T14:57:46Z",
+        "content": "$MRNS idea $7.66 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992332458496094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-12T14:40:06Z",
+        "content": "$AVTX watch over $1.95 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954406023025513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-12T14:27:27Z",
+        "content": "Watchlist: \n$IDEX idea 4.01 \n$TEUM idea 0.83\n$SDRL idea 0.33\n$KA idea 5.57\nAlso ww $PZRX Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990635514259338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-12T13:44:40Z",
+        "content": "Today's PreMarket Gappers: $KA $RPRX $GLYC $SDRL $TNXP $NVFY $RIOT $PHIO $IDEX $XNET $BAA $ARLZ $SAVA $NKAD $DPW Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998540997505188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-11T20:16:45Z",
+        "content": "Watch $RSYS over $1.04 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976588487625122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-11T16:17:51Z",
+        "content": "$NEOT idea $1.51 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990094900131226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-11T14:20:06Z",
+        "content": "Watchlist:\n$MYSZ idea $1.02,  $PZRX idea 0.51,  $DPW idea $3.70,  $GLBR idea $1.01 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986342787742615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-11T14:09:05Z",
+        "content": "PreMarket Gappers: $ARGX $BPMC $BLUE $MYSZ $RIOT $CBIO $NUWE $ANTH $VIRX $SPI $DPW $MLP $AKTX $CEI $VSTM $PHIO $IGC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998415470123291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-11T13:57:30Z",
+        "content": "Today's Watchlist: $MARK $MBVX $MRNS $PXS $XXII $PRSO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971632361412048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-08T14:23:32Z",
+        "content": "$VTGN needs a pullback; idea near $2.00 \n$GLBS idea $2.01\n$MYSZ idea over $0.95 Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999239444732666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-08T13:54:05Z",
+        "content": "PreMarket Gappers! $GLBS $STDY $TOPS $ANTH $SIGM $RLOG $FCRE $RPRX $CRDF $PXS %CBIO $MRDN $SHIP Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989883303642273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-07T15:24:59Z",
+        "content": "$IGC scanner is always early !",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9476719498634338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-07T14:55:30Z",
+        "content": "$VTGN idea 2.44 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989708662033081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-07T14:26:49Z",
+        "content": "$CETX idea 3.20\n$PALI idea 2.33\n$MYO idea 3.11\n$DPW idea 3.75\n$VTGN idea 2.09 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991900324821472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-07T13:46:04Z",
+        "content": "PreMarket Gappers: $SAGE $DPW $SEAC $MRNS $NHWK $VNCE $HEPA $RSYS $TLRD $PALI $DHCP $ZX $CEI $MYO $IGC $ONCE $VTGN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987234473228455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-07T13:18:35Z",
+        "content": "$DPW idea $3.68 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990426898002625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-07T11:59:12Z",
+        "content": "$DPW Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989049434661865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-07T11:58:10Z",
+        "content": "Watchlist for today: $ASTC $RSYS $PALI $VRA $MYO $DPW $VTGN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974669218063354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-06T14:50:31Z",
+        "content": "$CLRB idea here at $1.57 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988773465156555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-06T14:24:13Z",
+        "content": "Out of the gate ! $ICON $PALI $DPW $VKTX $CLRB $ZX $BIOC $VTGN Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997832715511322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-06T13:54:01Z",
+        "content": "PreMarket Gappers: $SEII $MDGL $WMIH $CLRB $AVAV $ZX $DPW $CREG $VKTX $LEE $GENE $VSAR $MARA $GLBR $NNVC $MARK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984099864959717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-06T13:49:09Z",
+        "content": "Watchlist for today! $BIOC $DPW $PALI $XCO $CASI $BLPH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924909472465515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-05T19:34:27Z",
+        "content": "$DPW! BOOM! @StockRockstar Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877806901931763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-05T15:38:58Z",
+        "content": "Scanner caught $PALI at $1.33! Lets go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972284436225891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-05T14:27:00Z",
+        "content": "$GALT idea $1.56\n$PALI idea $1.38\n$MYO idea $2.47 $GLBS idea $1.64  Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999337375164032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-05T13:56:25Z",
+        "content": "This mornings gappers! #MBRX #RVNC $IGC $PALI $COLL $DGLY $BIOC $GLBS $AVTX $PZS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999016523361206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-04T14:38:24Z",
+        "content": "Watch $GLBS over $1.20 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983893632888794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-04T14:09:59Z",
+        "content": "$DPW idea $2.65\n$MDGS idea $1.86 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989608526229858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-12-04T13:53:47Z",
+        "content": "GOOOOD MORNING! Gappers for today: $DPW $BGC $ASTC $IGC $RSLS $XNET $PXS $EXAC $MYSZ $AMPE $SES $CIE $MARA $GLBS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971281886100769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-30T14:26:13Z",
+        "content": "$MYSZ Idea $1.16 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989191293716431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-30T13:56:01Z",
+        "content": "Today's gap up! $SHLDQ $GBR $MYSZ $ADMP $NWY $KR $SNPS $CIE $BOSC $BUR $NUWE #HTGM $NSPR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971488118171692
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-29T14:40:13Z",
+        "content": "$BDRL idea 0.74 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999514102935791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-29T14:25:53Z",
+        "content": "Watchlist out of the gate: $DPW $CVO $MNKD $TEUM $PZRX $SCC $KTRA $CAPR $MARA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958826303482056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-29T13:47:02Z",
+        "content": "PreMarket Gappers: $CAPR $PZRX $NLST $INUV $AVGR $BAA $MARA $DPW $AMPE $PHIO $PETX $PSEED $INPX $GROW $SINO $KTRA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984725117683411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-28T21:05:51Z",
+        "content": "$BIOC $PZRX $DRS $AEHL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983766078948975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-28T15:27:14Z",
+        "content": "$PZRX BOOM! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997464656829834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-28T15:09:28Z",
+        "content": "$PZRX idea 1.31, 1.30 need to hold .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985446929931641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-28T14:36:52Z",
+        "content": "$DRS idea 3.40 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992832541465759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-28T14:32:37Z",
+        "content": "$PZRX idea 0.80 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992676377296448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-28T14:11:00Z",
+        "content": "WL out of the gate: \n$TEUM idea $1.60\n$BIOC idea $0.73\n$DPW idea $1.70\nDeadcat bounce scalp $CYTO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986764788627625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-28T13:51:01Z",
+        "content": "Gap up scanner for today! $TEUM $APEN $POAI $CBK $BIOC $EGLT $CREG $PTEIQ $CEI $ANIX $GLBR $SLS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987552165985107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-27T14:22:30Z",
+        "content": "Gap up scanner for today! $DPW $IDEX $TEUM $MARA $MGCD $CCLD $LMDA $GROW Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988111257553101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-24T14:45:47Z",
+        "content": "$TEUM watch over $1.00 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963699579238892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-24T14:30:51Z",
+        "content": "$CYTR idea over $2.26 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989491105079651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-24T14:23:47Z",
+        "content": "$DPW idea over $0.91\n$MARA idea over $3.54\n$SRAX idea over $6.85\nChina names back burners  $BTB $KONE $GLG $AEHL $BNSO $LEDS $SEII $CALI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984833598136902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-24T13:57:03Z",
+        "content": "Gap up Scanner for today! $MARA $DPW $FLXN $IMNN $IDEX $CALI $RIOT $DOMH $SD $TIO #Trading #Daytrading #trade #stock Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984863996505737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-22T14:42:56Z",
+        "content": "$DRRX WW gap to $1.84 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977426528930664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-22T14:32:23Z",
+        "content": "$KTRA watch over $1.19 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960882663726807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-22T14:27:26Z",
+        "content": "$KTRA idea $1.22\n$NURO Idea $2.32\n$EKSO idea $4.51\n$ELTK R/S WW\nChina sympathy pops off $SEII rip premarket: Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985264539718628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-22T13:59:20Z",
+        "content": "Todays Gap up scan! $SEII $VLRX $KTRA $CMC $EGC $ELTK $RAS $SPI $EKSO $AMPE $CCIH #trader #daytrading #stock Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997734546661377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T21:01:50Z",
+        "content": "Hope you caught my alerts on: $IMNN $SDRL $JXJT $KTOV $CREG $SGRP $SRAX $ACHV $CYCC $EKSO #trader #trading #stock Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985440969467163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T15:28:27Z",
+        "content": "Scanner caught $IMNN at $2.18, its not fair! Bullish",
+        "sentiment": {
+            "TextBlob": -0.4375,
+            "NLTK": -0.308,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993137121200562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T15:15:57Z",
+        "content": "$CYCC alert trigger $1.83 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987485408782959
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T14:55:16Z",
+        "content": "$ACHV watch over $1.50 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951908588409424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T14:48:03Z",
+        "content": "$IMNN idea over $3.60 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992187023162842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T14:44:46Z",
+        "content": "$SRAX watch over $4.48 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951554536819458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T14:32:36Z",
+        "content": "$SGRP watch over $1.21 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996787428855896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T14:31:00Z",
+        "content": "$CREG NEWS! Watch over $4.40 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963745474815369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-21T14:22:55Z",
+        "content": "WL out of the gate: \n$IMNN idea $3.45. Needs to hold $3.36\n$SDRL idea $0.3410\n$JXJT idea $7.00\n$FTFT idea $1.80\n$KTOV idea $2.33\nWW Shippers Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994542002677917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-20T21:25:04Z",
+        "content": "BOOOM! Scanner was on $IMNN at $2.18! Ran to $2.61! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994240999221802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-20T14:41:13Z",
+        "content": "Watch $TIO over 1.06 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975723624229431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-20T14:35:42Z",
+        "content": "Watch $RCON over $1.60! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989970326423645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-20T14:21:55Z",
+        "content": "$PSHG needs to hold $10.96,idea over $11 for a scalp. $TOPS idea over $0.61. $TIO idea over $1.17-1.20 Also WW $DRYS $SINO $ESEA $FSL $PANL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994662404060364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-20T14:11:26Z",
+        "content": "$PSHG is sailing again! Shippers on watch out of the gate! Sympathy >>  $TOPS $DRYS $SINO $ESEA $GSL $PANL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4738,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9839312434196472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-16T16:20:19Z",
+        "content": "Wow!! $KONE! Scanner caught it at 3.67!!! BOOM! #CHINA $BTB $CPHI $ZX $BNSO $LEDS $CNET $TAOP $ADD $AEHL $GLG Bullish",
+        "sentiment": {
+            "TextBlob": 0.476837158203125,
+            "NLTK": 0.7156,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.663804292678833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-16T16:09:05Z",
+        "content": "Hope you all were in on my $GBR alert! BOOM ! Lets go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7163,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9760304689407349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-16T16:04:24Z",
+        "content": "Wow! $KONE! Scanner caught it at 3.67!!! BOOM! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3814697265625,
+            "NLTK": 0.7156,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5746457576751709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-16T14:35:34Z",
+        "content": "Watch $GBR over $1.51 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982871413230896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-16T14:32:27Z",
+        "content": "Watch $ADD over 6.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8908429741859436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-15T15:50:37Z",
+        "content": "Scanner caught $NUWE at $3.98! It ran to hod $15.23!!! WOW",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.7718,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9657320976257324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-15T14:25:24Z",
+        "content": "Watchlist out of the gate! \n$PRSO $SPI $SORL $ARMP $SYNC $ZX $CAAS $CREG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997692346572876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-15T13:56:55Z",
+        "content": "GOOD MORNING! Here is the watchlist for today: $CASI $MARK $PRSO $LEJU $SORL $RLOG $JAGX $SNMZ. Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972572922706604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-14T21:56:30Z",
+        "content": "@Psylem We need to watch them all. They tend to run along side each other. Would like to see $PSHG run as it have been the \"Index\" this year Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944039583206177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-14T21:53:32Z",
+        "content": "Are the #shippers sailing again?\ud83d\udea2 They need to be on watch for tomorrow! Watch $RLOG $PSHG $DRYS $TOPS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975626468658447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-14T21:00:24Z",
+        "content": "Wow, $RLOG. Think the #shippers will be back in play tomorrow. Watch $RLOG $PSHG $TOPS $DRYS Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953657388687134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-14T18:04:49Z",
+        "content": "$PRSO idea $1.73 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991068243980408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-14T14:34:11Z",
+        "content": "$PRSO! Hope you all caught the $1.50 idea! Ran to HOD $1.85 BOOM! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5826,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985621571540833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-14T14:22:50Z",
+        "content": "Watchlist out for the gate: $PRSO looking for a pullback to 1.20s if not. Idea over $1.50 $ANIX idea $3.30 $SINO idea over 3.35! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995204210281372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-14T13:38:18Z",
+        "content": "Good morning all! Here is the watchlist for today: $APTO $NAK $SORL $DCAR $ZX $CHKE JAGX ! Lets go! #daytrading Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5826,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989557683467865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-13T15:11:24Z",
+        "content": "BOOM! $EKSO straight from the watchlist! Up $0.95 from first alert! Bullish",
+        "sentiment": {
+            "TextBlob": 0.28125,
+            "NLTK": 0.6093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978185892105103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-13T14:26:33Z",
+        "content": "Top watch out for the gate: $ASXC $NVFY $ARGS $EKSO!  Let's go! #daytrading #stock #market Bullish",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.3365,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962278604507446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-13T13:50:12Z",
+        "content": "$NVFY HUGE news and former runner! Trying to bull flag atm \ud83d\udcc8 Bullish",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.5147,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892460703849792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-13T13:34:27Z",
+        "content": "Good morning all! It's finally monday again! WL for Today: $BW $TAOP $EKSO $ITP $VKTX $XNET $LBCC #trader #stock",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9061940312385559
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-10T15:40:34Z",
+        "content": "Insane move on $CREG , i was prepared since scanner caught it at $4.97! Bullish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996101975440979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-10T14:26:37Z",
+        "content": "$TOPS top watch out of the gate! #Shippers friday! $DRYS $PSHG Bullish",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.3365,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933520555496216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-09T15:40:21Z",
+        "content": "$CREG was a monster today! My scanner caught it at $1.26! Got a small piece of the move. Love it! #china #chinacrazydays! Bullish",
+        "sentiment": {
+            "TextBlob": 0.265625,
+            "NLTK": 0.7482,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991034865379333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-09T13:55:21Z",
+        "content": "Today's gap up scan! Let's get this money! $OTIC $CALL $CVO $CMLS $CARM. #stock #trading #trader #market #gapup Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994766116142273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-08T14:22:28Z",
+        "content": "$ONCS is top MOMO watch right out of the gate! Need to hold VWAP at 2.13, looking for potential bull flag! #trader Bullish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.3365,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959031939506531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-08T14:17:09Z",
+        "content": "Premarket watchlist: $IZEA $ONCS $$MBI $HTGMQ! $ONCS was a swing from the $1.20s last Thursday! Lets make som money! #trading #daytrading Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972870349884033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-07T20:58:50Z",
+        "content": "$RLOG closing strong today! Got to love it! #shippers these are crazy days! $RLOG $PSHG $TOPS $PSV $DRYS Bullish",
+        "sentiment": {
+            "TextBlob": 0.13888888888888884,
+            "NLTK": 0.7891,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9929377436637878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-07T20:31:22Z",
+        "content": "Scanner caught $GSL at $1.55 \ud83d\udcc8 Nice to be early, be watching this one! #shippers $RLOG $PSHG $TOPS $DRYS #trader Bullish",
+        "sentiment": {
+            "TextBlob": 0.3625,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962504506111145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-07T15:36:13Z",
+        "content": "$RLOG touched the 38,2% fib, now back at VWAP. #SHIPPERS! $TOPS $PSHG $SHIP #trading #daytrading #stock #market",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968273043632507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-07T14:50:15Z",
+        "content": "$RLOG that pop! #SHIPPERS Now halted sitting at $0.92! $PSHG $TOPS $DRYS #trading #trader #daytrading Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992676377296448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-07T14:00:55Z",
+        "content": "Expect another morning with #Shippers stocks! Crazy days, watching watching: $DRYS $TOPS $PSHG $SHIP $RLOG, also WW $SINO $GLBS",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980586171150208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T16:11:20Z",
+        "content": "Watch $SHIP over 1.14! #Shippers monday! #trader #trading #daytrading $TOPS $GLBS $PSHG, $DRYS join the party! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978824257850647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T15:26:12Z",
+        "content": "$SDRL squeeze with oil running! #stock #trader #market #trading #daytrading Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998839795589447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T15:22:58Z",
+        "content": "$TOPS Ascending triangle break at $1.40! #Shippers #trading #daytrading $PSHG #DRYS #RLOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982768297195435
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T15:16:45Z",
+        "content": "Watch $TOPS here! #shippers",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5956433415412903
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T14:16:59Z",
+        "content": "$TOPS broke ascending triangle to HOD $1.19! #shippers #trading #trader #daytrading $PSHG $DRYS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925644993782043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T14:00:51Z",
+        "content": "$PSHG HOD, there is at fib at $15.62. #Shippers #trader #trading #daytrading #market $DRYS $TOPS $RLOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986928105354309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T13:48:34Z",
+        "content": "Premarket gappers, looks good for the #Shippers! $TOPS #DCIX Join the party $DRYS! #Trader #market #daytrading",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9751397967338562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T13:35:47Z",
+        "content": "$TOPS forming a Ascend triangle pre market! #Shippers #HOD #Trader #daytrading $PSHG $DRYS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9825349450111389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-06T13:14:52Z",
+        "content": "$TOPS new pre market high $1.08! #shippers #stock #trader #daytrading #Ship $DRYS $PSHG Bullish",
+        "sentiment": {
+            "TextBlob": 0.16818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998353123664856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-03T15:48:02Z",
+        "content": "$PSHG WOW! Shippers are back! Just insane from the r/s! #stock #trading #market #trader #WOW #shippersareback Bullish",
+        "sentiment": {
+            "TextBlob": -0.19375,
+            "NLTK": 0.5732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912219047546387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-03T15:33:25Z",
+        "content": "$INFI wow $2.70, nice from the break of $2.46! Scanner caught it at $2.37!",
+        "sentiment": {
+            "TextBlob": 0.51875,
+            "NLTK": 0.8011,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9701566696166992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-03T14:25:00Z",
+        "content": "$INFI over finally 2.46 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918302893638611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-03T14:20:14Z",
+        "content": "Watch $YVR for possible breakout her! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954853057861328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-11-03T13:53:11Z",
+        "content": "Watch $INFI for a break of 2.46! #trader #trading #tradetheticker #tradingquotes #daytrading #stock",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943869113922119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-25T13:15:22Z",
+        "content": "Did you catch $BONT yesterday? Our CEO alerted it at $0.3287 and it ran to 0.73! Join ut ascendtrading.net/plans/ !\ud83d\udcc8 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982624650001526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-24T13:29:08Z",
+        "content": "$RCON is my top watch this morning, looking for a test of the $2.60s. Join us in chat ! ascendtrading.net/plans/! Bullish",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.555,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995960533618927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-20T14:38:04Z",
+        "content": "Join us at AscendTrading today ascendtrading.net/plans/ We had $ADHD all planed out yesterday!\ud83d\udcc8 #stocks #stockmarket Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996356725692749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-19T13:46:25Z",
+        "content": "$ADHD watch VWAP here! VWAP= 1.89",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915565252304077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-19T12:55:32Z",
+        "content": "Looking for a gap fill to $1.90 on $ADHD. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996860027313232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-19T12:20:47Z",
+        "content": "Did you catch $DRIO yesterday?Ascend Trading scanner caught it at 2.49!Come join the best ascendtrading.net/plans/ Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7712,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9900153279304504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-17T13:39:45Z",
+        "content": "$RSLS 2.50 psych Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973258972167969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-17T13:22:56Z",
+        "content": "My top watch out of the gate are: $NEOT , $DFFN ,$RIOT! #stock #markets #money #stocks ascendtrading.net/plans/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910553693771362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-16T14:41:31Z",
+        "content": "Watch $KTOV over 2.85, flat top breakout! #trader #trading #stock #stockmarkets Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978873133659363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-16T13:26:37Z",
+        "content": "GM! Top watch out of the gate: $ASXC $YVR #trader#trading#tradetheticker#daytrading#stock #stockmarket #markets Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889209270477295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-13T14:23:01Z",
+        "content": "$ROKA is forming a ascending triangle on the daily, watch this closely! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9845770001411438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-13T13:16:23Z",
+        "content": "Both $ITEK and $BIOA have news and gap to fill, keep an eye these to today! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811313152313232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-12T14:11:20Z",
+        "content": "$BIOA need to hold 0.60, gap candidate! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995406866073608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-12T13:51:34Z",
+        "content": "$MYMD What a run up! Was late to the party but still got .20 cent profit \ud83d\udcc8",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.7177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775526523590088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-11T13:42:18Z",
+        "content": "Holy $CASI, up 90% today! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981788396835327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-11T13:26:12Z",
+        "content": "$RGSE bounced off VWAP, watch closely at open! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915722608566284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MrThorSo",
+        "timestamp": "2017-10-10T13:36:04Z",
+        "content": "$ROKA damn that was quick! Still made 0.20 cent. My order at 1.20 did not fill. Was in at 1.40 all out 1.60. Bullish",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": -0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995794892311096
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-02-04T19:50:01Z",
+        "content": "$AMC Do not sell. That's what they want. Even if you can't buy. HOLD. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931487441062927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-02-03T20:19:59Z",
+        "content": "$AMC Buy they are in panic mode. Just bought more Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992015957832336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-02-03T19:27:59Z",
+        "content": "$AMC Bought on the dip again. Stop selling Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981569647789001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-02-03T18:01:29Z",
+        "content": "$AMC Bought again. L F G Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8569170832633972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-02-01T21:30:03Z",
+        "content": "$AMC  Stop calling folks retards. Like that helps. Brother Sister friend",
+        "sentiment": {
+            "TextBlob": -0.9,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9916849136352539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-02-01T17:55:02Z",
+        "content": "$AMC Anyone promoting other stocks on this thread should be blocked. Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997486472129822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-30T17:18:12Z",
+        "content": "$AMC Naked shorting is the real problem. Hedge Funds can go screw themselves. They destroy companies and retail with this activity. Elon said it right \" can't sell a house I don't own so why can we sell shares we don't own\" . SEC fix the problem. Bullish",
+        "sentiment": {
+            "TextBlob": 0.19795918367346937,
+            "NLTK": -0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989738464355469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-29T21:59:05Z",
+        "content": "$AMC Hold the line. Please Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900051951408386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-29T20:57:24Z",
+        "content": "$AMC Hold the line Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978959560394287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-28T20:22:39Z",
+        "content": "$OPTT $DOGE.X $AMC  Why are you on this thread? Dude were fighting a battle do we care about a penny crypto? No. Get on board or leave please",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3313,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995465874671936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-28T20:17:04Z",
+        "content": "$AMC  Agent of the Hedge Funds. Folks invest money to go up Hedgies Lie . Albert V supports corruption at only that level. Not when we fight back.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6468950510025024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-28T20:03:32Z",
+        "content": "$BB $AMC  Loser. Hedge Fund operative",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982951283454895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-27T18:43:15Z",
+        "content": "$BB $AMC  please move to BB thread",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931574463844299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-26T00:39:22Z",
+        "content": "$KOSS  not for you. If your asking. Thing called DD. Try it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988389611244202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-26T00:38:04Z",
+        "content": "$ADTX  Ok. Thanks for asking. I don't switch sides that quick.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8192130327224731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-17T03:35:50Z",
+        "content": "$SENS  I go to my fund manager for investing advise. Only trade here, not looking for advise from stocktwits. Try it. You will be happy. But then again maybe advise from 19 year olds is your thing",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6656172871589661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-17T03:31:04Z",
+        "content": "$ZOM  does kay stand for Mary Kay? How about Jay17. Lets try that",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959562420845032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-09T03:03:06Z",
+        "content": "$LMFA  Just to be clear, we are traders right? Billion this Million that. Shut up. Your either making money or not. Want to invest go to your mutual fund manager. I made good money todaty don't care about the details. Success is not a debate. Banked or didn't, That's it. F__k.",
+        "sentiment": {
+            "TextBlob": 0.3464285714285714,
+            "NLTK": 0.7469,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989858269691467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2021-01-05T16:27:25Z",
+        "content": "$DOMH Anthony needs money, he has to pump it with a no on reverse split. He is hating the world right now. Give him a few days to sort it out",
+        "sentiment": {
+            "TextBlob": 0.042857142857142844,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991400241851807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-12-23T21:20:36Z",
+        "content": "$SNDL  Question is why are you and I here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983510971069336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-12-17T23:22:40Z",
+        "content": "$LGMK  waiting\ud83d\ude05",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811654090881348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-12-17T23:18:36Z",
+        "content": "$LGMK  welcome back\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989053010940552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-12-17T22:47:41Z",
+        "content": "$LGMK  Nice to see you post some info without the redtag\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8980931043624878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-11-24T00:12:05Z",
+        "content": "$IDEX This has too hurt the desperate ones. Really, pay the fee and move on. It was never forever Bullish",
+        "sentiment": {
+            "TextBlob": -0.19999999999999998,
+            "NLTK": -0.7501,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9935277104377747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-11-23T22:52:28Z",
+        "content": "$IDEX Has anybody reached out to JCapital? :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989047050476074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-11-10T19:46:41Z",
+        "content": "$SNDL  No. This Sndl Chain",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986497759819031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-10-28T15:06:45Z",
+        "content": "$IDEX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9644859433174133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-08-04T03:01:29Z",
+        "content": "$VISL  wow",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9925803542137146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-07-09T12:35:17Z",
+        "content": "$IDEX @JohonJohnson  .. are you payed based on posts per minute Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977331161499023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-07-08T01:36:26Z",
+        "content": "$DOMH  You got it. Might call that number tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871969223022461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-07-08T01:06:20Z",
+        "content": "$DOMH  foda",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6521637439727783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-07-08T01:04:41Z",
+        "content": "medschool.umaryland.edu/cvd...\n$DOMH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951627254486084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-04-02T21:24:33Z",
+        "content": "$DOMH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9661787152290344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2020-04-02T21:24:31Z",
+        "content": "$DOMH classlawgroup.com/securitie...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968138337135315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2019-03-22T19:48:29Z",
+        "content": "$PSHG  I think you got the digits wrong you meant 1.21",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980019927024841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2018-02-28T02:30:01Z",
+        "content": "$INPX  Put it in on the list folks sell at RS filing or NO Vote Period. Trust is shot to hell w/ CEO & try not to forget",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5525,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906601309776306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2018-02-28T02:25:39Z",
+        "content": "$INPXP Put it in on the list folks sell at RS filing or NO Vote period Trust is shot to hell w/ CEO & try not to forget",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5525,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939671754837036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2017-09-01T00:22:04Z",
+        "content": "$DRYS What CEO isn't a dirt bag were here too make money. I will take George over Jenny and the K man. I don't say a lot ladies and gents Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2584,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978035092353821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "oilsandschef",
+        "timestamp": "2017-07-07T17:38:01Z",
+        "content": "$THLD Just picked up 6000 shares",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953442215919495
+            }
+        },
+        "image_url": ""
+    }
+]

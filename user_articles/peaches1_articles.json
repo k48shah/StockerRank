@@ -1,0 +1,4104 @@
+[
+    {
+        "username": "peaches1",
+        "timestamp": "2021-06-28T14:35:25Z",
+        "content": "$CVM If you owned this at any point or own this now you are an idiot. That is all.",
+        "sentiment": {
+            "TextBlob": -0.10000000000000003,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997740387916565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-05-28T11:46:51Z",
+        "content": "@cudu when you lost everything in $SPHS you know you're a moron.",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988800883293152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-05-27T20:10:47Z",
+        "content": "$NYMX  Sophiris went to 0 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939566850662231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-05-27T20:04:36Z",
+        "content": "$SPHS LOOOOOOOOOOOOOOOOOOOOOL Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662739634513855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-03-31T20:40:21Z",
+        "content": "$SPHS oh boy. I think RW overshot here. He must have had some offers otherwise there isn't much reason to not reverse merge. Now that is off the table completely and he just lost the patent he is royally screwed and whoever had the offer is just licking their chops. I wouldn't be surprised if this drug is sold for next to nothing.  \n\nThe SP isn't that shocking seeing how its OTC. OTC the MM only has to fill 100 shares up or down regardless of the bid or ask so it is very easy to manipulate and can be challenging to get in or out. I think someone is unloading big time and they're using the MM to keep SP up as they dump their shares. OTC is junk it is a bitch to trade. You have to find the right routes and even then they can just skip your orders or barely fill you or take 5 mins to fill.. it's just a pain and you have to be very careful. Bearish",
+        "sentiment": {
+            "TextBlob": 0.04382086167800454,
+            "NLTK": -0.6728,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995750784873962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-03-13T13:40:53Z",
+        "content": "$SPHS 0.10 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995819091796875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-03-11T15:22:09Z",
+        "content": "$SPHS It takes a very special kind of person to buy a penny stock with no news coming, delisting warnings, no money and a massive p3 trial to do.\n\nCongrats everyone you wanted to lose all your money right?",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": -0.228,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991685152053833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-03-11T15:18:24Z",
+        "content": "$SPHS lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931710958480835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-01-23T16:21:39Z",
+        "content": "$SPHS This move is definitely not organic. It's orchestrated they are going to look to squeeze shorts over 1.20 and possibly get that gap fill to 2 and then from there, when everyone thinks it's going to the moon, dilute.  If they fail to get a squeeze here they're likely going to start exploring alternatives, that will not be seen as bullish by the bulls here.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972559809684753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-01-12T16:04:55Z",
+        "content": "$SPHS Next investor meeting Randy is inviting all bulls to participate",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988877177238464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-01-10T17:35:22Z",
+        "content": "@jcccc80 remember when $SPHS was 8.55?  \ud83d\ude02\ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966268539428711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-01-10T17:05:33Z",
+        "content": "$SPHS \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851556420326233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-01-10T15:57:12Z",
+        "content": "$SPHS bad days are over \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": -0.6999999999999998,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987724423408508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2020-01-10T15:49:51Z",
+        "content": "$SPHS Bulls when peaches shows up at the sphs board \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863874912261963
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-11-18T18:22:25Z",
+        "content": "$SPHS 0.50 looks like the bottom I'll get in there, lmao. Bearish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997144341468811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-22T14:04:50Z",
+        "content": "$SPHS homeless shelter's will also welcome you with open arms Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995904564857483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-22T13:40:46Z",
+        "content": "$SPHS Bulls: FDA news is coming guys let's go!!!! Reality: Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991783857345581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-22T13:37:29Z",
+        "content": "$SPHS what's the matter bulls? why aren't you buying? come on buy the dip! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910883903503418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-22T13:35:07Z",
+        "content": "$SPHS i fucking told you. always listen to peaches!!! Bearish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9125798344612122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-22T13:33:57Z",
+        "content": "$SPHS LOL ashahaha Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892347455024719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-22T13:29:11Z",
+        "content": "$SPHS If someone was collecting shares it's to pass a reverse split vote and reverse split this junk so they can reverse merge easily. Bearish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995540976524353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-22T13:27:13Z",
+        "content": "$SPHS uh oh! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9727221727371216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T20:16:31Z",
+        "content": "$SPHS nothing has changed? pretty sure a lot has changed, lmao. 700 patient 24-month p3 trial required at a minimum for approval. that is a significant change in what most of you thought. Bearish",
+        "sentiment": {
+            "TextBlob": 0.445,
+            "NLTK": 0.8162,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9696584939956665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T20:10:50Z",
+        "content": "$SPHS 100,000 shares dumped there at .52 somebody had enough. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995205402374268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T20:02:29Z",
+        "content": "$SPHS Patients won't be able to be cherry-picked anymore. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986421465873718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T20:01:13Z",
+        "content": "$SPHS 700 patients lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915095567703247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T19:56:46Z",
+        "content": "$SPHS \"Now that there is a clear and agreed upon regulatory pathway forward for localized prostate cancer, we can now focus on our plan to fund this study and the Company going forward,\" said Randall E. Woods, our president and chief executive officer. \"With the uncertainty of the regulatory pathway removed, we are advancing our discussions with multiple parties capable of funding the continued development of topsalysin.\"\n\nNow Randy can do some work, right!? The wording is important here.  He talks about how they can now proceed to fund the study and company and then quickly moves on to discussions with multiple parties.  He is not specific about these parties which makes you think that the majority of these parties are banks/tutes not partnerships.  \n\nTLDR: Dilution is inbound lookout SEC S1 Bearish",
+        "sentiment": {
+            "TextBlob": 0.14338624338624337,
+            "NLTK": 0.8858,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9663676023483276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T18:30:56Z",
+        "content": "@jcccc80 $SPHS  0.53",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948232173919678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T17:50:24Z",
+        "content": "$SPHS bag holders can lose 100% more Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995922446250916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T17:43:57Z",
+        "content": "@rulzart @jacksonbrowne This isn't about getting a drug approved for randy its about $$$. it doesn't matter how amazing the drug is if your company is getting bent over... reverse merge is 100% on the table unless someone is willing to put up big dollars via partnership which I seriously doubt. Or you'd have seen it by now.",
+        "sentiment": {
+            "TextBlob": 0.1291666666666667,
+            "NLTK": -0.5493,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940788745880127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T17:21:55Z",
+        "content": "$SPHS reverse merge is becoming more and more likely Bearish",
+        "sentiment": {
+            "TextBlob": 0.3625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99828040599823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-21T17:08:10Z",
+        "content": "$SPHS 2-year data required for FDA approval?! So they need funding for at least 3 years more like 4 years once they get the funding they need to find patients and then dose them and then collect data from them..  you're looking at 3-4 years, maybe more, before that data is even done...not including FDA approval. I cannot remember exactly but I believe around 2029 the exclusivity of the drug expires which means by the time this is approved there's a pretty slim time margin to profit.  \n\nThis is the best-case scenario, of course, there's the high likely hood this just fails P3 or gets poor data. \n\nI have no idea why anyone would be holding this there's just so much risk for so a little reward. You don't hold a penny stock that has no money and no obvious incoming catalysts. This is holding 0.50 on fumes. At this point its either you're going to break even or go broke. \n\nEven technically speaking the chart is horrible to be holding. 0.60,0.70,0.80,0.90, 1.10, 1.20 are all resistances Bearish",
+        "sentiment": {
+            "TextBlob": -0.037678571428571436,
+            "NLTK": -0.8118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992438554763794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-11T03:41:19Z",
+        "content": "$SPHS Oh boy, this is going to be a blood bath! The downside momentum is coiling and looking like it's about to unleash the red rocket. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861933588981628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-02T14:21:15Z",
+        "content": "$SPHS you know you're in trouble when the bulls decide they won't be publicly posting anymore because its too painful and they need to all huddle together for warmth in a private chatroom. \n\n\"don't worry, johnny! The share price is going to bounce back you're not going to lose your house.\"\n\"Yea, this drug is amazing!\"\n\"We're going to be rich!\"\n\"There is no drug like this!\" \n\"I am in $750,000 and not sweating. don't worry bud. We are good!\"\n\"just ignore the facts! and keep adding.\"\n\"my wife left me but I don't care I'm gonna be rich!\"\n\nSophiris longs next year: Bearish",
+        "sentiment": {
+            "TextBlob": 0.1731534090909091,
+            "NLTK": -0.5228,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6267083883285522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-02T14:10:11Z",
+        "content": "$SPHS imagine if the FDA shut down trials and wanted further data because of patient death. They've done if over a monkey's death before, and Topsalysin destroyed monkey prostates with high dosages of Topsalysin in animal testing! You never know what the FDA is thinking or going to do. Holding this and praying for your money is just another mistake, the first was listening to people here telling you to buy it at a \"discount\" how does that $1.50 buy feel now?  Or $2.50? This stock has no bottom. Bearish",
+        "sentiment": {
+            "TextBlob": 0.032407407407407406,
+            "NLTK": -0.9294,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993877410888672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-01T13:22:58Z",
+        "content": "$SPHS This is one bad PR away from being worth nothing. Good news will be attacked at one of the many resistances (short entries) thanks to the 18-month sell-off.  #homelessness",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.6256,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985081553459167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-10-01T13:11:07Z",
+        "content": "$SPHS https://fintel.io/so/us/sphs -%100 x14 'tutes aren't selling\" Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986396431922913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-09-29T14:16:16Z",
+        "content": "@jcccc80 $0.57 $SPHS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952464699745178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-09-27T19:27:22Z",
+        "content": "$SPHS Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9845742583274841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-09-25T13:00:09Z",
+        "content": "$SPHS *Stock price crashes* Stocktwits: somebody wants in... Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996703863143921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-05-21T15:32:39Z",
+        "content": "$OCUL who would have thought injecting something into an eye would cause an infection? Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962049126625061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-05-21T15:21:38Z",
+        "content": "$OCUL \"I knew it...\" - reading bulls justify buying this junk like-",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993661046028137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2019-05-20T20:55:38Z",
+        "content": "$OCUL Told ya. This trial had no chance of passing. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992376565933228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-22T16:42:50Z",
+        "content": "$SPHS   BP only gets prostate treatments  from sphs also pretty sure the drug didn't work in the bladder and other places it was tested on Bearish",
+        "sentiment": {
+            "TextBlob": 0.15625,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986843466758728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-22T16:42:03Z",
+        "content": "$SPHS can't compare it to biotechs like tbra that could huge buyouts when they had multiple targets the drug could be used on.",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925808906555176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-22T16:40:59Z",
+        "content": "$SPHS brain diseases.. most other biotechs have all the licenses to use it wherever that isn't the case with SPHS its only prostate so you",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967185854911804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-22T16:40:11Z",
+        "content": "$SPHS You have to remember that they only have the license to use topsalysin on prostate related diseases they gave away the license for",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983876943588257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T18:53:27Z",
+        "content": "$OCUL lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880340695381165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T18:26:41Z",
+        "content": "$SPHS can you imagine if you held this for two years and were down 80%? randy your thoughts? Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999288022518158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T18:17:32Z",
+        "content": "$SPHS Where are the institutions? 8% ownership only. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988062381744385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T18:08:16Z",
+        "content": "$SPHS .75 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982309877872467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:46:59Z",
+        "content": "$SPHS have dumped their shares..from what I have seen a lot of the \"hardcore bulls\" quietly dumped their shares and left a lot of youhanging Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997668862342834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:46:07Z",
+        "content": "$SPHS such a ground breaking drug yet only one tute with around  5% ownership? that's it? that is pathetic. most the tutes from p2a success",
+        "sentiment": {
+            "TextBlob": -0.04,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995743632316589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:43:54Z",
+        "content": "$SPHS the dust settles and they get some form of funding. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8606476783752441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:43:37Z",
+        "content": "$SPHS make insiders a lot more than a small buyout.. anyone who is telling you to buy this is a huge bag holder... you need to wait until Bearish",
+        "sentiment": {
+            "TextBlob": 0.2166666666666667,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912729859352112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:43:05Z",
+        "content": "$SPHS what are the options that are best for him and the other insiders? he won't do a small little buyout... a reverse merge would likely Bearish",
+        "sentiment": {
+            "TextBlob": 0.0875,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978510141372681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:41:55Z",
+        "content": "$SPHS If he can't find an amazing partnership which he has been trying to do for years in the next 6 months and can't reverse split... Bearish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": -0.4717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894363880157471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:41:07Z",
+        "content": "$SPHS dumping of shares he may be able to get reverse split approved. every day this goes down it gets worse and worse Bearish",
+        "sentiment": {
+            "TextBlob": -0.1138888888888889,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997557997703552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:40:14Z",
+        "content": "$SPHS He needs shareholder approval for reverse split idk if he has already gotten it I doubt it but with not many institutions and all",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986579418182373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:39:11Z",
+        "content": "$SPHS They basically have 1 institution, vanguard, who may be opposed to a reverse split. This is all retail owned basically which isnt good",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990037083625793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:35:24Z",
+        "content": "$SPHS Insiders options will not be affected by a reverse split. There is a reason why insiders hardly \"own\" any shares Bearish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.3357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894117712974548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:32:43Z",
+        "content": "$SPHS If randy does a reverse split and then dilutes you are all bankrupt. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996004700660706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-21T17:31:23Z",
+        "content": "$SPHS Can't go any lower, right? Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980657696723938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T17:22:06Z",
+        "content": "$OCUL @flopy posts are the exact same as last week except he changed 6 to 5, lol",
+        "sentiment": {
+            "TextBlob": 0.2625,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984896183013916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:07:53Z",
+        "content": "$SPHS He has to pull a rabbit out of his hat cause reverse merge looks like its on the horizon Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983499050140381
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:07:17Z",
+        "content": "$SPHS our share price and the thing that made most sense to our shareholders, aka me, is to sell off the drug and reverse merge. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944086670875549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:06:48Z",
+        "content": "$SPHS Personally I believe randy got f*cked by the random death and I expect him to come out and say we had an unexpected death destroyed Bearish",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": -0.9001,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999108612537384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:05:00Z",
+        "content": "$SPHS Look at the animal trials.. poor monkeys had their prostates destroyed. Bearish",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998547375202179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:04:28Z",
+        "content": "$SPHS Why wouldn't you do the same dose level that was effective first time round? hmm. why would you give such a lose dose in BPH? Bearish",
+        "sentiment": {
+            "TextBlob": 0.12999999999999998,
+            "NLTK": 0.1926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982261061668396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:03:40Z",
+        "content": "$SPHS They gave a dose of the drug into a tumor got a partial response then a second dose which was lower... and didn't get a response.. hmm Bearish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994989633560181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:01:25Z",
+        "content": "$SPHS that is lower than the previous dose says to me they are trying to be very careful not to show a SAE.. Bearish",
+        "sentiment": {
+            "TextBlob": -0.14833333333333332,
+            "NLTK": -0.079,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995386600494385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:00:53Z",
+        "content": "$SPHS SAE's. They destroyed monkey prostates in the animal trials and they have chose very low doses and then to to choose a follow up dose Bearish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.6801,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975560903549194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T16:00:15Z",
+        "content": "$SPHS I've said all along with how they've been dosing and the P2B second dose is more evidence of this they are very concerned with Bearish",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856151342391968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T15:54:12Z",
+        "content": "$SPHS The combined IQ of bulls here and the share price are now the same 94 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963005781173706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T15:36:49Z",
+        "content": "$SPHS potential phase 3 because if they can't get funding they'll probably sell the drug off and reverse merge. That's what these biotech do Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.607670247554779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T15:34:31Z",
+        "content": "$SPHS potential phase3 because if they can't get funding they'll probably sell the drug off and reverse merge. That's what these biotechs do Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7822746634483337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T14:44:08Z",
+        "content": "$SPHS 0.85 lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995415210723877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T14:35:46Z",
+        "content": "$SPHS Also it has been on SSR since this data came out so don't blame shorts. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3214,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921956062316895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-19T14:35:09Z",
+        "content": "$SPHS next support on level 2 is .78 ouch. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985771179199219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T20:21:25Z",
+        "content": "$SPHS There is no support at all after .96 this could get ugly. Bearish",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998003840446472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T20:17:19Z",
+        "content": "$SPHS This is only if 1 holds too if it cracks they could give up far more shares destroying the float and value Bearish",
+        "sentiment": {
+            "TextBlob": 0.09999999999999999,
+            "NLTK": 0.0038,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996322393417358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T20:16:57Z",
+        "content": "$SPHS If this got up to around 4 and they diluted around 4 for 30m they'd add around 7.5m shares verse 30m at 1 that is huge. Bearish",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.952595055103302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T20:14:14Z",
+        "content": "$SPHS Diluting at $1 is 50% more shares than diluting at $2. 30 million shares verse 15 million shares. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7564,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935892820358276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T20:12:45Z",
+        "content": "$SPHS a lot has changed. SP crashed on data that was suppose to propel it forward.. now you may have to dilute at these extremely low levels Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3384,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993222951889038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T19:50:12Z",
+        "content": "$SPHS If buyout is RW end game for this drug he pretty much has to dilute or he has to find private funding. Bearish",
+        "sentiment": {
+            "TextBlob": 0.012499999999999997,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996346235275269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T19:49:17Z",
+        "content": "$SPHS If RW gives away US licenses for funding for P3 it takes buyout right off the table. They have nothing else without them. Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881815314292908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T18:16:13Z",
+        "content": "$OCUL and we have 4s Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6944487690925598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T17:23:15Z",
+        "content": "$SPHS Bulls are beyond help don't listen to a thing they say. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9737052321434021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T17:22:52Z",
+        "content": "$SPHS Even if they announce a partnership if it were truly a good deal it would run for days/weeks/months after that. No reason to gamble. Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997708201408386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T17:21:45Z",
+        "content": "$SPHS You can't buy this and hope for a partnership if they decide to dilute you'll be down 50% at least you have to sit back and wait. Bearish",
+        "sentiment": {
+            "TextBlob": -0.15185185185185188,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986306428909302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T17:20:26Z",
+        "content": "$SPHS Once they get $$$ and fda guidance on p3 it will be another year at least before its completed.. You're probably looking at 2020 Bearish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996518611907959
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-18T17:19:27Z",
+        "content": "$SPHS Even if you want to buy this and believe in this drug there is no near catalyst. The very least they need to get $$$ for P3 Bearish",
+        "sentiment": {
+            "TextBlob": -0.22,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993578791618347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T15:42:35Z",
+        "content": "$SPHS The writing was on the wall and you guys continuously ignored it. The last step  will be a reverse merge. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989595413208008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T15:40:53Z",
+        "content": "$SPHS RW isn't a failure you guys are. He has done the job he was brought in to do. He increased the value of a worthless drug Bearish",
+        "sentiment": {
+            "TextBlob": -0.5583333333333333,
+            "NLTK": 0.5109,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9803943634033203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:54:28Z",
+        "content": "$SPHS \"I'll take the drug that gives me a 27% chance to prevent my cancer from growing for 6 months\" said no one ever Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9667853713035583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:46:23Z",
+        "content": "$SPHS Now want the SEC filings I am sure Randy will give himself a bonus for a successful p2b trial! Bearish",
+        "sentiment": {
+            "TextBlob": 0.4458333333333333,
+            "NLTK": 0.8805,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5114898085594177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:18:39Z",
+        "content": "$SPHS a drug that may work for 6 months in 27% of patients! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891219735145569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:17:34Z",
+        "content": "$SPHS shows that tops is pure junk on its own. Did absolutely nothing with a second dose.. You hold junk you get junk back. Gratz!",
+        "sentiment": {
+            "TextBlob": 0.20285714285714285,
+            "NLTK": 0.7644,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994086027145386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:16:36Z",
+        "content": "$SPHS Like I said from the beginning the people who made this drug recommended it to be used with radiation as a combo treatment this data Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989486575126648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:15:32Z",
+        "content": "$SPHS There is no positive spin on this data. It is absolute junk. Bearish",
+        "sentiment": {
+            "TextBlob": 0.04318181818181819,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998151659965515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:14:50Z",
+        "content": "$SPHS  data show that 27% of the patients who receive a single administration of top may avoid or delay the need for alternative treatment Bearish",
+        "sentiment": {
+            "TextBlob": 0.2142857142857143,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977287650108337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:13:43Z",
+        "content": "$SPHS  Additional benefit was not observed on targeted biopsy six months after re-treatment with a second administration of topsalysin. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904026985168457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:03:45Z",
+        "content": "$SPHS This is horrible news. The drug stopped working....horrible news Bearish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997938275337219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-17T14:01:58Z",
+        "content": "$SPHS Well well well peaches right again Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985889792442322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-14T23:35:30Z",
+        "content": "$OCUL when you realize peaches was right Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905444383621216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-10T20:52:16Z",
+        "content": "$OCUL The market is expecting the glaucoma data to fail and this to drop to sub penny Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996389150619507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-10T16:54:48Z",
+        "content": "$TMBR lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925546050071716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-06T14:22:17Z",
+        "content": "$OCUL 5.12 pre-market Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960434436798096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-05T18:06:36Z",
+        "content": "$OCUL 5.70 support broke and it closed beneath it. If 5.70 confirms as resistance you're going to see 5.25 and then if that fails 5 then 4s Bearish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903048276901245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-04T21:08:39Z",
+        "content": "$OCUL buy more right, bulls?",
+        "sentiment": {
+            "TextBlob": 0.39285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858353734016418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-04T16:24:34Z",
+        "content": "$OCUL \"Safest bet in all of biotech guys!\" Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5492276549339294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-04T16:21:14Z",
+        "content": "$OCUL Everyone bullish here, lol. Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976040720939636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T19:08:11Z",
+        "content": "$OCUL Bulls: Come on guys FDA approvals coming!!! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937824606895447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T19:03:53Z",
+        "content": "$OCUL Those 4M shares short are really feeling it... Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4576,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9208799600601196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T16:37:45Z",
+        "content": "$OCUL 5.26 to 6.88 then when the news actually hit the \"insiders\" sold. You all got played.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9471752047538757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T16:36:51Z",
+        "content": "$OCUL the news was leaked. OCUL has 4 business days to make material news public. On the 4th day of 3 large green days prior news came.",
+        "sentiment": {
+            "TextBlob": 0.0035714285714285657,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9553605318069458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T16:24:49Z",
+        "content": "$OCUL Y'all should have sold immediately when this was up only 1.4% premarket. red flag. Instead of calling people \"amateurs\" for selling Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991739392280579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T16:23:43Z",
+        "content": "$OCUL So many excuses by longs here.. oh we would have been at 8 dollars if not for early fda approval...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993000030517578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T16:22:26Z",
+        "content": "$OCUL Nothing is better than being blocked by a hardcore bull who bashed me non stop only to find out peaches is always right. Bearish",
+        "sentiment": {
+            "TextBlob": 0.2619047619047619,
+            "NLTK": -0.6914,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7412452697753906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T16:17:37Z",
+        "content": "@CharlieeMunger @No_Funkers @Hotsushiking eye drops are like 20 bucks. idk what this other method costs but if its cheap $ocul is in trouble",
+        "sentiment": {
+            "TextBlob": 0.025000000000000005,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983250498771667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T14:30:13Z",
+        "content": "$OCUL Longs always blame shorts instead of themselves. Shorts are the reason you see stocks go from $1 to $140. Shorting is a necessity",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945277571678162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T14:28:08Z",
+        "content": "$OCUL Looking like its opening up with SSR on FDA approval",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993423342704773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T13:54:53Z",
+        "content": "$OCUL Should have listened to peaches Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957055449485779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T13:48:30Z",
+        "content": "$OCUL LOL Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880340695381165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T13:33:04Z",
+        "content": "$OCUL How much will it tank when everyone who bought it and listened to so called \"doctors here sell? hmmm $6? $5.50? $5? $4.6? Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991645812988281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T13:31:28Z",
+        "content": "$OCUL shorts are squeezed Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911541938781738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T13:30:55Z",
+        "content": "$OCUL What did I say? Amazing news and it goes red! This isn't even amazing news FDA approval on pain only so far. Never play FDA approval. Bearish",
+        "sentiment": {
+            "TextBlob": 0.26000000000000006,
+            "NLTK": 0.3859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903504252433777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-03T13:22:34Z",
+        "content": "$OCUL damn those shorts sure got squeezed up 1.4% Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911333918571472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-02T16:45:26Z",
+        "content": "$OCUL There! manufacturing deficiencies fixed. 3rd time is the charm. Bearish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5891634225845337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-02T16:43:34Z",
+        "content": "$OCUL I'm screwed on monday? I hope this thing takes off and I can make a ton of money on it long and short. Holding for FDA approval is LOL",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7456,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960534572601318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-02T16:15:28Z",
+        "content": "$OCUL Versus stand of care their drug was no where near good enough in p2. It got annihilated. Pump to prepare for a massive short attack Bearish",
+        "sentiment": {
+            "TextBlob": 0.15999999999999998,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994454979896545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-02T16:13:56Z",
+        "content": "$OCUL CEO pumping it hard because he knows AF and his shorts are going to attack the hell out of the data which has no chance of approval Bearish",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996954202651978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-02T16:12:54Z",
+        "content": "$OCUL If I were to bet Glaucoma trial \"beat\" the placebo, which is meaningless, but overall junk not enough for approval, like p2b. Bearish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.2572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999752938747406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-01T16:45:41Z",
+        "content": "$OCUL failed the other time. Just because one drug worked doesn't mean they all will. Such ignorance. That's a stocktwits doctor for you.",
+        "sentiment": {
+            "TextBlob": -0.234375,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992503523826599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-01T16:44:16Z",
+        "content": "$OCUL The dextenza plug was also used in Allergic Conjunctivitis, which bombed. Even if Dextenza is approved it means nothing. Worked once",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999321460723877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-01T16:41:06Z",
+        "content": "$OCUL My logic is based on my ability to read. Maybe you should try it. The delivery system isn't the same. Further detail is found in",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6116472482681274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-01T16:29:44Z",
+        "content": "$OCUL Such an ignorant comment to say any drug can be inserted into the delivery platform. The plug changes based on the treatment/drug.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986262321472168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-01T16:23:38Z",
+        "content": "$OCUL I think the glaucoma trial is junk and would not be surprised to see it had no significant medical benefits and is being axed. Bearish",
+        "sentiment": {
+            "TextBlob": -0.029166666666666664,
+            "NLTK": -0.194,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999794065952301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-01T16:22:29Z",
+        "content": "$OCUL With that said it also bounced off support after regaining it. It's not like it just randomly spiked out of the blue.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.1506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9590649008750916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-12-01T16:18:50Z",
+        "content": "$OCUL chart is saying the news is positive. Any news they receive has to be made public within 4  business days. Looks leaked.",
+        "sentiment": {
+            "TextBlob": 0.11363636363636363,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9791157841682434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-20T18:55:30Z",
+        "content": "$SPHS any whiff that the data is poor & I wouldnt put it past randy to dilute & get some $ making sure he can explore strategic alternatives Bearish",
+        "sentiment": {
+            "TextBlob": -0.05000000000000001,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981458187103271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-20T18:46:15Z",
+        "content": "$SPHS Called resistance and it failed at the first one this is all short setups everyone adding is just getting sucked in and slapped. Bearish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997095465660095
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-20T18:41:52Z",
+        "content": "$SPHS Bulls:\"Hello, Robinhood I've made a huge mistake. I accidentally bought some shares SPHS and didn't mean to. Give me my money back!\" Bearish",
+        "sentiment": {
+            "TextBlob": 0.02916666666666669,
+            "NLTK": -0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997445821762085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T16:04:44Z",
+        "content": "$SPHS \"I doubled my position under 2\" - lol. You gonna double it under 1.20? Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941307902336121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T16:03:02Z",
+        "content": "$SPHS I will also point out that in between the two data readouts in p2a randy diluted and crashed SP all the way down to .65. Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993906021118164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T16:01:33Z",
+        "content": "$SPHS absolutely terrible risk reward and even worse if you didn't get in a the lowest possible price.. before news.. Bearish",
+        "sentiment": {
+            "TextBlob": -0.4666666666666666,
+            "NLTK": -0.7585,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998953104019165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T16:00:21Z",
+        "content": "$SPHS When biotechs get bad news they go down 60-90% immediately unless a buyout happens which is rare they open up 20-30% typically. Bearish",
+        "sentiment": {
+            "TextBlob": -0.1444444444444444,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949302077293396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T15:59:13Z",
+        "content": "$SPHS Then these junk biotechs get pumped hard and the CEOs  who are aware of this, which randy is, will add fuel which he did. Bearish",
+        "sentiment": {
+            "TextBlob": -0.020833333333333343,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9706793427467346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T15:58:28Z",
+        "content": "$SPHS Months after. You know why because big players will not risk being stuck in the bad news. Good news comes out rumors come out",
+        "sentiment": {
+            "TextBlob": 3.700743415417188e-17,
+            "NLTK": 0.2392,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9832035303115845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T15:57:18Z",
+        "content": "$SPHS You don't play binary events. That is pure stupidity. When SPHS ran from 1.70 to 8 it did it AFTER the data readout. Bearish",
+        "sentiment": {
+            "TextBlob": -0.19285714285714284,
+            "NLTK": -0.6041,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996763467788696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T15:55:28Z",
+        "content": "$SPHS Bulls \"don't worry it's safe jump on in!\" Bears: \"Umm, you guys are idiots, pass.\" Bearish",
+        "sentiment": {
+            "TextBlob": -0.08750000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995112419128418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T15:39:21Z",
+        "content": "$SPHS no bounce off 1.80 yesterday and the tutes pulled their walls next stop 1.60 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973182082176208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-15T15:38:03Z",
+        "content": "$SPHS pure junk, lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.5071428571428571,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997081160545349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-14T20:39:44Z",
+        "content": "$SPHS Oversold? Chart is as bearish as you can get and it just crashed through 1.90 support. No good news means this is going down down down Bearish",
+        "sentiment": {
+            "TextBlob": -0.20416666666666666,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997887015342712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-14T18:21:44Z",
+        "content": "$SPHS Bag holders right now. Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9793446660041809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-14T18:16:21Z",
+        "content": "$SPHS 1.79 retail wall gonna get taken out then its going to be a fire sale. Sleepless nights lay ahead for SPHS bag holders. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953430891036987
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-14T17:44:35Z",
+        "content": "$SPHS None of you would listen when I said look at the chart now look at you.. in the red, lol. If 1.8 level cracks its a long ways down. Bearish",
+        "sentiment": {
+            "TextBlob": 0.1486111111111111,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990204572677612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-11-14T17:39:42Z",
+        "content": "$SPHS Mr. Woods gets 500k/y +127k bonus which he awards himself then another bonus of 3-400k options. He don't care. He has no risk here. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6214,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991016149520874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-10-11T14:16:49Z",
+        "content": "@nygiants11 @CharlieeMunger Hospitals don't care. They care about costs. Opioids cost pennies whereas TRVN costs $$. No hospital will use it Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7548,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976606369018555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-08-07T14:56:57Z",
+        "content": "$BLPH This is why you don't play data. Data was poor trial was recommended to be halted, opened up down 80% Bearish",
+        "sentiment": {
+            "TextBlob": -0.2777777777777778,
+            "NLTK": -0.5165,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990313053131104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-06-25T13:02:48Z",
+        "content": "$SPHS LOL Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894008040428162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-06-14T16:50:52Z",
+        "content": "$PIRS Yep looked like 5.50 was going to break this time. Now if 5.50 doesn't regain by days end 4.50 will be the next stop. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958245754241943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-06-12T16:40:49Z",
+        "content": "$PIRS If 5.50 breaks 4.50 is pretty likely to happen. The chart is extremely bearish. The only thing that will save this is news. Bearish",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997183680534363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-06-12T16:36:57Z",
+        "content": "$TMBR Looks like it's about to tank again. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964229464530945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-06-12T16:33:07Z",
+        "content": "$TMBR Love how this did exactly what I said it would. Learn to read the damn charts and don't listen to these bag holders.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9918510317802429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-20T13:48:44Z",
+        "content": "$TMBR can't even get close to resistance, worthless.",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994288086891174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-20T13:31:35Z",
+        "content": "$TMBR slow day if it can break .40 and it could really run on patent news they desperately needed.",
+        "sentiment": {
+            "TextBlob": -0.2333333333333333,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993140697479248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T19:17:44Z",
+        "content": "$TMBR not much buying going on Bearish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995802044868469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T18:55:35Z",
+        "content": "$TMBR lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925546050071716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T18:03:17Z",
+        "content": "$TMBR everything depends on a extremely difficult primary endpoint on a p3 trial there is no reason to be holding this until that data comes Bearish",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": -0.6115,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993516802787781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T18:02:30Z",
+        "content": "$TMBR how's a company bullish LT when they failed the primary endpoint for the upcoming p3 trial in the p2 trial that had 80 patients? Bearish",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995298385620117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T17:57:43Z",
+        "content": "$TMBR Shorts in complete control here. down-trending chart on-top of extremely bearish setups. Bearish",
+        "sentiment": {
+            "TextBlob": -0.012499999999999997,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992121458053589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T17:42:39Z",
+        "content": "$TMBR Stop losses were activated and now shorts took control this is what happens when you listen to the ST pumpers. you get caught holding. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879609942436218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T17:40:55Z",
+        "content": "$TMBR Resistance was .40 it didn't even hit that lower high and then it didn't hold .27/8 support level... the next support level is .20 Bearish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": -0.6923,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991291165351868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T17:35:34Z",
+        "content": "$TMBR \"I never panic sell\" share price was just .38 and you didn't sell. You don't sell period, lmao.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": -0.3252,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886593818664551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T15:25:34Z",
+        "content": "$TMBR Up next is BPMX. maybe they get delisted first, lol. Stop listening to these bagholders, noobies. Bearish",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993650317192078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T15:24:41Z",
+        "content": "$TMBR to pass P3's with the IGA scoring as a primary endpoint. Then they fail it in p2 with a large trial size. Derm and FOMX also fail it. Bearish",
+        "sentiment": {
+            "TextBlob": -0.09642857142857142,
+            "NLTK": -0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996452331542969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-19T15:23:15Z",
+        "content": "$TMBR I laugh every time this spikes and people say f*ck it i'm buying 100k shares. Their CFO even said that BP makes it way too hard to Bearish",
+        "sentiment": {
+            "TextBlob": 0.004166666666666652,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995890200138092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-03-05T14:07:50Z",
+        "content": "$DERM next up is $TMBR who've stupidly shown they can't pass the IGA scoring in their p2 trials, lol. Bearish",
+        "sentiment": {
+            "TextBlob": 3.700743415417188e-17,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992066025733948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-02-05T21:39:30Z",
+        "content": "$SPHS youtube.com/watch?v=5SSFASO... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921579360961914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-02-05T21:15:21Z",
+        "content": "$MYMD this was a great short I missed it watching netflix though this market is boring. Bearish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666665,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993091821670532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-02-05T13:40:55Z",
+        "content": "$EYEG @Hundredtoamillion you right now.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9706820249557495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2018-01-05T19:42:52Z",
+        "content": "$EYEG  the concern lies with @hundredtoamillion being in this. I think the last time he was part of a successful trial was SPHS BPH and that",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970671534538269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-12-28T22:00:30Z",
+        "content": "$EYEG shorts have ssr tomorrow gotta squeeze them out of their homes \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981423556804657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-12-28T21:32:40Z",
+        "content": "$EYEG p2a data solid beat the placebo and similar to standard of care. P2b data coming q1 2018. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949349761009216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-12-28T20:15:26Z",
+        "content": "$EYEG Picked up 10k here. Looking to hold for a month or so ride up to p3 data. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998839795589447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-12-23T00:03:08Z",
+        "content": "$OCUL SEC Subpoena is no laughing matter. The fact is people knew before ocul made public the NDA was denied. question is how long fif ocul Bearish",
+        "sentiment": {
+            "TextBlob": -0.05000000000000001,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980453252792358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-27T16:45:26Z",
+        "content": "$TMBR everyone here on dilution it\u2019s gonna bounce watch! Me: Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.975809633731842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-27T16:44:04Z",
+        "content": "$OCUL *stares at bulls* Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9760022759437561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-21T19:41:52Z",
+        "content": "$TMBR why don\u2019t buying a dictionary so you can learn the difference between lose and loose -lose money like bpmx bulls -loose like your wife",
+        "sentiment": {
+            "TextBlob": -0.07692307692307693,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983397722244263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-21T19:38:30Z",
+        "content": "$TMBR yea keep buying guys it\u2019s only money what worst that could happen it drops down another 50%?",
+        "sentiment": {
+            "TextBlob": -0.38518518518518524,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997937083244324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-21T19:28:23Z",
+        "content": "$TMBR but not you right that? you\u2019re happy as a clam with your -75% unrealized gains?",
+        "sentiment": {
+            "TextBlob": 0.5428571428571429,
+            "NLTK": 0.8594,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9724876880645752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-21T15:01:30Z",
+        "content": "$TMBR for .15 you get 3 shares \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9843636155128479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-21T14:44:31Z",
+        "content": "$TMBR who could have predicted this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978971481323242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-09T15:44:24Z",
+        "content": "$TMBR offering before p3 data. They won\u2019t have money for rosacea p2/3 basically this will be even cheaper in 6 months. We could see sub .10 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966713786125183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-09T15:43:13Z",
+        "content": "$TMBR so they\u2019re getting 17m at a tbd price which tells your they\u2019re only doing 500 patients per phase and also they will need to do another Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992488026618958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-07T22:33:31Z",
+        "content": "$OCUL 5.05 low lol",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987437129020691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-07T22:28:26Z",
+        "content": "$OCUL means you gotta play very risky glaucoma data or hope for partnership news. Going from bad to worse got ocul",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.5256,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996029734611511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-07T22:27:45Z",
+        "content": "$OCUL nda submission in first half of 2018 approval may not come until 2019, lol. Takes a month for fda to accept the nda and then 6 more Bearish",
+        "sentiment": {
+            "TextBlob": 0.3458333333333333,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948053956031799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-11-07T22:24:49Z",
+        "content": "$OCUL this going to 4 maybe even sub\n4 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994888961315155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-26T19:31:48Z",
+        "content": "$TMBR can dilute at a better price. tutes just took their money and ran lol. these guys are such idiots. Bearish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997767806053162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-26T19:31:20Z",
+        "content": "$TMBR I think they changed the warrant prices to try and get tutes to pump them up to be like hey pump us up so you can cash them in and we Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995022177696228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-26T18:43:05Z",
+        "content": "$BLPH a second dilution? lol. They ruined this float not even worth watching anymore. Bearish",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": -0.242,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998167157173157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-26T18:32:23Z",
+        "content": "$TMBR quite honestly they need to have another vote to allow for a 1 for 50 reverse split. Bearish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6361,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993421733379364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-26T18:29:17Z",
+        "content": "$TMBR The funniest thing is even if they reverse split their float is still sh** and getting shi**ter with each passing penny. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9197208881378174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-23T23:03:27Z",
+        "content": "$TMBR management getting away with murder here my condolences: Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9833362102508545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-23T22:54:21Z",
+        "content": "$TMBR they can't even find people to give them money, LOL. I am not surprised by this at all. Management makes one mistake after the other! Bearish",
+        "sentiment": {
+            "TextBlob": 0.19791666666666666,
+            "NLTK": 0.1923,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984671473503113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-23T22:53:44Z",
+        "content": "$TMBR and then grants them more warrants to execute them immediately..this after they filed an S1 to do an offering for 40+m.. sounds like Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982073307037354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-23T22:52:20Z",
+        "content": "$TMBR what are these idiots doing LOL. bulls bullish on warrants at .90 tutes won't lose money! BPMX changes warrants from .90 to .24 Bearish",
+        "sentiment": {
+            "TextBlob": 0.09999999999999998,
+            "NLTK": 0.7255,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953953623771667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:46:06Z",
+        "content": "$TMBR you're blatantly pumping bpmx with complete stupidity and tricking people into buying this to make yourself feel better.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994421601295471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:45:28Z",
+        "content": "$TMBR are now. But hey you think that's profitable.. okay lol good luck. Bearish",
+        "sentiment": {
+            "TextBlob": 0.6666666666666666,
+            "NLTK": 0.9313,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996381998062134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:44:51Z",
+        "content": "$TMBR warrants it will be extremely difficult to spike. Not to mention a pullback will happen on r/s so you'll be down even more than you",
+        "sentiment": {
+            "TextBlob": -0.05185185185185185,
+            "NLTK": -0.4201,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994567036628723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:44:11Z",
+        "content": "$TMBR reason no one should listen to you. Even after a reverse split their float will be 20m or higher that's not even a low float and with",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.0992,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903656244277954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:43:28Z",
+        "content": "$TMBR if their float is 500m it's not going to be easy to get to 1.50 without warrants.. the fact you don't understand is concerning and a",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976617097854614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:42:20Z",
+        "content": "$TMBR from tricky other traders into buying this garbage. If you want to buy after you read all the facts I post, sourced, go ahead",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989815354347229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:41:37Z",
+        "content": "$TMBR I said before I did not short bpmx nor do I hold any biotech short long term I have stated many times I'm stopping you dumb bulls",
+        "sentiment": {
+            "TextBlob": 0.015000000000000003,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993290901184082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:39:36Z",
+        "content": "$TMBR financials don't mean sh** in biotechs/pennystocks",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836220145225525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:39:01Z",
+        "content": "$TMBR how did the bakerbros do on nvax?\ud83d\ude0a",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989410042762756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:37:46Z",
+        "content": "$TMBR backup everything they say or stocktwits bans them.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994010925292969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:37:22Z",
+        "content": "$TMBR to a bull ever. They never post evidence and stock twits let's them post/pump stocks with no proof whatsoever shorts/bears have to",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977795481681824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:36:22Z",
+        "content": "$TMBR every single biotech i said was going to get annihilated has the bulls are always the same no matter the facts presented don't listen",
+        "sentiment": {
+            "TextBlob": -0.03571428571428571,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961887001991272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:32:49Z",
+        "content": "$TMBR who worked for bpmx.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986152172088623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:32:26Z",
+        "content": "$TMBR the data was absolute garbage even after they manipulated to try and make it look better the only good articles were written by people",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997907280921936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:31:32Z",
+        "content": "$TMBR right such a good product that no one wanted to partner with them? Or maybe I am right and there product is mediocre at best at 1-2% Bearish",
+        "sentiment": {
+            "TextBlob": 0.29523809523809524,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987965822219849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:22:40Z",
+        "content": "$TMBR will need to come too or do you think they're going to keep a 300-500m float lol \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984884262084961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:22:19Z",
+        "content": "$TMBR you don't know how many warrants are being issued or at what\nprice people who are bag holders be lucky to break even reverse split",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975628852844238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T19:20:01Z",
+        "content": "$TMBR funding is not done they're trying to do dilute they have not diluted yet... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952725768089294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T00:24:00Z",
+        "content": "$TMBR exercised.. the management could not have done a worst job at running bpx",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": 0.5096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984845519065857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T00:23:25Z",
+        "content": "$TMBR if they diluted that 40m at .18 that's 222m shares plus warrants added to the float and on any good news those warrants would be",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967908263206482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T00:12:44Z",
+        "content": "$TMBR at 0.01 which is just horrid.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997547268867493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T00:12:28Z",
+        "content": "$TMBR and release the offering price to stabilize the sp.. if tomorrow doesn't rebound the offering price will be pathetic and with warrants",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991563558578491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T00:11:22Z",
+        "content": "$TMBR idk if they can do this but if have to imagine they will need to agree to an offering price that has r/s built in then they could r/s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4678,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976207613945007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-20T00:09:44Z",
+        "content": "$TMBR they hired Oppenheimer to do the offering wonder how they got that idea \ud83d\ude4a Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968581199645996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-19T23:41:18Z",
+        "content": "$TMBR  they filed an S1 which means they're trying to do an offering and people dumping at .16 \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985803365707397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-16T21:39:45Z",
+        "content": "$OCUL they didn't put a timeline on the NDA resubmission either don't be surprised if it's by resubmitted until 2018 Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.1695,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944024682044983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-16T21:38:33Z",
+        "content": "$OCUL surprised if this is in the 4 dollar range soon. BP not opting in after \"positive\" preclinical data something stinks Bearish",
+        "sentiment": {
+            "TextBlob": -0.0909090909090909,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992838501930237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-16T21:36:37Z",
+        "content": "$OCUL passed on it. That is terrible news and that's why it's down over a dollar. Things do not look good at all for ocul I would not be Bearish",
+        "sentiment": {
+            "TextBlob": -0.1518518518518519,
+            "NLTK": -0.6711,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997490048408508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-16T21:35:53Z",
+        "content": "$OCUL you guys are delusional a BP signed a partnership and then didn't consummate it. 1 year to sign on for exclusive licenses and they Bearish",
+        "sentiment": {
+            "TextBlob": 0.95,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851020574569702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-09T17:59:43Z",
+        "content": "$OCUL either way I'm out will secure my profits 6 looks to be breaking and from there it's a long ways down. Bearish",
+        "sentiment": {
+            "TextBlob": 0.06481481481481481,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992813467979431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-09T17:59:08Z",
+        "content": "$OCUL news from regn has to come this week and with the price action I'd say it's not coming or regn didn't pick up the exclusive license Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997112154960632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-02T16:56:06Z",
+        "content": "$BLPH don cherry wannabe",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990251064300537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-10-02T16:55:19Z",
+        "content": "$BLPH you mean how the float doubled overnight and warrants executable at p3 data? And you think it was a good buy, lol. K \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.3958333333333333,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876218438148499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-28T15:30:00Z",
+        "content": "$ATOS this absolute garbage no news on anytime soon Catheter p2 data just short squeeze and pumpers trying to scalp Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996734857559204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-27T17:20:30Z",
+        "content": "$BLPH warrants are horrible they're exercisable in 6m right when p3 data is due they will be sold into that data, if good, and hurt momentum",
+        "sentiment": {
+            "TextBlob": -0.034821428571428586,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995536208152771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-27T17:06:57Z",
+        "content": "$BLPH it should done to reduce the impact on sp. still stupid to buy this on that news lol.",
+        "sentiment": {
+            "TextBlob": 5.551115123125783e-17,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996880292892456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-27T17:06:11Z",
+        "content": "$BLPH they diluted the float with 19.4m shares it's just all be sold to ONE investor - its dilution. Just has a nice headline which is how",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974541068077087
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-27T17:03:34Z",
+        "content": "$BLPH told ya dilution was coming. The warrants exercisable at 1.24 is just a ploy to get sp higher and it worked so far good on management",
+        "sentiment": {
+            "TextBlob": 0.3499999999999999,
+            "NLTK": 0.4902,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9295123219490051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-15T19:13:31Z",
+        "content": "$SPHS I'm sure the bulls here think it's extremely bullish \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979915618896484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-15T19:13:16Z",
+        "content": "$SPHS that loan takes buyout off the table and randy will do the exact same things as he did with p2a little dilution pump big dilution.",
+        "sentiment": {
+            "TextBlob": 0.015625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9810364246368408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-15T19:06:12Z",
+        "content": "$TMBR .28 being called the bottom when the chart shows .2751 clearly being the low twice today. #alternatefacts",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999218225479126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-15T13:58:01Z",
+        "content": "$TMBR and now we go live to the bpmx presentation: Bearish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921882152557373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-14T20:54:28Z",
+        "content": "$ATOS their interesting drug or delivery method is the Catheter into the nipple that's when I can see a big spike",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9383483529090881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-14T20:53:31Z",
+        "content": "$ATOS this was for their titty cream worthless, lol. Yea let's rub some cream on a boob that will cure breast cancer \ud83e\udd1e\ud83c\udffc",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999076247215271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-14T20:52:22Z",
+        "content": "$ATOS shorted this today would have banked huge if I saw the news my feed glitched out didn't get the short until the .70s",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973326921463013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-14T20:50:40Z",
+        "content": "$TMBR it's .287 right now actually st is wrong",
+        "sentiment": {
+            "TextBlob": -0.10714285714285715,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996680021286011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-14T20:37:01Z",
+        "content": "$TMBR bulls here \"come on guys we're going to be rich\" actuality: Bearish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863378405570984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T22:09:22Z",
+        "content": "$OCUL regeneron is all I care about. Just announce you're taking the exclusive license already Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992433786392212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T22:08:44Z",
+        "content": "$OCUL NDA resubmission should come in 2017. Two phase 1 to be initiated and we will hear from REGN shortly. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981425404548645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T20:29:10Z",
+        "content": "$BLPH just not great. You want to see a lot better p values than 0.05 Bearish",
+        "sentiment": {
+            "TextBlob": 0.04999999999999999,
+            "NLTK": 0.2695,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990068078041077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T20:28:07Z",
+        "content": "$BLPH their p2 p values were not great either 0.05 Bearish",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.1516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996483325958252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T20:15:22Z",
+        "content": "$BLPH not hard to see why the sp fell on that presentation. Watch out! Bearish",
+        "sentiment": {
+            "TextBlob": 0.18229166666666669,
+            "NLTK": 0.1501,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9335392117500305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T20:13:09Z",
+        "content": "$BLPH p3 preliminary data is going to be late march maybe longer Bearish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995500445365906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T20:11:55Z",
+        "content": "$BLPH 2 SAEs possibly related to device or drug also not good if they are Bearish",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995740056037903
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T20:10:12Z",
+        "content": "$BLPH 17.6 million warrants exercisable at .84 not good Bearish",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996687173843384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T14:36:55Z",
+        "content": "$TMBR share price crashing Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983193278312683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T14:08:13Z",
+        "content": "$BLPH one4liberty is correct instead going up 50-100% it's going down 50-100% \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979488253593445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-13T14:01:55Z",
+        "content": "$BLPH All the people here who didn't listen to peaches. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876761436462402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-12T21:05:41Z",
+        "content": "$TMBR premarket? \ud83d\ude02 I watched it at 4:40am until 6:30 and saw like 20k shares bought it didn't even register on % gainers",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994744658470154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-12T21:03:55Z",
+        "content": "$TMBR read running premarket at laughed this morning. Was too busy preparing for the day to respond at that point but seriously running",
+        "sentiment": {
+            "TextBlob": 0.15555555555555553,
+            "NLTK": -0.0129,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977734684944153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-12T12:03:20Z",
+        "content": "$TMBR new levels of stupidity by their team 38 of them and they come up with that \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": -0.2318181818181818,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989126920700073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-12T12:02:43Z",
+        "content": "$TMBR study also comes off as negative with terrible headline and first paragraph \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f gotta send Greg a message congratulating him on",
+        "sentiment": {
+            "TextBlob": -0.35000000000000003,
+            "NLTK": -0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990597367286682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-12T11:55:10Z",
+        "content": "$TMBR patients keep stock price from falling on rs",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910090565681458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-12T11:54:09Z",
+        "content": "$TMBR what an absolutely terrible move by bpmx again \ud83d\ude02 \"preliminary data\" 15/20 okay so you gonna give basically full data rs and hope 5",
+        "sentiment": {
+            "TextBlob": -0.05000000000000001,
+            "NLTK": 0.1045,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973359704017639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-08T17:00:59Z",
+        "content": "$OCUL I took 2k of profit at 6.80 just in case this crashed still sitting on 1800 shares",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991401433944702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-07T16:43:58Z",
+        "content": "$OCUL someone buying up shares trying to pump it up, good. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7820279598236084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-07T13:20:56Z",
+        "content": "$BLPH No cause for concern the company only released the only good news they're likely to have for 6 months and have no money! Bearish",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": -0.2003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996968507766724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-07T12:48:51Z",
+        "content": "$OCUL 7 dollars Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984374642372131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T17:03:55Z",
+        "content": "$OCUL overall market getting slaughtered might be able to load up more shares soon",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991474151611328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T15:19:07Z",
+        "content": "$BLPH bag-holders right now Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9639099836349487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T15:11:02Z",
+        "content": "$BLPH lmao \ud83d\ude02 down she goes",
+        "sentiment": {
+            "TextBlob": 0.2222222222222222,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983006119728088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T14:52:54Z",
+        "content": "$BLPH last p2 news it spiked to 2 and fell to 1 this p2 news it did basically nothing. Not sure how you think blph has delayed reactions.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.0485,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995168447494507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T14:28:52Z",
+        "content": "$OCUL if this gets to 7 forms a base there then if REGN announces theyre picking up the exclusive license 10 is a real possibility",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9149870872497559
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T14:04:53Z",
+        "content": "$OCUL let's see 7 today Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980303645133972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T14:03:02Z",
+        "content": "$BLPH they remind you every chance they get the p3 data is delayed. Just goes to show how most of you don't do dd Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989601373672485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T13:58:39Z",
+        "content": "$BLPH odds are dilution will come very soon I wouldn't short this unless it spiked hard its too pathetic of a spike to even short Bearish",
+        "sentiment": {
+            "TextBlob": -0.21833333333333335,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989222288131714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T13:57:49Z",
+        "content": "$BLPH once again p3 interim data is delayed until 2018 it's right in their p2 positive data PR. They need money and this is the onlycatalyst",
+        "sentiment": {
+            "TextBlob": 0.2564935064935065,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924444556236267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T13:53:11Z",
+        "content": "$BLPH people gonna panic soon not looking good Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.6914,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995604157447815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T13:39:53Z",
+        "content": "$BLPH not long for p3 news? Interim data was delayed until 2018..",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985440969467163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-05T13:36:31Z",
+        "content": "$BLPH beaten down stock no one really cares about the news. Dilution likely coming with p3 delays. I'd be surprised to see this above 1.50",
+        "sentiment": {
+            "TextBlob": 0.028888888888888888,
+            "NLTK": 0.0498,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962376356124878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-01T20:03:02Z",
+        "content": "$OCUL nice volume to close. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9750966429710388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-09-01T16:02:17Z",
+        "content": "$OCUL 6 weeks or less this will be $8-10. Unless regeneron doesn't pick up the exclusive license rights which I doubt they wouldn't. Bullish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990487694740295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-08-29T19:09:56Z",
+        "content": "$OCUL hopefully news after hours of regeneron opting into the partnership will be good for at least $8/s\ud83e\udd1e\ud83c\udffd Bullish",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995315432548523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peaches1",
+        "timestamp": "2017-08-22T14:15:33Z",
+        "content": "$TMBR yea damn that's some huge manipulation 85 shares go through at .277 then sell order of a 100 at .276 \ud83d\ude44. 65k volume overall \ud83d\ude02 Bearish",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969057440757751
+            }
+        },
+        "image_url": ""
+    }
+]

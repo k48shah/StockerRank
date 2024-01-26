@@ -1,0 +1,212 @@
+[
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2023-02-22T00:48:47Z",
+        "content": "$COIN $600 million loss in Q4. this even after their biggest competitor FTX has gone out of business.. ouch wont be a public company for too long @howardlindzon",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954701662063599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2023-01-19T21:43:06Z",
+        "content": "$ENPH  the great roundtrip coming soon? @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5959935784339905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2023-01-05T15:19:53Z",
+        "content": "Looking rough $NET  \nthose net Income numbers look dreadful",
+        "sentiment": {
+            "TextBlob": -0.275,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999779999256134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2021-01-11T03:45:25Z",
+        "content": "$GBTC gonna open near $33.. gap downs are ferocious on this thing..",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961698651313782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2020-11-23T18:22:49Z",
+        "content": "@CompassCapital @NumberWang yup stayed with $U. just doesn't wanna stop. 80 to 120s in no time. the Epic competition had me worried, thanks @CompassCapital for the input",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.0997,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9880442023277283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2020-09-01T15:42:46Z",
+        "content": "$PD Long time coming. Congrats bulls. Starting to move @howardlindzon",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9914566874504089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2020-04-29T22:09:13Z",
+        "content": "2.99 billion people used at least one of its apps \u2014 Facebook, Instagram, Messenger or WhatsApp..\nThere are 4.5 billion Internet Active users right now Exploding head..... Mindblowing..\n\n$META @howardlindzon @ivanhoff",
+        "sentiment": {
+            "TextBlob": -0.04920634920634922,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973588585853577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2020-03-18T18:24:44Z",
+        "content": "Holly Christ $TVIX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9700890183448792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2020-03-18T15:03:48Z",
+        "content": "$PAGS Absolute carnage @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954389929771423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2020-03-13T00:47:32Z",
+        "content": "$BTC.X  in freefall, where's the circuit breaker?! @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966616630554199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2020-01-07T18:42:18Z",
+        "content": "$LVGO great day. Will be back post lockup on Jan 20th. Early 20s will be an incredible long hold.",
+        "sentiment": {
+            "TextBlob": 0.2916666666666667,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995669722557068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2019-10-01T15:08:55Z",
+        "content": "$BZUN ouch hope there's a floor somewhere. if it drops below 40, its gonna get rough",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989333748817444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2019-09-30T20:02:54Z",
+        "content": "$BZUN Staying clear of anything China for a bit ...",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848065972328186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2019-09-20T22:32:38Z",
+        "content": "$BZUN Will this ever end? So so so frustrating.\n\ncnbc.com/2019/09/20/chinese...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.6618,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990776777267456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Chop_Season00",
+        "timestamp": "2019-08-13T20:37:42Z",
+        "content": "$CNVS Thoughts on ER tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918918609619141
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,870 @@
+[
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-14T15:06:52Z",
+        "content": "Straight off 6.13 WL $TNTR",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902848601341248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-13T06:16:25Z",
+        "content": "6.13 WL charts below. Watching for gap down plays specifically under a dollar are hot \nBack burners - $OHRP $YUMAQ $MOXC $AGMH $ANY $NIHD",
+        "sentiment": {
+            "TextBlob": 0.03148148148148147,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988176226615906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-13T06:14:47Z",
+        "content": "$ANY cup and handle bullish wedge break. Been on watch everyday look for a red to green move ideally for a break over .60",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9517045021057129
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-13T06:13:38Z",
+        "content": "$TNTR wedge. Still on watch great looking chart",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958617091178894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-13T06:13:12Z",
+        "content": "$CRDF cup and handle. Watch over .9 for a run if it can get past 1 with volume",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889822602272034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-13T06:12:49Z",
+        "content": "$SCPH ascending triangle. Gap to fill watch over 7.8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981920123100281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-13T06:12:24Z",
+        "content": "$RSLS wedge. Huge gap to fill watch over 3.55",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981808662414551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-11T06:55:43Z",
+        "content": "6.11 WL charts below. Looking for gap down/oversold plays since we saw $LIFE run Friday \nBackburners - $EVTV $TPIV $GNPX $OXBR $VVUS $ARLZ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990333318710327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-11T06:54:39Z",
+        "content": "$ANW ascending triangle near trendline support. Watch over 1.08 for a break above for bull flag",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9692519307136536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-11T06:52:32Z",
+        "content": "$YUMAQ ascending triangle, been waiting for a setup on this. Watch Over .39 to break out of bearish channel and begin gap fill",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998236894607544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-11T06:52:18Z",
+        "content": "$CRDF ascending triangle. Gapped down 55% and showed us huge volume, look for break over .93 should run like $ANW",
+        "sentiment": {
+            "TextBlob": 0.12222222222222225,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980809688568115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-11T06:52:05Z",
+        "content": "$TNTR ascending triangle bullish wedge break. Extremely oversold watch over .60",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994615912437439
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-11T06:51:48Z",
+        "content": "$ANW ascending triangle in bull flag gap fill. Ascending triangle near trendline support watch over 1.08",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953057169914246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-11T06:51:26Z",
+        "content": "$EDAP descending triangle watch under 3.35 for gap fill",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921697974205017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-08T07:12:04Z",
+        "content": "6.8 WL charts down below \nBackburners - $ANY $EVTV $TOPS $ONTX $HEAR",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9795540571212769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-08T07:10:52Z",
+        "content": "$ARLZ wedge, number one watch. These oversold gap fill plays have been hot, following the trend on this one",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9553599953651428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-08T07:09:29Z",
+        "content": "$SLNG mid candle bull flag. Perked up after huge day yesterday can see a move back to its highs",
+        "sentiment": {
+            "TextBlob": 0.13333333333333336,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9891619682312012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-08T07:08:57Z",
+        "content": "$TNTR bullish wedge break w/ cup and handle. Down huge looking for a push towards 1",
+        "sentiment": {
+            "TextBlob": 0.12222222222222225,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998145341873169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-07T05:58:58Z",
+        "content": "6.7 Watchlist Charts below \nBackburners: $EVTV $ANY $ARLZ $ANW $NHWK $GNPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930388331413269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-07T05:55:18Z",
+        "content": "$TNTR wedge mid candle breakout. Extremely oversold price range as runners no gap to fill but showed us a big day .35-.7 it can run",
+        "sentiment": {
+            "TextBlob": -0.041666666666666664,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871534705162048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-07T05:46:08Z",
+        "content": "$YUMAQ ascending triangle gap fill. Over .39 potential reversal toward a gap fill at 1.10",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976319074630737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-07T05:45:37Z",
+        "content": "$AXGT ascending triangle red to green move. Needs a red to green move with volume to get another squeeze towards the 200sma at 5.48",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967170357704163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-07T05:45:08Z",
+        "content": "$CODX volatile action last couple days. Needs a red to green move to make this potential cup and handle worth it",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941569566726685
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-07T05:44:28Z",
+        "content": "$EIGR cup and handle mid range breakout. Biotech recent PR on Phase 2 trial watch over 15 to send it towards previous highs",
+        "sentiment": {
+            "TextBlob": -0.05555555555555555,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9862326383590698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-06T16:42:18Z",
+        "content": "$BLNK successfully filled the gap. Off the 6/5 WL",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9919949769973755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-06T15:27:20Z",
+        "content": "$NHWK broke nicely, starting to fill gap towards 4. Off 6/5 WL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9785267114639282
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-06T14:15:42Z",
+        "content": "$BLNK filling the gap down to 5.50s. Off 6/5 WL",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967744946479797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T15:39:57Z",
+        "content": "$BLNK wedge breaking down. Off 6.5. WL",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994232654571533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T15:05:26Z",
+        "content": "$TNTR nice move from cup and handle. Off 6.5 WL",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.970424234867096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T15:03:11Z",
+        "content": "$SNES breaking over 1.50",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898560047149658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T14:57:06Z",
+        "content": "$SDRL nice pop through wedge. Off of 6.5 WL",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9518219828605652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T14:54:05Z",
+        "content": "$IQ got nice follow through from bear flag spot. Off 6/5 WL",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6880905032157898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T14:52:18Z",
+        "content": "$TWTR.P wedging",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9567575454711914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:14:14Z",
+        "content": "6/5 WL charts down below \nBackburners- $ANY wedge $GNPX mid candle wedge \n$VTGN mid candle cup and handle",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918573498725891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:09:26Z",
+        "content": "$VNET pennant formation. Very overextended looking for it to break down and fill the gap to 6.70s, most likely a swing for the gap to fill",
+        "sentiment": {
+            "TextBlob": 0.1361111111111111,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948875308036804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:09:09Z",
+        "content": "$TNTR cup and handle. Has been consolidating looking for another mid candle push over .52 should retest .70",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978424310684204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:08:54Z",
+        "content": "$SNES bull flag. Looking for a bull flag mid candle breakout. Needs another push in volume to send this  \n   \u0010",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999675989151001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:08:35Z",
+        "content": "$SDRL wedge pattern. Another oil name looking for a mid candle breakout",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998996913433075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:08:18Z",
+        "content": "$SDR ascending triangle. Needs to get through 1.8 and 1.94 before it can fill the gap in high 2.60s.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996359348297119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:07:31Z",
+        "content": "$IQ bear flag. Recent IPO very overextended looking for a breakdown",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983516931533813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:07:07Z",
+        "content": "$NHWK ascending triangle. Has already filled huge gap, next gap fill at $4. Bios have been hot, 2.40 break should send this",
+        "sentiment": {
+            "TextBlob": 0.2625,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998387336730957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:06:47Z",
+        "content": "$FOSL pennant formation. Very overextended looking for it to break down and fill the gap to high 23s",
+        "sentiment": {
+            "TextBlob": 0.06814814814814814,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954350590705872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:06:20Z",
+        "content": "$BLNK pennant formation. Looking for a breakdown to fill the gap in the 5.50s. Shorts still waiting for big crack, this could be it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992297887802124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-05T05:05:48Z",
+        "content": "$EVTV still on watch for a cup and handle mid candle breakout push past 1.97. Looks like its curling up getting ready for later this week",
+        "sentiment": {
+            "TextBlob": -0.012499999999999997,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814772009849548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T17:23:42Z",
+        "content": "$NKTR breaking down. Learn to identify these patterns!",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990841150283813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T16:51:55Z",
+        "content": "$NKTR symmetrical triangle",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.941154956817627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T05:36:59Z",
+        "content": "$GNPX wedging keep on watch former runner, mid range consolidation from its initial run",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5204470753669739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T05:30:26Z",
+        "content": "$EVTV cup and handle curling up from a holding mid range level from initial 2 day run. Watch resistance at 2, needs push through w/ volume",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8203969597816467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T05:27:02Z",
+        "content": "$ANY keep on radar currently wedging, don\u2019t think it will run tomorrow because pattern is not developed enough, look for gap fill up to .90",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999384880065918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T05:26:04Z",
+        "content": "$AXGT previously on watch. Looking for another ascending triangle at 1.98 + mid candle breakout, needs another volume push, huge gap fill",
+        "sentiment": {
+            "TextBlob": 0.0777777777777778,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992296695709229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T05:23:33Z",
+        "content": "$VKTX wedging. Shorts could easily be fooled from first red day, no overhead resistance, bios have been running, watch for a short squeeze",
+        "sentiment": {
+            "TextBlob": 0.17083333333333334,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930045008659363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-04T05:19:33Z",
+        "content": "$VTGN ascending triangle break over 1.44 should send this Look for push in volume to retest 1.76 with possible break through 1.80 double top",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953498840332031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-01T16:58:00Z",
+        "content": "$AXGT +16% run to 2.10 before fading back down. 1.80 alert from WL",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975180625915527
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-01T16:31:34Z",
+        "content": "$CODX same pattern as $VKTX these plays have been running in the morning, rotating their float, wedging then squeezing shorts in power hour",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9812792539596558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-01T13:54:03Z",
+        "content": "$CODX on watchlist last night for a gap fill over 3.34 with volume and we got it on that red to green move for 20%",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840635061264038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-01T02:47:27Z",
+        "content": "$AXGT my apologies guys here is the intraday chart I got it mixed up with the CCIH intraday chart Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993076324462891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-01T02:41:29Z",
+        "content": "$CODX potential cup and handle for a mid candle breakout over 3.15. Needs to fill the 3.33 gap with volume to really send this again Bullish",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993330836296082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-01T02:33:48Z",
+        "content": "$CCIH ascending triangle break over 1.42 should send this. Has a gap to fill at 2.87 and is wedging on the daily",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899757504463196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-06-01T02:00:37Z",
+        "content": "$AXGT ascending triangle. Break over 1.80 should send this to a gap fill at 1.96. Has room for 2.30s if volume keeps pushing Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996861219406128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-05-16T00:03:00Z",
+        "content": "$ARQL ascending triangle recent earnings winner needs break over 3.32. Triple top on daily, 3.32 break could send this Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975125789642334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-05-16T00:00:59Z",
+        "content": "$KONA ascending triangle into close recent earnings winner needs break over 3 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7765013575553894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "jaymuck",
+        "timestamp": "2018-05-15T23:58:30Z",
+        "content": "$KONA ascending triangle into the close needs break over 3 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982040286064148
+            }
+        },
+        "image_url": ""
+    }
+]

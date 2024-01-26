@@ -1,0 +1,4174 @@
+[
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2021-07-01T05:03:46Z",
+        "content": "Been to the $AMC Dine-In  theater in Framingham, MA 4x since pandemic ended.  No more than 4 other people in addition to my kid and I in theater \n\nThey are hemorrhaging money Bearish",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961233735084534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2021-07-01T05:01:13Z",
+        "content": "$GLASF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918951392173767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2021-07-01T04:29:28Z",
+        "content": "Innovative Industrial: Owning The Toll-Collector For U.S. Cannabis $IIPR seekingalpha.com/article/44...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9898029565811157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2021-01-26T20:12:00Z",
+        "content": "Here is how to think about $IIPR \n\nThey are the nations largest landlord for medical cannabis.  \n\nAs that demand grows exponentially, so do they and  their returns. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986704587936401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2021-01-11T05:28:33Z",
+        "content": "Dividend Aristocrats, Alibaba, GameStop, Walmart And More - Report Door $IIPR reportdoor.com/dividend-ari...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996107280254364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-08-06T12:42:41Z",
+        "content": "$IIPR : 183% Revenue Growth, 322% Net Income Growth and 77% Dividend Increase",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9922505021095276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-05-08T14:41:58Z",
+        "content": "Seeing the same tired $IIPR short thesis recirculated. They all fail to understand the economics of cannabis (and specialty REIT's) currently (there is a massive shortage of cultivation in most states). Shorts started with a single-tenant default, DionyMed and then extrapolated that portfolio-wide for the short thesis saying the properties would be useless (this is false, see attached). Meanwhile, additional defaults have NOT materialized and results keep rising 200% + YOY. Bullish",
+        "sentiment": {
+            "TextBlob": -0.13,
+            "NLTK": -0.8807,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997755885124207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-05-06T20:39:51Z",
+        "content": "$IIPR reports: Revenues up 210%, net income up 249%, dividend up 122% ..... current yield 5% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962124824523926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-26T13:19:47Z",
+        "content": "$WMB investor day pt. 2 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986522793769836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-26T13:16:46Z",
+        "content": "$KMI and $WMB seeing \"above normal\" nat gas demand on their systems currently......both stocks currently down ~50% and yield ~10% Bullish",
+        "sentiment": {
+            "TextBlob": -0.0018518518518518638,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992085099220276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-26T13:14:34Z",
+        "content": "$WMB investor presentation yesterday Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985849857330322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-16T15:29:22Z",
+        "content": "\"whatcha gonna do with that big fat drop..... nibble  nibble nibble\"\n$KMI $IIPR $WMB Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980340600013733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-13T16:39:36Z",
+        "content": "@demartino $OXY cut theirs because they way overpaid for a merger... $KMI and $WMB have nearly 2X coverage",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967113733291626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-13T15:45:55Z",
+        "content": "$KMI now at over 9% yield.  I\u2019ll take some more thank you Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4201,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9754363298416138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-13T12:21:55Z",
+        "content": "$IIPR declares $1 dividend.  Forward yield now >6% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975222945213318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-12T14:54:06Z",
+        "content": "Buying Fall calls on $SVXY... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998611569404602
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-11T18:57:22Z",
+        "content": "Also grabbing 10%+ dividend with some more $WMB Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991908073425293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-03-11T18:56:15Z",
+        "content": "Little nibbles on some $KMI.  I will take some of that 8% dividend yield Bullish",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975384473800659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-02-29T06:50:13Z",
+        "content": "Just wondering.   If China is $tsla only true growth market and China is basically shut down, shouldn\u2019t $tsla be tanking harder? \n\nI\u2019ll await the vitriol Bearish",
+        "sentiment": {
+            "TextBlob": 0.023611111111111097,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947043061256409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-02-05T14:03:18Z",
+        "content": "$AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828813076019287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-02-01T20:25:37Z",
+        "content": "The Permian is now home to over half of all US oil rigs.  $TPL is one of the largest landowners in the Permian collecting royalties off oil and gas coming out of the ground, passing over its land and has a rapidly growing water biz. EPS  growing  50%+ and trades at only 17x earnings. Bullish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7982465624809265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-01-24T04:40:01Z",
+        "content": "Ralph Nader Jumps In On The Tesla FUD | CleanTechnica $TSLA cleantechnica.com/2020/01/2...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9654824733734131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2020-01-03T23:55:37Z",
+        "content": "$IIPR fool.com/investing/2020/01/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915708303451538
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-11-22T16:54:32Z",
+        "content": "$TSLA wsj.com/articles/tesla-brea...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885525703430176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-11-09T05:24:11Z",
+        "content": "Seriously, Einhorn\u2019s questions to Musk in his letter remind me of his questions to Lehman before they collapsed $TSLA",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9639543890953064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-11-07T02:26:22Z",
+        "content": "$IIPR dividend increased 123% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912722706794739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-11-07T02:25:05Z",
+        "content": "$IIPR net income up 314% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955127835273743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-11-07T02:23:27Z",
+        "content": "$IIPR revenues up 220% YOY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828575849533081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-10-30T21:11:32Z",
+        "content": "$MODG Q3 EPS up 220%  Net income up 226% and net sales up 63%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7303555011749268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-10-18T21:42:05Z",
+        "content": "GSE shareholders will want to watch this....  $FNMA housingwire.com/articles/su...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7685749530792236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-16T20:59:12Z",
+        "content": "Iran dismisses U.S. claim it was behind Saudi oil strikes, says ready for war - Reuters $OIL apple.news/AwqsYA0rnQWq-Cjv...",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981635212898254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-16T17:12:01Z",
+        "content": "There is a myth the US has \u201cexcess production\u201d capacity it can bring online rapidly.  This is false.  $OIL Bullish",
+        "sentiment": {
+            "TextBlob": -0.4000000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993577599525452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-16T17:02:53Z",
+        "content": "$OIL prices are not currently pricing in the \u201cdrone risk\u201d to Middle East oil facilities.  It is no longer hard to take 10% of global production off the market in an instant Bullish",
+        "sentiment": {
+            "TextBlob": -0.058333333333333334,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975666999816895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-14T21:09:36Z",
+        "content": "Oil could rise $10 per barrel after drone attack reportedly forces Saudi to cut output in half - CNBC ... nice being short $DTO apple.news/AfZZX10XfRdOFd1c...",
+        "sentiment": {
+            "TextBlob": 0.14444444444444446,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992052912712097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-12T14:34:31Z",
+        "content": "Bove says GSE $50 preferred shares could be worth $62 $FNMAL $FNMAN $FNMAM Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984695315361023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-12T12:39:50Z",
+        "content": "Bove on $FNMA:  \"better than even chance that the Lamberth Court finds the government guilty of stealing the assets and earnings of the two GSEs. If so, one might assume that junior preferred shareholders lost about $2 per share per year in dividends or a total of $14 per share.\nAdd the $14 to the $25 par value one comes up with a possible payment of $39 to the shareholders in common stock. Put a 20% discount on this total and it is plausible to argue that the payment will be worth $31 per share.\" Based on this the $50pref would be in excess of par also Bullish",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976778626441956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-12T12:16:16Z",
+        "content": "Mnuchin on ending NWS...\u201dgoal is to get it done by the end of the month\u201d $FNMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990226030349731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-11T14:42:40Z",
+        "content": "There is some pretty heavy short interest in $oil.  Consider rig counts and inventories are collapsing and demand isn\u2019t.  Me thinks price spike ahead Bullish",
+        "sentiment": {
+            "TextBlob": 0.016666666666666663,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984955787658691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-09T03:56:25Z",
+        "content": "$WMB currently yielding over 6% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986843466758728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-07T09:43:56Z",
+        "content": "Probably the best part of the 5th Circuit decision $FNMA ... Footnote #1 quoting James Madison.... \"1 THE FEDERALIST NO. 51, at 349 (James Madison) (J. Cooke ed., 1961); see also Mistretta v. United States, 488 U.S. 361, 380 (1989) (\u201cThis Court consistently has given voice to, and has reaffirmed, the central judgment of the Framers of the Constitution that, within our political scheme, the separation of governmental powers into three coordinate Branches is essential to the preservation of liberty.\u201d).\" Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6208,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.79310542345047
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-06T23:10:20Z",
+        "content": "\"The Third Amendment is the smallest independent agreement\nthat caused the Shareholders\u2019 injury, so that is what to rescind. When a\ncontract is rescinded, restitution is generally in order, and the plaintiff may also need to return benefits it received.29 I would recognize the district court\u2019s authority, on remand, to decide the parties\u2019 rights and duties to restore their rightful position. So I don\u2019t share Judge Haynes\u2019s concern that this remedy resembles a \u201cpick-and-choose approach\u201d and grants Shareholders a windfall.\" $FNMA",
+        "sentiment": {
+            "TextBlob": 0.016666666666666673,
+            "NLTK": 0.835,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937688112258911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-06T23:09:35Z",
+        "content": "The 5th Circuit just ruled the NWS should be invalidated. In other words, the UDS Gov't owes $FNMA shareholders ~194B Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992720484733582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-06T23:02:52Z",
+        "content": "YYYAAAASSSSS!!!!!! $FNMA \n\"The Shareholders are entitled to declaratory judgment that the Third\nAmendment exceeded FHFA\u2019s lawful authority because the agency adopted it outside the President\u2019s supervision.30 This analysis also supports an injunction vacating the Third Amendment.31 In light of recent developments, I would remand Count IV to the district court for entry of a judgment consistent with this opinion.32\"",
+        "sentiment": {
+            "TextBlob": 0.09285714285714286,
+            "NLTK": 0.7243,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9200053811073303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-06T17:32:56Z",
+        "content": "A message about iOS security - Apple Newsroom $AAPL v $GOOG spat  apple.news/AxuMsaEyqSu-bwCo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991987347602844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-09-04T20:53:21Z",
+        "content": "$LL  ValuePlays subs bought this yesterday \n\nfinance.yahoo.com/news/lumb...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918144345283508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-23T18:09:01Z",
+        "content": "Oil falls 3% because China puts a 5% tariff on $12M dollars of US $OIL.  That\u2019s um, $600,000.  #Overreaction anyone??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992081522941589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-20T20:51:25Z",
+        "content": "Walmart sues Tesla over solar panel fires at seven stores - CNBC $TSLA apple.news/ABEoYWCRUQTm40QK...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983445405960083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-17T00:38:34Z",
+        "content": "How do you leave $KMI AND $WMB both paying 5%+ dividends off this list???  barrons.com/articles/chevro...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1877,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992489218711853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-15T19:07:45Z",
+        "content": "Intl investors stampede into US$USD, 10yr Trees for safety-T-Bill/10yr spread 28bps-wide enough for another FFunds 25bps cut from 2.14%-Not justified economically",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999265730381012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-15T18:21:28Z",
+        "content": "$GE Culp blaming shorting vs detailing why Markopolos is wrong...... not great",
+        "sentiment": {
+            "TextBlob": -0.45,
+            "NLTK": -0.7575,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996557235717773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-15T12:35:04Z",
+        "content": "$OIL demand for oil products are at an all-time high. The EIA not only set a weekly record but overall demand on the four week moving averages set records as well. Bullish",
+        "sentiment": {
+            "TextBlob": 0.05333333333333334,
+            "NLTK": 0.1655,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9681081771850586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-07T13:56:50Z",
+        "content": "Tesla received a cease-and-desist letter from NHTSA over Model 3 safety claims - CNBC $TSLA apple.news/A-BrWYkmgRg-Saj8...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982932209968567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-07T01:05:02Z",
+        "content": "$68.4 Million Epidiolex Sales Drive GW Pharma's $72 Million Revenue in Q2 $GWPH newcannabisventures.com/epi...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946893453598022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-08-03T14:27:17Z",
+        "content": "$BRK.A $BRK.B",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950478076934814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-27T20:24:52Z",
+        "content": "Disney's remakes have made more than $7 billion globally since 2010 - $DIS apple.news/ALMAwRVgJRS2XMlx...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981744289398193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-25T14:07:59Z",
+        "content": "With collapsing margins, cutting capex and R&D, $TSLA is on its way to being valued as a auto maker, not a software company Bearish",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939636588096619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-24T22:23:33Z",
+        "content": "$TSLA wsj.com/articles/teslas-gro...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937149882316589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-24T15:21:12Z",
+        "content": "Horizon Kinetics is buying shares of $TPL almost daily. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989804625511169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-23T00:19:22Z",
+        "content": "Facebook design flaw let thousands of kids join chats with unauthorized users - The Verge $META apple.news/AmXjta7HySrOskco...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995967745780945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-20T00:47:19Z",
+        "content": "Iran announces capture of British oil tanker; U.S. officials say two have been seized - CNN $OIL apple.news/AErGlNI0ITLuZZyQ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926464557647705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-15T00:26:15Z",
+        "content": "\u2018The Town Hall of Hollywood.\u2019 Welcome to the Netflix Lobby. - The New York Times $NFLX apple.news/AGQZAcSaTTNWy4rO...",
+        "sentiment": {
+            "TextBlob": 0.4681818181818182,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7325329780578613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-05T22:27:54Z",
+        "content": "Iran Threatens Seizure Of UK Oil Tankers After Gibraltar Tanker Boarding | oilprice.com $OIL oilprice.com/Energy/Crude-O...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965081810951233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-02T20:49:29Z",
+        "content": "Value Isn\u2019t Dead\u2026\u2026It\u2019s Misunderstood & Oversimplified $STUDY valueplays.net/2019/07/02/v...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939032196998596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-01T21:45:05Z",
+        "content": "OPEC agrees to extend current production cuts by 9 months $OIL cnbc.com/2019/07/01/opec-lo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748625159263611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-07-01T14:14:38Z",
+        "content": "\u201cDavidson\u201d on Smuckers $SJM valueplays.net/2019/06/28/d... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972549080848694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-30T11:32:59Z",
+        "content": "$TSLA wsj.com/articles/teslas-big...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846152663230896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-29T12:57:33Z",
+        "content": "Howard Hughes (HHC) Stock Climbs, May Be Worth 25% More - Bloomberg $HHC  https://www.bloomberg.com/news/articles/2019-06-28/howard-hughes-may-be-worth-25-more-than-thursday-s-surge",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8750753402709961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-28T13:12:36Z",
+        "content": "The \"rig count\" numbers are becoming meaningless as drilling techniques improve. Permian rig counts drop as production hits all-time high $TPL $WMB $KMI",
+        "sentiment": {
+            "TextBlob": 0.036666666666666674,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994582533836365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-28T13:01:10Z",
+        "content": "$WMB 20% upside and 5.7% yield  barrons.com/articles/willia... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964898228645325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-27T20:07:14Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-27T16:35:05Z",
+        "content": "Subs: $150 Is The Starting Bids For Hughes valueplays.net/amember/logi... $HHC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985841512680054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-27T14:10:55Z",
+        "content": "Howard Hughes Corp hires Centerview Partners to explore a sale: Sources $HHC cnbc.com/2019/06/27/david-f...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9109382629394531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-26T16:00:28Z",
+        "content": "Refining Inputs Rising\u2026.Inventory Falling valueplays.net/2019/06/26/r... $OIL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975631237030029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-22T23:15:17Z",
+        "content": "Steve Wozniak rants against Elon Musk and Tesla $TSLA businessinsider.com/steve-w...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947372078895569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-16T12:04:16Z",
+        "content": "$SPY $USO $CL_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935092329978943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-16T11:57:11Z",
+        "content": "$RH  https://www.bloomberg.com/news/articles/2019-06-16/sunday-strategist-restoration-hardware-s-lavish-palaces-are-working",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9617224931716919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-15T15:39:05Z",
+        "content": "U.S. puts Iran on notice and weighs response to attack on oil tankers - The New York Times $OIL $DTO apple.news/AqVRcW4uSQf2zVxu...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8280062079429626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-14T15:51:21Z",
+        "content": "Fed History Suggests Rate Cut Coming valueplays.net/2019/06/13/f... $STUDY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975078105926514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-13T15:09:01Z",
+        "content": "$KMI sweet!!",
+        "sentiment": {
+            "TextBlob": 0.546875,
+            "NLTK": 0.555,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966052770614624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-13T11:05:54Z",
+        "content": "$OIL wsj.com/articles/oil-prices...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908903241157532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-12T21:00:11Z",
+        "content": "American Air Managers to Join Crews on 737 Max Before Passengers $BA  https://www.bloomberg.com/news/articles/2019-06-12/american-air-managers-to-join-crews-on-737-max-before-passengers",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9686557054519653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-09T11:24:13Z",
+        "content": "$GME barrons.com/articles/gamest...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830174446105957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-09T03:03:04Z",
+        "content": "Buy Infrastructure Stocks for Their Big Dividends... missed $KMI & $WMB 5% dividend growing double digits  barrons.com/articles/infras...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994338154792786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-09T02:45:15Z",
+        "content": "The catch-22 that broke the internet $GOOG wired.com/story/google-clou...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9697651267051697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-04T21:12:59Z",
+        "content": "You can now buy homes on $AMZN housingwire.com/articles/49...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890714883804321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-06-04T15:09:01Z",
+        "content": "S&P Intrinsic Value Index Update $SPY valueplays.net/2019/06/01/s... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987429976463318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-31T08:13:46Z",
+        "content": "The lawsuit says the Anadarko deal is \u2018hugely overpriced\u2019 $OXY wsj.com/articles/carl-icahn...",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995562434196472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-31T08:10:46Z",
+        "content": "Trump admin finalizing a plan to return mortgage-finance giants Fannie Mae and Freddie Mac to private ownership $FNMA  wsj.com/articles/administra...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7528073787689209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-31T08:09:50Z",
+        "content": "Vaccine misinformation thrives on Facebook despite social network\u2019s pledge to squash it $META wsj.com/articles/facebook-p...",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9799286723136902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-30T18:37:21Z",
+        "content": "Honestly, @cnbc is doing an interview with $WYND CEO right now and it\u2019s is so excellent and informative.  If they did more of this and less arguing about politics, ratings would rise substantially",
+        "sentiment": {
+            "TextBlob": 0.4438095238095238,
+            "NLTK": 0.7214,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998335838317871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-30T16:31:50Z",
+        "content": "$AAPL  \"price target\" cut from 38% upside from current levels to 32% upside....um....so, still a bargain, right? Bullish",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984194040298462
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-28T22:29:53Z",
+        "content": "@amd5ever $IBRK??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956461787223816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-28T22:23:17Z",
+        "content": "$IBKR  will gradually make change 1% per day starting tomorrow to allow traders to orderly \u201cadjust portfolios\u201d \n\nProb petty high margin holdings in $TSLA ?",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974591135978699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-28T22:02:03Z",
+        "content": "$IBKR  INCREASES margin requirement in $TSLA shares from 30% to 40% Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918726086616516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-28T14:33:48Z",
+        "content": "Tesla Bear at Cowen Growls Yet Again - TheStreet $TSLA thestreet.com/investing/sto...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919791221618652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-26T00:41:34Z",
+        "content": "Tesla boss Elon Musk is running out of road now is rivals have woken up | Business | The Sunday Times $TSLA thetimes.co.uk/article/tesl...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9649192094802856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-25T22:20:06Z",
+        "content": "Elon Musk has lost one of Tesla\u2019s competitive weapons $TSLA ft.com/content/6b4d6dc2-7d9...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997671246528625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-24T22:00:10Z",
+        "content": "Elon Musk\u2019s Tesla relies on investor confidence the way its cars rely on electricity. What happens when it dries up? $TSLA wsj.com/articles/investors-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986127495765686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-24T19:11:32Z",
+        "content": "Because Schultz created $SBUX that employs ~300k people and Beyonce' um, sings and dances?\n\n \"Queen Bey (Beyonce'), he tweeted, has an estimated net worth in the neighborhood of half a billion dollars. \u201cLet\u2019s have Howard Schultz explain to us why he should be worth more than Beyonc\u00e9.\u201d https://www.bloomberg.com/news/features/2019-05-23/the-wealth-detective-who-finds-the-hidden-money-of-the-super-rich via @BW",
+        "sentiment": {
+            "TextBlob": 0.18666666666666668,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953888654708862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-24T14:40:26Z",
+        "content": "Lean\u2019s Impact on Productivity Being Missed valueplays.net/2019/05/24/l... $STUDY $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989429116249084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-24T14:38:59Z",
+        "content": "Oil valueplays.net/2019/05/24/oil/ $OIL $DTO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974849224090576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-23T12:31:48Z",
+        "content": "Tesla shares set to fall for a 7th straight day as more analysts warn of trouble $TSLA cnbc.com/2019/05/23/tesla-s...",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.0717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998088538646698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-21T13:25:30Z",
+        "content": "Calabria: \u201cIf We Do An Offering Common Shares Will Continue to Trade\u201d $FNMA valueplays.net/2019/05/20/c...",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959697723388672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-20T21:25:37Z",
+        "content": "$TSLA consensus eps 12/31 $6.50.  Today ? ($1.19). Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944263696670532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-20T19:55:47Z",
+        "content": "Calabria: \u201cIf We Do An Offering Common Shares Will Continue to Trade\u201d $FNMA valueplays.net/2019/05/20/c... Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992056488990784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-20T17:24:52Z",
+        "content": "Kallanish Energy: Shale industry to be profitable in 2019: IEA: The shale industry worldwide is expected to achieve positive free cash flow this year, according to a report released by the International Energy Agency.\nIt would be the first year since 2010 cash flow is predicted to be positive, anticipating a 50% increase in cash flow. There also is expected to be a 20% decrease in investment between 2017 and 2018 in the U.S. sector, which is the global leader in terms of spending on energy supply. $OIL",
+        "sentiment": {
+            "TextBlob": 0.11306818181818183,
+            "NLTK": 0.9638,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9943570494651794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-20T11:56:56Z",
+        "content": "Tesla falls after analyst says Musk distracting carmaker with 'sci-fi projects' $TSLA cnbc.com/2019/05/20/wedbush...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996046423912048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-20T03:48:33Z",
+        "content": "Trade war and Iran tensions creating a 'very unstable' oil market: Novak $OIL $DTO cnbc.com/2019/05/19/novak-t...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.8016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983819723129272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-18T16:45:58Z",
+        "content": "You know Bezos will beat Musk to autonomous driving $TSLA $AMZN \n\nAmazon is spending billions on internet satellites, self-driving cars and more cnbc.com/2019/05/17/amazon-...",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975538849830627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-17T15:03:22Z",
+        "content": "$KMI at a 52 week high and pays 5% dividend. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937067627906799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-17T14:24:01Z",
+        "content": "At this rate Tilson will be right about $TSLA  by July 4th, well before his \u201cend of year\u201d prediction Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965860843658447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-17T05:58:21Z",
+        "content": "Amazon leads $575 million investment round for food delivery company Deliveroo\n$AMZN cnbc.com/2019/05/17/amazon-...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9386046528816223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-16T16:10:34Z",
+        "content": "$TSLA doing a nice slow fade..... Bearish",
+        "sentiment": {
+            "TextBlob": 0.14999999999999997,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848595261573792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-16T16:03:22Z",
+        "content": "Kinder Keeps Buying (update 22) valueplays.net/2019/05/16/s... $KMI 's chairman has now personally bought over $100M of stock since Jan Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9578365683555603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-16T13:26:22Z",
+        "content": "Mortgage Credit, Housing and GDP valueplays.net/2019/05/10/m... $STUDY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981366395950317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-16T13:25:29Z",
+        "content": "Kinder Keeps Buying (update 21) valueplays.net/2019/05/12/s... $KMI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969077706336975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-16T10:22:06Z",
+        "content": "Roku CEO: Media companies are partnering with us, not destroying us $ROKU cnbc.com/2019/05/15/roku-ce...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4449,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9260883331298828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-10T11:12:29Z",
+        "content": "Tesla's Capital Raise Offered No Real Benefit To The Company Or Its Suffering Shareholders $TSLA forbes.com/sites/jimcollins...",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997623562812805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-09T21:12:43Z",
+        "content": "$MODG another record quarter and raise guidance (again). Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976563453674316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-06T01:41:19Z",
+        "content": "Amazon can already ship to 72% of US population within a day, this map shows - $AMZN apple.news/ArxjPWtEcScOdGFL...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908460974693298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-05T13:18:43Z",
+        "content": "Warren Buffett on Tesla: 'I'd bet against any company in the auto business' $TSLA $BRK  cnbc.com/2019/05/04/warren-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742821455001831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-03T10:27:04Z",
+        "content": "Berkshire Hathaway has been buying shares of Amazon, Warren Buffett says $AMZN cnbc.com/2019/05/03/berkshi...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7913440465927124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-05-02T02:44:40Z",
+        "content": "$IIPR ,,,,, it\u2019s going higher (pun intended)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5490829944610596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-30T13:14:54Z",
+        "content": "S&P Value Investor Index Update $SPY valueplays.net/2019/04/29/s... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982759952545166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-27T20:27:37Z",
+        "content": "$TSLA benzinga.com",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9652177691459656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-24T20:43:52Z",
+        "content": "A Dangerous Mind $TSLA autoextremist.com/current/2...",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952685236930847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-24T15:41:15Z",
+        "content": "Tesla should be valued at less than $100 a share, investor says $TSLA cnbc.com/2019/04/24/tesla-s...",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.5908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989637136459351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-19T21:13:29Z",
+        "content": "Oil Update\u2026.. valueplays.net/2019/04/17/o... $DTO $OIL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984571933746338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-17T20:17:30Z",
+        "content": "$KMI just hiked dividend 25%. Forward yield 5% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981325268745422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-16T11:49:26Z",
+        "content": "Richard Kinder has now personally spent ~$72m buying $KMI stock since 1/22/19 Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989456832408905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-15T11:47:01Z",
+        "content": "Tesla Can\u2019t Stop Dreaming Big - WSJ $TSLA wsj.com/articles/tesla-cant...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9516497850418091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-12T00:49:13Z",
+        "content": "A key Tesla supplier cuts growth plans, raising red flags over demand for the Model 3 - Los Angeles Times $TSLA latimes.com/business/autos/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964834451675415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-11T23:41:47Z",
+        "content": "$DNKN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888913631439209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-09T03:55:49Z",
+        "content": "Keep seeing people point to last weeks Barron\u2019s cover as a \u201ctop\u201d signal.  Please explain this then??? $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938104748725891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-08T13:16:27Z",
+        "content": "A New Way To Measure E&P Activity? valueplays.net/2019/04/08/a... $STUDY Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990091323852539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-08T13:15:56Z",
+        "content": "Markets Do Not Repeat, They Don\u2019t Even Rhyme $STUDY valueplays.net/2019/04/07/m... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993834495544434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-08T11:57:21Z",
+        "content": "The crowd-sourced, social media swarm that is betting Tesla will crash and burn - Los Angeles Times $TSLA latimes.com/business/autos/...",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916526675224304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-06T17:52:51Z",
+        "content": "Upgrades Based on Momentum, Not Fundamentals $STUDY valueplays.net/2019/04/05/u...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7101864814758301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-06T15:02:57Z",
+        "content": "Finding out how few people know $WMB and $KMI are c-corps, not MLP's and unlike MLP's  are fine for retirement accounts Bullish",
+        "sentiment": {
+            "TextBlob": 0.10833333333333334,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954956769943237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-06T12:13:42Z",
+        "content": "CVS And Walgreens Bet On Cannabis, Testing The Market And Responding To Consumer Demand For CBD $cvs $wag  forbes.com/sites/bencurren/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942633509635925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-05T18:20:32Z",
+        "content": "$CRBP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801033139228821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-05T16:26:31Z",
+        "content": "GREAT article on C-corp pipeline co's. I own both $WMB and $KMI barrons.com/articles/why-yo... Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7034,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9174307584762573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-05T12:25:06Z",
+        "content": "$DIS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988335967063904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-04T20:29:40Z",
+        "content": "Calabria confirmed $FNMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899351000785828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-04T14:59:04Z",
+        "content": "$XHB $XRT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907280206680298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-03T11:37:11Z",
+        "content": "Gotta think Gasparino article about privatizing/recapping GSE\u2019s and Calabria cloture news the same day are not coincidence.  $FNMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994315505027771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-03T11:19:14Z",
+        "content": "Hearing McConnell filed cloture on Calabria\u2019s nomination meaning he will be approved by as soon as  the end of the week. $FNMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9767274260520935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-03T00:30:02Z",
+        "content": "Trump mulls taking Fannie, Freddie private, seeks Wall Street input | Fox Business $FNMA  foxbusiness.com/politics/tr...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822608828544617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-02T21:44:16Z",
+        "content": "$GME",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863503575325012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-04-02T20:40:35Z",
+        "content": "Gasparino: -POTUS privately directs econ team to talk to Wall Street/PE execs to examine complete privatization/possible sale  $FNMA $FMCC Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931297898292542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-31T19:31:20Z",
+        "content": "Protect small lenders in GSE reform | TheHill $FNMA  thehill.com/blogs/congress-...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9754136204719543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-31T15:48:54Z",
+        "content": "Comment: iOS 13 will be the most important release to date for iPad $AAPL 9to5mac.com/2019/03/31/ios-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.2716,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849168658256531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-31T15:41:44Z",
+        "content": "Warren Buffett\u2019s HomeServices is now the largest resi brokerage in the country\n therealdeal.com/2019/03/27/... $BRK",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9701815843582153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-28T12:09:14Z",
+        "content": "Manufacturing Employment Uptrend Continues $SPY valueplays.net/2019/03/28/m... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966004490852356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-27T22:20:19Z",
+        "content": "Trump Memorandum on Housing Reform valueplays.net/2019/03/27/t... $FNMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950408339500427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-27T16:26:13Z",
+        "content": "Expect Crude Inventories to Drop Below 5yr. Avg $DTO $OIL valueplays.net/2019/03/27/e... Bullish",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995525479316711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-27T03:08:34Z",
+        "content": "ETFs Benefiting via Pipeline POWER etftrends.com/thematic-inve... $KMI $WMB",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9800329804420471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-27T02:20:20Z",
+        "content": "Sectors That Outperform In Yield Curve Inversion \u2013 UPFINA.... banks are big winners $BAC upfina.com/sectors-that-out...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830321073532104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-26T23:53:28Z",
+        "content": "My Q1 Unit Sales Estimate For Tesla: 60,828, Down 33% From Q4 - Anton Wahlman $TSLA seekingalpha.com/instablog/...",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970998764038086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-26T17:44:09Z",
+        "content": "So is $AAPL the most well capitalized US bank now?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3384,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.945927619934082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-26T17:42:23Z",
+        "content": "Tom Brokaw is medical marijuana's newest fan $IIPR nypost.com/2019/03/26/tom-b...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5756770968437195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-26T16:51:07Z",
+        "content": "Chemical Activity Barometer Turn Higher\u2026.. valueplays.net/2019/03/26/c... $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662715196609497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-25T19:05:54Z",
+        "content": "@Trump3445 @TrumpScum um....ok.....how's this related to $TSLA ??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973400235176086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-25T18:28:41Z",
+        "content": "Detecting \u201cPotential\u201d Fraud in Real-Time $TSLA .... this is amazing cdn2.hubspot.net/hubfs/4626... Bearish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9818230867385864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-25T15:20:40Z",
+        "content": "What\u2019s Keeping Oil From Rallying To $75? | oilprice.com: $DTO short working well  oilprice.com/Energy/Energy-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990649819374084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-25T12:36:59Z",
+        "content": "RBC lowered its price target on Tesla to $210 from $245 $tsla",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988424181938171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-24T21:53:59Z",
+        "content": "Data Still Very Positive For Equities valueplays.net/2019/03/19/d... $SPY",
+        "sentiment": {
+            "TextBlob": 0.29545454545454547,
+            "NLTK": 0.5984,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9894788861274719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-24T21:53:43Z",
+        "content": "Oil Inventories Should Continue To Fall valueplays.net/2019/03/20/o... $OIL $DTO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994968175888062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-24T21:53:30Z",
+        "content": "Market As Good A Value Today As 2016 valueplays.net/2019/03/20/m... $SPY",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.750404417514801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-14T18:38:59Z",
+        "content": "$TSLA \"Note how heavily skewed departures are in the legal and accounting \u2013 exactly what one would expect to see if fraud is occurring.\"",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965051412582397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-14T13:19:26Z",
+        "content": "$IIPR Rev up 111%, NI up 720% , FFO up 344% and div raised 80% YOY. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944174289703369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-14T13:05:28Z",
+        "content": "$TLRY Hires Ex-Goldman Managing Director $GS mjbizdaily.com/marijuana-fi...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943194389343262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-13T20:08:50Z",
+        "content": "$LL businessinsider.my/lumber-l...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806398749351501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-13T19:11:06Z",
+        "content": "T-Bill/10yr Treasury Spread and Recessions valueplays.net/2019/03/13/t... $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999358594417572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-12T21:32:04Z",
+        "content": "@parcha Same. if your into insider purchases, check out $KMI.  Richard Kinder has personally bought >$61M in stock since 1/29/19. yields ~5%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6643267869949341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-12T21:29:22Z",
+        "content": "Buffet's cost basis on $KO is ~$2.50/share. Current dividend is $1.60. Warren get's paid ~62% of his investment in cash annually to reinvest",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9737246632575989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-12T19:55:29Z",
+        "content": "@parcha those are from 2018... hey, i'm long $CHK.... the SA article is wrong ...sorry",
+        "sentiment": {
+            "TextBlob": -0.275,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997584223747253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-11T15:50:09Z",
+        "content": "With another 300k share purchase on Friday Richard Kinder has now personally bought >$61M of $KMI stock since 1/29/19 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836102724075317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-08T18:09:15Z",
+        "content": "Tilson is back with more on $TSLA ....  the \"growth story\" is fading.. if it is, the stock is seriously overpriced go.kaselearning.com/tesla-i... Bearish",
+        "sentiment": {
+            "TextBlob": 0.05555555555555556,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997625946998596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-08T00:52:08Z",
+        "content": "Tilson and others on $TSLA .... not good... I think bulls having a problem separating product/CEO  from the company go.kaselearning.com/tesla-a... Bearish",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998016953468323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-05T19:55:42Z",
+        "content": "Another $3.9M of $KMI stock bought by Richard Kinder. That's ~$55M since 1/29 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981321692466736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-05T17:28:57Z",
+        "content": "Recession??? valueplays.net/2019/03/05/r... $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5171,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999687910079956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-04T20:25:34Z",
+        "content": "Tilson makes a very good case against $TSLA go.kaselearning.com/friday-... Bearish",
+        "sentiment": {
+            "TextBlob": 0.9099999999999999,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9730832576751709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-04T16:41:43Z",
+        "content": "Richard Kinder bought another $1.5M of $KMI stock Friday. He's now bought $52M since 1/29 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947835803031921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-03T16:25:47Z",
+        "content": "Chemical Activity Barometer Turns Higher\u2026.. valueplays.net/2019/02/26/c... $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9682782292366028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-03T16:25:26Z",
+        "content": "Oil Supplies Falling valueplays.net/2019/02/27/o... $OIL $DTO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996618032455444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-03T16:24:46Z",
+        "content": "Real GDP & Real Private GDP Higher on Fiscal Policies.. $SPY valueplays.net/2019/02/28/r... Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955337047576904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-03T16:24:18Z",
+        "content": "S&P 500 Intrinsic Value Update valueplays.net/2019/03/01/s... $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997535228729248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-03-01T22:27:02Z",
+        "content": "Richard Kinder has now bought ~$50M of $KMI stock in the last month... $KMI also hit a 52-week high today ... also yields 5% Bullish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97159743309021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-26T23:42:50Z",
+        "content": "Seriously, Musk might be the dumbest genius I've ever seen... $TSLA Can't his board delete his twitter account?",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986514449119568
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-25T23:41:46Z",
+        "content": "Calabria  confirmation still on for tomorrow? $FNMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967027306556702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-25T23:28:02Z",
+        "content": "Richard Kinder has now personally spent ~$39M on open market purchases of $KMI stock since 1/25 Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899460673332214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-20T20:47:26Z",
+        "content": "$WMB raises dividend 11%.... now yielding 5.5% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963339567184448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-13T23:25:08Z",
+        "content": "Richard Kinder has now bought over $23M in $KMI stock in two weeks Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983856678009033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-07T19:36:55Z",
+        "content": "Once upgraded Bayside refinery comes on line, 6wks, should see crude inventories drop quickly. Oil prices to rise. $OIL Bullish",
+        "sentiment": {
+            "TextBlob": -0.18333333333333332,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980849027633667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-06T23:07:46Z",
+        "content": "$D $PRIM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964612126350403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-06T22:59:09Z",
+        "content": "$MODG reports record results.  Operating income up 62%.  Top Golf only getting more valuable.   Forecast 20% rev growth for 2019.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.7778,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8922126889228821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-02-06T16:03:18Z",
+        "content": "Richard Kinder has spent $10.3M in the past week buying $KMI stock ...... it yields 5% Bullish",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989480376243591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-01-30T17:31:12Z",
+        "content": "Market Missing The Big Picture on Oil $OIL valueplays.net/2019/01/30/m...",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999546468257904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-01-23T14:58:25Z",
+        "content": "Misinformation out there on the effects the $SHLD chapter 11 will have on $SRG has $SRG trading at absurdly low prices Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997815489768982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-01-09T22:16:08Z",
+        "content": "$BP discovered a billion barrels of oil in the Gulf of Mexico... thats great, their track record there is spotless",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882476925849915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2019-01-05T19:19:04Z",
+        "content": "People who are looking at $MODG as a \"golf company\"  are missing a much larger picture now... Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998061060905457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-11-08T01:55:21Z",
+        "content": "$IIPR YOY Revs up 150%, div up 40%, AFFO up 250% ...... EPS from ($.21) to $.49 and made 3 more property deals...100% leased",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9837678074836731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-11-02T14:46:55Z",
+        "content": "Another cheap one, $PAH will close Arysta sale 12/31, pay down debt to 3.5X EBITDA and start $750M buyback (25% of current market cap)",
+        "sentiment": {
+            "TextBlob": 0.08148148148148147,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981057643890381
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-10-25T02:36:03Z",
+        "content": "$MODG growing income from ops 77% YOY... current valuation doesn't even consider the potential of its TopGolf stake Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991058707237244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-10-23T01:37:08Z",
+        "content": "S&P Intrinsic Value Index\u2026.. We Are Nowhere Near \u201cBubble\u201d Territory  $spy valueplays.net/2018/10/22/s...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977136850357056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-10-16T02:16:52Z",
+        "content": "$BAC from 2011",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9649962186813354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-10-16T01:57:19Z",
+        "content": "I remember when I bought $BAC in 2011 everyone was saying it was going under due to litigation.... how things change  wsj.com/articles/bank-of-am... Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980658888816833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-10-12T19:47:46Z",
+        "content": "Hey snowflakes, a 5% drop in $SPY is not a \"market meltdown\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876565933227539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-10-01T22:54:24Z",
+        "content": "Court: \"Nothing In The Stock Certificates Suggesting They Could Have Reasonably Expected The Net Worth Sweep\u201d $FNMA valueplays.net/2018/10/01/t...",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993467926979065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-09-18T22:37:00Z",
+        "content": "$ACBFF to list on US exchanges in October youtube.com/watch?v=GYgBXH3...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932448267936707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-09-18T22:00:21Z",
+        "content": "Can you do $GTBIF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914829134941101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-09-18T15:52:09Z",
+        "content": "Perfect example: $CRM lost >$300M 2009-2018 yet mkt cap rose from $9B to $83B. Short fraud, recession, legal issues....NEVER pure valuation",
+        "sentiment": {
+            "TextBlob": 0.40285714285714286,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975727200508118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-08-28T19:54:46Z",
+        "content": "Really like $IIPR",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4201,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9749696850776672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-08-07T18:31:54Z",
+        "content": "Musk need to delete his twitter account. His rants are gonna get him in trouble $TSLA",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998938262462616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-08-07T00:35:41Z",
+        "content": "$HHC is compounding NOI at 28.9% annually.... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986296892166138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-08-03T00:19:26Z",
+        "content": "It's amazing that even with his recent underperformance Berkowitz is still almost 2X the $SPY since his funds inception.",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995966553688049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-08-02T21:33:51Z",
+        "content": "$MODG has the best CEO in the golf game....1st half sales increases:",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984725117683411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-07-25T02:37:34Z",
+        "content": "@ukarlewitz: $SPY +270%, $QQQ +540% since Zero Hedge founded",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913314580917358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-07-24T00:45:26Z",
+        "content": "Prime Day Wrap-Up: Amazon Generates $4.2 Billion, 40% Of Shoppers Made Unplanned Purchases retailtouchpoints.com/topic... $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9549658298492432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-07-20T02:20:55Z",
+        "content": "End-of-season natural gas storage inventories are forecast to be the lowest since 2008 EIA: $CHK",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999723494052887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-07-17T16:48:27Z",
+        "content": "Peter Schiff \u201cgold is in value territory\u201d $QQQ $SPY $GLD $SLV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841997623443604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-07-12T03:49:15Z",
+        "content": "Oil could go above $100 by 2020 cnbc.com/2018/07/10/core-la... $OIL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992892742156982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-07-10T18:52:29Z",
+        "content": "Apple Maps is being rebooted, but Google Maps has a huge adoption lead 9to5mac.com/2018/07/10/goog... $AAPL maps almost unusable",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.4497,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958729147911072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-07-10T03:53:03Z",
+        "content": "Study: Starbucks Mobile App Usage Exceeds Popular Payment Apps retailtouchpoints.com/topic... $SBUX",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856241941452026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-06-28T22:57:43Z",
+        "content": "Recent court decisions may clear the way for $FNMA shareholders seekingalpha.com/article/41...",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9686020612716675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-06-21T18:57:11Z",
+        "content": "$GE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9438645243644714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-06-06T23:44:46Z",
+        "content": "This is really interesting $STUDY bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4576,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9941304326057434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-06-06T19:56:50Z",
+        "content": "$PAH in talks to sell 1/2 its biz for $4B....current market cap of whole co $3.5B",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960089921951294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-05-12T22:29:00Z",
+        "content": "$TSLA thewealthadvisor.com/articl...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887157082557678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-04-02T21:53:06Z",
+        "content": "ESPN to start airing shows from the S Street Seaport $HHC variety.com/2018/tv/news/es...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.94465571641922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-03-16T20:42:26Z",
+        "content": "Boeing\u2019s Valuation Pop $BA valueplays.net/2018/03/15/b...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906439781188965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-03-06T16:23:31Z",
+        "content": "Fannie has reached the 10% moment, after all | R Street Institute | $FNMA rstreet.org/2018/03/06/fann...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8527048826217651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-02-20T16:20:17Z",
+        "content": "$META statista.com/chart/12936/so...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993229866027832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-01-11T15:22:54Z",
+        "content": "$AMZN now has 44% of all e-commerce sales digitalcommerce360.com/2018...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8683946132659912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-01-08T21:53:51Z",
+        "content": "@CNBCFastMoney: One of the creators of #ethereum will joins us tonight to tell us how high he sees it going $ETD twitter.com/cnbcfastmoney/s...",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5762584805488586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-01-04T07:47:49Z",
+        "content": "$BTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985431432723999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-01-04T07:47:28Z",
+        "content": "$SPY $SPX nope",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984170198440552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2018-01-03T16:21:52Z",
+        "content": "$KMI investorplace.com/2018/01/w...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9700183272361755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-12-22T19:05:56Z",
+        "content": "Seachange CEO $SEAC valueplays.net/2017/12/22/s...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9843601584434509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-11-09T16:28:30Z",
+        "content": "$AMZN to take on athletic apparel makers  digitalcommerce360.com/2017...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898253083229065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-11-01T19:20:29Z",
+        "content": "$TSLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9475893974304199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-10-30T20:11:53Z",
+        "content": "FHFA lawyers in court \"the conservatorship is temporary but indefinate\" Only someone from the gov't could make that statement $FNMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997654378414154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-10-26T21:23:16Z",
+        "content": "Elon Musk Was Wrong About Self-Driving Teslas - Bloomberg $TSLA bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982557892799377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-10-16T04:12:35Z",
+        "content": "$SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620757699012756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-28T21:20:18Z",
+        "content": "Amazon\u2019s New Echos Bring Alexa to the Bedroom and Beyond - WSJ \n $AMZN $GOOG $AAPL wsj.com/articles/amazons-ne...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964231848716736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-20T12:39:29Z",
+        "content": "$snap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7506428360939026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-20T12:21:53Z",
+        "content": "$GOOG @CNBC Google 'Accepts' Bitcoin With Payments API Update twitter.com/bakerthirteen1/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959059953689575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-15T20:44:33Z",
+        "content": "He said same about $XOM, was 100% wrong..... US shale oil and gas investors are on 'road to ruin,' warns Jim Chanos cnbc.com/2017/09/13/us-shal...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996566772460938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-04T11:55:15Z",
+        "content": "$ETH.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9594240188598633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-01T21:05:59Z",
+        "content": "Howard Hughes\u2019 Houston Assets \u201cFully Operational\u201d $HHC valueplays.net/2017/08/31/h...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9171473979949951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-01T21:05:33Z",
+        "content": "People Still Using CAPE for Valuation?? $SPY valueplays.net/2017/09/01/p...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968774318695068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-09-01T21:05:10Z",
+        "content": "Despite Pessimism Economy Doing Just Fine $SPY valueplays.net/2017/09/01/d...",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": 0.4423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9215797781944275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-08-31T15:30:26Z",
+        "content": "I'm a little insulted $WFC didn't open a fake account for me....seems like everyone else got one....wtf is wrong with me? #FOMO",
+        "sentiment": {
+            "TextBlob": -0.296875,
+            "NLTK": -0.2624,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991291165351868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-08-28T20:01:57Z",
+        "content": "$KMI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9610861539840698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-08-15T03:30:47Z",
+        "content": "Instagram\u2019s CEO Wants to Clean Up the Internet\u2014But Is That a Good @&#$ing Idea? wired.com/2017/08/instagram...",
+        "sentiment": {
+            "TextBlob": 0.4222222222222222,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9563087224960327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-08-04T15:57:29Z",
+        "content": "$SNAP $GOOG $GOOGL $CRM $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973083734512329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-08-04T15:35:48Z",
+        "content": "Senate confirms two energy commission nominees, restoring quorum | GREAT news for pipeline co's $KMI $WMB thehill.com/policy/energy-e...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.8455,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952934384346008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-08-03T23:22:50Z",
+        "content": "Is The EIA Exaggerating U.S. Oil Production? | oilprice.com/ $USO $OILNF oilprice.com/Energy/Crude-O...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990257024765015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-08-03T17:41:25Z",
+        "content": "@howardlindzon its is all current middle school/high school kids use.   $META has no interest form them",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985045194625854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-31T21:53:04Z",
+        "content": "\"A Pattern of Deception\" $FNMA howardonmortgagefinance.com...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975932240486145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-31T19:19:44Z",
+        "content": "Executives Are More Worried About Amazon Than Trump\u2019s Setbacks - $AMZN bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.1354,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978618025779724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-31T19:17:47Z",
+        "content": "Real Private GDP ~40% Higher Than The Real GDP $SPY valueplays.net/2017/07/31/r...",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9760772585868835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-28T18:39:18Z",
+        "content": "Reclaiming South Street Seaport for New Yorkers - The New York Times $HHC nytimes.com/2017/07/27/nyre...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8915972709655762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-28T02:14:37Z",
+        "content": "It's not just Amazon's fault | Vitaliy Katsenelson Contrarian Edge $AMZN contrarianedge.com/2017/07/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3089,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982934594154358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-26T18:34:59Z",
+        "content": "Carney Tries (and fails) To Claim The NYT and Rolling Stone \u201cSmeared\u201d Ugoletti $FNMA valueplays.net/2017/07/26/c...",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992092847824097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-18T19:01:31Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-17T19:56:12Z",
+        "content": "$GOOGL $META $CME $PACW $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984121322631836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-13T22:27:22Z",
+        "content": "$PYPL $SQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963292479515076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-07-11T21:47:30Z",
+        "content": "$SNAP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7506428360939026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-06-29T18:19:04Z",
+        "content": "Chesapeake Energy Has A Major Oil Discovery In South Texas - Chesapeake Energy Corporation (NYSE: $CHK)  seekingalpha.com/article/40...",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9713751077651978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-06-22T13:23:27Z",
+        "content": "$PAH current market cap $3.5B",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879823923110962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-06-09T19:09:25Z",
+        "content": "ExxonMobil: NY Attorney General\u2019s \u201cReckless and False Allegations\u201d Misstate Climate Policies | $XOM news.exxonmobil.com/press-r...",
+        "sentiment": {
+            "TextBlob": -0.17500000000000004,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983367919921875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-06-04T01:40:52Z",
+        "content": "$hlf",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.968055784702301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-06-02T01:21:58Z",
+        "content": "Treasury\u2019s profits to date on its investment in the GSEs 5X > than the combined profit on all other investments from great recession $FNMA",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7800474762916565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-06-01T23:57:27Z",
+        "content": "Trump allies push new Fannie and Freddie reform plan $FNMAhttps://www.ft.com/content/2b646fc2-4704-11e7-8519-9f94ee97d996",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9674974083900452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-06-01T20:56:46Z",
+        "content": "Don't look now but Houston's economy, which never stalled during the oil price decline is now surging $HHC dallasfed.org/research/indi... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9768090844154358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-27T16:56:09Z",
+        "content": "Big drop in U.S. oil stocks finally on the way, traders say | Reuters $USO $OILNF reuters.com/article/us-opec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827147126197815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-11T01:36:12Z",
+        "content": "Fannie, Freddie regulator says may have to retain earnings | $FNMA mobile.reuters.com/article/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998430073261261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-04T21:00:52Z",
+        "content": "Great Q by $MODG ....just bumped FY EPS estimates by nearly 50% Bullish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985628724098206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-04T19:23:18Z",
+        "content": "$CHK",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.960105836391449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-03T20:43:26Z",
+        "content": "Think it was 2,000 $DJIA point ago",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968392848968506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-03T01:09:29Z",
+        "content": "The Confused Status of the Plaintiff Class Claims in Perry Capital v. Mnuchin $FNMA forbes.com/sites/richardeps...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992128610610962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-03T01:07:13Z",
+        "content": "SeaChange International: Strong Balance Sheet Provides Floor Until Eventual Sale Of Company - $SEAC seekingalpha.com/article/40...",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9702714681625366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-05-01T20:51:45Z",
+        "content": "Why You Should Buy Chesapeake Ahead Of Earnings - Barron's $CHK barrons.com/articles/why-yo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852449297904968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-04-27T14:01:19Z",
+        "content": "$HHC CEO wants to purchase $50M warrant for company shares if shareholders approve.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975895881652832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-04-27T01:02:41Z",
+        "content": "@ukarlewitz: $HYG and $JNK hit new ATHs today (div adjusted). The credit crisis your pundit promised last year not going so well",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.4101,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994010925292969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-04-06T17:45:18Z",
+        "content": "Top Heavy Retail | Bespoke Investment Goup bespokepremium.com/think-bi... $AMZN",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861992597579956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-03-31T15:45:42Z",
+        "content": "@ukarlewitz: That harbinger of global armageddon, the Baltic Dry Index, is at a new  2-1/2 year high. $BDI",
+        "sentiment": {
+            "TextBlob": 0.057424242424242426,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899502992630005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-03-22T19:01:11Z",
+        "content": "GSE Reform: Reuters: factual errors/unnamed sources says nothing this year. American Banker: senior official OTR says \"within months\" $FNMA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985190033912659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-03-21T20:34:51Z",
+        "content": "@ukarlewitz: but there have been 5 streaks longer than 95 days w/out 1% drop since 1980. $SPX back near recent high w/in 2 wks each time",
+        "sentiment": {
+            "TextBlob": 0.065,
+            "NLTK": -0.3919,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935025572776794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-02-24T21:54:25Z",
+        "content": "Fed To Raise in March?? Not Likely $TNX talkmarkets.com/content/us-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986773133277893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-02-23T03:42:27Z",
+        "content": "Berkowitz Responds $FMCC $FNMA talkmarkets.com/content/new...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965258240699768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-02-21T22:46:37Z",
+        "content": "Safeco Field gets a taste of Topgolf: \u2018The place where millennials hit golf balls\u2019 | $MODG owns just under 20% seattletimes.com/sports/mar...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9206131100654602
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-02-12T19:47:24Z",
+        "content": "But, but QE was propping up the market!! @ukarlewitz: biggest mistake many made. Instead of bear market, $SPX rose 20% since QE3 ended",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": -0.5696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972744584083557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-02-08T02:58:51Z",
+        "content": "Apple Pay Now Supported by 36% of Merchants in United States $Aapl macrumors.com/2017/02/07/ap...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.968572735786438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-01-31T14:44:08Z",
+        "content": "$SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9620757699012756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ToddSullivan",
+        "timestamp": "2017-01-23T16:47:34Z",
+        "content": "International Large Cap Recovery Under Way $TNX talkmarkets.com/content/glo...",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964157342910767
+            }
+        },
+        "image_url": ""
+    }
+]

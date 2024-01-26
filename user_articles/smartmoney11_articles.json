@@ -1,0 +1,688 @@
+[
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-19T01:02:19Z",
+        "content": "$QTUMBTC $NAVBTC $UBQBTC $ADCBTC $MCOBTC $OMGBTC $TKNBTC AND MORE! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980329871177673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-18T14:33:09Z",
+        "content": "$QTUMBTC call from the #watchlist was money!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984102249145508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T19:48:15Z",
+        "content": "Im up 50 percent on my $OMGBTC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8382835388183594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T19:43:44Z",
+        "content": "@dj2nazty follow this man $BTC.X $ETH.X Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958658218383789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T19:42:19Z",
+        "content": "Did u grab $STORJ ? because we were all over it Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996249675750732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T16:12:21Z",
+        "content": "$BTC.X needs to show some volume",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995679259300232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T16:10:43Z",
+        "content": "$TKNBTC still ripping! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99774569272995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T15:19:36Z",
+        "content": "$TKNBTC broke 200 ema , upper band acting as res, has volume .. has potential for more",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9895416498184204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T15:18:32Z",
+        "content": "$NEOBTC broke to the downside , might come to its next support level",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998477041721344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T15:17:14Z",
+        "content": "$PAYBTC broke to the downside now sitting on support",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997545063495636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-17T14:46:23Z",
+        "content": "$BTC.X trying to break its flag to the upside, needs more volume IMO",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994937181472778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T21:48:11Z",
+        "content": "$CVCBTC chart tradingview.com/x/vBd9icLo/ via tradingview.com/ decision making time within the next 16 hours",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952924251556396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T21:46:58Z",
+        "content": "$MCOBTC chart tradingview.com/x/ovehAQx6/ via tradingview.com/ flagging",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960305094718933
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T21:46:11Z",
+        "content": "$OMGBTC chart tradingview.com/x/Ntkhtuhc/ via tradingview.com/ might be looking for its next leg up as long as BTC stays safe",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991139769554138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T21:45:01Z",
+        "content": "$TKNBTC chart tradingview.com/x/FfTsVoZR/ via tradingview.com/ needs to get over this 200 ema res and hold with volume",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986578226089478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T21:43:09Z",
+        "content": "$NEOBTC chart tradingview.com/x/yFgT7pZh/ via tradingview.com/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961605072021484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T21:41:06Z",
+        "content": "$NEOBTC struggling to break res here, if it can break it , next stop is possibly 200 ema on 4 hour chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987448453903198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T19:31:30Z",
+        "content": "#swingposition $PAYBTC $NEOBTC $MCOBTC $TKNBTC $QTUMBTC $ADXBTC $FUNBTC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973892569541931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-09-16T19:24:05Z",
+        "content": "$BTC.X $ETH.X $LTC.X ALL FLAGGING ON 4 HOUR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922642707824707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-09T22:04:40Z",
+        "content": "swinging $GNT.X $XRP.X $STRAT.X u will be thanking me sooner then later Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913809895515442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-08T22:47:13Z",
+        "content": "$BTS.X LOOKING TO CONFIRM C WITH A GREEN DAY, NEXT IS D... NOT EXACT PRICE Bullish",
+        "sentiment": {
+            "TextBlob": -0.10833333333333334,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992245435714722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-08T22:45:55Z",
+        "content": "$XLM.X LOOKING TO CONFIRM C AND HEAD TOWARDS D, NOT EXACT PRICE Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972686767578125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-08T17:24:36Z",
+        "content": "Who remembers me posting this? $ETH.X $ETHBTC CALLED THIS DAYS AGO, UR FAULT IF U DIDNT CATCH IT! ALSO CALLED $BTC.X Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5754,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997162222862244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-07T18:34:43Z",
+        "content": "$LTC.X GRABBED LTC AT C, RIDING THIS BAD BOY ALL THE WAY TO AT LEAST THE 200 EMA Bullish",
+        "sentiment": {
+            "TextBlob": -0.4999999999999999,
+            "NLTK": -0.6408,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9797677397727966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-06T22:57:29Z",
+        "content": "$ETH.X STILL HEADING TOWARDS D LIKE PLANNED (NOT EXACT PRICE WHERE D IS PLACED) Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.4995,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995611310005188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-06T15:01:20Z",
+        "content": "$ETH.X ONCE AGAIN POSTED IN OUR CHAT AUGUST 4TH, GUESS WHAT HAPPENED NEXT! BOOM! #WATCHLIST #AHEADOFTHEGAME Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986457228660583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-06T14:59:44Z",
+        "content": "$BTC.X THIS WAS POSTED IN OUR CHAT AUG 4TH, GUESS WHAT HAPPENED NEXT! #WATCHLIST #AHEADOFTHEGAME Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990410208702087
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-04T22:02:12Z",
+        "content": "$BTS.X GOING UP FOR D, WAIT FOR D CONFIRMED , THEN IT WILL HAVE A DECENT PULLBACK, RE ENTRY AFTER THAT IS NEXT D",
+        "sentiment": {
+            "TextBlob": 0.18888888888888888,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9795694947242737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-04T21:44:30Z",
+        "content": "$XLM.X JUST CLOSED D, NOW PULL BACK IS COMING, NEXT BEST ENTRY WILL BE NEXT CONFIRMED D, MY TEAM WILL BE READY",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6669197082519531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-04T14:49:36Z",
+        "content": "$XLM.X IS A ROLLER COASTER BUT WE CALLED THE BIG MOVE 2 TO 3 DAYS AGO! BIG MONEY $BTC.X Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998971700668335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-03T14:51:11Z",
+        "content": "These are the type of ppl we are involved with! $VERIBTC $VERI.X $BTC.X $ETH.X $LTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970034956932068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-03T13:56:12Z",
+        "content": "$ETH.X POSSIBLE HEAD AND SHOULDERS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9174031615257263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-03T10:10:42Z",
+        "content": "Know @ReggieMiddleton ?  He will be live with us tonight 830 pm eastern! Contact me for more info $BTC.X $ETH.X $LTC.X $VERI.X Bullish",
+        "sentiment": {
+            "TextBlob": 0.3352272727272727,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969780445098877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T19:00:28Z",
+        "content": "$XLM.X ahead of the game! This is what we do!",
+        "sentiment": {
+            "TextBlob": -0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995504021644592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T18:37:48Z",
+        "content": "$XLM.X check my posts , ive been banging the table on this , you couldve had this! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993796348571777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T16:54:56Z",
+        "content": "$XLM.X BROKE DAILY DOENTREND TODAY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998578667640686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T01:14:28Z",
+        "content": "$XRP.X  last post i was right that after C confirms it will pull back, we are now approaching D (not set price)",
+        "sentiment": {
+            "TextBlob": 0.07142857142857142,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933034777641296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T01:07:51Z",
+        "content": "$BTC.X C is officially confirmed, next stop is D .. u can ride this up to D ,when D is confirmed u can also short",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9613682627677917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T00:27:00Z",
+        "content": "$ETH.X not going to, needs another pull back before next leg up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998957633972168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T00:23:06Z",
+        "content": "$ETH.X will pull back here, will be great entry pos at D for next leg up IMO",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5228904485702515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T00:04:28Z",
+        "content": "$BTC.X confirmed C, now we are heading up to D after D is confirmed, next candle  it will dip down",
+        "sentiment": {
+            "TextBlob": 0.16111111111111112,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969315528869629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-02T00:01:42Z",
+        "content": "$ETH.X heading up to C once C is confirmed it will dipp down to D witch is below where B's previous low was",
+        "sentiment": {
+            "TextBlob": 0.019444444444444445,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985658526420593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-01T23:23:09Z",
+        "content": "$ETH.X confirmed B going up now to C at confirmation of C if ur holding u can sell and enter short to D then enter long at D for next leg up",
+        "sentiment": {
+            "TextBlob": 0.08750000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940366744995117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-01T23:20:30Z",
+        "content": "$XLM.X confirmed C now its time for a pull back to get an entry pos long getting ready 4 it to break daily downtrend",
+        "sentiment": {
+            "TextBlob": 0.11000000000000001,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981028437614441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-01T23:17:37Z",
+        "content": "$XRP.X looks to have confirmed B , now it should move up to C then pull back , then i will think about entry pos",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950295090675354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-01T23:15:34Z",
+        "content": "$BTC.X looks to be confirming C , now looking to move up to confirm D before it drops again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989628791809082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-01T22:33:05Z",
+        "content": "$BCNBTC chart tradingview.com/x/eOF4XdKF/ via tradingview.com/ Lotto play, breaking daily downtrend, nice and cheap plenty of room to run",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838998317718506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-01T22:26:27Z",
+        "content": "$BTCUSD chart tradingview.com/x/k7RnFoPU/ via tradingview.com/ looking to confirm C next is D then i think we see a minor pull back",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995425939559937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "smartmoney11",
+        "timestamp": "2017-08-01T22:23:19Z",
+        "content": "$XRPBTC chart tradingview.com/x/nPXaFuWp/ via tradingview.com/ pattern just closed D think we see a pull back before we get next leg up",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993365406990051
+            }
+        },
+        "image_url": ""
+    }
+]

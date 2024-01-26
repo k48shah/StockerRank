@@ -1,0 +1,912 @@
+[
+    {
+        "username": "Mojitoman",
+        "timestamp": "2021-07-14T15:50:11Z",
+        "content": "$MMAT look at the NDX Nasdaq it\u2019s falling big there\u2019s nothing wrong with the stocks",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.2392,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7136315703392029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2021-07-14T15:43:15Z",
+        "content": "$WISH don\u2019t sell look at the NDX Nasdaq it\u2019s free falling there is nothing wrong with WISH Bullish",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": 0.3514,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9531129002571106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2021-01-20T00:29:50Z",
+        "content": "$SNDL you mean stutter the words. Not sure he will do that.  He will need to ask  K",
+        "sentiment": {
+            "TextBlob": -0.28125,
+            "NLTK": -0.4519,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994972944259644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-30T13:26:31Z",
+        "content": "$GNUS guys great news with EROS. And merger with STX this afternoon. Get in NOW before the \ud83d\ude80 it\u2019s reasonably cheap now. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996019005775452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-30T13:24:08Z",
+        "content": "$DLPN guys great news with EROS. And merger with STX this afternoon. Get in NOW before the \ud83d\ude80 it\u2019s reasonably cheap Bullish",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989763498306274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-27T16:35:43Z",
+        "content": "$OCGN it\u2019s ok I\u2019ll buy for you",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997873902320862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-27T16:29:02Z",
+        "content": "$OCGN Not",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984967708587646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-27T15:56:52Z",
+        "content": "$OCGN all charts show up up up its time for    those procrastinators to by in now Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879728555679321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-27T15:50:23Z",
+        "content": "$OCGN could you imagine this with more volume \ud83d\ude80. But ill take it slow uptrend Bullish",
+        "sentiment": {
+            "TextBlob": -0.10000000000000002,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989585876464844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-27T15:35:24Z",
+        "content": "$OCGN man it\u2019s still cheap Buy more. Let\u2019s see a rip Bullish",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990230798721313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-27T15:28:05Z",
+        "content": "$OCGN Hey it\u2019s been up $17+ on the 52 wk. I\u2019ll take half see you there Bullish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918854236602783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-17T18:13:56Z",
+        "content": "$DFFN has made gains these few days without news. Think \ud83e\udd14 how it\u2019s going to look with it Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956824779510498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-09T18:19:32Z",
+        "content": "$HOTH daily teaser",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9588775634765625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-07T18:46:55Z",
+        "content": "$AIM reaching PH whom ever is thinking on entering do it NOW!! It\u2019s about to blow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3365,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987961053848267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-07-07T16:01:52Z",
+        "content": "$AIM The NEWS must be in. \ud83e\udd29 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999446451663971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-30T13:53:31Z",
+        "content": "$CTRM HOTH is catching fire it\u2019s still early Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926566481590271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-30T13:49:34Z",
+        "content": "$CTRM go to HOTH for positive COVID-19 news get in now!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.4438920454545454,
+            "NLTK": 0.6679,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9625338912010193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-26T13:17:48Z",
+        "content": "$GNUS ....ANDY HEYWARD, CHAIRMAN AND CEO OF GENIUS BRANDS INTERNATIONAL, ACQUIRES 11.6 MILLION SHARES OF GNUS COMMON STOCK gnusbrands.com/blog/post/59...",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9643115401268005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-16T19:06:48Z",
+        "content": "$ADD How you figs?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9528768062591553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-10T20:25:41Z",
+        "content": "$CRIS This is a strong Company",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998725652694702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-10T20:24:26Z",
+        "content": "$CRIS it\u2019s probably a acquisition",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8030619621276855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-10T17:07:16Z",
+        "content": "$CRIS I don\u2019t think so. We have great news today. So pick up your marbles and go home",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6557,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995193481445312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-10T17:04:11Z",
+        "content": "$CRIS I\u2019ve been playing this bitch all day but I think now this is the big blast up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.739831805229187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-10T17:02:05Z",
+        "content": "$CRIS indicators showing up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979149699211121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-10T17:00:39Z",
+        "content": "$CRIS yea I heard it too Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993176460266113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-09T19:21:21Z",
+        "content": "$OAS I have a great \ud83d\udca1 if you see a lot of buyers a sell should bring price up just saying Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9275781512260437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-09T19:09:43Z",
+        "content": "$OAS read on $5 price tag",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925812482833862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-06-05T21:57:04Z",
+        "content": "$XWEL What kind of news?",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941001534461975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-05-21T19:41:52Z",
+        "content": "$EMWPF shhhh .... enjoy don\u2019t wake up the Baby \ud83d\udc3b",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980846643447876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-05-14T15:30:44Z",
+        "content": "$ASRT Sounds good. How you figure?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999424934387207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-05-07T19:49:05Z",
+        "content": "$SXTC How do you know Nostradamus?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998407781124115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-05-06T18:59:16Z",
+        "content": "$SXTC Don\u2019t you feel the pressure cooker ready to explode!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.48828125,
+            "NLTK": 0.3544,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987439513206482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-05-05T14:38:37Z",
+        "content": "$DFFN common let\u2019s cross VWAP!! Don\u2019t sell cheap Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333335,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7399328351020813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-04-28T16:20:04Z",
+        "content": "$CREX here we goooo!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978373646736145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-04-28T16:16:58Z",
+        "content": "$CREX there is interest Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976295232772827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-04-23T19:46:23Z",
+        "content": "$UAVS For those who are holding I would like to know and let other\u2019s why they should hold Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989973902702332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-04-20T19:56:55Z",
+        "content": "$EMWPF I\u2019ll settle for$7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956862926483154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-04-20T19:31:56Z",
+        "content": "$EMWPF OH Now you want to go NORTH bound! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994652509689331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-04-20T16:39:53Z",
+        "content": "$EMWPF I hope so. How do you figure?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989128053188324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-03-05T22:11:45Z",
+        "content": "$SNES explain yourself please.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927576780319214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-02-27T20:55:05Z",
+        "content": "$GHSI What are we waiting for?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997394323348999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-02-27T20:35:43Z",
+        "content": "$GHSI How do you know?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996911346912384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-02-03T15:48:10Z",
+        "content": "$EMWPF what?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977130889892578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-02-03T15:23:20Z",
+        "content": "$EMWPF jump on this fast moving train",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9695224761962891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-30T15:19:36Z",
+        "content": "$ADXSD needs volume to rocket",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976630210876465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-24T16:06:23Z",
+        "content": "$EMWPF How about some good PR to stop this massacre PLEASE!!!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6817,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841394424438477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-24T15:59:44Z",
+        "content": "$EMWPF English please",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9764091372489929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-15T20:43:08Z",
+        "content": "$CXDC here\u2019s your DD Chinese co and a signed deal it\u2019s a no brainer Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6388387680053711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-15T20:32:52Z",
+        "content": "$CXDC it\u2019s time to get in it looks like starting Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994001388549805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-13T20:57:41Z",
+        "content": "$BCDA yes you\u2019re wrong",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9237021803855896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-13T20:27:16Z",
+        "content": "$BCDA time to add",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9601468443870544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-13T20:04:01Z",
+        "content": "$BCDA WOW!!BioCardia Receives FDA 510k Approval For 8F Morph DNA Deflectable Guide Catheter. Great News!!! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8544,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9907025098800659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-13T19:53:10Z",
+        "content": "$BCDA let\u2019s gooo!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988019466400146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-10T20:07:40Z",
+        "content": "$CYTO wrong it\u2019s never been that low",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.3151,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9751142859458923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-03T15:33:30Z",
+        "content": "$EMWPF bears should just take a break and hibernate for a while there just going to loose Bullish",
+        "sentiment": {
+            "TextBlob": -0.07692307692307693,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983653426170349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2020-01-03T15:09:11Z",
+        "content": "$EMWPF little turbulence keep adding Bullish",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911256432533264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-12-11T16:51:35Z",
+        "content": "$DFFN It Should",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800450205802917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-12-11T16:49:13Z",
+        "content": "$DFFN demonstrating that TSC safely reduces tumor hypoxia by a novel mechanism of action, making the tumor up to 3 times more susceptible to radiation and chemotherapy. In Phase 2 testing of TSC in newly diagnosed inoperable GBM patients, a nearly 4-fold increase in 2-year survival was seen compared with historical controls. Bullish",
+        "sentiment": {
+            "TextBlob": 0.22272727272727275,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5602607131004333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-12-11T16:43:03Z",
+        "content": "$DFFN TIME TO BUY!!!!developing new treatments for life-threatening medical conditions by improving the body\u2019s ability to bring oxygen to the areas where it is needed most, announces the presentation of data signaling increased survival in inoperable glioblastoma multiforme (GBM) patients enrolled in the 19-patient lead-in portion of its open-label, dose-escalation Phase 3 study with Trans Sodium Crocetinate (TSC) plus standard of care (SOC). Chief Scientific Officer John Gainer, Ph.D. presented these findings today at the inaugural Bullish",
+        "sentiment": {
+            "TextBlob": 0.1590909090909091,
+            "NLTK": 0.8902,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9915948510169983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-12-11T15:14:53Z",
+        "content": "$DFFN TSC safely reduces tumor for inoperable GBM cancer increases 2 year survival Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9185889959335327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-12-11T15:08:03Z",
+        "content": "$DFFN it would be smart to have the impressive news on the top of the news on thinkorswim",
+        "sentiment": {
+            "TextBlob": 0.5714285714285714,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994462788105011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-10-21T19:31:12Z",
+        "content": "$EMWPF  30 minutes let\u2019s get this bitch jumping Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998855710029602
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-10-21T19:27:13Z",
+        "content": "$EMWPF stop selling start buying Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995700716972351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-06-12T22:40:36Z",
+        "content": "$ONCS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9737315773963928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Mojitoman",
+        "timestamp": "2019-06-02T22:28:23Z",
+        "content": "$RWLK fox13news.com/health/exoske... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997672975063324
+            }
+        },
+        "image_url": ""
+    }
+]

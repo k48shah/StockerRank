@@ -1,0 +1,4300 @@
+[
+    {
+        "username": "robbdavidson",
+        "timestamp": "2023-06-15T15:37:52Z",
+        "content": "$qqq I was dangerously call heavy from yesterday. Whew. Gotta snag profits while it\u2019s flowing. Way to ride the storm bulls! Bullish",
+        "sentiment": {
+            "TextBlob": -0.425,
+            "NLTK": -0.1007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9831607937812805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2023-06-01T18:08:16Z",
+        "content": "$qqq dig it! Capturing most calls profit today. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5378,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893641471862793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2023-05-30T11:32:38Z",
+        "content": "$QQQ now THIS is a call. \ud83d\udc4d Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993743300437927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2023-05-26T16:50:53Z",
+        "content": "$QQQ call me maybe? Taking the calls off the table to capture this fun ride. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.596,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957259893417358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2023-03-31T19:25:37Z",
+        "content": "$QQQ good grief. Time to watch my greed. Good ride into the weekend.",
+        "sentiment": {
+            "TextBlob": 0.19999999999999996,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989763498306274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2023-03-31T14:00:03Z",
+        "content": "$QQQ these calls tho. \ud83e\udd29 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998791515827179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2023-01-18T02:03:32Z",
+        "content": "$SHIB.X  lol layer 2!!!!! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6083,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987691044807434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2022-11-30T18:41:34Z",
+        "content": "$QQQ wild and fun times. Stop while you\u2019re ahead Robb.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984637498855591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2022-11-10T14:31:39Z",
+        "content": "$QQQ whew. Captured what I needed on the calls. \ud83d\udc4d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9723409414291382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2022-11-10T14:29:54Z",
+        "content": "$QQQ options traders holding their breath\u2026 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902958273887634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-09-01T19:18:03Z",
+        "content": "$PLBY killer gains on these calls! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933852553367615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-08-25T16:19:44Z",
+        "content": "\ud83d\udc40 $PLBY holding calls still Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998799204826355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-08-09T14:01:08Z",
+        "content": "$PLBY on the move! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985318183898926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-07-21T13:37:00Z",
+        "content": "$SPY wow. Glad I grabbed calls Monday.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9893480539321899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-06-02T14:30:42Z",
+        "content": "$BB scalping calls around 12.50 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985476136207581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-05-11T13:43:35Z",
+        "content": "$SPY wow. Insane gap fill?? Bull trap??",
+        "sentiment": {
+            "TextBlob": -0.45,
+            "NLTK": -0.2869,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842197299003601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-05-10T18:49:27Z",
+        "content": "$SPY took some unexpected profits in puts here. Let\u2019s see if averaging in calls will make me feel better.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968920350074768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-04-23T16:52:47Z",
+        "content": "$SPY this was needed. Sold off calls that expire today, letting 400% up calls ride the weekend. Small put position started to protect. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884606599807739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-04-14T13:35:36Z",
+        "content": "$TWTR.P wow hi calls. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868228435516357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-04-09T19:16:41Z",
+        "content": "$SPY wow next week exp options are so dang cheap. 7.6% IV?? Let\u2019s do it.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6322,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998089611530304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-03-30T17:35:41Z",
+        "content": "$spy premium super cruuuuuush.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916335344314575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-03-29T14:29:22Z",
+        "content": "$FVRR Puts are going to work. \ud83d\udcaa Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9505140781402588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-03-18T16:23:49Z",
+        "content": "$CRWD this is so bogus.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997974038124084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-03-08T14:47:46Z",
+        "content": "$SPY whew. Up 200% on calls. Overbought on the 30min but still long ways to hit any decent long term trend lines. Decisions....",
+        "sentiment": {
+            "TextBlob": 0.022222222222222216,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998685896396637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-03-01T23:07:49Z",
+        "content": "$SQ lol sure. There she goes after my calls expired. Haha well congrats bulls!",
+        "sentiment": {
+            "TextBlob": 0.5166666666666667,
+            "NLTK": 0.9168,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958508014678955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-25T20:36:53Z",
+        "content": "$spy alright. It\u2019s now officially coming out of my pitchfork zone. Let\u2019s see if 380 is the lowest she goes today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9817173480987549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-25T17:46:29Z",
+        "content": "$SPY wow. Took awesome profits. Glad I paid attention to @SmallCapValueTrading",
+        "sentiment": {
+            "TextBlob": 0.5333333333333333,
+            "NLTK": 0.93,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987800717353821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-25T15:51:37Z",
+        "content": "$SPY oversold on the 30min... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999729335308075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-24T17:20:07Z",
+        "content": "$spy just bonkers. Had to take some serious profit off calls. Bullish",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999733030796051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-23T20:27:00Z",
+        "content": "$MU bingo. Hit an awesome profit taking level.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991839528083801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-23T19:25:25Z",
+        "content": "$MU go baby go! Busy through that double top. Bullish",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985612034797668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-05T22:58:49Z",
+        "content": "$ETC.X okay! Let\u2019s see where this spike goes. #whatelsecanitradeoverweekend",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.2942,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883868098258972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-05T15:02:14Z",
+        "content": "Wow. Finally taking some $BB call profits.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9801793098449707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-02-01T16:47:53Z",
+        "content": "$SPY $SBUX wow taking profits on calls on these guys.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9784938097000122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-28T15:16:09Z",
+        "content": "$SBUX waiting on you buddy... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9797122478485107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-28T15:15:44Z",
+        "content": "$spy took big profits on calls here. Wooooo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9864217042922974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-19T14:29:28Z",
+        "content": "Alright. 376 calls in $SPY let\u2019s goooo Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9757398366928101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-11T17:27:06Z",
+        "content": "$SRPT just jumped out of calls. Took profits and watching that theta decay creep in. Had to take and run.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986633062362671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-11T14:31:19Z",
+        "content": "Capturing profits in $SPY puts early.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6121983528137207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-11T13:05:03Z",
+        "content": "$SPY puts and $SRPT calls for the morning. Let\u2019s do eeeet",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962162375450134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-06T16:22:16Z",
+        "content": "$AAPL taking profits on calls here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911608099937439
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-06T15:11:56Z",
+        "content": "$AAPL got in on some calls earlier Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982717037200928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-06T14:33:00Z",
+        "content": "$cgc wow. Might be early but took profits from calls. Dang.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.7391,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932142496109009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-06T14:18:39Z",
+        "content": "$SPY puts and $CGC calls. From yesterday. Let\u2019s goooo!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932460188865662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-05T19:01:27Z",
+        "content": "$SPY there it is.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828070402145386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-05T18:44:33Z",
+        "content": "$SPY waiting for at least one more good coil up here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993546605110168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-05T18:43:52Z",
+        "content": "$SQ boom! Took profits on calls.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923158884048462
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2021-01-04T15:56:53Z",
+        "content": "$SPY out of my puts here, sold MRNA calls and sq calls before drop. Done for the day. :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998349666595459
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-31T20:11:16Z",
+        "content": "$SPY dang. Capturing call profits. This is nutso.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963051080703735
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-30T18:45:24Z",
+        "content": "$SQ wow. Had to lock in some profits on calls here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994840621948242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-30T15:07:01Z",
+        "content": "$SQ when everyone joins the party You gotta be ready for anything.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963082671165466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-29T15:12:25Z",
+        "content": "Out of $BLNK puts. Busy day ahead and can\u2019t keep watching. This thing def tanked like we all hoped and expected. Prob more but I\u2019ll take it.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.3716,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9533763527870178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-29T14:36:37Z",
+        "content": "$SPY  out of calls now, watching the rest of the $BLNK puts. :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984350800514221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-20T05:45:54Z",
+        "content": "$SPY alrighty senate gave the 900B nod. See you all Monday morning. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8811002969741821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-14T04:26:46Z",
+        "content": "$SPY i know it\u2019ll be a long night ahead but taking a peak at the futures gets me pumped for tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9567755460739136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-03T14:28:30Z",
+        "content": "$FCEL lets see if this holds or if there\u2019s a larger profit taking. That issuing of shares really sucked for options but better for more share buying on the dip. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.8173,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995403289794922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-12-02T14:10:56Z",
+        "content": "$FCEL ouch.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990623593330383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-30T14:32:51Z",
+        "content": "$spy wow. Options are way too expensive. Crazy times right here. Not looking hopeful.",
+        "sentiment": {
+            "TextBlob": -0.17857142857142858,
+            "NLTK": -0.0777,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996891021728516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-28T14:20:48Z",
+        "content": "$SPY wow. I was WAY wrong here. Blew past a lot of support lines. Dang.",
+        "sentiment": {
+            "TextBlob": -0.21666666666666667,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987661838531494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-26T16:05:22Z",
+        "content": "$SPY i might be early on the daily view on RSI but so far this pitchfork I\u2019ve had since COVID rocked us has held up decently.",
+        "sentiment": {
+            "TextBlob": 0.09166666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978358149528503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-26T15:59:09Z",
+        "content": "$SPY def got some calls hitting my pitchfork bottom trend line. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990058541297913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-22T18:25:07Z",
+        "content": "$BA finally these calls are singing. Now looking to ditch.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996048808097839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-21T15:02:38Z",
+        "content": "$SPY touching the 200ma on 1min chart...bounce or flush?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868196845054626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-20T12:25:17Z",
+        "content": "$SPY wow who got pissed at 7CST this morning??",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.1926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977414608001709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-09T15:45:21Z",
+        "content": "$SPY just doesn\u2019t make sense. So overbought yet still grinding up.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996829032897949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-10-07T19:28:03Z",
+        "content": "$ARWR finally.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5551323890686035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-09-23T18:17:53Z",
+        "content": "$SPY Holy sh....",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996203601360321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-09-17T19:58:33Z",
+        "content": "$ARWR on with small call position for a swing. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882732033729553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-09-17T14:48:36Z",
+        "content": "$F finally moving a bit. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922035932540894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-09-16T19:34:15Z",
+        "content": "$SPY Whew. Glad my order on calls sold before this crazy sell off. #savedbytheplan",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": 0.0644,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997148334980011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-09-08T17:20:09Z",
+        "content": "$SPY Good grief. IV is nearly 40% for this week's Exp. I'll sit on sidelines for now.",
+        "sentiment": {
+            "TextBlob": -2.7755575615628914e-17,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6862465739250183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-09-08T13:44:15Z",
+        "content": "$SPY well alrighty! Ditched out in my weekend put even tho this could keep rolling, profit is profit.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.8016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.951467752456665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-09-03T15:11:37Z",
+        "content": "$SPY What that was great to ditch puts expiring today. Crazy moves and now let's see how that balances things out.",
+        "sentiment": {
+            "TextBlob": 0.10000000000000003,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988841414451599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-08-06T19:48:53Z",
+        "content": "$SPY Go baby go. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9468516707420349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-30T15:58:14Z",
+        "content": "$SPY  For those that don't/can't day trade, what are your inner rules you follow? Here's some for me that I've been trying to stick to for swing trades: No buying any options before 1pm UNLESS the 30 min RSI shows huge over bought/sold signs, expiration is at least a week out, and there's already another side of the hedge in place. How about you?",
+        "sentiment": {
+            "TextBlob": 0.03333333333333336,
+            "NLTK": 0.1179,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984762072563171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-30T13:55:28Z",
+        "content": "$SPY  There we go. Puts are happy now. Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997451901435852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-29T18:45:54Z",
+        "content": "$SPY Sigh. I should've expected this kind of garbage from the FED talk.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996645450592041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-29T16:12:05Z",
+        "content": "$APT  \ud83d\udc40 maybe another decent pop?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987271428108215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-29T16:09:11Z",
+        "content": "$SPY cmon roll over baby. So close to breaking trend line. Could spike or just freaking plummet. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955853223800659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-29T15:14:07Z",
+        "content": "$APT well I\u2019m glad I hung on to those calls! Bullish",
+        "sentiment": {
+            "TextBlob": 0.6125,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9312086701393127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-23T16:08:14Z",
+        "content": "$SPY Nice! Glad I snagged a few puts. Now, let's see where she touches down to look at calls.",
+        "sentiment": {
+            "TextBlob": 0.22361111111111112,
+            "NLTK": 0.7263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9594622254371643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-23T15:26:24Z",
+        "content": "$SPY Yawn. Kay. 45-48 on RSI 30 min says it's a \"let's do other stuff\" kind of day. Maybe snag another put or two for fun. Bearish",
+        "sentiment": {
+            "TextBlob": 0.2583333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985218644142151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-22T19:50:55Z",
+        "content": "$SPY Last bit of calls off the table. Now we sit.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8215479850769043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-22T19:16:43Z",
+        "content": "$SPY out of most calls now.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941196441650391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-22T19:15:11Z",
+        "content": "$SPY Still holding calls for a minute...Watching 30 min RSI to take profits and possibly start put side.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967635869979858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-21T19:54:39Z",
+        "content": "$SPY Party! Just like that, heading to oversold territory on the 30 min. small calls getting added soon.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984869956970215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-21T19:13:43Z",
+        "content": "$SPY there we go. Was waiting for this. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878454804420471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-21T17:57:03Z",
+        "content": "$APT Bingo! Bullish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987125396728516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-20T17:49:46Z",
+        "content": "$SPY watching the 30min rsi to possibly enter small long out option.",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971070885658264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-20T13:42:17Z",
+        "content": "$TWTR.P Wow. Glad I let my 33 calls exercise last week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969068169593811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-20T13:41:14Z",
+        "content": "$SPY Incredible. Welcome back volatility. Able to take some profits off both puts and calls in the first ten minutes. Bonkers.",
+        "sentiment": {
+            "TextBlob": 0.4083333333333334,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978960752487183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-15T19:52:31Z",
+        "content": "$SPY Man that 323 ceiling is a stubborn one.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960485100746155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-13T19:41:59Z",
+        "content": "$SPY wish I could day trade off my puts I got earlier. Grabbing calls to protect awesome put gains. :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.93,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9710219502449036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-13T14:12:21Z",
+        "content": "$SPY this is absolute nonsense.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997789263725281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-10T17:50:49Z",
+        "content": "$SPY like seriously, what in the world.",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9800449013710022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-09T14:49:58Z",
+        "content": "$SPY hmm. Oversold on the 30...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996318817138672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-07T18:28:05Z",
+        "content": "$SPY Sold some puts here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9649214148521423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-02T19:52:39Z",
+        "content": "$SPY There we go. Puts are happy now. Might grab one or two calls on the way out today for mid next week.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994415640830994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-07-02T17:06:00Z",
+        "content": "$SPY chop chop chop. Woof. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981310963630676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-29T17:39:06Z",
+        "content": "$SPY Lunchbreak is over, kids.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966811537742615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-29T17:19:17Z",
+        "content": "$SPY Too pooped to pop. :/",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982612729072571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-26T19:43:40Z",
+        "content": "$SPY There we go. Was gonna wonder if we would see an out of no where power hour reversal move. \ud83e\udd37\u200d\u2642\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941617846488953
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-26T19:10:08Z",
+        "content": "$SPY Starting to take profit on puts, small calls coming in. Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988009929656982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-25T19:57:29Z",
+        "content": "$SPY yook done decent profits on calls here",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6872022747993469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-22T13:56:29Z",
+        "content": "$SPY What a joke of a weekend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948200583457947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-17T14:21:03Z",
+        "content": "\u270c\ufe0f $SPY Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946184754371643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-15T17:07:09Z",
+        "content": "$SPY What a day for the calls! I smell greed on my breath, don't know how long she'll go.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950118064880371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-15T15:40:35Z",
+        "content": "$SPY Oh for the love. We're watching a cooking show with all the chopping are we.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9214218854904175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-15T14:53:55Z",
+        "content": "$SPY Man, shoulda ditched the puts that expire today for a rad gain. This market is just so hilarious. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.784,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992677569389343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-12T12:54:52Z",
+        "content": "\ud83d\udc40 $FCEL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979339838027954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-11T13:37:18Z",
+        "content": "$SPY wooooo sold most puts baby!! Bearish",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9565926790237427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-10T19:57:35Z",
+        "content": "$SPY only puts left for overnight. Should be a party! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9731760025024414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-10T19:31:17Z",
+        "content": "$SPY Picking up some puts. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888906478881836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-10T18:05:50Z",
+        "content": "$SPY Wow. Glad I held calls.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9949803948402405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-09T16:00:57Z",
+        "content": "$NIO took lots of profits off calls here a few minutes ago. Whew what a move!",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.944762647151947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-05T13:52:25Z",
+        "content": "$SPY wow. Profit is profit. Taking calls off table to lock in.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.8625,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7871640920639038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-05T13:32:08Z",
+        "content": "$SPY WOW sold majority of calls for UUUUGE moves. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6739,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978686571121216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-04T15:40:06Z",
+        "content": "$SPY Ah yes, welcome to SPY purgatory.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.950289249420166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-06-03T19:51:50Z",
+        "content": "$SPY WILD ride for calls today! Took most profit off the table. Let a few ride. Bullish",
+        "sentiment": {
+            "TextBlob": 0.14166666666666666,
+            "NLTK": 0.54,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951776266098022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-29T17:08:06Z",
+        "content": "$SPY Kay someone take the s&p\u2019s keys away, clearly someone\u2019s had too much to drink. Bearish",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993807077407837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-27T18:45:54Z",
+        "content": "$SPY Because it's spy I would be bullish, cause it never makes sense EOD...between sell off or take off. Any other chart and I'm looking to snag more puts. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997089505195618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-22T19:48:11Z",
+        "content": "$SPY Rug pull or power through??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964883327484131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-22T13:44:51Z",
+        "content": "$BA  My puts are happy today. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998484194278717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-14T14:12:09Z",
+        "content": "$SPY Lol leave it to spy to take 20 min for selloff, and 4 minutes to go back up. Hilarious.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978075623512268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-11T14:36:17Z",
+        "content": "$AMC Glad I picked up short term puts this morning. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921145439147949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-07T13:55:14Z",
+        "content": "$SPY There we go. First target on calls hit. \ud83d\udc4d Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992114305496216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-07T13:44:42Z",
+        "content": "$SPY Gonna finallllyyyy be taking profit on near expiration calls to make sure thats locked down. Bullish",
+        "sentiment": {
+            "TextBlob": 0.14814814814814814,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974111914634705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-05T16:07:10Z",
+        "content": "$SPY Wow just a sloowww grind up. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985150694847107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-04T19:32:39Z",
+        "content": "$SPY Hoo boy taking somer profits off calls. Good gravy. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9773277044296265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-05-01T13:46:34Z",
+        "content": "$SPY cashed out most puts a few min ago. Letting the rest ride.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.799731433391571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-29T15:55:00Z",
+        "content": "$SPY Starting to take some profits off of calls from a few days back, balancing to a 50% call/put hedge now for FED stuff.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989872574806213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-21T13:39:04Z",
+        "content": "$SPY Wow. Big move with the puts. Not sure how long this elevator ride down will go today. Bearish",
+        "sentiment": {
+            "TextBlob": -0.07111111111111112,
+            "NLTK": 0.4287,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9459669589996338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-15T18:50:24Z",
+        "content": "$SPY  SO typical of SPY to grind its way up inexplicably. Took some profits off calls, holding mostly puts left. Bearish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666665,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993368983268738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-15T14:17:23Z",
+        "content": "$SPY  Double bottom test Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977760910987854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-06T13:54:37Z",
+        "content": "$SPY sweet! Finally able to sell decent profit on expiring calls today",
+        "sentiment": {
+            "TextBlob": 0.3680555555555556,
+            "NLTK": 0.7345,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.976643979549408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-01T19:15:07Z",
+        "content": "$SPY My uneducated guess is around 245.20 then a small spike up. Still on the way down overall. Bearish",
+        "sentiment": {
+            "TextBlob": -0.13518518518518519,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948563575744629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-01T19:00:40Z",
+        "content": "$SPY double bottom...dang there's the support. Let's see if there's a retest for a small call position for tomorrow. Weighted WAY more in puts. Bearish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988018274307251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-04-01T18:08:21Z",
+        "content": "$SPY Gonna start adding a small put position for swingin... Bearish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993556797504425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-13T16:16:19Z",
+        "content": "$SPY  Out of most puts about 30 min ago, slowly added to call side",
+        "sentiment": {
+            "TextBlob": 0.09999999999999998,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962890148162842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-13T15:00:28Z",
+        "content": "$SPY  ALmost at my 30% up on puts that I'm looking for. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968799352645874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-13T13:49:47Z",
+        "content": "$SPY  At close yesterday my calls were  -10% and puts +200%. This morning I took ridiculous profits on calls right at open, and waiting for puts to be back in the positive. Hilarious market. Bearish",
+        "sentiment": {
+            "TextBlob": 0.11327561327561327,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9752904772758484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-13T13:34:09Z",
+        "content": "$SPY took profits off of calls right at open. Let er roll.",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976352453231812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-09T14:02:48Z",
+        "content": "$SPY You can transfer your portfolio without selling so you can ditch that hot garbage of Robinhood. FYI.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.368,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971820116043091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-05T17:43:38Z",
+        "content": "$SPY Wow. What a day when you can snag profit on yesterdays puts and calls before lunch. :P",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": 0.87,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9125240445137024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-03T16:28:55Z",
+        "content": "$SPY Robinhood working...cash out now and move over.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9078216552734375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-03T15:09:21Z",
+        "content": "$SPY lol. Robinhood can\u2019t get any worse. It\u2019s \u201cworking\u201d but can\u2019t seem to place orders without thinking for minutes. They\u2019re bound to lose everyone now that most platforms are commission free. Bullish",
+        "sentiment": {
+            "TextBlob": 0.325,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992281198501587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-03-03T04:04:19Z",
+        "content": "$SPY I\u2019m sure there\u2019s others out there, but my equity curve on robinhood practically looks better than a good chunk of my active days of trading.",
+        "sentiment": {
+            "TextBlob": 0.39166666666666666,
+            "NLTK": 0.9169,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5334658026695251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-28T15:25:20Z",
+        "content": "$SPY ill be the first to admit, I\u2019m glad robinhood kept crashing on me at open when I tried to sell puts. Much better later. :) \ud83d\udc4d Bullish",
+        "sentiment": {
+            "TextBlob": 0.17857142857142858,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.967677652835846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-28T15:05:40Z",
+        "content": "$SPY wow. I mean, I\u2019m sure this will keep doing it\u2019s thing, but I just gotta start taking profits off puts. I\u2019ve learned too many times the hard way to fight greed. Bearish",
+        "sentiment": {
+            "TextBlob": 0.09916666666666665,
+            "NLTK": -0.1655,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920948147773743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-27T19:56:29Z",
+        "content": "$SPY Ooookay. Ready for a boom. Either way...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8978471159934998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-27T18:30:44Z",
+        "content": "$SPY There we go, that's the lil bit of a drop off I was looking for.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8677932024002075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-27T17:58:15Z",
+        "content": "$SPY Come on baby...let some steam out...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929199814796448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-27T17:23:13Z",
+        "content": "$SPY There we go...just a bit more so I can ditch out these puts. :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996588230133057
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-27T17:10:41Z",
+        "content": "$SPY Alright, that's the signal for me to drop puts when it's back in slight profit taking side.",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775958061218262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-27T17:04:00Z",
+        "content": "$SPY so far double top rejection. Bearish",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": -0.3477,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994794726371765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-27T15:38:13Z",
+        "content": "$SPY Still holding puts. Holy wow. Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9853675365447998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-24T16:57:14Z",
+        "content": "$SPY If you missed the market opening price point, you got yourself another chance to get some awesome profits off the puts. :) Tempted to sell premium with this crazy high IV.",
+        "sentiment": {
+            "TextBlob": 0.265,
+            "NLTK": 0.7935,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.971662700176239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-19T17:29:25Z",
+        "content": "$SPY whew, just took profit on calls. 334 outs left for tomorrow\u2019s chance. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972555041313171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-12T16:29:02Z",
+        "content": "$SPY  Well, almost getting the cup and handle move on the 5 min. More like a saucer pan, or a plate. #TheworldandSpyisflat",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5984,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993370771408081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-02-06T13:52:05Z",
+        "content": "$MPW woooo!! Great great earnings. This has been a great long term hold in retirement account for a killer dividend and pretty awesome growth. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.9611,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997408986091614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-01-13T18:28:24Z",
+        "content": "$SPY Chop chop chop...just let her down already... Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999640941619873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-01-13T17:04:43Z",
+        "content": "$SPY Taking some profits off calls.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965575933456421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-01-10T17:13:19Z",
+        "content": "$SPY Taking profits off puts, still both sides",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910534024238586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2020-01-10T15:08:30Z",
+        "content": "$SPY Good grief, let loose some calls here, add puts, but still on both sides...",
+        "sentiment": {
+            "TextBlob": -0.05897435897435901,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9258729219436646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-12-26T19:33:43Z",
+        "content": "$SPY  I'm bailing on short term puts if 322.25 holds as support.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978715181350708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-12-17T21:16:41Z",
+        "content": "$BA  Puts would be a good idea here... Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967536330223083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-11-27T14:57:21Z",
+        "content": "$SPY THE MARKET HAS MIXED FEELINGS BECAUSE OF TRADE TALKS! ...The market is optimistic cause of trade talks....The market is pulling back because of trade talks.....Why can't that just be over so we can find another excuse to explain the market movement. Bullish",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.4389,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984346032142639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-31T14:33:09Z",
+        "content": "$SPY Not gonna let greed dictate my trades, taking some profits off calls. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9614415168762207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-22T19:05:59Z",
+        "content": "$SPY Finally taking profits on my puts. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926319122314453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-21T18:42:47Z",
+        "content": "$MPW Love this stock. Great dividend, and man it just keeps going. Outloook fundamentally is great too! Bullish",
+        "sentiment": {
+            "TextBlob": 0.7666666666666666,
+            "NLTK": 0.9286,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958090782165527
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-21T18:08:24Z",
+        "content": "$SPY Easy now....",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927387833595276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-21T18:02:13Z",
+        "content": "$SPY Party time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957072734832764
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-16T19:48:28Z",
+        "content": "$SPY  Good grief just MOVE already wow, this is unreal how terrible this movement is.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994052648544312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-16T14:49:16Z",
+        "content": "$SPY LOL another premium crusher until oil.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944127202033997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-16T14:03:22Z",
+        "content": "$SPY Watching 298.10 as a tough support line to break. Bearish",
+        "sentiment": {
+            "TextBlob": -0.3888888888888889,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922411441802979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-16T13:58:56Z",
+        "content": "$SPY Without news, anything pivotal earnings, we should see a fairly down trend day. Bearish",
+        "sentiment": {
+            "TextBlob": 0.17222222222222222,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989466071128845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-16T11:38:08Z",
+        "content": "$SPY Unfortunately another super flat overnight shift. Would love to see a wild PM before the bell. :P Bearish",
+        "sentiment": {
+            "TextBlob": 0.19305555555555554,
+            "NLTK": 0.87,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992231130599976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-14T12:50:18Z",
+        "content": "$SPY Ugh, of course it would be this price range for the morning. Just the worst middle of the road price. Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998089671134949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-11T16:35:47Z",
+        "content": "$SPY As six year old Robb would say, \"DOOOJJJ\" Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952783584594727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-11T16:14:01Z",
+        "content": "$SPY Took profits off puts in case 200ma is still a good support. Otherwise I could see this crack HARD bearish. Bearish",
+        "sentiment": {
+            "TextBlob": 0.20416666666666664,
+            "NLTK": 0.7482,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974114298820496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-11T16:08:33Z",
+        "content": "$SPY STILL just sitting on that 200ma line.......",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982668161392212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-11T16:03:20Z",
+        "content": "$SPY  Checking the 200 ma on the minute chart.... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969620108604431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-11T15:40:08Z",
+        "content": "$SPY  Hmm,, interested to see what happens at 298.34",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8018380403518677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-10T16:08:37Z",
+        "content": "$SPY  Come on down to papa! Bearish",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9094721078872681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-09T16:35:58Z",
+        "content": "$SPY Lets see if this triple top stuffs things. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846125245094299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-08T19:59:10Z",
+        "content": "$spy whew just took lots of puts off table.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995403289794922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-08T18:31:45Z",
+        "content": "$SPY Wow what???",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8481946587562561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-08T14:13:10Z",
+        "content": "$SPY Wow. What a good morning for puts. :) Taking the last bit left of puts here off the table and waiting for the bounce. Bearish",
+        "sentiment": {
+            "TextBlob": 0.25999999999999995,
+            "NLTK": 0.8658,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9834789037704468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-07T21:03:43Z",
+        "content": "$SPY $AAPL $MPW $AMZN $GOOGL $PM $EPD $SNH Thanks Robinhood for making the trading market competitive. :)",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995173990726471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-07T16:28:59Z",
+        "content": "$SPY oh come on you can do more than that. Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9749184846878052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-07T16:07:35Z",
+        "content": "$SPY c'mon baby, gravity is calling you. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6742793321609497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-04T17:20:07Z",
+        "content": "$SPY Lol I've literally been playing this ping pong game with large orders capitalizing on small moves...not too bad knowing no big players are pushing it till Powells on.",
+        "sentiment": {
+            "TextBlob": -0.05595238095238092,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8175755739212036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-04T15:44:37Z",
+        "content": "$SPY  Hoo boy snagged some short term puts here, took profit off calls for now. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996862530708313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-03T17:47:54Z",
+        "content": "$SPY wow this is nuts.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957873225212097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-02T15:39:44Z",
+        "content": "$SPY Looks like algo pump. Too pretty of 1 minute bull bars. Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995637536048889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-02T14:52:07Z",
+        "content": "$SPY  Man, I dunno, I see 286.16 is at least a solid daily support? Glad I loaded with puts before market close yesterday. Wow. #didntseethiscoming Bearish",
+        "sentiment": {
+            "TextBlob": 0.06000000000000001,
+            "NLTK": 0.8779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9685271978378296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-02T11:49:40Z",
+        "content": "$SPY wow I thought I woke up and read charts cross eyed this morning.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8989816308021545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-01T15:49:07Z",
+        "content": "$SPY taking some puts out",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901431798934937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-01T14:03:26Z",
+        "content": "$SPY  Wow. There she goes. Thanks for hanging around puts. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.8658,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959836006164551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-10-01T13:50:08Z",
+        "content": "$SPY Taking some profits off calls. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967817068099976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-30T16:39:03Z",
+        "content": "$SPY C'mon...you know it's only a matter of time till we cool off. Bearish",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970355033874512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-27T19:18:10Z",
+        "content": "$SPY Starting to challenge my minute Bearish trendline. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943641424179077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-27T19:03:38Z",
+        "content": "$SPY Wow, still on the bearish trendline. Took small profits off calls.",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947526454925537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-27T18:55:43Z",
+        "content": "$SPY  just got out of all puts except one. #justincase Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978621602058411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-27T18:31:39Z",
+        "content": "$SPY  Taking profits off puts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975269436836243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-25T13:08:41Z",
+        "content": "$PM watching...great dividend play but real interested on what this news does both end of merger with Altria over the next few days. Bullish",
+        "sentiment": {
+            "TextBlob": 0.05833333333333333,
+            "NLTK": 0.6428,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9079898595809937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-20T17:35:58Z",
+        "content": "$SPY So I guess snagging puts this morning and the last few days wasn't so dumb after all. :) Bearish",
+        "sentiment": {
+            "TextBlob": -0.01874999999999999,
+            "NLTK": 0.7505,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924283623695374
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-19T16:31:34Z",
+        "content": "$SPY my puts are happy now. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991655349731445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-16T19:07:50Z",
+        "content": "$SPY Finally some volume movement.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8539272546768188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-16T19:04:18Z",
+        "content": "$SPY I will literally be happy with any direction right now. Toilet or moon. Happy with either at this point.",
+        "sentiment": {
+            "TextBlob": 0.4630952380952381,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9845440983772278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-16T15:11:38Z",
+        "content": "$SPY taking some profits off short term calls",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985688924789429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-16T14:41:09Z",
+        "content": "$SPY  75% out of short term puts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9257551431655884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-05T14:57:52Z",
+        "content": "$SPY Theerrreee we go. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865119457244873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-09-04T18:42:38Z",
+        "content": "$TLRY got some  mid length puts. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956615567207336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-08-30T13:44:51Z",
+        "content": "$SPY Taking some profit off of 293 calls. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974594712257385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-08-07T21:13:23Z",
+        "content": "$SONO Hit guidance, optimistic future guidance...I like it! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9933850169181824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-08-07T19:18:08Z",
+        "content": "$SONO Earnings run! Careful of any selloff.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.2244,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928151369094849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-05-07T13:49:23Z",
+        "content": "$EVFMD Finally. Watching here. And I don't want to say how long I am on this. Bullish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.0572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991599321365356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-13T18:07:48Z",
+        "content": "$SPY caught a flight and landed with 500% on calls??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896728992462158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-12T15:04:18Z",
+        "content": "I felt a breeze outside, $SPY must be dropping!  #bestlogic Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832550287246704
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-06T18:08:12Z",
+        "content": "$SPY finally taking profits on puts. :) Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929563999176025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-05T14:38:01Z",
+        "content": "$SPY dropped down to crush the calls, and then go back up to smother the puts. : eye roll :",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8771044611930847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-04T14:29:08Z",
+        "content": "$SPY Hmmm, we'll see how this sucker opens, hedged with a little more weight in puts.",
+        "sentiment": {
+            "TextBlob": 0.00416666666666667,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920103549957275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-01T16:28:00Z",
+        "content": "$SPY up 100% on puts. \ud83e\udd11 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764442443847656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-01T16:05:31Z",
+        "content": "$EVFMD listening to call. :) Anyone else?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976677298545837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-01T15:14:07Z",
+        "content": "$SPY To quote a middle school aged me: \"DOOOOOOOOGUE!!\" Bearish",
+        "sentiment": {
+            "TextBlob": -0.078125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9794397950172424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-03-01T15:12:05Z",
+        "content": "$SPY Testing 200 line. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897863864898682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-28T21:00:46Z",
+        "content": "$SPY DANGIT fricken RH so SLOW putting through orders...sigh let's see how tomorrow goes. That is SO frustrating.",
+        "sentiment": {
+            "TextBlob": -0.35000000000000003,
+            "NLTK": -0.6028,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996013045310974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-28T15:13:40Z",
+        "content": "$SPY is drunk",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999538779258728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-20T17:06:14Z",
+        "content": "$SPY someone knows somethin Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937173128128052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-19T15:02:37Z",
+        "content": "$SPY Man it's like clogging someone else's toilet at a dinner party...I've never wanted a good flush so bad. Bearish",
+        "sentiment": {
+            "TextBlob": -0.011111111111111072,
+            "NLTK": -0.5717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988032579421997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-19T14:51:49Z",
+        "content": "$SPY Ya know, I've been through school dances, played bball, asked many girls out...Yet I'm still holding out for the best rejection here. Bearish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9464989304542542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-13T19:54:38Z",
+        "content": "$SKX Wow.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9834802746772766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-05T15:04:07Z",
+        "content": "$CRON RSI looks great on the minute chart, but way overbought on the Daily.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.3716,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987408518791199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-05T14:41:57Z",
+        "content": "$CRON Having puts and calls always makes me feel bipolar. #wineitherway",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992607831954956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-04T16:26:23Z",
+        "content": "$CRON c'mon just correct a little more! Gimmie some good call prices. Bearish",
+        "sentiment": {
+            "TextBlob": 0.37916666666666665,
+            "NLTK": 0.5355,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9266451597213745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-01T15:39:17Z",
+        "content": "$CEI LOL James you're an american classic. Bearish",
+        "sentiment": {
+            "TextBlob": 0.32222222222222224,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986634254455566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-01T14:59:41Z",
+        "content": "$CRON wait what. This beast isn't done? My goodness.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937795996665955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-02-01T14:44:23Z",
+        "content": "$CRON Wow 120% on my first time on calls.",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9494602084159851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-01-15T15:26:48Z",
+        "content": "$TLRY such a fun stock!",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993114471435547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-01-15T15:04:40Z",
+        "content": "$TLRY dead cat bounce or decent rebound?",
+        "sentiment": {
+            "TextBlob": -0.016666666666666677,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954848289489746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-01-15T15:00:59Z",
+        "content": "$TLRY Oooo yes I like this price. :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965236783027649
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-01-09T15:33:27Z",
+        "content": "$CEI Letter to shareholders from CEO mentioned increasing # of shares during feb 19 shareholder meeting. Eeps finance.yahoo.com/news/camb...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9447603225708008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-01-07T18:34:01Z",
+        "content": "$CEI wah wah what a tease. See you all in 3 months when it hiccups again.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9767650961875916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2019-01-07T14:59:43Z",
+        "content": "$EVFMD halted?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995415210723877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-12-26T14:31:00Z",
+        "content": "$CEI take it and run.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9668771624565125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-12-19T20:32:06Z",
+        "content": "$AMZN downside impulse wave. :/",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992856383323669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-12-19T20:16:02Z",
+        "content": "$AMZN Still so fragile. I'd be interested to see it hit around 1535 before I feel better about this interest raise freakout.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878288507461548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-12-17T15:16:34Z",
+        "content": "$EVFMD 200 line is still only at 4.23 at the moment, could give some fun bounces. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981279730796814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-16T13:54:39Z",
+        "content": "$CRON looking pretty oversold.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997768998146057
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-12T15:52:42Z",
+        "content": "$AMZN It can go as low as 1700 or high 1600's and still sit alright on the trendline for this past year.",
+        "sentiment": {
+            "TextBlob": -0.03,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7714656591415405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-05T14:22:22Z",
+        "content": "$ONCT Dont worry I sold at the lowest point it'll take off now.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.05,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939367175102234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-05T13:36:48Z",
+        "content": "@SmallCapValueTrading I was def watching $ONCT when it showed on the screener! Crazy.",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850142598152161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-04T19:13:43Z",
+        "content": "$ACST Busting 1.48 resistance! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983046054840088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-04T14:12:13Z",
+        "content": "$ACST I can't imagine an offering during trade hours resulting in positive price action. Bearish",
+        "sentiment": {
+            "TextBlob": 0.16363636363636364,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9868420958518982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-03T13:53:33Z",
+        "content": "$NIO AWESOME. Making a great comeback! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8814,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995846152305603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-02T17:43:22Z",
+        "content": "$IGC there's VWAP flirtation.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993186354637146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-10-02T12:15:25Z",
+        "content": "$IGC action at this time of day is insane. HUGE movement.",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0857,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9512560963630676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-30T17:38:19Z",
+        "content": "Out in Toronto to secure my investments early. $IGC $CRON Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909214377403259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-27T22:12:36Z",
+        "content": "HAHAHA $IGC is not far away from $CRON.....",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": 0.6523,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9354693293571472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-27T21:14:05Z",
+        "content": "Don\u2019t worry. Sold most of $cei so it\u2019ll go up now.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7961704730987549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-27T13:37:16Z",
+        "content": "$CEI Feel like it needs more healthy volume on this run so the legs don't fall out from under. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986106157302856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-26T13:29:34Z",
+        "content": "$CEI alley oop! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981671571731567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-25T20:30:23Z",
+        "content": "This at least explains the timing of $CEI's spike lately... ir.camber.energy/sec-filings",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983733892440796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-25T20:01:46Z",
+        "content": "$CEI Def added more at .445!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9760813117027283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-25T14:12:24Z",
+        "content": "$CEI there's your dip for entry!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8770146369934082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-24T20:02:14Z",
+        "content": "$CEI Hilarious. The one day it all changed for the Bull and Bear fight. Bears just spanked for months. Our turn. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8348909020423889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-24T19:54:11Z",
+        "content": "$CEI wow. Well worth holding. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959696531295776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-24T16:11:13Z",
+        "content": "$CEI holy crap I thought i read the number wrong!!! Congrats longs! Let\u2019s see how long she rolls! Bullish",
+        "sentiment": {
+            "TextBlob": -0.6208333333333333,
+            "NLTK": -0.4885,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996483325958252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-21T13:31:50Z",
+        "content": "Wow. $IGC is a beast. Still waiting to see if there's gonna be a big sell off to maybe try an entry.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8969401717185974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-18T15:11:31Z",
+        "content": "$CEI This moving just cause of MAYBE some news coming this year? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992569088935852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-18T14:51:51Z",
+        "content": "$IGC $TLRY Wow these are crazy. Good work with the news!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.68,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996993541717529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-10T14:22:36Z",
+        "content": "$IGC pop!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9559546113014221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-07T16:07:02Z",
+        "content": "@SOULLOR It's been SO weird diverging from $CRON lately. Not sure if sympathy plays are something to look for anymore. :/",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.735,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993095338344574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-09-07T14:05:15Z",
+        "content": "Looks like $CEI drank a ton of prune juice to take a serious dump.",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996529817581177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-30T19:48:01Z",
+        "content": "Oh gosh, $IGC getting pumped before close, and I've already made three day trades recently. :/ #dumptruckcoming Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988256096839905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-30T18:00:56Z",
+        "content": "$CRON the stock market giveth and the stock market taketh away.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991760849952698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-30T17:34:23Z",
+        "content": "$IGC $CRON absolute steals right now, game on. Bullish",
+        "sentiment": {
+            "TextBlob": 0.028571428571428564,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962283372879028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-29T22:01:54Z",
+        "content": "$IGC jumped in at 1.90 to try a swing! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959207773208618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-29T19:59:54Z",
+        "content": "$IGC $CRON locked in profits, let's see what AH does. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988111257553101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-29T19:42:15Z",
+        "content": "$IGC BIG move past the mid 1.90s! Bullish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954290390014648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-29T19:33:35Z",
+        "content": "$CRON Good grief. Stop loss placed 12.20.",
+        "sentiment": {
+            "TextBlob": -0.050000000000000044,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961685538291931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-29T19:19:32Z",
+        "content": "$CRON State of Nevada: \"Uhhh, wow so we made weed legal and made 40% more from what we imagined in taxes.\" HAHA finance.yahoo.com/m/abdec15...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8415,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966275095939636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-29T16:24:35Z",
+        "content": "$IGC profits at 1.89, looks like we'll head to the pool for a dip and see what comes up.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6885446310043335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-27T14:35:55Z",
+        "content": "@TradeBug Exactly. $CRON and $IGC are distracting me nicely from $CEI.",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8150133490562439
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-24T18:21:40Z",
+        "content": "Nice movement $IGC. Anyone holding over the weekend??",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4871,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8287038803100586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-24T17:54:45Z",
+        "content": "$IGC scraping HOD.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954404830932617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-24T15:36:18Z",
+        "content": "Jumped back in to $IGC at .64",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9758049845695496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-24T14:08:34Z",
+        "content": "Averaging down on $CMCM and just wondering if there even IS a dip op for $CRON.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994692206382751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-23T13:51:01Z",
+        "content": "$CMCM Well okay buddy boy! Go baby go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.555,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5787957310676575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-23T13:26:31Z",
+        "content": "$OGEN is movin in the PM....",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898215532302856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-22T15:18:10Z",
+        "content": "Go $CRON go!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5402655005455017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-21T14:09:22Z",
+        "content": "In $CRON $IGC and $CMCM for the watch today. Set alerts and off I go. GL!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5147,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946803450584412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-21T13:46:49Z",
+        "content": "$CRON here comes a dip",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957493543624878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-21T00:10:14Z",
+        "content": "$CMCM Do yourself a favor and listen to their Q2 phone call report. Informative, but mostly just great entertainment.",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.9042,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996434450149536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-16T14:50:16Z",
+        "content": "$CEI lets see how much momentum this baby\u2019s got! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9820333123207092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-15T16:46:32Z",
+        "content": "$OGEN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.904697060585022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-15T15:25:53Z",
+        "content": "$OGEN A few downtrend flag patterns this morning, feels like this afternoon's gotta break that trend. My guess it hits .53 then drops more.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993220567703247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-14T20:11:24Z",
+        "content": "$CEI Filed an extension?  :/",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962918758392334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-14T19:45:02Z",
+        "content": "$BLNK watching a little action finally.",
+        "sentiment": {
+            "TextBlob": -0.029166666666666664,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8530460000038147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-14T14:40:47Z",
+        "content": "$BLNK keep calm and average down? :P",
+        "sentiment": {
+            "TextBlob": 0.18611111111111112,
+            "NLTK": 0.6633,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936220049858093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-14T14:05:46Z",
+        "content": "$CEI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9711768627166748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-13T20:12:46Z",
+        "content": "$BLNK What's up skippy! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980113506317139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-13T19:24:05Z",
+        "content": "$CEI This thing is SO volatile. But it could be a real fun ride. Bullish",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9930926561355591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-13T17:49:56Z",
+        "content": "$OGEN in small at .5400 Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983837604522705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-13T15:47:48Z",
+        "content": "$GEVO resembles a boozing mom with a baby. #pumpanddump",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909365773200989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "robbdavidson",
+        "timestamp": "2018-08-13T14:21:58Z",
+        "content": "$ABIL Setting a limit to $8.15. Back to other work. :P Bullish",
+        "sentiment": {
+            "TextBlob": 0.20833333333333334,
+            "NLTK": 0.4824,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998674750328064
+            }
+        },
+        "image_url": ""
+    }
+]

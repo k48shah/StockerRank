@@ -5,7 +5,6 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
-import yaml
 import re
 import PyPDF2
 

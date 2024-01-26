@@ -1,0 +1,4230 @@
+[
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-21T03:51:18Z",
+        "content": "$IPO \u2013 watching the February highs for signs of support\u2026 or a failed breakout. \n \n$DASH + $PLTR broke out, $SNOW currently retesting.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992438554763794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-20T03:23:41Z",
+        "content": "Can $ARKK breakout through the early February highs? \n \n3 of the top 5 holdings are currently trading above those highs: $TSLA $ROKU $PATH",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8286795020103455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-18T22:48:42Z",
+        "content": "$INTC was the top performing $XLK ticker last week +16%, $AMD was the worst -4%. \n \n$INTC is outperforming $NVDA month to date. \n \n#AI",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990330934524536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-17T15:52:36Z",
+        "content": "$SPX Week over Week vibe = Beast Mode \n\u2022 $SPX hit the high for the week on Friday (5 straight weeks) \n\u2022 83% of $SPY tickers green #Breadth \n\u2022 $XLP $XLV $XLRE back above the 200-day \n\u2022 $XLY continues to outperform: $CCL $NCLH",
+        "sentiment": {
+            "TextBlob": 0.031999999999999994,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931713342666626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-16T12:02:06Z",
+        "content": "Two unrelated milestones to note: \n\u2022 One year ago the Warriors beat the Celtics in game 6 of the NBA Finals. \n\u2022 The next day $SPX bottomed at 3,636.87.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992212057113647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-16T00:00:24Z",
+        "content": "Mystery Ratio Chart: Buy, Sell, or Hold? \n \n#Stocks $SPY $QQQ\n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898725748062134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-14T13:25:18Z",
+        "content": "$SPX has closed down 5 of the last 6 #FOMC days \n \nThe meetings have acted as a pivot point for markets with stocks trending higher the prior two meetings after the dust settled.",
+        "sentiment": {
+            "TextBlob": -0.0011111111111111183,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918871521949768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-13T12:36:04Z",
+        "content": "$SPY has only closed red once this year on #CPI day (April)",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9769060015678406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-12T20:58:05Z",
+        "content": "\u00b7 $TSLA closes green again, but didn\u2019t eclipse yesterday\u2019s high price. \n\u00b7 Daily RSI = 86.86 \ud83d\udd25 \n\u00b7 $TSLA is the #1 $ARKK holding at 12% but despite the rally, $ARKK remains below the February highs. (see $ROKU $ZM)",
+        "sentiment": {
+            "TextBlob": -0.013333333333333336,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934334754943848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-11T22:32:57Z",
+        "content": "Quick post to kick off the week as we await #CPI #FOMC\n$SPX $XLY $VVIX\n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969068169593811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-10T15:53:50Z",
+        "content": "\u2022 $XLY was the top weekly sector $TSLA +14% \n\u2022 \u2026but 35% of the tickers were down (worse than the 25% last week) \n\u2022 $XLP was the worst sector for the 3rd straight week \n\u2022 \u2026but 40% of the tickers were UP $TAP $SJM $WMT \n \nNext week #CPI #FOMC",
+        "sentiment": {
+            "TextBlob": -0.10694444444444445,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992609620094299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-10T15:53:27Z",
+        "content": "$SPX Week over Week vibe = higher but participation is lower \n\u2022 $SPX hit the high for the week on Friday (4 straight weeks) \n\u2022 $SPX outperformed $QQQ again, but underperformed $GLD \n\u2022 $XLK was the 2nd worst sector on the week yet $XSD was up/outperformed",
+        "sentiment": {
+            "TextBlob": -0.07799999999999999,
+            "NLTK": -0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987697005271912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-08T12:05:19Z",
+        "content": "Fun FinTwit Fact: $SPY has not hit overbought in over 200 days.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9903210997581482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-07T12:09:07Z",
+        "content": "@howardlindzon $META vs $AAPL  \nWill the Apple Vision Pro be the catalyst to reverse this trend?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986215829849243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-05T12:45:07Z",
+        "content": "Related, via @etfcom \n  \n\"ETF investors are placing big bets on long bonds, hoping for a bounce-back. \nThe iShares 20 Plus Year Treasury Bond ETF ($TLT) is the No. 1 asset gatherer among U.S.-listed ETFs this year, with inflows of $10.8 billion.\"",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5279397368431091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-05T12:44:36Z",
+        "content": "$FVX trying to carve out some minor support and turn back up potentially. May was a pretty steady uptrend for rates post #FOMC meeting.  \n \nSimilar vibe in the dollar worth watching $USD $UUP. Next Fed meeting 6/13-6/14.",
+        "sentiment": {
+            "TextBlob": 0.08333333333333334,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6263723373413086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-03T15:41:28Z",
+        "content": "\u00b7 All sectors green vs 3 last week = breadth expansion \n\u00b7 Only the 2nd week YTD with all sectors green \n\u00b7 $XLY crushed it ( $TSLA ), but 25% of the tickers were down \n\u00b7 This is the first week since Feb where $XLY was the top weekly sector \n\u00b7 $XLP lagged again, but more stocks rose",
+        "sentiment": {
+            "TextBlob": 0.10858585858585858,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970486760139465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-03T15:41:05Z",
+        "content": "$SPX Week over Week vibe = keep rollin\u2019 rollin\u2019 rollin\u2019 \n\u00b7 $SPX hit the high for the week on Fri (3 straight weeks) \n\u00b7 $SPX outperformed $QQQ as semi\u2019s $XSD underperformed and declined \n\u00b7 86% of tickers green (vs. 30% last week) #breadth #thrust \n\u00b7 $XLI $XLP $XLB back above 200-day",
+        "sentiment": {
+            "TextBlob": 0.02666666666666666,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986520409584045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-02T12:10:47Z",
+        "content": "YTD: Only $XLK $XLC $XLY have outperformed $SPY. What happens when only 3 sectors outperform the $SPY?  \n \nIt\u2019s only June, but the last two occurrences were 2019 and 2009. The following years were fine, both saw double digit $SPY gains and broader sector participation.",
+        "sentiment": {
+            "TextBlob": 0.05952380952380953,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.992495059967041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-01T12:09:02Z",
+        "content": "1. $NFLX quietly breaking out while we freak out about #AI \n2. $NVDA +164% YTD, but crypto AI play $RNDR is up over 500% \n3. $XLY vs $XLP ratio running into resistance at the February highs",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969049096107483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-06-01T03:34:09Z",
+        "content": "$SPX up three straight months and finishing each month on a high note: \nMay: 2nd to last trading day of the month \nApril: Last trading day \nMarch: Last trading day",
+        "sentiment": {
+            "TextBlob": 0.06,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9060231447219849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-31T12:10:33Z",
+        "content": "\u2022 $TSLA back above the 200-day for the first time this year. \n\u2022 Daily RSI overbought for the first time since price peaked in February. \n\u2022 But price is still below those February highs.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949238896369934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-30T14:23:39Z",
+        "content": "Nasdaq has been up five straight weeks.  \n \nUp 2+% two weeks in a row, this last happened in Jan/Feb and resulted in a pullback. \n \n$QQQ $SPY",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978616833686829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-29T15:04:45Z",
+        "content": "@howardlindzon will be watching $XSD and $QQEW to see if they can breakout as well... $RSP is still below the 200-day. \n \nstocktwits.com/161point8/me...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984548091888428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-29T15:02:51Z",
+        "content": "$TLT has been trending lower, but hasn\u2019t hit oversold territory yet YTD.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7269835472106934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-29T02:00:50Z",
+        "content": "Here\u2019s one thing that didn\u2019t actually breakout last week on the $NVDA #AI buzz (yet) $XSD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987894892692566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-28T22:29:58Z",
+        "content": "I wonder where the Dow would be if they had swapped $INTC for $NVDA. It would be the 2nd largest $DIA holding after $UNH.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997081458568573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-28T18:41:36Z",
+        "content": "Only four $SPY sectors are still above the 200-day, but it includes the risk-on sectors and the biggest sector.  \n \n$XLI is on the watch list to see if it can hold the line.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9169164299964905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-27T16:00:23Z",
+        "content": "\u2022 While $SPX was up, only 3 sectors were positive on the week $XLK $XLC $XLY \n\u2022 27% of $XLK down this week \n\u2022 Only 3 $XLP stocks rose: $BG $TSN $COST \n \nThis is only the 2nd week of the year where $XLP was the worst performing sector (January: it would continue to underperform for several more weeks) \n \nNext week #JOBS",
+        "sentiment": {
+            "TextBlob": 0.015610651974288337,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993797540664673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-27T16:00:06Z",
+        "content": "$SPX Week over Week vibe = C.R.E.A.M (chips rule everything around me) \n\u2022 Semi\u2019s $XSD +8% for a 2nd straight week $NVDA $AMD \n\u2022 Only 30% of tickers closed up, less than 50% are above the 200-day \n\u2022 More sectors back below the 200-day: $XLP $XLV $XLB \n\u2022 $EFA has outperformed YTD, but declined 2% on the week",
+        "sentiment": {
+            "TextBlob": 0.05416666666666667,
+            "NLTK": 0.1154,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982269406318665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-26T21:30:38Z",
+        "content": "$SPX high last week was 4,212.91 on Friday. \nThis week\u2019s high was 4,212.87, also on Friday. \n(The lows were only 6 ish points apart) \nThanks for playing.",
+        "sentiment": {
+            "TextBlob": 0.10400000000000001,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9960240125656128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-26T12:03:03Z",
+        "content": "Dow component $MMM continues to struggle. New lows yesterday.  \n \n2 other $DIA stocks at 52-week lows: $WBA $AMGN",
+        "sentiment": {
+            "TextBlob": 0.005681818181818177,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999220609664917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-25T20:44:19Z",
+        "content": "@howardlindzon Good point, just shared this, but to your point: \n \n$QQQ +2.43% but only 49 gainers today, I\u2019m assuming that\u2019s not a normal combination... Interesting times. $NVDA $AMD $MRVL",
+        "sentiment": {
+            "TextBlob": 0.28125,
+            "NLTK": -0.0611,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902113080024719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-25T20:41:54Z",
+        "content": "$QQQ +2.43% but only 49 gainers today, I\u2019m assuming that\u2019s not a normal combination... Interesting times. $NVDA $AMD $MRVL",
+        "sentiment": {
+            "TextBlob": 0.14166666666666666,
+            "NLTK": -0.438,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975433349609375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-25T12:08:40Z",
+        "content": "$SPX has closed at 41XX over 100 times, including 40 days year to date. \n \nSimilar vibe to 2019 when we closed at 29XX 76 different times. #Stocks eventually broke out of that range to the upside.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927155375480652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-24T12:09:23Z",
+        "content": "It turns out the last Fed meeting was another important inflection point\u2026 but it was actually a bottom in $SPX followed by a rally just like the March meeting. \n \n#FOMC Minutes due later today",
+        "sentiment": {
+            "TextBlob": 0.05500000000000001,
+            "NLTK": 0.5647,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990222454071045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-23T12:07:53Z",
+        "content": "$NKE is no longer stuck in a range\u2026 it was the worst $SPY ticker yesterday -3.99% to $110.  \n \nThe stock is back below the 200-day moving average and hit oversold for the first time since October (which was a bottom FWIW).  \n \nBut at least they have #Jokic so it\u2019s not all bad .",
+        "sentiment": {
+            "TextBlob": -0.31666666666666665,
+            "NLTK": 0.0323,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991267323493958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-22T12:08:58Z",
+        "content": "May 4th: $SLV was overbought on daily RSI. \n \nThen $USD started to strengthen. \n \n$SLV managed to avoid getting oversold but still quite the round-trip intra-month.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0129,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9184203147888184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-22T00:13:19Z",
+        "content": "Check out the charts. $QQQ $QQEW $XLP vs $QQQ 161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889179468154907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-20T15:47:18Z",
+        "content": "\u2022 $SPX breaking out, but most sectors still below April/early May highs \n\u2022 4 Sectors negative: $XLU $XLRE $XLP $XLV \n\u2022 Only 5 Tech stocks declined: $FSLR $ENPH $SEDG $ROP $GEN \n\u2022 Only 2 Utility stocks rose: $CEG $NRG \n \nNext week #FOMC Minutes",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": -0.7227,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998917818069458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-20T15:46:57Z",
+        "content": "$SPX Week over Week vibe = #AI \n\u2022 Largest weekly move since the volatility in March \n\u2022 Semi\u2019s $XSD +8% \n\u2022 60% of tickers closed UP which is below average given a 1+% move \n\u2022 Back above the 200-day: $XLV $XLB \n\u2022 $GLD underperformed (again)",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918272495269775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-19T12:11:31Z",
+        "content": "$SPX +9% YTD \n \nThere are over 50 $QQQ tickers up at least 10% YTD.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942439198493958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-18T12:08:05Z",
+        "content": "$QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9688189625740051
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-17T12:07:58Z",
+        "content": "$ARKK started the month off strong, but still can\u2019t put together a sustained move above the 200-day. \n \nOnly 1 of the top 5 holdings is currently trading above the 200-day $EXAS.",
+        "sentiment": {
+            "TextBlob": 0.15555555555555556,
+            "NLTK": 0.5187,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974573254585266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-16T12:07:08Z",
+        "content": "Following up on the $EFA strength, the largest country allocation is Japan at 22%.  \n \n$EWJ recently broke out, but hasn\u2019t been overbought for months - can it keep going? \n \n$EWU (UK #2) & $EWQ (France #3) peaked a few weeks ago\u2026",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9548271298408508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-15T12:01:37Z",
+        "content": "A lot of debate about $SPY + $QQQ being driven by a handful of strong stocks, but those tickers don\u2019t explain the divergences globally where there is a lot less tech exposure: \n \n$EEM +2% YTD and retesting the 200-day. \n$EFA +11% YTD and more than 10% above the 200-day.",
+        "sentiment": {
+            "TextBlob": 0.15333333333333332,
+            "NLTK": 0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7539457082748413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-15T02:29:37Z",
+        "content": "Back in March both $SPY and $RSP moved definitively above the 200-day. Now $RSP is back below it which presents an interesting divergence to monitor. \n \n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6236491799354553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-13T15:44:47Z",
+        "content": "\u00b7 $XLE repeated as the worst weekly sector $DVN $OXY $HAL \n\u00b7 $XLF continues to lag: $PYPL -18% \n\u00b7 $XLC bounced back, from only 2 stocks up to 14 $GOOG #ai",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996871948242188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-13T15:44:01Z",
+        "content": "$SPX Week over Week vibe = Stalemate (but $QQQ up) \n\u00b7 $ITB continues to outperform, but so does $XLP \n\u00b7 Only 31% of $SPY green, worse than last week\u2019s weakness \n\u00b7 #Crypto struggled \n\u00b7 $GLD underperformed",
+        "sentiment": {
+            "TextBlob": -0.15000000000000002,
+            "NLTK": -0.899,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993541836738586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-12T20:18:02Z",
+        "content": "@A_Doggo @instagator $SLV with a quick 8% drawdown off the highs from last week.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906788468360901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-11T12:07:00Z",
+        "content": "$MKTX: A financial stock that was killing it, but now it\u2019s retesting the 200-day. Momentum changes quickly.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9837049841880798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-10T12:06:46Z",
+        "content": "#CPI Flashback:  \n\u2022 4/12: $QQQ reacted positively in early trading, but unlike the prior 6 releases, failed to close up on #CPI day \n\u2022 Stocks resumed the uptrend the next trading day through 4/18 before correcting \n \nOver the past month since #CPI: \n\u2022 $SPX flat \n\u2022 XLK #1 +1.6% even with $XSD -11% \n\u2022 $XLE -7%",
+        "sentiment": {
+            "TextBlob": -0.1125,
+            "NLTK": -0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992109537124634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-09T12:07:26Z",
+        "content": "$SLV: Is this anything?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998589813709259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-08T12:00:33Z",
+        "content": "$NKE JUST DO\u2026. Something. In either direction. #MondayMotivation",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895377159118652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-06T15:53:13Z",
+        "content": "$SPX Week over Week vibe = resilient (again) \n\u2022 $ITB continues to outperform, but so does $XLP \n\u2022 Only 36% of $SPY green, worst % since the bank drama in March \n\u2022 Up this week: $EFA $EEM $ARKK $IWC $GDX \n\u2022 Every energy stock from $SPY declined this week $MPC $APA $HAL \n\u2022 Only 9 financial stocks up $FLT $AIZ $AJG  \n\u2022 Only 2 communication stocks up $LYV $TTWO \n \nNext week #CPI",
+        "sentiment": {
+            "TextBlob": -0.17142857142857143,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989908337593079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-04T13:22:13Z",
+        "content": "Recently #FOMC meetings have coincided with important inflection points in $SPY. Curious to see if yesterday\u2019s meeting will continue that trend.",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9093316197395325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-03T14:06:08Z",
+        "content": "#FOMC Flashback: 3/22 \n\u00b7 $SPX struggled after the release and closed negative \n\u00b7 #Stocks would drift lower the rest of the week then rallied off the 200-day into April \n \nSince the last #FOMC meeting: \n\u00b7 All sectors negative $XLP -6% \n\u00b7 $XSD +13% \n\u00b7 $GLD negative, underperforming $SPY",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.9403,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995899796485901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-02T21:38:10Z",
+        "content": "Maybe it\u2019s too early to start freaking out about long term support levels in $XLF and $IWM again, but $IWC support is clearly at risk:",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977454543113708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-05-01T11:56:26Z",
+        "content": "*NEW POST* to kick off the month $SPX $XLK $XLC  \n \nBreakout or Breakdown? \n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974607229232788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-30T23:07:51Z",
+        "content": "Interesting divergence between $ARKK & $SPX. Both were strong at those February highs, $SPX has recovered to retest those February highs, but $ARKK has really struggled to bounce back and $TSLA isn\u2019t all to blame.",
+        "sentiment": {
+            "TextBlob": 0.2833333333333333,
+            "NLTK": -0.5632,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9752451181411743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-29T15:36:29Z",
+        "content": "The worst sector last week was the best sector this week $XLC \n\u2022 #1 holding $META +13% \n\u2022 But 10 of the 25 tickers were negative on the week $ATVI $IPG \n \nNext week #JOBS + #FOMC and lots of EPS reports",
+        "sentiment": {
+            "TextBlob": -0.06,
+            "NLTK": -0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985585808753967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-29T15:36:06Z",
+        "content": "$SPX Week over Week vibe = resilient  \n\u2022 $ITB continues to outperform $PHM $DHI \n\u2022 $XLP & $TLT outperformed $SPY \n\u2022 Breadth continues to decline; less stocks are going up each week \n\u2022 Down on the week: $XSD $IWM \n\u2022 $GLD continues to lag",
+        "sentiment": {
+            "TextBlob": -0.16111111111111112,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995443224906921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-28T21:48:52Z",
+        "content": "$SPX hits a monthly high on the last trading day of the month for the second month in a row.",
+        "sentiment": {
+            "TextBlob": 0.05333333333333334,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9747697114944458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-27T21:28:34Z",
+        "content": "Fun fact: $META was not the best performing $SPY ticker today. $HAS won the day at +14.63%.",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.5621,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9626752734184265
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-27T21:28:27Z",
+        "content": "Interesting to note that despite a huge rally today, $SPX failed to surpass Monday\u2019s intraday high. \n \n1. $SPX flat week to date and month to date. \n2. 18 trading days this month, $SPX closed with a 41XX handle 14 times. \n3. More 20-day LOWS ( $TSLA ) than Highs today ( $AAPL )",
+        "sentiment": {
+            "TextBlob": 0.1335714285714286,
+            "NLTK": -0.6568,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996954202651978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-22T15:39:54Z",
+        "content": "$XLF outperforming, 2nd best sector this month \n\u00b7 Up 5+% on the week: $FRCB $TRV $MTB $SCHW $MS \n \nThe best sector YTD was the worst week over week $XLC \n\u00b7 Only 6 green tickers: $PARA $TTWO $EA $FOXA $ATVI $FOX \n\u00b7 Telecom weakness: $T $VZ \n \nHuge EPS week ahead $MSFT $GOOGL $META $AMZN",
+        "sentiment": {
+            "TextBlob": 0.17142857142857146,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989774227142334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-22T15:39:24Z",
+        "content": "$SPX Week over Week vibe = Chop Suey \n\u00b7 $QQQ underperformed for a 3rd straight week \n\u00b7 $ITB +5% (+22% YTD) & overbought $DHI $LEN \n\u00b7 $IWM + $IWC outperformed with both closing green \n\u00b7 $FXI lost the 200-day \n\u00b7 #Crypto sold off \n\u00b7 $GLD lagged",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996017813682556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-21T12:13:35Z",
+        "content": "$SPX has closed with a 4100 handle 11 of 13 trading days so far this month. The other two days were \u201cdips\u201d to 4090 \u2013 4091. Tight.",
+        "sentiment": {
+            "TextBlob": -0.07589285714285715,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896506071090698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-20T20:42:41Z",
+        "content": "$T Not the worst drawdown in the past year though:",
+        "sentiment": {
+            "TextBlob": -0.625,
+            "NLTK": 0.5096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992205798625946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-20T20:42:15Z",
+        "content": "$T -10%:   \nThe only $SPY ticker with worse performance than $TSLA today \n \n4/5: overbought \n4/20: oversold",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995661377906799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-20T14:42:29Z",
+        "content": "Coinbase is trending today... \nbut $COIN is flat, hanging out near the 200-day",
+        "sentiment": {
+            "TextBlob": 0.037500000000000006,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994624257087708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-20T12:13:54Z",
+        "content": "#ThrowbackThursday: remember that time crude oil went negative back in 2020? Happy anniversary. $XLE",
+        "sentiment": {
+            "TextBlob": -0.04999999999999999,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8875695466995239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-18T12:05:08Z",
+        "content": "$XLC has not been able to get through February\u2019s resistance yet, but has successfully broken out relative to $TLT so there\u2019s that. Top performing $SPY sector YTD. \n$META $GOOG $NFLX",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4109,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9193769097328186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-17T20:51:56Z",
+        "content": "Equal weight for the win $XBI > $IBB > $XLV\n$RXDX was the #1 gainer from $IWM while $MRNA was the worst performer in $QQQ",
+        "sentiment": {
+            "TextBlob": -0.06666666666666665,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996297359466553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-17T12:02:48Z",
+        "content": "$XLF held $30 for the time being, one of the best sectors month to date. Next question is how far the rally can go? \n \n#1 Holding (14%) $BRK coming into resistance with more financial reports due this week:",
+        "sentiment": {
+            "TextBlob": 0.24583333333333335,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846094846725464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-16T22:44:58Z",
+        "content": "$CMG coming into resistance, EPS later this month",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996105968952179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-15T15:59:07Z",
+        "content": "$XLF with a nice bounce back $JPM $C $IVZ \n\u2022 \u2026but 26% of tickers were red for the week $PGR $FRCB $CINF \n\u2022 $SCHW reports this week \n \n$XLE outperforms once again $PXD $APA \n\u2022 Only 1 ticker in the red compared to 3 last week $VLO",
+        "sentiment": {
+            "TextBlob": 0.09999999999999999,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983236193656921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-15T15:58:42Z",
+        "content": "$SPX Week over Week vibe = new monthly high, but deterioration brewing under the surface  \n\u2022 $QQQ underperformed again $INTC $QCOM \n\u2022 $GDX continues to rock +2%, but $GLD flat \n\u2022 #Crypto on fire $ETH \n\u2022 $XLU back below the 200-day \n\u2022 Next: 60 EPS reports from $SPY including $TSLA",
+        "sentiment": {
+            "TextBlob": 0.05427272727272727,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999104917049408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-14T12:04:13Z",
+        "content": "$JPM reported \u201crecord revenue\u201d this morning. Stock is up pre-market. \n \nFlashback: $JPM last reported EPS on 1/13. The stock was volatile after earnings: down over 3% at the lows, but closed near the highs up over 2.5%.",
+        "sentiment": {
+            "TextBlob": -0.038888888888888896,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955905675888062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-13T22:59:46Z",
+        "content": "Month to date: $SPX up. $XLK down along with three other sectors.  \n \nRotation into $XLE $XLV $XLU",
+        "sentiment": {
+            "TextBlob": -0.14027777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990000128746033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-13T21:32:49Z",
+        "content": "$SPX makes a new high for the month! \n \nBut less than 20% of $SPY hit a 20-day high. \n \nStill a risk-on environment, but maybe a little less risk-on at this stage.",
+        "sentiment": {
+            "TextBlob": -0.004078282828282824,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986816048622131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-13T18:14:59Z",
+        "content": "Stocks are rallying today, $GLD is outperforming but... \n$GLD still hasn't successfully broken out versus $SPY, peaked a month ago. \nIn hindsight the real trade was $GDX > $GLD",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.0191,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996090829372406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-12T11:59:36Z",
+        "content": "#CPI Flashback:  \n\u2022 $QQQ closed green the past 6 release days \n\u2022 Stocks put in a bottom the day before last month\u2019s release \n \nOver the past month since #CPI: \n\u2022 $SPX 6.6% \n\u2022 All sectors positive, $XLC 12%",
+        "sentiment": {
+            "TextBlob": -0.09545454545454546,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916422367095947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-11T21:16:27Z",
+        "content": "There are only 4 overbought tickers in $QQQ... and $AAPL isn't one of them \n \n$AZN $LULU $SGEN $EA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986913800239563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-10T20:40:20Z",
+        "content": "$QQQ was down/flat but more gainers than losers \n \n$QQEW +.69%",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.718,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874245524406433
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-09T22:54:05Z",
+        "content": "Has anyone asked ChatGPT if $MSFT can get through this resistance?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993079900741577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-09T19:09:50Z",
+        "content": "Potential breakouts that have quickly morphed into potential breakdowns: $IHAK $UPS $MNST",
+        "sentiment": {
+            "TextBlob": 0.1111111111111111,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985010623931885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-08T15:41:13Z",
+        "content": "$XLF underperforms again \n\u2022 \u2026but $KRE held the intraday lows from 3/24 \n\u2022 $SCHW did not hold the recent lows though \n\u2022 Bank EPS reports start this week $JPM\n$XLE outperforms again \n\u2022 Only 3 tickers declined $BKR $MPC $VLO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964834451675415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-08T15:40:50Z",
+        "content": "$SPX Week over Week vibe = Short. And Flat.  \n\u2022 $QQQ underperformed with $XSD -6% \n\u2022 More up stocks versus down  \n\u2022 $SPX up almost 7% YTD but 5 sectors still negative \n\u2022 $XLU back over the 200-day, but $XLY lost it \n\u2022 $GDX +6%, #CPI this week",
+        "sentiment": {
+            "TextBlob": 0.0032407407407407385,
+            "NLTK": -0.8402,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997076392173767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-05T12:39:56Z",
+        "content": "$EWQ: France +14% YTD and it only has 5% exposure to technology.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941360950469971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-04T15:17:43Z",
+        "content": "$AAPL is back into overbought territory for the first time since the February highs.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995376706123352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-04T12:08:15Z",
+        "content": "$UPS another stock with a potential breakout in progress \u2013 can it get into overbought territory too? ( $FDX already broke out, currently overbought )",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994879961013794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-03T12:03:43Z",
+        "content": "$IHAK potential breakout in progress",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9835282564163208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-03T03:24:45Z",
+        "content": "@howardlindzon $MKTX is another financial that is working under the radar like $CBOE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943793416023254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-03T00:06:37Z",
+        "content": "*New Post* a quick monthly recap plus tweet reviews\u2026 was it a Swish or a Brick? \n$SPX $TNX\n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.23484848484848483,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953248500823975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-02T22:25:43Z",
+        "content": "This was pretty bullish for $SPX.  \n \nInterested to see what a short #JOBS week has to offer. Most would welcome a pause so it would be slightly amusing to see the rally follow-through unabated #FOMO",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.8882,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940851926803589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-01T15:28:29Z",
+        "content": "$XLF continues to underperform but only two tickers dropped: \n\u2022 $CFG $SCHW \n \nShort list of decliners from $SPY this week also included: \n\u2022 $MTCH $GOOG $LMT \n\u2022 6 $XLV tickers",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992586970329285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-04-01T15:28:10Z",
+        "content": "$SPX Week over Week vibe = Ripping  \n\u2022 $SPX best weekly gain since Nov (the week after was a small decline) \n\u2022 97% of $SPY up this week vs 65% last \n\u2022 $QQQ $XLK lagged but $XSD outperformed \n\u2022 $GLD negative, continuing to underperform \n\u2022 $XLE, $XLY back over the 200-day",
+        "sentiment": {
+            "TextBlob": 0.09,
+            "NLTK": -0.431,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915674328804016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-31T20:54:26Z",
+        "content": "2022: Everything was down, except commodities \n2023: Everything is up YTD, except commodities \n \n$SPX > $EEM > $AGG",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982675313949585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-30T21:40:29Z",
+        "content": "The dominance of mega cap tech gets all the headlines $AAPL $MSFT $NVDA \n... but it's also a sector story within the equal weighted indices: \n \n\u2022 $RSP has an 18% weighting to the worst performing sectors: financials and energy \n\u2022 $QQEW has 3% energy and no financial exposure",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.5789,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989172220230103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-29T21:51:50Z",
+        "content": "Only one energy stock from $SPX closed down during today's rally... \n \n... $OXY",
+        "sentiment": {
+            "TextBlob": -0.0851851851851852,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977244734764099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-27T22:45:50Z",
+        "content": "Given the outperformance of $XLK during the $KRE drama, what could happen next? \n \nOne potential scenario is $SPX up but $XLK starts to underperform (#rotation) \n \nIt has happened before: October and March of 2022 are recent examples",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995346069335938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-27T12:56:07Z",
+        "content": "Worth watching: \n$XLI ( 8.59% of $SPX ) has been above the 200-day since November, briefly retesting it intraday on Friday.  \n \nMore than half of the industrial tickers are currently above the line.  \n \nKeep a close eye on #4 holding $CAT",
+        "sentiment": {
+            "TextBlob": 0.10555555555555557,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9862605929374695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-26T22:51:38Z",
+        "content": "Only four $SPY sectors made a lower low (so far) setting up a potential positive divergence short term.  \n \nThe rest remain above the mid-March lows with notable strength in $XLK $XLC which didn\u2019t just hold support, they rallied.",
+        "sentiment": {
+            "TextBlob": 0.10340909090909091,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9881860017776489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-26T18:48:29Z",
+        "content": "Drilling into the top 10 $XLF holdings most were able to successfully hold the October lows without breaking down which is encouraging for a bullish resolution. \n \nA few tickers at risk worth watching: $BAC $WFC and possibly $GS",
+        "sentiment": {
+            "TextBlob": 0.2743055555555556,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9934307932853699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-25T15:37:25Z",
+        "content": "$XLF continues to underperform but NOT falling feels like a win: \n\u2022 $TFC $AIZ $FLT \ud83d\udfe2 \n\u2022 \u2026but $FRCB -46% \ud83d\udd3b \n \n$XLE bounced back after every ticker dropped the prior week  \n\u2022 $APA $PXD $MRO \ud83d\udfe2 \n\u2022 Only 5 dropped this week $HAL $PSX $OXY $SLB $OKE \ud83d\udd3b",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6371,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957935810089111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-25T15:37:02Z",
+        "content": "$SPX Week over Week vibe = cautiously optimistic, potential positive divergences \n\u2022 65% of $SPY up this week vs only 40% last week $REGN $MTCH $ACN \n\u2022 $QQQ (1.81%) continues to outperform $IWM (.33%) \n\u2022 $EEM outperformance really stood out \n\u2022 $GLD flat, underperformed stocks, but strength in $GDX",
+        "sentiment": {
+            "TextBlob": 0.06704545454545453,
+            "NLTK": 0.8047,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8997080326080322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-24T21:45:48Z",
+        "content": "$KRE made a lower low today \ud83d\udc40 \n \n...but reversed to close up on the day to finish the week \ud83e\uddd0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910005927085876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-22T23:56:30Z",
+        "content": "Also green today despite the $SPY drop into the close: \n \n$EEM $HYG  \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.2057,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9902016520500183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-22T21:35:38Z",
+        "content": "@howardlindzon $XLF still up for the week...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9802727699279785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-22T21:32:46Z",
+        "content": "$QQQ \ud83e\udd2e3 tickers closed green on #FOMC day: \n \n$AMD $NVDA $LULU\n$AMD & $NVDA still overbought as well.",
+        "sentiment": {
+            "TextBlob": -0.15000000000000002,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987616539001465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-22T12:06:18Z",
+        "content": "Since 2/1 #FOMC: \n\u2022 $XSD +22% \n\u2022 $XLE -8% \n\u2022 #Crypto up big \n\u2022 $TNX down 25 bps \n\u2022 $GLD +6%",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997515082359314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-22T12:05:56Z",
+        "content": "#FOMC Flashback: A lot has changed since 2/1\u2026 \n\u2022 $SPX Started the last Fed day down but eventually recovered and rallied post press conference \n\u2022 10 sectors had successfully moved above the 200-day \n\u2022 The market would peak the next day",
+        "sentiment": {
+            "TextBlob": 0.11888888888888889,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9886844754219055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-21T15:01:23Z",
+        "content": "Similar vibe to kick off Taco Tuesday \ud83e\udd14 \n \n$IWM > $SPY > $QQQ but all \ud83d\udfe2 \n \n$TLT $GLD $XLK \ud83d\udd3b \n \nSome would argue healthy rotation or just a little relief rally and nothing matters until the #FOMC cometh",
+        "sentiment": {
+            "TextBlob": 0.10416666666666667,
+            "NLTK": 0.6186,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989097118377686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-20T21:27:55Z",
+        "content": "@howardlindzon It\u2019s only one day so not a trend\u2026 and two days before #FOMC\u2026 but it\u2019s still slightly amusing relative to last week: \n \n$SPX & $IWM up, outperforming $QQQ $TLT $GLD $XLK.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9977978467941284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-20T17:10:33Z",
+        "content": "$SPX: key sectors like $XLK + $XLY flat to down on the day but 88% of tickers are \ud83d\udfe2 \n \n$QQQ down, but 70% of tickers are \ud83d\udfe2 \n \n\ud83e\uddd0",
+        "sentiment": {
+            "TextBlob": -0.08402777777777778,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968728423118591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-20T12:06:24Z",
+        "content": "Bears: Extreme $QQQ outperformance relative to $SPY typically doesn\u2019t end well \n \nBulls: \u2026but one example of $QQQ outperformance coupled with extreme $XLF underperformance was January 2009.  \n \n$QQQ outperformance would follow through for several months (even though the market didn\u2019t officially bottom until March 2009).",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967780709266663
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-20T02:18:57Z",
+        "content": "@howardlindzon @ivanhoff2 watching $GLD relative to $SPY as well, ratio has returned to the level from the June lows",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9834643006324768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-19T22:55:55Z",
+        "content": "$MKTX Here\u2019s one $XLF ticker that has been able to keep it together despite the drama",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.988498866558075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-19T22:27:02Z",
+        "content": "#Gold has been crushing most stocks over the past month generating lots of positive buzz. \n \nThe last time the ratio hit this level was the market bottom in June. \n \nWill $GLD continue to outperform or can $SPY bounce back?",
+        "sentiment": {
+            "TextBlob": 0.1462121212121212,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8121983408927917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-18T22:34:52Z",
+        "content": "Many financial stocks held Monday\u2019s intraday lows but\u2026\ud83e\uddd0 \n\u2022 $KIE made a lower low for the week on Friday \n\u2022 \u2026and $GS (#2 holding in $DIA) \n\u2022 \u2026and $BRKB which also broke the 200-day (#1 in $XLF)",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9737592935562134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-18T15:48:30Z",
+        "content": "\u2022 Green $SPY sectors YTD: $XLK $XLC $XLY \n\u2022 $XLE now the worst sector YTD \n\u2022 Every $XLE ticker declined this week $HAL $SLB $APA \n\u2022 Same thing happened in February, $XLE bounced back the next week",
+        "sentiment": {
+            "TextBlob": -0.24,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997430443763733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-18T15:48:09Z",
+        "content": "\u2022 $GLD outperformed +5.68% \n\u2022 $EEM negative on the week \n\u2022 #Crypto is rocking and rolling",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938514232635498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-18T15:47:49Z",
+        "content": "$SPX Week over Week vibe = crisis averted \n\u2022 $XLF was NOT the worst sector (it was the 2nd worst) $FRCB $KEY $CMA \n\u2022 $IWM -2.77% but $QQQ +5.83% (Limited $XLF $XLE exposure makes a big difference) \n\u2022 Only 40% of $SPY tickers were up this week $AMD $MSFT $NVDA",
+        "sentiment": {
+            "TextBlob": -0.2959183673469388,
+            "NLTK": -0.1414,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988453388214111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-16T22:54:56Z",
+        "content": "This week: \n$IWM -.07% \n$QQQ +6.33% \n \nFinancials are the #3 sector in $IWM at 15.80%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.966861367225647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-16T21:30:45Z",
+        "content": "$SPY 20-day highs = 34 \nShort list, but big names like $AAPL $MSFT $GOOG $NVDA $META \n \n20-day lows still > 100 \n24 $XLF names on the list $V $JPM $MS $C",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2617,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978551268577576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-16T17:22:11Z",
+        "content": "Impressive strength today $SPX $QQQ $IWM\n$SPHB vs $SPLV had a potential breakdown vibe yesterday, but today it\u2019s trying to bounce back into a more risk-on setup like we saw during January\u2019s rally",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.7843,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849122762680054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-15T23:45:26Z",
+        "content": "$META $ANET $KR  \ud83d\udcaa",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991382896900177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-15T23:45:09Z",
+        "content": "There are three tickers in $SPX that are overbought\u2026 \n \n\ud83c\udfb6drumroll\ud83c\udfb6 \ud83e\udd41\ud83e\udd18",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995989203453064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-14T18:32:32Z",
+        "content": "$MMM started breaking below the June/July lows by the end of August last year. $DIA would follow through and breakdown weeks later.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990432858467102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-14T18:23:28Z",
+        "content": "$MMM potential failure, new lows versus October \n \n#23 holding $DIA\n#14 holding $XLI",
+        "sentiment": {
+            "TextBlob": -0.06010101010101012,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997246861457825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-14T12:04:58Z",
+        "content": "Over the past month since #CPI: \n\u2022 $SPX -6.8% \n\u2022 $XLF + $XLE down double digits \n\u2022 $XLP best sector but still down",
+        "sentiment": {
+            "TextBlob": 0.08777777777777777,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974263310432434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-14T12:04:37Z",
+        "content": "#CPI Flashback:  \n\u2022 $QQQ closed green the past 5 release days \n\u2022 Feb 13: Risk-on sectors $XLY + $XLK were higher \n\u2022 Risk-off sectors $XLP + $XLV were negative",
+        "sentiment": {
+            "TextBlob": -0.12000000000000002,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99921715259552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-14T03:56:09Z",
+        "content": "@howardlindzon $GS a lot in play here... below the 200-day, oversold. Approaching some max drawdown levels from October and June.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972859621047974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-13T19:40:38Z",
+        "content": "$META which side will win out...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8561878800392151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-13T00:00:17Z",
+        "content": "$TLSA buy the dip into some minor support OR wait for the breakdown and buy it later?",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990915060043335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-12T23:07:14Z",
+        "content": "$SBNY was the worst performing $SPY ticker on Friday -22.87%",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997703433036804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-11T15:26:59Z",
+        "content": "$SPX Week over Week vibe = gross \n\u2022 Worst weekly decline since 9/23 ($SPX would decline again the following week) \n\u2022 $XLK is the best sector this month but all $SPY sectors negative now \n\u2022 $EEM outperformed \n\u2022 $TLT was positive",
+        "sentiment": {
+            "TextBlob": -0.012121212121212121,
+            "NLTK": -0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930052161216736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-11T15:24:56Z",
+        "content": "Only 12 $SPY tickers up this week: $MRK $AMD $INTC $GE $MO $ANET $CMG $KR $DHI $CPB $CHRV $JNPR \n \nOnly 2 from $QQQ: $AMD $INTC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985859394073486
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-10T12:27:27Z",
+        "content": "Since the last #JOBS report: \n\u2022 $SPX -6.25% \n\u2022 Worst: $XLRE -10.85% \n\u2022 Best: $XLI -2.43% \n\u2022 $TNX +53 bps",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991722106933594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-10T12:27:02Z",
+        "content": "#JOBS Flashback: $SPX peaked on 2/2\u2026 #JOBS was released the following day and $SPX closed -1.04% with $XLY -3% on that Friday \n \n#Stocks did rally the prior month though (1/6)",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905931353569031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-09T21:41:06Z",
+        "content": "$KRE -8.11% today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8489745259284973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-09T19:33:08Z",
+        "content": "How much longer can $ITB stay green in this rough tape? 85% of $SPY in the red...",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996046423912048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-09T17:14:44Z",
+        "content": "$XLF is struggling... $KRE \ud83e\udd2e \n \n$KIE had been a leader but it's breaking down here:",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982781410217285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-09T03:39:07Z",
+        "content": "Narrator: $TSLA rolled over... \n \n...and it's underperforming $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994848966598511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-07T15:40:08Z",
+        "content": "#Powell #FOMC negative reaction overall from $SPX but beneath the surface, not super risk-off at the moment. \n \nSome green: $XLC $ITB \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.16666666666666669,
+            "NLTK": -0.7628,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900062680244446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-07T03:34:30Z",
+        "content": "$AAPL continues to struggle with resistance around $157 ish... \n...but $AAPL versus $SPY is trying to make a move here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977155923843384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-06T12:42:04Z",
+        "content": "$SPX #OnThisDay",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9755562543869019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-05T23:08:38Z",
+        "content": "$WYNN for the .... wait for it... win :)",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993347704410553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-05T19:01:53Z",
+        "content": "On the other hand, if you want to play defense and fade last week\u2019s $SPY reversal\u2026 $XLU stood out amongst the defensive sectors. \n \n#FOMC chatter + #JOBS on Friday",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5620017051696777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-05T19:01:19Z",
+        "content": "Feeling the $SPX bullish vibes and looking for follow-through?  \n \nKeep it simple, start by scanning through risk-on sectors like $XLC $XLK $XLY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982677698135376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-04T15:36:11Z",
+        "content": "$EEM > $EFA \n\u2022 $ECH +7% yesterday \n\u2022 $INDA successfully retested the SUMMER lows \n\u2022 $KSA found support at the December lows",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6058323979377747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-04T15:35:44Z",
+        "content": "$PSCE > $XLE \n\u2022 $XLE is #1 for March so far, but still negative YTD \n\u2022 6+% gains this week: $MPC $PXD $EOG $VLO $BKR \n\u2022 Only 2 $XLE tickers red this week $EQT $WMB",
+        "sentiment": {
+            "TextBlob": -0.049999999999999996,
+            "NLTK": -0.4497,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910184144973755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-03-04T15:35:24Z",
+        "content": "$SPX Week over Week vibe = up for once, building momentum \n\u2022 $XLE outperformed again, $UNG +16% \n\u2022 $EEM bounced back +3% \n\u2022 $XSD +21% YTD $NVDA $ON \n\u2022 #Crypto: the struggle is real, hang in there. \n \nLet's zoom in...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948311448097229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-28T13:28:50Z",
+        "content": "$MNST stuck in a monster vortex ahead of EPS.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905694723129272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-21T20:32:23Z",
+        "content": "About 40% of $XLP & $XLE names within $SPY still green at the moment in a tough tape:  \n$GIS $TAP $VLO $COP",
+        "sentiment": {
+            "TextBlob": -0.29444444444444445,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999097466468811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-20T22:30:34Z",
+        "content": "Can $IEO find a floor here? #1 holding #COP is already below the December lows\u2026 \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993368983268738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-19T23:06:51Z",
+        "content": "$BOWL  \ud83c\udfb3\ud83d\udd25 \nBowlero trying to breakout like Mac McClung \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874180555343628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-18T15:44:11Z",
+        "content": "$SPX Week over Week vibe = mixed. \n\u2022 $QQQ outperformed $SPY - $ABNB $SGEN \n\u2022 $EEM continues to lag - $FXI $KWEB \n\u2022 $XLE now the worst sector YTD, every ticker declined on the week \n\u2022 #Crypto was strong $MARA",
+        "sentiment": {
+            "TextBlob": -0.18888888888888888,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997263550758362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-17T03:47:48Z",
+        "content": "$AAPL \n\u2022 22% of $XLK \n\u2022 12% of $QQQ \n\u2022 6% of $SPY \n\u2022 3% of $DIA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878425598144531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-14T12:30:46Z",
+        "content": "#CPI Flashback: \n\u2022 #Stocks have rallied on US CPI the past four months \n\u2022 Jan: $SPX closed off the highs, just below the 200-day \n\u2022 $XLE was the top sector for the day \n \nOver the past month since #CPI: \n\u2022 Best $SPY sector: $XLK ( $XSD ) \n\u2022 Worst $SPY sector: $XLU",
+        "sentiment": {
+            "TextBlob": -0.016666666666666663,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937119483947754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-14T03:54:35Z",
+        "content": "$ITA attempting to break out of a potential #UFO consolidation pattern - next milestone: ATH near $120 \n \n\ud83d\udcaa\ud83d\udc7d\ud83d\udef8\ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987854361534119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-13T13:28:41Z",
+        "content": "$XOM attempting to breakout (24% of $XLE)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998132050037384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-12T19:05:22Z",
+        "content": "$TNX $XLE $XLV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894104599952698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-11T15:48:57Z",
+        "content": "\u2022 $SPX still up for the month and up strong YTD \n\u2022 $UNG bounced back \n\u2022 Only 1 $XLE ticker was red $WMB \n\u2022 Next week: #CPI",
+        "sentiment": {
+            "TextBlob": 0.08666666666666666,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969884753227234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-11T15:48:24Z",
+        "content": "$SPX Week over Week vibe = Choppy. Death by a thousand ticks. \n\u2022 $XLE only sector higher on the week $PSX $FANG $EOG \n\u2022 \u2026but $XLK outperformance yet again $FTNT $FISV $MPWR \n\u2022 $EEM weakness from last week continued",
+        "sentiment": {
+            "TextBlob": 0.012499999999999997,
+            "NLTK": -0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999708354473114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-10T03:28:54Z",
+        "content": "$TSLA rocking and rolling relative to $SPY \n \nCan it continue to trend higher? \n \nOr will it rollover just like the last time it was this overbought in September??",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993253946304321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-08T03:51:27Z",
+        "content": "$XLE trying to bounce back relative to $SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983687996864319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-07T12:59:15Z",
+        "content": "Can $TSLA break through resistance?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948737025260925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-07T03:15:40Z",
+        "content": "#TechnicalFoul has been assessed to $XLB for failing to hold the December highs ( $SPX still retesting ) \n \nTop 5 $LIN $APD $FCX $SHW $NUE",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997072815895081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-05T22:49:49Z",
+        "content": "$BZH Epic fail at the August highs. It's only .25% of $ITB, but $ITB has been rolling as of late (well above Aug).",
+        "sentiment": {
+            "TextBlob": -0.13999999999999999,
+            "NLTK": -0.3071,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986288547515869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-05T19:00:02Z",
+        "content": "Feb $SPX Choose Your Own Adventure \nA) Late month high (like Mar); Buy the dips. The rally keeps rolling. \nB) Mid-month high (like Aug/Dec); Buy this dip, but flip the rip. \nC) Early month high (like Apr/Jun); it was a fun run.",
+        "sentiment": {
+            "TextBlob": 0.16857142857142857,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983660578727722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-04T15:45:09Z",
+        "content": "\u2022 $XLV negative on the week, but $ALGN was the #1 $SPY ticker this week \n\u2022 Only 3 $XLE tickers green $WMB $OKE $BKR \n\u2022 EPS expected this week includes $DIS $CMG $PYPL $RCL",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981874823570251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-04T15:44:42Z",
+        "content": "$SPX Week over Week vibe = D\u00e9j\u00e0 vu. Same trends from the prior week. \n\u2022 US stocks bouncing back $QQQ > $EEM ($EEM actually down) \n\u2022 More $XLY outperformance (but less participation) $KMX $PHM \n\u2022 It\u2019s not $XLC ( $META !), but $XLK continues to work $XSD +4% $AMD",
+        "sentiment": {
+            "TextBlob": 0.022685185185185187,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981605410575867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-03T20:13:48Z",
+        "content": "$AAPL + $META finally make it back over the 200-day but we may lose some other participants by the end of the day at this rate... #rotation \ud83e\udd14\ud83d\ude43",
+        "sentiment": {
+            "TextBlob": -0.041666666666666664,
+            "NLTK": -0.5499,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995774626731873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-03T12:12:23Z",
+        "content": "#JOBS Flashback: $SPX rallied last month with $XLB leading the way that Friday \n \n\u2022 $SPX +10% since the last payrolls number \n\u2022 $XLY +21% ( $TSLA ) with $XLV & $XLU negative \n\u2022 $XSD +27% ( $NVDA ) \n\u2022 #Crypto on fire",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960709810256958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-02T22:00:49Z",
+        "content": "The pair trade of the week would have been long $XLC (+7%) and short $XLE (-5.5%) or better yet some of the individual names... \ud83d\udd25\ud83d\udca9",
+        "sentiment": {
+            "TextBlob": 0.1125,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993657469749451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-02T18:50:54Z",
+        "content": "Stocks or Rocks? $SPX or $GLD \n \nThe indicator is officially risk on. \n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954030513763428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-02T17:10:22Z",
+        "content": "@howardlindzon $XLF relative weakness stood out in yesterday's rally...  \ntwitter.com/161point8/statu...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914278388023376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-01T23:20:52Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-01T21:49:09Z",
+        "content": "$SPX vs $QQQ on #FOMC day... \nLots of down stocks within $XLF so the breadth wasn't as strong as expected within $SPY today.",
+        "sentiment": {
+            "TextBlob": 0.05925925925925923,
+            "NLTK": -0.4023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993522763252258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-01T15:58:33Z",
+        "content": "@howardlindzon @allstarcharts but if $ITA fails here ... that would be some valuable info, great one to keep on the watch list right now",
+        "sentiment": {
+            "TextBlob": 0.19523809523809524,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8825061917304993
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-01T12:24:01Z",
+        "content": "#FOMC Flashback: In December $SPX peaked the day before the Fed meeting and then trended lower from there. \n \n\u2022 $SPX -4.48% since the last hike, $TLT & $AGG negative as well  \n\u2022 $GLD up a little \n\u2022 $XLE the only positive sector with $XLK in last place",
+        "sentiment": {
+            "TextBlob": -0.04337121212121212,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990983009338379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-02-01T03:44:29Z",
+        "content": "$XLY $XLRE and even $XLP > 200-day \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891013503074646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-31T03:35:46Z",
+        "content": "$GLD refuses to breakdown relative to $SPY, some risk-off vibes to start #FOMC week. \n \nPS. $LUMBER was a big outperformer today as well \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5142411589622498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-29T20:37:51Z",
+        "content": "$VIX below 20, risk off?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959139227867126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-29T20:37:22Z",
+        "content": "$SPX retesting the December highs, well off the lows reducing the risk return opportunity.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932471513748169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-29T20:36:33Z",
+        "content": "New post featuring some potential short-term warning signs to watch next week. \n \n$SPX $VIX $UUP $AAPL #FOMC\n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.04545454545454545,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954050779342651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-28T15:42:39Z",
+        "content": "@howardlindzon epic one day move from a \"TradFi\" financial \n$AXP",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7160071730613708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-28T15:41:31Z",
+        "content": "$SPX Week over Week vibe = Party On. \n\u2022 US stocks bounced back $QQQ > $EEM \n\u2022 $XLY only 6 tickers down, $TSLA +33% \n\u2022 It\u2019s not $XLC, but $XLK continues to outperform $SPY; $WDC $STX \n\u2022 $XSD +6% ( $NVDA ) while $INTC struggled post EPS",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": -0.3071,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972090125083923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-28T04:03:06Z",
+        "content": "3 $SPY tickers with > $100b in market cap up 10+% this week... \n \n$TSLA $NVDA $AXP \n \nBest day for $AXP since 2020",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874845147132874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-26T21:34:28Z",
+        "content": "$XLC & $XLK above the 200-day",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.93453449010849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-26T03:52:19Z",
+        "content": "$TSLA up after hours, #2 holding in $XLY. \n \n$XLY vs $SPY has bounced back, breaking through resistance recently. \n \n$XLY still has some work to do in order to test the 200-day though...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9753851890563965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-25T03:57:35Z",
+        "content": "$ARKK remains firmly below the 200-day, losing momentum as it retests the December highs.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995272159576416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-24T03:27:11Z",
+        "content": "$UNG is this anything?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988923668861389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-23T02:31:39Z",
+        "content": "$IEZ trying to bounce back...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977335929870605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-22T13:35:59Z",
+        "content": "$EEM is attempting to breakout on the back of $USD weakness \n \n(but $EMXC has not quite broken out. Yet.) \n \nWhat if $UUP stops going down? $SPY \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": -0.1851851851851852,
+            "NLTK": -0.1604,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993075132369995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-21T15:51:48Z",
+        "content": "\u2022 Defensive sectors negative YTD $XLP $XLU $XLV #rotation \n\u2022 $TLT and $GLD outperforming $SPY",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996035695075989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-21T15:51:27Z",
+        "content": "$SPX Week over Week vibe = Buy. The. Dip. \n\u2022 $XLC continues to dominate, +10% YTD $WBD $MTCH $PARA \n\u2022 Crypto crushing it $BTC $ETH $SOL \n\u2022 $XLE positive for the week $VLO $PSX $MPC",
+        "sentiment": {
+            "TextBlob": 0.31363636363636366,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970167875289917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-21T04:08:34Z",
+        "content": "Strong close today for $SPY but interesting to see more new lows than highs: \n \nHigh: $GOOG $META $NFLX ... \nLow: $GS $JNJ $HD ...",
+        "sentiment": {
+            "TextBlob": 0.2882828282828283,
+            "NLTK": 0.111,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948834776878357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-20T03:49:03Z",
+        "content": "$COIN \ud83d\udc40 \nBuy the pullback or cut and run \ud83e\udd14 \n- 10.49% of $ARKF -",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906781911849976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-18T21:51:29Z",
+        "content": "$SPX $QQQ \nAnti breadth thrust:",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929190278053284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-18T20:46:00Z",
+        "content": "$SPY selling off today which feels risk-off naturally... \n \n...but the top 3 sectors outperforming today are $XLY $XLK $XLC which are usually more risk-on \n \n\ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910873770713806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-16T21:44:23Z",
+        "content": "$NFLX is the 8th largest holding in $XLC (the #1 $SPY sector YTD)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879764914512634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-16T21:42:12Z",
+        "content": "$NFLX filled the gap and is attempting to breakout with earnings coming out this week \ud83d\udc40\ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7051118016242981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-15T23:22:43Z",
+        "content": "$VIX broke below 2022 support on Friday. \n \nIs this time different \u2013 can $VIX continue to trend lower? \n \n$SPY \ud83e\uddd0\ud83e\udd14 \npbs.twimg.com/media/FmjK8eS...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994613528251648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-15T22:50:56Z",
+        "content": "$FSLR attempting to breakout again, the November breakout worked out. \n \n#1 $SPY stock over the past 6 months",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9735504388809204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-14T15:49:48Z",
+        "content": "\u2022 More strength from home construction $ITB +4% \n\u2022 Some stuff that actually declined: $VIX $UNG $TNX",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5413,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880263805389404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-14T15:49:09Z",
+        "content": "\u2022 $XLV is the only negative $SPY sector YTD $UNH $PFE \n\u2022 Semi\u2019s $XSD +7% $FSLR $NVDA $AMD",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948179125785828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-14T15:48:48Z",
+        "content": "$SPX Week over Week vibe = Risk-on. Obviously. \n\u2022 $XLY had the best weekly sector gain since\u2026 $XLK after November #CPI \n\u2022 75% of $SPY up (flat/down vs last week) $UAL $AAL",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.8225,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8594573736190796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-13T03:45:06Z",
+        "content": "$BTC.X is very overbought. That escalated quickly. \n \nDaily RSI was last overbought in March.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994150400161743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-12T12:19:32Z",
+        "content": "Over the past month since #CPI: \n\u2022 Home Construction $ITB continues to work $PHM \n\u2022 Best sector: $XLE - $HAL $SLB \n\u2022 Worst sector: $XLK - $ENPH $ANET \n\u2022 Outperformance from $EFA $EEM $GLD",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981958270072937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-12T12:19:06Z",
+        "content": "#CPI Flashback: \n\u2022 October: #Stocks up (huge intraday reversal) \n\u2022 November: Up again, $XLK +8% \n\u2022 December: $SPX rallied at first but that was a top \n\u2022 Today: Can stocks rally for a 4th straight month?",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.5499,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8944857120513916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-11T03:58:53Z",
+        "content": "$ARKK attempting to comeback ahead of $CPI \n \n1. $ZM chart is the same vibe \n2. $EXAS just broke out of the recent range to the upside \n3. $TSLA still beneath December\u2019s high",
+        "sentiment": {
+            "TextBlob": 0.05333333333333334,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973289966583252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-09T15:20:03Z",
+        "content": "$AGG has traded below the 200-day for 275 trading days. \n \nThe longest streak had been 251 days and ended in December of 2018. \n \nIn 2019 $AGG returned 8.68%.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9655512571334839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-09T02:35:10Z",
+        "content": "$SOL.X  Soly Moly",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9661055207252502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-08T22:32:47Z",
+        "content": "$QQQ only one stock has performed worse than $TSLA over the past 6 months... $LCID  \n \nIs Elon to blame for that as well? :)",
+        "sentiment": {
+            "TextBlob": -0.037500000000000006,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995816349983215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-08T22:18:00Z",
+        "content": "@ChickenWingit $SBUX with a potential breakout here. Good one to watch to see if that holds.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995914101600647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-08T20:13:11Z",
+        "content": "$XBI stuck in The James Harden Crossover Vortex \u2122",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997225821018219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-08T18:16:36Z",
+        "content": "@howardlindzon\n$EEM closed above the 200-day for the first time in 335 trading days. \n \nNext milestone: $EEM hasn\u2019t hit overbought (daily RSI) since February 2021.",
+        "sentiment": {
+            "TextBlob": 0.03,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8695886731147766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-08T18:15:46Z",
+        "content": "\ud83e\udd4a $BOIL vs $KOLD \ud83e\udd4a \n \n$UNG 66% drawdown from the August highs, back to an interesting level near $12. \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990584135055542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-07T22:47:26Z",
+        "content": "$EEM closed above the 200-day for the first time in 335 trading days. \n \nNext milestone: $EEM hasn\u2019t hit overbought (daily RSI) since February 2021.",
+        "sentiment": {
+            "TextBlob": 0.03,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9752137064933777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-07T17:14:26Z",
+        "content": "@ryphllps @howardlindzon @MaverikIT @TheLongVol ha. $COST was a big winner in Friday's rally as well, think it ended up being the 2nd best on the day",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.91,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964852333068848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-07T16:59:09Z",
+        "content": "$SPX is 2.6% away from retesting the 200-day again. \n \n6 $SPY sectors are currently above it. \n \n58% of tickers are above it. \n \n$RSP is back above it. \n \nLooking at you $XLK & $XLY (35%)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966171383857727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-07T15:53:58Z",
+        "content": "@howardlindzon @MaverikIT @TheLongVol Nice breakout! A little surprising that $XLP outperformed this week",
+        "sentiment": {
+            "TextBlob": 0.42083333333333334,
+            "NLTK": 0.5992,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9829696416854858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-07T15:52:20Z",
+        "content": "The most interesting stat from the week was the long list of stuff that OUTperformed $SPX\n$EFA $EEM $BTC $ETH $TLT $GLD and seven $SPY sectors \n \nWow \n \nRunner-up: continued strength in homebuilders $ITB +5% $PHM $LEN",
+        "sentiment": {
+            "TextBlob": 0.2625,
+            "NLTK": 0.8748,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9522173404693604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-07T15:51:50Z",
+        "content": "$SPX Week over Week vibe = Happy New Year #WGMI \n\u2022 76% up, 4th straight week of breadth improvement \n\u2022 $XLF continues to outperform $MKTX $BEN \n\u2022 Best 2022 sector $XLE was flat $APA $MRO \n\u2022 Worst 2022 sector $XLC dominated $WBD $PARA only negative was $GOOGL",
+        "sentiment": {
+            "TextBlob": 0.10142045454545459,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980150461196899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-07T15:21:36Z",
+        "content": "Nice move in $COTY. It's overbought now :)",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9373973608016968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T21:40:32Z",
+        "content": "@Idea_Generation must be some of the $XLV exposure (mentioned in another post today) like $EXAS because $ZM $TSLA were participating today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960625767707825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T20:08:28Z",
+        "content": "Nice rally in $SPX & $QQQ  \n \n...and $ARKK is underperforming. That's got to sting a bit.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968639612197876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T15:47:21Z",
+        "content": "$COST #1 $SPX stock in today's rally, would not have predicted that.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989529550075531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T15:44:34Z",
+        "content": "$SPX & $QQQ ripping higher on #JOBS for the moment... \n \n...but $XLV flat \ud83d\ude10 $UNH continues to underperform. \n \nOnly ~40 $SPY tickers red, but half of them are healthcare names \ud83e\uddd0 $WAT $MTD $BAX",
+        "sentiment": {
+            "TextBlob": 0.011666666666666669,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993686079978943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T12:19:51Z",
+        "content": "\u2026 the homies, $ITB crushed the $SPX\n$TNX yields bottomed shortly after last month\u2019s #Jobs release. \n \n#FOMC will be watching like \ud83d\udc40\ud83e\uddd0",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992561936378479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T12:19:25Z",
+        "content": "#JOBS Flashback: last month #stocks opened down on the news but closed off the lows.  \n \nThe day before (12/1) ended up being the $SPX peak close for the month as the market struggled into year end. \n \n$QQQ -11% over the past month, $UNG -42% but one group was up\u2026",
+        "sentiment": {
+            "TextBlob": -0.12638888888888888,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970911741256714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T03:26:17Z",
+        "content": "Interesting move on the name change, nice bounce back $RIOT",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995113611221313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T03:18:03Z",
+        "content": "$SOL.x +30% YTD. LOL.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992168128490448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-06T02:36:21Z",
+        "content": "$UNH vs $DIA is oversold again \u2013 sitting at an interesting level \n \n$UNH is the #1 holding in the Dow at 10% \n \nThat ratio crushed it for the first three quarters of 2022 helping the Dow outperform.",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982518553733826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-05T17:32:57Z",
+        "content": "$QQQ 76 tickers in the red, but I see you $AAPL hanging in there \ud83c\udf4f\ud83e\uddd0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957520961761475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-05T03:19:11Z",
+        "content": "$AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828813076019287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-04T16:02:54Z",
+        "content": "@Doozio @howardlindzon $CSCO + $EBAY > $QQQ - old school with the comeback haha",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907301068305969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-04T15:59:22Z",
+        "content": "@howardlindzon $META aka $FB",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877217411994934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-04T14:51:03Z",
+        "content": "#FOMC minutes today, usually a non-event. \n \nIt is mildly interesting to note how several meetings coincided with important $SPX inflection points last year.",
+        "sentiment": {
+            "TextBlob": 0.13,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9906345009803772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-03T18:25:30Z",
+        "content": "The worst sector from 2022 is the only sector green for the moment. Welcome to 2023 $XLC ( $META )",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994240999221802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-03T18:22:44Z",
+        "content": "@howardlindzon $META still green and probably happy to be out of the headlines now that $TSLA dominates all the coverage all the time ;)",
+        "sentiment": {
+            "TextBlob": 0.2833333333333334,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976567029953003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-02T23:03:46Z",
+        "content": "@howardlindzon I've also been curious whether $XLV can continue to grow as a % of $SPY in 2023 ... great point on VC \n \n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9757246375083923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-02T15:09:20Z",
+        "content": "$COTY attempting to breakout of the recent range... \n...still not overbought though (daily RSI) and hasn't been in a looooong time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7573827505111694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-01T21:04:13Z",
+        "content": "Strong breakout attempt for $TUSK",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987024068832397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2023-01-01T19:03:19Z",
+        "content": "A quick trip around the globe \u2013 2022 returns for various regions & countries: \n$SPY $EWC $EWW $EWZ $IEV $FXI $INDA $AFK $EWA",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9379611611366272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T18:34:39Z",
+        "content": "$CHPT has the exact same vibe as $AAPL, but will support continue to hold in 2023?",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.5499,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8825254440307617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T18:33:53Z",
+        "content": "Speaking of $XLK trying to bounce back\u2026 \n \n$AAPL is trying to carve out a potential \u201coops\u201d bottom - #1 holding in $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980533123016357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T18:25:02Z",
+        "content": "Bulls will be watching $XLK vs $SPY next week... \n#1 $SPY sector at 26%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9414878487586975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T15:43:54Z",
+        "content": "\u2022 $EEM outperformed, UP on the week \n\u2022 $SPY outperformed bonds $TLT $AGG \n\u2022 $PDBC closed up for the week & THE YEAR",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972461462020874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T15:43:15Z",
+        "content": "$SPX Week over Week vibe = thank goodness 2022 is over \n\u2022 Flat overall, but 66% were up (better than last week) \n\u2022 $XLF & $XLE continue to outperform $SIVBQ $VLO \n\u2022 $GLD up and outperforming still as well \n\u2022 $XLY down again, but would you believe $TSLA was flat?!",
+        "sentiment": {
+            "TextBlob": 0.048032407407407406,
+            "NLTK": 0.69,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987257122993469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T15:40:46Z",
+        "content": "Props to any stock pickers that found some green gems amidst the worst sector $XLC: \n\u2022 $TMUS 21% \n\u2022 $ATVI 15% ( $MSFT acquisition) \n\u2022 $OMC 11% \n \nAnd let\u2019s not forget the $TWTR (#RIP) buyout!",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.5756,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994745850563049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T15:40:03Z",
+        "content": "Congrats to the worst $XLE stock this year, \u201conly\u201d up 12% \n$OKE  \n \nEven the worst stock in the best sector was a good bet in 2022 #stocks $SPY",
+        "sentiment": {
+            "TextBlob": -0.06000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994524121284485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T03:44:06Z",
+        "content": "Only 28% of $SPY positive this year, some of the largest names on that list: \n$BRK $UNH (#1 $DIA holding) $JNJ $XOM $LLY $CVX",
+        "sentiment": {
+            "TextBlob": 0.11363636363636363,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966115355491638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-31T03:40:26Z",
+        "content": "Only two new 20-day highs today \n$SCHW $VZ",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923694133758545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-30T21:56:50Z",
+        "content": "Year end returns by asset class: \nBest: commodities, $PDBC only positive \nWorst: $BTC.X #Crypto\n$AGG & $EFA outperformed $SPY, but still down",
+        "sentiment": {
+            "TextBlob": 0.014343434343434342,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980379939079285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-30T13:38:04Z",
+        "content": "$SPX down almost 20% for 2022. \n \nYears ending in \u20182\u2019 tend to feature underperformance for $SPX on average. \n \nThis is the worst \u20182\u2019 year since 2002. \n \n$SPY years ending in \u20183\u2019 have tended to be much stronger. The last and best thus far was 2013.",
+        "sentiment": {
+            "TextBlob": -0.0007936507936508028,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991740584373474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-30T03:53:36Z",
+        "content": "$COIN continues to struggle but one slight difference during the December dip - it hasn't reached oversold on daily RSI (yet) so it's got that going for it...",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.2718,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5198661684989929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-30T03:51:59Z",
+        "content": "$AVAX.X damn, still hovering near the lows. Curious if other cryptos will follow it lower or if it can find some support...",
+        "sentiment": {
+            "TextBlob": -0.041666666666666664,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995948672294617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-30T03:50:28Z",
+        "content": "$HNT.X will support continue to hold near $1.57 ?",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923938512802124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-29T13:53:17Z",
+        "content": "$SPY - new post: \n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929350018501282
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-29T03:47:16Z",
+        "content": "$KRE bottomed back on 12/16 and has been trending higher",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911602139472961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-27T19:38:50Z",
+        "content": "@MaxMargin $TSLA is 17, yes. But $ARKK is still at 30.43 daily RSI (14).",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994123637676239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-27T19:28:19Z",
+        "content": "$ARKK \ud83e\udd2e \n \nNot oversold yet (daily RSI). Bulls are hoping $ARKK will make a stand any minute. Interested to see if $ARKK buys more $TSLA on today's dip. \n \n2022 not done yet, hang in there. \ud83d\udc4a",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8381543755531311
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-25T19:43:02Z",
+        "content": "Will be watching $QQQ vs $SPY this week for signs of risk appetite (or lack thereof)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904142022132874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-22T03:17:27Z",
+        "content": "$NKE - Home of the G.O.A.T.  \n \nMonster move today. \n \nBut closed near the lows... \n \n5th largest $XLY holding",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99327152967453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-20T03:35:28Z",
+        "content": "@howardlindzon $AMZN hit a new low today... watching $aapl coming into potential support here:",
+        "sentiment": {
+            "TextBlob": 0.04545454545454545,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985742568969727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-17T15:59:43Z",
+        "content": "$TSLA was only able to bounce 6% back in November before the drawdown resumed. New lows this week. \n \nBut at least we still have Twitter \ud83d\ude43 \n \nPerhaps Tesla should consider changing the logo from red to green in 2023. \ud83d\udd34\ud83d\udfe2\ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.01948051948051948,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963443875312805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-15T15:05:49Z",
+        "content": "Only 4 Nasdaq 100 #stocks are green so far, but one of them is $TSLA \ud83d\ude43 \n \n$QQQ",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948914051055908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-11T23:04:46Z",
+        "content": "$EEM has been on a roll since bottoming out 10/24 but $KSA just recently made new lows \n \nSaudi Arabia is the 6th largest component of EEM with a 3.92% weighting.",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937921166419983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-10T23:20:19Z",
+        "content": "Let's rip through some charts #Stocks  \n \nLots of resistance in play \ud83d\ude2c \n \n+Bulls hoping for some consolidation/chop/rotation \n-Bears looking for opportunities to finish the month strong \n \n$XLP $XLI $XLB $IAI $KIE $ITA $GS\n161point8.com/index.php/202...",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.8779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957892298698425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-10T16:04:28Z",
+        "content": "$SPX Week over Week vibe = nervous about #CPI #FOMC \n\u2022 $XLP vs $XLE continues to be a great ratio trend \n\u2022 All $XLE tickers down this week $HAL $DEV \n\u2022 Only 12% of $SPY up $EVRG $NWL $CPB \n\u2022 $TLT & $GLD down, but big outperformance again",
+        "sentiment": {
+            "TextBlob": 0.09777777777777778,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983978867530823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-06T03:42:22Z",
+        "content": "$ITA had a breakout vibe last week, will it succeed or fail?",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986949563026428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-12-03T17:03:38Z",
+        "content": "$SPX finished the week above the 200-day average (first time since March)\u2026 \n \nBut the epic $EEM streak continues, it\u2019s currently within 2% of the 200-day \n \n$EEM RSI hasn\u2019t been overbought (70) since the early 2021 highs",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8681605458259583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-29T03:54:29Z",
+        "content": "$ARKK vs $SPY \u2013 will support continue to hold? \n \nIf so, $SPX might be able to bounce. If not\u2026 eek \n \n$ZM $TSLA $ROKU $SQ",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910911321640015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-26T15:52:39Z",
+        "content": "\u2022 $XLP & $XLI overbought $DE \n\u2022 $EEM was down on the week $FXI \n\u2022 $SPX retesting the 200-day (63% already above it) \nNext week: #JOBS",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995152950286865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-26T15:52:00Z",
+        "content": "$SPX Week over Week vibe = Defensive rotation (again) \n\u2022 $XLU $XLP continue to outperform $CNP $WBA \n\u2022 All sectors up, but $XLE $XLY still lagging $SLB $DLTR $AMZN \n\u2022 88% of $SPY up on the week (but $AAPL was down)",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990901947021484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-23T20:36:54Z",
+        "content": "$TSLA drawdown, are we there yet?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969088435173035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-17T15:02:51Z",
+        "content": "@howardlindzon I enjoyed Chamath's story about $FTT.X from all-in, unbelievable...",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991499185562134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-17T03:52:15Z",
+        "content": "$QQQ running out of steam relative to $SPY  \n \n( $IVW : $IVE aka Growth vs Value has the exact same vibe )",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997181296348572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-09T14:33:52Z",
+        "content": "@howardlindzon they also want $GLD over $SPY this month as well...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977673292160034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-08T18:06:14Z",
+        "content": "$FTT.X  wild times... \nearly mood: gm. ngmi \nmid mood: wagmi \nlate mood: nvm. ngmi \nshrug.",
+        "sentiment": {
+            "TextBlob": -0.024999999999999994,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982703924179077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-08T13:23:10Z",
+        "content": "$BITQ as a proxy for alt coins - will support continue to hold? \n$BTC.X $ETH.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960448145866394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-08T13:18:59Z",
+        "content": "$ARKK vs $SPY at risk of breaking down:",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990373969078064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-08T00:01:05Z",
+        "content": "@howardlindzon it's not oversold yet so some probably see this as a positive divergence to jump in on this leg down based on RSI versus those October lows. But, a lot of $TWTR.P drama/distraction might be a turn off here haha",
+        "sentiment": {
+            "TextBlob": 0.09057239057239057,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8767738938331604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T23:53:32Z",
+        "content": "$AGG if it retests the lows will it be time to nibble again @howardlindzon ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973025321960449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T23:00:28Z",
+        "content": "$SPY wins the day, $AAPL got into the green but still lagging, no love for crypto today.",
+        "sentiment": {
+            "TextBlob": -0.05000000000000001,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972161054611206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T19:59:43Z",
+        "content": "While $SPY is rallying, $HYG isn't feeling it - still down at the moment. hmm...",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.0951,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965233206748962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T18:47:17Z",
+        "content": "@howardlindzon If $UUP breaks down the assumption will be risk on but given that stocks and dxy aren't always correlated would be slightly amusing if they started to decouple a bit. then we can just freak out about yields I guess :)",
+        "sentiment": {
+            "TextBlob": 0.3148148148148148,
+            "NLTK": 0.3737,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978134632110596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T13:10:52Z",
+        "content": "$SPY futures up, but crypto is not feeling it yet :\\ Which asset is right today?",
+        "sentiment": {
+            "TextBlob": 0.01785714285714285,
+            "NLTK": -0.0657,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945504069328308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T13:08:31Z",
+        "content": "$META  3% pre market... that's it? Perhaps the market is more concerned they will keep spending like crazy on the metaverse (and losing $$$) regardless of the overall head count :|",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975862503051758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T01:26:00Z",
+        "content": "@howardlindzon  \nI\u2019m watching $NFLX this week at a key level of $255 ish as it failed to stay above the 200-day.  \n \n$XLC already broke the summer lows\u2026",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997355341911316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T00:09:35Z",
+        "content": "@ivanhoff $WCLD new lows, eek Bearish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965884685516357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-07T00:05:40Z",
+        "content": "@howardlindzon wait until $TWTR.P goes public again in a few years, that will be a tell for sure ;)",
+        "sentiment": {
+            "TextBlob": 0.1375,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928954243659973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-06T22:15:21Z",
+        "content": "$CBOE nice potential breakout versus the August highs. Interesting to watch if these types of breakouts can hold up...",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9934089183807373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-06T04:03:09Z",
+        "content": "$RNDR.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881040453910828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-05T16:01:01Z",
+        "content": "$XSD was flat this week despite a rough week for $XLK , watching.",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997802376747131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-05T16:00:19Z",
+        "content": "$EEM  interesting strength, +5% this week while $SPX struggled",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9795103669166565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-04T03:55:36Z",
+        "content": "$AAPL vs $DIA retesting summer lows...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925615191459656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "161point8",
+        "timestamp": "2022-11-04T03:31:55Z",
+        "content": "$VYM : $SPY needs to rollover for the bulls to get a rally, don't sleep on boring 'ol $VYM ;)",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": 0.4333,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984813332557678
+            }
+        },
+        "image_url": ""
+    }
+]

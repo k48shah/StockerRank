@@ -1,0 +1,380 @@
+[
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-02-12T18:45:31Z",
+        "content": "@dennismccain Thanks for this. $FLGT is now my largest holding even though I only didn\u2019t put in a full position. Feels overdone at times but then it keeps going up.  I think their earnings announcement will be huge and spur it higher. Rev grew 350% LY and will go another 200% this year according to seeking alpha, yet trades at 30x which is reasonable at that growth. So while I\u2019ve been tempted to trim I\u2019m not planning to. Those #s frankly make me want to invest more :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.9647,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7890844345092773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-02-04T18:51:48Z",
+        "content": "@howardlindzon that was my take a couple months back. Not huge position but Long $MGM \u2014> just a matter of time before Vegas comes back and upside of online... Bullish",
+        "sentiment": {
+            "TextBlob": -0.06250000000000001,
+            "NLTK": -0.0852,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996971607208252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-19T22:50:49Z",
+        "content": "@howardlindzon \u2764\ufe0f it! $NFLX was back at July levels yet printing $ with great growth & peripheral #s inc reasonable valuation. I\u2019d been accumulating on dips.\n\nCurious/hoping (read: expecting!) other FANGSM et al will post big earnings too. $META $AMZN $AAPL $GOOGL $MSFT & even more excited for $ETSY $SQ $FTCH $MELI etc on ecomm & pmts front. #crush Bullish",
+        "sentiment": {
+            "TextBlob": 0.2571428571428572,
+            "NLTK": 0.8743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9857181310653687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-15T13:32:45Z",
+        "content": "Heard of $TGAN - any intell? Symbol didn\u2019t even pop up on stocktwits. Thinly traded OTC but grew rev 600% last year & reasonable multiple 10x (Granted off small rev base), solid margins & ROE. \n\nMotor part related which is interesting. Popped in August from 5 to 30 (I think 1st listing) then dropped back to 4 & has been there since. Can\u2019t find projections except the 2 analysts who cover it have price targets > +100% ($8+ and trading at $4).",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8517410755157471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-10T19:29:21Z",
+        "content": "@Frannky Long $AXON too! Is $WRAP possibly the next one or too niche? Bullish",
+        "sentiment": {
+            "TextBlob": -0.020833333333333332,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992086291313171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-09T15:25:30Z",
+        "content": "@howardlindzon FYI on $FLGT - a pause for me now. Need to compare things like dec fool article with this wk\u2019s Credit Suisse downgrade (attached) & what might happen. Sold $QDEL for covid bump risk. Hoped $FLGT could overcome WFH-type risk with improvement in core biz. #s are so strong but not a slam dunk. \n\nSo not buying more now nor selling (It\u2019s a 2/3 position) - hope massive earnings gives it a bump and then can re assess projections. \n\nThings change so quickly now but wanted to update y\u2019all. (Obvi please do own research & share here! Great job @stocktwits)",
+        "sentiment": {
+            "TextBlob": 0.4694444444444444,
+            "NLTK": 0.975,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935884475708008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-09T15:12:45Z",
+        "content": "@MryD thanks for that. It was my main fear that bump too covid related and not sustainable. Attached FOOL article suggests it can overcome with core biz improvement but Credit Suisse downgraded it. I sold $QDEL bc of that previously but hope $FLGT different as @blueprism pointed out. \n\nSo net - pausing on $FLGT - keeping position but prob won\u2019t add on dip as I\u2019d wanted. Hopefully massive earnings (seems definite) will raise price then can re-assess projections.\n\n\u2014-\nfool.com/investing/2020/12/...",
+        "sentiment": {
+            "TextBlob": 0.025000000000000005,
+            "NLTK": 0.9277,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979567527770996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-08T20:44:22Z",
+        "content": "@howardlindzon \ud83d\udc4d I\u2019ve been doing the same - size & industries. A few I\u2019ve found & like recently - \n\nFor climate/energy - hard to pick winners small as capital intensive. Invested in $DQ, Looking @ $EVA.\nGood ETFs like $TAN $LIT may be helpful; at least for ideas if not direct investment. \n\nBiotechs/HC - if you count cannabis then plenty - $TCNNF is a pick from your boy Todd Harrison; if pure drugs/devices it\u2019s much higher risk/reward - took starter position in $NARI $CMPS $SMLR $NNOX; looking at $TBIO & $INMD\nMy top choice outside cannabis = $FLGT  (healthcare, got more on dip today) \n\nOther tech names -\n$FUTU (tech, robinhood comp)\n$ATER (ecomm, maybe too small for you) Bullish",
+        "sentiment": {
+            "TextBlob": 0.046507936507936505,
+            "NLTK": 0.9217,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976569414138794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-07T18:46:38Z",
+        "content": "$FLGT Best overall #s on any stock I\u2019ve screened in a while. Fwd rev growth 158% (! & on $135m so not tiny) while only trading at 11 EV/S. Plus strong margins & ROE etc... & even profitable w 31PE. In at 48 & 56 over last couple weeks; now at 72. \n\nAm I missing something? Feels like a back up the truck moment even with the run up (def if settles). Bullish",
+        "sentiment": {
+            "TextBlob": 0.15416666666666667,
+            "NLTK": 0.9273,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961873888969421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2021-01-06T15:08:18Z",
+        "content": "@howardlindzon @Vol_so_Hahd THANK YOU HOWARD! Thanks in part to your podcast I started researching cannabis more and ultimately made a decent size play across a bunch of weed stocks. \n\n$TCNNF #1 for most people in space as well as $GRWG $GTBIF $CURLF $PLNHF $GWPH $JUSHF $CRLBF $IIPR $TRSSF $vreof & of course $MSOS \n\nOf note, $TCNNF trades like a value stock but is a growth stock that\u2019s also very profitable w 100% rev growth projections, strong margins, good ROE, meet/beat #s... Bullish",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.9807,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983803033828735
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-22T16:04:25Z",
+        "content": "@howardlindzon I would have guessed $ZM given growth (and $AMZN probably done hiring for holidays), but I\u2019m going with $TWLO as my highest conviction bigger name. \n\nBtw, nice touch on the bottom ad for the podcast :)",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.8591,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9707880616188049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-22T14:20:45Z",
+        "content": "@AkalFamilyOffice Thanks for sharing on $SPG - I\u2019m new to value & trying to find dividend stocks for my parents so they can get out of bonds #ugh. $SPG has a lot of things I\u2019d look for but also a lot of things that suggest price should drop more than the dividend is worth.\n\nDo you have any stocks (or ETFs) you love for dividends that also might appreciate? So far I see $ABBV $LOW $HD $CINF\n\nAlso, any particular metrics you love? Thanks for any help!",
+        "sentiment": {
+            "TextBlob": 0.2653030303030303,
+            "NLTK": 0.9825,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969069361686707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-22T13:59:33Z",
+        "content": "@GaryStrolling would you mind explaining why/how $SPG will go up from here? I\u2019m used to growth stocks but am now trying to find dividend stocks for my parents so they can get out of bonds #ugh. $SPG has a lot of things I\u2019d look for - great Profit margin, ROE, $/Employee, analysts\u2019 price target >+10%, plus a strong dividend, *BUT* Rev is projected to decline (usually most important to me), earnings projected to decline, & their div payout ratio looks >100% (I\u2019dthink a red flag). The last 3 suggest the dividend will drop and combined with tomorrow\u2019s ex-Div date, the price probably will drop too, no? Thanks for any help!",
+        "sentiment": {
+            "TextBlob": 0.2869047619047619,
+            "NLTK": 0.9654,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982168078422546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-22T13:56:03Z",
+        "content": "@mitr would you mind explaining why/how $SPG will go from $83 to $120? I\u2019m used to growth stocks but am now trying to find dividend stocks for my parents so they can get out of bonds #ugh. $SPG has a lot of things I\u2019d look for - great Profit margin, ROE, $/Employee, analysts\u2019 price target >+10%, plus a strong dividend, *BUT* Rev is projected to decline (usually most important to me), earnings projected to decline, & their div payout ratio looks >100% (I\u2019dthink a red flag). The last 3 suggest the dividend will drop and the price probably will too, no? Thanks for any help!",
+        "sentiment": {
+            "TextBlob": 0.2869047619047619,
+            "NLTK": 0.9719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986163377761841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-17T03:48:28Z",
+        "content": "@howardlindzon I am long (small position) in $SHOP and wanted to add more but didn\u2019t. *How do you get past the >50x P/S with Rev growth projections +50% next year (I look for <1:2 ratio)?* Ok ratio but suggests limited upside, no? Esp when $AMZN could do, $BIGC coming up, & lots of other stocks with more growth & lower PS.",
+        "sentiment": {
+            "TextBlob": 0.08373015873015872,
+            "NLTK": 0.3803,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948546886444092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-11T14:32:55Z",
+        "content": "@Breakoutstockmoves what\u2019s the difference between $RSI $GENI ?? Thanks.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.504,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6501233577728271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-09T15:49:49Z",
+        "content": "$AFRM what does Number 810 mean? Thanks.",
+        "sentiment": {
+            "TextBlob": -0.056249999999999994,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9865759015083313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-09T15:49:29Z",
+        "content": "$AFRM what does number 800 mean?",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996799111366272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-08T02:26:51Z",
+        "content": "@buttonwood10 @Linusleblanc sizable long $LITE \ud83d\udc4d",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996118426322937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-12-01T19:31:58Z",
+        "content": "@howardlindzon <$10 stock finds = risky but fun. Have you looked at $ZIXI (my top <$10; banker just sent me an email using Zix\u2019s cyber tech!)? $SIRI (think you still like $SPOT)? $ET or $FRO if you want a cyclical/energy? Looking at $NTZ now for value.  Couple cannabis plays but can\u2019t trade all\u2026 $CRLBF $TRSSF et al (top choice there = $TCNNF but > $30 now). Bullish",
+        "sentiment": {
+            "TextBlob": 0.47500000000000003,
+            "NLTK": 0.9467,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971355199813843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-11-13T14:01:41Z",
+        "content": "@howardlindzon I\u2019m long (small position) $DKNG but how much can we trust \u201cupbeat\u201d given snacks daily\u2019s points about CEOs knowing how to manage these calls. Go to 1:25 of this podcast re keywords to beat algos. open.spotify.com/episode/6a...",
+        "sentiment": {
+            "TextBlob": -0.024999999999999994,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9824245572090149
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-11-10T14:57:40Z",
+        "content": "@howardlindzon time to do the same by buying $FVRR & $ETSY (directly related to $UPWK) & perhaps $JMIA $BABA $FROG as they dropped a bit much? Covid not going away that fast. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998816967010498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-11-06T14:20:47Z",
+        "content": "@howardlindzon I hear you. Same \ud83e\udd26\u200d\u2642\ufe0f on $TTD but it\u2019s rev growth 21% (even if use Fwd = 28.5) & trading at 44 EV/Sales. So many stocks w/ that ratio (1:2) flipped (& even better like 4:1) that this has always seemed overvalued vs growth stocks. We need to have *some* discipline. Whenever we chase it *can* & often does (eventually) drop... See \u2014> $FSLY",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.9313,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847122430801392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-11-04T23:34:36Z",
+        "content": "@howardlindzon Yes! Doubled down on $ESTC a couple days ago - luck but seemed undervalued: RevGrowth / P/S ratio. \n\nSeparately, loved your podcast w/ Michael/Cohesity \u2018Batting avg def higher for b2b w/ more power\u2019. Long $CRWD $NOW & general cybersecurity - potential sleeper gem $ZIXI (better value alt to $PANW) - know that one? Bullish",
+        "sentiment": {
+            "TextBlob": 0.22430555555555554,
+            "NLTK": 0.9117,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8578214049339294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-11-03T02:51:21Z",
+        "content": "@howardlindzon same. Looking hard at adding to $PYPL (been long for a while) esp given growth of venmo + accepting crypto. \n\nCrypto is still a pain for most to buy/own now so PayPal enabling holding in wallet & using at stores could open up market. \n\nAlso own $SQ $V $MA $STNE $ADYEY & other fintech/ecomm so covering the gamut lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.17916666666666667,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982421398162842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-10-28T17:54:54Z",
+        "content": "@howardlindzon Like the idea of finding the China version of X (Eg, v long $BABA, also long $MELI, $ADYEY etc). But rev growth at $IQ seems low for that kind of company, no? Didn\u2019t spend much time on though",
+        "sentiment": {
+            "TextBlob": 0.13999999999999999,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992554783821106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Ekroll",
+        "timestamp": "2020-10-28T17:30:03Z",
+        "content": "@howardlindzon $TUP ^~4x earnings due to turnaround plan. Note rev only up 14%. fool.com/investing/2020/10/...",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941366910934448
+            }
+        },
+        "image_url": ""
+    }
+]

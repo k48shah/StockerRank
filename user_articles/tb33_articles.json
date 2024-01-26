@@ -1,0 +1,16 @@
+[
+    {
+        "username": "tb33",
+        "timestamp": "2017-11-13T21:04:08Z",
+        "content": "$ARGS does anybody know where the news on the buyout came from?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994246959686279
+            }
+        },
+        "image_url": ""
+    }
+]

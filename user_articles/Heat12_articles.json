@@ -1,0 +1,4314 @@
+[
+    {
+        "username": "Heat12",
+        "timestamp": "2023-05-01T23:31:46Z",
+        "content": "$SRAD something brewing here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8480958938598633
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2023-05-01T16:36:23Z",
+        "content": "$SRAD what\u2019s going on here today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963589310646057
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2023-01-25T06:40:38Z",
+        "content": "$GENI did mark locke say tripling EBIDTA next year and cash flow positive in H2 2024. Very bullish on this one\n\nAlso looks like they\u2019ll get some highlights during the Super Bowl. Shoukd pop in the coming weeks. \n\nWhen are earnings? Bullish",
+        "sentiment": {
+            "TextBlob": 0.19015151515151513,
+            "NLTK": 0.875,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98760986328125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2023-01-19T13:46:33Z",
+        "content": "$GENI I\u2019m confused with this warrant exercise. \nI assume the best way to go for the warrants is for a cashless exercise. \n\nCorrect?",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992283582687378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-11-18T14:51:40Z",
+        "content": "$GENI why are warrants up this morning?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968157410621643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-08-25T13:26:26Z",
+        "content": "$GENI geniussports.com/newsroom/g... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946752786636353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-08-18T05:20:27Z",
+        "content": "@mikedeatworld @b_shmoney they\u2019ll be investing in Genius Sports $GENI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9488614797592163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-08-18T00:13:47Z",
+        "content": "$SRAD Sportradar raised its revenue guidance for 2022. Previously it guided for revenue of 700 million euros at best. Now, it's guiding for full-year revenue of 695 million euros to 715 million euros. The low end of this guidance implies 24% growth compared to 2021 -- strong numbers for an under-the-radar company. And to me, its growth rate demonstrates its importance in the growing sports betting $DKNG $CZR $PENN",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.93,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9601231217384338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-08-17T16:14:03Z",
+        "content": "$SRAD this is a different sport betting play. There is no massive client acquisition cost associated with there biz model. Additionally, the market undervalues their crucial role in sports better along with the troves of data. In short, every sport betting operation needs either $GENI or $SRAD. This gives them pricing power. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9752213358879089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-08-16T12:41:36Z",
+        "content": "$GENI did they post this early? It\u2019s out. \n\ninvestors.geniussports.com/... Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987173080444336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-08-16T12:38:15Z",
+        "content": "$GENI the ties with $DIS are strong. Disney has already indicated they have an appetite for sports betting to cator to their 30 something audience, and they have become a tech/content holding company.",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9307278394699097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-02-23T19:20:43Z",
+        "content": "$GOOGL $AAPL these should go up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9710556268692017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-02-15T13:37:46Z",
+        "content": "$SRAD the Canadian Pension Plan owns 48% of the stock float. Most of the float is tied up; hence any positive news leading to buying will set this one off to \n\n$GENI Bullish",
+        "sentiment": {
+            "TextBlob": 0.36363636363636365,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987185001373291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-28T21:39:09Z",
+        "content": "$GENI $SRAD\ntsn.ca/private-sports-betti... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997394323348999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-20T16:57:46Z",
+        "content": "$GENI why would you exercise warrants below 11.50",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972659349441528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-18T17:06:54Z",
+        "content": "$SRAD brutal for a company that is profitable",
+        "sentiment": {
+            "TextBlob": -0.875,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9663973450660706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-12T17:21:13Z",
+        "content": "$SRAD investors.sportradar.com/ne...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9755188822746277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-11T15:03:31Z",
+        "content": "$SRAD they presented at the needham conference yesterday. That will surely spark some interest amongst the institutional players. That\u2019s why we say the big volume and price move at the end of day yesterday. More to come Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9239605069160461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-10T18:41:30Z",
+        "content": "@ArezShahzad1 NY just opened sports betting yesterday. It is all based on the future and it looks ultra bright. Most people just don\u2019t get it yet. \n\nIn 2 years $HOOD will open a sports book and you will be able to invest in stocks, crypto or place a bet all from the same wallet. Sports betting will take a piece of the dollars sitting on the sidelines. \n\n$SRAD $GENI Bullish",
+        "sentiment": {
+            "TextBlob": 0.2833333333333334,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9569351077079773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-08T02:08:47Z",
+        "content": "$GENI those sportbook ads are going to run constantly through every media outlet.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9736782312393188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-07T23:54:33Z",
+        "content": "@Nmcghie best part is the $GENI has no marketing cost. The big boys will take that on Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9094074368476868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-07T20:26:29Z",
+        "content": "@Richman49 I\u2019ve been saying $DIS is going to acquire $GENI for weeks. Perfect fit.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9190303683280945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-07T14:54:06Z",
+        "content": "$GENI there we go. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978336691856384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-06T17:49:32Z",
+        "content": "$GENI NY is poised to be a betting market the size of Canada. The biggest betters in the world live on wall street. \nSports betting will split the wallet between what people put in the market, crypto and now sport betting. Stay tuned. This is gonna be huge.",
+        "sentiment": {
+            "TextBlob": 0.2681818181818182,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9970353841781616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-06T17:10:34Z",
+        "content": "@OaklandAthletics the sportsbook need official league data.  You have to work with $GENI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979149699211121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-03T21:35:03Z",
+        "content": "$SRAD A big close here. The momentum will continue through the month.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9913350939750671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-03T21:15:11Z",
+        "content": "$SRAD what just happened at close? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995216131210327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-03T18:14:46Z",
+        "content": "$GENI $SRAD \nThese two are massively undervalued. The TAM is gonig to double in 2 years. This is the latest report from Deutche Bank Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948167204856873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-03T14:38:02Z",
+        "content": "$GENI all the sport betting apps need to have their servers set up an existing casino in NY state before they go ahead will be given. This should be down before the NFL playoffs begin. The sport betting apps will not let that opportunity go. Stay tuned fir a great month for $GENI and $SRAD Bullish",
+        "sentiment": {
+            "TextBlob": 0.32222222222222224,
+            "NLTK": 0.4153,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945977926254272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-03T14:35:34Z",
+        "content": "$GENI sportsbettingdime.com/news/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9829555153846741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2022-01-02T20:41:04Z",
+        "content": "$GENI cnbc.com/2021/12/30/exec-wh...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907336235046387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-31T02:56:29Z",
+        "content": "$GENI cnbc.com/2021/12/30/exec-wh...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907336235046387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-30T18:46:25Z",
+        "content": "$GENI this was over sold for no reason. Going into the nfl playoffs this will fly Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992007613182068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-21T21:11:16Z",
+        "content": "$GENI $SRAD Just listen to what ex-$DIS CEO Bob Iger is saying about the data and content rights. \nI predict that $DIS #ESPN is going to acquire $GENI\ncnbc.com/video/2021/12/21/f... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998857855796814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-21T21:04:31Z",
+        "content": "$GENI I easily see this being a $50 stock\n\nThey own data and content - the two most valuable assets in the digi economy. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5111111111111111,
+            "NLTK": 0.7764,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998852014541626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-21T19:20:29Z",
+        "content": "$GENI finally broke 7.50. Back to $9.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9174116849899292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-17T23:07:32Z",
+        "content": "@KnightKing yea I agree. I\u2019m long 4000 shares. And I have a lot more $GENI Bullish",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6714465022087097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-17T19:22:59Z",
+        "content": "$SRAD gamblinginsider.com/news/14...\n\neasily at $30 stock. States need tax revenue. Cali next.\n\n$GENI will follow the move higher",
+        "sentiment": {
+            "TextBlob": 0.22777777777777777,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6894550919532776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-17T16:52:06Z",
+        "content": "$SRAD here we go.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955409169197083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-17T16:50:45Z",
+        "content": "$GENI squeeze will start next week. Option expiry today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927695393562317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-16T18:26:28Z",
+        "content": "$GENI questions for everyone here\ncan a sports betting platform provide in game betting without a Genius or SportRadars real-time data and odd calcs? Bullish",
+        "sentiment": {
+            "TextBlob": -0.2833333333333333,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997385144233704
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-16T17:05:29Z",
+        "content": "$GENI why not just add the warrants. Way cheaper and similar optionality with long expiration",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9374764561653137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-16T15:45:12Z",
+        "content": "$BKKT I\u2019ll buy at $7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9590979218482971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-15T18:59:10Z",
+        "content": "$GENI I think we found the bottom.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989578723907471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-15T18:57:21Z",
+        "content": "$SRAD Goldman reiterated its buy and moved the PT from $25 to $24 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965291619300842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-15T17:08:11Z",
+        "content": "$GENI twitter.com/meanrevers/stat...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975042939186096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-15T14:44:21Z",
+        "content": "$GENI $SRAD these are low volume stocks. They will gap up just as fast, especially when funds start buying. Analysts are reworking their expectations and will start putting out buy ratings. Funny both these stocks already have strong buys ratings across the board. Just wait til the tutelage starts buying. This one will explode\nThese two companies own all the major league data rights. Unbelievable. The total market cap is $6B combines. \nNo brainer here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1439814814814815,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927967190742493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-15T14:30:14Z",
+        "content": "$SRAD cnbc.com/2021/09/09/more-am... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985992312431335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-15T14:29:56Z",
+        "content": "$GENI if you haven\u2019t read this then you need to\n\ncnbc.com/2021/09/09/more-am... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991193413734436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-14T21:58:48Z",
+        "content": "$GENI averaged down today. Didn\u2019t think it\u2019d hit $7. Can\u2019t be much room lower but lots of room above.",
+        "sentiment": {
+            "TextBlob": 0.014814814814814808,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899774789810181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-14T15:23:05Z",
+        "content": "$GENI and $SRAD are the Bloomberg and Reuters of the sport betting industry. These are such undervalued investments at these prices.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7734596133232117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-11T03:11:44Z",
+        "content": "$SRAD barrons.com/articles/sports...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9731297492980957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-10T16:14:17Z",
+        "content": "$GENI $DIS  looking to make a big acquisition in the sports betting work. This looks to be the perfect target.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.635696291923523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-09T03:01:11Z",
+        "content": "$GENI here we go. Ohio on board. Another rev booster\n\nThis is easily at $50 stock in 2 years. \n\ncleveland.com/news/2021/12/...",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942408800125122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-09T02:52:20Z",
+        "content": "$SRAD cleveland.com/news/2021/12/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878755211830139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-08T18:40:41Z",
+        "content": "$GENI $9 \nTime for the sport betting stocks to get some love. All had great financials and the growth is immense from here. \nEurope is 20 years ahead. US will catch up in 2 years Bullish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.8979,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995904564857483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-08T15:42:44Z",
+        "content": "$SRAD huge volume in Sportradar today. \n955k shares traded. Above daily average. Someone looks to be acquiring.",
+        "sentiment": {
+            "TextBlob": 0.06250000000000003,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6355628967285156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-07T15:17:12Z",
+        "content": "$GENI it will play catch up to the rest of the Online Sport Betting players",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9950951337814331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-06T13:59:00Z",
+        "content": "$LCID SEC investigation on merger",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9733257293701172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-02T21:21:36Z",
+        "content": "$SRAD I\u2019m pretty confident this get to $30-35 by end of q2. All the majors sports seasons are gonna drive year in year growth Bullish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.8402,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871223568916321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-02T18:18:21Z",
+        "content": "$GENI warrants look ultra cheap. Expiration is dec 2028. \nWhy buy a call option with a near term expiration when you can buy a warrant. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997716546058655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-01T21:32:51Z",
+        "content": "$SRAD 140,000 shares unloaded. Feel like it was a mistake or someone had to unload quick",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997705817222595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-01T20:57:02Z",
+        "content": "$SRAD what\u2019s going on here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957029223442078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-01T17:10:12Z",
+        "content": "$NSTB APEX Fuck U",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998748779296875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-01T15:59:46Z",
+        "content": "$NSTB sob",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966064691543579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-12-01T00:02:08Z",
+        "content": "$NSTB I bought some dec 17 $10 calls today for 5c. This adds to my shit load Of warrants",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964099526405334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-30T23:59:55Z",
+        "content": "$SRAD I own it. I believe owning the data is the way to play the sport betting stocks.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865743517875671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-29T14:36:45Z",
+        "content": "@Stock_DropNroll buy some $SRAD to own the data for online sports betting. As you said data = $$$$",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978411197662354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-29T14:32:01Z",
+        "content": "I own both as well. In fact I flipped some of my position from SRAD to $GENI just because it dipped big time last week. \n\nThese two companies own the data - hence they own the media, and the historical data to calculate anything OSB related.",
+        "sentiment": {
+            "TextBlob": 0.2571428571428571,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877581000328064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-29T05:36:32Z",
+        "content": "$SRAD I need to buy more after reading this story\n\nusatoday.com/story/sports/2... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990418553352356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-24T22:12:32Z",
+        "content": "@KingRamy72 sub $10 is a bargain. I do like $SRAD even more. They are profitable as well with more global data rights. These companies are key the sport betting works as they done have to pay big costs to acquire customers",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.8,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9918511509895325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-24T21:24:00Z",
+        "content": "$SRAD owning the data is so critical. I can\u2019t believe this is selling off. Long term hold. See this at $40 in a year.",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.4572,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999320387840271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-24T21:16:41Z",
+        "content": "$GENI did everyone just miss this key piece of news \n\nsportspromedia.com/news/gen...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995371103286743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-23T17:11:00Z",
+        "content": "$GENI Cathie are you dumping?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961265921592712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-23T16:06:20Z",
+        "content": "$SGHC you know this is fucked as well",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990253448486328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-23T14:41:24Z",
+        "content": "$GENI this is a bit fucked up. NFL seasons just started. NBA NHL as well for $SRAD Bullish",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985036849975586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-23T04:23:30Z",
+        "content": "$SGHC teaming up with the new jersey devils. Guess where they\u2019ll be buying their data. That\u2019s right\u2026 sportradar. $SRAD Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979180693626404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-23T04:21:10Z",
+        "content": "$PENN no one understands the value of the thescore.com/ acquisition. They own the top sports chat that will have in stream betting.",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814926981925964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-22T05:14:39Z",
+        "content": "$SRAD institutional coverage brings in institutional buying. We are set for a strong week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7547590136528015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-21T18:59:32Z",
+        "content": "$SRAD Eleven equities research analysts have rated the stock with a buy rating, Based on data from marketbeat.com/, Sportradar Group has an average rating of \u201cBuy\u201d and an average price target of $28.11.",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.924858808517456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-21T18:56:15Z",
+        "content": "$SRAD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878813028335571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-19T17:41:41Z",
+        "content": "$GENI earnings next week. Let\u2019s hope they are solid",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996863603591919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-18T16:45:46Z",
+        "content": "$SRAD need to be patient with this one. It\u2019s getting destroyed with the rest of the sports betting market. But it\u2019s one of the few plays that\u2019s not paying big dollars to acquire customers. Winner here. $28 EOY",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995097815990448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-18T16:44:05Z",
+        "content": "$CLOV I hate myself for ever investing in this PoS Bearish",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961052536964417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-18T13:34:49Z",
+        "content": "$SRAD more coverage and higher price targets. The perfect solution to low volume Bullish",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8141769170761108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-18T04:14:14Z",
+        "content": "@mh83 exactly. I remember that fool. \nI want him to know that I bought some $GENI tiday as well. Under $15. That\u2019s fair for an unprofitable company",
+        "sentiment": {
+            "TextBlob": 0.475,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987836480140686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-18T00:10:05Z",
+        "content": "@Mgricius this already had its sell-off along with $PENN $DKNGG $SRAD\nBack to $18 post earnings, and then $24 target by the time the super season ends. Thats when the true impact of the partnership will be seen.",
+        "sentiment": {
+            "TextBlob": 0.22777777777777777,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931541681289673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-17T20:04:37Z",
+        "content": "$GENI Loaded Along side $SRAD \nDuopoly here. The few big opportunities to own both companies that support all the major sports trading books. This industry will only grow as new states come aboard.",
+        "sentiment": {
+            "TextBlob": 0.09981060606060606,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975073933601379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-17T13:31:50Z",
+        "content": "$SRAD Over the course of 2021, Sportradar has signed data rights deals with leading leagues and governing bodies across five of the most popular global sports, including Union of European Football Associations, International Tennis Federation, International Cricket Council, the National Hockey League and the NBA.",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.4754,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9716097116470337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-16T15:53:46Z",
+        "content": "$HOOD just add the $SHIB.X you morons Bullish",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984380602836609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-16T15:39:13Z",
+        "content": "$CLOV they just lost the WSB crowd. They are completely fucked",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.7902,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996864795684814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-16T05:23:03Z",
+        "content": "$CLOV anyone know how much cash they had in their balance sheet in the last earnings reported?",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999390721321106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T21:46:42Z",
+        "content": "$CLOV WSB about to punish you along with the HF world. You got no friends left.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994089603424072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T21:36:56Z",
+        "content": "$CLOV this aint gonna squeeze\nThis company is dead... they just raised cash in an IPO 8 months ago. Are they seriously out of cash already? Doesnt make sense Bearish",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999373733997345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T21:31:28Z",
+        "content": "$CLOV this is think is going to low 5s... most people cant trade After hours... \nthis is thing is going to get destroyed in the morning.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999779999256134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T21:29:42Z",
+        "content": "$CLOV Dive you piece of shit. I'm so fucking angry at these assholes.",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.9056,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993934631347656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T21:27:52Z",
+        "content": "$CLOV... fuckers. So fucking pissed. \nsub $7... here is goes.",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.8648,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996778964996338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T21:26:27Z",
+        "content": "$CLOV I'm out... these mofos could have released so much critical info since the earnings call\nwtf is wrong with them. ALl out at 7.12\n\nI'll buy in at $4",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.8583,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991794228553772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T19:49:27Z",
+        "content": "$NSTB The Merger is expected to be consummated in the fourth quarter of 2021, after the required approval by the stockholders of the Company and the fulfillment of certain other conditions set forth in the Merger Agreement.\nfrom the 10K Bullish",
+        "sentiment": {
+            "TextBlob": -0.002678571428571433,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911264777183533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T19:24:22Z",
+        "content": "$RBAC here we go.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897199273109436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T18:10:19Z",
+        "content": "$CLOV in late-Q2 the price squeeze build the same momentum for 2 weeks before Blast off to $28+",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991014301776886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T18:06:27Z",
+        "content": "$CLOV headed to $8 and then this explodes to $12 by end of year.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986788630485535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T18:05:36Z",
+        "content": "$CLOV volume is great. Already 17.6M shares. Average is 19.7M Bullish",
+        "sentiment": {
+            "TextBlob": 0.325,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9473877549171448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T15:12:43Z",
+        "content": "$CLOV does anyone have the latest short interest ?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990886449813843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T15:05:23Z",
+        "content": "$CLOV any here comes the starts if a mega boom",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995923638343811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T13:36:26Z",
+        "content": "$CLOV what\u2019s the expected timing in FL. FL would be huge with the large number of seniors. Bullish",
+        "sentiment": {
+            "TextBlob": 0.17142857142857146,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995520830154419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-15T13:34:16Z",
+        "content": "$CLOV has asymmetric return at these price levels. There is maybe $1 of more pain at the worst, but $20 of upside. I\u2019m very bullish. I think they already know they are going to crush the \u201clIves under management\u201d stat foe next year. They sand bagged with the 200,000 estimate knowing they are gonna come in my higher. Bullish",
+        "sentiment": {
+            "TextBlob": -0.009999999999999998,
+            "NLTK": -0.8624,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989582300186157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-11T19:06:40Z",
+        "content": "$HOOD $SHIB.X is coming whether the mgmt likes it or not. It\u2019s the only way to grow the user base which is the main metric to follow",
+        "sentiment": {
+            "TextBlob": -0.21111111111111114,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996925592422485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-11T19:04:46Z",
+        "content": "$CLOV bought another 1000 shares",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9563416242599487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-11T18:57:05Z",
+        "content": "$NSTB $SOFI just reported a great quarter and that means Apex is gonna kill it in terms of growth. \nMerger is coming. Apex just referenced $NSTB in their latest PR Bullish",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966940879821777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-08T21:07:16Z",
+        "content": "$CLOV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9621235728263855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-08T20:58:03Z",
+        "content": "$CLOV bullish report on its way Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990609288215637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-08T20:51:07Z",
+        "content": "$SRAD here come the whales",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946841597557068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-08T20:34:14Z",
+        "content": "$CLOV here we go. \nToy looked quite relaxed Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5413,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9517335295677185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-05T19:20:06Z",
+        "content": "$CLOV there we go. Someone has a bit of intel at the close here",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974614381790161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-04T14:06:57Z",
+        "content": "$HOOD boom. $38",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9176710247993469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T16:02:53Z",
+        "content": "$HOOD $40 calls are going to print this week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9749957323074341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T16:01:47Z",
+        "content": "$SRAD is profiting, while $GENI is still in the red. No brainer to own Sportradar.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9682604670524597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T15:37:57Z",
+        "content": "$SRAD someone is slowly acquiring shares. I bet is $ARKK to go alongside their position in $GENI",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930024743080139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T15:25:26Z",
+        "content": "$SRAD $28 soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995993971824646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T15:08:32Z",
+        "content": "$HOOD still cheap at $37. Cathie Woods been loading this up the last few days. She did this when it dipped after IPO as well and it shot up to $58 shortly after",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988871216773987
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T15:06:19Z",
+        "content": "$HOOD delayed reaction to the Wallet news today. Let\u2019s see this back at $45 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987803101539612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T13:05:36Z",
+        "content": "$COIN watch out. I\u2019m not a fan if $HOOD, but it has more functionality and use than $COIN.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.1232,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957507848739624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-03T05:45:33Z",
+        "content": "$HOOD $40 calls has huge interest. Expect this to fly",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9276840686798096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-02T21:51:16Z",
+        "content": "$BKKT it\u2019s about to get crushed with earnings.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994028806686401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-02T20:26:01Z",
+        "content": "$HOOD the only platform that lets you trade stonks and crypto and hold them securely.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9843959808349609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-02T20:11:13Z",
+        "content": "$HOOD shorts are about to get fried. We\u2019ve been waiting for this",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9793834090232849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-02T20:10:00Z",
+        "content": "$HOOD here we go. You need a wallet before you can roll in $SHIB.X   \n$50 bucks in no time. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993226528167725
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-02T20:09:16Z",
+        "content": "$HOOD crypto wallet roll out started. Damn. $COIN watch out.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7567972540855408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-02T16:38:47Z",
+        "content": "$NSTB here we go.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897854924201965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-01T19:57:38Z",
+        "content": "$CLOV call volume blowing up.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997473359107971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-01T19:47:30Z",
+        "content": "$CLOV making a move going into earnings next week. $12 by the end of the week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7432825565338135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-11-01T19:46:38Z",
+        "content": "$NSTB warrants are starting to move. SPAC warrants always make a move before some news comes out. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983286261558533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-29T15:51:12Z",
+        "content": "$RBAC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986754059791565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-29T14:57:32Z",
+        "content": "$RBAC have you seen where $SEAT is trading. This one has way more potential.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9948623776435852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-29T14:55:36Z",
+        "content": "$NSTB this will be a huge mover. Warrants are cheap on these. \nAny news in merger date and the warrants move to $2+",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995368719100952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-29T14:53:40Z",
+        "content": "$SRAD this one about to explode. It\u2019s a low volume stock so this can move quite quick. \n\nAll analyst PT above $28. \n\nThis is one to load up on and hold.",
+        "sentiment": {
+            "TextBlob": 0.1111111111111111,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967296123504639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-29T13:01:58Z",
+        "content": "@Scottydoesntreallyknow ARK will start a position in $SRAD soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984555244445801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-27T13:53:44Z",
+        "content": "$HOOD time to load the boat. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994545578956604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-27T13:45:02Z",
+        "content": "$HOOD digital wallet. Just wait til you can deposit your salary into HOOD. $COIN is the one that\u2019s fucked. Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995094537734985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-26T16:06:13Z",
+        "content": "$NSTB @Gurg just tweeted about this one. This is gonna be a flyer Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981464147567749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-26T16:05:28Z",
+        "content": "$RBAC massive COViD rebound opportunity",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801536798477173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-26T16:04:23Z",
+        "content": "$RBAC runner after hours",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9655652642250061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-26T14:14:18Z",
+        "content": "$NSTB warrants ultra cheap relative to all the other big SPAC moves today. \n\nApex clearing for crypto has been huge this year\n\nThis wasn\u2019t even built into the SPAC valuation.",
+        "sentiment": {
+            "TextBlob": 0.135,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993841648101807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-26T14:07:00Z",
+        "content": "$SOFI uses the clearing house Apx Clearing. It\u2019s going public through a SPAC $NSTB \nThis is gonna be the big multi day mover. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985382556915283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-22T21:34:28Z",
+        "content": "$DWAC trump was momentarily a real billionaire Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9544011950492859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-22T17:46:34Z",
+        "content": "$BENEU Orlando will be taking more Trump companies public through $BENE ans $ZGYH",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919254183769226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-22T17:34:09Z",
+        "content": "$BENEU next play is $ZGYH \nAnother $DWAC play. Same promoter. Volume is heavy.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995039701461792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-21T19:58:40Z",
+        "content": "$BKKT I\u2019m at buyer at 6.50 now. Enough pain holding this before",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983963370323181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-20T16:25:12Z",
+        "content": "$PINS covered call with $70 strike should cover your downside",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966751337051392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-20T03:43:02Z",
+        "content": "$SRAD fuck the NFL. Cricket has a massive following in comparison. \n\nNasdaq-listed sports data and sports ent\u200bertainment products provider Sportradar has been appointed by the International Cricket Council (ICC) as its data distribution and live streaming partner. Sportradar , a Switzerland-based multinational company, collects and analyzes sports data.",
+        "sentiment": {
+            "TextBlob": -0.052727272727272734,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991804838180542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-20T03:23:05Z",
+        "content": "$SRAD hidden gem\nNBA just started today. Boom",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9921180605888367
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-20T00:34:57Z",
+        "content": "$HOOD when is the digital wallet being released. Rumor was mid-Oct. is that the reason we saw a run up today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976918697357178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-19T20:23:02Z",
+        "content": "$HOOD 45 by the end of the week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9831207990646362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-19T17:40:59Z",
+        "content": "$SRAD it\u2019s really a no brainer to own $GENI and $SRAD",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9573432207107544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-19T00:32:37Z",
+        "content": "$BKKT stupid fking company",
+        "sentiment": {
+            "TextBlob": -0.7999999999999999,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996680021286011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-18T13:14:48Z",
+        "content": "$BTC.X sell the news morons. Back to 35k",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99814772605896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-15T00:04:12Z",
+        "content": "$CLOV loaded \nThis is a no brainer. Limited downside, unlimited upside. Can\u2019t beat this one",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930028319358826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-14T16:29:54Z",
+        "content": "$SRAD the tutes are coming. Cathie Woods has a big investment jn $GENI   \nShe hasn\u2019t even touched this one yet.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940547347068787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-14T16:27:46Z",
+        "content": "$CLOV this is gonna run. After hours",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999019980430603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-14T14:28:36Z",
+        "content": "$CLOV 2.5M share buy moved this up to 8.60\n\nSomebody knows somethings Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953645467758179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-14T14:01:11Z",
+        "content": "$CLOV boom",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9600397944450378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-11T15:39:29Z",
+        "content": "$RBAC dec 17 $10 calls cheap. \n10c\n\nScoop them up.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989548921585083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-11T14:42:02Z",
+        "content": "$HOOD crypto wallet this month. Huge step",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9772624969482422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-11T14:38:06Z",
+        "content": "$CLOV this will jump to the mid-20s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8112990260124207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-11T14:37:40Z",
+        "content": "$CLOV here it goes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847813844680786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-08T18:06:42Z",
+        "content": "$CLOV do we hit $8 today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985253214836121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-08T16:33:11Z",
+        "content": "$CLOV here we go Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958542585372925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-08T01:07:07Z",
+        "content": "$BKKT when is the pipe unlocked for this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999277651309967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-10-02T01:54:20Z",
+        "content": "@Riverboatking unfortunately it will. That\u2019s when I\u2019ll be buying next. You see $SPIR today. It got crushed",
+        "sentiment": {
+            "TextBlob": -0.19999999999999998,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995961785316467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-28T04:46:13Z",
+        "content": "$BKKT i am starting to lose faith",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994258880615234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-17T16:20:02Z",
+        "content": "$BOXL sold today. Will buy next will at 2.25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5042887330055237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-15T21:39:13Z",
+        "content": "$BKKT points to cash is here. This is gonna rocket",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9049580097198486
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-07T12:23:34Z",
+        "content": "$BKKT warrants at 2.45\nThat\u2019s a great entry price. Could easily double if we hit $15",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6101271510124207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-06T15:02:13Z",
+        "content": "$BKKT we need to see this run pre market. Margins calls on open will fuel this instantly.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6648352742195129
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-05T20:52:29Z",
+        "content": "$BKKT a good summary of what Bakkt is \n\nThe Bakkt App is essentially an aggregator of digital assets, even beyond cryptocurrencies. Using the Bakkt App, you can collect your digital gift cards, frequent flyer miles, hotel points and other rewards program assets in a single place and then convert them into cash for use at participating merchants. For example, if you want to use some airline miles to buy a cup of coffee at Starbucks, you can convert those assets to cash right on the app. If you want to make a purchase at Best Buy using your Bitcoin, the same exact process applies. Bullish",
+        "sentiment": {
+            "TextBlob": 0.19448051948051948,
+            "NLTK": 0.9501,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964160919189453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-05T15:56:34Z",
+        "content": "$BKKT perfect storm brewing here. The love due to the high short interest and now the S4 published on Friday after hours  $AMC $GME $ICE $GREE $BB $NOK Bullish",
+        "sentiment": {
+            "TextBlob": 0.307,
+            "NLTK": 0.8979,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6482136845588684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-04T01:20:08Z",
+        "content": "$BKKT what sick timing with the merger approval. Fantastic. This is gonna explode in Tuesday AM",
+        "sentiment": {
+            "TextBlob": -0.15714285714285714,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8981385827064514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T21:58:13Z",
+        "content": "$BKKT did something come out?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964627623558044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T20:00:43Z",
+        "content": "$BKKT with this volume. Those doing DD over the long weekend are gonna shoot this higher next week",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8384736180305481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T19:13:51Z",
+        "content": "$BKKT this is gonna go nuts after hours",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928845763206482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T16:21:02Z",
+        "content": "$BKKT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980669617652893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T13:56:50Z",
+        "content": "$BKKT price will catch up soon enough",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9917622804641724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T13:52:38Z",
+        "content": "$BKKT almost at 5M shares today. insane.\nthis will catch some eyes and headlines over the day and weekend. \nTuesday...  to the mooooon Bullish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.1935,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9856797456741333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T13:38:46Z",
+        "content": "$BKKT damn... 3M shares... exploding here still lots of room to get in Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986918568611145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T13:31:26Z",
+        "content": "$BKKT crossed 1M shares already... well above avg daily volume.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9731543660163879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T13:28:07Z",
+        "content": "$BKKT A digital asset for us is obviously crypto, but it is also loyalty points, rewards points, gift cards, and even cash,\u201d - Bakkt CEO\n\ntime to cash out that $ANY and $GREE... move over. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.9382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935871362686157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T13:15:20Z",
+        "content": "$BKKT this company is working in some cool shit Bullish",
+        "sentiment": {
+            "TextBlob": 0.07499999999999998,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997424840927124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T12:55:46Z",
+        "content": "$BKKT massive retail adoption with partnerships like this.\nwait til they close the relationships with the airlines. They have stated advanced talks with 3 of the 5 major US airlines\n\nThe shorts are gonna get fried\n\n$GREE $AMC $GME $BB $NOK",
+        "sentiment": {
+            "TextBlob": 0.15416666666666667,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993413507938385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T12:50:17Z",
+        "content": "$BKKT $BKKT besides the only physically settled Bitcoin contract, the consumer app has great ratings 4.3+ stars. \nGoogle play shows 500k+ downloads \n\nMove over $PYPL and $SQ",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9711949229240417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T12:46:10Z",
+        "content": "$BKKT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742321968078613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T05:19:11Z",
+        "content": "$BKKT Cathie Woods will def add this to her portfolio after the merger. She is all about digital wallets as part of her big investment themes. She is bang on. \n\nmarkets.businessinsider.com... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9947916865348816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-03T05:11:29Z",
+        "content": "$BKKT you got it. This is long term hold",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9610752463340759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T23:37:26Z",
+        "content": "$BKKT added 400+ viewers on stocktwits today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9708462953567505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T21:18:05Z",
+        "content": "$BKKT trending on stocktwits right now. This is the just the start of a major run with this one having a 45% shirt position. Greta company but the delayed merger got folks beared up for no reason.  $GREE $ANY $AMC $GME Bullish",
+        "sentiment": {
+            "TextBlob": 0.17410714285714285,
+            "NLTK": -0.631,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992196559906006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T21:04:15Z",
+        "content": "$BKKT when this merge/... $ICE will make sure they get the main stage to ring the bell and all. Marketing machine will get some great CNBC and Bloomberg coverage.",
+        "sentiment": {
+            "TextBlob": 0.48888888888888893,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983528852462769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T21:01:59Z",
+        "content": "$BKKT send Bakkt a message on Twitter. Let\u2019s turn up the heat on those morons in the marketing dept. \n@bakkt on Twitter.",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956921935081482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T20:16:56Z",
+        "content": "$BKKT 80% of shares will be owned by $SBUX $ICE (owners of NYSE) and $MSFT after the merger is complete. Those guys will be the real diamond hands Bullish",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8788025379180908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T19:39:58Z",
+        "content": "$BKKT we are trending on stocktwits. $GREE $BBKCF $ANY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979263544082642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T17:55:43Z",
+        "content": "$BKKT only SPAC backed by $MSFT $SBUX $ICE \nThese three companies will own 78% of shares after merger",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885241389274597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T17:50:47Z",
+        "content": "$BKKT 1.8m shares traded today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8701676726341248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-09-02T17:48:34Z",
+        "content": "$BKKT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742321968078613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-30T22:05:30Z",
+        "content": "$BKKT baktt the next $SQ and $PYPL \nDigital wallets will take out traditional banks\n\nMerger date to be announced soon. High short interest $AMC $GREE $GME $NURO Need to take notice. Bullish",
+        "sentiment": {
+            "TextBlob": 0.032,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982271790504456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-30T22:01:30Z",
+        "content": "$BKKT when Bakkt executes this will be the next $SQ $PYPL \nHigh short interest and merger date to be announced soon. Time to rocket $GREE $NURO $AMC $GME",
+        "sentiment": {
+            "TextBlob": 0.05333333333333334,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985947012901306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-27T19:18:41Z",
+        "content": "@stokbum boom. Here go the warrants. $BKKT $GREE $WISH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928320646286011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-27T17:17:38Z",
+        "content": "$BKKT with the massive short interest and merger pending. This one is next to $WISH $NURO $GREE Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987448453903198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-27T13:46:10Z",
+        "content": "$BKKT can anyone see how many downloads of the iOS Bakkt app? \n\nI did check google play store and it\u2019s 500k+\n\nI downloaded the app even though I am in Canada and it\u2019s slick. The functionality is a bit limited, but it\u2019s coming together.",
+        "sentiment": {
+            "TextBlob": 0.05952380952380953,
+            "NLTK": 0.0644,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9566227793693542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-26T14:23:39Z",
+        "content": "$BKKT warrants up 33% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986690282821655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-26T14:07:26Z",
+        "content": "$BKKT warrants jumping this morning. Somebody knows something",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753098487854004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-25T00:08:42Z",
+        "content": "$CLOV after seeing $GME sbd $AMC \nThis thing is gonna rip this week. Gonna load the boat tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980754852294922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-23T15:21:16Z",
+        "content": "$BKKT simple .. $ICE will boost this up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9585853219032288
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-19T14:59:59Z",
+        "content": "$BKKT does the new SEC S-4 mean we are days away from the merger being completed",
+        "sentiment": {
+            "TextBlob": -0.09204545454545454,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983164072036743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-13T12:55:48Z",
+        "content": "$BOXL Boxlight Corporation (BOXL) PT Raised to $7 at Maxim Group\n\nAugust 13, 2021 7:59 AM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9727146029472351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-13T00:13:01Z",
+        "content": "$BKKT once Bakkt get listed on the NYSE it\u2019s going to get so much exposure on listing day. NYSE is owned by ICE. They\u2019ll give them opportunity to get so much good PR that day.",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.7165,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9933783411979675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-11T15:23:47Z",
+        "content": "$BKKT we need some airlines to sign on. They said they were in talks with three major airlines or airline alliances. But I haven\u2019t heard anything else since the initial pitch deck",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967687129974365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-09T18:05:40Z",
+        "content": "$BKKT large movement in the warrants just now. 145k traded and up 8c. \nSomeone has been quietly picking the warrants. A great free option IMO",
+        "sentiment": {
+            "TextBlob": 0.35357142857142854,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9078949689865112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-08-02T02:25:48Z",
+        "content": "$BKKT $bkkt \n\nSquare to Buy Afterpay for $29 Billion to Tap Younger Users  bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955657124519348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-31T04:33:15Z",
+        "content": "$BKKT I\u2019m only gonna share this with the folks that track this board. The ipo is coming. Check this job posting out from this past week. \n\nrecruiting.paylocity.com/Re...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907022714614868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-29T18:45:38Z",
+        "content": "$BKKT massive volume today. Something is brewing. Some large blocks traded hands this morning. Bullish",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8784094452857971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-28T11:54:50Z",
+        "content": "$BKKT I believe today is shareholder vote day",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6074675917625427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-27T23:42:28Z",
+        "content": "@SFromCbe I can\u2019t figure why they are dropping like a rock. It\u2019s a great time to load up. Great optionality to hold these. $ICE earnings call on July 29th. They will have to mention something about it.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.8934,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9977093935012817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-26T04:30:20Z",
+        "content": "$BKKT could Bakkt be the $BTC tie to Amazon. Similar to the $SBUX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985343217849731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-20T20:48:37Z",
+        "content": "$BKKT $ICE earnings call on July 29th. Should get more info that day",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851910471916199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-19T22:25:05Z",
+        "content": "@KeepLossesSmall I agree this thing is about to explode on any mergernews. $ICE founder\u2019s wife\u2019s pet project here. ... he won\u2019t let this fail. Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.3869,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.590292751789093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-19T21:53:54Z",
+        "content": "$BKKT total of 1.7 million shares or 8.5%\n\nBig deal folks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.973556399345398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-17T03:59:54Z",
+        "content": "$BKKT youtube.com/watch?app=deskt...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931288957595825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-16T16:44:29Z",
+        "content": "$BKKT https://www.businesswire.com/news/home/20210715005338/en/Bakkt-Strengthens-Leadership-Team-Appointing-Dan-O\u2019Prey-as-Executive-Vice-President-of-Digital-Assets",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9948903322219849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-16T16:43:09Z",
+        "content": "$BKKT they were able to hire Dan Oprey. So they must have some big future plans.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994796097278595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-14T02:54:54Z",
+        "content": "$BKKT traders need to understand that every partner they bring on opens up a whole new user base. This thing is gonna explode. Wait until they sign up all the major US airlines. This will be the only digital wallet that will allow you to store and monetize those assets.",
+        "sentiment": {
+            "TextBlob": -0.06685606060606061,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990323781967163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-10T19:00:26Z",
+        "content": "$BKKT $COIN $SQ $PYPL $ANY \nHeavily shorted stock with so much to gain. Traditional banks will be the loser when this app combines all the digital assets to one stored location.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2415,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999519944190979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-10T18:52:30Z",
+        "content": "$BKKT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742321968078613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-10T18:48:36Z",
+        "content": "$BKKT just loaded up in Nov $20 calls. 5c. Well worth the risk.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9388949871063232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-10T06:13:45Z",
+        "content": "$BKKT all the folks in $COIN $PYPL $SQ need to have a look at Bakkt. The SPAC merger looks to be complete this month. \n\nThe relationship with $SBUX and airline rewards and Wyndham  will get so many eyes on this company. \n\nI am very bullish on this stock post merger.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764316082000732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-10T06:10:15Z",
+        "content": "$BKKT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742321968078613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-07-09T19:56:03Z",
+        "content": "@coffeeworks closing expected to be at the end of the month\n\nMajor shareholder is $ICE, the owners of the NYSE. They will own roughly 70% after the merger. So there will be no real float of outstanding shares. This will surely fly.",
+        "sentiment": {
+            "TextBlob": 0.23750000000000002,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832450151443481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-25T21:11:18Z",
+        "content": "$BKKT this will explode. It\u2019s gonna be a very low float as $ICE $MSFT $SBUX wilk not be selling a single share. Public float will be less than 20% Bullish",
+        "sentiment": {
+            "TextBlob": -0.05952380952380952,
+            "NLTK": -0.0498,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997290968894958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-22T17:08:43Z",
+        "content": "$BKKT see this. Huge deal. \n\nhttps://www.businesswire.com/news/home/20210622005837/en/Bakkt-Launches-Bakkt\u00ae-Visa\u00ae-Debit-Card-to-Maximize-Users-Ability-to-Spend-Digital-Assets",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3869,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.970270574092865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-16T15:58:57Z",
+        "content": "$BKKT the Wyndham news is a huge deal. 50,000 hotel network with 87M members. \n\nQuickest way to getting new members for Bakkt.",
+        "sentiment": {
+            "TextBlob": 0.2681818181818182,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8301965594291687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-15T21:13:42Z",
+        "content": "$BOXL last two tweets from Samsung Education. Sounds like Boxlight tech",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993438184261322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-15T21:06:40Z",
+        "content": "$BOXL getting more close with Samsung",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.919959545135498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-14T15:59:13Z",
+        "content": "$BKKT anything from the f\u2019ers at Bakkt today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979079961776733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-09T23:02:06Z",
+        "content": "$BKKT $ICE will own 65% after the merger. This has a low float... this is gonna fly",
+        "sentiment": {
+            "TextBlob": 0.4666666666666666,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945360422134399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-09T22:59:50Z",
+        "content": "$BKKT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742321968078613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-09T15:35:14Z",
+        "content": "$BKKT add Bakkt to this list after the merger \n\ninvestorplace.com/2021/04/f...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997519314289093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-09T15:25:21Z",
+        "content": "@OprahWinspree it does but 70% of shares will be won by $ICE who will not sell. Low float that will push this higher. Every ICE earnings call will give a shout out to Bakkt.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.8771,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9773334264755249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-09T12:20:37Z",
+        "content": "@NoMoreShitposting she has been very vocal about digital wallets killing the traditional banking model. She\u2019s quite bullish and I can see her adding Bakkt to her portfolio especially with Bakkt being associated with $ICE",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887996315956116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-08T21:44:03Z",
+        "content": "$BKKT need this to touch its $22 high.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9636003971099854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-07T22:41:33Z",
+        "content": "$BKKT I bought more  last week. I like the story and $ICE backing. But I hate the current management. Fire Gavin, promote Adam",
+        "sentiment": {
+            "TextBlob": -0.07500000000000001,
+            "NLTK": -0.5884,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9761348366737366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-05T16:23:58Z",
+        "content": "$BKKT just sent Bakkt a tweet asking if they will be integrating with Microsoft for in game points. \nThese fu*let\u2019s need to give us more info.",
+        "sentiment": {
+            "TextBlob": 0.04999999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994001388549805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-05T16:18:48Z",
+        "content": "$BKKT I\u2019ve been harassing Bakkt on Twitter with questions about the platform and merger \n\u201cHow many Starbucks coffees have been bought through the Bakkt app @Bakkt?\u201d",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989790916442871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-06-04T12:31:03Z",
+        "content": "$BOXL ultimately Samsung will buy them out. Why wouldn\u2019t they at such a cheap valuation. They could own the Edtech market",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970307350158691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-26T17:32:33Z",
+        "content": "$LCID when is the merge expected?",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985859394073486
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-26T17:29:25Z",
+        "content": "$LCID the dreams of apple joining this party. Makes me laugh. It ain\u2019t happening",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.8564,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9717803597450256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-26T17:22:12Z",
+        "content": "$LCID I\u2019m buying when This gets back to 10 bucks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994459867477417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-26T17:11:49Z",
+        "content": "$LCID well that was stupid",
+        "sentiment": {
+            "TextBlob": -0.7999999999999999,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997336268424988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-26T16:06:20Z",
+        "content": "$BKKT blockchain engineer posting. To house the NFTs... my guess.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983094930648804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-26T16:04:10Z",
+        "content": "$BKKT staffing up quick\n\nrecruiting.paylocity.com/re...",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958975315093994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-21T17:15:32Z",
+        "content": "$BKKT just sent around the investor day presentation this morning via email. That confirms this deal is still going through and talks haven\u2019t broken down between Bakkt and VIH\n\nI also notice that Bakkt had Adam White as an executive. He\u2019 comes from Coinbase and so I am sure he\u2019ll bring his expertise along with access to other crypto\u2019s.",
+        "sentiment": {
+            "TextBlob": -0.036111111111111115,
+            "NLTK": -0.1335,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9866608381271362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-21T00:35:05Z",
+        "content": "$NSTB warrants are a bargain at this price. Good long term option. Like a leap with not much downside left.",
+        "sentiment": {
+            "TextBlob": 0.13749999999999998,
+            "NLTK": 0.787,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8135179877281189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-05-20T17:35:02Z",
+        "content": "$BKKT is there a recording of the investor day presentation anywhere?\n\nDid they mention the merger date? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995662569999695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-28T12:32:32Z",
+        "content": "$BOXL what news is out?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993312656879425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-23T14:38:57Z",
+        "content": "$BKKT the price action Is starting to piss me off. But when I see all the pieces that they\u2019re putting together I said this has been a very good long term hold. With lots of upside once the merger is complete",
+        "sentiment": {
+            "TextBlob": 0.21200000000000002,
+            "NLTK": 0.533,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8899705410003662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-23T02:53:52Z",
+        "content": "$BTC.X this bitch is dropping back to low 30s.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992623925209045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-20T18:59:54Z",
+        "content": "$BKKT digital wallets is the game here. The traditional bank is the real competitor here. That\u2019s where the market share will come from. The likes of venom/PayPal are just helping define this space. \n\nI won\u2019t need a TD bank/Ameritrade account with the likes of Bakkt. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.8402,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980042576789856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-19T18:08:45Z",
+        "content": "$BKKT got to wait this out til the merger at the least.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993632435798645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-14T17:33:29Z",
+        "content": "$BKKT and $COIN will hit every digital wallet and crypto etf. Bakkt has a small float and so this will fly",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5841740965843201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-14T13:25:12Z",
+        "content": "$BKKT $MSFT as an investor means you will eventually be Able to use on Xbox to Monetize in game credits Bullish",
+        "sentiment": {
+            "TextBlob": 0.04999999999999999,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964039325714111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-14T13:17:32Z",
+        "content": "$BKKT Bakkt is currently 81% owned by ICE but also maintains stakeholders including Boston Consulting Group, Microsoft\u2019s M12, Starbucks, and PayU. ICE and minority investors have contributed more than $880 million of capital and assets to date, leveraging ICE\u2019s leading competency of creating and operating market infrastructure. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5927,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9890598058700562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-14T12:59:45Z",
+        "content": "$BKKT crossed $16 early morning. \nI think we retest the $22 market by end of week.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993808925151825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-14T02:54:16Z",
+        "content": "$BKKT Bakkt needs some more press to highlight all the partnerships and small wins. \n\nAnyone try converting points to cash on the app? Is there a bid for points? I assume some do the companies want to buy them back themselves to get the liability of those points off their balance sheet. Big issue for hotels and airlines.",
+        "sentiment": {
+            "TextBlob": 0.11000000000000001,
+            "NLTK": 0.737,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996100068092346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-14T01:09:04Z",
+        "content": "$BKKT hopefully Bakkt has some PR lined up for tomorrow. They really suck at promoting themselves. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3117,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988552331924438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-13T23:04:16Z",
+        "content": "$BKKT this one is gonna move off of $COIN and then $HOOD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963064193725586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-12T22:56:17Z",
+        "content": "$BKKT extremely bullish with 3.3M shares short $COIN IPO on Wednesday and merger completion. \nI don\u2019t think this is worth $30, but I can see is getting there in no time.",
+        "sentiment": {
+            "TextBlob": 0.05833333333333333,
+            "NLTK": -0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976577758789062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-12T13:57:32Z",
+        "content": "$BKKT Bakkt rushed to do the SPAC because Coinbase indicated they were going to IPO in December. Bakkt is going to fly this week. \n\nIn my opinion this is a more scalable play that coinbase. You can trade crypto, rewards, and stocks later this year.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6983,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9513437747955322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-09T00:32:03Z",
+        "content": "$CLOV why is this up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923061728477478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-07T03:46:52Z",
+        "content": "$BKKT \n\nArk Invest's Cathie Wood said on Benzinga's \"Raz Report\" show Wednesday that the growth of digital wallets will \"gut\" traditional banks\n\nmarkets.businessinsider.com...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963437914848328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-07T01:18:35Z",
+        "content": "$PYPL watch out for $BKKT $BKKT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9701904058456421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-07T01:16:13Z",
+        "content": "$BKKT what people are getting Is that a company like BAKKT He\u2019s going to kill the traditional bank model. Digital Wallets are going to take over everything a bank does in a nap.\n\nThis can be massive. On the scale of PayPal",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989550113677979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-03T01:08:10Z",
+        "content": "$BKKT $BKKT\n$ICE $COIN \n\nBridge2 Solutions enables some of the world\u2019s leading brands to engage customers and drive loyalty. It powers programs for seven of the top ten financial institutions and 4,500 loyalty, incentive and employee perk programs for companies across a wide spectrum of industries. The company\u2019s Loyalty Pay solution expands the value of rewards programs and gives consumers a universal ability to pay with reward currencies both at the point of sale (POS) in retail stores and in-app through digital wallets. Integrating with Bakkt will allow top retail brands to offer more innovative loyalty programs and help consumers unlock and access value in those programs",
+        "sentiment": {
+            "TextBlob": 0.2111111111111111,
+            "NLTK": 0.9917,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992076754570007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-03T00:43:22Z",
+        "content": "@primal09 agree.  I\u2019m trading $BKKT Bakkt off of the hype. Digital wallet backed by $ICE the parent company of NYSE Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957091808319092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-02T19:59:03Z",
+        "content": "$BKKT no one talks about the value to partners that get to reduce their liabilities. Having these reward points out there is an issue  for companies like airlines. There is no way to get rid of them if people hold the in accounts forever.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960952401161194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-02T02:52:42Z",
+        "content": "@_sw1tch $BKKT moved on the coinbase IPO launch date",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910203814506531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-01T23:01:54Z",
+        "content": "$COIN funny how coinbase is going to trade in fiat (dollars)and they didn\u2019t do and coin offering on there own company. Bitcoin is a scam. They don\u2019t believe themselves",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990166425704956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-01T18:40:23Z",
+        "content": "$BKKT we need to build up the viewers in this channel \n\nTime to pull those crypto viewers over.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999219536781311
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-01T16:17:33Z",
+        "content": "@Jimmy324 $BKKT I'm going to be patient. We're working off the premium that you paid for the warrants. Should be flat around $18.\n\nWarrants should be worth $6.50 at that time. % wise the warrants will do better. Beyond that the stock and warrants typically move dollar for dollar until about $25. Past that its better to own the stock as the company can call the warrant and you start to lose the optionality. \n\n$COIN $FTCV Bullish",
+        "sentiment": {
+            "TextBlob": 0.26979166666666665,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996320009231567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-01T14:54:42Z",
+        "content": "$BKKT ive been loading up on the warrants. Yes you pay a small premium right now, but you downside is limited. The upside is not capped because you have the option to convert.\n\nGreat way to play all SPACs IMO Bullish",
+        "sentiment": {
+            "TextBlob": 0.1910714285714286,
+            "NLTK": 0.7615,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9782494902610779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-01T14:52:42Z",
+        "content": "$BKKT Bakkt finally getting the attention it needed. The officially launch of the app, along with the $1M give away, will boost downloads. The only real metric people are tracking right now for digital wallets. \n\n$COIN $FTCV Bullish",
+        "sentiment": {
+            "TextBlob": 0.09714285714285714,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9924860000610352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-04-01T13:41:07Z",
+        "content": "$BKKT will be renamed \"Bakkt Holdings, Inc.\" Bakkt Holdings, Inc. is anticipated to become a NYSE-listed public company trading under the ticker symbol $BKKT\n\nHere we go Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996044397354126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-31T17:10:17Z",
+        "content": "$BKKT any news in the merger date? \n\nI can see Ark taking a big position.  Cathie Woods are Bullish digital wallet\n\nark-invest.com/newsletters/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9794127941131592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-30T15:49:48Z",
+        "content": "$BKKT Stock trading in 2021 sometime.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9675639271736145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-30T14:28:51Z",
+        "content": "$BKKT choice hotel brands. A great partner that will tap into every day Americans. Wait till people start travelling and see they can pay for Choice Hotels with other loyalty programs or bitcoin.",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974305033683777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-30T14:25:31Z",
+        "content": "$BKKT got an email from VIH as well. 500,000 beta testers. Wait til you see the Bakkt logo at every Starbucks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952563643455505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-30T13:57:38Z",
+        "content": "@Riverboatking also partnerships with $SBUX,  airline loyalty programs and hotel reward points will bring folks to the platform.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992119073867798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-29T12:58:10Z",
+        "content": "@GreedLantern $BKKT\nI\u2019m also suggesting that their isn\u2019t much of a stock float out there. Once the ticker converts to a Bakkt and every ETF that track digital wallets wants to buy a piece... this think is bound to get prices higher. \n\n$ICE will not sell a share. Bakkt was started by Sprechers wife and they surely will make this successful.",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.7588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9584278464317322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-28T15:55:50Z",
+        "content": "$BKKT barely a float out there. It\u2019s all owned by $ICE. \n\ncurrent Bakkt equity holders, including ICE, will own approximately 78%, VPC Impact Acquisition Holdings public shareholders will own approximately 8%, VPC will own 2%, and PIPE investors (a group that will also include ICE) will own approximately 12% of the issued and outstanding common stock of the combined company at closing.",
+        "sentiment": {
+            "TextBlob": 0.12083333333333333,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921329617500305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-28T15:33:14Z",
+        "content": "$BKKT this stock will fly. Most of the stock is owned by ICE. Only 8% was issued through the SPAC. But the warrants to get in cheap",
+        "sentiment": {
+            "TextBlob": 0.42500000000000004,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990575909614563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-26T04:49:46Z",
+        "content": "$BOXL \n\nEnded Year with $11.3M Backorders, $13.5M Cash, $21.0M Working Capital and $44.9M Stockholders\u2019 Equity\n\nExpect Q1 2021 Revenue of $28M\n\nThe current $150M makes absolutely no sense. This should be an $8-10 stock",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992088675498962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-24T03:03:13Z",
+        "content": "$BKKT this should make a run on the robinhood ipo. Bakkt app is suppose to allow securities trading in 2021.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991068243980408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-12T04:00:41Z",
+        "content": "@iknows $BKKT plan is to add other cryptos and securities to this platform. So this is going to be a robinhood and coinbase all in one. \n\nDon\u2019t forget about the game credits, reward points and loyalty programs. \n\nVery bullish. \n\n$ICE owns 65% of the float. Only 8% is out there to be traded.",
+        "sentiment": {
+            "TextBlob": -0.08125,
+            "NLTK": 0.875,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9864795804023743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-11T15:58:38Z",
+        "content": "$CALC @thelion just recommended. Should add some momentum to this one. Will break $8 today\n\ntwitter.com/TheLioncom/stat... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6280200481414795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-10T16:56:55Z",
+        "content": "$BKKT I should have picked up more last week. Also Bakkt need some PR out there.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994331002235413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-10T16:55:30Z",
+        "content": "@FutureValue you are so right. $ICE isn\u2019t going to sell any shares.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998779833316803
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-10T14:01:01Z",
+        "content": "$BKKT warrants look to be the best way to play this, especially since we are sub $18 (the SPAC conversion trigger)\n\nThe expectation is the merger is complete in Q2 with the newly listed ticker on the NYSE Bullish",
+        "sentiment": {
+            "TextBlob": 0.3090909090909091,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983140230178833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-10T13:58:02Z",
+        "content": "$BKKT the Coinbase IPO is going to drive momentum into this stock. should see this back to $20\n$COIN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9135271310806274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-10T13:55:56Z",
+        "content": "$UNG\nenelyst.com/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962285757064819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-10T13:55:18Z",
+        "content": "$OILNF $OIL $OILD \nThe Desk #crude #oil survey came in at +3.68M for today's crude report and API was wildly higher (again) at +12.8M. \n\nJoin enelyst at 10:00 EST for our big weekly crude oil status report LIVE chat featuring JBC Energy's Eugene Lindell.\n\nFree to join enelyst.com/\n#OOTT",
+        "sentiment": {
+            "TextBlob": -0.18766233766233764,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942518472671509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-04T15:58:18Z",
+        "content": "$BKKT Cathie Woods stressed the fact that digital wallets are going to kill the traditional bank. She spoke live on Benzinga yesterday Bullish",
+        "sentiment": {
+            "TextBlob": 0.04545454545454545,
+            "NLTK": -0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978875517845154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Heat12",
+        "timestamp": "2021-03-02T17:05:01Z",
+        "content": "$UNG Good weather $natgas update coming up on enelyst.com/\n\nBrian Lovern from Bespoke Weather should give us a clue on whether the bearish trend continues past the 15 day forecast.",
+        "sentiment": {
+            "TextBlob": 0.22499999999999998,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969889521598816
+            }
+        },
+        "image_url": ""
+    }
+]

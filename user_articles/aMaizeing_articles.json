@@ -1,0 +1,464 @@
+[
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-25T13:55:55Z",
+        "content": "$MVIS Same thing happened yesterday Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979588985443115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-22T02:04:12Z",
+        "content": "$BLPH lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885369539260864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-21T15:29:31Z",
+        "content": "$BLPH Lol, same shit as last week. \"Breakout\" apparently equals .03",
+        "sentiment": {
+            "TextBlob": 0.13000000000000003,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990397572517395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-11T17:45:13Z",
+        "content": "$PLUG Out. Gl!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873639941215515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-10T14:54:02Z",
+        "content": "$BLPH Boom, predicted Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919615387916565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-09T06:48:12Z",
+        "content": "$BLPH Why are people\u200b still in this. It is on a down trend and results are weeks away. It's lost volume and popularity. It's kinda dying imo",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997871518135071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-06T14:28:39Z",
+        "content": "$SCON Exit 1.8, gl!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994317889213562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-05T20:19:52Z",
+        "content": "$PLUG WTF is this volume",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.6739,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943496584892273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-04-04T04:45:28Z",
+        "content": "$CYCC I'd like to hear some unbiased opinion of this tomorrow. Enough of this \"Going to 20 eow\" or tanking at open Shiz. Hmu with real ideas",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7868597507476807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-29T15:58:05Z",
+        "content": "$SVRA Lmao people saying 1$, never gonna happen",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980364441871643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-24T09:25:29Z",
+        "content": "$HTGMQ Dunno when or if I should get in again, thoughts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989907145500183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-15T15:30:56Z",
+        "content": "$JAGX Come to $BLPH! No shorts today and almost no resistance to 1.7, 2$ by end of week!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5706,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902225732803345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-13T18:14:40Z",
+        "content": "$BLPH If both tests pass this could be the next AUPH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986810088157654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-10T21:35:48Z",
+        "content": "$BLPH Don't sell until at least 3/20, 3/31 even better. This has so much potential, love seeing more and more people joining the long train",
+        "sentiment": {
+            "TextBlob": 0.2357142857142857,
+            "NLTK": 0.8107,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999366819858551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-10T15:55:33Z",
+        "content": "$IMNN CHECK OUT $BLPH, READY TO BLOW!!!",
+        "sentiment": {
+            "TextBlob": 0.390625,
+            "NLTK": 0.5229,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.947520911693573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-10T15:53:53Z",
+        "content": "$SVRA Check out $BLPH before 1.7 and you'll be glad you did!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978285431861877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-10T14:21:03Z",
+        "content": "$BLPH I need me some results in my life",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9830442070960999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-09T18:24:09Z",
+        "content": "$JAGX Drop this and Grab BLPH. $BLPH IS READY! CUT YOUR LOSSES AND JOIN UP Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926705360412598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-09T18:01:47Z",
+        "content": "$IMNN is this running purely in hype?",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997190833091736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-09T17:28:17Z",
+        "content": "$IMNN what's pushing up here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936211705207825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-09T17:15:11Z",
+        "content": "$IMNN This a good entry?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9928956627845764
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-08T21:16:21Z",
+        "content": "$BLPH People, realize this is one day, look at the big picture. All stocks have down days, we all know this will hit 2 and 3 soon. Man up Bullish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983478784561157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-08T17:29:49Z",
+        "content": "$BLPH The instant it hits 2 all these sell orders are gonna place and it'll drop again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9778953194618225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-07T21:37:08Z",
+        "content": "$BLPH ????",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997331976890564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-07T19:11:32Z",
+        "content": "$BLPH Power hour will be interesting!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991299510002136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-07T18:50:06Z",
+        "content": "$BLPH Remember to put high sell limits so shorts can't borrow your stocks!!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892638325691223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-07T15:26:32Z",
+        "content": "$JAGX So glad I dumped this for BLPH last week",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.081,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985101819038391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-06T21:35:18Z",
+        "content": "$BLPH Almost breaking even after poor trades in the past. So hyped for results!",
+        "sentiment": {
+            "TextBlob": -0.35625,
+            "NLTK": -0.5255,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9843973517417908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-06T02:08:27Z",
+        "content": "$RNVA Might have to dump this for BLPH, still considering it Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997281432151794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-03T19:48:10Z",
+        "content": "$BLPH So we know it goes up with good news, but how fast will it go? If people expect $6-7, will it be all at once or will it take a days? Bullish",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.3204,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990113973617554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-03T19:21:00Z",
+        "content": "$BLPH Going all in Monday, hyped for results! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991858601570129
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-03T15:09:00Z",
+        "content": "$JAGX or $BLPH . Both are so inviting!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.595,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988086223602295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "aMaizeing",
+        "timestamp": "2017-03-02T21:07:14Z",
+        "content": "$BLPH Looks like results aren't coming Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965782761573792
+            }
+        },
+        "image_url": ""
+    }
+]

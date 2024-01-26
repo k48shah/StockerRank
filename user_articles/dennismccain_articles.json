@@ -1,0 +1,3208 @@
+[
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-15T23:59:25Z",
+        "content": "$DJIA    Don\u2019t fight the tape. \nThe market remains solidly in an up trend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989789724349976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-15T17:22:23Z",
+        "content": "$PLTR   Note on the trade below. I have $15.94 invested in this trade. With the shares currently at $16.67, a standstill profit on this trade will be $.73 (just over 4.5%) if the shares simply go sideways for the next 5 trading days (Monday is a holiday).  So although this trade may be considered an aggressive options trade, a failure of the underlying stock to reach $17 still results in a very profitable options trade. @S2b\n#ISellFearAndGreed",
+        "sentiment": {
+            "TextBlob": -0.023333333333333338,
+            "NLTK": 0.6901,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9735319018363953
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-15T16:47:22Z",
+        "content": "Selling $17 Puts in $PLTR expiring next Friday. It\u2019s an aggressive move but I think there\u2019s a good chance I may get away with it. PLTR is riding the A.I. wave and that might just push it higher next week. In addition, the NDX looks to continue higher and drag all of technology with it. On the other hand, if I roll the position for a credit or I\u2019m assigned the shares next week, I\u2019ll keep the 6+% I\u2019ve already pocketed from the premium and sell Calls for more premium the following week. \n#ISellFearAndGreed",
+        "sentiment": {
+            "TextBlob": 0.1475,
+            "NLTK": 0.9349,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986416697502136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-15T15:28:01Z",
+        "content": "$UDOW just moved above $60.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9091338515281677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-13T18:33:33Z",
+        "content": "$AMD \nAMD ANNOUNCES NEW MI300X GPU-ONLY AI ACCELERATOR\nAMD SAYS NEW CHIP MEANS GENERATIVE AI MODELS NEED FEWER GPUS\nAMD SAYS SAMPLING OF NEW ACCELERATOR TO COME IN 3Q\nAMD SAYS PRODUCTION OF NEW ACCELERATOR TO COME IN 4Q",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969149827957153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-13T16:36:18Z",
+        "content": "I\u2019m continuing to build up my position in $UDOW as the DJIA continues to melt up. Obviously I\u2019m a little concerned with the Fed meeting starting today, but if rates are held steady this month, the DJIA could head even higher. I guess we\u2019ll see tomorrow afternoon.",
+        "sentiment": {
+            "TextBlob": 0.057291666666666664,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9426604509353638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-13T15:15:44Z",
+        "content": "$GNUS   New name, new symbol. But what about profits???",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.6586,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973567724227905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-13T02:03:06Z",
+        "content": "@S2b    I looked at $MANU some time ago. I quickly realized several red flags for me. First, it\u2019s a British (non US) Premier League Football team. It also was in play. And it looked like the Saudis were going to throw in a bid. That was just too much glitter and attention for my liking. So I begged off. But I\u2019m glad you got a piece of the action. You\u2019re a lot better at drive-byes than I am. \ud83d\udc4d\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.20925925925925926,
+            "NLTK": 0.9032,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9646731615066528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-13T01:16:01Z",
+        "content": "$SOFI  has doubled in price in just the last month and has a forward P/E of 572. That\u2019s beyond nose bleed. It\u2019s all because earnings ar expected to explode higher as ex-students are expected to start paying their student loans back. Or at least refinance them. And SoFi will then have customers they can up sell for the next 25 years as they pay off those loans.",
+        "sentiment": {
+            "TextBlob": -0.03571428571428571,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860710501670837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-13T00:46:30Z",
+        "content": "I was selling the $15.50 Puts in $PLTR this morning. The ones that expire this Friday. The stock itself is kind of over extended but I don\u2019t think so much that it\u2019ll pull back enough to get assigned. But if it does, the Call premium is also pretty fat. There\u2019s nothing really exciting about this trade. It\u2019s just the routine business of harvesting premium. \u2b50\ufe0f   As long as you throttle your greed, there\u2019s literally hundreds of opportunities just like PLTR every week.",
+        "sentiment": {
+            "TextBlob": 0.18571428571428572,
+            "NLTK": 0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980461597442627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-12T15:42:44Z",
+        "content": "$UDOW   Continuing to add shares as the DJIA moves higher. Charts are indicating even more upside is coming. Next area of concern is the range $60 to $62.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9498133659362793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-12T13:52:27Z",
+        "content": "$F   No reservations: Ford is charging up electric F-150 Lightning production foxbusiness.com/lifestyle/n...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863680005073547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-12T12:33:55Z",
+        "content": "The active individual trader numbers are increasing. \nROBINHOOD MARKETS INC SAYS NET CUMULATIVE FUNDED ACCOUNTS AT END OF MAY WERE 23.1 MLN, UP ABOUT 20,000 FROM APRIL 2023\n$HOOD",
+        "sentiment": {
+            "TextBlob": -0.044444444444444446,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9521825313568115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-11T13:25:39Z",
+        "content": "$NANC & $KRUZ  \nWhat's the secret of the best stock pickers in Congress? AI. finance.yahoo.com/news/what...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9944698810577393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-11T04:24:56Z",
+        "content": "@MohaveTrader   I don\u2019t follow $BSM but here\u2019s a monthly chart of the price action. Based on the fundamentals and the chart, I think the analysts got this one right. A price target of $19 seems reasonable. Without the dividend I could see these shares rising to the mid $20s but that 11+% dividend will distribute a lot of that earnings power that would have normally gone into growing the business. It\u2019s a solid business with a solid dividend so it\u2019s worth owning the shares just for that reason. But if you\u2019re looking at it for capital gains, it may have a limited upside near $20. I hope that helps. \u2b50\ufe0f  I\u2019ve mentioned this in the past but if you\u2019re looking purely for high dividend trades, more and more of my investable funds are being put into the YieldMax funds. These shares also will have limited capital gains but the dividend is much higher. You might want to take a look.",
+        "sentiment": {
+            "TextBlob": 0.1392436974789916,
+            "NLTK": 0.9756,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8133577108383179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-07T20:22:26Z",
+        "content": "$GME GameStop fires CEO, Ryan Cohen takes over as chairman.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966995120048523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-07T16:18:15Z",
+        "content": "$BUD has fallen from the number one selling beer in America to number ten.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996029734611511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-07T13:31:37Z",
+        "content": "DRUCKENMILLER SEES CORPORATE PROFITS DOWN 20% TO 30%\nDRUCKENMILLER SAYS THE FED WILL END UP WITH HIGHER TERMINAL RATES\nDRUCKENMILLER SAYS HE'S MORE WORRIED ABOUT GROWTH THAN INFLATION\nDRUCKENMILLER SAYS NVIDIA MAY BE SOMETHING PEOPLE WILL WANT TO OWN FOR 2 OR 3 YEARS\n$NVDA",
+        "sentiment": {
+            "TextBlob": 0.23888888888888887,
+            "NLTK": 0.7152,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989239573478699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-06T22:55:28Z",
+        "content": "Governments are using tax policy to force behavioral changes in your life. If it was a good idea, you\u2019d have done it on your own. \nTesla $TSLA Model 3 is now cheaper than a Toyota Camry in California, after tax credits. Tesla Model 3 starts at $40,240 - $7500 (federal tax credit) - $7500 (California tax rebate) = $25,240\nToyota Camry starts at $26,320",
+        "sentiment": {
+            "TextBlob": 0.6499999999999999,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8756474256515503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-05T23:35:11Z",
+        "content": "More closings and job cuts. \n$WMT is closing 23 retail locations across the U.S., citing poor financial performance. Previously reported were four stores in Chicago but the total is ow at 23 across 12 states and Washington, D.C.  Apart from the retail locations, the company, which is the biggest employer in the world, said it is closing two unique \u201cpick-up only\u201d locations in Illinois and Arkansas, and said it was going to cut more than 2,000 jobs at five U.S. e-commerce warehouses.",
+        "sentiment": {
+            "TextBlob": 0.10104166666666667,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988507032394409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-05T22:48:47Z",
+        "content": "$AAPL was having a nice day today with all of their announcements coming out of their WWDC23. \nThen they showed the prices. \nAnd the stock sank.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997442364692688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-05T22:23:58Z",
+        "content": "The $NYSI reversed higher today and I moved funds from the sidelines back into the markets. Each day brings another chart that\u2019s reversing to the upside. The fact that different parts of the markets reverse at slightly different times demands that you trade off the appropriate chart. This is not a perfect trade strategy but it tends to keep me on the right side of the trend.",
+        "sentiment": {
+            "TextBlob": 0.07653061224489796,
+            "NLTK": -0.2498,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8137394189834595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-05T19:04:52Z",
+        "content": "APPLE PRICES THE VISION PRO HEADSET AT $3499, COMING IN EARLY 2024. $AAPL",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4084,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9839460253715515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-05T18:59:46Z",
+        "content": "S&P REVISES DISNEY TO RATING 'A-' FROM 'BBB+', OUTLOOK 'POSITIVE'. $DIS",
+        "sentiment": {
+            "TextBlob": 0.22727272727272727,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9201392531394958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-05T14:14:58Z",
+        "content": "$TSLY   Adding more today. \nDividend amount announced tomorrow. \nXdividend Wednesday.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9808752536773682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-04T17:00:15Z",
+        "content": "@MBWallingford   I sold $NVDA a week ago at $392. It\u2019s documented in my previous comments. But since I got in a few years ago at $23, I think I\u2019m ok with getting out where I did. If it pulls back to the $340-$350 area, I may consider re-entering. But trust me, at today\u2019s price of $393, I\u2019m ok with missing out on that $1 increase that you have made over my exit.",
+        "sentiment": {
+            "TextBlob": 0.07222222222222222,
+            "NLTK": 0.8807,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.948206901550293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-04T13:18:36Z",
+        "content": "$NVDA  Even the biggest winners of Nvidia's stock spike are cutting back as AI hype goes into overdrive markets.businessinsider.com...",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995032548904419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-01T18:09:56Z",
+        "content": "MICROSOFT INKS A DEAL FOR AI COMPUTING POWER WITH COREWEAVE - CNBC. $MSFT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9805966019630432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-01T17:26:18Z",
+        "content": "$DPST   This is still looking like a good trade with just one more day to go. \n@Jsteck @KauaiTrader",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7138395309448242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-01T15:46:31Z",
+        "content": "Nvidia\u2019s $NVDA biggest A.I. customers, cloud providers including Microsoft $MSFT, Google $GOOGL and Amazon $AMZN, are making their own A.I. chips in order to reduce their reliance on Nvidia. Don\u2019t underestimate the effect that this could have on Nvidia\u2019s stock price.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966404438018799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-01T15:32:13Z",
+        "content": "Continuing to build positions in $APLY, $NVDY, $OARK, and $TSLY.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6521105766296387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-01T14:51:52Z",
+        "content": "$META announces a $500 VR headset just days before $AAPL is expected to announce theirs for $3,000. Apple\u2019s may turn out to be better but it won\u2019t be six times better. And in a year it\u2019ll just be old technology.  finance.yahoo.com/news/meta...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978417158126831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-01T13:36:42Z",
+        "content": "\ud83d\udca1  $NVDA is a perfect example of why noobs get so frustrated with the stock market. Nvidia is one of the best companies to own for the five to ten years and yet so many noobs bought after the earnings news was announced at prices above $400. Now they\u2019re bag holders. And they probably will be for some time. Fundamentals will tell you which companies to invest in but only the technicals will tell you the optimal price to pay.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912018775939941
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-06-01T04:12:52Z",
+        "content": "$TGT   There no discernible bottom here. \nTarget shares sink for ninth straight day, market cap sheds over $13 billion as Pride backlash continues foxbusiness.com/media/targe...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994774460792542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-31T15:56:34Z",
+        "content": "It appears that money is moving around in the regional banks today from uninsured accounts to insured accounts. Estimates are that 2.5% of funds have moved recently. These movements are spooking investors and they\u2019re selling the banks. Add in a falling market and you see what\u2019s happening today. I see this as a buying opportunity. Others may not. $DPST",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814044833183289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-31T14:30:00Z",
+        "content": "$SOFI continues to move higher on the assumption that student loan debtors will have to start repaying their loans back.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6036504507064819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-31T04:39:13Z",
+        "content": "$TGT   Target losses swell to $12.4 billion; shares at lowest since 2020 foxbusiness.com/markets/tar...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999530553817749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-30T21:23:13Z",
+        "content": "@KauaiTrader    You could very well be right on predicting a pullback on the part of the regionals. I\u2019m probably just a little more aggressive with my option trades than others are. I look at the trade like this - at the $5.31 close today and I got $.15 on the trade, so I only have $4.85 in the trade. That\u2019s my basis. I\u2019ve now got a $.46 (9.4%) buffer on this trade that closes in just three days. If I eat those shares I\u2019ll end up selling $5 (or $50) Call options next week instead of Puts. The trade can go either way but if you\u2019re going to make money you have to take a side. And as you know there are people on both sides of every trade. One of them is going to lose. That\u2019s what makes a market. \ud83d\udc4d\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.13303571428571428,
+            "NLTK": -0.2049,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988664388656616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-30T20:09:43Z",
+        "content": "$SOFI is up today on the expectation that student loan debtors are going to be required to once again start paying back their loans. Millions of consumers will suddenly have even less discretionary spending. That\u2019s going to put more pressure on company earnings.",
+        "sentiment": {
+            "TextBlob": 0.08333333333333334,
+            "NLTK": -0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969965219497681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-30T18:35:12Z",
+        "content": "Selling the $5 Puts in $DPST that expire this Friday for a gain of just over 3% for the week. Annualized over a year and that\u2019s about 160%. If I can only get half of that, I can live with an 80% gain this year. \ud83d\udc4d\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": -0.010101010101010102,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881088137626648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-29T13:23:33Z",
+        "content": "Income stock $LTC \nLTC Properties Stock Pays Reliable, 7%-Yielding, Monthly Dividends incomeinvestors.com/7-perce...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8278259038925171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-25T16:01:06Z",
+        "content": "$NVDA   The hype today is just too much for me. These shares are now 4 standard deviations above the 20 dma. That\u2019s stratosphere level. At $344 these shares would be considered too expensive and due for a reversal. So I sold out at $392 this morning and will wait for a better entry. Great company but the price is currently a bit too high for me.",
+        "sentiment": {
+            "TextBlob": 0.11499999999999999,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995841383934021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-24T15:41:39Z",
+        "content": "$DIS continues to fall and you can\u2019t keep blaming DeSantis.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998561680316925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-23T17:07:55Z",
+        "content": "$TGT missteps again. \nTarget holds 'emergency' meeting over LGBTQ merchandise in some stores to avoid \u2018Bud Light situation\u2019 - Fox News apple.news/A4z2948nUQF-Xhv5...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968733191490173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-23T16:22:46Z",
+        "content": "Just another misstep for Disney.  $DIS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999600350856781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-23T11:56:33Z",
+        "content": "$DIS continues to downsize. \nDisney is beginning a 3rd round of layoffs, cutting more than 2,500 jobs: report businessinsider.com/disney-...",
+        "sentiment": {
+            "TextBlob": -0.07500000000000001,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999607503414154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-23T11:31:39Z",
+        "content": "The end is near. \nLordstown Motors to Effect 1:15 Reverse Stock Split \n$RIDE",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98945552110672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-22T17:46:04Z",
+        "content": "With $ARKK above $40 today, $OARK is suddenly in a very profitable position, not only on its synthetic position but also on its future choices of selling covered calls.  This is becoming a very sweet deal.",
+        "sentiment": {
+            "TextBlob": 0.18416666666666667,
+            "NLTK": 0.7605,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996671676635742
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-22T16:34:21Z",
+        "content": "$JPM made good money buying First Republic Bank. Taxpayers? Not so much.  finance.yahoo.com/news/jpmo...",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996392726898193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-22T15:59:23Z",
+        "content": "I\u2019ve been selling $5 Puts in $DPST this morning. The risk here is that a bottom was put in at $4 so there\u2019s always the possibility that these shares could revisit that bottom. But ultimately these shares are headed back to the $8 level for about a 50% gain. By the way, I used the proceeds to buy TSLY. This is how you leverage your portfolio and create wealth.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.9371,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965367317199707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-22T14:04:47Z",
+        "content": "More troubles at Disney. \nDISNEY EXEC SAYS PLANS TO SHELVE THE STAR WARS GALACTIC STAR CRUISER IN SEPTEMBER AS IT DIDN\u2019T PERFORM EXACTLY THE WAY THEY WANTED IT TO PERFORM \u2013 JPM CONF\n$DIS",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": -0.8237,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991256594657898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-21T19:47:00Z",
+        "content": "$TSLA $TSLL $TSLY  S curves feeding S curves. \nCathie Wood Touts Tesla As The 'Biggest AI Play Out There,' Sees Robotaxi As $10 Trillion Revenue Opportunity By 2030 - Benzinga benzinga.com/analyst-rating...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.976469099521637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-21T16:54:46Z",
+        "content": "$ARKK continues to push higher. And as it pushes beyond $40 it moves above the synthetic position created in $OARK. And that\u2019s the key to energizing the profits available for the monthly distribution. Option trading can be a difficult exercise in trading but the management of this ETF seems to be doing everything right.",
+        "sentiment": {
+            "TextBlob": 0.07261904761904762,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998310923576355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-20T18:00:49Z",
+        "content": "$TSLA $TSLL \n'Elon has his mojo back': A top Tesla investor shares the biggest takeaways from the shareholder meeting and why the stock is a must-have in your portfolio now markets.businessinsider.com...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9564545750617981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-19T19:11:31Z",
+        "content": "$DIS is quickly moving toward $85. Bearish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975855350494385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-18T20:33:34Z",
+        "content": "Today\u2019s market action paused the downward trend in the $SPX.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8981141448020935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-18T19:28:55Z",
+        "content": "Disney ups the ante. $DIS finance.yahoo.com/news/disn...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876387119293213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-18T19:17:32Z",
+        "content": "$DIS is shutting down their Star Wars themed hotel in Florida.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994774460792542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-18T18:23:07Z",
+        "content": "@S2b   There\u2019s a lot of merit to what you\u2019ve posted but I\u2019ve been a huge proponent of $PLTR for quite a while now. Unfortunately I took my eye off the ball. That was my mistake. And your rationale is most likely why. But that really had less to do with PLTR and more to do with everything I\u2019m working on. I\u2019ve just had too many ideas that I\u2019ve been working on. For those who follow me they know I\u2019ve been working on my latest strategy for trading short term market reversals. I\u2019ve basically finished flushed out that strategy so maybe I\u2019ll have more time to research and concentrate once again on my options strategies. For me, it\u2019s options trading that is the most important and the real engine driving my overall investing. \u2b50\ufe0f   By the way, I see PLTR having the potential to move up toward $14 so the best strategy for me would be to sell the Puts. Being assigned the shares would not be considered a bad thing by me. \n@KeepOnJeepinOn @Notaraccoon",
+        "sentiment": {
+            "TextBlob": 0.21296296296296297,
+            "NLTK": 0.9285,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950506091117859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-18T16:06:41Z",
+        "content": "Continuing to build positions in $TSLY, $OARK, $APLY, and $NVDY. Obviously some of these will be better investments than others but I\u2019ll sort that out later as a longer term track record surfaces. But for now I\u2019m just grabbing them all.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.2382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875352382659912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-18T03:17:33Z",
+        "content": "$BUD is getting desperate because they\u2019re realizing that their Bud Light Brand may have been permanently and terminally damaged. After that WOKE commercial they brought the Clydesdales. That didn\u2019t work. Now they\u2019re making camouflage bottles to try to bring back their working class drinkers. I don\u2019t think it\u2019s going to work. I will be avoiding BUD stock for a very long time",
+        "sentiment": {
+            "TextBlob": -0.11083333333333334,
+            "NLTK": -0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996185302734375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-18T00:11:55Z",
+        "content": "If you own shares in $TGT, you are one of the owners of the company as well as any profits the company makes. When those thugs, those robbers, those worthless individuals enter a Target store, damage the store and steal the merchandise, they\u2019re actually stealing from you. They\u2019re stealing your profits, your dividends, and your future earnings. This has not been a one time thing and if it\u2019s not stopped soon your company will eventually cease to exist. No company can stay in business long under these conditions. If you own TGT shares, this is personal to you.",
+        "sentiment": {
+            "TextBlob": 0.04999999999999999,
+            "NLTK": -0.7866,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841150045394897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-17T23:47:27Z",
+        "content": "TSLA\u2018s move today compares well with the synthetic position of $165 in $TSLY. They currently have a $177.50 covered call sold against that position for Friday so it looks like they\u2019re going to pocket some serious cash either way. Beyond that the shares of TSLA need to get above the $205 level to get above the other synthetic position. So far the guys at YieldMax seem to be making all the right moves.",
+        "sentiment": {
+            "TextBlob": -0.01037414965986394,
+            "NLTK": 0.6969,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8793258666992188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-17T15:26:59Z",
+        "content": "$NVDY   With the synthetic position pegged at $285 and expiration in July, today\u2019s price of $297 is very favorable for making a nice profit. Also the $312.50 covered calls they sold will expire worthless this Friday. So far things are looking great.",
+        "sentiment": {
+            "TextBlob": 0.18,
+            "NLTK": 0.8832,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9822783470153809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-17T15:18:04Z",
+        "content": "$NVDY    Just a reminder of what the future holds. Obviously some will do better than others because of the underlying stock\u2019s volatility and the experience of the traders.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5945748686790466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-17T13:04:47Z",
+        "content": "When Target $TGT says they lost $500M due to shrinkage (and what they really mean is out right theft!), they mean their honest customers are going to pay an additional $500M in increased prices.",
+        "sentiment": {
+            "TextBlob": 0.04142857142857141,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995958209037781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-16T20:47:06Z",
+        "content": "MUSK SAYS MODEL Y ON TRACK TO BECOME THE BEST-SELLING VEHICLE GLOBALLY IN 2023   $TSLA $TSLL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999489426612854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-16T14:01:23Z",
+        "content": "@Stocktwits   Could you please add $NVDY to your list of companies? Thank you very much.",
+        "sentiment": {
+            "TextBlob": 0.26,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980353713035583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-16T10:49:52Z",
+        "content": "$HD  Home Depot posts worst revenue miss in about 20 years, lowers forecast as consumers delay big projects cnbc.com/2023/05/16/home-de...",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979711174964905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-16T10:44:58Z",
+        "content": "Business is slowing at Home Depot $HD finance.yahoo.com/news/home...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988682270050049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-16T00:25:40Z",
+        "content": "More Florida vs Disney.  $DIS \nA Florida teacher says the state is investigating her for showing students the Disney movie 'Strange World,' which features an LGBTQ character businessinsider.com/florida...",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981852173805237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-11T19:14:19Z",
+        "content": "$DIS is losing subscribers so they\u2019re rating the price. \ud83d\ude02\ud83d\ude02\ud83d\ude02\nDisney's Bob Iger: More price hikes coming to streaming services finance.yahoo.com/news/disn...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989809393882751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-11T12:14:49Z",
+        "content": "$DPST   Deposits continue to circulate seeking FDIC insurance. But not a nickel of any deposits have been lost. Businesses can\u2019t operate without banks and no business operates on $250,000 or less. The government could easily fix this but so far they haven\u2019t. You just have to wonder about intent here.",
+        "sentiment": {
+            "TextBlob": 0.12222222222222223,
+            "NLTK": 0.3574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9121624231338501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-11T04:12:24Z",
+        "content": "$DIS is losing subscribers to their streaming service and Apple\u2019s $AAPL  production budget for streaming may keep that unit from being profitable for years.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997527003288269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-11T03:49:23Z",
+        "content": "@MohaveTrader   I remember it well. It started in early 1972 when OPEC was created and gasoline jumped from $.25 to $.50 overnight. Energy prices exploded. Oil boomed, American cars sat on lots as huge numbers of Japanese cars were imported, and there was a population shift from Detroit to Houston. It was very disruptive. I made good money in oil stocks. \n@Jsteck",
+        "sentiment": {
+            "TextBlob": 0.23333333333333336,
+            "NLTK": 0.7947,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.993721604347229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-11T02:05:16Z",
+        "content": "$U  Unity Software stock jumps 10% on Q1 beat. This high revenue growth company now wants to be earnings positive.  investing.com/news/stock-ma...",
+        "sentiment": {
+            "TextBlob": 0.19575757575757577,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9787953495979309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-11T02:00:52Z",
+        "content": "$HOOD will disrupt the industry again \nRobinhood Q1 Earnings Highlights: Revenue And EPS Beat, 24-Hour Trading Launch Featuring Select Stocks Such As Tesla benzinga.com/news/earnings/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9176791906356812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-11T01:57:05Z",
+        "content": "$DIS Disney Shares Fall After Reporting Loss of 4M Streaming Subscribers investopedia.com/disney-fal...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996743202209473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-10T04:07:50Z",
+        "content": "Florida is taking over inspections of the DisneyWorld monorail. This appears to be just the first step as $DIS loses its special governing ability. This is not going to end well for Disney shareholders. \nDisney's free speech lawsuit against DeSantis now includes monorail complaint | Fox Business foxbusiness.com/politics/di...",
+        "sentiment": {
+            "TextBlob": 0.08142857142857143,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997684359550476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-10T03:08:12Z",
+        "content": "$DPST  A contrarian buy. \n$KRE: Be Greedy When Others are Fearful with This Regional Banking ETF \u2013 TipRanks Financial Blog blog.tipranks.com/kre-regio...",
+        "sentiment": {
+            "TextBlob": -0.45,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963853359222412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-08T20:27:16Z",
+        "content": "PALANTIR Q1 2023 EARNINGS\n$PLTR\nADJUSTED EPS 5.0C, EST. 3.8C\nREVENUE $525M, EST. $506.1M\nADJUSTED EBITDA $131.1M, EST. $99.3M",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890283346176147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-08T19:45:29Z",
+        "content": "The $DIS image is changing. Now when you think Mickey you think politics. And you\u2019re thinking less about entertainment. Bringing Iger back has not helped anything. Disney stock is still half of what it was two years ago. \nDisney lawsuit against DeSantis expanded after bill voiding land deals cnbc.com/2023/05/08/disney-...",
+        "sentiment": {
+            "TextBlob": -0.1111111111111111,
+            "NLTK": 0.1585,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985131621360779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-08T18:14:28Z",
+        "content": "Disney is trying to find something, anything, that works for them. The stock is half what it was two years ago. \nDISNEY BRINGS BACK DINING PLANS, UPDATES PARK RESERVATIONS  \n$DIS",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989204406738281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-05T17:10:41Z",
+        "content": "Today\u2019s move in the stock of Apple has given $APLY a lot of room to maneuver with their option positions. Their synthetic position is $165 with a December expiration. Anything above that makes their position vastly profitable and their ability to sell high premium Calls is increased. Don\u2019t be surprised if Apple stock pulls back but as long as it stays above that $165 level, APLY should be very profitable.",
+        "sentiment": {
+            "TextBlob": 0.051250000000000004,
+            "NLTK": 0.8151,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966327548027039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-04T21:31:32Z",
+        "content": "$BUD   The CEO is just trying to save his own job but it\u2019s too late for Bud Light. It\u2019s also going to spread to other Budweiser products. \nCEO distances Anheuser-Busch from Bud Light Dylan Mulvaney controversy: 'Not a formal campaign' foxbusiness.com/markets/ceo...",
+        "sentiment": {
+            "TextBlob": 0.195,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990453124046326
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-04T14:49:48Z",
+        "content": "It also seems like the EV automakers, other than Tesla $TSLA, are also continuing to bleed money. Call me simple but I prefer to invest in companies that are making money, not losing money.",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.5463,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99250727891922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-04T14:29:44Z",
+        "content": "$AAPL earnings tonight will either stop the fall or accelerate it because Apple stock is a big part of the market averages and owned by almost everyone somewhere in their accounts. And right now Apple earnings aren\u2019t expected to be that great.",
+        "sentiment": {
+            "TextBlob": 0.24642857142857144,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964369535446167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-04T02:17:20Z",
+        "content": "The Biden Administration\u2019s proposed 30% Digital Asset Mining Energy (DAME) excise tax on Bitcoin mining electricity costs has sparked a backlash from major mining companies like Riot $RIOT and Marathon Digital $MARA.",
+        "sentiment": {
+            "TextBlob": 0.020833333333333332,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967695474624634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T22:19:35Z",
+        "content": "@OracleOfArkansas   If you think the market is headed lower like I do, you might want to look at $SDOW, $SPXS, or $SPXU. Just an idea, not a recommendation.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994780421257019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T21:46:43Z",
+        "content": "\u26a0\ufe0f   Once the fall gets underway we could easily see a 10% drop in the markets before we finally find the bottom. That would take the $DJIA down to about 30,000 and the $SPX down to about 3650. Things are starting to come apart at the seams.",
+        "sentiment": {
+            "TextBlob": 0.024444444444444442,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980879426002502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T20:51:39Z",
+        "content": "Pacific Western Bank (PacWest $PACW) is weighing strategic options, including a sale, after the equity has collapsed over 80% over the past two months.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929089546203613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T20:50:35Z",
+        "content": "PACWEST SAID TO WEIGH STRATEGIC OPTIONS, INCLUDING SALE\nPACWEST BANCORP, A REGIONAL BANK IN TROUBLE AFTER THE FAILURE OF THREE RIVAL LENDERS, HAS BEEN CONSIDERING A VARIETY OF STRATEGIC OPTIONS, INCLUDING A SALE, ACCORDING TO PEOPLE FAMILIAR WITH THE SITUATION. $PACW",
+        "sentiment": {
+            "TextBlob": -0.04722222222222224,
+            "NLTK": -0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904668927192688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T13:19:44Z",
+        "content": "FORD MOTORS APR. TOTAL VEHICLES SALES 184,002, UP 4%\n$F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5827117562294006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T11:38:18Z",
+        "content": "PACWEST TURNS POSITIVE PREMARKET, ERASING 14% DROP\n$PACW",
+        "sentiment": {
+            "TextBlob": 0.22727272727272727,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981608986854553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T10:53:30Z",
+        "content": "U.S. REGIONAL BANKS DROP PREMARKET; PACWEST BANCORP FALLS 11.7%, WESTERN ALLIANCE BANK DOWN 7.8%\nKEYCORP SLIPS 1.7%, ZIONS BANCORP DOWN 2.3%\n$PACW $WAL $KEY",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": -0.4278,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996436834335327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T01:55:25Z",
+        "content": "$F   Ford first quarter revenue, profits top estimates; EV unit loses $722 million finance.yahoo.com/news/ford...",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996681213378906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-03T01:54:11Z",
+        "content": "$AAPL   Apple reportedly attracted $1 billion in deposits into its new high-yield savings account in just 4 days finance.yahoo.com/news/appl...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950811862945557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-02T15:16:44Z",
+        "content": "Just yesterday, Jamie Dimon said that the banking crisis was over. This crisis has been going on 2 months and it\u2019s not anywhere over. \nJust today: \n1. PacWest, $PACW: -30%\n2. Western Alliance, $WAL: -25%\n3. Metropolitan Bank, $MCB: -21%\n4. HomeStreet, $HMST: -15%\n5. Zions Bank, $ZION: -10%\n6. KeyCorp, $KEY: -7%\n7. HarborOne, $HONE: -6%\n8. Citizens Financial, $CFG: -5%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.8481,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999079704284668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-02T14:53:54Z",
+        "content": "Regional bank stocks are plunging with multiple stocks down 20%+ in a matter of minutes.\nPacWest Bancorp, $PACW, now down 29%, stock halted.\nWestern Alliance Bank, $WAL, now down 25%, stock halted.\nMetropolitan Bank, $MCB, now down 24%, stock halted.",
+        "sentiment": {
+            "TextBlob": -0.10370370370370373,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996225833892822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-02T14:16:04Z",
+        "content": "New banking targets. This looks like the beginning of the banking collapse. \nPacWest Bancorp Paused due to volatility\nWestern Alliance Bancorp. Paused due to volatility\n$PACW $WAL",
+        "sentiment": {
+            "TextBlob": -0.02840909090909091,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996576309204102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-02T11:57:14Z",
+        "content": "Wow. \nHINDENBURG RESEARCH SAYS HAVE TAKEN A SHORT POSITION IN UNITS OF ICAHN ENTERPRISES L.P.\n$IEP",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961554408073425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-01T21:51:25Z",
+        "content": "JP Morgan earlier today said that with their acquisition of $FRCB, the banking crisis is over. Here\u2019s how a few of the US Regional Bank stocks did today: \n1. Valley National, VLY: -20%\n2. Metropolitan Bank, MCB: -18%\n3. HomeStreet Bank, HMST: -18%\n4. HarborOne, HONE: -11%\n5. PacWest, PACW: -10%\n6. Citizens Financial, CFG: -7%\n7. Zions Bank, ZION: -4%\n8. KeyCorp, KEY: -4%\n9. M&T Bank, MTB: -3%\n10. Truist, TFC: -3%",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.3751,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981829047203064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-01T21:28:17Z",
+        "content": "Artificial Intelligence is starting to replace humans in tech jobs. \nIBM CEO: WE COULD REPLACE 7,800 JOBS WITH AI. WE WILL PAUSE HIRING FOR ROLES THAT AI COULD DO. $IBM",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979943037033081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-01T15:42:05Z",
+        "content": "$DIS  DeSantis-backed Florida tourism board to counter-sue Disney\n\nfoxnews.com/politics/desant...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971358776092529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-01T13:29:57Z",
+        "content": "There will be several bankruptcies in the EV industry. \nLORDSTOWN MAY SEEK BANKRUPTCY IF FOXCONN DISPUTE ISN'T RESOLVED \n$RIDE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6698,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994263648986816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-01T11:47:06Z",
+        "content": "More dilution. \n$META PLATFORMS INC FILES FOR DEBT SHELF; SIZE NOT DISCLOSED - SEC FILING",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4995,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976170659065247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-05-01T02:45:58Z",
+        "content": "$DPST   Charlie Munger: US Banks Are \u2018full Of\u2019 Bad Commercial Property Loans - WorldNewsEra worldnewsera.com/news/finan...",
+        "sentiment": {
+            "TextBlob": -0.11666666666666663,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995149374008179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-29T17:39:49Z",
+        "content": "BANK OF AMERICA IS AMONG SEVERAL OTHER INSTITUTIONS THAT ARE WEIGHING A POTENTIAL BID FOR FIRST REPUBLIC- CNBC\n$BAC $FRCB",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7032110691070557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-28T16:08:23Z",
+        "content": "How many banks are the Fed going to have to takeover?\nFIRST REPUBLIC $FRCB \"MOST LIKELY\" HEADED FOR FDIC RECEIVERSHIP",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993127584457397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-26T13:53:05Z",
+        "content": "Bailout in the form of a guarantee.  \nNo One Is Expected To Buy First Republic Without Substantial Federal Guarantees: Politico\n$FRCB",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": -0.2942,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968499541282654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-26T13:34:38Z",
+        "content": "This is like waiting until the house burns down before sending in the fire department. \nUS GOVERNMENT CURRENTLY UNWILLING TO INTERVENE ON FIRST REPUBLIC - CNBC CITING SOURCES\n$FRCB",
+        "sentiment": {
+            "TextBlob": 0.03148148148148147,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971067309379578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-25T19:53:45Z",
+        "content": "$DPST   This is what\u2019s causing the problem and the government will come out and save everything. Like they always do. But the shareholders of First Republic may suffer. This is all a result of the limited FDIC insurance. They need to offer additional insurance for a premium and depositors wouldn\u2019t be making a run on the bank. In the meantime this is looking like a buying opportunity. \nFIRST REPUBLIC BANK EXTENDS PLUNGE TO 50%\n $FRCB",
+        "sentiment": {
+            "TextBlob": 0.14285714285714288,
+            "NLTK": 0.5718,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958103895187378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-25T15:29:42Z",
+        "content": "More firings and layoffs. It\u2019s hard to keep up with all of them. There\u2019s been so many. The middle class is getting gutted. \nGap to Cut Hundreds of Corporate Workers In New Round of Layoffs, Sources Say -- WSJ\n$GPS",
+        "sentiment": {
+            "TextBlob": 0.09209956709956708,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997778534889221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-24T23:49:35Z",
+        "content": "People who are trying to compare the movement of $TSLY and $TSLA really don\u2019t have a clear understand of how this advanced options strategy works. Below are the artificially created positions and subsequent sales. The synthetic position is obviously at $205 but the secondary sales prices and volume are quite interesting to see. They\u2019re harvesting some sweet premium.",
+        "sentiment": {
+            "TextBlob": 0.07222222222222224,
+            "NLTK": 0.9011,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952157735824585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-24T16:48:59Z",
+        "content": "$SDOW wants to go higher. It\u2019s time for me to start a position.",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956934452056885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-24T13:06:44Z",
+        "content": "LATEST ROUND OF DISNEY CUTS WILL BRING TOTAL REDUCTIONS TO 4,000 \nDISNEY  BEGINS SECOND WAVE OF LAYOFFS, CUTTING 'SEVERAL THOUSAND' JOBS \nDISNEY CUTS WILL AFFECT ALL PARTS OF THE COMPANY -DISNEY SOURCES\n$DIS",
+        "sentiment": {
+            "TextBlob": -0.049999999999999996,
+            "NLTK": -0.7963,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964978098869324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-23T11:28:04Z",
+        "content": "$BBBYQ   Bye, Bye Baby. \nBed Bath & Beyond files for bankruptcy protection cnbc.com/2023/04/23/bed-bat...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982471466064453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-23T00:53:51Z",
+        "content": "$DIS  to slash thousands of jobs next week. \nDisney plans layoffs for thousands next week, report says | Fox Business foxbusiness.com/economy/dis...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994717240333557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-22T14:38:11Z",
+        "content": "$TSLA  Tesla Stock: Morgan Stanley Reiterates $220 Price Target \u2013 TipRanks Financial Blog blog.tipranks.com/tesla-sto...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915274977684021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-21T21:54:43Z",
+        "content": "$TSLA Tesla raises prices of premium models, reversing earlier cuts amid fears of lower profits",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9732464551925659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-21T16:11:01Z",
+        "content": "$APLY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9682997465133667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-21T16:10:18Z",
+        "content": "Latest Cuts Could Impact 30% or More of Lyft's Over 4,000 Employees, Sources Say -- WSJ\nRide-Sharing Company Laid Off About 700 People Late Last Year -- WSJ\n$LYFT",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987260699272156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-21T15:37:51Z",
+        "content": "$APLY   Here\u2019s the strategy and here\u2019s the bracket. Today AAPL is $165.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992347002029419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-21T15:20:01Z",
+        "content": "@Stocktwits   Can you please add $APLY to your list of stocks. Thank you.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988070726394653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T19:56:01Z",
+        "content": "$DPST   Rationale for the $7/$8 short strangle.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981228709220886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T19:09:41Z",
+        "content": "Virtually every stock of every EV manufacturer, regardless of the country, is being slashed today. The media will have you believe they\u2019re just moving in sync with $TSLA. But in reality traders know what\u2019s going to happen to other EV maker\u2019s profit margins as a result of Tesla cutting prices. They\u2019re already the slimmest of the slim. This will cause many of them to go negative and never recover. \n$TSLL $ARKK $ARKQ",
+        "sentiment": {
+            "TextBlob": -0.13124999999999998,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994696974754333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T16:41:41Z",
+        "content": "I need to re-engage a short strangle trade in $SOXL. It looks like it\u2019s in a flat to slightly up move.",
+        "sentiment": {
+            "TextBlob": -0.06388888888888888,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993118047714233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T16:38:07Z",
+        "content": "You\u2019ll look back in a month and realize what a tremendous bargain these prices were at the time. $TSLL is also at bargain prices. \nTESLA INC SHARES EXTEND LOSSES, LAST DOWN 9.5%\n$TSLA",
+        "sentiment": {
+            "TextBlob": 0.04444444444444443,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838618636131287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T15:13:21Z",
+        "content": "BUZZFEED REDUCING WORKFORCE BY ABOUT 15% ACROSS BUSINESS, CONTENT, TECH AND ADMIN TEAMS - NYT REPORTER TWEET, CITING BUZZEED MEMO\n$BZFD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984297156333923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T15:07:57Z",
+        "content": "BUZZFEED NEWS IS BEING SHUT DOWN - CNN\n$BZFD",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994924068450928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T12:19:49Z",
+        "content": "I suppose this is now on the death watch. \nLORDSTOWN - EVALUATING ACTIONS TO REGAIN COMPLIANCE WITH BID PRICE REQUIREMENT, INCLUDING REVERSE STOCK SPLIT IF AUTHORIZED BY STOCKHOLDERS\n$RIDE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986701011657715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-20T01:54:13Z",
+        "content": "$TSLL $ARKK $ARKQ are all big holders of $TSLA stock and they\u2019re all down tonight. Undeservedly so. Look for a rebound tomorrow. Everything in the earnings today were good except margins. And that\u2019s a result of average price declines for certain models. These price reductions will put an extreme amount of pressure on Tesla\u2019s competition who have almost non-existent margins. But they will necessarily have to lower their prices in order to compete. And some of those EV manufacturers won\u2019t be around in a year while Tesla will continue to reduce the cost of manufacturing and once again increase margins. I believe these shares are a bargain at any price level below $205 for longer term holders. The competition is still years behind Tesla. Bullish",
+        "sentiment": {
+            "TextBlob": -0.02402998236331571,
+            "NLTK": 0.7227,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931199550628662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T21:30:50Z",
+        "content": "More $DIS shenanigans. \nFlorida board says it discovers another '11th hour' agreement with Disney - Reuters apple.news/AxOB_VW1ET7aCDXD...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998286783695221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T20:09:45Z",
+        "content": "$TSLA   GROSS MARGIN 19.3%, EST. 21.2%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5904,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973233342170715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T20:07:30Z",
+        "content": "$TSLA\nTESLA Q1 23 EARNINGS\nADJ EPS 85C, EST. 86C \nREV. $23.33B, EST. $23.35B",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9829505085945129
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T20:02:16Z",
+        "content": "TSLA earnings are coming up. The stock started to drop during the last hour of trading. Earnings estimates are $.75.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8997262716293335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T18:12:14Z",
+        "content": "$DPST    People are funny. I\u2019ve been selling $7/$8 strangles on these shares and all the criticism I\u2019ve received has been on the Put side. People think I was dumb to sell $7 Puts. They commented that I should have sold $6 Puts because I was going to have to eat the shares. Now with the rise in the shares today it looks like I may lose my shares at a nice profit to the $8 Calls. The lesson here for everyone is to do your own research and take personal responsibility for your decisions. You\u2019ll be a lot better trader.",
+        "sentiment": {
+            "TextBlob": 0.2625,
+            "NLTK": 0.8979,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944266080856323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T15:29:28Z",
+        "content": "$TSLA $TSLL  You can now get a Model Y for cheaper than the average car.\nTeslas are cheaper than ever and its a creating a headache for the entire auto industry businessinsider.com/tesla-e...",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987082481384277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T14:04:37Z",
+        "content": "\u26a0\ufe0f   @Stocktwits    Please add $APLY to your list of stocks. Thank you.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988102912902832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T13:19:19Z",
+        "content": "$TSLA $TSLL  Tesla cuts US prices again ahead of earnings report | Fox Business foxbusiness.com/markets/tes...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898883700370789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T13:16:19Z",
+        "content": "$META  Layoffs also hit product-facing teams and that Meta plans to cut business-facing roles, such as finance, legal and HR, beginning in May. The employee, who spoke under condition of anonymity, said Meta suggested tech teams who weren\u2019t impacted by Wednesday\u2019s cuts may also be included in layoffs next month.\nMeta has started its latest round of layoffs, focusing on technical employees cnbc.com/2023/04/19/meta-st...",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979664087295532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-19T13:01:43Z",
+        "content": "@KauaiTrader   I think the majority of traders have a similar perspective as yours. Most are looking for a pullback in $DPST. Some see it going as low as $6. I\u2019m currently selling $7/$8 strangles with decent premium. But I\u2019m willing to adjust where necessary. The thing I like most about the sentiment is that it seems to be evenly split between those who think it\u2019s going to $6 and those who think it\u2019s going to $9. That indicates to me that we\u2019re in a trading range. And that\u2019s great for selling strangles.",
+        "sentiment": {
+            "TextBlob": 0.24629629629629632,
+            "NLTK": 0.8537,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9551874399185181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T17:17:47Z",
+        "content": "$DPST   Deposit growth. \nUS REGIONAL BANKS\u2019 DEPOSIT GROWTH SEEN AT $73 BILLION",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7125,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7549787163734436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T15:52:37Z",
+        "content": "$BOIL   Natural Gas Climbs 3.7% to $2.360; Would Be Highest Closing Price Since March 16",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9696658253669739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T15:23:52Z",
+        "content": "I\u2019ve started a small position in $APLY this morning. It\u2019s an option play on Apple shares. When they make their first distribution next month I\u2019ll decide whether to expand this position. So far TSLY seems to be working out nicely.",
+        "sentiment": {
+            "TextBlob": 0.13999999999999999,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991306662559509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T15:16:48Z",
+        "content": "@Stocktwits   Would you please add $APLY to you list of companies? Thank you.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9925550818443298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T15:13:00Z",
+        "content": "$DPST.  FED'S BOSTIC:  THE BANKING SYSTEM SEEMS TO BE STABLE AND IS NAVIGATING TROUBLE",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935396313667297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T13:48:40Z",
+        "content": "$DPST   This will put pressure on bank earnings but nothing compared to the fall that resulted from the failure of SVB. To a bigger extent, it will put pressure on businesses other than banking that must exist on borrowed money. If their credit rating isn\u2019t top notch, they\u2019ll have trouble getting refinanced. Tightening credit will also do the dirty work of the Federal Reserve and hold down the economy, wages, and inflation. It\u2019ll also hold down company earnings. The extent will determine whether we see a soft or hard landing in the expected recession this summer. \nGOLDMAN SACHS CEO SAYS THERE IS A HIGHER RISK OF CREDIT CONTRACTION",
+        "sentiment": {
+            "TextBlob": -0.09120370370370372,
+            "NLTK": -0.8957,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966810345649719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T13:40:56Z",
+        "content": "$DPST  I\u2019ve been saying for the last couple of weeks now that the damage has already occurred in the banking sector. That\u2019s why I\u2019ve been trading options in these shares for quite a while now and rather successfully. \nGOLDMAN SACHS CEO SAYS WORST OF BANKING VOLATILITY IS BEHIND US",
+        "sentiment": {
+            "TextBlob": -0.1625,
+            "NLTK": -0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9782399535179138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T13:18:55Z",
+        "content": "Spruce Point issues short report on Nuvei, sees 35%-50% donwside\n$NVEI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997236967086792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T11:54:22Z",
+        "content": "LOCKHEED MARTIN Q1 2023 EARNINGS \nADJUSTED EPS $6.43, EST. $6.08\nNET SALES $15.13B, EST. $15.04B\nOPERATING PROFIT $2.04B, EST. $1.93B\nEPS $6.61 VS. $6.44 Y/Y\nBACKLOG $145.10B, +8.1% Y/Y\n$LMT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925298094749451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T11:53:45Z",
+        "content": "$GS GOLDMAN SACHS Q1 23 EARNINGS\nEPS $8.79 VS EST. $8.21\nREV. $12.22B VS EST. $12.88\nINVESTMENT BANKING REV $1.58B VS EST. $1.54B\nNET INTEREST INCOME $1.78B VS EST. $2.18B\nLOANS $178.8B VS EST. $175.36B",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5766,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886759519577026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T11:49:12Z",
+        "content": "$BAC BANK OF AMERICA Q1 23 EARNINGS\n- EPS $0.94 VS EST. $0.82\n- REV. $26.26B VS EST. $25.4B\nNON INTEREST EXPENSES $16.24B VS EST. $15.97B\nTRADING REVENUE $5.05B VS EST. $4.46B\nTOTAL DEPOSITS $1.91T VS EST. $1.88T\nLOANS $1.05T VS EST. $1.05T",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5766,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934362173080444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T00:57:03Z",
+        "content": "$DIS  the Empire (Is About To) Strikes Back. The Florida governor said ideas are spinning on what could happen to the undeveloped land Disney controls with ideas like creating a state park or additional theme parks. \u201cSomeone even said maybe you need another state prison, who knows. I just think that the possibilities are endless.\u201d\nDeSantis Vs. Disney Battles Heats Up: Presidential Candidate Considers Putting Jail Next To The Most Magical Place On Earth - Walt Disney  benzinga.com/government/23/...",
+        "sentiment": {
+            "TextBlob": 0.12916666666666668,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996173083782196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T00:43:11Z",
+        "content": "Invest in Tesla Stock $TSLA with These 4 ETFs \u2013 TipRanks Financial Blog blog.tipranks.com/invest-in...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988982617855072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-18T00:39:32Z",
+        "content": "$F  This marks the first time Lincoln will import a vehicle to the U.S. from China.\nFord unveils new Lincoln Nautilus to be imported from China cnbc.com/2023/04/17/ford-li...",
+        "sentiment": {
+            "TextBlob": 0.19318181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9033020734786987
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-17T15:05:32Z",
+        "content": "$GGLL $GGLS Alphabet stock has been in a trading range, with resistance at $108 and support just below $90.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947580695152283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-17T14:38:06Z",
+        "content": "@CNC_MACHINIST2020 $CLOV is a terrible company that will lose an equivalent amount of money this year equal to its entire market cap. At that rate it\u2019ll be worth nothing in about 14 months. It\u2019s running on fumes.",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998024106025696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-17T13:02:34Z",
+        "content": "Clover Health Investments Eliminates About 10% of Workforce as Part of Restructuring \n$CLOV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993791580200195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-16T23:48:12Z",
+        "content": "$RMBS $STUDY   This is why so many people follow @DarvasBoxGuru .  This guy is the best at drawing and explaining box trading than anyone I\u2019ve come actress. If you\u2019re not following this guy you\u2019re missing out on some of the best analysis on StockTwits. Follow him. You can thank me later.",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.8658,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8289629220962524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-14T20:21:38Z",
+        "content": "Trading on the assumption that any damage to the regional bank stocks has already occurred, and that the White House has committed to back stopping depositors, I\u2019ve been selling strangles in $DPST for a while and for consistently nice profits. I\u2019m currently selling the $6.50/$8 strangle along with a couple of variations. The variations are a little wider strikes and multiple expiration dates. So far all of the contracts have been expiring worthless with the exception of two contracts that I covered at a profit. Note the support and resistance lines in the chart below.",
+        "sentiment": {
+            "TextBlob": -0.03593750000000001,
+            "NLTK": 0.539,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962512850761414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-14T19:43:33Z",
+        "content": "$BUD takes a non-position position on its Bud Light controversy. This is the art of saying nothing while talking. \nAnheuser-Busch breaks silence after Bud Light's Dylan Mulvaney controversy\n\nfoxbusiness.com/lifestyle/a...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942865967750549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-14T19:04:56Z",
+        "content": "I\u2019m continuing to build my position in $TSLY at prices below $15.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953668117523193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-12T15:43:52Z",
+        "content": "$TSLY   The target for Tesla is above $205.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950697422027588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-12T14:42:04Z",
+        "content": "$TSLY   Adding below $15.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890491962432861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-11T19:58:02Z",
+        "content": "It\u2019s looking like the individual in charge of the Bud Light part of $BUD will soon be looking for a new job because of the recent Bud Light advertising campaign. Upper management isn\u2019t pleased.",
+        "sentiment": {
+            "TextBlob": 0.2051948051948052,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995939135551453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-11T19:12:53Z",
+        "content": "$WMT is closing four of it\u2019s eight stores in Chicago because the stores continue to lose millions of dollars.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996563196182251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-11T17:35:06Z",
+        "content": "GOOGLE: WE ARE INTRODUCING A NEW LIVE TV EXPERIENCE, USERS CAN BROWSE OVER 800 FREE TV CHANNELS. $GOOGL",
+        "sentiment": {
+            "TextBlob": 0.22424242424242424,
+            "NLTK": 0.6166,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8709113001823425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-11T17:07:33Z",
+        "content": "If you\u2019re an options trader and understand the risks and rewards of bull calendar spreads, $TSLY may fit into your portfolio nicely. This strategy is something you could easily do yourself (and I\u2019ve done this plenty of times in the past) but it can entail quite a bit of work and stress. So it might be worth the fees the ETF charges. I\u2019m continuing to build up a small but growing position in my portfolio.",
+        "sentiment": {
+            "TextBlob": 0.20555555555555557,
+            "NLTK": 0.2382,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9927917718887329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-11T15:32:04Z",
+        "content": "Wish Announces 1-For-30 Reverse Stk Split\n$WISH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961025714874268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-11T13:56:37Z",
+        "content": "The consensus here is that these shares are going lower because banks are in trouble. But I\u2019ve been selling strangles in $DPST with $7 at the bottom and $8.50 and $9 at the top and making decent money. I suppose we\u2019ll see soon enough if I\u2019m wrong.",
+        "sentiment": {
+            "TextBlob": -0.006666666666666665,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8962288498878479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-11T12:55:20Z",
+        "content": "TESLA $TSLA MODEL Y BECOMES #1 BEST-SELLING PASSENGER VEHICLE IN CHINA FOR Q1 2023 WITH 94.6K DELIVERIES",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985976815223694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-10T17:49:23Z",
+        "content": "$AGNC has once again fallen below $10 pushing its dividend back above 14%.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984265565872192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-09T03:47:18Z",
+        "content": "Two years ago $DIS was a $200 stock. Today it\u2019s a $100 stock. Two years from now it\u2019ll still be stuck being a $100 stock. Earnings increases are slowing from a hot pace.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995065927505493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-09T03:16:58Z",
+        "content": "$MCD   This is looking ugly. \nMcDonald\u2019s cuts pay packages, closes offices \nalongside layoffs across chain | Fox Business wsj.com/articles/mcdonalds-...",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997851252555847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-08T15:37:19Z",
+        "content": "$DIS  Florida is \u201cgoing to look at things like developing some of the property that the district owns.\u201d \nRon DeSantis takes aim at Disney, vows to void Florida theme park development agreement By Reuters investing.com/news/stock-ma...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9259613752365112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-08T15:32:10Z",
+        "content": "Florida proposes taxes and tolls on $DIS properties in response to Iger\u2019s arrogance toward the government of Florida. Chapet was fired over this and the Board of Directors can\u2019t be pleased with Iger continuing to antagonize the State. This will end bad for shareholders. \nDeSantis says he's considering hotel taxes and highway tolls to hit back in his feud with Disney businessinsider.com/ron-des...",
+        "sentiment": {
+            "TextBlob": -0.06666666666666661,
+            "NLTK": -0.9186,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996967315673828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-08T01:29:27Z",
+        "content": "This is never good. \n(Reuters) - First Republic Bank $FRCB said in a regulatory filing on Friday that it will suspend payments of quarterly cash dividends on its preferred stock \"as a measure of prudent oversight.\"\nLast month, the bank suspended its dividend on common stock after the collapse of Silicon Valley Bank.",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": -0.8752,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997041821479797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-07T17:50:59Z",
+        "content": "$F  Ford doubles down on electric van domination teslarati.com/ford-new-elec...",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980118274688721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-07T17:50:01Z",
+        "content": "$DIS has made a huge mistake and shareholders will suffer the consequences. Gov. Ron DeSantis said Thursday he\u2019s looking into taxing Disney World\u2019s hotels, imposing tolls on its roads and developing its property as the latest escalation in the battle between the Florida Republican and the corporate giant.\n'COME HELL OR HIGH WATER': Gov. DeSantis vows Florida will 'win' in latest spat with Disney foxbusiness.com/politics/co...",
+        "sentiment": {
+            "TextBlob": 0.3371428571428572,
+            "NLTK": -0.9175,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976521134376526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-07T17:43:43Z",
+        "content": "$TSLA is getting into the Food and Drive In Movie business. \nTesla Diner and Drive-in closes in on construction, receives wave of permit updates teslarati.com/tesla-hollywo...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.94386225938797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-06T20:53:49Z",
+        "content": "\u2197\ufe0f   The market remains in a short term up trend but it continues to struggle on its move up. Traders are split on whether Q1 earnings will be good or not. And traders are worried about forward guidance as it looks like the recession may have already started. Keep an eye out next week as Q1 earnings start to roll in. Without a catalyst to energize traders, this market may stall out. I\u2019m continuing to add to my position in $UDOW but I\u2019m watching the markets closely.",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": -0.7834,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838525056838989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-06T15:11:17Z",
+        "content": "I\u2019m continuing to sell strangles on $BOIL but I\u2019m giving the trade a lot more room than I normally would. I\u2019m selling the Puts at $3 and $3.50 and the Calls at $6. That may seem rather wide but the reactive volatility of these shares can often be pretty erratic. This is simply a routine trade with the sole purpose of harvesting premium.",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.8807,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983128309249878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-05T17:00:41Z",
+        "content": "The company increased revenue by 691% and still can\u2019t turn a profit. This company seriously needs a new CFO. \nGenius Brands Announces 691% Increase in Revenue for 2022 :: Genius Brands International, Inc. $GNUS gnusbrands.com/news/press-r...",
+        "sentiment": {
+            "TextBlob": -0.06565656565656565,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970248341560364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-05T02:32:31Z",
+        "content": "$DPST   Despite the pullback to $7 today, I\u2019m sticking with the strategy I outlined below. I\u2019ll continue to sell more Puts but now at the $7 level. I don\u2019t see a downside building up a position here because I think these shares are searching for a bottom they had one until Jamie Dimon put out his piece today. Banks aren\u2019t going anywhere and the Fed is going to back stop any future casualties. You may see some continuing volatility but over time this looks to be a easy double or more.",
+        "sentiment": {
+            "TextBlob": 0.2388888888888889,
+            "NLTK": 0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981110095977783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-04T18:12:10Z",
+        "content": "AMAZON LAYS OFF ABOUT 100 EMPLOYEES IN ITS GAMING DIVISIONS\n$AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.347,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923891425132751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-04T16:03:23Z",
+        "content": "As I\u2019ve mentioned in previous posts, $TSLA should enter into a $210/$260 box soon which should allow for several profitable swing trades. As a result, I\u2019m starting a position in $TSLY to see what these guys can do in the options market. I believe the jury is still out on these shares, and everything they\u2019re doing you could easily do yourself, but I thought I\u2019d take a position and see how the stock and the dividends stack up against the underlying Tesla stock.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666668,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8866594433784485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-04T15:17:30Z",
+        "content": "$DPST    It appears that Jamie Dimon is spreading FUD and creating a buying opportunity. This crisis is not new. It\u2019s been going on for a year. Ever since the Fed started raising interest rates. And no one was aware of it. The difference today is that SVB put a little light on the problem and these shares were repriced. The damage has already been done.",
+        "sentiment": {
+            "TextBlob": 0.09857954545454546,
+            "NLTK": -0.7034,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992177486419678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-04T14:25:15Z",
+        "content": "$DPST   By Jamie Dimon saying the banking problem will go on for years implies that nothing drastic is going to happen anytime soon. This will be a slow burn and something that will successfully be managed by the Fed\u2019s. Basically there\u2019s nothing to see here except an over reaction to a comment that ha no merit. This drop looks more like a buying opportunity if you hold shares for more than one day.",
+        "sentiment": {
+            "TextBlob": 0.3625,
+            "NLTK": 0.8576,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968318343162537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-04T13:17:25Z",
+        "content": "FORD - Q1 U.S. TOTAL VEHICLE SALES OF 456,972, UP 10.7%\nFORD: Q1 EV SALES UP 41% ON SALES OF 10,866 ELECTRIC VEHICLES\n$F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5989329814910889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-04T01:08:30Z",
+        "content": "If the future is EVs, it doesn\u2019t appear that the Hummer will be part of it. $GM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935569167137146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-03T18:20:31Z",
+        "content": "$DOGE.X  is pushing up under ten cents.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992901086807251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-03T17:43:04Z",
+        "content": "I\u2019m expecting $UDOW to top $60 over the next week or so. There\u2019s no indication (so far) that the DJIA wants to reverse in the near future.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.1725,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995785355567932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-03T16:42:47Z",
+        "content": "Disney\u2019s ego is taking it down the wrong path, just as the heavy hand and the full force of state government is lowered. Disney doesn\u2019t need this fight and shareholders are surely going to suffer. You just have to wonder what those guys in Anaheim were thinking. \n$DIS - DESANTIS ASKS FLORIDA AUTHORITIES TO INVESTIGATE DISNEY WORLD BOARD - NYT",
+        "sentiment": {
+            "TextBlob": -0.0011111111111111293,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962764382362366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-03T16:19:16Z",
+        "content": "MCDONALD'S CORP TO LAY OFF HUNDREDS OF CORPORATE EMPLOYEES THIS WEEK, SOURCE SAYS\n$MCD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970819354057312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-03T15:36:20Z",
+        "content": "$DPST   Obviously I should have waited another 30 minutes before selling those Puts, but you take your shot based on the best information available at the time of the trade. That said, I\u2019m still staying with the position for the same reasons listed below. This is how sausage is made for an options trader. If you got in with a better deal - congratulations. \n\ud83d\ude09\ud83d\udc4d\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.38,
+            "NLTK": 0.9517,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916234612464905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-03T14:40:22Z",
+        "content": "$DPST   Based on the chart below, I\u2019ve been selling $8.50 Puts expiring this Friday for $.85. I\u2019ll make 10% on my money if the shares expire worthless or I\u2019ll get assigned the shares that I believe are headed a lot higher as traders continue to become more and more comfortable with regional banks. I\u2019m ok with either outcome.",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.762,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998579740524292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-03T13:10:44Z",
+        "content": "FORD MOTOR CO - ON PATH TO REACH ITS TARGETED ANNUAL PRODUCTION RUN RATE OF 600,000 EVS BY END OF 2023 AND MORE THAN 2 MLN BY END OF 2026\n$F",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2103,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7719624042510986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-01T16:01:31Z",
+        "content": "$DIS is taking on a fight with the state of Florida it has no business taking on. The Governor is now activating the Office of the Attorney General and this won't end well for anyone - especially stock holders. Disney is certainly dumb for doing this and Iger may end up being sacrificed for the benefit of the company.... \n \nOn Thursday, Florida Attorney General Ashley Moody made a public records request to the Disney-appointed board members of the former Reedy Creek Improvement District. In the letter, she demands texts, emails, and other public records regarding \"documents discussing an intention or goal of circumventing, avoiding, frustrating, mitigating, or otherwise attempting to avoid the effects of anticipated actions of the Florida Governor and Legislature.\" The letter says there is a potential for civil and criminal penalties if records are not turned over.",
+        "sentiment": {
+            "TextBlob": -0.10909090909090909,
+            "NLTK": -0.9172,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992221593856812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-04-01T12:56:43Z",
+        "content": "$TSLA $TSLL   I hope you got in on this. It should be a fun trade.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986321330070496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-31T14:22:42Z",
+        "content": "THE BLOCK LAYS OFF A THIRD OF STAFFERS AMID LEADERSHIP SHAKEUP- AXIOS\n$SQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918895363807678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-31T13:30:31Z",
+        "content": "HINDENBURG RESEARCH SAYS BLOCK\u2019S RESPONSE CONFIRMED IT HAS REPORTED INFLATED USER COUNTS TO INVESTORS FOR YEARS\n$SQ",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973517656326294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-31T13:14:05Z",
+        "content": "U.S. NATURAL GAS FUTURES EXTEND GAINS, PRICES UP BY 5%\n$BOIL $UNG",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9490633010864258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-30T12:07:10Z",
+        "content": "$TSLA will move above $210 soon and then bounce around inside a box with support near $210 and resistance near $260. That\u2019s a pretty big box to bounce around in and will allow for some really nice swing trades. The best way to play this will continue to be by trading $TSLL because of the lower price and increased leverage.",
+        "sentiment": {
+            "TextBlob": 0.2928571428571428,
+            "NLTK": 0.9468,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9928895235061646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-30T02:31:51Z",
+        "content": "\u26a0\ufe0f  This is not going to end well for $DIS. DeSantis will counter this move and Disney stock will suffer. \nDisney's Florida surprise: an end run around DeSantis By Reuters investing.com/news/stock-ma...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996362924575806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-29T15:40:57Z",
+        "content": "Corporate shake up. $DIS \nDISNEY LAYS OFF IKE PERLMUTTER, CHAIRMAN OF MARVEL ENTERTAINMENT- NYT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7481,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880427122116089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-29T04:04:12Z",
+        "content": "$DIS  Disney reportedly gives metaverse division the axe foxbusiness.com/markets/dis...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995614886283875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-29T04:01:17Z",
+        "content": "$LCID  Lucid to cut 1,300 workers amid signs of flagging demand for its EVs cnbc.com/2023/03/28/lucid-t...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989111423492432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-29T01:19:52Z",
+        "content": "The SPX has now completely reversed higher. Today\u2019s move up through the 10 brick moving average confirms this. The last short term reversal occurred during the second week of February, so it\u2019s been about seven weeks since that last signal. This has been a tough market to trade. \n$SPXU $SPXS",
+        "sentiment": {
+            "TextBlob": -0.023611111111111114,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955572485923767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-28T20:52:27Z",
+        "content": "Gaines and Thomas tie in a swim meet and ESPN decides that the trophy goes to the transgender Thomas. ESPN is owned by $DIS. Understand now?\nRiley Gaines flames ESPN over Lia Thomas walkout response: 'No surprise to me' | Fox Business foxbusiness.com/sports/rile...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957771301269531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-28T18:45:16Z",
+        "content": "$SPXU   We\u2019ll, I got 50% of the premium I went after in just one day so it\u2019s time to cover and move on to the next target.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.972324013710022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-28T15:34:39Z",
+        "content": "I\u2019m not in this (Yet!) but I know a lot of people trading this symbol - $DPST. And they\u2019re trading it because it looks like the fall is over and the government is going to do anything to defend regional banks. So I thought I\u2019d just post this here. It\u2019s the yield and probability of success for strikes 9 days from now. I\u2019ve seen better numbers but, as they say, these number ain\u2019t bad.",
+        "sentiment": {
+            "TextBlob": 0.0333333333333334,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9669267535209656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-28T15:03:58Z",
+        "content": "I don\u2019t have any special knowledge about where the bottom is for $BOIL but when I can go out a couple of weeks and sell near the money puts that return between 10% and 15% on the money that I have to put up, I\u2019ll take that trade every single day.",
+        "sentiment": {
+            "TextBlob": 0.1285714285714286,
+            "NLTK": 0.2144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985707998275757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-27T22:08:55Z",
+        "content": "$SPXU   Sold $15 Puts earlier this morning that expire this Friday for $.55.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992182195186615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-26T20:15:24Z",
+        "content": "$DIS   When Hollywood morphed into Holly\u201dwoke\u201d attendance at movie theaters cratered. And the geniuses can\u2019t figure out why.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991161227226257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-24T22:36:00Z",
+        "content": "@TrusGAMBA   Any of those actions would result in a profitable trade. And since the final stock trades today were almost exactly on my strike price, there\u2019s really no benefit of one strategy over another. Both $16.50 Puts and Calls for next week we\u2019re going for $.90 so it didn\u2019t matter to me which one I would be selling on Monday. I guess it just comes down to preferences and possible strategies. By covering the Call and keeping the shares my only course of action would be to sell the Calls next week (I could always sell the shares next week but that\u2019s what losing the shares already did today). By letting the shares go and going back into cash, I not only have the potential to sell Puts next week, I have the potential to sell Puts in something unrelated. And that opens up so many more possibilities. Tonight I have the entire weekend to research those possibilities and find the best opportunity. I hope that explains my reasoning.",
+        "sentiment": {
+            "TextBlob": 0.11023391812865498,
+            "NLTK": 0.9639,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7283977270126343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-24T20:01:58Z",
+        "content": "$SOXL   It looks like I lost my shares in the last 3 seconds. So I\u2019ll be selling Puts first thing Monday morning. Premium is premium. \ud83d\ude09\ud83d\udc4d\ud83c\udffb",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991487264633179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-24T19:57:34Z",
+        "content": "All of the options that I sold for this week will be expiring worthless once again, except for the $16.50 Calls I sold on $SOXL. This one\u2019s going down to the wire. And with 4 min left it\u2019s headed toward zero. Another successful week trading options.",
+        "sentiment": {
+            "TextBlob": -0.0513888888888889,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996234118938446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-24T11:50:12Z",
+        "content": "Marlboro Maker Exploring Cannabis Products, Caffeine Pouches -- WSJ\n$MO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9147432446479797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-24T11:36:32Z",
+        "content": "@kriscory69 $TGI was a disaster until the market bottomed last October. Since then it\u2019s been working itself higher. Technically it\u2019s in a nice channel and currently it\u2019s at the lower portion of that channel, so it\u2019s a good buying opportunity. The things that bothers me are the future earnings estimates. You may know more than the analysts but this super cycle of doubling earnings may not last longer than this year. At least according to the analysts. So the shares have limited upside. Analysts have a price target of about $13 which is nice. And I think that\u2019s about right. However, if earnings exceed those guesses, and I believe you think they may, the stock could really take off. Aerospace and Defense is always a great area to be invested in. America is a warrior nation and we\u2019ll always support out military. If you\u2019re in these shares I wish you the best.",
+        "sentiment": {
+            "TextBlob": 0.2822128851540616,
+            "NLTK": 0.9898,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9664627909660339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-23T15:41:30Z",
+        "content": "$SPX is back above 4,000",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986367404460907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-23T15:31:22Z",
+        "content": "More layoffs and firings. \n$WMT TO LAY OFF HUNDREDS OF U.S. WORKERS AT FIVE E-COMMERCE FULFILLMENT FACILITIES AS PART OF OPERATIONAL RESTRUCTURING - SPOKESPERSON",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987976551055908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-23T12:35:28Z",
+        "content": "The guy who runs Block used to run Twitter. \nHINDENBURG RESEARCH SAYS \"OUR RESEARCH INDICATES THAT BLOCK HAS WILDLY OVERSTATED GENUINE USER COUNTS AND UNDERSTATED ITS CUSTOMER ACQUISITION COSTS\"\n$SQ",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.7603,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999173104763031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-23T12:32:42Z",
+        "content": "BLOCK INC SINKS 12% PREMARKET AFTER HINDENBURG SHORT\n$SQ",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992457628250122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-23T12:30:37Z",
+        "content": "HINDENBURG RESEARCH SAYS WE ARE SHORT SHARES OF BLOCK INC\n$SQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997847676277161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-22T13:49:17Z",
+        "content": "Rolling out my short strangles on $BOIL a couple of weeks and placing the new bracket at $5/$5.50. We\u2019ll see if that\u2019s where these shares are headed. Nothing exciting here. Just harvesting premium.",
+        "sentiment": {
+            "TextBlob": 0.14545454545454545,
+            "NLTK": -0.1098,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995749592781067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-22T13:03:33Z",
+        "content": "@StockPatternPro posted the chart below showing the $SPX falling fast starting next month. I believe he\u2019s spot on target. Whether you agree with him or not, you can\u2019t ignore his analysis and his incredibly successful track record. Do yourself a favor and follow this guy. Ours trading will improve. And if you\u2019re on Twitter, he\u2019s StockPatternPros. You\u2019ll learn a lot from this guy and you\u2019ll thank me later.",
+        "sentiment": {
+            "TextBlob": 0.19,
+            "NLTK": 0.9349,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980087876319885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-21T20:30:39Z",
+        "content": "Yesterday\u2019s and today\u2019s strong moves higher have completely stopped the downward movement of the three major indexes. While there is still no indication of a reversal, this kind of move is often a precursor to a reversal. Tomorrow\u2019s Fed meeting may push things one way or the other. \n$DJIA $SPX $NDX",
+        "sentiment": {
+            "TextBlob": 0.22013888888888888,
+            "NLTK": -0.024,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918074011802673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dennismccain",
+        "timestamp": "2023-03-21T18:20:02Z",
+        "content": "$F  Ford reveals new Explorer EV for the European market cnbc.com/2023/03/21/ford-ex...",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9540721774101257
+            }
+        },
+        "image_url": ""
+    }
+]

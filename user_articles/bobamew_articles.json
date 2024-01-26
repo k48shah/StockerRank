@@ -1,0 +1,996 @@
+[
+    {
+        "username": "bobamew",
+        "timestamp": "2023-06-15T18:26:34Z",
+        "content": "$UBER always shoots up when I vest, then craters when I am able to sell. that's the life with this stock",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921255707740784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-03-17T19:25:14Z",
+        "content": "$AMD why is this down so much today when market is green?",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996442794799805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-02-28T19:17:26Z",
+        "content": "$UBER rides roaring back + delivery habits enforced + divested most of Yandex in 2021. 2022 seems positive so far Bullish",
+        "sentiment": {
+            "TextBlob": 0.20681818181818182,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9421402812004089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-02-15T18:31:14Z",
+        "content": "@howardlindzon good entry pirce? been thinking of just buying $coin for web3 vs dealing with all the other web3 tokens. I saw before you were just trading this",
+        "sentiment": {
+            "TextBlob": 0.2875,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987908005714417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-01-31T19:28:13Z",
+        "content": "lmao I can't with $TSLA - I rolled my super OTM sold puts over last week to 2023 for safety + net a larger credit while at it and now it rips back to almost ITM to would have expired worthless \ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80 Bullish",
+        "sentiment": {
+            "TextBlob": 0.019047619047619042,
+            "NLTK": 0.8834,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994764924049377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-01-31T18:33:14Z",
+        "content": "@howardlindzon that should be a vote of confidence for $grt.x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919044375419617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-01-25T23:19:13Z",
+        "content": "$MSFT SATYA FOR PRESIDENT WOW Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6739,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861406087875366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-01-24T20:55:51Z",
+        "content": "@howardlindzon intraday changes for $SHOP was so crazy, great flip Howard!",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3724,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991832375526428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2022-01-24T19:23:42Z",
+        "content": "At High IV (very juicy), if you are bullish but don't want to pull the trigger yet, sell $TSLA puts. Roll when >5% ITM. Bullish",
+        "sentiment": {
+            "TextBlob": 0.18,
+            "NLTK": -0.0857,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9589371085166931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-12-17T20:38:01Z",
+        "content": "$UBER had it's best week of rides ever despite covid and wfh environment... Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9895557761192322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-12-03T01:22:13Z",
+        "content": "$DOCU salesforce needs to buy this shit wtf is this drop",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.8793,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993946552276611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-10-13T18:00:23Z",
+        "content": "$UBER acquired drizly so shareholders can get drunk while supporting the company for the share price Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998518168926239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-10-06T17:14:15Z",
+        "content": "$EA why is this falling so hard?",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.3851,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993855953216553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-09-24T18:55:01Z",
+        "content": "$CRM my cost basis for this stock is $19.98. Holding forever. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985565543174744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-09-24T17:58:38Z",
+        "content": "$NKE added more here from my $30 cost basis, nike is a no guidance underpromise and overdeliver during the holidays type of co. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990148544311523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-09-24T17:40:11Z",
+        "content": "$UBER Beautiful recovery since the last drop on earnings. Bullish",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9766421318054199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-09-21T17:05:48Z",
+        "content": "$UBER my company is finally alive holy shit lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.23333333333333336,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980292916297913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-09-07T19:41:50Z",
+        "content": "Been accumulating $CAKE.X throughout the year & just staking it. Bet for BSC DEX paying off so far Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981289505958557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-08-17T17:22:33Z",
+        "content": "$SOFI Unfortunate this was a spac, probably will take the rest of the year to bottom out Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997395873069763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-08-17T17:21:22Z",
+        "content": "thought I wouldn't see $TSLA at $650s again after strong volume back into $700s, short term pain for long term gain? will add some here Bullish",
+        "sentiment": {
+            "TextBlob": 0.09583333333333333,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997479259967804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-08-12T17:15:31Z",
+        "content": "$MU i like to catch falling knifes on semis, usually works out for high demand cyclicals but maybe ive just been lucky for past few years Bullish",
+        "sentiment": {
+            "TextBlob": -0.04133333333333334,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945874214172363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-07-22T17:30:49Z",
+        "content": "$UBER transplace is the largest 4pl, great acquisition for the freight business Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9430012106895447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-07-02T16:17:58Z",
+        "content": "$SOFI short term pain, long term gain Bullish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979333877563477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-07-01T19:51:29Z",
+        "content": "$MU\n go check out 2023 80 leap calls, holy shit that volume, just bought 2 calls Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974664449691772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-06-24T18:48:29Z",
+        "content": "$SOFI sold 5 july 16 $20 puts Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979496598243713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-06-24T18:04:20Z",
+        "content": "$COIN been waiting for an entry, I think today is the day Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990622401237488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-06-01T18:19:41Z",
+        "content": "$SOFI am i reading correctly that the market cap is 2bil? arent they valued at 6bil privately??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.449,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984079003334045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-06-01T18:19:24Z",
+        "content": "$SOFI am i reading correctly that the market cap is 2bil? arent they valued at 6bil privately?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4149,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983134269714355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-05-27T19:51:17Z",
+        "content": "$PLAN what an overreaction, scooped up 100 shares for a trade like what happened with $kmx during their last earning Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990465044975281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-05-14T17:28:32Z",
+        "content": "$DASH makes sense for uber or lyft to pop 22% b/c of anticipated rides business back in H2 but doordash? lol Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961323738098145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-05-10T17:27:31Z",
+        "content": "$TSLA had to roll my puts over otherwise id be on the streets",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977178573608398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-05-03T18:20:22Z",
+        "content": "Last time I bought $PINS was 500 shares at $19, I'm rebuying near this level again Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997458279132843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-05-03T18:17:26Z",
+        "content": "$PINS $70 calls are dirt cheap Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999269425868988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-04-12T18:27:44Z",
+        "content": "$AMD recently learned about AMD's product and I don't see any reason why they don't compare to growth with $NVDA? why is it dropping?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3703,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992589354515076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-03-08T18:27:06Z",
+        "content": "@howardlindzon I used to work for $U, good growth co.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8434579968452454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-02-24T21:32:23Z",
+        "content": "$UBER jesus which chad just bought 1.6 million shares at $53.91 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986405968666077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-02-10T23:46:09Z",
+        "content": "$UBER people forgot this went from 48 to 63 in a week... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993909597396851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-02-10T23:46:09Z",
+        "content": "$UBER people forgot this went from 48 to 63 in a week... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993909597396851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-01-25T18:56:34Z",
+        "content": "$BB Good luck to all let's keep this engagement up <3  BBGANG Bullish",
+        "sentiment": {
+            "TextBlob": 0.85,
+            "NLTK": 0.9062,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7927923202514648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-01-25T18:41:24Z",
+        "content": "$BB Insane volume, BB GANG makes it hard to work Monday morning <3 Bullish",
+        "sentiment": {
+            "TextBlob": -0.09722222222222225,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993897676467896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-01-25T18:37:36Z",
+        "content": "$BB even if this meme stock stops running, their tech in EV is undervalued until that market catches up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934718608856201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-01-25T18:36:31Z",
+        "content": "$BB huge call volume it has to short squeeze again Bullish",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981727600097656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2021-01-25T18:33:50Z",
+        "content": "$BB No brainer breakout this week above $20 load up BB GANG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9215041399002075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2020-06-04T20:08:56Z",
+        "content": "$WORK regardless of how it moves I have fun with this community, love you all Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.834934413433075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2020-06-04T20:03:40Z",
+        "content": "$WORK LONG WORK TO GET ME OUT OF WORK! hehe Bullish",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970992803573608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2020-06-04T20:03:04Z",
+        "content": "$PD LETS GO! SOLIDARITY IN PD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976232647895813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2020-05-05T20:23:16Z",
+        "content": "$PINS where are my other bag holding brothers and sisters \ud83d\ude02 Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992461204528809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2020-04-23T18:52:16Z",
+        "content": "$WORK has been an amazing stock to trade in again for 300 shares Bullish",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.560492753982544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2019-04-17T16:20:04Z",
+        "content": "$VNQ real estate is forever who cares about this short term price action Bullish",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954681396484375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2018-11-07T21:11:11Z",
+        "content": "$TTWO happy i dabbled before closing let's ride this",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.964743435382843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2018-11-01T17:43:27Z",
+        "content": "$META the amount of users FB universe has & retains is amazing Bullish",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7779567241668701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2018-06-21T23:13:29Z",
+        "content": "@KimbleCharting @IBDinvestors what do you think of chart for $SQ  ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957252740859985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2017-10-26T22:11:12Z",
+        "content": "$MULE don't wait around guys, you'll miss the muley express.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997214138507843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2017-10-26T21:20:44Z",
+        "content": "$MULE TO THE MOON",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9778813123703003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2017-10-26T20:20:18Z",
+        "content": "$MULE did they beat?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949291944503784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2017-05-02T20:46:46Z",
+        "content": "$TWLO straight rekt",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969193935394287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2017-01-26T21:16:24Z",
+        "content": "$PYPL guess I'll hold out until tomorrow & listen in on earnings call investor.paypal-corp.com/ev...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895603656768799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2017-01-26T21:10:26Z",
+        "content": "$PYPL why is it selling off on good earnings?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972711205482483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2017-01-26T21:04:25Z",
+        "content": "$PYPL let's do this Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983097314834595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-12-09T19:44:02Z",
+        "content": "$EA how much of ea disk sales are actually from $GME ?",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994640946388245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-12-09T19:30:32Z",
+        "content": "$EA mixed feelings",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800988435745239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-03-17T21:00:07Z",
+        "content": "$ESPR wow this is amazing haha",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.891,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997857213020325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-03-12T18:20:56Z",
+        "content": "$WFC 1 year double top where will it head?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942634701728821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-03-09T18:46:50Z",
+        "content": "$AAPL interesting price action",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9769566655158997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-03-02T19:37:58Z",
+        "content": "$EMES sucks this got dragged down from earnings and the action with oil past half year, I like this company.",
+        "sentiment": {
+            "TextBlob": -0.15444444444444444,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9698197245597839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-02-04T20:54:29Z",
+        "content": "$GILD Be greedy when others are fearful. Bullish",
+        "sentiment": {
+            "TextBlob": -0.9,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961439371109009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-01-28T21:55:42Z",
+        "content": "$QCOM i'm so glad they are going full speed into internet of things rather than relying on mobile",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": 0.5949,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9839158654212952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-01-28T21:38:00Z",
+        "content": "$QCOM what the fuck, this reaction doesn't make sense with company fundamentals",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997990727424622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-01-26T23:20:46Z",
+        "content": "$MSFT excited to see hololens and where windows 10 will take the company this year. Bullish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.892987847328186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-01-26T23:02:22Z",
+        "content": "$MSFT they mentioned 40 billion buy back, so what's the effect?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950829744338989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "bobamew",
+        "timestamp": "2015-01-26T22:55:38Z",
+        "content": "$MSFT she needs to stop crying about fx, japan, and china",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9414423108100891
+            }
+        },
+        "image_url": ""
+    }
+]

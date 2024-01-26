@@ -1,0 +1,4510 @@
+[
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-06-13T14:40:55Z",
+        "content": "$SPY get rekt permabulls. No mercy.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998954176902771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-21T20:44:17Z",
+        "content": "$SPY \n\n432-434 by close tomorrow. 445 and change now. \n\nHappy trading!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6114,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989571571350098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-18T02:42:28Z",
+        "content": "Oil rip 15-20% incoming next 7-10 days. \n\n$USO #CL_F $HUSA $CEI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971966743469238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-17T14:48:56Z",
+        "content": "$CEI what if I told you that 2.2-2.5 is a matter of time. 5-7 days.\n\nCurrent .87.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968383312225342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-17T14:44:01Z",
+        "content": "$SPY what if I told you 409 is a matter of time. 4-5 days? \n\n436.5 current.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977889060974121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-17T14:34:35Z",
+        "content": "$TSLA what if I told you that will see 725 in next 4-5 days here ?\n\nCurrent 850.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986390233039856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-16T14:31:15Z",
+        "content": "$SPY 441 by lunch today ? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886047840118408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-15T14:10:19Z",
+        "content": "$SPY thou shall not dip buy for your own sake intraday.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8567796349525452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-15T01:42:05Z",
+        "content": "$SPY how are BTD ers doing ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5904,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993308782577515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-15T00:17:54Z",
+        "content": "$SPY \n\nQuick question - how is the subscription alert furus doing these days?",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995201826095581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-14T22:55:29Z",
+        "content": "$SPY capitulation in this cycle is close - possibly tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974992871284485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-14T17:23:33Z",
+        "content": "$SPY just brutal tape. \n\nSucking the life out of long's soul minute by minute.",
+        "sentiment": {
+            "TextBlob": -0.4625,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953828454017639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-14T03:37:35Z",
+        "content": "$SPY \n\n407/408 first stop. Should be by Tuesday morning. \n\nCurrent tape #ES_F 4223.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968913197517395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-13T17:18:00Z",
+        "content": "$SPY There are ample opportunities to make a killing on the long side rest of 2022 but you will need to survive the next two weeks of volatility first.\n\nProtect capital. Trades will always be there.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6455162167549133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-13T17:10:28Z",
+        "content": "Tale of two beaten down stocks. \n\n$SQ :. Current 101.  Target short/re-entry 68-69. Timeframe 2-3 weeks out. \n\n$ROKU : Current 103. Target short/ long re-entry 67-69. Timeframe 2-3 weeks out. \n\nJust brutal tape. Relentless and controlled selling - the kind that breaks your morale.",
+        "sentiment": {
+            "TextBlob": -0.08009259259259262,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979898929595947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-13T16:17:45Z",
+        "content": "$PSX \n\nTarget 91/92 in 7-9 trading days.*\n\nCurrent 80.5. \n\n*Potential for a little dip early next week.",
+        "sentiment": {
+            "TextBlob": -0.017499999999999998,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9613286852836609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-13T14:47:12Z",
+        "content": "$CEI \n\nCurrent .91. \n\nTarget 1.75 next week on break of 1.53.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880874156951904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-12T16:38:16Z",
+        "content": "$SPY did it ever occur to you all that we won't be there in this current market mess if feds didn't do unlimited QE and printing job for last two years. \n\nThis current state was inevitable. Nothing is free. You have to always pay the price. It's just a state of equilibrium. \n\n$NDX $IWM",
+        "sentiment": {
+            "TextBlob": 0.037500000000000006,
+            "NLTK": -0.681,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995743632316589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-11T22:48:16Z",
+        "content": "$BABA 65/68 anyone before EOM March?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963531494140625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-11T21:51:08Z",
+        "content": "$SPY Hit 432 pre market today.\n\nAnd now - buckle up! Seat belt on please !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4374,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9547404050827026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-11T21:47:54Z",
+        "content": "$RTY 1917 Monday /Tuesday morning.\n\n198 current close. \n\n$IWM \n\nLevels on $SPY 406-408. 420.4 current close.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957118034362793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-11T21:44:13Z",
+        "content": "$AMC \n\n11.75 early next week. \n\n14.3 current close.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9110762476921082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-10T04:09:21Z",
+        "content": "$SPY \n\nbad/good CPI data = 433/434 by late morning.\n\nI mean it will be bad.",
+        "sentiment": {
+            "TextBlob": -0.4375,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997935891151428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-09T21:01:46Z",
+        "content": "$LCID 27/27.3 by tomorrow afternoon. \n\nCurrent close 25.25.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853050112724304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-09T21:00:37Z",
+        "content": "$TSLA 885-890 first hour tomorrow morning. \n\nCurrent close 858.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9544113874435425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-09T20:35:57Z",
+        "content": "$SPY \n\n430 delivery from alert at market close @ 415 yesterday. \n\nI will ask again - what's in your wallet ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964097142219543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-09T17:44:54Z",
+        "content": "$SPY what if I told you that the bullish action from this morning through probably late morning tomorrow is the biggest bull trap of the year ? \n\nYou will find out by mid-next week.",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988837838172913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-09T17:40:01Z",
+        "content": "$SPY \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806523323059082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-09T16:14:57Z",
+        "content": "$SPY shorting the top ? \n\nWell the top will keep getting higher today. \n\nAlso, whoever thought selling 430 calls for today exp was free money. \n\nReality check incoming.",
+        "sentiment": {
+            "TextBlob": 0.4125,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968420267105103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-08T23:51:32Z",
+        "content": "$SPY 430/432 anyone ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996560275554657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-08T21:33:30Z",
+        "content": "$SPY $NDX This is a bullish close. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955847859382629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-08T21:29:45Z",
+        "content": "$SPY how is dip buying coming along ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988330006599426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-08T16:49:40Z",
+        "content": "$SHOP \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9612377882003784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-08T06:19:48Z",
+        "content": "$SPY Lot of complaining and whining going on here now that free money by BTD has dried up. \n\nSpeaking of which, one exit pump is left this week. Some will exit but a lot more will double down on BTD. \n\nAnd the cycle of complaining will continue..",
+        "sentiment": {
+            "TextBlob": 0.09074074074074073,
+            "NLTK": -0.8613,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996084570884705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-07T21:25:23Z",
+        "content": "$SPY how are BTD'ers holding up ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993322491645813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-04T04:54:14Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-04T01:11:55Z",
+        "content": "$TSLA so no 900 tomorrow then ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986023306846619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-02T15:28:16Z",
+        "content": "$SPY Make it rain !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9361855983734131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-03-02T13:24:45Z",
+        "content": "$TSLA 780 give or take by tomorrow morning.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9392111897468567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-28T00:32:44Z",
+        "content": "$SPY over/under 417 is the real question for tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9454278349876404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-26T23:30:08Z",
+        "content": "$SPY one last plunge before pending V in the stock market for next month. \n\nPlunge could be as early as Monday-Wednesday.\n\n413-416 retouch is probable but 400 is a likely bear bait now. \n\nTread carefully.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899144172668457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-25T19:11:54Z",
+        "content": "$NVDA \n\nNow down 5 bucks from my post at 240 29 mins ago,\n\nSo over/under 232 close? \n\nI will ask again what's in your wallet ?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988842606544495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-25T19:00:18Z",
+        "content": "$NVDA down 3 bucks from 240 at post to 237 now. \n\nWhat do we think now ? \n\nYes or no?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.2168,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986085295677185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-25T18:42:40Z",
+        "content": "$NVDA \n\nOver/under 232 close today ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992121458053589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-25T02:35:27Z",
+        "content": "Oil stocks:\n\n$MRO $PSX $RIO buy the gap down Monday the 28th Feb. \n\nThese would be 2-3 week swing on long side.",
+        "sentiment": {
+            "TextBlob": -0.1027777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910325407981873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-25T01:21:29Z",
+        "content": "$TSLA huge gap down Monday looming if it closes below 755 tomorrow. \n\nI think it will. \n\nWill follow-up at close tom. Current close 801. \n\n$SPY",
+        "sentiment": {
+            "TextBlob": 0.0814814814814815,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964812994003296
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-25T00:05:11Z",
+        "content": "$CYTK\n\n When all is said and done, this will be worth $180-200 . It's a long road though. \n\nCurrent $33.5.",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880707263946533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T23:37:57Z",
+        "content": "$SPY phase 3 in progress.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862738251686096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T22:26:58Z",
+        "content": "For folks looking for long entries, these are the levels I am targeting. \n\n$TSLA target entry 640-650. Current 801\n\n$NVDA target entry 195-198. Current 237.\n\n$AMD target entry 95-97. Current 117. \n\nHappy trading.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.854498028755188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T19:41:11Z",
+        "content": "$SPY \n\n414 this morning. \n\n423 now. Heading towards 427..\n\nIt's all happening folks. \n\n$NDX #ES_F $IWM $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891316890716553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T19:11:50Z",
+        "content": "#ES_F current 4200. 60-70 more to go upside 3h left. \n\nDoable ? \n\nStay tuned. \n\n$SPY $NDX $IWM",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990065693855286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T13:19:05Z",
+        "content": "$APPS 38 current",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5779609084129333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T13:18:12Z",
+        "content": "$SHOP \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9612377882003784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T13:16:59Z",
+        "content": "$BABA So long 100's..",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995482325553894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T12:57:53Z",
+        "content": "From 5 days ago. \n\n$SPY was 435. 411 current.\n$TSLA was 858. 700 current.\n$MSFT was 289. 269 current.\n$AAPL was 169. 153 current.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927473664283752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T12:38:26Z",
+        "content": "$SPY this question from 5 days ago: \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943251013755798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T04:08:52Z",
+        "content": "#ES_F timeframe for a squeeze to 4270 (if there is one) is in next 16h and the window is getting tight. It better be soon. \n\n$SPY $NDX $IWM $QQQ \n\nFirst target of 4160 reached from 4340 hit just now.",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968801736831665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T03:23:06Z",
+        "content": "$APPS so tomorrow it is..\n\nAs easy as they come..",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8802285194396973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T03:09:52Z",
+        "content": "#ES_F 4160 delivery from 4340. $SPY \n\nMake it rain. \n\nFirst target reached from 4340 posted 3 days ago.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976550340652466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T03:06:27Z",
+        "content": "$SPY beatdown will continue until folks learn or go bankrupt. \n\nReal time lesson in market.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907667636871338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T03:01:34Z",
+        "content": "$SPY raise your hand degenerate call gamblers. \n\nDon't be shy.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.6046,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8741940855979919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-24T00:00:59Z",
+        "content": "$SPY while we are closing in on the best BTD levels for the year (few days out), the retail in general has turned ultra bearish. \n\nPatience and conviction.",
+        "sentiment": {
+            "TextBlob": 0.2833333333333334,
+            "NLTK": 0.0943,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8909886479377747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-23T23:51:49Z",
+        "content": "$SPY likely reversal intraday/daily at 4168 #ES_F only for the floor to give out few days out. \n$QQQ $NDX $IWM",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984814524650574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-23T21:21:13Z",
+        "content": "$SPY I think some didn't learn today and bought the day close. More beatdown to start the day tomorrow. \n\nBeatdown will continue until BTDers learn. You will one way or the other.",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5804986953735352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-23T18:33:07Z",
+        "content": "$SPY so trading is not fun when every BTD is not free money ?",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.8495,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999618411064148
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-23T05:40:32Z",
+        "content": "$SPY more beatdown tomorrow to boost the morale here. \n\nUntil folks realize that every BTD is not free money. Many have and many more will this week..",
+        "sentiment": {
+            "TextBlob": 0.36,
+            "NLTK": -0.5907,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9655749201774597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-22T21:08:27Z",
+        "content": "$SHOP 550 give or take 1-2 days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874078035354614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-22T20:39:22Z",
+        "content": "$SHOP this will get 6-8% cheaper tomorrow. \n\nAnd even cheaper by Friday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779152870178223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-22T17:13:13Z",
+        "content": "$SHOP The hole that keeps getting deeper. \n\nFolks looking to buy \"cheap\" shares are finding that  it gets way cheaper the next day..\n\nAnd so on ....",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956340193748474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-22T01:28:08Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-21T17:19:03Z",
+        "content": "$SPY food for thought. \n\nGood traders will always blame themselves for a trade gone wrong. \n\n\"Not\" good traders will blame everyone - except themselves- for a trade gone wrong. \n\n*This is true for life as well. It's all about the choices we make.",
+        "sentiment": {
+            "TextBlob": -0.06000000000000001,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9950006604194641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-21T13:32:13Z",
+        "content": "$SPY lot of folks realizing that trading is not that easy when every dip is not a BTD opportunity. \n\nSometimes, beatdown is required to restore practicality and wisdom.\n\nAnd, it's okay.",
+        "sentiment": {
+            "TextBlob": 0.4666666666666667,
+            "NLTK": 0.7058,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.997376561164856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-21T12:18:36Z",
+        "content": "$APPS 36-38 sooner than later.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.93012535572052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-21T10:34:36Z",
+        "content": "$SPY likely price action next 6-9 trading days. \n\n434-416-427-400.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977066516876221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-21T10:25:43Z",
+        "content": "$SPY 417 is the magnet early this week.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.588488757610321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-21T01:50:21Z",
+        "content": "$SPY \n\nSo 400 in: \n\n1. Feb \n\n2. By mid-March ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973940849304199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-18T21:36:11Z",
+        "content": "Last domino's to fall: \n\n$SPY 395\n$TSLA 660-680\n$AAPL 135-140\n$MSFT 240\n\nAnd then we can talk about value in the market.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9027975797653198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-18T20:34:26Z",
+        "content": "The current mood $SPY $NDX $TSLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933981895446777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-18T16:02:20Z",
+        "content": "$ROKU 80% haircut in last 6 months. \n\nA hole that keeps on getting bigger.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975135326385498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-15T15:28:47Z",
+        "content": "$AMC 23.5+ likely close.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9617431163787842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-14T21:18:53Z",
+        "content": "$AMC every Joe here is adding 5-10 shares on dip in a 500M outstanding shares market. \n\nAnd they think they can fight the hedgies. I mean it's beyond.....",
+        "sentiment": {
+            "TextBlob": 0.09375,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5390393733978271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-14T21:08:13Z",
+        "content": "$AMC another maths question: \n\nIf this drops a buck everyday, how long before it goes to 0?\n\n18?\n\nWell technically the trading would need to be halted halfway through 18th day because it will already be 0.\n\nAgree?",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.6298,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991000890731812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-14T18:07:01Z",
+        "content": "$AMC quick maths question : \n\nIf this drops 50 cents every 30 mins, how many hours before it goes to 0 ? \n\n18?",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991544485092163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-10T16:25:46Z",
+        "content": "Friendly suggestion: \n\nDon't short. Stay long till Monday morning. \n\n472 is the magic number. \n\n#ES_F $NDX $IWM",
+        "sentiment": {
+            "TextBlob": 0.20625,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9511780142784119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-10T15:47:52Z",
+        "content": "$SPY it's not hard. Trust me.",
+        "sentiment": {
+            "TextBlob": 0.14583333333333334,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994268417358398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-10T13:52:29Z",
+        "content": "$SPY 472 target early next week on track.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9552474617958069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-10T03:04:57Z",
+        "content": "$SPY over/under for 472 touch coming Monday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889657497406006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T21:17:52Z",
+        "content": "$BBBYQ maths says 22-23 in 4-6 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996229350566864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T21:11:07Z",
+        "content": "$AMC was at 13.95 at post on Jan 29th. \n\n18.92 current. Liked the math? Stay tuned to find out more. \n\n\ud83d\udc40\ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9712282419204712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T21:06:03Z",
+        "content": "$AMC 23 tomorrow \n\nCurrent close 18.92.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9355242252349854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T18:15:18Z",
+        "content": "$SPY tik tok ...\n\n$NDX $IWM $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986580610275269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T18:05:39Z",
+        "content": "$AMC delivery..\n\nNow let's see 20.4 close today. \n\nWill update..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9583688378334045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T16:32:39Z",
+        "content": "$AMC 18.3 current \n\nTarget 20.4 in 90-120 mins.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9689939618110657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T15:39:33Z",
+        "content": "$TSLA 1110 in 5-7 trading days .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877632260322571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T04:41:23Z",
+        "content": "$AMC $BB $BBBYQ \n\nThese are great to trade on weekly pops.\n\nBut do you have a plan for profit taking on such moves? \n\nOr you just wait for 100-200? I am just asking because this could be a very very long wait. Possibly to never materialize ..\n\nTake profits and move the chains. Profits compounds! Longer the wait, the more you get married to a stock.",
+        "sentiment": {
+            "TextBlob": 0.24750000000000003,
+            "NLTK": 0.9408,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990260601043701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T04:36:34Z",
+        "content": "$AMC home calling for 18.5-19 tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909411072731018
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-09T04:34:08Z",
+        "content": "$TAP tappin' all the way to 53.5/54 by Feb end. \n\n48.3 current.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900328516960144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-08T21:12:02Z",
+        "content": "$AMC \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9789555072784424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-08T17:41:48Z",
+        "content": "$SPY \n\nUpdated target 480.\n\nGive or take 8-12 trading days. \n\n$QQQ $NDX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967668056488037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-08T16:57:42Z",
+        "content": "$IWM huge upside next 5-6 trading days. \n\n8-10%",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9882892370223999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-08T13:32:33Z",
+        "content": "$SPY probable 439-440 tag mid day. \n\n$NDX #ES_F $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960732460021973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-08T13:27:55Z",
+        "content": "$META a hole can and will get bigger. \n\nLook out for 206-207 tag mid day.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9531133770942688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-05T17:34:29Z",
+        "content": "$SPY Closed the weekly at exactly 448. \n\nWeekly open tomorrow would be telling but a retouch of 4240/4280 is needed for short term V end of Feb.",
+        "sentiment": {
+            "TextBlob": 0.0375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905709028244019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-04T21:19:45Z",
+        "content": "$TSLA just a matter of time.\n\nBy mid month...\n\nBTMFD level.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998349666595459
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-04T17:56:41Z",
+        "content": "$SPY careful on the long side past 1.10PM EST today.",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910041093826294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-04T17:02:46Z",
+        "content": "$SPY Close below 442 level today will likely bring 420 in a week or less. \n\nClose above 447 invalidates it. \n\nWill update at close. \n\n$NDX $IWM $QQQ #ES_F",
+        "sentiment": {
+            "TextBlob": -0.05555555555555555,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994733929634094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-04T13:58:38Z",
+        "content": "$SPY it's not a drill soldier !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996544122695923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-03T20:28:56Z",
+        "content": "$TSLA 680-700 target buy midmonth intact.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9911182522773743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-03T20:18:26Z",
+        "content": "$SPY it's strictly not a BTD situation.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.476,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967453479766846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-03T19:02:50Z",
+        "content": "$SPY $NDX $QQQ $IWM\n\nMajor rug pull at work here. Careful tomorrow through opex.",
+        "sentiment": {
+            "TextBlob": -0.018750000000000003,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949007034301758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-03T14:34:15Z",
+        "content": "$TSLA 830-825",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9823657870292664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-02-01T18:48:48Z",
+        "content": "$GOOGL maths says 2480-2500* this week. \n\n2740 current. \n\n*Not insinuating a trade based off this.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990285634994507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-31T03:32:51Z",
+        "content": "#ES_F short 4370 level (current) setting up right here....\n\n$SPY",
+        "sentiment": {
+            "TextBlob": 0.09523809523809523,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978572726249695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-31T01:41:58Z",
+        "content": "$BTC $BTC.X \n\nFrom alert 10h ago:\n\nDown 3% and counting..",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987354874610901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-31T01:12:37Z",
+        "content": "$SPY #ES_F \n\nYou can tell it's really illiquid when a small tic size get the price soaring in one direction .",
+        "sentiment": {
+            "TextBlob": -0.024999999999999994,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901157021522522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-30T19:38:02Z",
+        "content": "My all in long levels if plays out as planned. \n\n$TSLA 660-680\n$MARA 14-15\n$AMD 86-89\n$SPY 400-405",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984904527664185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-30T19:34:22Z",
+        "content": "$BTC.X $BTC #BTC \n\n31240 has a real shot here by Tuesday morning. \n\n20-23% from alert this morning if plays out.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889096617698669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-30T19:12:12Z",
+        "content": "$BTC $BTC.X last chance",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992150068283081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-30T15:07:49Z",
+        "content": "$BTC $BTC.X \n\nOn watch for 10-15% dump next 36h. \n\n38000 current.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984322190284729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-29T18:11:31Z",
+        "content": "$GOTU $EDU $BABA $BIDU \n\nNearing the buy point I have been waiting for months now. \n\nEntry Monday close (expecting some beatdown Monday) or Tuesday. It's a long hold (1-3 months) but will pay big, especially EDU and GOTU. \n\n400-600% profits - maths says - on GOTU and EDU.",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.5023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6061700582504272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-29T18:03:11Z",
+        "content": "$SPY if waterfall don't ensue on Sunday night /Monday to 424/426 level, we likely see 452/454 before heading down.\n\nAt critical point here. \n\n$NDX $IWM $VIX $QQQ",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970303773880005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-29T17:46:13Z",
+        "content": "$BTC $BTC.X careful here. \n\n32000/33000 likely touch next 5-6 trading days. \n\nCurrent 37800.",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801299571990967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-28T20:48:26Z",
+        "content": "$SPY don't get me wrong, it's still super bearish heading into next week. \n\nWeekly levels were 424 and 444. We were close to 424 but last 30 mins did a complete flip. \n\nThis is how trading goes. Improvisation.",
+        "sentiment": {
+            "TextBlob": -0.013333333333333336,
+            "NLTK": 0.4985,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8819107413291931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-28T20:38:54Z",
+        "content": "$SPY reversed on weekly . 444 likely close.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947168231010437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-28T14:56:49Z",
+        "content": "$TSLA 755 today and 680 Monday! \n\nBlockbuster trade!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6688,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8605064749717712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-28T04:13:59Z",
+        "content": "$AMC quick maths question: \n\nSo at the current rate of drop ( 86 cents/d over 25 days) , how many days will it take for it to go to 0? \n\nI count 17 days.\n\nWhat do you guys think ? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.27777777777777773,
+            "NLTK": -0.6199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984726309776306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-28T00:33:09Z",
+        "content": "$TSLA preparing 680 landing pad.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8467147350311279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T22:06:39Z",
+        "content": "$AAPL \n\nCurrent 167. \n\nLikely Target 153-155. 3-5 days or less.",
+        "sentiment": {
+            "TextBlob": -0.05555555555555555,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949367046356201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T21:28:18Z",
+        "content": "$SPY 90% probability of tape hitting 405 by Monday morning *\n\n*90% because nothing is 100% certain in life.",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": -0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987573623657227
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T21:25:32Z",
+        "content": "$TSLA \n\nFrom 870 entry alert day before yesterday touched 980 to the penny yesterday. \n\n830 today. Target was 780 but it's headed for 690/700. \n\n$SPY $NDX $IWM $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968969821929932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T21:09:08Z",
+        "content": "$TSLA sorry folks. \n\nI feel the pain.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999550998210907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T18:44:31Z",
+        "content": "Any takers ? $SPY \n\nStill 166 mins left in the tape for today.\n\n$IWM $QQQ $NDX $VXX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998666524887085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T06:07:07Z",
+        "content": "$SHOP 680-700 inbound in 3-5 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9733803868293762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T02:02:10Z",
+        "content": "$SPY how about I ask this again.\n\n\"Over/under for 420 touch tomorrow.\"\n\n$NDX $QQQ $IWM $VXX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959623217582703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-27T01:08:23Z",
+        "content": "$SPY $TSLA it will be a long night for longs.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929064512252808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T23:50:35Z",
+        "content": "$SPY $NDX $IWM $QQQ $VIX \n\nTrap set!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972673654556274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T23:42:26Z",
+        "content": "$SPY over/under 420 touch tomorrow ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902545809745789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T21:14:42Z",
+        "content": "$TSLA \n\n980 to the penny high today. \n\nNow onto 760/780. #truth $SPY $NDX",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931406378746033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T21:09:34Z",
+        "content": "$SPY \n\nAnd now for downside target: \n\n395/400 in 3-5 trading days. Current close 433.4\n \n\n$NDX $QQQ $IWM $VIX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983358979225159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T17:43:26Z",
+        "content": "$MGNI decent short to 8.85 next two weeks. Current 13.06. \n\n7-8 level is good investment entry level.",
+        "sentiment": {
+            "TextBlob": 0.1733333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995415210723877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T17:29:12Z",
+        "content": "$USO #CL_F $HAL $XOM $OXY \n\n.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963567852973938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T16:45:42Z",
+        "content": "$SPY $NDX $TSLA $AAPL $QQQ \n\nThe most suffocating bull trap of the year is setting up today as market will ramp up till close. \n\nProceed with caution. Can't emphasize this enough.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3744,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946095943450928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T15:36:23Z",
+        "content": "$NDX watch next 2-3 h for 2% rip from here. \n\n#NQ_F #ES_F \n\nAll tech stocks on watch \n\n$TSLA $SHOP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958332777023315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T15:28:36Z",
+        "content": "$SPY outside chance of 448/449 touch today towards the close of day. \n\nYou may want to dump all your longs for a week there. \n\n#ES_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998939573764801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-26T06:06:52Z",
+        "content": "$NDX tech likely to explode to the upside tomorrow ~ 2.5-3% pop day.\n\n$AAPL $AMZN $GOOG $TSLA \n\nMagic number on NQ is 14800.*\n\n*MM's are going to pull the biggest rug pull of the year at that level. Caution!",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8621841669082642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T19:43:28Z",
+        "content": "$TSLA tik tok..\n\n$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962010979652405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T19:21:12Z",
+        "content": "$SHOP on its way ! \n\n$SPY $QQQ $IWM $NDX\n\nFrom 851 this morning to 905 current. This is too easy.",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996320009231567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T19:17:30Z",
+        "content": "$SPY 437 current. \n\nTarget was 444 tomorrow morning from 427 this morning. \n$NDX $QQQ $IWM $VIX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937030673027039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T16:14:43Z",
+        "content": "$SPY need above 436.8 in 75 mins otherwise death.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985325336456299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T15:17:34Z",
+        "content": "$SHOP path to 1000 by Wednesday morning. \n\n851 current.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.83929044008255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T15:14:07Z",
+        "content": "$SPY maths says 444/446 by tomorrow morning but this is awfully close to dying. Caution !\n\nCurrent 427.6\n\n$NDX $IWM $QQQ #ES_F",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996185302734375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T03:07:28Z",
+        "content": "$TSLA 760-780 level would shape up to be a great investment point if you are looking for one. \n\nTarget 1500-1600 mid summer (double)",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9649468064308167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T02:30:12Z",
+        "content": "$NET I will get interested here at 70 early next month. \n\n93 now.",
+        "sentiment": {
+            "TextBlob": 0.0875,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7956407070159912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T02:03:37Z",
+        "content": "$BBIG $AMC $BB how are fellow baggies doing ? \n\nHang in there. Life will get more painful next two weeks before it gets better.",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": -0.0754,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999129593372345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T01:35:09Z",
+        "content": "$TSLA\n\nUpside to 980 mid-week. Thursday morning pop wick could be 1030-1050...\n\nBut 760-780 inbound in two weeks or less from now. \n\n*Currently long since 870 this morning to 960/970 tomorrow.",
+        "sentiment": {
+            "TextBlob": -0.10833333333333334,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918022751808167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T00:58:05Z",
+        "content": "$TSLA if your trades are based off earnings, your horse is in the wrong race.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990904331207275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-25T00:47:51Z",
+        "content": "$SPY don't think we get to 455/456 mid week. Early morning damage puts it at 450/452. \n\nCareful ar that level...\nFloor is going to give out big-time in matter of 3-4 days from there. \n\n$NDX #ES_F $QQQ $IWM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984619617462158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-24T21:09:22Z",
+        "content": "$SPY $VIX I am the volatility king. \n\nAny questions ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927451014518738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-24T20:25:52Z",
+        "content": "$SPY tik tok..\n\n$NDX $IWM $QQQ #ES_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984519481658936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-24T20:24:07Z",
+        "content": "$DOCU 121.2-121.5 probable close today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844284057617188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-24T20:21:03Z",
+        "content": "$DOCU 119 current. Target 128 tomorrow afternoon.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5429433584213257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-24T18:12:25Z",
+        "content": "$BBIG welcome new bag holders!",
+        "sentiment": {
+            "TextBlob": 0.48522727272727273,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979414343833923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-24T16:08:30Z",
+        "content": "$SPY Maths says 436/437 close today! \n\n$NDX $IWM $QQQ #ES_F \n\nNot insinuating any trades based off this.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993129968643188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-24T14:21:40Z",
+        "content": "$TSLA my trade will close after open today. 880-890 level \n\nBlockbuster trade.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881666302680969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-23T21:50:41Z",
+        "content": "$MARA any takers for 13-14 by Feb 10-15?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973311424255371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-23T19:21:04Z",
+        "content": "$TSLA yes sir ! \n\nMoney money everywhere...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9685373902320862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-22T18:14:16Z",
+        "content": "$BTC $BTC.X \n\nOver under 25000 by Feb 15. \n\nPlace your bets.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920758008956909
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-22T00:28:41Z",
+        "content": "$SPY biggest bull trap of the year setting up at 456-457 level next week. \n\nYou survive that and next 2 weeks and you will be fine for the year. \n\nBuckle up!\n\n$NDX $VIX $QQQ $IWM",
+        "sentiment": {
+            "TextBlob": 0.17361111111111113,
+            "NLTK": -0.2003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9785386919975281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-21T16:41:02Z",
+        "content": "$SPY 440 delivery this morning. \n\nCareful on short side. 455/456 weekly close very likely. \n\n$QQQ $NDX",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925469756126404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-21T04:32:33Z",
+        "content": "$BTC.X $BTC \ud83c\udfaf",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920560717582703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-20T22:42:12Z",
+        "content": "$SPY $NDX $QQQ $IWM \n\nLoved the trap today ? \n\nIf you loved it today - then you will fall in love with it tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.6333333333333333,
+            "NLTK": 0.9013,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968543648719788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-20T02:46:48Z",
+        "content": "$SPY $NDX $IWM $QQQ \nA hole can get a lot bigger. Beware the trap tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979273080825806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-20T02:42:16Z",
+        "content": "$SPY 452 is not going to hold for the month. \n\nLot lower - 436/438 likely reversal zone for Jan. Some bounce first next 36h\n$NDX $QQQ $IWM .",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998816728591919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-18T22:03:46Z",
+        "content": "$SPY A day late but here it is : 356 delivery. \n\n$NDX $VXX $QQQ $IWM",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969438910484314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-16T18:00:42Z",
+        "content": "$HUT mega potential here next 6 months\n \nWill update when set up is right.",
+        "sentiment": {
+            "TextBlob": 0.09523809523809523,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8209453821182251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-16T18:00:04Z",
+        "content": "$VTNR 7.5/8 in 2/3 weeks. \n\nCurrent 5.12.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895941019058228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-16T16:46:34Z",
+        "content": "$BYND \n\nCurrent 66.7\n\nTarget 78/80 in next 3-4 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994641900062561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-16T16:40:48Z",
+        "content": "$NVAX I am a buyer here. 50% upside to 160-170 next 2-4 weeks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961782693862915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-16T16:36:18Z",
+        "content": "$CPIX will update based on next week close. \n\nMassive potential here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9771600365638733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-15T16:40:16Z",
+        "content": "Investment idea: $DVAX \n\nCurrent: 13.53. \n\nTarget: 22/23 \n\nTimeframe: 4-7 weeks. Monthly close will help refine this better. \n\nHappy trading!",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8622,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9913992881774902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-15T02:40:11Z",
+        "content": "$RIO \n\nCurrent 75.XX. Buy point 73-74.\n\nTarget 85/87. 2-3 weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9333305358886719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T22:48:44Z",
+        "content": "$RELI 20/21 next. \n\nSet up is there. If plays out it could be next week. Otherwise Feb it is. \n\nCurrent 8.83.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994202196598053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T22:47:25Z",
+        "content": "$PARA 39/40 next 4-6 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934006929397583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T22:47:07Z",
+        "content": "$TSRI 17/18 next 4-6 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939663410186768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T22:46:49Z",
+        "content": "$CAH 56/57 next 3-6 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936423301696777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T22:46:26Z",
+        "content": "$BA 243/257 next 4-6 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961835741996765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T18:29:02Z",
+        "content": "$TSRI \n\nCurrent 11.4\nTarget 17-18 \nTimeframe 1-3 weeks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838481545448303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T02:20:12Z",
+        "content": "#ES_F -.23% in. -.77% more to go. \n\n$SPY $NDX #NQ_F $QQQ",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951319694519043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T01:30:19Z",
+        "content": "#ES_F hide your puppies for next 4-5 hours. It will get brutal here. \n\n$SPY",
+        "sentiment": {
+            "TextBlob": -0.4375,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974696636199951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T01:28:09Z",
+        "content": "#ES_F \n\n4614 is a matter of time. 4-6 hours from now. 1% beatdown. \n\n$SPY #NQ_F $NDX $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967319965362549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-14T01:24:28Z",
+        "content": "$SPY $NDX $IWM $QQQ $VXX \n\n456 give or take is the level to break. It's a BTMFD in any case tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949306845664978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-13T22:15:13Z",
+        "content": "$BBIG 2.8 probable weekly close tomorrow! \n\nBTMFD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99006187915802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-13T22:04:41Z",
+        "content": "$BBIG probable weekly close tomorrow. \n\nBTMFD!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935234785079956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-13T21:28:32Z",
+        "content": "$SPY $NDX #NQ_F $IWM $QQQ \n\nIt's BTMFD tomorrow! \n\nBut dip would be deeper tomorrow.. so patience.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959917664527893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-13T20:43:53Z",
+        "content": "$SPY $NDX $QQQ $VIX $IWM \n\ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960152506828308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-13T20:42:47Z",
+        "content": "$TSLA any takers ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949729442596436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-12T13:58:06Z",
+        "content": "$PHUN 3.7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8234530687332153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-12T13:26:17Z",
+        "content": "$DWAC 70 is a matter of time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947563409805298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-12T05:22:56Z",
+        "content": "$SPY #ES_F #NQ_F $VIX $IWM \n\nIf market doesn't poop Thursday all way till Monday morning, the upward grind can continue for couple weeks. \n\nBut this beatdown is not over. One more shake down Thursday /Friday morning. \n\n450-452 $SPY",
+        "sentiment": {
+            "TextBlob": 0.17222222222222222,
+            "NLTK": -0.359,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9754021763801575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-12T05:19:23Z",
+        "content": "$TSLA loading 920 landing pad.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834787845611572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-12T04:52:23Z",
+        "content": "$OXY target delivery in two days (a day late).",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947121143341064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-12T04:51:12Z",
+        "content": "$VET 15 delivery from 13 in 5 days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9652508497238159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-12T04:50:16Z",
+        "content": "$BCRX 17.5 delivery in 7 days from 13.5.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872521162033081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-08T18:32:13Z",
+        "content": "$BTC.X $BTC \n\nA hole can and will get bigger.\n\n37500/38000 imminent here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936362504959106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-08T14:58:57Z",
+        "content": "All this in a week! Oil boom indeed! \n\nAll this in a week. Oil boom indeed!\n\n$OXY 15% pop\n$XOM 12% pop\n$EOG 10% pop\n \n\n$USO $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9551482796669006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-08T14:51:35Z",
+        "content": "$BTC $BTC.X \n\nA week late but it's here.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9815829396247864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-06T22:56:56Z",
+        "content": "$AMC took couple weeks but here we are ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6766127943992615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-06T21:13:46Z",
+        "content": "$OXY My bad. This target was for $OXY and not $XOM. \n\nYou can tell I have traded multiple oil stocks (multiple times) this week..",
+        "sentiment": {
+            "TextBlob": -0.23333333333333328,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988775849342346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-06T21:02:11Z",
+        "content": "$XOM 34.4-34.7 by Monday morning. \n\nCurrent 32.78. \n\nHappy trading",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995097815990448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-06T16:58:13Z",
+        "content": "$VET \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9730671048164368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-06T16:13:22Z",
+        "content": "$ENSC current 4.55.\n\nTarget 8.5/9 in 5-7 days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98322993516922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-06T14:46:56Z",
+        "content": "$USO $OXY $CVX $XOM #CL_F \n\nCan  you feel it Mr. Anderson ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9518041610717773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-05T17:38:41Z",
+        "content": "$IINN matter of few hours now. It's coming.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9919012188911438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-05T17:12:21Z",
+        "content": "$WDC 6% here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880834221839905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-04T13:48:47Z",
+        "content": "$OXY 9% pop already since last Friday close. \n\n3% pop for $CVX and $EOG.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965307116508484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-04T02:44:09Z",
+        "content": "$SEAC swing trade. \n\nTarget 2.4-2.5 on weekly.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851915836334229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-04T02:43:36Z",
+        "content": "$NTRB 13 next mid week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916144609451294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-03T18:15:58Z",
+        "content": "$IINN \n\n6.6/7 is a matter of time. 2-3 days. \n\n4.05 current.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993536114692688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-03T18:14:53Z",
+        "content": "$VET current 13.00. \n\nTarget 14.6/14.9 in 5-6 trading days or less. \n\nHappy trading !",
+        "sentiment": {
+            "TextBlob": 0.2777777777777778,
+            "NLTK": 0.5717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989601373672485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-03T17:32:20Z",
+        "content": "$AVCTQ 3.5 is a matter of time. \n\n2-3 days. \n\nCurrent 2.46.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994139552116394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-02T15:20:45Z",
+        "content": "Investment idea: $NOK \n\nEntry 6.1-6.15. current 6.23.\n\nTarget 7.75-8 in 6-7 weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800667762756348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-02T15:19:22Z",
+        "content": "Investment idea: $WDC \n\nEntry 63.5-64.\n\nTarget 75 in 4-5 weeks. Current 65 and change.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9711998105049133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2022-01-02T15:17:41Z",
+        "content": "Investment idea: \n\n$BCRX entry 13.5-13.6. \n\nTarget 17.5-18 in 3-5 weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9719608426094055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-31T18:31:51Z",
+        "content": "$IINN 3.7-3.8 entry before close for a run to 6.5-7 conservative mid next week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970980882644653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-29T20:45:03Z",
+        "content": "$USO $OXY $EOG $CVX #CL_F  15-20% upside next 4-6 weeks. \n\nOil boom !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9757369756698608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T21:16:02Z",
+        "content": "$SPY $NDX more beating is required to boost the morale around here. \n\nI'll be back tomorrow again.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.1513,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9197268486022949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T21:14:12Z",
+        "content": "$USO $XOM $CVX $SPY $NDX how about 5% haircut in a day accounting day's low ? \n\nAin't this the truth ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5302,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999220609664917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T21:07:04Z",
+        "content": "$NIO give or take 23 level before year end will get me interested. 28 and change now",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8742251992225647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T21:03:53Z",
+        "content": "$TSLA modified target before year end on downside . \n\n825-830.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947566986083984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T18:34:26Z",
+        "content": "$SPY all these bullish posts will be replaced by degenerate gamblers crying and blaming everyone else except themselves in 60-90 mins.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996148347854614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T18:33:27Z",
+        "content": "$SPY all these bullish posts will disappear in 60-90 mind.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993996620178223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T18:12:26Z",
+        "content": "$MARA over under 23 close eoy. \n\nPlace your bets.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9665187001228333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T17:35:13Z",
+        "content": "$SPY $NDX $TSLA folks buying buying a dip now will get another free dip today.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9893534183502197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T16:12:45Z",
+        "content": "$SPY #ES_F $NDX #NQ_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929982423782349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T15:38:16Z",
+        "content": "$SPY still hard-pressed to find any traders taking responsibilities for their trades here. \n\nMarket barely down 1.5% and so many crybabies here. Own your shitty trades. There is no free money and no - you are not entitled to it.",
+        "sentiment": {
+            "TextBlob": 0.18611111111111112,
+            "NLTK": -0.672,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996700286865234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T15:27:40Z",
+        "content": "$SPY 448.5 in 2-3h. #ES_F #NQ_F \n\nBeatdown is needed to boost the morale of degenerate gamblers.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9467227458953857
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T14:32:12Z",
+        "content": "$SPY buy 448.5 level by noon for a small pop. #ES_F",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921370148658752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T14:20:35Z",
+        "content": "$TSLA prepare the landing pad.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6075489521026611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T14:08:07Z",
+        "content": "$SPY 448.5 by afternoon. Easy peasy. $VIX",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923149943351746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T03:29:11Z",
+        "content": "#CL_F $XOM $USO $CVX not that I didn't warn. It's just getting started. \n\n$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0565,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5295736789703369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-20T02:56:55Z",
+        "content": "$SPY drip drip drip...\n\nBeatdown is necessary to boost the morale here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8937687873840332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-19T17:06:12Z",
+        "content": "$SPY levels for next 4-6 trading days \n\n450 -- 443.1 (if this gives out) -- 431.\n\n#NQ_F $VIX #ES_F $VXX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980389475822449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-19T16:49:05Z",
+        "content": "$VIX over/under 40 by Thursday close? \n\nPlace your bets. \n\n$SPY $NDX #ES_F $VXX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959818124771118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-19T16:46:46Z",
+        "content": "$SPY $BTC.X Santa is bringing pain early next week. \n\nNo gain without pain.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929651021957397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-19T16:42:14Z",
+        "content": "$BTC.X final flush to 38000-39000 inbound in 4-6 days. \n\nPrepare the landing pad.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905136823654175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-19T16:35:21Z",
+        "content": "$SPY more beatdown early next week here to boost the morale. \n\n450 is a matter of time. 24-36h from now.",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889342188835144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-18T22:11:15Z",
+        "content": "$AMC 22/23 again next few days.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988831102848053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-18T19:23:34Z",
+        "content": "$SPY 450 early next week.\n\n443 is the the level to beat. If gives out - 431 before end of year. \n\nExtremely bullish heading into next year at 430/443 levels.\n\n#CL_F, oil and $IWM will lead the way early next year.",
+        "sentiment": {
+            "TextBlob": 0.012500000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955085515975952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-17T14:12:30Z",
+        "content": "$SPY #ES_F the opening price in 19 mins dictates the fate of 2.3T dollars on open futures contracts expiration.\n\nIt's unreal. \n\nAnd, we can have a consensus on $15/h minimum wage. What a world we live in.",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987130165100098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-17T03:17:50Z",
+        "content": "$SPY over/under 431 before year close. \n\nPlace your bets.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836841821670532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-16T17:29:39Z",
+        "content": "$TSLA how about tomorrow ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98234623670578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-12-16T14:45:16Z",
+        "content": "$TSLA low of 865 probable in this cycle by EOY.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981077909469604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-29T17:56:21Z",
+        "content": "$BBIG ... And then 4.20-4.25 tomorrow. \n\nWill update tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971027970314026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-29T16:04:32Z",
+        "content": "$BBIG 3.40 probable close today. Give or take",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916121959686279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-29T16:02:00Z",
+        "content": "$BBIG need a close of 3.89+ tomorrow on monthly and 7.5-8 is a matter of time here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927365779876709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-29T15:57:12Z",
+        "content": "$BBIG 7-7.5 is a matter of time. 4-5 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967965483665466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-24T22:03:14Z",
+        "content": "$BB 13.5/15 target remains for Dec.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997399091720581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-24T22:02:07Z",
+        "content": "$JMIA this could more than double in 6-8 weeks.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939365983009338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-24T21:57:37Z",
+        "content": "$QS 50 in 3-5 weeks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9690299034118652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-24T21:56:15Z",
+        "content": "$IWM 260-265 by mid Jan.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977635145187378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-24T21:55:34Z",
+        "content": "$FCEL 13/13.5 next 2-3 weeks.\n\n16/17 target for mid Jan.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916179776191711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-24T21:54:13Z",
+        "content": "$HAL 26/26.5 next 7-10 trading days. Retouch of weekly fib and pivots at 22.4 ideal but not necessary, before launch.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9744215607643127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-24T21:52:30Z",
+        "content": "$BBIG number of trading days needed for this to hit 5. \n\n1. 3\n2. 4 \n3. 5 \n\nNeed the monthly close above 3.95 and it will rocket to 8 early-mid December.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878749251365662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-02T14:11:46Z",
+        "content": "$BB 13.5/14.2 2-3 days",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896339178085327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-11-02T14:11:26Z",
+        "content": "$WKHS 9/9.5 weekly inbound. 1-2 days",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9649081826210022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-10-27T23:49:24Z",
+        "content": "$VOCL sky is the limit here. \n\nTarget 7.1/8.2 in 2-3 days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936593174934387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-10-01T00:35:18Z",
+        "content": "$SPY who blew up their account and who is all in calls overnight ? \n\nDon't be shy now. Come forward.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.1877,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.671205997467041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-10-01T00:18:59Z",
+        "content": "Levels to watch for tomorrow: \n\n$SPY 423\n$QQQ 352\n\nBTMFD time is almost here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9697401523590088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-29T19:39:13Z",
+        "content": "$AMD 98.5 breaks bring 96.3\n$SPY 428 break brings 423/424\n$ROKU 382 is the line. Below could see 361.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9637743234634399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-22T19:04:59Z",
+        "content": "$TSLA 715 anyone ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954987168312073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-22T16:45:59Z",
+        "content": "@Vol888 switch to 24h trading (futures, cash and CFD) trading charts for tickers and not the charts for for just cash trading sessions. \n\nFor AMD look for $AMDUSD\nFor AMD futures chart look for $AMD0924.\n\nI think they are on trading view.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989572286605835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-21T14:45:33Z",
+        "content": "$SPY very careful next 70 mins if long. Long opportunity in 70-75 mins.",
+        "sentiment": {
+            "TextBlob": -0.057499999999999996,
+            "NLTK": 0.5709,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846516847610474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-20T15:46:51Z",
+        "content": "$SPY dip buyers are quiet today...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958083629608154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-15T19:40:05Z",
+        "content": "$SPY huge green boner to end the last 30 mins. \n\n450.5",
+        "sentiment": {
+            "TextBlob": 0.0666666666666667,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8373677730560303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-01T17:38:46Z",
+        "content": "$BB 12.15-12.20 close today and rocket tomorrow. \n\nGiddy up!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2244,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999127209186554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-09-01T14:10:19Z",
+        "content": "$BB I can show you the path but you have to ultimately walk it.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986009955406189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-31T19:51:59Z",
+        "content": "$BB 11.43-11.45 close and rocket next couple days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886570572853088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-31T19:40:41Z",
+        "content": "$BB 13.6-14 very short term target. \n\n17-18,  2-3 week target",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932366013526917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-31T19:38:40Z",
+        "content": "$BB won't repeat it again! \n\nYou should be in LONG before close today for next 2-3 days. And, then again for following 5-8 trading days. \n\nExplosive move inbound next few days in particular and two weeks in general.",
+        "sentiment": {
+            "TextBlob": -0.004761904761904761,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8069987297058105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-30T14:44:50Z",
+        "content": "$GOTU target 7/8 in 5-6 weeks . Current 2.4.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8953569531440735
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-28T15:19:54Z",
+        "content": "$WKHS 16/17 target - give or take 3-4 weeks\n\n9.6 current.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865992069244385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-28T14:27:51Z",
+        "content": "$BB $AMC $GME $CLOV $WISH \n\nTime is nigh, 2-3 weeks, for that seasonal meme pop. \n\nHold on.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967442750930786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-28T14:24:29Z",
+        "content": "$SPY upside for Sept 480/485. \n\nMight see a little dip coming Monday/Tuesday \n\n$VIX #ES_F $NDX $UVXY",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961947202682495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-27T17:33:34Z",
+        "content": "$BB 18/19 target. Current 11.2 \nTimeframe 3 weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877578020095825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-23T21:25:17Z",
+        "content": "$GOTU if you are having a bad day at trading - just remember, there are folks still long from $150, 4-5 months ago...\n$SPY $NDX",
+        "sentiment": {
+            "TextBlob": -0.37499999999999994,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983046054840088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-23T15:06:54Z",
+        "content": "$CARM any diamond hands riding this to 0?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939332604408264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-17T23:56:01Z",
+        "content": "Any diamond hands riding $RIDE to 0?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9637756943702698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-08-17T23:52:53Z",
+        "content": "$WISH any diamond hands holding this to 0 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998273491859436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-07-20T02:13:28Z",
+        "content": "$SPY $VIX #ES_F \n\nQuestion: How many trading days will it take for SPY to hit 414 after touching 4300/4305 overnight/early morning trading session tomorrow ? \n\na. 1\nb. 2\nc. 3\nd. 5",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989091157913208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-07-06T10:38:14Z",
+        "content": "$WISH quiz:\n\nIf this pop 80 cents pre market and dumps 1 buck during trading hours, how long before it hits 0?",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996460676193237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-07-06T03:10:34Z",
+        "content": "$CLOV If you are a true investor, I suggest setting the sell to 1000 bucks. These folks setting the sell limit at 100-200 bucks are underselling. \n\n5000 would be even better.",
+        "sentiment": {
+            "TextBlob": 0.425,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6869520545005798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-28T13:02:32Z",
+        "content": "$U \n\nCurrent 110.3. \nTarget 128-130 in 12-15 trading days.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988254189491272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-28T10:07:45Z",
+        "content": "$IMNN 1.8-1.9 is a matter of time next week. \n\n1.3 current",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846121668815613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-26T15:00:08Z",
+        "content": "$XLE suggested entry 55 or better by June 30. \n\nTarget 60 by July 15.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936422109603882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-26T14:54:25Z",
+        "content": "$PLUG a monster in making. \n\n45/47 target in 4-5 weeks. Current 31.85.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976938366889954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-26T14:43:00Z",
+        "content": "$CLOV\n\nTarget 17/18. Timeframe 5-7 days. \n\nCurrent 12.98",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9824826717376709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-26T14:41:07Z",
+        "content": "Targets in 4-6 weeks. \n\n$AMC 105/110. Current 54.0.\n\n$BB 21/22. Current 12.11",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906203746795654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-26T14:38:16Z",
+        "content": "$BB the ceiling could be 24 next round.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948171973228455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-26T14:33:17Z",
+        "content": "$BB if this drops 56 cents everyday from here on, it will take 22 days for it to go to 0. \n\nAgree with my maths ? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991762042045593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-25T17:13:58Z",
+        "content": "$EXPR 8.55 \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977391242980957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-25T16:46:36Z",
+        "content": "$EXPR \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753980040550232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-24T20:27:36Z",
+        "content": "$SPY nope. Bad call. \n\nFlattish close from open.",
+        "sentiment": {
+            "TextBlob": -0.3499999999999999,
+            "NLTK": 0.431,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993577599525452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-24T11:14:56Z",
+        "content": "$TSLA 676 \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9857738018035889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-24T02:14:23Z",
+        "content": "$SPY Decent short setting up tomorrow late morning at 423.5-424 level. \n\nTarget 419.2 . Break of that level brings 416 by Friday/Monday morning. #ES_F $NDX #NQ_F $VIX",
+        "sentiment": {
+            "TextBlob": -0.044444444444444446,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850739240646362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-23T22:39:52Z",
+        "content": "$XLF $BAC $JPM $C \n\nBanks are excellent short on pop first thing tomorrow morning. 2-3% haircut in couple days.",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9803047776222229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-23T20:07:47Z",
+        "content": "$CLOV $WISH $WKHS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954320192337036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-23T19:49:53Z",
+        "content": "$TSLA projected close 650.\n\nTarget 690-695 this week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935365319252014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-22T20:17:03Z",
+        "content": "$SPY 423 delivery and it's Tuesday. \n\nTarget and time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9639418721199036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-22T17:28:26Z",
+        "content": "$CLOV not over yet. \n\n16-16.5 on deck this week still.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886226058006287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-22T02:58:37Z",
+        "content": "$WISH you just have to wish ..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7092733979225159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-22T02:51:54Z",
+        "content": "$SPY So.. tomorrow it is then..\ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942558407783508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-22T02:44:24Z",
+        "content": "$ORPH On a positive note - there are ample opportunities to average down until the stock price gets to 0.",
+        "sentiment": {
+            "TextBlob": -0.026094276094276104,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9648285508155823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-20T20:33:24Z",
+        "content": "$CLOV again every Joe has been adding 10K share on every dip from 28, while the price is at 12 now. \n\nThings don't add up. 99% of posts here are straight up junk and useless as is the case with many other tickers.",
+        "sentiment": {
+            "TextBlob": 0.018750000000000003,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997990727424622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-19T01:44:28Z",
+        "content": "$SPY target projection by Wednesday:",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992506206035614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-19T01:43:33Z",
+        "content": "$WISH target projection:",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993977427482605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-19T01:40:21Z",
+        "content": "$CLOV $RMED $NKLA $WKHS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961625337600708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-18T12:16:08Z",
+        "content": "$ORPH on the bright side you have the opportunity to keep averaging down until it hits 0.",
+        "sentiment": {
+            "TextBlob": 0.27222222222222225,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.968817949295044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-15T17:07:19Z",
+        "content": "$WISH and then there are hundreds of \"I told you folks\" here who can't even manage their 100 bucks account without going bankrupt. \n\nIrony is dead here.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.3022,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991875290870667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-15T17:05:14Z",
+        "content": "$WISH so every Joe here is adding 10K shares on every penny dip but price has gone down 1.8 bucks since high today. \n\nIt doesn't add up.",
+        "sentiment": {
+            "TextBlob": 0.0022222222222222088,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996259212493896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-09T00:14:01Z",
+        "content": "$CLOV don't think it's over yet. \n\n26.5 break brings 31.15 this week.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6940973997116089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-08T21:33:41Z",
+        "content": "$RKT 24/25 inbound this week. 22.1 after hours.\n\nIt completely fell off my radar.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997281432151794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Soupmister",
+        "timestamp": "2021-06-08T20:50:41Z",
+        "content": "$WKHS 15.6 close. \n\n20-22 tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9524790644645691
+            }
+        },
+        "image_url": ""
+    }
+]

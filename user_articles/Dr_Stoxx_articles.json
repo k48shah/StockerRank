@@ -1,0 +1,1388 @@
+[
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-19T22:56:49Z",
+        "content": "$BA base upon base",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879640340805054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-19T22:56:26Z",
+        "content": "$SNN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9864230751991272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-19T22:56:08Z",
+        "content": "$MEDP from IBD\"s Leaderboard",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957436919212341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-19T22:55:22Z",
+        "content": "$AESI one I'll  be watching this week in the Room.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8952130079269409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-19T22:54:51Z",
+        "content": "$VIST: breakout + retest + stage 2 breakout.  What a beauty.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987063407897949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T19:50:42Z",
+        "content": "Chart Request: $PACW  \n \nBearish if that support line breaks...and it probably will given the trend.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979944229125977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T19:42:16Z",
+        "content": "$MVIS SHORT: big winner for my MOMENTUM LETTER members this week.   \n \ndrstoxx.com/home",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7169127464294434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T19:34:44Z",
+        "content": "$TSLA map update:",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9802199006080627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T19:28:05Z",
+        "content": "$IWM still holding breakout...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878811836242676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T19:13:52Z",
+        "content": "$BITO from the pink zone.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932149648666382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T19:13:27Z",
+        "content": "$MARA is tighter than a gnat's arse (as the saying goes)...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879572987556458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T19:07:09Z",
+        "content": "$ARKK double topping here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9086195230484009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T18:55:19Z",
+        "content": "$SWAV has formed a cup-with-handle base with a buy point of 308.09. It  found support at 21-day and 10-week moving average lines and sports strong RS Rating of 95 out of 99. #IBDPartner \n \nTry for just $29: get.investors.com/marketsmi...\n@InvestorsBusinessDaily Bullish",
+        "sentiment": {
+            "TextBlob": -0.17222222222222228,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.80424964427948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T18:43:13Z",
+        "content": "$STNE: big dark pool trades this week...and heavy OTM call flow with time.   \n \nSomething's up with the Buffett play:",
+        "sentiment": {
+            "TextBlob": -0.11666666666666665,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9126251935958862
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T18:39:29Z",
+        "content": "$RIVN lured us in with an early breakout move, then reversed and triggered our tight stops so we're out. \n \nBut this pattern still looks good.",
+        "sentiment": {
+            "TextBlob": 0.20714285714285716,
+            "NLTK": 0.5499,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996627569198608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T18:36:18Z",
+        "content": "$CAVA 15min chart flashing a short signal.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99595707654953
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T18:35:38Z",
+        "content": "$CAVA -- 37 to 47 the day trade range today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7634549140930176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:58:43Z",
+        "content": "$PLCE on way to 23.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9566735029220581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:57:38Z",
+        "content": "$KRE -- regionals still consolidaing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9051315188407898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:56:35Z",
+        "content": "$MOMO breakout and retest today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994049072265625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:55:55Z",
+        "content": "$SWAV not quite ready for prime time.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.3241,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997007846832275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:55:02Z",
+        "content": "$NUGT $GDX -- gold and miners still basing at support.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9931100606918335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:54:13Z",
+        "content": "$STR energy REIT taking its sweet time confirming this breakout move.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.971036434173584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:30:45Z",
+        "content": "$GLD hourly: lots of drama this morning.  Resolving lower for now.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971121549606323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-16T14:21:16Z",
+        "content": "$RIVN repeat: breaking neckline today...target is $19.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974950551986694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T21:15:52Z",
+        "content": "$CHDN: hugging the pullback line",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9293237924575806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T20:14:09Z",
+        "content": "$DPST chart: target still 80",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973359704017639
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T20:02:48Z",
+        "content": "Wealth Building Portfolio: added +3.2% ROI to our bottom line today...sweet! \n \nLead higher by China and PIZZA!  $DPZ $BABA",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.5837,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9869502186775208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T19:57:30Z",
+        "content": "Got shiny metals?  $MGC_F $NUGT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868974089622498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T19:56:43Z",
+        "content": "$ROIV above 10 and she'll fly. Almost there.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992904663085938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T19:55:39Z",
+        "content": "$DPST still have a few on board...still looking for 80.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964655637741089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T19:54:50Z",
+        "content": "$PLCE squeeze is on, folks...23 next stop Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947322607040405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T19:51:29Z",
+        "content": "$SHOP peek breakout.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9771628379821777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T19:51:10Z",
+        "content": "$FAS almost there.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9721335172653198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T19:03:02Z",
+        "content": "$RIVN about to catch up to $NIO.  $19 target on breakout over 15.5.  We're long in the DST Room. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994305968284607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T18:59:08Z",
+        "content": "$SPY map from our live chart chat today in the DST Room",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918698072433472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T18:55:56Z",
+        "content": "$BITO $BTC.X  \n \nBitty finally down  into the pink zone...catching a bid today.",
+        "sentiment": {
+            "TextBlob": -0.1277777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9796039462089539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:51:20Z",
+        "content": "And $FTNT better than $PANW.  :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9805722236633301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:50:31Z",
+        "content": "Gold gone green...  $GLD $NUGT",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952291250228882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:49:57Z",
+        "content": "$CRWD, not $CWRD!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988304972648621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:46:50Z",
+        "content": "$STR energy REIT and big mover targets 33 from here.  We're long in the Room. Bullish",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981308579444885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:46:09Z",
+        "content": "$JD breakout and targetting 43.5/44 area",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814870357513428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:44:59Z",
+        "content": "#China play $MOMO an old friend on its way to 11.  We're long in the Room. Bullish",
+        "sentiment": {
+            "TextBlob": 0.025,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984863996505737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:43:24Z",
+        "content": "$ROIV -- 10 then 13.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918938279151917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:42:53Z",
+        "content": "$RIVN needs to clear 15.5...then comes 19. Bullish",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996689558029175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:37:49Z",
+        "content": "$STNE weekly shows the next move clearly: up to 18 from the bullish base breakout setup.  #IBDPartner \n \nTry @MarketSmith for just $29: get.investors.com/marketsmi...\n@InvestorsBusinessDaily Bullish",
+        "sentiment": {
+            "TextBlob": -0.23333333333333336,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9793816804885864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:31:59Z",
+        "content": "$CWRD: getting new love from analysts this week and holding steady above 150 support.  162, then 200 target levels.  #IBDPartner \n \nTry @MarketSmith for just $29 -- get.investors.com/marketsmi...\n@InvestorsBusinessDaily Bullish",
+        "sentiment": {
+            "TextBlob": 0.20075757575757575,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936768412590027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:19:06Z",
+        "content": "$PLCE showing squeeze potential up to 23 if it can clear 20.  Not quite there yet.",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957921504974365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:17:22Z",
+        "content": "$STNE shows good upside potential with a multi-week breakout confirmation.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9834696650505066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:15:58Z",
+        "content": "$STNE: buffett play, new upgrade, fresh dark pool activity this week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.09545454545454546,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963131546974182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T15:15:05Z",
+        "content": "$DPST update.  I got stopped out yesterday but she's still in play for something near 80.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3919,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5474530458450317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:47:50Z",
+        "content": "NEW: $TSLA map for EOY.   \n \nThe last map was spot-on...just didn't predict how soon the stock would get to target. \n \nHere we should see a choppy dip to trend support, then slow rally to about $280 by Jan 1.  In other words, the easy money is done for now...",
+        "sentiment": {
+            "TextBlob": -0.009217171717171726,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992403984069824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:38:56Z",
+        "content": "$AMZN $NFLX $DIS $WBD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981757402420044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:36:38Z",
+        "content": "If $COIN cannot rally on huge $BLK news, then there is something very wrong with it.",
+        "sentiment": {
+            "TextBlob": -0.12499999999999997,
+            "NLTK": -0.6548,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995822310447693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:35:20Z",
+        "content": "$USO $UCO $XOM -- and oil continues to be an impossible swing trade.  It's been a no-go zone for me for weeks now.",
+        "sentiment": {
+            "TextBlob": -0.6666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875301122665405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:34:33Z",
+        "content": "I was in $SQQQ into the FOMC yesterday and just dumped it on continued strength in $QQQ.   \n \nIt was the right play...but sometimes the market doesn't do what it's supposed to do.  :)",
+        "sentiment": {
+            "TextBlob": 0.39285714285714285,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969583749771118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:33:21Z",
+        "content": "$GLD pushing off the base-S line.  Suggests that the market thinks the Fed was bluffing yesterday, and that recession is real.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959736466407776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:32:20Z",
+        "content": "$FTNT -- I missed the BO entry...anyone take if off my chart this morning?  Nice ride, if so... Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999275267124176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T14:04:55Z",
+        "content": "$DIA pattern target $364.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880915880203247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T13:35:17Z",
+        "content": "$GLD testing bottom of the range...again...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994617104530334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T13:34:45Z",
+        "content": "$FTNT beauty",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959847927093506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-15T13:26:41Z",
+        "content": "$BABA and my China stock scanner:  DrStoxxTrading Room",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957894682884216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T21:42:41Z",
+        "content": "$CRM has been basing nicely since the breakout over 200 back in early May.  Top rated @MarketSmith metrics support a new leg higher.  #IBDPartner\n@InvestorsBusinessDaily Bullish",
+        "sentiment": {
+            "TextBlob": 0.2643939393939394,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9439877867698669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T21:36:31Z",
+        "content": "$COST is doing great here.  Long in the TREND TRADE LETTER from 508 and with a 520/550 call spread in the DST Room.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9437568187713623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T20:35:50Z",
+        "content": "$MVIX short: +31.3% in 3 days. \n \nOnly in the MOMENTUM LETTER: drstoxx.com/newsletter",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987198114395142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:44:56Z",
+        "content": "46.3 the new floor for $INTA",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9283182621002197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:44:12Z",
+        "content": "Sell everything you have and buy $NVDA and never sell.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897538423538208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:43:24Z",
+        "content": "$THC: if you took my alert here, you were out this morning well above target for a nice 14% win in 7 days.",
+        "sentiment": {
+            "TextBlob": 0.4666666666666666,
+            "NLTK": 0.872,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974473714828491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:42:05Z",
+        "content": "$FOUR has potential...but not from here.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863731861114502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:40:53Z",
+        "content": "$TSLA -- As I said this morning, now is a good time to bank profits in this one.  Hitting R and momo is not sustainable.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978468418121338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:39:43Z",
+        "content": "$ROKU DT reversal today.  Can be shorted here. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991568326950073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:11:44Z",
+        "content": "Powell started speaking at 2:30...the bottom pivot.  $SPX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979078769683838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T19:04:38Z",
+        "content": "$QQQ weekly chart shows the confluence of R levels with a big volume shelf at current price.  If the bears cannot hold this, there isnt much to stop it from going to new ATH's by EOY.",
+        "sentiment": {
+            "TextBlob": 0.08409090909090909,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997766375541687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T18:59:13Z",
+        "content": "$BTC.X $BITO -- bitty weekly chart shows bullish IH&S breakout and retest of neckline. \n \n34,000 target.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988848567008972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T17:53:48Z",
+        "content": "$U -- calls out at target",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946723580360413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T17:49:39Z",
+        "content": "Meanwhile, in the DrStoxxTrading Room: Closed Trades Today \n \nAverage hold: 2.4 days (the $U calls was 4 days) \n \nJoin us: stocktwits.com/r/DrStoxxTra...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983365535736084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T17:40:13Z",
+        "content": "$SWAV pullback into the wedge.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918283224105835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T17:39:01Z",
+        "content": "$SNOW setup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9837263226509094
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T17:37:52Z",
+        "content": "$SMH hitting RTL and showing bearish divergence up there...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938761591911316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T17:19:52Z",
+        "content": "$GLD futures getting tighter and tighter... \n \nHourly chart.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814094305038452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T15:18:51Z",
+        "content": "$UUP -- Adam/Eve DT in play.  Good for $GLD and Euro. Bearish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9723447561264038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T15:12:43Z",
+        "content": "@MarketSmith has identified a perfectly formed Cup&Handle pattern in best of breed medtech play $SWAV, trying to breakout today.  Target 480.  #IBDPartner \n \nTry for only $29: get.investors.com/marketsmi...\n@InvestorsBusinessDaily Bullish",
+        "sentiment": {
+            "TextBlob": 0.6666666666666666,
+            "NLTK": 0.8957,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9569922089576721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:59:24Z",
+        "content": "We rode $AI from below 37 to 44 yesterday in the DST Room. \n \nWill revisit on a dip below 40.  Join us: stocktwits.com/r/DrStoxxTra...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976851940155029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:58:21Z",
+        "content": "$DPST $KRE -- today is the 5th day of a bull flag and will move on the FOMC.  Still thinking 80 from here...but you never know!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7181143760681152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:57:26Z",
+        "content": "$PLCE heavy short, tiny float, into the gap.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994694590568542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:56:50Z",
+        "content": "$W playing off $55 R level",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914562106132507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:56:23Z",
+        "content": "$GLD has been  tight for a month now.",
+        "sentiment": {
+            "TextBlob": -0.17857142857142858,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911536574363708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:55:43Z",
+        "content": "$UUP dollar in free fall",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9382613301277161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:53:27Z",
+        "content": "$UPST impressive, but unsustainable.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9810232520103455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:52:41Z",
+        "content": "Oil remains a nearly impossible trade to call.  $USO $UCO",
+        "sentiment": {
+            "TextBlob": -0.6666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939711689949036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:22:04Z",
+        "content": "$QQQ still wants to rally... \n \nChasing FOMO on FOMC day is not a good idea IMO...",
+        "sentiment": {
+            "TextBlob": -0.07499999999999998,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997971653938293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:19:22Z",
+        "content": "$TWTR employees down 90%...and it's still running just fine.",
+        "sentiment": {
+            "TextBlob": 0.13055555555555554,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987995624542236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:05:12Z",
+        "content": "This week (so far) in my most profitable service: THE MOMENTUM LETTER \n \ndrstoxx.com/home  \n \nTop 3 Conservative Longs: $GM $F $KR",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.6115,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8855823278427124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T14:04:19Z",
+        "content": "This week, in the MOMENTUM LETTER... \n \n...for more info: drstoxx.com/newsletter\n$DHC",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971784353256226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T13:59:45Z",
+        "content": "$SPY $QQQ -- we banked profits off the open in our larger sized swings and added some downside protection. \n \nI've also got a nice looking list of longs I want to buy if we get a good dip off the Fed.   \n \nNot sure how to trade this market?  Why not join us here: stocktwits.com/r/DrStoxxTra...",
+        "sentiment": {
+            "TextBlob": 0.20999999999999996,
+            "NLTK": 0.6187,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.912735104560852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T13:43:54Z",
+        "content": "$TSLA map update: if you are still long, this is a very good place to bank some profits.   \n \nI'll update the map tomorrow after the Fed.",
+        "sentiment": {
+            "TextBlob": 0.42999999999999994,
+            "NLTK": 0.7264,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.996757447719574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T13:42:06Z",
+        "content": "$SHOP entering the thin zone.",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950136542320251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T13:22:27Z",
+        "content": "We need some consolidation.  $SPY $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992445707321167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Dr_Stoxx",
+        "timestamp": "2023-06-14T12:59:53Z",
+        "content": "$BUD bear flag #2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9518908858299255
+            }
+        },
+        "image_url": ""
+    }
+]

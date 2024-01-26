@@ -1,0 +1,324 @@
+[
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2021-02-01T19:51:13Z",
+        "content": "A friend asked me why I invested in $FLGT ..I told him a monkey and a pikachu on the internet told me to @MonkeyBananaGenius @humour",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965516328811646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2021-01-30T14:36:42Z",
+        "content": "The real crime with $GME is that during a time with unprecedented liquidity, stimulus and zero percent interest rates, someone's best trade idea was to be indefinitely short anything",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955370426177979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2021-01-13T18:32:14Z",
+        "content": "@howardlindzon any chance we get Brad Feld back on Panic to talk about $CRU.U ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962286949157715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-10-01T23:55:39Z",
+        "content": "@howardlindzon $TDOC. In 20 years people will have drugs prescribed, billed, filled, and delivered to your doorstep before the first sign of a symptom.",
+        "sentiment": {
+            "TextBlob": 0.325,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938615560531616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-10-01T21:05:35Z",
+        "content": "$TWLO revised guidance here feels extremely bullish for other software plays this upcoming earnings season.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995483756065369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-08-31T22:48:25Z",
+        "content": "$QQQ could fall 28% and would be flat on the year...",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997040629386902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-08-31T14:01:48Z",
+        "content": "$FSLY Initiating position in this on the pullback",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897197484970093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-08-08T22:46:40Z",
+        "content": "$LVGO $TDOC random theory...  when LVGO released their prelim 2Q results in early July, it was strategically done to drive up price and thus command more equity in the ultimate merger with TDOC. \n\nLVGO closing price \nJuly 6: $78\nJuly 7: premarket, mid-quarter, LVGO revises guidance upwards, closes $94\nAug 4, day before announcement: closes $145...\n\nLVGO shareholders will own 42% of the merged company with TDOC. What\u2019s that number if LVGO stock is still trading sub $100?\n\nCool to think about.",
+        "sentiment": {
+            "TextBlob": 0.17499999999999996,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9791734218597412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-08-05T19:28:28Z",
+        "content": "$LVGO the biggest bummer of the merger is not getting to see LVGO finish its parabolic rise. Was really curious to see how that was going to unfold.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.0018,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967852830886841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-08-05T14:29:28Z",
+        "content": "$TDOC $LVGO This is a pretty interesting circular reference after the merger..as TDOC falls in price, so does LVGO..yet TDOC is now likely a much stronger company for the future with this merger. I have been buying TDOC on pullback this AM.",
+        "sentiment": {
+            "TextBlob": 0.19,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9069983959197998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-07-30T18:13:05Z",
+        "content": "@howardlindzon This podcast is the reason I got into to $NET",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861572980880737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-07-01T14:10:47Z",
+        "content": "I think about this post a lot as I watch $SQ rise above 110...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8079309463500977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-05-13T13:59:28Z",
+        "content": "Closed position on $SQ today. Feels like a good time to trim and take profits. Will look to add back in future, PYPL too.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.8074,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971174001693726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-05-06T14:04:50Z",
+        "content": "@howardlindzon @osubuckeye Do you follow $SE at all? Have heard light comparisons of SE being south east Asia's MELI.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869545102119446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-04-28T15:59:02Z",
+        "content": "Added $NET on pullback today. Great CEO with a business grabbing market share during this pandemic. Look forward to earnings next week and if there's any hint of guidance.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9921257495880127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-04-28T13:53:05Z",
+        "content": "Started small position in $SHOP today. Will add in either direction over coming months. Regardless of the near term economic outlook, the American economy is driven by consumers and entrepreneurs. SHOP may be giving an edge to entrepreneurs when they need it most.",
+        "sentiment": {
+            "TextBlob": 0.11000000000000001,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9656814336776733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-04-26T20:17:42Z",
+        "content": "As chord cutting accelerates, what\u2019s to stop $AMZN or $NFLX from buying sports broadcasting rights? Imagine Prime members watching the Super Bowl on their phone or TV...\n\nOnly $AMZN knows everything about you. The super bowl commercials are now customized and handpicked for you as a specific viewer. What is the value of an ad spot during overtime of the Super Bowl, that is so highly targeted to a specific consumer, that its conversion rate is off the charts? Probably a lot.\n\nAMZN will even be so kind to add a pop up on screen, allowing you to effortlessly purchase and receive the product within 24 hours. Hell, can probably just yell at Alexa. No effort necessary.\n\nLong $AMZN & $TTD",
+        "sentiment": {
+            "TextBlob": 0.10090909090909089,
+            "NLTK": 0.8841,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997223973274231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-04-26T01:39:50Z",
+        "content": "Grabbed some $SPXU end of week. SPY near top of two week range. Felt like a good spot for small hedge/short term trade.\n\nInteresting week with big tech earnings ahead.",
+        "sentiment": {
+            "TextBlob": 0.2583333333333333,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998424768447876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-04-15T14:50:44Z",
+        "content": "$LVGO initiated position here. General population going to closely focus on personal health moving forward. Willing to bet certain people have washed their hands more times in last 90 days than all of last year. That mindset stays coming out of this.",
+        "sentiment": {
+            "TextBlob": 0.14489795918367346,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9227778315544128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-04-14T13:47:56Z",
+        "content": "$SQ trimmed position today. Will look to add if pull back. Stock is basically flat ytd and small biz is likely going to get hurt. Feels like a trade I'm OK being wrong and taking action, but not OK being right and taking no action. (LT bullish)",
+        "sentiment": {
+            "TextBlob": -0.018928571428571433,
+            "NLTK": 0.1446,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999710738658905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2020-04-13T18:01:26Z",
+        "content": "$TTD Started position here. Might be FOMO, but long term bullish on this firm and can buy lower if it goes lower. If you're thinking 5+ years, at some point you have to zoom out and not get lost in the current market noise.",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.4866,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9664808511734009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2017-07-26T13:33:36Z",
+        "content": "$clf",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9857871532440186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Malcolm_Douglas",
+        "timestamp": "2014-02-21T20:26:04Z",
+        "content": "EKSO Bionics Holding making serious moves lately.  Very little attention on this guy.  Get in front.  $EKSO",
+        "sentiment": {
+            "TextBlob": -0.2885416666666667,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989137649536133
+            }
+        },
+        "image_url": ""
+    }
+]

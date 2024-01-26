@@ -1,0 +1,1906 @@
+[
+    {
+        "username": "theaiengineer",
+        "timestamp": "2021-12-17T00:38:18Z",
+        "content": "$SPY $STUDY Trend Following with Logistic Regression \n \ntheaiengineer.medium.com/tr...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965015649795532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2021-03-24T10:42:47Z",
+        "content": "$STUDY my library on investing; trading; machine learning; python",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6772934198379517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2021-03-18T12:39:34Z",
+        "content": "$TKAT $HEXO $OCG $SPY $AAPL $STUDY  \n \nbuilt a machine learning app to retrieve @Stocktwits trending equities; also has @howardlindzon 8 to 80 watchlist hard-coded. \n \nused python, scikit-learn, plotly dash, heroku; retrieves tickers then uses machine learning to forecast a price in phase 2 tab \n \nmarket-regression-app.herok...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967960715293884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2021-02-18T16:37:09Z",
+        "content": "$SPY  nerding out on thinkscript in thinkorswim \n \nwrote the strategy flags, the middle signal line study, and the basic label in the upper left of the main chart \n \nthinkscript + tos is pretty awesome Bullish",
+        "sentiment": {
+            "TextBlob": 0.20238095238095236,
+            "NLTK": 0.8074,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873003363609314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2021-02-14T18:30:53Z",
+        "content": "$STUDY my blog on AI/ML in finance and trading: societyofmind.substack.com/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847142100334167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2021-02-11T20:09:21Z",
+        "content": "made a machine learning app using @Stocktwits's API to retrieve trending equities; @howardlindzon's 8 to 80 watchlist is also in the app's set of tickers $TLRY $NVDA $ACB:  \n \nmarket-regression-app.herok...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964478015899658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-11-12T12:44:08Z",
+        "content": "$SPY $DIA $VTI $QQQ  \n \nMight as well only own 1 of these \n \nkoyfin.com/s/B12NA2Eodn",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992861151695251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-10-30T14:49:06Z",
+        "content": "Nice gap-up this morning for $GE; opening above 50day EMA (as fast); continued close > 10$ could bring fast > slow, giving way to potential new uptrend. \n \nkoyfin.com/share/nk80uEsQwC",
+        "sentiment": {
+            "TextBlob": 0.11948051948051948,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988865315914154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-10-17T14:16:08Z",
+        "content": "$STUDY  Personal library update; think I\u2019m done buying for a while.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978883862495422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-08-05T13:23:58Z",
+        "content": "$AAPL 42-day EMA remains above 252-day EMA; today is only noise.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958109855651855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-08-05T10:49:21Z",
+        "content": "$STUDY Dr. Bill Dunn -- Marine, trend-following trader & hedge fund founder, Physics PhD:\nopalesque.com/OFI120/Foundi...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9744846224784851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-08-03T05:13:09Z",
+        "content": "$STUDY Rabbit hole on EMA and MACD in Python -- short and sweet jupyter notebook....will compare returns and try to optimize a fast/slow MACD combo later on.\n\ngist.github.com/justingohee...",
+        "sentiment": {
+            "TextBlob": 0.11666666666666665,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900806546211243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-08-02T14:39:10Z",
+        "content": "$SPY short term price movements are just noise -- 42 day EMA is still above 252 day EMA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998139500617981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-08-01T17:05:21Z",
+        "content": "$STUDY *FREE* Trend following tutorial:  \nalphaarchitect.com/category...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888787269592285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-07-29T16:08:38Z",
+        "content": "$STUDY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.743169903755188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-07-28T18:47:53Z",
+        "content": "$STUDY trend following paper cmegroup.com/education/file...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927946925163269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-07-01T19:43:48Z",
+        "content": "$STUDY paper on trend following: \n\ncmegroup.com/education/file...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873406291007996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-06-18T17:21:52Z",
+        "content": "$STUDY good listen on the difference between institutional analysis and individual 'due diligence': \n\npodcasts.apple.com/us/podca...\n\nThe more individuals begin to understand the institutional process, the better the decision making will become; with tools like Koyfin, Quantopian, AlpacaHQ, thinkorswim, TradeApp, and Robinhood there's no reason individual traders should be losing as often as they do.  \n\nAdd in papers by Alpha Architect, and podcasts by Meb Faber, Patrick O'Shaughnessy, and Howard Lindzon - and the decision making should improve even more. \n\nNo one podcast or paper will improve your trading - learning to manage emotions and developing a solid and reasonable discretionary process will though - and if you have the time - learn to code that system into a Python based algorithm...which is probably much easier than you think.",
+        "sentiment": {
+            "TextBlob": 0.24750000000000005,
+            "NLTK": 0.8809,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910734295845032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-06-16T01:18:03Z",
+        "content": "$STUDY getting the start of a basic SMA long-short strategy coded feels pretty good: \n\nnbviewer.jupyter.org/github...",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9949217438697815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-06-10T20:04:43Z",
+        "content": "$STUDY for lovers of vol and derivatives:\n\"A volatility smile is a common graph shape that results from plotting the strike price and implied volatility of a group of options with the same underlying asset and expiration date. The volatility smile is so named because it looks like a smiling mouth. Implied volatility rises when the underlying asset of an option is further out of the money (OTM) or in the money (ITM), compared to at the money (ATM).  The volatility smile does not apply to all options.\"\ninvestopedia.com/terms/v/vo...",
+        "sentiment": {
+            "TextBlob": 0.09999999999999999,
+            "NLTK": 0.9578,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969325065612793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-06-04T00:20:58Z",
+        "content": "$STUDY for the data science and quant types- Erasure Quant is a stock picking competition hosted by Numerai\n\nNumerai: numer.ai/homepage\nErasure Quant: medium.com/numerai/introduc...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971298575401306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-05-21T10:30:45Z",
+        "content": "$TSLA \"was delivered another blow Tuesday by Morgan Stanley analysts who slashed their worse-case scenario for the stock price to just 10USD because of concerns the electric-car leader has saturated the market.\"   Article did not list actual target price; for those unfamiliar w/pricing analysis, worse case is not target price...\n\nAn analyst's target price and in aggregate, the average of all analysts is a better measure...the last avg rptd on Yahoo Finance was ~283USD; depending on how quickly YF updates it's databases, that number could be stale...\n\nYahoo Finance: finance.yahoo.com/quote/TSL...\n\nBloomberg: https://www.bloomberg.com/news/articles/2019-05-21/tesla-bear-case-price-cut-to-10-at-morgan-stanley-on-weak-sales?utm_campaign=socialflow-organic&utm_source=twitter&cmpid=socialflow-twitter-business&utm_content=business&utm_medium=social",
+        "sentiment": {
+            "TextBlob": -0.03095238095238096,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992478489875793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-05-20T10:38:07Z",
+        "content": "$STUDY AI in Finance, Webinar by Dr. Yves Hilpisch of The Python Quants on 21.05.2019, 11 am EST\n\nregister.gotowebinar.com/re...\ntwitter.com/dyjh/status/113...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9817573428153992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-05-17T22:36:46Z",
+        "content": "@howardlindzon @Jamtrades @StockTwits @newsomenuggets\n$TSLA short interest visualized w koyfin...I think there is a lag on realtime s/i (no fault of Koyfin, I think s/i is only reported every 30 days) so actual s/i could be much higher after today...was at ~21% as of 9 May\n\nkoyfin.com/s/MGUpNwboZq",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987664222717285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-05-16T20:07:06Z",
+        "content": "Has $APRN received a delisting notice yet?\nkoyfin.com/s/MPo03NQcph",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987595081329346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-05-10T00:58:39Z",
+        "content": "$CSCO continuing to close lower -- looking promising for a bear spread   koyfin.com/s/1wXeTPkN9P Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994511008262634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2019-05-09T00:02:19Z",
+        "content": "$CSCO closing below key supt level after riding to decades long highs; showing inverted hammer on today's close, perhaps indicating weak supt at these lvls. Continued close below ~54USD could indicate new downtrend. Earnings rptd 5.15",
+        "sentiment": {
+            "TextBlob": -0.07215909090909091,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971144199371338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-11-16T03:00:08Z",
+        "content": "$TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896335601806641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-10-24T18:13:48Z",
+        "content": "Link for Tesla's $TSLA earnings call taking place today at 330 PDT\nedge.media-server.com/m6/p/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890680909156799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-10-14T13:43:49Z",
+        "content": "$STUDY Tastyworks by TastyTrade provides an intuitive view of options strategies, making learning to trade option contracts easier.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983910322189331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-10-11T17:23:43Z",
+        "content": "$SPY $STUDY capitulation or not capitulation? investopedia.com/terms/c/ca...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980169534683228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-10-08T16:52:02Z",
+        "content": "Wanted to try a vertical put spread using $MSFT.  This strategy was cheaper than a long call. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985300302505493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-10-03T21:26:37Z",
+        "content": "$STUDY picked up old CFA & CMT study guides on Amazon for around $500. Still waiting on CFA level 1 to arrive.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980520009994507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-25T18:40:09Z",
+        "content": "$AAL hindsight bias to the max - wishing I hadn't exited the iron condor but hey, I protected against loss.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.964369535446167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-24T22:26:01Z",
+        "content": "$AAL today\u2019s decline allowed me to exit the condor. Will be interesting if price increases tomorrow, perhaps indicating $42 as new support.",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955110549926758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-24T12:21:26Z",
+        "content": "$AAL potential new uptrend. Still killing my iron condor. 5% correction to the downside over the week would be nice but not counting on it.",
+        "sentiment": {
+            "TextBlob": 0.24545454545454545,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983750581741333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-23T22:11:03Z",
+        "content": "$STUDY Interactive Brokers no longer has a minimum account balance for individual accounts.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996837377548218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-21T17:19:38Z",
+        "content": "$STUDY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.743169903755188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-21T15:32:39Z",
+        "content": "$AAL Killing my iron condor pos but interesting chart nonetheless. looks like setup for cup & handle. hoping the handle forms prior to Sep28",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5195704698562622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-20T13:04:28Z",
+        "content": "$STUDY Pinning the Strike tendency of an underlying mkt prc to close @ or near to the strike of heavily traded option\ninvestopedia.com/terms/p/pi...",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932699799537659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-20T12:29:02Z",
+        "content": "$AAL American Airlines closed above resistance level. Pictured is short call/put price lvl for Sep 28 exp Iron condor. POP 51%. P50 53%",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988964319229126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-19T22:49:18Z",
+        "content": "$AAL closing above short term resistance level. Further confirmation needed to confirm potential trend reversal into new uptrend.",
+        "sentiment": {
+            "TextBlob": 0.02727272727272727,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939156174659729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-19T20:30:32Z",
+        "content": "$AAPL today's close suggests a new support level around $218 range.",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877464771270752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-14T14:22:53Z",
+        "content": "$TRI Thomson Reuters trading above midpoint of buyback offer.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8123984932899475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-09T17:29:16Z",
+        "content": "$SPY $QQQ $DIA $SPX $DJIA $ES_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953435063362122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-05T12:39:44Z",
+        "content": "$AMD I wonder how many shorts are going to revenge trade this and get squeezed even more Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992977380752563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-05T12:33:24Z",
+        "content": "\u202a3 great things for $AMD\u202c\n\n\u202aFOMO + decent short % + gaining mkt share from INTC\u202c\n\n\u202aspeculation + technical catalyst + fundamental catalyst \u202c",
+        "sentiment": {
+            "TextBlob": 0.24166666666666667,
+            "NLTK": 0.8442,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9975300431251526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-05T12:02:27Z",
+        "content": "Curious what the short % for $AMD will be when next reported. Mktprice up ~3% premkt Bullish",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978166818618774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-05T11:38:51Z",
+        "content": "$TCMD Tactile Medical awarded new federal supply contract by VA for FlexiTouch system",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858384728431702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-05T11:26:36Z",
+        "content": "$AMD trending higher in pre market trading. Last print $28.73 Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953155517578125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-04T20:30:00Z",
+        "content": "$AMD continuing to advance in AH trading with significant volume. Bullish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9657217860221863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-04T17:16:24Z",
+        "content": "$APRN Blue Apron EV/Sales and Price to Book.  \nshare.koyfin.com/share/28ca...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865952730178833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-01T19:17:32Z",
+        "content": "$STUDY Educational content for futures trading from CME Group (Chicago Mercantile Exchange) cmegroup.com/education.html",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9069740772247314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-01T19:11:52Z",
+        "content": "$STUDY free courses on options from CBOE (Chicago Board Options Exchange) cboe.com/education/educatio... #options #derivatives",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.964512050151825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-09-01T18:53:45Z",
+        "content": "$STUDY  \"There are two ways to scale up in small accounts\": leveraging with financial derivatives by @tastytrade tastytrade.com/tt/shows/tas...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908242225646973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-31T13:30:05Z",
+        "content": "My account:  $XLY $XLP $XLE $XLF $XLV $XLI $XLB $XLRE $XLU $GCAP $AMD $EEM $IWC $GCAP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906616806983948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-31T13:02:29Z",
+        "content": "$GCAP Gain Capital initiated at neutral by JPM. Crnt mktprice = 7.3; JPM price tgt of $9. Ann Divyld of 3.1788; 6c qtrly. 52 wk high: 13.26 Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984520673751831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-30T17:39:12Z",
+        "content": "$JCP Short interest at 42%. Announcement of new CEO could act as positive catalyst. \nshare.koyfin.com/share/f7cf...",
+        "sentiment": {
+            "TextBlob": 0.12121212121212122,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.912189245223999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-30T16:18:38Z",
+        "content": "$EXPR Price to Book v competitors. EXPR PB = 1.2x; lowest among competitors.  \nshare.koyfin.com/share/e674...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993196725845337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-30T16:09:10Z",
+        "content": "$EXPR EV/SALES v competitors. EXPR EV/SALES = .3x; EV of 549m w/sales of 2.1bn \nshare.koyfin.com/share/a816...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928408861160278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-30T16:01:22Z",
+        "content": "$EXPR mkt price overlaying HF ownership (decreased from 16% Aug 17 to 8% Aug 18) \nshare.koyfin.com/share/3559...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938122034072876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-30T15:58:28Z",
+        "content": "$EXPR mkt price overlaying short interest (17.5%) \nshare.koyfin.com/share/8d52...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955463409423828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-30T15:56:39Z",
+        "content": "$EXPR Express Inc Clothing raises guidance on earnings beat. Is testing resistance. Is 5% from 52 week high.  \nshare.koyfin.com/share/099b...",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9691117405891418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-29T16:02:01Z",
+        "content": "24USD range appearing to act as short term supt lvl for $AMD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99843829870224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-27T18:25:59Z",
+        "content": "$STUDY if you use thinkorswim, check out my standard deviation thinkscript $AMTD $SPY $QQQ $AMD $AAPL $AMZN $NFLX\ngithub.com/JustinGoheen/thi...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980289340019226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-27T16:02:16Z",
+        "content": "$AMD gaining market share from Intel combined with potential short squeeze creating outsized returns. . \nhttps://share.koyfin.com/share/da779b34 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9393104910850525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-25T02:37:14Z",
+        "content": "New toy for charting. 34\u201d uhd Samsung display. $AMTD $AMD $XTL $XLC $MSFT $NVDA",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944218993186951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-25T00:00:53Z",
+        "content": "$AMD hedge funds begin increasing positions in 2018 after 2017 exodus. \nkoyfin.com/share/c3893d60",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6172553300857544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-24T23:41:33Z",
+        "content": "$AMD short interest as of 1 Aug was nearly 17%. \nshare.koyfin.com/share/6e79... Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985693693161011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-24T15:18:31Z",
+        "content": "$CGC continuing gains following 4bn USD investment by $STZ\nshare.koyfin.com/share/2b45...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9824527502059937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-22T18:49:25Z",
+        "content": "$TGT mkt price increasing as short interest decreases: \nvid: screencast.com/t/eOv1qn6pP \nchart: share.koyfin.com/share/e0d0... \nvia @KoyfinCharts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944019913673401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-22T18:27:19Z",
+        "content": "$TGT up nearly 8% from yesterday's lows on fundamental catalyst.  \nscreencast.com/t/uTvowR5UN\nshare.koyfin.com/share/5c50...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954055547714233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-22T14:25:25Z",
+        "content": "Quick recap vid on $AAPL using @koyfincharts tools for charting.  chart: share.koyfin.com/share/3e9e...   \nvideo: screencast.com/t/LzP4x7MhY8x Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978639483451843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-21T02:24:19Z",
+        "content": "$AGN testing resistance + YTD highs. Has near to current price spt lvl. Nearly 25% from 52 wk high. +13% in the past 4 weeks.",
+        "sentiment": {
+            "TextBlob": 0.022,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748504757881165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-19T14:17:43Z",
+        "content": "$CELG sideways for several wks after 52wk low on 5/21. Gained nearly 26% since confirming support at 77.25. retesting resistance at 93.25.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844537377357483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-18T13:00:34Z",
+        "content": "$GIS General Mills closing above prev resistance level. Previous resistance acted as support level. Is testing new resistance.",
+        "sentiment": {
+            "TextBlob": 0.004924242424242428,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9783039093017578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-18T01:52:39Z",
+        "content": "$PPL (PPL Corp, Utilities) testing resistance at previous support point.  \nshare.koyfin.com/share/76b9...",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901290535926819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-18T01:30:30Z",
+        "content": "$PCG interesting chart. Consistently testing resistance level. Setting higher lows over several weeks.  \nshare.koyfin.com/share/9db6...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9583157300949097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-17T23:12:42Z",
+        "content": "$NVDA declines >7% off wkly highs. Closes above support lvl. 2% decline will test support.  \nshare.koyfin.com/share/0445...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961020946502686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-17T21:14:20Z",
+        "content": "$AAPL gaining >10% in August on fundamental catalyst and gapping through key level to continue uptrend.  \nshare.koyfin.com/share/6b08... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975333213806152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T22:47:09Z",
+        "content": "$UUP Dollar Index Bull Fund gains while USD slips slightly against safe haven currencies w/ @koyfincharts \nhttps://share.koyfin.com/share/e958ccfd",
+        "sentiment": {
+            "TextBlob": 0.16666666666666669,
+            "NLTK": 0.6151,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941889047622681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T22:42:07Z",
+        "content": "$USDTRY and $BTC.X. Dollar bulls rewarded as USD gains against TRY and BTC via @koyfincharts. \nhttps://share.koyfin.com/share/32dd7f03",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775198101997375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T22:25:14Z",
+        "content": "$XLF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9725176095962524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T22:20:45Z",
+        "content": "$TUR iShares Turkey contagion spreads to $EEM iShares Emerging Mkts. $XLF US Financials flat YTD, testing 200 D.MA.  \nshare.koyfin.com/share/a42a...",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996849298477173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T21:55:38Z",
+        "content": "$IWM Rus 2000 largest advances and declines for 8/15: + $ASNS $KMG $SCPH $PETQ $PRSP, - $CASA $AMEH $RMTI $SHLDQ $VERI\nshare.koyfin.com/share/d225...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976410865783691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T14:58:33Z",
+        "content": "$CGC advances >30% Tues to Weds on news regarding USD 4b investment by Corona beer maker, Constellation Group.  \nshare.koyfin.com/share/13ae...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662635326385498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T14:04:07Z",
+        "content": "$CASA 28% gap down following analyst downgrades. New YTD low.  \nshare.koyfin.com/share/5b05...",
+        "sentiment": {
+            "TextBlob": -0.004797979797979808,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987185001373291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T12:37:47Z",
+        "content": "$NVDA consolidation YTD. Fresh alltime highs. SMA 50, 200 trailing slightly below mktprice, converging. Erngs miss could trigger correction.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977243542671204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-15T12:01:26Z",
+        "content": "$BGG >9% gain in last 24 hrs pre-earnings. >13% from 52 wk low 16.26 on 7/25. Testing previous resistance 18.60.  \nshare.koyfin.com/share/00e3...",
+        "sentiment": {
+            "TextBlob": -0.05555555555555555,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9804239273071289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T21:28:48Z",
+        "content": "@howardlindzon's 8 to 80 list visualized. X axis = 1 year  %change. Y axis = 1 week %change $AAPL $AMZN $NFLX $GOOGL\nshare.koyfin.com/share/5a94...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923640489578247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T20:22:26Z",
+        "content": "M1 Portfolio tracking $DIA, $VMOT and ValueAct \nshare.koyfin.com/share/3d3a...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840918779373169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T20:06:07Z",
+        "content": "$TSLA has an Altman Z score of less than 1.5 @Investopedia\ninvestopedia.com/terms/a/al... Bearish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994632601737976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T20:01:42Z",
+        "content": "$HD profitability and liquidity ratios: \nkoyfin.com/fa/fa.pl/HD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997776448726654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T19:55:27Z",
+        "content": "$HD market price overlaying revenue and EPS \nshare.koyfin.com/share/d3ee...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963542222976685
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T19:50:32Z",
+        "content": "$HD financial highlights: \nkoyfin.com/fa/fa.fh/HD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9776586294174194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T19:43:35Z",
+        "content": "$HD debt to equity, EBITDA / Interest, Net Debt / EBITDA \nshare.koyfin.com/share/16a8... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972020387649536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T19:40:19Z",
+        "content": "$HD positioning. Hedge fund ownership v short interest.  \nshare.koyfin.com/share/c74a...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9855445027351379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T19:38:16Z",
+        "content": "$HD market price overlaying PE (NTM) and price to book: \nshare.koyfin.com/share/06be... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998978853225708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T19:35:35Z",
+        "content": "$HD market price overlaying EPS (LTM) and dividends per share.  \nshare.koyfin.com/share/3c8a...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941397905349731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T19:33:55Z",
+        "content": "$HD major line item margins overlaying market price \nshare.koyfin.com/share/1474...",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879359006881714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T17:27:26Z",
+        "content": "The iShares MSCI Turkey ETF $TUR vs $USDTRY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962108135223389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T17:21:11Z",
+        "content": "#earnings for 8/14 $HD Home Depot $AAP Advanced Auto Parts \nshare.koyfin.com/share/4a4a...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9857391715049744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-13T13:08:05Z",
+        "content": "$USDTRY overlaying  iShares MSCI Turkey Investable Market Index $TUR\nshare.koyfin.com/share/e9fc...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911043643951416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T18:59:41Z",
+        "content": "Upcoming earnings $HD $NVDA $LB $WMT $CSCO $FIZZ $M $DDS $AAP $JWN $DE $FL $TRIP $JCP $MSGE  X axis = stock price, Y axis = Price to Book",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929161071777344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T18:57:46Z",
+        "content": "Upcoming earnings $HD $NVDA $LB $WMT $CSCO $FIZZ $M $DDS $AAP $JWN $DE $FL $TRIP $JCP $MSGE  X axis = stock price, Y axis = PE ratio (NTM)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934266805648804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T18:53:54Z",
+        "content": "#Earnings I am watching this week $HD $NVDA $LB $WMT $CSCO $FIZZ $M $DDS $AAP $JWN $DE $FL $TRIP $JCP $MSGE\nshare.koyfin.com/share/bf8e...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949658513069153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T16:13:35Z",
+        "content": "@DeepValueETFAccumulator @mastertrader7 Literally using the holdings listed in specific ETFs. In this case $DIA and $VMOT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931879043579102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T15:57:36Z",
+        "content": "$WMT #earnings this Thursday. (chart w/ @KoyfinCharts) \nshare.koyfin.com/share/4e4b... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979749321937561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T12:21:45Z",
+        "content": "Tuesday 8/14 #earnings using @KoyfinCharts: $HD ( HOME DEPOT ) $RWLK $AAP $CSSE $EAT $TPR $BDRL $VYNT $LIQT $GDS $AEY\nshare.koyfin.com/share/01a8...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951879978179932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T11:18:08Z",
+        "content": "@DeepValueETFAccumulator M1 portfolio dashboard.m1finance.com/sha... I didn't use any ETFs. I allocated to single stocks based on $DIA and 2 others",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999210000038147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T11:11:53Z",
+        "content": "@DeepValueETFAccumulator I made this Google Sheet to track $SPY and SPDR sector ETFs: docs.google.com/spreadsheet...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996986448764801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T02:26:27Z",
+        "content": "$UUP dollar index bull fund 3 year overlaying $UDN dollar index bearish fund w/ @KoyfinCharts\nshare.koyfin.com/share/8f6b...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994526207447052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T01:57:29Z",
+        "content": "@DeepValueETFAccumulator It appears the only reason to be long $TUR is to hedge $USDTRY given current divergence share.koyfin.com/share/e155...",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991683959960938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-12T00:21:58Z",
+        "content": "5 year performance of H2O ETFs: $PHO $CGW $FIW $PIO $TBLU using @koyfincharts\nshare.koyfin.com/share/f125...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936919212341309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-11T23:23:21Z",
+        "content": "$UUP  8/10/18  v  8/10/17 using @koyfincharts\nshare.koyfin.com/share/4a81...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948810338973999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-11T23:06:48Z",
+        "content": "iShares Global Market ETFs prior week performance using @koyfincharts $FM $EEM $EFA\nshare.koyfin.com/share/4f3c...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963890314102173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-11T23:03:49Z",
+        "content": "$UUP 1 year v $SPY $IWM $DIA $QQQ using @koyfincharts\nshare.koyfin.com/share/8b87...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953747391700745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-07T12:05:52Z",
+        "content": "$DJIA $SPX $VIX nearing pre-volpocalypse levels ( @koyfin ) \nshare.koyfin.com/share/6899...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916415214538574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-07T11:55:56Z",
+        "content": "US Sector visualizations w/ www.koyfin.com$SPY $XLC $IYZ $XLY $XLK $XLF $XLE $XLV $XLI $XLP $XLU $XLB $XLRE\nkoyfin.com/setf",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939616322517395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-06T21:06:30Z",
+        "content": "$MTCH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902234673500061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-06T09:21:48Z",
+        "content": "$ETSY reporting after close",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9859144687652588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-06T09:20:52Z",
+        "content": "$ETSY reporting Q2 after close 8/6 (chart w/ koyfin.com/) \nshare.koyfin.com/share/bd53... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985526204109192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-06T09:10:48Z",
+        "content": "$WW reporting Q2 after close 8/6 (chart w/ koyfin.com @koyfin)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951253533363342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-06T09:09:54Z",
+        "content": "$WW reporting after close 8/6 (chart w/ koyfin.com @koyfin) Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988644123077393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-05T01:20:50Z",
+        "content": "$VMOT $IMOM $IVAL $QVAL $QMOM visualized using koyfin.com/\nshare.koyfin.com/share/330f...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939514398574829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-04T23:25:24Z",
+        "content": "Cambria funds $SYLD $FYLD $GVAL $GMOM $GAA $EYLD $VAMO $SOVB $TAIL $CCOR \nshare.koyfin.com/share/8646...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964419007301331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-04T14:59:31Z",
+        "content": "$ETSY Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980267882347107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-04T14:59:02Z",
+        "content": "@howardlindzon $ETSY revenue and margins heading into earnings Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983879327774048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-04T12:21:41Z",
+        "content": "$AMD w/ @Koyfin\nshare.koyfin.com/share/6392...\nkoyfin.com/share/d79659d1 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983295798301697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-04T11:33:59Z",
+        "content": "$M $KSS $AMD $HBI $MAT all >15% short interest. $EVHC >30% hedge fund owned & >10% short. share.koyfin.com/share/ae5e...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926753640174866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-04T11:31:08Z",
+        "content": "Screen using @koyfin. $SPY HF ownership & short % as scatter plot $M $KSS $AMD $HBI $MAT all >15% short interest. \nshare.koyfin.com/share/928b...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985187649726868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-03T00:37:22Z",
+        "content": "$LULU revenue overlaying short interest and hedge fund ownership w / @Koyfin\nshare.koyfin.com/share/d200... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998930037021637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-02T20:03:33Z",
+        "content": "$AAPL 3 year chart using @Koyfin charts Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967845678329468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-08-01T20:44:18Z",
+        "content": "$TSLA Q2 Update Letter ir.tesla.com/static-files/7...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970308542251587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2018-07-28T13:04:46Z",
+        "content": "$META AH block trade on eve of conf call valued @ nearly 10mil USD briefly ranged the mkt price back to normal hours close.",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979583024978638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "theaiengineer",
+        "timestamp": "2017-10-27T20:20:14Z",
+        "content": "$GE $65mil trade at bell = individual investors are selling at discount and institution just gladly picked up those shares.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838982224464417
+            }
+        },
+        "image_url": ""
+    }
+]

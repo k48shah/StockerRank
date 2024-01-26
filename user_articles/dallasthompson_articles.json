@@ -1,0 +1,632 @@
+[
+    {
+        "username": "dallasthompson",
+        "timestamp": "2020-09-02T23:47:15Z",
+        "content": "How I feel about $AAPL and this new giphy integration",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840737581253052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-11-04T19:57:09Z",
+        "content": "$SPY $DJIA $QQQ  What will you be buying?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916662573814392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-10-07T20:47:49Z",
+        "content": "Cash me da $SPY stream HOW BOW DA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8441954255104065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-09-12T17:43:19Z",
+        "content": "$MO $PM Juuuuuuul",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959588646888733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-08-09T17:51:31Z",
+        "content": "I love this article more than anything. \n\n\"Exactly how Cash App caught on with rappers is a bit of a mystery to its parent company, Square...\" $SQ\n\nJack is just chilling backstage with Meek Mill and Travis Scott pitching mobile payments \n\nwsj.com/articles/dont-venmo...",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990320205688477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-07-26T16:43:42Z",
+        "content": "My first stock purchase ever: just bought $SNAP. \n\nThis may be the top.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.990942656993866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-07-23T17:48:16Z",
+        "content": "Boris Johnson, ladies and gentlemen! $GBPUSD $FTSE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.964144766330719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-07-18T20:09:11Z",
+        "content": "People got into a fight over these limited edition AriZona Iced Tea X $ADDYY sneakers. \n\nCan't blame them, they look fresh",
+        "sentiment": {
+            "TextBlob": 0.11428571428571428,
+            "NLTK": -0.0423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972777962684631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-07-17T22:08:07Z",
+        "content": "Elon kickstarts the human evolution into computers $TSLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9768560528755188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-07-17T16:56:29Z",
+        "content": "PEEP MY PLUS STATUS $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871184825897217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-07-10T20:07:35Z",
+        "content": "Yesterday, we were $BYND meat. Today, we are beyond Fish. \n\nImpossible Foods is looking to make fishless fish. Will $BYND follow in their fishy footsteps?",
+        "sentiment": {
+            "TextBlob": -0.6666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982602000236511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-06-20T21:11:01Z",
+        "content": "What Jack's magic tent looks like $SQ $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979890584945679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-06-18T14:58:51Z",
+        "content": "What do you guys think of Libra? $META $BTC.X\nlibra.org/en-US/white-paper/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975192546844482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-06-05T21:02:13Z",
+        "content": "I think you could make the case that $AEO manages to stay afloat because they have been able to become far more inclusive and relatable to Gen Z - making clothes for all body types and creating messaging that welcomes, as opposed to other clothing brands that have excluded or alienated young shoppers (*cough* $ANF *cough*) \n\nhttps://www.bloomberg.com/news/articles/2019-06-04/american-eagle-builds-on-jeans-lingerie-with-diversity-message",
+        "sentiment": {
+            "TextBlob": 0.1892857142857143,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9441493153572083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-06-05T19:33:49Z",
+        "content": "Hey, excel monkeys - look what you can do now. Pretty nifty $MSFT\nmicrosoft.com/en-us/microso...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9883193969726562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-24T15:35:00Z",
+        "content": "Zuck: Hey, strangers. How you been?\n\nWinklevoss twins: Well, well, well, look who it is. \n\n$META $BTC.X\ncnbc.com/2019/05/24/zuckerb...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891873002052307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-22T18:44:52Z",
+        "content": "$URBN is getting into the game of clothing rentals:\n\n\"It will soon launch a service called Nuuly, charging $88 per month for six pieces.\"\n\nEven though this will include brands like Free People and Anthropologie, I can't imagine people will be clamoring to rent Urban's cheap tshirts that already line the floor of their closets. \n\ncbsnews.com/news/urban-outf...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954178333282471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-22T18:32:01Z",
+        "content": "Hey, look on the bright side. $TSLA is getting a new social media manger: \n\n\"Tesla hires the 'absolute unit' meme guy to run its social media\"\n\nmashable.com/article/elon-m...",
+        "sentiment": {
+            "TextBlob": 0.22060606060606064,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858704209327698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-21T18:17:51Z",
+        "content": "Can someone tell me why $OSTK is up today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992173910140991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-16T17:52:53Z",
+        "content": "$YUM Taco Bell now has a hotel! But did we ever need one? \n\ncnbc.com/2019/05/16/taco-be...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930181503295898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-13T21:19:53Z",
+        "content": "Apparently, it's a finite resource. Party's over. $PRTYQ",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990205764770508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-08T16:53:15Z",
+        "content": "$SNE $SPOT $AAPL \n\nI threw a wish in the well\nDon't ask me I'll never tell\nI looked to you as it fell\nAnd now you're in my way\nI'd trade my soul for a wish\nPennies and dimes for a kiss\nI wasn't looking for this\nBut now you're in my way\n\nYour stare was holding\nRipped jeans, skin was showin'\nHot night, wind was blowin'\nWhere you think you're going baby?\n\nHey, I just met you and this is crazy\nBut here's my number, so call me maybe\nIt's hard to look right at you baby\nBut here's my number, so call me maybe\nHey I just met you and this is crazy\nBut here's my number, so call me maybe\nAnd all the other boys try to chase me\nBut here's my number, so call me maybe\n\nYou took your time with the call\nI took no time with the fall\nYou gave me nothing at all\nBut still you're in my way\nI beg and borrow and steal\nAt first sight and it's real\nI didn't know I would feel it\nBut it's in my way\n\nYour stare was holding\nRipped jeans, skin was showin'\nHot night, wind was blowin'\nWhere you think you're going baby?",
+        "sentiment": {
+            "TextBlob": -0.042328042328042326,
+            "NLTK": -0.8079,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8334363698959351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-05-03T17:22:37Z",
+        "content": "Are we ok? $MCD $QSR\ncnbc.com/2019/05/03/burger-...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988261878490448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-04-25T16:29:36Z",
+        "content": "$SPY $AMZN $SBUX $DJIA $NDAQ $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954721927642822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-04-24T21:34:58Z",
+        "content": "\"It's fine.\" $TSLA",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997296929359436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-04-24T20:37:55Z",
+        "content": "40 million people are now saying \"venmo me\" $PYPL\ncnbc.com/2019/04/24/venmo-h...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955034852027893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-04-24T19:47:30Z",
+        "content": "\"Netflix Inc. may soon have to contemplate life without its No. 1 show. It\u2019s \u201cThe Office.\u201d $NFLX $CMCSA $DIS $T\nwsj.com/articles/netflix-ba...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985729455947876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-04-02T19:56:16Z",
+        "content": "$AMZN whole foods discounts produce cnbc.com/2019/04/01/whole-f...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844383597373962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-03-19T22:17:58Z",
+        "content": "$FOXA's newest board member, presumably working on all sports-related endeavors",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9590460658073425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-03-19T20:54:56Z",
+        "content": "No console, but the new controller comes with google assistant. Ask it anything $GOOGL#Stadia",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99733966588974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-03-13T21:19:43Z",
+        "content": "When $META and Insta are both down",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993231296539307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-03-05T17:58:57Z",
+        "content": "Ariana Grande is now an $SBUX ambassador. The stock is up 1%. Coincidence? I think not.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854720234870911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-02-27T23:13:42Z",
+        "content": "$TSLA Is Elon now the elephant in the room?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958387613296509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-02-25T22:24:08Z",
+        "content": "$ETSY \"I\u2019m gonna keep burning and burning  till  you finally get tired of DIY furnishings, which will be never.\" theonion.com/we-re-going-to...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948711395263672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-02-21T19:28:14Z",
+        "content": "$DIN it's LIT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9918907880783081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-02-08T19:05:09Z",
+        "content": "$AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828813076019287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2019-02-07T22:15:40Z",
+        "content": "$MAT barbie sales are UP 12%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8808598518371582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-12-12T22:09:23Z",
+        "content": "The tragedy is that I didn't catch one of these stuffed animals $TME",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997228980064392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-11-21T00:15:14Z",
+        "content": "\"Alexa, play Wild Wild West by Will Smith.\" - says US regulators as they investigate $BTC. That and more from today: \nmailchi.mp/stocktwits/bitco...",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8041927218437195
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-11-20T20:04:56Z",
+        "content": "The opposite of how we currently feel $SPY $QQQ $DJIA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999703586101532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-11-19T18:19:38Z",
+        "content": "$AAPL right now ...",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9857538938522339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-09-20T22:28:56Z",
+        "content": "$AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828813076019287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-09-12T17:11:39Z",
+        "content": "@StockTwits $AAPL making hardware sexy",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8573291301727295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-09-06T16:32:31Z",
+        "content": "$META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9424152970314026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "dallasthompson",
+        "timestamp": "2018-09-04T16:55:30Z",
+        "content": "$NKE seeking (new) balance",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938073754310608
+            }
+        },
+        "image_url": ""
+    }
+]

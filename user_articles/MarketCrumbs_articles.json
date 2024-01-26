@@ -1,0 +1,1164 @@
+[
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-09-11T21:22:31Z",
+        "content": "Facebook Returns To Its Roots marketcrumbs.com/post/faceb... $META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8599304556846619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-09-04T21:31:38Z",
+        "content": "Honda and GM Join Forces marketcrumbs.com/post/honda... $GM $HMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942150712013245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-08-31T22:16:43Z",
+        "content": "Utz Becomes The Latest SPAC Target marketcrumbs.com/post/utz-b... $UTZ",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992490410804749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-08-18T20:34:04Z",
+        "content": "Amazon Once Again Attracts Critics In India marketcrumbs.com/post/amazo... $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9233765602111816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-08-17T21:08:08Z",
+        "content": "Epic Games Takes On Apple and Google marketcrumbs.com/post/epic-... $AAPL $GOOGL",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964643716812134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-08-14T20:20:48Z",
+        "content": "Poor Ronald Wayne marketcrumbs.com/post/poor-... $AAPL",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997997879981995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-08-12T20:28:24Z",
+        "content": "2020 E-commerce Sales Dwarfing 2019 So Far marketcrumbs.com/post/2020-... $AMZN $WMT $XRT",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969562292098999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-08-11T20:34:14Z",
+        "content": "People Are Hanging On To Concert Tickets marketcrumbs.com/post/peopl... $LYV",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974859952926636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-28T20:19:25Z",
+        "content": "Americans Rush To Buy RVs marketcrumbs.com/post/ameri... $WGO $THO $CWH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979652166366577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-27T20:24:15Z",
+        "content": "Insider Selling Begins To Pick Up marketcrumbs.com/post/insid... $SPY $QQQ $DIA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975538849830627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-23T20:35:47Z",
+        "content": "Brokers Confirm Rise Of Retail Trading marketcrumbs.com/post/broke... $SCHW $AMTD $IBKR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8715536594390869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-22T20:14:04Z",
+        "content": "Kanye Wants A Board Seat marketcrumbs.com/post/kanye... $GPS",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986452460289001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-15T20:23:32Z",
+        "content": "Amazon Continues To Innovate Grocery Stores marketcrumbs.com/post/amazo... $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9919528365135193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-14T20:26:58Z",
+        "content": "Can Google Kill The Four-Year Degree marketcrumbs.com/post/can-g... $GOOG $GOOGL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996032118797302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-13T20:17:33Z",
+        "content": "Wayfair Hit With A Conspiracy Theory marketcrumbs.com/post/wayfa... $W",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997589111328125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-10T20:14:34Z",
+        "content": "Blank Check Companies Chase EV Makers marketcrumbs.com/post/blank... $NKLA $TSLA $FSR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996421337127686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-09T20:12:43Z",
+        "content": "Twitter Jumps On Subscription Platform Hopes marketcrumbs.com/post/twitt... $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957749247550964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-08T20:16:15Z",
+        "content": "TikTok Doesn't Have Just An India Problem marketcrumbs.com/post/tikto... $SNAP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955435395240784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-07T20:18:04Z",
+        "content": "TikTok Has An India Problem marketcrumbs.com/post/tikto... $SNAP $META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991426467895508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-07-06T20:11:53Z",
+        "content": "Buffett Finally Makes A Deal marketcrumbs.com/post/buffe... $BRK.A $BRK.B",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.717578649520874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-30T20:12:46Z",
+        "content": "FICO Introduces New Credit Measure marketcrumbs.com/post/fico-... $FICO",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8674836158752441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-26T20:23:30Z",
+        "content": "Impossible Foods' CEO Is Very Optimistic marketcrumbs.com/post/impos... $BYND",
+        "sentiment": {
+            "TextBlob": -0.2333333333333333,
+            "NLTK": 0.3804,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856572151184082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-25T20:24:01Z",
+        "content": "Facebook Boycott Gains Momentum marketcrumbs.com/post/faceb... $META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941645264625549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-24T20:37:28Z",
+        "content": "Are Retail Investors Looking for Entertainment marketcrumbs.com/post/are-r... $SPY $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971850514411926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-23T20:11:47Z",
+        "content": "Travel Industry Hitting Google Ad Revenue marketcrumbs.com/post/trave... $GOOGL $GOOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998066246509552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-19T20:22:21Z",
+        "content": "Auditors Can't Find Cash At Wirecard marketcrumbs.com/post/audit... $WCAGY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992842078208923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-18T20:12:48Z",
+        "content": "SEC Has Issues With Hertz marketcrumbs.com/post/sec-h... $HTZGQ",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990144968032837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-17T20:14:22Z",
+        "content": "\u202aThe EU Eyes Tech Giants https://www.marketcrumbs.com/post/the-eu-eyes-tech-giants\u202c $AAPL $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941990375518799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-16T20:35:08Z",
+        "content": "Sugar Demand Plummets marketcrumbs.com/post/sugar... $KO $PEP $SB_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997091889381409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-11T20:43:49Z",
+        "content": "Amazon Teams Up With Goldman Sachs marketcrumbs.com/post/amazo... $AMZN $GS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991957426071167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-09T20:38:56Z",
+        "content": "Mystery Shoppers Look For Hand Sanitizer marketcrumbs.com/post/myste... $Cost $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993606209754944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-05T20:36:17Z",
+        "content": "First Tuna, Now Chicken Price Fixing marketcrumbs.com/post/first... $PPC $TSN",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970723390579224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-06-02T21:37:59Z",
+        "content": "Are Trade Deal Troubles Brewing marketcrumbs.com/post/are-t... $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995473027229309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-05-29T20:30:56Z",
+        "content": "Social Media Companies Face Pressure marketcrumbs.com/post/socia... $TWTR.P $META",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989156723022461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-05-28T20:33:31Z",
+        "content": "Facebook Continues Its Aggressive Push marketcrumbs.com/post/faceb... $META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948728680610657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-03-30T20:23:33Z",
+        "content": "\u202aCoronavirus Hits Farmers https://www.marketcrumbs.com/post/coronavirus-hits-farmers\u202c $DE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7090643048286438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-03-25T20:16:51Z",
+        "content": "\u202aWho's Hiring? https://www.marketcrumbs.com/post/who-s-hiring\u202c $amzn $wmt $dpz $DLTR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982179999351501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-03-23T20:15:29Z",
+        "content": "\u202aAmerican Industry Pivots https://www.marketcrumbs.com/post/american-industry-pivots\u202c $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925482869148254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-03-13T22:43:24Z",
+        "content": "\u202aRIP Bull Market: 2009-2020 https://www.marketcrumbs.com/post/rip-bull-market-2009-2020\u202c $DIA $SPY $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965898990631104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-03-10T20:58:46Z",
+        "content": "\u202aMarkets On The Brink Of A Bear Market https://www.marketcrumbs.com/post/markets-on-the-brink-of-a-bear-market\u202c $SPY $QQQ $DIA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979913234710693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-27T21:27:22Z",
+        "content": "\u202aIs Amazon Finally Ready To Overtake The Grocery Industry? https://www.marketcrumbs.com/post/is-amazon-finally-ready-to-overtake-the-grocery-industry\u202c $AMZN",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996357262134552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-21T21:09:21Z",
+        "content": "\u202aWhat Does Amazon's 37,000 Job Postings Say About Its Ambitions? https://www.marketcrumbs.com/post/what-does-amazon-s-37-000-job-postings-say-about-its-ambitions\u202c $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970495700836182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-20T21:42:48Z",
+        "content": "\u202aWill Tech's First Union Open The Floodgates For Others? https://www.marketcrumbs.com/post/will-tech-s-first-union-open-the-floodgates-for-others\u202c $QQQ $COMPQ",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935486912727356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-19T22:45:47Z",
+        "content": "Is Bigger Better If Active Managers Want To Fight Passive Managers? marketcrumbs.com/post/is-bi... $BEN $LM",
+        "sentiment": {
+            "TextBlob": 0.12222222222222223,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988662004470825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-18T21:09:25Z",
+        "content": "\u202aWhat's The Real Reason It's Becoming Easier To Invest? https://www.marketcrumbs.com/post/what-s-the-real-reason-it-s-becoming-easier-to-invest\u202c $SPY $QQQ $DIA",
+        "sentiment": {
+            "TextBlob": 0.325,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966784715652466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-14T21:07:45Z",
+        "content": "\u202aThere's A New Record Number Of 401(k) Millionaires https://www.marketcrumbs.com/post/there-s-a-new-record-number-of-401-k-millionaires\u202c $SPY $QQQ $DIA",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.983062744140625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-11T21:24:28Z",
+        "content": "\u202aSurprising No One, Cryptocurrency Scams Are On The Rise https://www.marketcrumbs.com/post/surprising-no-one-cryptocurrency-scams-are-on-the-rise\u202c $BTC.X $ETH.X $LTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998467743396759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-10T21:34:57Z",
+        "content": "\u202aAre Tech Companies Starting To Throw In The Towel On San Francisco? https://www.marketcrumbs.com/post/are-tech-companies-starting-to-throw-in-the-towel-on-san-francisco\u202c $TWTR.P $QQQ $NASDAQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970595240592957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-06T21:06:39Z",
+        "content": "\u202aCasper Is Setting The Tone For IPOs This Year And It Doesn't Look Good https://www.marketcrumbs.com/post/casper-is-setting-the-tone-for-ipos-this-year-and-it-doesn-t-look-good\u202c $CSPR",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997954964637756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-02-04T21:18:44Z",
+        "content": "\u202aMall Operators Are Trying Everything To Fight Off High Vacancy Rates https://www.marketcrumbs.com/post/mall-operators-are-trying-everything-to-fight-off-high-vacancy-rates\u202c $SPG $BPY",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983024597167969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-30T21:13:52Z",
+        "content": "\u202aDid SoftBank Just Mark The Top Of The Fake Meat Bubble? https://www.marketcrumbs.com/post/did-softbank-just-mark-the-top-of-the-fake-meat-bubble\u202c $BYND",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994103908538818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-29T21:10:49Z",
+        "content": "\u202aTech Companies Are Spending Big Bucks To Attract Top Gamers marketcrumbs.com/post/tech-... \u202c$FB $AMZN $GOOG $MSFT",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940749406814575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-28T21:06:57Z",
+        "content": "\u202aIs Google's New Side Hustle Actually A Win For Privacy Advocates? https://www.marketcrumbs.com/post/is-google-s-new-side-hustle-actually-a-win-for-privacy-advocates\u202c $GOOGL",
+        "sentiment": {
+            "TextBlob": 0.4681818181818182,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978746175765991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-24T21:13:28Z",
+        "content": "\u202aIs Coronavirus Just Another Generational Dip-Buying Opportunity? https://www.marketcrumbs.com/post/is-coronavirus-just-another-generational-dip-buying-opportunity\u202c $SPY $DIA $QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993321299552917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-23T21:40:02Z",
+        "content": "\u202aDespite Tesla's Short Squeeze, The Broader EV Market Isn't Exactly Hot https://www.marketcrumbs.com/post/despite-tesla-s-short-squeeze-the-broader-ev-market-isn-t-exactly-hot\u202c $TSLA",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995337724685669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-22T21:12:10Z",
+        "content": "\u202aOn This Day In 1984, The Macintosh Changed The World https://www.marketcrumbs.com/post/on-this-day-in-1984-the-macintosh-changed-the-world\u202c $AAPL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9416208267211914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-17T22:08:52Z",
+        "content": "\u202aAmazon Has An India Problem https://www.marketcrumbs.com/post/amazon-has-an-india-problem\u202c $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990467429161072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-15T21:03:31Z",
+        "content": "\u202aBlackRock Wants Nothing To Do With Black Rocks Anymore https://www.marketcrumbs.com/post/blackrock-wants-nothing-to-do-with-black-rocks-anymore\u202c $BLK",
+        "sentiment": {
+            "TextBlob": 0.016666666666666677,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992039799690247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-14T23:22:02Z",
+        "content": "\u202aWalmart Is Going All-In On Automation To Remain The King Of Retail https://www.marketcrumbs.com/post/walmart-is-going-all-in-on-automation-to-remain-the-king-of-retail\u202c $WMT $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8162352442741394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-09T21:06:43Z",
+        "content": "\u202aIt Is Not A Good Time To Be In The Milk Business https://www.marketcrumbs.com/post/it-is-not-a-good-time-to-be-in-the-milk-business\u202c $DF",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998001456260681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-08T21:16:21Z",
+        "content": "\u202aFake Meat Burgers Were Just The Tip Of The Iceberg marketcrumbs.com/post/fake-... \u202c$bynd",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997151494026184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-07T21:06:17Z",
+        "content": "\u202aAlexa Took Over Your Home...Now It Wants To Take Over Your Car https://www.marketcrumbs.com/post/alexa-took-over-your-home-now-it-wants-to-take-over-your-car\u202c $AMZN",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925817251205444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2020-01-06T21:27:21Z",
+        "content": "\u202aTwitter The Stock And Twitter The Service Are Worlds Apart marketcrumbs.com/post/twitt... \u202c $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930059909820557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-12-26T21:17:45Z",
+        "content": "\u202aEnd Of An Era As Kalanick Dumps Uber Shares And Leaves The Board https://www.marketcrumbs.com/post/end-of-an-era-as-kalanick-dumps-uber-shares-and-leaves-the-board\u202c $UBER",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0534,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996142387390137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-12-06T21:14:44Z",
+        "content": "\u202aThe World Has Gone Bananas https://www.marketcrumbs.com/post/the-world-has-gone-bananas\u202c $SPY $QQQ $DIA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980196952819824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-12-04T21:08:52Z",
+        "content": "\u202aThe \u201cSilicon Six\" Are Doing A Great Job Avoiding Taxes https://www.marketcrumbs.com/post/the-silicon-six-are-doing-a-great-job-avoiding-taxes\u202c $META $AMZN $NFLX $GOOG $AAPL $MSFT",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9573633074760437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-12-02T21:28:28Z",
+        "content": "\u202aIt Appears Black Friday Is Becoming More Irrelevant https://www.marketcrumbs.com/post/it-appears-black-friday-is-becoming-more-irrelevant\u202c $AMZN $WMT $TGT $RLX",
+        "sentiment": {
+            "TextBlob": 0.07083333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997983574867249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-11-26T21:33:25Z",
+        "content": "\u202aInvestment Bankers Are Grateful for M&A This Thanksgiving https://www.marketcrumbs.com/post/investment-bankers-are-grateful-for-m-a-this-thanksgiving\u202c $TIF $SCHW $AMTD $LVMUY $NVS $MDCO $EBAY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9894101619720459
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-11-21T21:31:10Z",
+        "content": "\u202aWhat Is TikTok And Why Is It In The News 24/7? https://www.marketcrumbs.com/post/what-is-tiktok-and-why-is-it-in-the-news-24-7\u202c $META $TWTR.P $SNAP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985367059707642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-11-08T21:13:20Z",
+        "content": "\u202aIt's Not Your Grandparents' Beverage Market Anymore https://www.marketcrumbs.com/post/it-s-not-your-grandparents-beverage-market-anymore\u202c $KO $BUD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994357228279114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-11-07T21:24:20Z",
+        "content": "\u202aIs Walmart More Of A Threat To Amazon Than Many Think? https://www.marketcrumbs.com/post/is-walmart-more-of-a-threat-to-amazon-than-many-think\u202c $WMT $AMZN",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.4549,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981032609939575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-11-05T21:08:20Z",
+        "content": "\u202aCould One \"Whale\" Really Have Caused Bitcoin's Rally in 2017? https://www.marketcrumbs.com/post/could-one-whale-really-have-caused-bitcoin-s-rally-in-2017\u202c $BTC.X",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998458743095398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-11-04T21:14:28Z",
+        "content": "\u202aCEOs Having A Rough 2019, But They'll Be Just Fine https://www.marketcrumbs.com/post/ceos-having-a-rough-2019-but-they-ll-be-just-fine\u202c $MCD",
+        "sentiment": {
+            "TextBlob": 0.15833333333333333,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9638890624046326
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-11-01T20:05:47Z",
+        "content": "\u202aFinancial Services Firms Continue To Flee To Tax-Friendly States https://www.marketcrumbs.com/post/financial-services-firms-continue-to-flee-to-tax-friendly-states\u202c $JPM $DB $GS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988695979118347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-31T20:32:13Z",
+        "content": "\u202aJerome Powell And The Fed Save The Day...For Some https://www.marketcrumbs.com/post/jerome-powell-and-the-fed-save-the-day-for-some\u202c $SPY $ES_F $DIA $DJIA $QQQ $NASDAQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969629645347595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-29T20:10:04Z",
+        "content": "\u202aIt's Been 90 Years Since Black Tuesday, Could It Ever Happen Again? https://www.marketcrumbs.com/post/it-s-been-90-years-since-black-tuesday-could-it-ever-happen-again\u202c $SPY $ES_F $DIA $DJIA $QQQ $NASDAQ",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978464841842651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-29T00:18:47Z",
+        "content": "\u202aGM Strikes A Deal With The UAW As Ford and Fiat Chrysler Are Next\u202c https://www.marketcrumbs.com/post/gm-strikes-a-deal-with-the-uaw-as-ford-and-fiat-chrysler-are-next\u202c $F $GM $STLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969784021377563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-25T16:31:38Z",
+        "content": "\u202aIf It's Too Good To Be True, Enjoy It, Because It Probably Is https://www.marketcrumbs.com/post/if-it-s-too-good-to-be-true-enjoy-it-because-it-probably-is\u202c $UBER $LYFT $APRN $WE",
+        "sentiment": {
+            "TextBlob": 0.4833333333333332,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842246770858765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-22T16:40:09Z",
+        "content": "\u202aWhat Do A Stock Analyst, Weatherperson and Economist Have In Common? https://www.marketcrumbs.com/post/what-do-a-stock-analyst-weatherperson-and-economist-have-in-common\u202c $UBER $LYFT $SDC $PTON",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979817867279053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-21T13:52:01Z",
+        "content": "Will Boeing Become A Case Study On Sacrificing Quality For Financial Gain? marketcrumbs.com/post/will-... $BA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977083206176758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-18T13:11:13Z",
+        "content": "\u202aDon't Kid Yourself, Banning Flavored Juul Pods Is All About Money https://www.marketcrumbs.com/post/don-t-kid-yourself-banning-flavored-juul-pods-is-all-about-money\u202c $MO $PM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986404776573181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-17T01:33:21Z",
+        "content": "The Year Is 2023. The S&P 500 Rallies To 6,000 On Hopes Of A Phase 10 Trade Deal marketcrumbs.com/post/the-y... $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901387691497803
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MarketCrumbs",
+        "timestamp": "2019-10-17T01:32:35Z",
+        "content": "Good Luck Competing Against Wall Street When Buying Your Next Home marketcrumbs.com/post/good-... $XHB $GM $YUM",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.820121705532074
+            }
+        },
+        "image_url": ""
+    }
+]

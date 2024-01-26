@@ -1,0 +1,72 @@
+[
+    {
+        "username": "Andy__Moss",
+        "timestamp": "2021-10-01T21:48:55Z",
+        "content": "$MRO weekly breakout \n@TrendSpider share.trendspider.com/chart...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9791072607040405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Andy__Moss",
+        "timestamp": "2021-10-01T21:40:13Z",
+        "content": "$ATI First ray of sunshine for this one in 17 weeks. Watch out for the volume gap below last week's low @TrendSpider share.trendspider.com:443/c...",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992013156414032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Andy__Moss",
+        "timestamp": "2013-12-09T02:54:13Z",
+        "content": "\"@WallStJesus: 1993 VS 2013 \u00c2\u00bb\u00c2\u00bb\n$AAPL  http://stks.co/i015C\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907564520835876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Andy__Moss",
+        "timestamp": "2013-09-19T20:25:17Z",
+        "content": "@chicagosean Pairs trade? $ST $FU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965946078300476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Andy__Moss",
+        "timestamp": "2013-05-06T18:46:47Z",
+        "content": "If only I could print a $TSLA car with my $DDD printer",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993545413017273
+            }
+        },
+        "image_url": ""
+    }
+]

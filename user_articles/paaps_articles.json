@@ -1,0 +1,3488 @@
+[
+    {
+        "username": "paaps",
+        "timestamp": "2023-05-11T01:31:51Z",
+        "content": "$PLUG Sentiments are Bullish,\nWatch this after 2 weeks, u will regret if u did not get in now.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994489550590515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-05-10T13:23:15Z",
+        "content": "$PLUG Show me $$$ baby \u2708\ufe0f\u2604\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903609752655029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-05-10T01:04:22Z",
+        "content": "$PLUG Took a good position just at close $8.00, feel good def by next week will be back to 9.25-9.50 range.\nRevenues are up in this bloody market and hydrogen procurement costs are going to go down plus the giga factories. \nFirst time entering PLUG hopefully\u2026.",
+        "sentiment": {
+            "TextBlob": 0.09920634920634919,
+            "NLTK": 0.3453,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.950796902179718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-05-09T14:04:38Z",
+        "content": "$OCUL Sold all of mine at $6.70 was an amazing run",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992399215698242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-23T13:20:55Z",
+        "content": "$OCUL She is moving, ready for \ud83d\udeeb hold tight",
+        "sentiment": {
+            "TextBlob": 0.010714285714285718,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976837635040283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-22T20:58:30Z",
+        "content": "$OCUL Amazing close today,feels great",
+        "sentiment": {
+            "TextBlob": 0.7000000000000001,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998503923416138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-17T19:41:23Z",
+        "content": "$OCUL Something is cooking \nFeeling good",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997988343238831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-17T18:01:46Z",
+        "content": "$OCUL Rock solid will \u2708\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997921586036682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-15T19:34:43Z",
+        "content": "$OCUL Still holding this is great",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996284246444702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-15T16:10:36Z",
+        "content": "$OCUL ok now the beginning \u2708\ufe0f\ud83e\udd42\ud83c\udf89 Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970520734786987
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-15T15:51:11Z",
+        "content": "$OCUL Damm the mkt is down for 2nd day still OCUL vol is nice",
+        "sentiment": {
+            "TextBlob": 0.14814814814814814,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9866207838058472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-15T12:30:16Z",
+        "content": "$OCUL if mkt os +ve and vol is high in OCUL then it will be 6.75 range today",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6247714757919312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-14T20:51:40Z",
+        "content": "$OCUL might close at 6.10-6.15 range",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898138642311096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-14T20:48:25Z",
+        "content": "$OCUL Tomorrow should be 6.75-7.00, vol is still pretty heavy",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993962049484253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-14T20:36:36Z",
+        "content": "$OCUL here u go my boy 6+",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8497992753982544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-14T19:29:32Z",
+        "content": "$OCUL \n6+ soon amazing",
+        "sentiment": {
+            "TextBlob": 0.6000000000000001,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997972846031189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-14T18:16:48Z",
+        "content": "$OCUL \nWow great going in a falling mkt, this will fly once mkt gets +ve, looks great",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.9081,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974954724311829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-14T15:30:09Z",
+        "content": "$OCUL \nlook like u bashing this all along with NO idea of this co",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1111,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995817542076111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-04T02:55:16Z",
+        "content": "$OCUL Realistically we can go to $5.75-$6.00 range after Feb 11th. something is def cooking. Shares are offered to Leadership teams when some positive news us expected. Hang on\u2026 we are moving",
+        "sentiment": {
+            "TextBlob": 0.06363636363636363,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982300400733948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-02-02T15:07:57Z",
+        "content": "$OCUL ok now we\u2019re talking \nVol is up and lots of expectations for Feb 11th, Praying they deliver this time, Come on Tony\u2026 wake up",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6779060363769531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-01-17T23:07:15Z",
+        "content": "$OCUL inspite of Indices being down sharply all day OCUL vol was amazing and holding up, well on the way to 6+++",
+        "sentiment": {
+            "TextBlob": 0.10648148148148151,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994447827339172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2023-01-06T18:57:58Z",
+        "content": "$OCUL One if the highest trade vol. in recent times. Have products just need to add on Mktg muscle and give some PR booster doses periodically",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926791191101074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-03-07T13:54:50Z",
+        "content": "$BBBYQ When are BBBY earning due? any idea.Thanks",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8972428441047668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-03-07T13:11:41Z",
+        "content": "$BBBYQ I personally think it will hit 40+ soon. Bought at 17.85 after last earnings. Still is a visible business and revamping model.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971010088920593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-03-07T13:07:44Z",
+        "content": "$BBBYQ Love the hate of those who failed to get in or who are shorts. Sometimes applaud the guts of investors, those haters did not do anything but only comment\u2026",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9572187066078186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-03-07T11:33:50Z",
+        "content": "$BBBYQ Ok finally patience pays\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9813259840011597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-03-02T13:37:14Z",
+        "content": "$BBBYQ Now all bashers are singing praises here, I said so, I gave alerts etc. BBBY hold strong we will get over this too. They are revamping business is bound to grow",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998885452747345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-02-04T00:26:29Z",
+        "content": "$BBBYQ Have u even invested a penny in this stock\ud83d\ude01",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995452880859375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-02-04T00:25:28Z",
+        "content": "$BBBYQ Just bashing all day like a broken record makes no sense if u have no investments there",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997053742408752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-02-01T15:59:10Z",
+        "content": "$BBBYQ where are naked Bears running to get ur underwear \ud83d\ude01. Patience pays\ud83d\udc4f\ud83d\udc4d\ud83d\udc4c",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937407374382019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-01-31T16:57:24Z",
+        "content": "$BBBYQ Would be 23-24 in 2 months for sure go go",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926059246063232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-01-31T16:53:35Z",
+        "content": "$BBBYQ Where are losers and shorters, why are u not posting anymore come on\u2026.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993793964385986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2022-01-25T03:23:24Z",
+        "content": "$BBBYQ Most of the comments are of people who are shorting this stock or those who own none and just shit out everyday",
+        "sentiment": {
+            "TextBlob": 0.17500000000000004,
+            "NLTK": 0.4449,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999279797077179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2021-11-12T19:20:24Z",
+        "content": "$OSTK Sold mine at101.5 was holding for past 6 months good ride from $71.Time to move on will hop back in 80\u2019s.Thanks OSTK",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9970318078994751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2021-02-23T21:40:57Z",
+        "content": "$OSTK Will hit $100 tomorrow for sure, put it down",
+        "sentiment": {
+            "TextBlob": 0.17222222222222222,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997037053108215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2021-02-23T02:41:59Z",
+        "content": "$LCID This what happens when u gamble everything",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915531277656555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2021-02-19T23:10:48Z",
+        "content": "$FCEL $PLUG $GEVO nice round up to the weekend",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.956212043762207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2021-02-09T18:32:12Z",
+        "content": "$GNMK Sold mine at 17.25 was holding for a while",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924151301383972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2021-02-08T22:24:06Z",
+        "content": "$OCGN Comeon at least for once say some truth, these days even employees get stick options \ud83d\ude00",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957330822944641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2021-02-06T00:00:24Z",
+        "content": "$OCGN AH pump will get dumped for sure",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998031258583069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-12-15T02:25:47Z",
+        "content": "$TCRT Why did it go up?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995843231678009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-12-01T21:39:51Z",
+        "content": "$IBIO is the party about to begin or going to fizzle out even before it get started",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993401169776917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-12-01T21:36:52Z",
+        "content": "$IBIO does anybody remember why it spiked to $7 in july-aug, would love it if the same happens",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842239022254944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-12-01T21:34:08Z",
+        "content": "$IBIO yes my almost breakeven",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853664636611938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-12-01T21:32:57Z",
+        "content": "$IBIO bag holding from $2.54 need to get my$$ back",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983747005462646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-12-01T02:20:07Z",
+        "content": "$TCRT Is there a typo possibilities of .50. I held this junk for long finally got rid if it at a loss, total garbage, mgt sucks",
+        "sentiment": {
+            "TextBlob": -0.0875,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999717652797699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-30T03:28:23Z",
+        "content": "$APHA $CGC $ACB $TLRY $IIPR sorry bro that was mean of me, but out of curiosity do you ever sleep, even on weekends ur on the go bro love it",
+        "sentiment": {
+            "TextBlob": -0.10416666666666667,
+            "NLTK": 0.7684,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9802350997924805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-30T03:24:00Z",
+        "content": "$APHA $CGC $ACB $TLRY $IIPR \nAfter this 2-3 might click and u will post I said so. No rocket science if you pick 20 stocks which moved recently 2-3 still will continue that",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4341,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988883137702942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-16T10:44:06Z",
+        "content": "$HPR Reverse split EOD 5:1,earnings look highly manipulated. Pump and dump",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": -0.6697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990629553794861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-12T22:29:28Z",
+        "content": "$NVAX Something big news is coming out soon after seeing the bounce in past 48 hrs, sure it is going to take off Bullish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9857501983642578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-12T15:25:42Z",
+        "content": "$NVAX Where are jokers who were bashing it till an hr ago Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991517066955566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-12T14:06:06Z",
+        "content": "$NVAX The idiot is back with his trash everyday shit",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99899822473526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-10T19:40:31Z",
+        "content": "$INO If this continued i might break even $15.65",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984789490699768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-10T02:04:05Z",
+        "content": "$NVAX For the next 48-72 hrs the shorts are going bark, be patient, it go away, be patient. It is just like a small bump you get after a Vaccine shot.",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885254502296448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-09T23:10:10Z",
+        "content": "$NVAX There are the same 3-4 people bashing NVAX every 3 hrs or so, must have been so badly burned of shorting it, come on guys ur losers, even after all ur bashings and nit an expected earning call, still rock steady. NVAX WE ARE THE CHAMPIONS Bullish",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.5037,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99869304895401
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-09T21:21:44Z",
+        "content": "$NVAX will be back to $100 on Wed",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99472576379776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-06T22:21:36Z",
+        "content": "$APVO could anyone sell this AH? Never seen this bump ever",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954426288604736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-11-01T23:58:20Z",
+        "content": "@ELPEPON707 Looks like he knows where the prices of stocks are with the time frame, at this rate he should he the richest man on earth. Just plain BS has been bashing NVAX, I am sure he has shorted it and now shitting as he is going to loose $$$. \nJust look at all his posts feel pity for this guy Bullish",
+        "sentiment": {
+            "TextBlob": 0.02719780219780219,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996557235717773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-10-31T00:19:44Z",
+        "content": "$NVAX Nothing is predictable in the vaccine world. It initially shows lots if promise and raises expectations. Then the pump up , raising funds and them it tanks. It is mostly manipulation with the internal players and big investors and we small time are a toast",
+        "sentiment": {
+            "TextBlob": 0.008333333333333331,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9175992608070374
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-10-29T13:34:10Z",
+        "content": "$OSTK i think it will be around 81-84 today and go 5-8% for the next 2-3 days. It might not go to high 120 like last time. My best estimate is 102-105 range. I will still be happy",
+        "sentiment": {
+            "TextBlob": 0.392,
+            "NLTK": 0.886,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981372356414795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-10-13T21:30:21Z",
+        "content": "$OCUL Any guess on offer price Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946773052215576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-10-12T17:48:40Z",
+        "content": "$GNMK almost bottomed out great price, positive outlook will fly by EOW Bullish",
+        "sentiment": {
+            "TextBlob": 0.6090909090909091,
+            "NLTK": 0.8144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8965710997581482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-10-12T16:31:46Z",
+        "content": "$GNMK Just got in avg 12.73 6k. Very positive will go to $15 in next 3 days. It is just a reaction to earnings. Look at all +ve news last week, absolutely not a hyped up product",
+        "sentiment": {
+            "TextBlob": 0.048863636363636366,
+            "NLTK": 0.5984,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9698584079742432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-10-08T01:44:57Z",
+        "content": "$OSTK \nThis one is going to run by EOW. Be prepared for a blistering take off.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993439316749573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-10-07T14:31:54Z",
+        "content": "$OCUL sold way too early at $9.65 but I had 9000 and was bag holding for looonggg",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974998831748962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-09-09T20:47:57Z",
+        "content": "$OSTK wow back at my purchase price an yr ago. Had sold half at 107 was waiting fir this bounce",
+        "sentiment": {
+            "TextBlob": -0.022222222222222216,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856086373329163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-28T19:56:45Z",
+        "content": "$OSTK Wow rock steady",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990959167480469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-28T19:08:32Z",
+        "content": "$OSTK As far it holds above $ 95 at close on a Fri it is good. still strong vol, sleep well on the weekend.\nHakuna Matata- No worries\nCheers Bullish",
+        "sentiment": {
+            "TextBlob": 0.3083333333333333,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986473917961121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-28T14:29:39Z",
+        "content": "$OSTK Wow impressive, I am confident it will go to $140++ in the coming months, I am not a scalper but long fir 2 yrs bought at 71",
+        "sentiment": {
+            "TextBlob": 0.3875,
+            "NLTK": 0.6858,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9410240054130554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-28T12:54:24Z",
+        "content": "$IBIO Priming up for mkt open",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918082356452942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-27T18:44:10Z",
+        "content": "$OSTK inching towards 100 slow & steady towards +++",
+        "sentiment": {
+            "TextBlob": -0.0666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889364838600159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-27T18:21:02Z",
+        "content": "$OSTK Will close at 105-107",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.979432225227356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-20T01:03:50Z",
+        "content": "$OSTK U call this gains, and then have a negative outlook. You lost bog time buddy, this monster is just waking up",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955702424049377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-17T20:22:10Z",
+        "content": "$OSTK I had to for a long time at $71. Did not sell any will def hit $135 for sure, will sell at $165",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985225796699524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-08-04T14:12:01Z",
+        "content": "$SPR Are u not rattling the same thing since u took a substantial stake?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998489260673523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2020-07-31T11:52:36Z",
+        "content": "$OSTK Love ur confidence and u were on it from the beginning. i bought a chunk at $71 held on and was like u. Thanks bud.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.9169,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994621872901917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2019-02-06T17:53:47Z",
+        "content": "$GBT sold at 50.96 not sure this is the max in almost 3 months will renters if it goes to low 40\u2019s",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.47,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996977686882019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2019-01-29T19:49:38Z",
+        "content": "$OCX are u in?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995123565196991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2019-01-15T12:46:28Z",
+        "content": "$APH.TSX looks like ur one of the disgusting shorts, read some of your posts recently on APH and ur sooo desperate. Do some research",
+        "sentiment": {
+            "TextBlob": -0.5333333333333333,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988927245140076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-11-22T23:46:46Z",
+        "content": "$PSHG is ER AH or PM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950593709945679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-11-07T21:45:42Z",
+        "content": "$OCUL will be back to $6 by EOW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983338713645935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-11-07T21:40:05Z",
+        "content": "$OCUL does anyone know the diff between 483 and new observations. Thanks",
+        "sentiment": {
+            "TextBlob": 0.16818181818181818,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9759900569915771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-11-07T21:37:40Z",
+        "content": "$OCUL it is just reactive it will pop right back tomorrow RT Bullish",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954965114593506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-11-07T21:32:43Z",
+        "content": "$OCUL are u dumb it clearly states no repeat of 483 but need additional observations. Listen and read properly if u cannot just shut up",
+        "sentiment": {
+            "TextBlob": -0.09166666666666666,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9767155051231384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-11-01T22:03:32Z",
+        "content": "$HEAR now the deck is clear with selling at$17.4 with the results it will be at least $23",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9030659794807434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-10-24T14:18:29Z",
+        "content": "$PSHG bag holding for a long time I have 10k shares",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980653703212738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-10-23T14:29:41Z",
+        "content": "$ESEA are u in",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9787760376930237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-10-15T14:48:52Z",
+        "content": "$VSAR it only mentions about ARAV shares no mention of VSAR shares on RS 6:1 effective tomorrow",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953395128250122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-10-15T14:44:55Z",
+        "content": "$VSAR does anyone know what will happen to VSAR shares after tomorrow\u2019s RS of 6:1. Appreciatied",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986127495765686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-10-11T13:10:25Z",
+        "content": "$DOMH \ud83d\udc4dthanks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9762452840805054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-10-11T13:09:33Z",
+        "content": "$DOMH Do u think it will hit $2 the 52 week high yes very low float. Is the merger benefitial ur thoughts",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.079,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967448711395264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-09-26T23:21:15Z",
+        "content": "$GBT never trust this guy trying to get cheap share. Just 2 days ago he was looking for GBT at30 and today at<39",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.1285,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991693496704102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-09-19T21:48:44Z",
+        "content": "$TLRY because u guys are dumb ass",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991070628166199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-09-18T02:40:11Z",
+        "content": "$NIO check what u write it is not Bio but Nio",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977043271064758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-09-14T00:13:53Z",
+        "content": "$nio $rhe $nlst $tlry $sfix $tndm how come all of yours are only winners\ud83d\ude01",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970384836196899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-09-12T20:33:02Z",
+        "content": "$PGNX can anyone post the price I cannot see the latest post halt",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989125728607178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-09-12T20:31:34Z",
+        "content": "$PGNX Annnnndddd",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930053353309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-09-03T20:05:45Z",
+        "content": "$CLDR when is the ER",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960678815841675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-08-10T16:29:46Z",
+        "content": "$RSLS what do u think of TIS since it has tanked",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961586594581604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-08-10T02:42:55Z",
+        "content": "$OSTK you are def short and a loser repeating the same things no 20 times in a day, shut the f\u2014- up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940614104270935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-08-10T02:39:01Z",
+        "content": "$OSTK bunch of losers just want to short for no reason Yes OSTK will move for the next couple of weeks. 65-70 is realistic",
+        "sentiment": {
+            "TextBlob": -0.008333333333333338,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9880709648132324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-07-21T01:47:36Z",
+        "content": "$PSHG is ER next Fri before mkt open?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983826875686646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-07-13T16:04:26Z",
+        "content": "$ANY so wat is a gud price to enter",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922615885734558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-06-27T17:42:06Z",
+        "content": "$ARRY they have a PUFA date",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8305872082710266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-06-06T12:24:30Z",
+        "content": "$PRPO nice to see u back bud, luv ur awesome insights",
+        "sentiment": {
+            "TextBlob": 0.5333333333333333,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9950506091117859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-05-14T19:19:50Z",
+        "content": "$BOXL will I be able to see ur custom list every day morning I am following u. Thanks",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968749284744263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-04-19T02:05:55Z",
+        "content": "$CLDR so that u can get on\ud83d\ude01",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954042434692383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-04-04T20:00:47Z",
+        "content": "$OSTK agree this wat happens Manning when u beat a stock to death, well said Cal\ud83d\ude04",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856449365615845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-29T13:21:04Z",
+        "content": "$OSTK how bitter can u be come on soften up",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976339340209961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-29T12:02:42Z",
+        "content": "$OSTK $OSTK yes a very long haul for me",
+        "sentiment": {
+            "TextBlob": -0.065,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9538233280181885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-29T12:01:34Z",
+        "content": "$OSTK wish it is true a sweet note before the long weekend",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9488734602928162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-29T11:59:54Z",
+        "content": "$OSTK Any reason for the cancellation of secondary offering Manning now ur 2 cents pl Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993448853492737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-27T03:21:02Z",
+        "content": "$OSTK there are lots of people talking crap with out knowing nor having any stake just pure garbage",
+        "sentiment": {
+            "TextBlob": -0.29285714285714287,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998481810092926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-23T20:01:56Z",
+        "content": "$TVIX sold peace of mind for the weekend even though I  sure it will run over the weekend Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936941266059875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-16T23:16:39Z",
+        "content": "$OSTK keep the crap advise to self",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981696605682373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-15T23:07:06Z",
+        "content": "$OSTK meee never below 35",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5605989694595337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-15T22:48:05Z",
+        "content": "$OSTK See I Aam confident that in next 30 days when it is $60 there will be so many assh who will come and say I told u Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883776307106018
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-15T22:46:12Z",
+        "content": "$OSTK see going up see I should be an astrologer Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970408082008362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-15T22:43:53Z",
+        "content": "$OSTK I believe it will close at 44 and tomorrow to 48-50 range patience go to high 60's in next one month. legit co with with Gud revenues",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.947227954864502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-15T22:36:25Z",
+        "content": "$OSTK I think this is the bottom just oversold damm think is has revenues of 500 mil compared to some which has 5 mil revenue trading at 60",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995272159576416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-14T13:55:07Z",
+        "content": "$RKDA I thought u bought 1k at 22 and the highest price it reached today was 23.25 so how did u lock profit of 1.6k just curious",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99305659532547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-06T16:30:54Z",
+        "content": "$TVIX NAFTA uncertainties kicking will be full blown volatility Thurs EOD Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990620017051697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-03T02:38:55Z",
+        "content": "$VSAR I do not think BO is certain but partnership is a possibility since they have the technical expertise but  need someone who can tweak",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": 0.1406,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9642449617385864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-02T19:23:54Z",
+        "content": "$TVIX will explode in another 30 mins Booooommmmm",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976733326911926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-02T18:51:38Z",
+        "content": "$TVIX give it 15 mins",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811795353889465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-02T18:45:30Z",
+        "content": "$TVIX come on up up to $10 u can do it",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9826441407203674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-02T18:34:01Z",
+        "content": "$TVIX boom there she goes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9148297309875488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-02T18:30:49Z",
+        "content": "$TVIX I think it will hit $11 by 2:30 today at least once high volatility",
+        "sentiment": {
+            "TextBlob": -0.06999999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99660325050354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-03-02T18:11:12Z",
+        "content": "$TVIX Trudeau has no fixed agenda he wants to just please the world at tax payers cost, see his disaster trip to India a testimony",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.969222366809845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-27T00:30:25Z",
+        "content": "$OPGN reason?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964465498924255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-26T16:32:07Z",
+        "content": "$GEN welcome not see u for a while",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.822816789150238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-20T15:36:49Z",
+        "content": "$PSHG something is going on we are not aware is it dilution? Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999395489692688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-20T13:01:44Z",
+        "content": "$PSHG holding very well, I think it is at mkt open boom Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3384,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9943020343780518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-20T12:09:04Z",
+        "content": "$PSHG where can u see this",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9791533946990967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-19T15:54:06Z",
+        "content": "$PSHG reverse split 1:7 nothing else",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991443157196045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-17T13:38:37Z",
+        "content": "$PSHG now I see in Nov spiked due to reverse split of 1:7 on Nov 2nd and not for earnings. I am a bag holder here so no misunderstandings Bullish",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": -0.4341,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9419010877609253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-16T23:09:16Z",
+        "content": "$PSHG did they have dilution anytime last yr too with earnings",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888955354690552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-14T19:57:10Z",
+        "content": "$CAPR thanks bud",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996984004974365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-14T19:50:58Z",
+        "content": "$CAPR any reason or news?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984884262084961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-13T14:30:59Z",
+        "content": "$PSHG they sold their ships",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9794798493385315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-13T14:11:49Z",
+        "content": "$PSHG is it going to go up today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9581168293952942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-13T04:34:43Z",
+        "content": "$OSTK not sure what is happening here BTC moved from 6500 to 8500 but this one is going down and down, why??? Bullish",
+        "sentiment": {
+            "TextBlob": -0.18703703703703703,
+            "NLTK": -0.2549,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996693134307861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-13T04:17:35Z",
+        "content": "$PSHG when is DCIX ER I am a bag holder Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994317889213562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-08T13:39:00Z",
+        "content": "$OSTK if Bitcon hits 9k Ostk will be 65-68 range and it looks imminent Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992745518684387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-06T22:26:31Z",
+        "content": "$OSTK where are the shorts, banshees l, P&D go longs this is just the beginning let the show begin\u270c\ud83c\udffd Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994624257087708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-06T12:58:54Z",
+        "content": "$OSTK Bitcon stabilizing today around 6750 levels maybe the panic selling of OSTK is over and will be back to $50 levels today. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994447827339172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-06T01:01:11Z",
+        "content": "$OSTK I doubt any of these bears know what they are talking about they are like P&D Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985973238945007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-06T00:59:38Z",
+        "content": "$OSTK interesting to see how swings in Bitcon directly affects this stock price in a huge way Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994662344455719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-02-06T00:56:04Z",
+        "content": "$OSTK looks like it has almost bottomed out at current levels unless Bitcon sinks further. It might rebound to 49-53 tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994137287139893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-29T03:59:03Z",
+        "content": "$STAF $NSYS $IPDN you are awesome Thanks",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997308850288391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-26T15:28:21Z",
+        "content": "$OCGN I am in Thanks",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999546229839325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-25T23:33:10Z",
+        "content": "$SGYP only BO can redeem this stock, Mgt incapable of pulling up a approved superior product. imagine if Pfizer, Merack or Novartis has it",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990092515945435
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-25T12:54:19Z",
+        "content": "$OCUL raising money by dilution is ok but the resubmission and what P1 trials they to fund is crucial. Till date Kapoor is there it is dud.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748557209968567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-25T04:02:09Z",
+        "content": "$ANY is it still worth getting in tomorrow at mkt open",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9581159353256226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-25T02:31:00Z",
+        "content": "$SGYP now we know why FDA has no updates\ud83d\ude04",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971256852149963
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-25T01:32:33Z",
+        "content": "$SGYP patience pays sleep tight guys. This is co with real products in the mkt, there are many with no products but still hyped. No worries Bullish",
+        "sentiment": {
+            "TextBlob": 0.17380952380952383,
+            "NLTK": -0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965724945068359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-25T01:04:34Z",
+        "content": "$SGYP I feel that PUFA is a done deal but something biggg is coming tomorrow at 9 am, I beleive there is a BO finally the Mgt come to terms Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986693799495697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-24T22:38:04Z",
+        "content": "$OCUL kick out the ass hole shit Turbanator from the board as well",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.7184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996322512626648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-22T19:04:26Z",
+        "content": "$LTRX $MYO which is better if I have to pick 1. Thanks",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9166997075080872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-08T22:08:38Z",
+        "content": "$TAOP holding 2k at 4.50 might dump it tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997429251670837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-08T22:06:12Z",
+        "content": "$MYSZ sold my 4.2k at 4.95 still holding .9k does not look like a major move happening",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": -0.2755,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989662170410156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2018-01-04T21:32:54Z",
+        "content": "$ADMS something is cooking up here from Tuesday not sure we know, I still hold some but sold most Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.1232,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951379895210266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-29T22:09:39Z",
+        "content": "$WEED.TSX what is it AH sorry I cannot see them. Thanks. Happy new year",
+        "sentiment": {
+            "TextBlob": 0.1590909090909091,
+            "NLTK": 0.2486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8728446364402771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-28T01:33:14Z",
+        "content": "$TEUM if it spikes like PM today and HOLDS then the party begins. Rest well Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982733726501465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-28T00:07:53Z",
+        "content": "$TEUM can anyone post AH vol for TEUM and DPW I cannot see. Thanks Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6442659497261047
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-28T00:01:56Z",
+        "content": "$TEUM was looking at AH none of them have moved so do not panic, relax and let us begin a new day tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.143,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951006770133972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T23:35:52Z",
+        "content": "$TEUM and DPW of u that it was another LFIN then NO it is not a P&D. It is fundamentally strong, Gud revenue, growing multi facet business.",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.2656,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994722008705139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T23:14:35Z",
+        "content": "$TEUM if u just only at yesterday's close and not PM it held very nicely compared to many others since it is fundamentally a strong co Bullish",
+        "sentiment": {
+            "TextBlob": 0.42833333333333334,
+            "NLTK": 0.7574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9943428039550781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T23:01:03Z",
+        "content": "$TEUM patience guys see it is going up just shorts and people looking for pennies had their day today. Tomorrow is OUR day cheers Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898588061332703
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T22:57:28Z",
+        "content": "$TEUM I am sure it will be back to $2.80 PM tomorrow chill have a drink and relax with ur loved ones Bullish",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.8442,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9098156094551086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T22:55:49Z",
+        "content": "$TEUM BLOCKED tradethejunk was a junk as the name suggests. Not sure if he owned any TEUM, friends block all kinds we need no negativity",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.844,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997239708900452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T22:49:00Z",
+        "content": "$TEUM remember it flew from .50c stock to $3 so give it some time to breath plus most of them are on holidays by Jan 10th it will be 3.50",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935510158538818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T12:38:07Z",
+        "content": "$IGC I am planned no to enter today not sure it has not really popped up PM Bullish",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.4874,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992031455039978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T12:30:13Z",
+        "content": "$TEUM lots of negativity from shorts Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970656037330627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T12:00:45Z",
+        "content": "$TEUM I have been trading for a while but must confess yesterday was one when I could not sleep well, TEUM and DPW better compensate me well Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.1048,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990447163581848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T11:57:25Z",
+        "content": "$TEUM TEUM and DPW will be tango today Happy Wed it is double whammy if IGC goes up then it is all u want Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9756591320037842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T11:53:08Z",
+        "content": "$DPW $5.50 EOD of Bitcon touches 18k maybe $6.15 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985635876655579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T11:51:51Z",
+        "content": "$DPW blast off Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997285008430481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T11:48:10Z",
+        "content": "$TEUM this is it, the dip everyone was talking and waiting Zoom from here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984129667282104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T11:41:20Z",
+        "content": "$TEUM I agree once it hits $3.99 pre mkt  it will zoom to $5 in no time, then it is anybody's guess Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980624318122864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-27T00:44:44Z",
+        "content": "$TEUM many wanted to see$3.30AH here u are I want to see $8 EOD tomorrow and I am confident Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9796899557113647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T23:59:31Z",
+        "content": "$TEUM I have lost 200k in VSAR hope Santa helps to get that back with TEUM very optimistic Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6997,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780802726745605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T23:55:00Z",
+        "content": "$TEUM feel happy for the guys who wanted to see $3 AH. Do not sell unless reached ur goal ur once sold do not repent sleep tight enjoy Bullish",
+        "sentiment": {
+            "TextBlob": 0.34047619047619043,
+            "NLTK": 0.7652,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9067175388336182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T23:36:25Z",
+        "content": "$TEUM do not count pennies now, chill have a couple of drinks enjoy and then tomorrow be ready folks Bullish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9606809020042419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T21:41:50Z",
+        "content": "$TEUM never look at AH after this epic run plus vol is too low in AH Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991807341575623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:35:59Z",
+        "content": "$TEUM see no more shorts or sellers now only one way that is zoom up Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963120818138123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:33:58Z",
+        "content": "$TEUM congrats long let the game begins hold tight and let is double tomorrow for sure\ud83d\udc4d Bullish",
+        "sentiment": {
+            "TextBlob": -0.15714285714285714,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912210702896118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:31:36Z",
+        "content": "$TEUM pl do not sell especially new traders u have no idea where it will in next 72 hrs at least 6+ Bullish",
+        "sentiment": {
+            "TextBlob": -0.009090909090909094,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995852112770081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:23:37Z",
+        "content": "$TEUM if it holds above $2.50 EOD then very gud for a take off tomorrow, many got in at $1 so sold now but tomorrow will be a new buyers Bullish",
+        "sentiment": {
+            "TextBlob": 0.20909090909090908,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904257655143738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:20:35Z",
+        "content": "$TEUM holding well will be a blast tomorrow this is an awesome legit co Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994354844093323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:16:23Z",
+        "content": "$TEUM huge swings coming no worries hold for at least 72hrs Bullish",
+        "sentiment": {
+            "TextBlob": 0.050000000000000044,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9775095582008362
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:09:06Z",
+        "content": "$TEUM tradethejunk comments are also junk Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997383952140808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:07:35Z",
+        "content": "$TEUM holding strong that means it will follow RIOT and LFIN for next 72 hrs guaranteed Bullish",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": -0.2577,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9119395017623901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:03:23Z",
+        "content": "$TEUM PH celebrations begins Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992861151695251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T20:01:06Z",
+        "content": "$TEUM watch out the take off begins all aboard longs stay on Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909645318984985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T19:59:59Z",
+        "content": "$TEUM if it holds till EOD tomorrow is a rocking day Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972273707389832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T19:57:12Z",
+        "content": "$TEUM if they do not dilute more and if no more halts this will be a bomb Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.6872,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993708729743958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T19:55:09Z",
+        "content": "$TEUM hold till Fri this will def zoom Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981643557548523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T19:16:15Z",
+        "content": "$TEUM halt due to vol maybe and volatility Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992024302482605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T19:12:54Z",
+        "content": "$TEUM will open at 2.75 and then Boooom up it goes to 4 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990673840045929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T03:15:59Z",
+        "content": "$DPW I still strongly beleive DPW and TEUM are 2 real crypto cos with multifacet businesses and have true revenues Bullish",
+        "sentiment": {
+            "TextBlob": 0.3277777777777778,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9108620882034302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T03:10:35Z",
+        "content": "$DPW block those idiots who just spread  fear and negativity. They pump and dump for 20 cents. I am long here from $2.75 Bullish",
+        "sentiment": {
+            "TextBlob": -0.42500000000000004,
+            "NLTK": -0.9001,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995394945144653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-26T03:07:12Z",
+        "content": "$DPW blocked BEAVERMAN feel Gud Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999135434627533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-24T02:46:22Z",
+        "content": "$DPW my conscience does permit me but who knows time will tell",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9003973603248596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-23T03:48:17Z",
+        "content": "$OCUL I doubt if they ever will get Dextenza approved I am stuck sick of these manipulators Sawney should be in jail",
+        "sentiment": {
+            "TextBlob": -0.40714285714285714,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996414184570312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-22T22:57:04Z",
+        "content": "$OCUL the former CEO Sawhney is a crook kick him out first otherwise this co is going from bad to worst Bearish",
+        "sentiment": {
+            "TextBlob": -0.36249999999999993,
+            "NLTK": -0.8225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988904595375061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-21T00:10:44Z",
+        "content": "$DPW just chill and sleep tight by tomorrow noonit will be 7 for sure and in a week at least $9 for sure. Bears pulling it down,patience",
+        "sentiment": {
+            "TextBlob": 0.13035714285714284,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984459400177002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-20T22:35:17Z",
+        "content": "$DPW sorry could not get on the webinar did he say anything on Licensing  of the lending company, time frame? Thanks guys ur are awesome Bullish",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5409749746322632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-20T00:42:41Z",
+        "content": "$DPW mark my words with Bitcon dropping AH GROW, SSC, MARA and RIOT will all  drop tomorrow but the lone shining star will be DPW Wed AH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7065,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924731254577637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-20T00:38:13Z",
+        "content": "$DPW see Bitcon dropping already down 2k AH but DPW only going up AH does it not speak for this rock solid co Bullish",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986960291862488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-20T00:17:25Z",
+        "content": "$DPW last week I put my money only on DPW and Teum and both are winners for sure, patience guys Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858777523040771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-20T00:15:19Z",
+        "content": "$DPW my worry they release a shit load of info at one time people are  confused and they are raising capital  this is a multifacet legit co Bullish",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": -0.8316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.957208514213562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-20T00:11:15Z",
+        "content": "$DPW if we had during halts on Thurs-Fri I am confident tomorrow's Webnar will be awesome. DPW is legit do not panic this will zoom Bullish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.8751,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979123473167419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-20T00:03:34Z",
+        "content": "$DPW I think it will dip to $4.50 at close tomorrow and will jump to at least 7-7.50 on Thursday morning also depends a lot on Crypto mkt Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967547059059143
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-19T01:36:54Z",
+        "content": "$DPW initiates mixed shelf for $100 this happened after mkt close at 4 can anyone explain this Thanks Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5228,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897034764289856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-19T01:27:09Z",
+        "content": "$TEUM it will hit $3.99 by FRI which is its highest ever for the yr Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932770133018494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-18T23:24:27Z",
+        "content": "$LFIN people are just jumping in by seeing Bitcon/blockchain and there are so many CEO waiting to get ur money better watch out Bearish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967901110649109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-18T23:20:58Z",
+        "content": "$LFIN feel sorry for the guys who jumped in at $100 get out before it goes to $25 tomorrow or even lower Bearish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998941957950592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-18T23:19:25Z",
+        "content": "$LFIN see the irony now everyone is cursing the CEO just now but when it popped to $129 and the greedy ones were jumping wat did u think Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4678,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965707063674927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-16T18:53:37Z",
+        "content": "$DPW does anyone know there is an analyst/investors meeting on Dec 20th this will def shoot up as they will release their future plans Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988780617713928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-15T01:40:58Z",
+        "content": "$PSHG \ud83d\udc4cwow hope it flies tomorrow have a gud stake here and knew it as volatile. Any price guess tomorrow I need to dump it. Thanks Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985395669937134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-14T05:19:35Z",
+        "content": "$PSHG I hope it reverses tomorrow I am in at 6.50 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988040924072266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-14T05:14:35Z",
+        "content": "$DPW I plan to sell at6.25 and re enter back next week. I am holding from 2.75 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965770840644836
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-14T05:10:35Z",
+        "content": "$DPW it will hit 6.35 tomorrow for sure by EOD open st 5.85 Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927103519439697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-09T17:45:29Z",
+        "content": "$DPW is a well diversified business and is definitely there to stay. I think it has the potential to hit 8-10 $ in the next 2-3 months Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9934772253036499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T18:09:11Z",
+        "content": "$DPW now u u see lots of I told u so great guys who hung along like me not a flipper but a believer Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5955,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9533506631851196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:58:04Z",
+        "content": "$DPW the volatility is too scary take a baby aspirin during DPW trades Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985054731369019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:51:37Z",
+        "content": "$DPW went up by a $1 in 25 mins wow Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858932495117188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:48:52Z",
+        "content": "$DPW wow it is up more than a Bitcon wow Bullish",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.8225,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9892356991767883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:47:52Z",
+        "content": "$DPW read my prediction I said $3 in 30 mins $3-50-4 EOD for sure Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997771680355072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:45:41Z",
+        "content": "$DPW see there u go do not listen to these scumbags Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938563704490662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:42:24Z",
+        "content": "$DPW in 30 mins will be low3's EOD 3.75-4",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979605674743652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:41:17Z",
+        "content": "$DPW see boys be patient do not listen to fools hold 100-200 stock stand grounded u will be rewarded Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.703,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9795008897781372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:40:03Z",
+        "content": "$DPW wooosh going up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990130662918091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:34:33Z",
+        "content": "$DPW early next week at least $4 mark it down for sure it is a genuine co but unfortunately Mgt trying out too many things in a very short Bullish",
+        "sentiment": {
+            "TextBlob": 0.060493827160493834,
+            "NLTK": -0.3506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995495676994324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:25:14Z",
+        "content": "$DPW do not sell do not listen to the bunch of idiots this will bounce back early next week Bullish",
+        "sentiment": {
+            "TextBlob": -0.17500000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939584732055664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T17:20:24Z",
+        "content": "$DPW all BS nobody knows to read. I think they are just clearing off the debts to pvt placements which is a gud Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994812607765198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T15:52:29Z",
+        "content": "$DPW does not look Gud such a long halt might be SCE investigation I have a huge chunk here Patiently watching Bullish",
+        "sentiment": {
+            "TextBlob": 0.1166666666666667,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995676577091217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-08T04:25:08Z",
+        "content": "$DPW great PR campaign but not sure if will be sustained since most of the bagholders, me included, will dump once it hits 5.50-6 range Bullish",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": -0.5095,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998903751373291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-07T21:24:48Z",
+        "content": "$XOMA looks good but pretty volatile on the upper end. Good cash flow and low burn rate but I sold mine today I am content",
+        "sentiment": {
+            "TextBlob": 0.32999999999999996,
+            "NLTK": 0.8151,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8948593139648438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-07T18:20:12Z",
+        "content": "$XOMA sold my holding 2.5k at 32.35 got in at 23 just in more than a month Gud run, will get in if it goes to $24-25",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9727079272270203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-07T12:55:05Z",
+        "content": "$DPW Blackcloud BLOCK him absolute trash just a pumper see his comments for the past 24 hrs making money out of u Bullish",
+        "sentiment": {
+            "TextBlob": -0.024999999999999994,
+            "NLTK": -0.5622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995794892311096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-06T23:36:12Z",
+        "content": "$DPW take a deep breadth do some pranayama tomorrow morning have a pleasant thought before u start trading all is gud. Bullish",
+        "sentiment": {
+            "TextBlob": 0.36666666666666664,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922699928283691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-06T23:17:14Z",
+        "content": "$DPW this is a legit co unlike MARA and has subsidiary's but it causes lots of undue stress as I have have 7k at 2.75 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958011507987976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-12-06T23:08:54Z",
+        "content": "$DPW will go to back to5:25-4:50. Is the PR at 10:30 PST so EST is 1:30 pm so the posts of before mkt opening is wrong?? Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.5362,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996687173843384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-11-21T23:35:46Z",
+        "content": "$DRYS 52k",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936296343803406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-11-08T00:24:43Z",
+        "content": "$OCUL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981375932693481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-10-27T01:51:07Z",
+        "content": "$VSAR was disappointed waiting so long and no positive news but cost cutting can pump this up plus peads Indication into P3 Bullish",
+        "sentiment": {
+            "TextBlob": -0.3784090909090909,
+            "NLTK": -0.3031,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982509016990662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "paaps",
+        "timestamp": "2017-10-27T01:49:30Z",
+        "content": "$VSAR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887974858283997
+            }
+        },
+        "image_url": ""
+    }
+]

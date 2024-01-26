@@ -1,0 +1,198 @@
+[
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-22T15:41:33Z",
+        "content": "$IAC is undervalued.\n\nThe company behind $EXPE, $MTCH, $TREE, and others has a few killer properties on its hands, including Vimeo and Care.\n\nHear more about the bull-case for a truly unique company, below. \ud83d\udc47\n\nthegeneralist.substack.com/... Bullish",
+        "sentiment": {
+            "TextBlob": 0.06874999999999998,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8739129304885864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-22T15:35:19Z",
+        "content": "$IAC is undervalued.\n\nThe company behind $EXPE, $MTCH, $TREE , and others has a few killer properties on its hands, including Vimeo and Care.\n\nHear more about the bull-case for a truly unique company, below. \ud83d\udc47\n\nthegeneralist.substack.com/... Bullish",
+        "sentiment": {
+            "TextBlob": 0.06874999999999998,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8739129304885864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-18T16:46:21Z",
+        "content": "Since we\u2019re not getting a $RBLX IPO this year, I thought I\u2019d share an annotated copy of the S-1.\n\nFind out what to pay attention to, and what to skip. \nannotatedroblox.carrd.co/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986359477043152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-11T19:02:30Z",
+        "content": "$AFRM is expected to go public before the end of the year.\n\n- $590.5 million in FY20 revenue\n- 93% revenue growth YoY\n- $112.6 million FY20 net losses\n\nShould you invest? Read on for a free report \u2193\n\nthegeneralist.substack.com/...",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929293990135193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-10T17:56:53Z",
+        "content": "A few rough equivalencies in market cap...\n\n$ABNB at $100B...\n- 1.15x Bookings $BKNG\n- 5.25x Expedias $EXPE \n- 3.55x Zillows $Z \n- 2.35x Marriots $MAR\n$DASH at $55B\n-8 Grubhubs $JTKWY \n-3.5 Just Takeaways $TKAYY\n-3.6x Lyfts $LYFT \n-45x Blue Aprons $APRN",
+        "sentiment": {
+            "TextBlob": -0.10000000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976488947868347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-10T14:36:46Z",
+        "content": "\ud83d\ude31  $ABNB is expected to price at $68 a share. \n\nWhat price do we think it'll reach retail investors at? $80? $90? If you're interested in understanding the business, check out our (free) report. \n\n\ud83d\udc49 \ud83d\udd25  thegeneralist.substack.com/... Bullish",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.6747,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970483183860779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-09T19:16:17Z",
+        "content": "Suddenly $DASH is a ~$60B business. The last round of funding valued the company at $16B.\n\nIf you're trying to make sense of the madness, check out the briefing we put together as part of the S-1 Club. It will tell you everything you need to know about DoorDash's market, leadership, and long-term prospects.\n\nthegeneralist.substack.com/...",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9774326086044312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-08T18:43:48Z",
+        "content": "$DASH hits the NYSE tomorrow. \n\nIf you're interested in better understanding the company and its long-term investment potential, join me and a group of food delivery experts for a call at 1pm ET. \n\nIt's free and open to all! \nstream.club/e/doordash",
+        "sentiment": {
+            "TextBlob": 0.22999999999999998,
+            "NLTK": 0.8858,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959037899971008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-07T22:19:58Z",
+        "content": "I'm going to be breaking down the $ABNB IPO with a few investors at 7pm ET, tonight. That includes the great @howardlindzon! \n\nWould love to see you there!\n\nstream.club/e/airbnb",
+        "sentiment": {
+            "TextBlob": 0.3173611111111111,
+            "NLTK": 0.8715,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.978020966053009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-07T17:39:43Z",
+        "content": "Weird facts about Nintendo $NTDOY \n\n\ud83d\udddd\ufe0f Founded in 1889\n\n\ud83e\udd11 Earned a lot of $$ from the yakuza\n\n\ud83c\udfe9 Ran a chain of \"love hotels\"\n\n\ud83d\udc4c First hit toy was called the \"Ultra Hand\"\n\nRead more about the iconic gaming company's past and future to see if you should invest.\n\nthegeneralist.substack.com/...",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908730983734131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-04T17:45:04Z",
+        "content": "$DASH is expected to IPO next Wednesday. We dug into the company. A few quick facts:\n\n- $1.9B revenue YTD\n- 18M customers\n- Revenue growth of 226% YoY\n- CAC/LTV of ~1:10\n\nIf you're thinking about buying in, you might want to read a little more, here \ud83d\udc47\ud83d\udc47\nthegeneralist.substack.com/...",
+        "sentiment": {
+            "TextBlob": 0.05763888888888888,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955641031265259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-12-01T15:10:17Z",
+        "content": "Loved getting to work with @howardlindzon  on an $ABNB report. \n\nIf you're considering investing, you might want to give it a read. A few fast facts: \n\n- $2.5B revenue YTD\n- $3.4T reported TAM\n- 91% of site traffic was organic\n- Slowing growth (pre-c19)\n\nthegeneralist.substack.com/...",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7763717770576477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-11-25T23:49:26Z",
+        "content": "Three thoughts from studying $ABNB ahead of the IPO:\n\n1. Competition has really stepped up. $BKNG offers short-term rentals. $EXPE acquired HomeAway which fulfills a similar need.\n\n2. COVID was as bad to the business as we might have guessed. Booking growth dropped 72% YoY in April; revenue down 32% YoY over the first 9 months of 2020. Credit to the team for surviving and righting the ship.\n\n3. Regulation could remain an impediment. It's gummed up the wheels in the past and certainly hangs over other sharing economy businesses like $UBER and $LYFT.\n\nIf you're interested in getting our full briefing on $ABNB ahead of the IPO, sign up here: thes1club.com/.",
+        "sentiment": {
+            "TextBlob": 0.012157287157287174,
+            "NLTK": 0.9231,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992740750312805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mariogabriele",
+        "timestamp": "2020-11-24T15:05:03Z",
+        "content": "Spent sometime thinking through where companies like Afterpay, Affirm, and Klarna go next. Especially now that $PYPL is entering the \"buy now, pay later\" war. \n\nWould love any thoughts! \n\nthegeneralist.substack.com/...",
+        "sentiment": {
+            "TextBlob": 0.10500000000000001,
+            "NLTK": 0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941137433052063
+            }
+        },
+        "image_url": ""
+    }
+]

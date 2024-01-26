@@ -1,0 +1,44 @@
+[
+    {
+        "username": "SammyJ_19",
+        "timestamp": "2020-12-29T19:08:53Z",
+        "content": "1. Public North American Cannabis Operators Peer Comp Table: \n \nTTM Cash Flow & YTD Share Price Performance \n \nIncludes all 16 #potstocks in NYSE-listed $MSOS : \nTCNNF GTBIF AYRWF CXXIF PLNHF TRSSF VEXTF VREOF JUSHF CURLF FFNTF INDXF CRLBF CCHWF HRVSF ACRHF \n \n$CGC $TLRY $ACB VFF OGI TGOD HEXO SNDL CRON APHA \n \nHas the industry matured to the point where operational execution affects price in NA cannabis? This table demonstrates the correlation between US/CAN operators' TTM cash flow generation/burn & performance in 2020. \nThe discrepancy between MSOS & LPs in cash flow generation/burn as well as share price performance in 2020 is staggering. 7 of 16 US MSOs already generated +CF TTM whereas no Can LPs did. \n6 of the 7 CF+ MSOs had triple digit gains in '20, vs. only 2 of 9 MSOS who were CF-, showing a clear positive effect being CF+ has on share price. By contrast, only 4 of the 16 LPs had positive share price in '20, with none CF+. \ncc: @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.07922077922077922,
+            "NLTK": 0.9578,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930661916732788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SammyJ_19",
+        "timestamp": "2020-11-24T04:43:47Z",
+        "content": "$ACB $APHA $CGC $CRON $TLRY & the rest of the cash-burning Canadian LPs will most likely not be able to access U.S. Cannabis off Biden's election win anytime soon. This proxy play may be good for a trade but little else. Many legislative headwinds remain & the barrier to entry will be massive. Even with eventual access to U.S. cannabis someday, Cdn LPs won't be able to just open shop next day. Most states are currently limited license. LPs would likely have to buy their way in & only two even have deep pockets for this kind of M&A. Look at the revenues, profitability metrics, & valuations of U.S Operators already below. First-mover advantage & large moats are already well established. Strong margins, cash flow generating, triple digit growth currently at value multiples (5-10x '21 EBITDA/CF for some), which is what Cdn LPs can only dream about.\n\n If you're interested but can't access these underlying U.S Operators because they trade OTC, you can access them w the NYSE-listed ETF MSOS.",
+        "sentiment": {
+            "TextBlob": 0.23812229437229437,
+            "NLTK": 0.977,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9241659641265869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SammyJ_19",
+        "timestamp": "2020-11-23T18:33:54Z",
+        "content": "Public U.S. Cannabis Operators Peer Comp Table: \nAll 15 holdings in the NYSE-listed $MSOS ETF: \n \n$AYRWF $CRLBF $CXXIF $INDXF $PLNHF $GDNSF $GTBIF $FFNTF $TRSSF $JUSHF $CCHWF $HRVSF $ACRHF $TCNNF $CURLF \n \nU.S. #potstocks dwarf Canadian LPs in revenue & virtually every profitability metric, many generating positive cash flow, yet trade at a discounted multiple to their cash-burning, north-of-the-border peers like $ACB $CGC $TLRY $CRON $APHA $HEXO $OGI for many reasons: inability to list on big boards, federal regulatory headwinds, poor media coverage, for starters. \nIn fact, there is likely no sector with better growth rates/profitability metrics at a value multiple in the U.S. cc: @ToddHarrison articulates this arbitrage well in this article: \ncb1cap.com/blog/2020/11/16/... \nFree Cash Flow is muted at this stage largely thanks to punitive 280e taxes & buildout CapEx. But, unlike Canadian LPs, most US Operators are already generating strong margins/EBITDA with triple digit growth. \n \ncc: @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.20432900432900428,
+            "NLTK": 0.9325,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9644625782966614
+            }
+        },
+        "image_url": ""
+    }
+]

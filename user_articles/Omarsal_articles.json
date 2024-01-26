@@ -1,0 +1,814 @@
+[
+    {
+        "username": "Omarsal",
+        "timestamp": "2018-02-14T15:33:36Z",
+        "content": "$WLB stuck in this. Any recovering?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995630383491516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2018-02-10T04:37:57Z",
+        "content": "$PTX what\u2019s a realistic timeline until we see some big profits? How much longer do we wait?",
+        "sentiment": {
+            "TextBlob": 0.12222222222222223,
+            "NLTK": 0.504,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953108429908752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-11-17T05:04:18Z",
+        "content": "@HotPicks10410 what about $THMO ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973481893539429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-11-09T15:21:30Z",
+        "content": "$CVO I'm going to have to just get out for a loss.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997759461402893
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-11-09T14:47:02Z",
+        "content": "$CVO is this thing going back to 2 anytime soon. Or is it another bag holder",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981353282928467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-11-09T14:41:51Z",
+        "content": "$CVO wtf?",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979122281074524
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-10-18T01:10:34Z",
+        "content": "$SRAX thoughts on this tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9799730181694031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-10-11T23:52:37Z",
+        "content": "$HMNY my pullout game is weak",
+        "sentiment": {
+            "TextBlob": -0.3875,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998093247413635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-10-04T14:05:20Z",
+        "content": "$CCLD can we get this back over $5",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993016719818115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-10-03T12:53:39Z",
+        "content": "$ECYT missed the party. Too late to partake?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996523857116699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-09-20T16:30:40Z",
+        "content": "@jmarinara what's your target for $ROSG ? Thanks",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9828416109085083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-09-20T16:01:33Z",
+        "content": "@ACInvestorBlog what is your target for $ROSG ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980520009994507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-09-18T14:27:48Z",
+        "content": "$IMNN ran out of steam??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997550845146179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-08-16T15:37:29Z",
+        "content": "$DGLT too late to get in ?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994468092918396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-04-04T16:15:44Z",
+        "content": "$CIE thoughts on CIE? My avg is 0.58.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978950023651123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-02-02T20:29:54Z",
+        "content": "$ROKA thoughts on ROKA.. I got in at 4.90.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6235318183898926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-01-19T14:38:02Z",
+        "content": "$DCTH holding the bag since 0.50 FML. ;(",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959222078323364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-01-10T19:49:03Z",
+        "content": "$BIOC who's holding overnight?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958376884460449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-01-10T18:15:20Z",
+        "content": "$BIOC Let's goo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987207055091858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2017-01-10T15:50:00Z",
+        "content": "$BIOC price target?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954591989517212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-12-06T20:08:09Z",
+        "content": "$NVCN who's holding overnight?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967556595802307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-07-12T14:15:39Z",
+        "content": "$CYTR too late to join the party?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996744394302368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-06-28T14:23:05Z",
+        "content": "$NVCN I'm still waiting for 0.95 to break even sighh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987096786499023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-06-15T19:48:45Z",
+        "content": "$CBYL what does the crystal ball say for tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9817392826080322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-06-06T18:16:32Z",
+        "content": "$CBYL what's going on here? Why the drop?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3527,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983684420585632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-05-23T18:07:03Z",
+        "content": "$SCON in at $0.25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947901964187622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-05-17T15:13:44Z",
+        "content": "$MGTI in at 4.7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.973118245601654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-05-10T19:59:22Z",
+        "content": "$MGTI too late to join the party?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996649026870728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-04-26T18:55:53Z",
+        "content": "$VHC holding the bag overnight?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948126077651978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2016-04-25T19:29:12Z",
+        "content": "$NRX too late to chase?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993257522583008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-11-30T17:40:36Z",
+        "content": "$GBSN keep pushing higher",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5901120901107788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-11-06T18:00:50Z",
+        "content": "$XOMA any chance of this going up EOD?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99930739402771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-11-05T15:06:08Z",
+        "content": "$XOMA who's holding until tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957525730133057
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-11-03T15:22:06Z",
+        "content": "$XOMA hold until Thursday?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940711855888367
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-10-19T14:50:22Z",
+        "content": "$AEZS Who's holding",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9589596390724182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T17:56:25Z",
+        "content": "$GBSN EOD run?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989424347877502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T15:54:01Z",
+        "content": "$GBSN get this back to 0.13",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988141059875488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T15:26:45Z",
+        "content": "$GBSN is lunch over yet",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9551705718040466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T14:31:37Z",
+        "content": "$GBSN show me 0.15",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962879419326782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T14:20:04Z",
+        "content": "$GBSN can we get a 0.15",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970071911811829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T14:13:44Z",
+        "content": "$GBSN what does the crystal ball say??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978407621383667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T14:09:43Z",
+        "content": "$GBSN where is this headed today?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988484382629395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-22T13:47:18Z",
+        "content": "$GBSN what does the crystal ball say?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955539107322693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-21T19:33:40Z",
+        "content": "$GBSN who's holding overnight?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954238533973694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-21T14:58:36Z",
+        "content": "$GBSN what's going on here?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970924854278564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-10T13:49:16Z",
+        "content": "$PSTV am I too late for the party?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99913090467453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-10T12:39:54Z",
+        "content": "$ASTI good time to jump in?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9583991169929504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-09T18:49:23Z",
+        "content": "$BTU anyone jumping in?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997626006603241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-09T18:00:15Z",
+        "content": "$GBSN anyone holding?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997107207775116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-01T19:19:58Z",
+        "content": "$PBMD closing at?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951463341712952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-09-01T18:30:42Z",
+        "content": "$PBMD hopped on the band wagon.  Too late or too early?",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989256262779236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-08-27T15:35:41Z",
+        "content": "$GBSN anyone loading the truck?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998430073261261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-03-10T15:07:56Z",
+        "content": "$BGMD when is earnings?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969402551651001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-03-04T19:51:12Z",
+        "content": "$ECIG what's the forecast for tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957454800605774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2015-02-26T15:15:09Z",
+        "content": "$ECIG just stumbled upon this. havent done any DD. thoughts on getting in now?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988184571266174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2014-10-17T14:55:51Z",
+        "content": "$IBIO Who's holding through the weekend?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959036707878113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2014-03-18T14:57:01Z",
+        "content": "$BGMD Out at 1.74. What's a good price to buy back in?",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8174670934677124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Omarsal",
+        "timestamp": "2014-02-20T16:39:04Z",
+        "content": "@brandon123 thoughts on $BGMD ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914247989654541
+            }
+        },
+        "image_url": ""
+    }
+]

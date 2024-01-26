@@ -1,0 +1,16 @@
+[
+    {
+        "username": "tctranfo",
+        "timestamp": "2023-06-20T12:30:21Z",
+        "content": "@THE_MBG @MauriceStokesJr patiently waiting for $AAPL to buy them",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951468110084534
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,786 @@
+[
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-07-29T03:51:39Z",
+        "content": "@ezzy111 be careful and lock in your gains. Running on no news, with a connection to $GBR and $SBET which both crashed pretty hard.",
+        "sentiment": {
+            "TextBlob": -0.04722222222222223,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996784925460815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-07-11T19:45:29Z",
+        "content": "$ONCS Added again on break over $1.30",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9789013266563416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-07-11T19:00:39Z",
+        "content": "$ONCS in $1.28 on huge volume spike",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885677099227905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-13T17:09:32Z",
+        "content": "$ENPH Watching closely for a wedge break",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9698798060417175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-13T04:15:30Z",
+        "content": "Watchlist 6/13/18 $AGRX $SINT $CAPR $VANI $BLNK $HSTO $CBK $NIHD $TEUM $BTC.X $LTC.X $ETH.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975737929344177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-12T04:45:48Z",
+        "content": "Watchlist 6/12 $ACET $IPCI $THMO $NAK $SINT $GNW $NNMD $OMNT $SRE $BTC.X $ETH.X $LTC.X $XRP.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979958534240723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-11T20:48:33Z",
+        "content": "$IPCI Here are those insider transaction from last month that weren't required to file a Form 4 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928724765777588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-11T07:10:59Z",
+        "content": "Watch list for 6/11/18 $IPCI $ANW $NETE $PULM $EDAP $LIFE $TPIV $VVUS $ASNA $PHIO $BTC.X $ETH.X $LTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961826205253601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-08T01:40:30Z",
+        "content": "Canada legalization. $ACB.TSX $CGC $MJ $MO $CRON $LEAF.TSX worth watching thestar.com/news/canada/201...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5215974450111389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-08T01:14:57Z",
+        "content": "WL 6/8/18 $CPRX $FCSC $JONE $THMO $HMNY $AXGT $ONTX $CRMD $PHIO $BTC.X $ETH.X $LTC.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996795117855072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-07T15:42:57Z",
+        "content": "$ATNM Starter position here at .41. Watching for break over .42",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937059283256531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-07T15:17:29Z",
+        "content": "$BLNK Watch for move over VWAP of $5.91. News this morning, volume picking back up after dip",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9587679505348206
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-07T06:24:34Z",
+        "content": "Watch list 6/7/18 $HEPA $VANI $EDGE $IDSY $OGEN $AXGT $IMTE $NCTY $VBLT $UONE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951848387718201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-06T18:54:35Z",
+        "content": "$HEPA Great vol coming in right before PH. Entry 1.55",
+        "sentiment": {
+            "TextBlob": 0.5428571428571429,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9755151867866516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-06T17:45:48Z",
+        "content": "$CPST Breaking 52 week high. Looking for a test of $2 following up trend Bullish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971898198127747
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-06T04:48:11Z",
+        "content": "Updated WL(typo) $ASNA $OGEN $GLBS $CLDX $SNES $MYMD $AMRH $CHKE $CRON $UONE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977988600730896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-06T04:40:49Z",
+        "content": "@king_Solomon crap, meant $SNES Thanks for pointing that out",
+        "sentiment": {
+            "TextBlob": -0.30000000000000004,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995648264884949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-06T03:19:25Z",
+        "content": "Watchlist 6/6/2018 $ASNA $OGEN $GLBS $CLDX $SENS $MYMD $AMRH $CHKE $CRON $UONE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962175488471985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-05T15:03:16Z",
+        "content": "$SNES Broke the 1.50 wall looks like resistance at 1.55",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998174786567688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-05T05:14:11Z",
+        "content": "WL 6.5.18 $SLNG $RVP $CECO $CLDX $SENS $ASNA $CHEK $NUWE $GEVO $JAGX $CRDF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987074136734009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-01T15:31:54Z",
+        "content": "$CNTFWatching for break of $2.25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976892471313477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-06-01T00:52:18Z",
+        "content": "WL 6/1/18: $MYMD $OPHC $VVUS $VKTX $AIM.DL0223 $PHIO $JILL $CARM $CRIS $AAOI $HSTO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971889853477478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-31T23:18:38Z",
+        "content": "$OPHC $ANY $AIM.DL0223 $PHIO $HMNY $TPIV Watchlist recap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964625239372253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-31T21:24:51Z",
+        "content": "$VVUS More insider buying, been buying all month on the way up!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9826418161392212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-31T17:46:15Z",
+        "content": "$KTOV FDA approval Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974729418754578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-31T17:04:19Z",
+        "content": "$CRIS Watching for a break of $2.88 here for possible entry",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947978258132935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-31T12:39:34Z",
+        "content": "PM movers $VTVT $MYMD $KTOV $JONE $JILL $CARM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944363832473755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-30T23:40:10Z",
+        "content": "$OPHC $ANY $HMNY $AIM.DL0223 $PHIO $UONE $OGEN $SASI $TPIV $LGCY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974263310432434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-24T18:56:28Z",
+        "content": "$FWP In 3.33 for EOD day run",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898097515106201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-05-21T19:29:20Z",
+        "content": "$SPI Held too long, but still managed small scalp .44-.45. Thanks for the heads up not to wait and hold",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": 0.5927,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9875868558883667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-02-14T23:14:33Z",
+        "content": "@banksyhodler @jonathonsnell Hopefully we will see some of the rise in $BTC.X move to more of the alts like $UKG.X soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956377148628235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-01-30T22:40:19Z",
+        "content": "@gbernardca This will turn into $DCAR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933074116706848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-01-04T21:59:56Z",
+        "content": "@easymuny @beachshop Wasnt insider buying, they are buying a large amount of $WSCI",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9752283692359924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-01-04T18:43:11Z",
+        "content": "@brandon83ohiobucks Same tactics, buying companies rapidly without the cash on hand. Led to years of losses in $NETE and still not at b/e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991458654403687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-01-04T17:44:30Z",
+        "content": "@JEFF67STANG Just name, symbol will stay $DPW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891815781593323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2018-01-03T01:39:22Z",
+        "content": "$DPW Anyone know if this is a different license? Searched CA lending licenses",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990010857582092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-28T16:18:33Z",
+        "content": "$DPW Conference today is a S/H vote on turning DPW into a holding company.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9451007843017578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-28T16:00:06Z",
+        "content": "$DPW In at 3.85 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982092380523682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-20T21:00:44Z",
+        "content": "$GENE bamsec.com/filing/110465917...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876198768615723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-11T18:00:20Z",
+        "content": "$CYCC Since everyone is posting the abstract from the ASH conference, here is the one from the SA conference abstracts2view.com/sabcs/vi... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993926286697388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-10T22:47:23Z",
+        "content": "@ImmaRookie @ozkanman If you are interested in Biotechs, check out $CYCC , data coming out tomorrow night Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946634769439697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-08T19:58:08Z",
+        "content": "$CYCC A lot of buying coming in",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.780029833316803
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-07T22:47:56Z",
+        "content": "@rileyvang @KAKOMACO CYC065 is $CYCC drug. This presentation, made by someone else tomorrow, mentions its benefits.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7578855156898499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-07T17:28:18Z",
+        "content": "$NSPR In at .14 on news run",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957441687583923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-06T01:16:31Z",
+        "content": "@patience_pays1 $GALT planned conference call to reveal results is not the same as $CYCC presenting data at a national conference",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996300935745239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-04T19:00:16Z",
+        "content": "@BankingonBreakouts But do $TGEN and $BLRX have phase 3 data coming in a week like $CYCC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926226139068604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-12-01T20:45:45Z",
+        "content": "$CYCC Would they be asked to speak about results if they aren't good?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981247782707214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-11-30T21:11:05Z",
+        "content": "@Trade_to_Profit $NUWE had a lot of action today",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9555052518844604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-11-10T16:38:17Z",
+        "content": "$PETX prnewswire.com/news-release...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931012392044067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-10-06T16:14:28Z",
+        "content": "@StockAuthority Jumped too early on $PSTV, .48 out .55, Let's see if I can hold here ;)",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997174143791199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-09-27T19:40:19Z",
+        "content": "$NETE Let's see if we can close above $1 to start that 10 day timer!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976590871810913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-08-11T19:34:52Z",
+        "content": "$NETE Think it's a good sign they are giving ER before the due date pre market?",
+        "sentiment": {
+            "TextBlob": 0.2875,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993135929107666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-08-10T17:25:32Z",
+        "content": "$NETE rockvilleregister.com/shedd...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896560907363892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-06-20T20:11:46Z",
+        "content": "$NETE Good news and the stock is going up? That's not what normally happens with $NETE ;) Bullish",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993630051612854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-04-03T16:10:53Z",
+        "content": "$NETE Anyone listen to the call this morning?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942730069160461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "DrLizardWizard",
+        "timestamp": "2017-03-31T21:16:04Z",
+        "content": "$NETE Was hoping we'd avoid another reverse split, not likely now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989835619926453
+            }
+        },
+        "image_url": ""
+    }
+]

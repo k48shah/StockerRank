@@ -1,0 +1,44 @@
+[
+    {
+        "username": "MichaelGLamothe",
+        "timestamp": "2023-06-19T20:40:40Z",
+        "content": "Unlock your potential as a swing trader with \"The Trading Mind Decoder\"! Ask yourself these 9 key questions to enhance your trading skills and achieve your goals. Get it now at marawealth.com/ $study",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952129125595093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MichaelGLamothe",
+        "timestamp": "2023-06-06T20:54:05Z",
+        "content": "The IBD 50 is starting to break out. $FFTY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980087876319885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "MichaelGLamothe",
+        "timestamp": "2023-06-02T19:32:07Z",
+        "content": "Loads of breakouts today.  \nMany of the builders the took a breather the last week or so making some nice moves.  \ntradingview.com/x/P8VgBLnm/ $GRBK",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.4703,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9572052359580994
+            }
+        },
+        "image_url": ""
+    }
+]

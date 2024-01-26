@@ -1,0 +1,1752 @@
+[
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T19:50:42Z",
+        "content": "$VYNE Moving nicely heading into close, currently at it's HOD. Up 200% over the past month with a beautiful chart, would like to see 9.00+ early this week",
+        "sentiment": {
+            "TextBlob": 0.26,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996769428253174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T17:20:33Z",
+        "content": "$NNOX Solid midday move north, adding to its near 70% gained over the past week, and setting a new 52 week high",
+        "sentiment": {
+            "TextBlob": 0.029272727272727273,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990732669830322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T17:15:29Z",
+        "content": "$LILM Testing 1.00 currently",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9809725284576416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T15:58:27Z",
+        "content": "$CARM Negotiating 6.00 currently, has doubled over the past month with a solid chart, on watch",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992237091064453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T15:56:06Z",
+        "content": "$DRD Set another new 52 week high with that spike, on the radar for a continuation",
+        "sentiment": {
+            "TextBlob": 0.1481818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9653100371360779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T15:25:30Z",
+        "content": "$LILM Would like to see it test 1.00 in the near future",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9665921926498413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T15:24:38Z",
+        "content": "$IBRX Continues pushing north, has gained 113% over the past week to add to its nearly 300% over the past month. Looking for it's momentum to carry it higher",
+        "sentiment": {
+            "TextBlob": -0.037500000000000006,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8980283141136169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-05-08T14:03:55Z",
+        "content": "$AQST Continuing it's recent uptrend, moving nicely today. Up 65% over the past weeks time",
+        "sentiment": {
+            "TextBlob": 0.11666666666666665,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998039603233337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-04T14:46:40Z",
+        "content": "$CDLX Negotiating 5.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876297116279602
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-04T14:07:58Z",
+        "content": "$BFLY Testing 2.50",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9820645451545715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-03T17:58:42Z",
+        "content": "$DOGE.X huge spike",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9409369230270386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-03T17:50:54Z",
+        "content": "$OCUP Currently at it's HOD, on the radar for a solid close",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998497486114502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-03T17:43:08Z",
+        "content": "$BBAI Performing well, could see it retest 3.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9516633749008179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-03T17:38:28Z",
+        "content": "$CANO moving nicely, on watch for it to retest it's HOD and continue north",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996360540390015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-03T13:42:57Z",
+        "content": "$SONM Up more than 130% over the past month, including nearly 25% over the past week, with a strong chart. Holding above 1.00, could see it push higher.",
+        "sentiment": {
+            "TextBlob": 0.11190476190476188,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9969999194145203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-03T13:40:54Z",
+        "content": "$ARCT Continues last weeks uptrend, testing 25.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932584762573242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-04-03T13:38:57Z",
+        "content": "$GFAI Flying this morning",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9571755528450012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-03-24T14:53:12Z",
+        "content": "$SICP Watching, potential to test 2.00 shortly",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9626955986022949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-03-06T15:34:20Z",
+        "content": "$TRKA Performing well again today, currently up more then 200% over the past month. Watching this week",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993157386779785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-03-06T15:26:37Z",
+        "content": "$AMAM Continuing to run atm",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919780492782593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-03-02T15:48:26Z",
+        "content": "$TRKA Pushing higher this morning",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8182777762413025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-02-22T17:31:53Z",
+        "content": "$CVRX Approaching 10.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850482940673828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-02-22T17:24:13Z",
+        "content": "$LUNR Still running currently",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869749546051025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-02-21T15:41:34Z",
+        "content": "$SGML Bounced back nicely from it's initial pullback",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9933150410652161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-02-15T15:19:18Z",
+        "content": "$TMDIF Continuing to run hard",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999613344669342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-31T18:01:53Z",
+        "content": "$VVPR Continues it's fantastic run, up 142% over the past week. Could see 1.00 in the near future",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996991157531738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-31T15:43:27Z",
+        "content": "$IFBD Strong start to the day. Has more then doubled over the past month, on the radar",
+        "sentiment": {
+            "TextBlob": 0.22777777777777777,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8493508100509644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-30T15:07:50Z",
+        "content": "$CVNA Testing 10.00, on watch",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9745766520500183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-30T15:03:28Z",
+        "content": "$NVVE Fantastic spike this morning, adding to it's long term run that's seen it amass more then 360% over the past month. Has the momentum to push higher",
+        "sentiment": {
+            "TextBlob": 0.17,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9953483939170837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-23T19:07:34Z",
+        "content": "$FFIE Has fantastic momentum heading towards EOD",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991162419319153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-23T15:48:21Z",
+        "content": "$IDAI Halted on that spike",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975690245628357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-23T15:47:51Z",
+        "content": "$FFIE On watch for another push past .70",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933752417564392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-23T15:43:24Z",
+        "content": "$PALT Negotiating 3.00 this morning, has doubled in price over the past month despite it's relatively low volume. On watch for it's under the radar climb to continue",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7440328001976013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-23T15:39:04Z",
+        "content": "$VAXX Continuing it's move north, up more then 90% over the past weeks time. 4.00 approaching",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.639273464679718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-23T15:38:01Z",
+        "content": "$CIFR Continuing to push higher, currently at it's HOD, needs to surpass 1.30 to continue north",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989581108093262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-23T15:01:59Z",
+        "content": "$DPRO Performing very well this morning",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3384,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997219443321228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-10T20:23:53Z",
+        "content": "$BIOR Beautiful run so far, looking to move higher",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9784286618232727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-09T18:12:17Z",
+        "content": "$CIFR Approaching 1.00 during this spike",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9808647036552429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-09T18:10:19Z",
+        "content": "$FATE Solid resistance at 5.20, if it breaks that mark, could see it's run continue north",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9870943427085876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-05T18:28:46Z",
+        "content": "$BOXDQ Pushing higher, has fantastic volume today",
+        "sentiment": {
+            "TextBlob": 0.325,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998390674591064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-05T18:25:56Z",
+        "content": "$MESA Up more then 90% over the past week with a beautiful chart over that time. Would like to see the move to continue north.",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999204695224762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-05T18:20:42Z",
+        "content": "$ATNF Absolutely soaring",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997074007987976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-04T19:36:48Z",
+        "content": "$ASLN Moving nicely, set up for a solid close",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998254179954529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-04T15:19:50Z",
+        "content": "$MESA Maintaining a beautiful uptrend, nearly doubling over the past weeks time. Negotiating 2.00, watching for it to push higher.",
+        "sentiment": {
+            "TextBlob": 0.2375,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9775810241699219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-04T15:17:24Z",
+        "content": "$ARBK Climbing yet again today, bringing its past week gains to over 135%. Has the momentum to continue north",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959482550621033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-04T15:14:33Z",
+        "content": "$OBLG Halted after a large spike",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991021156311035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-04T15:13:46Z",
+        "content": "$REUN Moving nicely, has 4x it's average volume already.",
+        "sentiment": {
+            "TextBlob": 0.22499999999999998,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7750634551048279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-04T15:10:39Z",
+        "content": "$TYDE Soaring this morning",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9875284433364868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2023-01-04T14:23:51Z",
+        "content": "$VVOS Surging currently, having a fantastic PM so far",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996840953826904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-11-14T13:37:50Z",
+        "content": "$FDMT Strong move north this morning after announcing interim clinical data from ongoing phase 1/2 clinical trial of Intravitreal 4D-150 for Wet age related macular Degeneration. The stock performed excellent last week, on watch for the news to continue driving the stock higher",
+        "sentiment": {
+            "TextBlob": 0.2638888888888889,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.996322512626648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-11-14T13:25:14Z",
+        "content": "$FRGT Pressing against it's resistance, could push higher if .49 is surpassed",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979668259620667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-11-14T13:18:28Z",
+        "content": "$FRGT Fantastic run so far in PM",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.628214955329895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-15T15:56:25Z",
+        "content": "$MEGL Spiking  currently",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9577437043190002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-14T16:39:30Z",
+        "content": "$PL Consistently climbing this week, on the radar for it to surpass and hold over 7.00",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6369165182113647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-14T16:35:37Z",
+        "content": "$IBRX Strong move north currently",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992542862892151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-14T16:32:00Z",
+        "content": "$TMBR Strong spike currently, looking for it to surpass .1599 to continue north",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.944963812828064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-14T16:30:10Z",
+        "content": "$RYTM Having a great day so far, setting a new 52 week high. On watch for 30.00 to be tested again this week",
+        "sentiment": {
+            "TextBlob": 0.2990909090909091,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9941921830177307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-06T16:56:00Z",
+        "content": "$SPRO Continues to climb higher, at it's HOD",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6272479295730591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-06T15:04:42Z",
+        "content": "$ISEE Could see it climb higher today if 15.00 is surpassed",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7834209203720093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-06T14:14:58Z",
+        "content": "$SHPH Negotiating 20.00, on watch for it to surpass and hold over that mark",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7449273467063904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-06T14:12:01Z",
+        "content": "$NUTX Pushing higher, currently near it's HOD",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905574321746826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-02T17:14:54Z",
+        "content": "$ALT Having yet another solid day, 25.00 in sight for next week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.974551260471344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-02T17:12:04Z",
+        "content": "$RVPH Currently at it's HOD and continues pushing higher",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8342821598052979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-02T17:10:44Z",
+        "content": "$CCLD Continues to negotiate 4.00, up 30% over the past weeks time",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.616108238697052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-02T16:58:52Z",
+        "content": "$VERO Creeping north again after that pullback",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914372563362122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-01T13:50:24Z",
+        "content": "$PIXY Halted after spiking",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985606074333191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-09-01T13:49:07Z",
+        "content": "$SHPH Halted currently",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940768480300903
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-30T16:15:19Z",
+        "content": "$PETZ Performing well currently, looking for it to push past this resistance point",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9284778833389282
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-30T16:10:18Z",
+        "content": "$NBEVQ Continuing to watch for this long halt to end",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964433312416077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-16T17:57:39Z",
+        "content": "$BBBYQ Set up well to retest its HOD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939058423042297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-16T17:09:42Z",
+        "content": "$SUNW Heading north again today, bringing it's past week gains to 50% and past month to over 180% with a great chart over that time. Could see 5.00 this week",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971714615821838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-16T17:08:17Z",
+        "content": "$BBBYQ Continues to have a phenomenal day",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997153878211975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-16T14:12:00Z",
+        "content": "$RVYL Performing well currently, looking for it to climb over that 1.85 wall",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9886932969093323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-16T13:32:59Z",
+        "content": "$GNPX Running hard to start the morning, continuing its recent uptrend",
+        "sentiment": {
+            "TextBlob": -0.14583333333333334,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991970658302307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T17:19:09Z",
+        "content": "$INKT Running hard, 3.00 in sight",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986892342567444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T14:59:07Z",
+        "content": "$ILAG Continues to push north",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7645114660263062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T14:54:53Z",
+        "content": "$MEGL Continues to soar, negotiating 15.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9928339719772339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T14:28:26Z",
+        "content": "$AXDX Climbing nicely after beating Q2 estimates, bringing its past month gains to 124% and more then 275% over the past 3m. Looking for a continuation north",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9963167905807495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T14:22:29Z",
+        "content": "$NVIV Rising fast on low volume",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982397556304932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T14:20:16Z",
+        "content": "$DRRX Strong push north this morning, bringing it's past month gains to about 100%. On the radar for 1.00 in the near future",
+        "sentiment": {
+            "TextBlob": 0.07083333333333333,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9809302091598511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T13:52:35Z",
+        "content": "$TCRT Surging this morning, bringing it's past 3m gains to 232% with a solid uptrend over that time. 2.00 in sight",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9962486624717712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T13:49:21Z",
+        "content": "$PSTV Spiking hard, approaching 1.00",
+        "sentiment": {
+            "TextBlob": -0.14583333333333334,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993736147880554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T13:42:00Z",
+        "content": "$MEGL Running currently",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9770111441612244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-15T12:01:25Z",
+        "content": "$VRDN Having a strong  PM after announcing positive clinical data from Ongoing phase 1/2 trial evaluating VRDN-001 in patients with Thyroid Eye Disease",
+        "sentiment": {
+            "TextBlob": 0.33030303030303027,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9898277521133423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-11T16:47:40Z",
+        "content": "$DMS What a massive run",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994179010391235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-11T16:23:39Z",
+        "content": "$ABSI Continues pushing higher so far today, on watch for a continuation",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9889339208602905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-10T14:20:25Z",
+        "content": "$BCAB Unhalted",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847458600997925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-08-10T13:50:21Z",
+        "content": "$MCOM Running nicely, rebounding from it's recent pullback, on watch for 2.00",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971942901611328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-27T13:51:03Z",
+        "content": "$AFIB Bounced back nicely after that early sell off, watching",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983933568000793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-27T12:16:05Z",
+        "content": "$AXSM Having a fantastic run in PM so far",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987024068832397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-27T12:12:58Z",
+        "content": "$AFIB Looking to push even higher this AM",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9808587431907654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-14T15:46:51Z",
+        "content": "$STNG Approaching it's previous 52 week high set recently",
+        "sentiment": {
+            "TextBlob": -0.0016666666666666635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.934493899345398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-14T15:45:22Z",
+        "content": "$NEXI Continues pushing north, surpassing 2.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986898303031921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-13T18:50:42Z",
+        "content": "$AGRI Soaring currently, set up well for a strong close",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998144507408142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-13T17:52:50Z",
+        "content": "$FUV Testing 4.00 currently after a pretty steady climb today",
+        "sentiment": {
+            "TextBlob": 0.13888888888888887,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8531720638275146
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-13T14:28:45Z",
+        "content": "$ALT Modest uptrend today, adding to it's recent gains, bringing it to 66%+ over the past weeks time. Potential to push higher this week",
+        "sentiment": {
+            "TextBlob": 0.02,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964723587036133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-13T13:44:14Z",
+        "content": "$RDBX Pushing north again, watching",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7770534753799438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-08T16:14:42Z",
+        "content": "$HUSA Continues it's run north, has nearly doubled over the past week, could see 10.00 before EOW",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9586441516876221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-08T11:57:18Z",
+        "content": "$RDBX Having a great PM so far, continuing yesterdays uptrend",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8720045685768127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-08T11:14:34Z",
+        "content": "$PBF  Performed well yesterday, adding to it's 120% amassed over the past 3m with a strong chart. Set a new 52 week high, expecting it's long term move north to continue",
+        "sentiment": {
+            "TextBlob": 0.08593939393939393,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991711378097534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-08T11:12:54Z",
+        "content": "$HUSA  Up more then 60% over the past week after yesterday's large run, on watch for a continuation north",
+        "sentiment": {
+            "TextBlob": 0.15476190476190477,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874173402786255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-07T19:32:43Z",
+        "content": "$HUSA Having a fantastic run, set up well for a strong close",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.8402,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998487234115601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-07T16:59:46Z",
+        "content": "$ESTE Set a new 52 week high, expecting it's long term uptrend to continue",
+        "sentiment": {
+            "TextBlob": 0.08212121212121214,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98792564868927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-07T14:35:25Z",
+        "content": "$VTLE Set a new 52 week high this morning, would like to see it's momentum continue carrying it north",
+        "sentiment": {
+            "TextBlob": 0.1481818181818182,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985218644142151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-07T14:33:51Z",
+        "content": "$HUSA Strong run so far",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9094089269638062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-07T14:33:15Z",
+        "content": "$BTU Briefly tested 30.00 this morning, on watch for another attempt to surpass that mark",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968373775482178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-06T13:55:24Z",
+        "content": "$FSTX Strong start to the day so far",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994016885757446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-06-06T12:35:35Z",
+        "content": "$RCMT A fantastic long term gainer that maintained it's excellent run, adding to it's 273% gained over the past 3m with great chart. Closed Friday at it's 52 week high, expecting 30.00+ shortly",
+        "sentiment": {
+            "TextBlob": 0.245,
+            "NLTK": 0.9325,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997140765190125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-31T13:53:51Z",
+        "content": "$MULN Had a very large spike to start the day, currently negotiating 1.40",
+        "sentiment": {
+            "TextBlob": 0.1392857142857143,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9647824764251709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-26T14:00:50Z",
+        "content": "$GME Continues yesterday's surge, testing 135.00 again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7673037648200989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-25T18:11:05Z",
+        "content": "$GME Holding well here, on watch for another test of 115",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6939826607704163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-25T18:09:59Z",
+        "content": "$BKSY Continuing to push higher, set up well for a solid close",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995965361595154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-25T14:24:06Z",
+        "content": "$IMTE Continues it's near daily climb, would like to see another test of 7.00 in the near future",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9556427597999573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-24T18:44:16Z",
+        "content": "$IMTE Solid climb today, adding to it's consistent uptrend that's caused it to gain nearly 50% over the past month",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979469180107117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-24T15:40:05Z",
+        "content": "$PLG Performing well so far today",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988499879837036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-23T17:12:29Z",
+        "content": "$CBIO Taking off again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921172261238098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-23T17:03:30Z",
+        "content": "$SOND Maintaining a solid uptrend so far, currently testing it's HOD, on watch for a continued climb",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9518367648124695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-23T13:49:42Z",
+        "content": "$KALA Pushing higher, testing it's .90 HOD, looking for that wall to be surpassed if momentum holds",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946632385253906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-23T13:45:09Z",
+        "content": "$CBIO Spiked to 1.10, looking for another attempt to surpass that mark",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988969564437866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-23T13:33:23Z",
+        "content": "$GOVX Pushed past 2.00, continuing the recent momentum thats caused it to gain 235% over the past week. Looking for a continuation",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964005947113037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-16T13:40:34Z",
+        "content": "$RKDA Starting the day off well, on watch for 1.20+",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9778750538825989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-09T16:31:12Z",
+        "content": "$XPON Would like to see another test of 4.30 shortly, moving nicely so far",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994686245918274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-09T14:04:21Z",
+        "content": "$CYN Performing well this morning",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987362027168274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-09T13:19:31Z",
+        "content": "$HDSN Set a new 52 week high on Friday, on the radar for a test of 10.00",
+        "sentiment": {
+            "TextBlob": 0.1481818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877175092697144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "SNinvestments",
+        "timestamp": "2022-05-02T14:10:21Z",
+        "content": "$RDBX Running currently, could see 10.00+ if 9.50 is broken soon",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965927004814148
+            }
+        },
+        "image_url": ""
+    }
+]

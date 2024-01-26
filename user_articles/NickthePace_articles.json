@@ -1,0 +1,1976 @@
+[
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-10-07T00:55:41Z",
+        "content": "$NVDA definitely the best mega cap stock around. The competition is just too far behind . Bullish",
+        "sentiment": {
+            "TextBlob": 0.17500000000000002,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897425174713135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-10-07T00:53:46Z",
+        "content": "$MSFT selling msft in favor of a canadien bank eh? Right here",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974295496940613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-10-07T00:48:46Z",
+        "content": "$AMZN i don\u2019t want to sound pessimistic but a lot of these charts appear to be on their way back down the candlestick. Msft, aapl, AMZN... i usually love tech but I\u2019m selling these short term... these charts look hideous. (Next day of course AMZN up 200 pts!) Bearish",
+        "sentiment": {
+            "TextBlob": 0.12407407407407407,
+            "NLTK": 0.7574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992069602012634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-10-07T00:38:57Z",
+        "content": "$TD loving me a piece of cananada. This stock is 1/2 trump proof Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8750156760215759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-10-02T23:53:09Z",
+        "content": "$TD so under rated . Killin it Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982706308364868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-09-18T13:50:08Z",
+        "content": "$AMZN head n shoulders it\u2019s way back down like all of big tech Bearish",
+        "sentiment": {
+            "TextBlob": -0.051851851851851864,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960945248603821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-09-18T13:44:59Z",
+        "content": "$AMZN big moment of truth coming up",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9898681640625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-07-07T16:09:44Z",
+        "content": "$WMT shawiiiing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984569251537323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-07-02T14:38:46Z",
+        "content": "$WMT so many other stocks have run up quickly , I think Walmart is due",
+        "sentiment": {
+            "TextBlob": 0.14583333333333331,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992307424545288
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-06-23T18:45:34Z",
+        "content": "$WMT such. A. Dog. But if I sell now I know it\u2019ll pop tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9462534785270691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-06-16T15:34:20Z",
+        "content": "$NVDA this stock Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994631409645081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-06-16T15:05:02Z",
+        "content": "$MSFT Powell needs to take some speaking lessons",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992781281471252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-06-16T14:57:35Z",
+        "content": "$NVDA completing a head and shoulders pattern, and  then most likely to continue its uptrend in my opinion. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987105131149292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-06-10T19:03:03Z",
+        "content": "$WMT mega turd! A real Patience tester Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982656836509705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-02-02T16:32:13Z",
+        "content": "$BA if I don\u2019t have a position in BA but like the company.. would this MAX shenanigans be a good time to start accumulating shares? Maybe over a 2-3 year time period? The question is how will they be looking in 10 years?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.887,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944109320640564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-02-02T03:49:19Z",
+        "content": "$MSFT Corona virus , Democrats, and Brexit are a great reason to pick up some Microsoft shares at a discount in the next few weeks . Bullish",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969538450241089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-31T20:47:06Z",
+        "content": "$MSFT China the world\nMosquito",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9752307534217834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-31T20:43:46Z",
+        "content": "$AAPL China. is. so. annoying. Lol",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997881054878235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-31T16:34:30Z",
+        "content": "$MSFT beautifullll  this dip is way due, looking at the 168 levels for a floor to continue adding to my position Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.920678436756134
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-30T12:14:41Z",
+        "content": "$MSFT seriously only gave us a one day dip ... wtf how am I supposed to add to my position . Uh yeah plz corona virus scare us some more Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985513091087341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-30T02:54:18Z",
+        "content": "$MSFT Even when I shave profits I feel like I get screwed cuz I know it\u2019ll keep going up. Woe to me Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990383386611938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-30T02:50:08Z",
+        "content": "$AAPL always shits on bears Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992202520370483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-29T23:08:20Z",
+        "content": "$MSFT lol boom goes dynamite congrats bulls Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9792340993881226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2020-01-27T04:40:24Z",
+        "content": "$MSFT please give me a dip to buy this week Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966239929199219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-11-07T16:44:36Z",
+        "content": "$MSFT love seeing impatient people cry and talk smack about the best company in the world Bullish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7714981436729431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-27T19:18:43Z",
+        "content": "$NVDA Ive been in since 150.. I feel like selling here is already to late ..Opinions?",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994727969169617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-26T22:47:56Z",
+        "content": "$MSFT satya and the Msft will tea bag politics. This company is better than any bullshit u can think of Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9942927360534668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-26T19:34:54Z",
+        "content": "$MSFT boom \ud83d\udca5 yet I\u2019m never surprised Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.1695,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7943013906478882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-26T18:01:12Z",
+        "content": "$IQ poss double bottom here could be promising .. for at least a few days",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980624318122864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-26T17:34:34Z",
+        "content": "$IQ bought one share on Robin Hood at 25 and feel Raped.. I can only imagine the stress of someone w a real position",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989945292472839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-26T17:18:28Z",
+        "content": "$MSFT Classic Msft action. Frustrating to watch but definitely a champ . Gotta respect the zig zag up trend. The Tim Duncan of stocks",
+        "sentiment": {
+            "TextBlob": -0.03333333333333334,
+            "NLTK": 0.8979,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989340901374817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-26T16:58:39Z",
+        "content": "$IQ if she holds 15 it will make me feel better about starting a position.. but the down trend right now is powerful. I want to like this",
+        "sentiment": {
+            "TextBlob": 0.18603174603174605,
+            "NLTK": 0.8537,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996820688247681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-26T16:35:08Z",
+        "content": "$IQ nothing bullish about this stock",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9847588539123535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-09-25T19:09:22Z",
+        "content": "$NVDA when she moves, she moves fast Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858988523483276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-23T20:11:32Z",
+        "content": "$AAPL trump is billy Madison lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9591672420501709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-23T20:01:29Z",
+        "content": "$AAPL like what could trump even say to boost Apple? He already used the bromance card with Tim Cook ... and clearly that didn\u2019t do shit lol",
+        "sentiment": {
+            "TextBlob": 0.23333333333333336,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894290566444397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-23T19:42:58Z",
+        "content": "$AAPL the good news is that if the market tanks trump probably won\u2019t win in 2020... but then we get ... oh wait.. dammit",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5187,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972190856933594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-23T16:57:30Z",
+        "content": "$NVDA China be like",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9606965184211731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-23T16:26:06Z",
+        "content": "$AAPL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836944937705994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-23T16:08:19Z",
+        "content": "$AAPL if trump wins in 2020 that will be impressive",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974879026412964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-23T13:02:01Z",
+        "content": "$NVDA this is all good news for one person... sleepy joe Biden",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989581108093262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-21T18:22:54Z",
+        "content": "$NVDA funny when people think a 2% is bearish ... what planet are they from",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5849311351776123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-19T18:10:39Z",
+        "content": "$NVDA CNBC crew are such pansies. Trying to push for a recession . Hope they got Nvidia\u2019d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980970025062561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-19T17:41:02Z",
+        "content": "$MSFT a sleep well at night kind of stock,  despite last weeks drama never even considered selling. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941487312316895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-19T17:36:10Z",
+        "content": "$NVDA I bet if this closes up only 8 pts the bears will say the sky is falling",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982646107673645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-16T18:55:59Z",
+        "content": "$NVDA lmao all the week hands today Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989489912986755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-16T15:31:07Z",
+        "content": "$NVDA the easy question is why would people buy it after the 6% spike ? It\u2019s out of the penalty box, give it a little time Bullish",
+        "sentiment": {
+            "TextBlob": 0.12291666666666667,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993430972099304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T23:57:19Z",
+        "content": "$NVDA oh man two more Korean missiles into the ocean \ud83c\udf0a everyone should selll",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988943338394165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T23:12:39Z",
+        "content": "$IQ oh china stuff Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9831889867782593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T23:10:44Z",
+        "content": "$MSFT 134 be like ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8719605207443237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T22:43:21Z",
+        "content": "$NVDA in this market I\u2019ll take it up 3 points",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9621441960334778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T21:44:53Z",
+        "content": "$AAPL if only aapl could create smart humans",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973523616790771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T21:44:08Z",
+        "content": "$NVDA jenson or satya , who becomes the first cyborg ?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937053322792053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T21:35:13Z",
+        "content": "$NVDA is this going to head and shoulders back down ? Perhaps a sell limit at like 156 to lock profits?",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.6966,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994283318519592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T21:30:18Z",
+        "content": "$NVDA lol pulls an AMAT for 30 seconds",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9742180705070496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T21:01:00Z",
+        "content": "$AMAT what a ripper!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.722716748714447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T20:38:41Z",
+        "content": "$NVDA what a beat off! Awwww yeahhh",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958666563034058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T20:32:16Z",
+        "content": "$NVDA hopefully Amat and NVDA lift the market tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9396824240684509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T20:20:28Z",
+        "content": "$NVDA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874312877655029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T19:12:41Z",
+        "content": "$MSFT commmon don\u2019t fart out now! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9182589650154114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T19:04:26Z",
+        "content": "$MSFT lol this like watching a horse race",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6883,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872918128967285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-15T14:13:00Z",
+        "content": "$MSFT 134 looks like a solid entry Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8640592694282532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-14T18:45:33Z",
+        "content": "$AAPL stop blowing holes in my ship!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992640614509583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-14T15:16:00Z",
+        "content": "$MSFT this could easily go down to 130... but most likely to find good support  there Bullish",
+        "sentiment": {
+            "TextBlob": 0.26111111111111107,
+            "NLTK": 0.8442,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976121187210083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-14T14:06:11Z",
+        "content": "$AAPL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9836944937705994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-14T14:01:45Z",
+        "content": "$AAPL this market be like Me, myself and Irene!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5229,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9727016091346741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-14T10:32:53Z",
+        "content": "$AAPL if this is a dip that\u2019s cool.. if it\u2019s a head and shoulders , it\u2019s not",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9737286567687988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-14T02:17:34Z",
+        "content": "$AAPL pivotal next few days, need this momentum to break 213ish  otherwise it could be another rough slide",
+        "sentiment": {
+            "TextBlob": 0.049999999999999996,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983623623847961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-14T00:00:12Z",
+        "content": "$MSFT I hope satya Nadella becomes a cyborg one day",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9860900640487671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T21:30:43Z",
+        "content": "$AAPL Apple shorts be picking up some extra hours at work this week \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867761731147766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T20:49:01Z",
+        "content": "$AAPL with Boeing sucking so much ballsack, Apple should start making airplanes lol. Just an idea",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980517625808716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T20:40:25Z",
+        "content": "$MSFT satya the super hero",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748143553733826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T19:14:31Z",
+        "content": "$AAPL always remember, winners win and losers lose",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7252614498138428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T18:45:27Z",
+        "content": "$MSFT oh man it\u2019s gonna blow ! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969989061355591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T17:54:20Z",
+        "content": "$NFLX what a dog",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894546270370483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T16:02:02Z",
+        "content": "$AAPL it\u2019s hilarious how trump is always interviewed with a  loud helicopter nearby . Gotta say I like him more and more",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990826845169067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T15:49:27Z",
+        "content": "$AAPL China is such a mosquito",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943034648895264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T15:24:45Z",
+        "content": "$AAPL best thing to short right now is China. Communism will lose",
+        "sentiment": {
+            "TextBlob": 0.42857142857142855,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990760087966919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T15:23:07Z",
+        "content": "$AAPL I cant wait until there is a new wave of analysts. These old guys on CNBC are pathetic",
+        "sentiment": {
+            "TextBlob": -0.2545454545454546,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995031356811523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T15:04:34Z",
+        "content": "$AAPL predicting a weak close but another solid day tomorrow .. they have a get out of jail free card until December Bullish",
+        "sentiment": {
+            "TextBlob": -0.01874999999999999,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8977280855178833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T14:38:18Z",
+        "content": "$AAPL \u201cbe greedy when everyone else is fearful and fearful when everyone else is greedy\u201d if you watch the news it looks like the world is about to blow up. F those pessimists Bullish",
+        "sentiment": {
+            "TextBlob": -0.9,
+            "NLTK": -0.802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999243974685669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T13:47:10Z",
+        "content": "$AAPL boom goes the dynamite",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9413254857063293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T13:46:33Z",
+        "content": "$AAPL tariffs on Apple products delayed woot woot Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981016516685486
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-13T13:45:16Z",
+        "content": "$AAPL a reversal today would really be bad for the charts",
+        "sentiment": {
+            "TextBlob": -0.6999999999999998,
+            "NLTK": -0.5829,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995877146720886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-12T19:29:27Z",
+        "content": "$MSFT reverse head n shoulders forming , looking for a big leg up soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992488026618958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-12T17:54:15Z",
+        "content": "$MSFT 130/132 looks to be next level of support",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838539361953735
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-12T16:25:57Z",
+        "content": "$AAPL anyone see a head and shoulders pattern forming?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968493580818176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-01T19:53:31Z",
+        "content": "$AAPL viva le resistance",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9675641655921936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-01T18:21:05Z",
+        "content": "$AAPL might as well start investing in LEGO sets",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955124258995056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-01T17:46:29Z",
+        "content": "$AAPL India and Austin in progress... hopefully Timmy understands that China is of the past",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959640502929688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-01T15:17:18Z",
+        "content": "$MSFT noooo stop !! Ok.. keep going. I just wanted more Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990530610084534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-08-01T15:08:16Z",
+        "content": "$AAPL any bears around looking for a chat?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974822402000427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T20:46:37Z",
+        "content": "$AAPL i doubt America is in trouble because one person can\u2019t enunciate his words well. I wish Next time he would just tweet his speech",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987725615501404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T20:33:00Z",
+        "content": "$AAPL wwwD\nWhat would warren Do?\nProlly nothing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994605183601379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T19:53:29Z",
+        "content": "$MSFT hoping to pick up more below 130 Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978341460227966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T19:51:49Z",
+        "content": "$MSFT salivating for my next paycheck to add more msft . Crossing my fingers for another rough few days Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990373849868774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T19:25:03Z",
+        "content": "$AAPL shit tectonics",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952125549316406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T18:08:07Z",
+        "content": "$AAPL do we buy stocks on this dip, wait, or run?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995081424713135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T17:55:59Z",
+        "content": "$AAPL whatever happens with the fed here will most likely be market wide , I wouldn\u2019t single out Apple .  If it drops much to bears liking, Id bet most things will. Question is do you sell  some stocks here?",
+        "sentiment": {
+            "TextBlob": 0.17142857142857146,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943376183509827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T17:14:19Z",
+        "content": "$AAPL up 4% and bears still talking lmao",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990956723690033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T17:13:02Z",
+        "content": "$AAPL wondering if today might be the same bear deja vous as yesterday. All went back to their caves after the bell Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981891512870789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T17:00:27Z",
+        "content": "$AAPL is it really that shocking if a stock goes up 10 points to have a little profit taking ? Apple doesn\u2019t make rocketships that go to the moon . Yet",
+        "sentiment": {
+            "TextBlob": -0.32916666666666666,
+            "NLTK": -0.0954,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964391589164734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-31T16:40:30Z",
+        "content": "$AAPL funny how the bears come back after it\u2019s already succeeded and say the same shit.  At 250, and the bears will be back spewing their diarrhea at 246 !",
+        "sentiment": {
+            "TextBlob": 0.009999999999999998,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896626472473145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-30T21:08:55Z",
+        "content": "$AAPL where all the bears go? Back to their dens Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984486103057861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-30T21:05:44Z",
+        "content": "$AAPL plz god present me with another bear to mace on this thread Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978760480880737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2019-07-30T20:53:38Z",
+        "content": "$AAPL quality products win",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995114803314209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-12-06T14:55:39Z",
+        "content": "$AAPL looking at $120-130 support.\nDog shit realistic. Will buy more when the world grows up",
+        "sentiment": {
+            "TextBlob": 0.15555555555555556,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9711802005767822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-29T19:45:36Z",
+        "content": "$AAPL Friday afternoon diarrhea as usual",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9700330495834351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-29T15:06:14Z",
+        "content": "$IQ remind me again why a cheating communist dictator for life isn\u2019t the biggest POS in the world. No interest in that countries dogs Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981332421302795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-29T14:47:03Z",
+        "content": "$V best company in the world imo Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9399188160896301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-29T14:45:54Z",
+        "content": "$AMAT i wish I could get excited for this good day but I still don\u2019t trust the stock",
+        "sentiment": {
+            "TextBlob": 0.5375,
+            "NLTK": 0.8381,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988929629325867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-29T14:32:51Z",
+        "content": "$TCEHY i Love this company, But the Chinese government is Dog shit for life. I\u2019ll never invest in their manipulation again. Cramer is right Bearish",
+        "sentiment": {
+            "TextBlob": 0.1464285714285714,
+            "NLTK": -0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964160919189453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-22T13:54:29Z",
+        "content": "$IQ funny how the shit talkers are now holding a bag of shit. Myself included lol",
+        "sentiment": {
+            "TextBlob": 0.1625,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925227761268616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-20T18:14:55Z",
+        "content": "$IQ do not have a bearish IQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9816042184829712
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-20T18:07:06Z",
+        "content": "$IQ lmao. IQ bears be like jay cutler",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9734219908714294
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-20T16:18:05Z",
+        "content": "$IQ double bottom approaching.. ready to buy Bullish",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991699457168579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-20T15:31:55Z",
+        "content": "$IQ bears be like that one at the party with an ugly girlfriend.. wishing they had better Bullish",
+        "sentiment": {
+            "TextBlob": -0.09999999999999998,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993743300437927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-20T15:01:01Z",
+        "content": "$IQ omg a Down day everyone panic",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977044463157654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-20T00:47:52Z",
+        "content": "$IQ $MSFT $CRSP adding some ammo to be ready. Loving this dip in the pool.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989616870880127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-19T19:01:30Z",
+        "content": "$IQ I really hope this goes down to 38/39 again to load up",
+        "sentiment": {
+            "TextBlob": 0.022222222222222213,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931592345237732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-19T14:51:24Z",
+        "content": "$IQ this stocks shits on politics . Finally a drama free GF",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987265467643738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-19T14:49:43Z",
+        "content": "$IQ fucking rockstar ! Love buying these fun dips Bullish",
+        "sentiment": {
+            "TextBlob": 0.016666666666666663,
+            "NLTK": 0.843,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8177321553230286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-19T00:48:18Z",
+        "content": "$AMAT has Nintendo syndrome. Entering full tank mode for no good reason Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994756579399109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-19T00:00:54Z",
+        "content": "$NTDOY holding onto my small bag of dog shit. I love Nintendo but this is just pathetic. Should have kept love out. Earnings surprise plz",
+        "sentiment": {
+            "TextBlob": -0.09,
+            "NLTK": 0.631,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991258442401886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-08T01:38:22Z",
+        "content": "$IQ should I buy at open tomorrow or hope for some sort of sell off before entering ? The chart looks strong Bullish",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962769150733948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-06-06T01:36:48Z",
+        "content": "$NTDOY I\u2019m riding out this stinker. Probably adding a little more gas when I see a few Green Day\u2019s in a row Bullish",
+        "sentiment": {
+            "TextBlob": -0.11750000000000001,
+            "NLTK": -0.4357,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995875954627991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-05-24T02:21:23Z",
+        "content": "$CRON double bottom ??? Strength???!!! Should I care that the PE is 697? I\u2019ve been waiting for a cron boner",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988038539886475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-05-24T00:26:19Z",
+        "content": "$CRSP Jim Cramer mr. misleading twice says don\u2019t buy and then the next day it sky rockets. What a guesser he is Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993743300437927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-04-27T14:36:31Z",
+        "content": "$MSFT this market is a schizophrenic circus ... might as well just play craps",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996993541717529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-03-22T13:19:30Z",
+        "content": "$CRON I would like to get in but def waiting for the smoke to settle. Zero confidence . Maybe a Buy around 4.20 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997318387031555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-03-22T13:08:10Z",
+        "content": "$CRON we\u2019re smoking dogshit Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977810978889465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-03-16T02:48:00Z",
+        "content": "$NVDA $MSFT $V should safely surpass current resistance levels Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998599112033844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-03-12T14:27:02Z",
+        "content": "$MU cruising to Mars with Elon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9366074204444885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-03-12T13:40:15Z",
+        "content": "$CRON ugly chart . Waiting for any sign of life to get back in",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997096657752991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-03-08T19:21:52Z",
+        "content": "$CRON getting smoked. Stick with Micron",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967840909957886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-03-07T02:24:41Z",
+        "content": "$MU $CRON \nCron, Micron smokin like Weed & Chips Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983036518096924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-02-14T18:23:23Z",
+        "content": "$AMAT pivotal day, is back & count on Gary Dickerson to say some good shit after the bell Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9891965389251709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-02-14T01:06:19Z",
+        "content": "$BCC long..  $MTCH $Z one foot in one foot out",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974725842475891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-02-13T23:33:02Z",
+        "content": "$AAPL 200+ Green apples Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982374906539917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-02-13T23:14:07Z",
+        "content": "$MU riding in $AMATs wake tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922433495521545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "NickthePace",
+        "timestamp": "2018-02-13T22:48:00Z",
+        "content": "$AMAT up to bat tomorrow for the semi conductors Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9724107384681702
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2023-04-17T14:21:45Z",
+        "content": "$GDX constructive pullback > 20-sma, consolidating recent gains. Uptrend intact > 50-sma. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914224743843079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2023-04-17T14:17:51Z",
+        "content": "$IOT just below a 21.50 breakout level. On this week's High-Beta best ideas list for Members. bluechipdaily.com/ Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9748442769050598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2023-04-17T14:15:42Z",
+        "content": "$FSLR just below a potential 220 breakout level. Support at 200. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972165822982788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2023-04-17T13:27:08Z",
+        "content": "$PANW just below a weekly breakout level of $200. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985256791114807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2023-04-17T13:09:20Z",
+        "content": "$MSFT trading higher pre-market, just below 52-week highs, after reports that Samsung could choose Bing search over $GOOGL search. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983060359954834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2020-07-08T11:48:10Z",
+        "content": "Semis $SMH continue their strong uptrend. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9641851782798767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2020-07-08T11:46:13Z",
+        "content": "$QQQ +20% YTD continues to outperform vs $SPY -2.5% and has the strongest singles charts as well. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974910020828247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "BlueChipDaily",
+        "timestamp": "2020-07-06T19:54:27Z",
+        "content": "Mega caps going strong into the close $AMZN $BABA Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8157274127006531
+            }
+        },
+        "image_url": ""
+    }
+]

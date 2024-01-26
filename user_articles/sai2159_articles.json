@@ -1,0 +1,506 @@
+[
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-16T16:28:55Z",
+        "content": "$FFHL when is the earnings ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966779947280884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-16T14:00:39Z",
+        "content": "$ADD when did the ER came out ? Today or yesterday ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974695444107056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-15T21:10:20Z",
+        "content": "$LEDS why it\u2019s going up In AH ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965108036994934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-15T17:01:09Z",
+        "content": "$PSHG I think DCIX is gettting ready to follow $NUWE ,$LEDS",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953861832618713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-15T11:49:40Z",
+        "content": "$RLOG why it ran in AH? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996939897537231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-14T19:10:54Z",
+        "content": "$CREG when is the ER ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989339709281921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-13T23:18:59Z",
+        "content": "$CREG when is the earnings PM or AH?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992334842681885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-10T16:59:33Z",
+        "content": "$CREG looks like there is big wall at $7 we need to break that by Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999142050743103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-10T16:20:24Z",
+        "content": "$CREG do we have one more leg up ?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986373782157898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-11-07T17:01:32Z",
+        "content": "$TOPS shorts common short as much as you can see u at 2 PM",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992660403251648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-31T16:51:51Z",
+        "content": "$ACER when will the warrant stocks expire ?anyone please",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9816662669181824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-27T14:16:37Z",
+        "content": "$DGLT can anyone sell their shares on RH ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984831213951111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-20T15:13:28Z",
+        "content": "$ASXC any news ?Thanks",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9244653582572937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-19T19:31:34Z",
+        "content": "$ASXC when is the next conference ? Thanks",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7748230695724487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-18T16:23:40Z",
+        "content": "$ASXC when is the next conference ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995494484901428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-18T16:23:20Z",
+        "content": "$ASXC If everyone says I am gonna hold it long then who is selling any idea ?",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995145797729492
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-17T01:00:12Z",
+        "content": "$ASXC At what Time conference will start  tomorrow ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955751895904541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-13T22:44:08Z",
+        "content": "$ASXC I guess most of the people don\u2019t forget this ticket just like HMNY .i entered like this HMNY at $5 and sold at $30 by holding long . Bullish",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993724524974823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-13T22:25:51Z",
+        "content": "$ASXC everyone guessing  it will go  $ 3 or $4 I am guessing double digits .Am I wrong ? Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990590214729309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-13T22:22:19Z",
+        "content": "$ASXC staying long can result in good profits ??",
+        "sentiment": {
+            "TextBlob": 0.32499999999999996,
+            "NLTK": 0.7319,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972622394561768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-13T22:05:31Z",
+        "content": "$ASXC I think that big spike was an institutional buy after approval news.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963515996932983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-12T19:58:03Z",
+        "content": "$DGLT why it\u2019s going up any news out ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988918900489807
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-06T21:36:35Z",
+        "content": "$PSTV why it\u2019s going up in AH ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978013634681702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-10-06T16:21:43Z",
+        "content": "$DGLT what\u2019s the current price ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960946440696716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-29T14:05:53Z",
+        "content": "$CEI any news?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967064261436462
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-21T21:50:46Z",
+        "content": "$ACER finally in Robinhood name changed",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5290374755859375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-21T19:19:23Z",
+        "content": "$ACER what's the current price of opxaw please ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990019679069519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-21T15:05:06Z",
+        "content": "$ACER anyone able to trade Acerw ?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977570176124573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-21T14:11:19Z",
+        "content": "$ACER if in Robinhood ACerw is up can anyone please let me know please",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951574206352234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-19T23:27:34Z",
+        "content": "$ACER so what happens to opxaw shares ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999525785446167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-18T21:17:33Z",
+        "content": "$OPXAW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9818769693374634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-18T21:16:58Z",
+        "content": "$OPXAW why it is going up ?is it a good buy now",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.946346640586853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-18T21:16:09Z",
+        "content": "$ACER why it is going up ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9794776439666748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-09-15T15:16:51Z",
+        "content": "$NEOS why it's going down ?Any news?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997395873069763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-08-17T15:20:02Z",
+        "content": "$DCTH when the extension will be announced ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982995390892029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "sai2159",
+        "timestamp": "2017-07-19T14:41:30Z",
+        "content": "$DCTH .20 by EOD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940286874771118
+            }
+        },
+        "image_url": ""
+    }
+]

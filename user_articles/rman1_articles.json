@@ -1,0 +1,4426 @@
+[
+    {
+        "username": "rman1",
+        "timestamp": "2023-06-20T12:30:18Z",
+        "content": "$EEENF POS f*&^%ing.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937806725502014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-05-24T19:34:34Z",
+        "content": "$ASTI POS ##$%^&@",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894517064094543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-28T19:40:38Z",
+        "content": "$AMT my my steady as she goes!",
+        "sentiment": {
+            "TextBlob": 0.20833333333333331,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9943596720695496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-28T19:05:50Z",
+        "content": "$ASTI POS F$%^&*$",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926819205284119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-28T19:03:15Z",
+        "content": "$ARKK @howardlindzon nowhere to go but up for aunty Cathy?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9179325103759766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-11T17:29:36Z",
+        "content": "$EEENF low volume relax.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9839596152305603
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-10T17:33:42Z",
+        "content": "$EEENF bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814819097518921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-07T12:29:50Z",
+        "content": "$EEENF All please join me in welcoming back our old bear friend onlyprofits69 aka @slimyApeSlatt !",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.8718,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9635257124900818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-06T14:52:05Z",
+        "content": "$EEENF @slimyApeSlatt Wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995820164680481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-03T14:47:36Z",
+        "content": "$ASTI junk",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995887875556946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-03T14:29:11Z",
+        "content": "$EEENF what are next steps?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966037273406982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-04-03T12:16:08Z",
+        "content": "$EEENF So $PTHRF oil flows down into $EEENF !",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976513981819153
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-03-29T12:33:37Z",
+        "content": "$EEENF wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-03-24T14:47:07Z",
+        "content": "$EEENF before news drop to buy cheap?",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987348914146423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-03-18T18:23:10Z",
+        "content": "$EEENF wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-03-15T14:57:16Z",
+        "content": "$EEENF shaking tree to get shares cheap?",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992443323135376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-03-13T19:14:00Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-03-08T17:00:37Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-03-06T21:45:42Z",
+        "content": "$EEENF lol what happened at $PTHRF ?",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992641806602478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-02-17T14:50:45Z",
+        "content": "$EEENF wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-02-16T15:04:53Z",
+        "content": "$EEENF youtube.com/watch?v=ozTW67U...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894981384277344
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-02-09T14:09:36Z",
+        "content": "$ASTI POS $#@%^&*@!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886941313743591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-02-09T13:44:29Z",
+        "content": "$EEENF @Thinkaboutitbro we get it 88E sucks, but how's your Pantheon investment coming along? \ud83d\ude06",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981757402420044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-02-02T14:54:33Z",
+        "content": "$EEENF Time to walk into 88 Energy office in Australia.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5555428862571716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-01-23T19:59:03Z",
+        "content": "$EEENF Wen @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949265718460083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-01-11T17:22:27Z",
+        "content": "$EEENF anyone seen onlyprofits69 aka @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979709982872009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-01-09T17:51:45Z",
+        "content": "$EEENF wen @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949265718460083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2023-01-09T12:42:26Z",
+        "content": "$EEENF wen...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910349249839783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-12-13T16:31:20Z",
+        "content": "$EEENF third time lucky or three times and you're out?",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937422871589661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-12-07T19:19:18Z",
+        "content": "$EEENF Alright alright. 3M. @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9792701005935669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-11-17T12:30:32Z",
+        "content": "$TWTR.P Good time to make a Twitter rival? @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.986542820930481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-11-09T15:34:53Z",
+        "content": "$EEENF @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943498969078064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-09-15T13:14:43Z",
+        "content": "$EEENF Wen? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917634725570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-09-14T17:54:47Z",
+        "content": "$EEENF good thing about this investment. I'm so down I dont need to think about getting out.",
+        "sentiment": {
+            "TextBlob": 0.2722222222222222,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965023994445801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-09-08T14:17:12Z",
+        "content": "$EEENF POS F*&(ing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911690950393677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-09-08T14:16:48Z",
+        "content": "$ASTI POS f*&%ng",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945107698440552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-31T13:28:26Z",
+        "content": "$EEENF POS fuc@*%g",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997670590877533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-29T18:44:28Z",
+        "content": "$ASTI Down 93%",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973752498626709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-29T18:44:08Z",
+        "content": "$ASTI POS f**ing",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961594343185425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-29T18:19:13Z",
+        "content": "$EEENF whats happening here? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936273097991943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-26T16:03:34Z",
+        "content": "$ASTI POS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885783195495605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-24T13:49:34Z",
+        "content": "$ASTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7177085876464844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-11T11:37:28Z",
+        "content": "$EEENF Whats happening here? Down 99%",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992895126342773
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-01T12:00:00Z",
+        "content": "$EEENF How about some Milli Vanilli? \nyoutube.com/watch?v=BI5IA8a...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979063272476196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-08-01T11:53:10Z",
+        "content": "$EEENF for all the newbies please note that Only Profits 69 @yourMarginCall420 is our very own resident bear.  \nPlease show him some respect!",
+        "sentiment": {
+            "TextBlob": 0.48750000000000004,
+            "NLTK": 0.8718,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9250361323356628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-29T14:48:00Z",
+        "content": "$EEENF wen? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917634725570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-18T13:52:18Z",
+        "content": "$EEENF what's happening here @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943633079528809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-15T13:45:13Z",
+        "content": "$EEENF @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887646436691284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-14T14:12:23Z",
+        "content": "$EEENF data company sold out.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875451922416687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-13T13:34:44Z",
+        "content": "$EEENF low volume pump for data company to offload 125 million shares.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985095858573914
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-12T14:32:55Z",
+        "content": "$EEENF @yourMarginCall420 Whats happening here? Wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959815740585327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-12T14:24:36Z",
+        "content": "$EEENF so the data company has to sell 125 M shares to get paid.....",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991626739501953
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-11T19:13:47Z",
+        "content": "$EEENF @NoooobInvestor powah houah?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960224032402039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-11T13:48:03Z",
+        "content": "$EEENF low volume so they are trying to pump it over 0.008 for the data company.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995809197425842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-05T13:40:13Z",
+        "content": "$EEENF f it bought another 100K",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902751445770264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-04T14:30:24Z",
+        "content": "$EEENF Happy 4th everyone. May we be a north star for freedom and democracy against the totalitarians like Putin and Xi.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.886,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9938161373138428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-07-01T19:54:21Z",
+        "content": "$EEENF Powah Howah? @NoooobInvestor ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972534775733948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-06-21T21:06:07Z",
+        "content": "$EEENF lets blame @NooobInvestor for not posting on American powah howah",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955911636352539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-06-17T15:37:51Z",
+        "content": "$EEENF youtube.com/watch?v=1XmwiwQ... @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904192090034485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-06-15T13:59:14Z",
+        "content": "$EEENF @yourMarginCall420 What's happening here??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939569234848022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-06-03T16:35:03Z",
+        "content": "@howardlindzon buy $EEENF ! Oil leases in Alaska 50 % probability you lose it all \ud83e\udd23.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983127117156982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-06-02T14:10:04Z",
+        "content": "@ScalpChief @Zoey1979 And youre a fuc**ing dou**che  bag :) you pie*ce of $h*t I'll bet you live a sorry life with your low IQ.  Youre just taking up air that humans could use. Why dont you do something about hat you t*rd. We know you will once you get thrown out of the trailer you live in.",
+        "sentiment": {
+            "TextBlob": 0.05454545454545454,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.754796028137207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-06-02T10:59:22Z",
+        "content": "$EEENF bgr.com/science/polar-bears... \nbut theres no climate change blah blah blah.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960829019546509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-06-01T22:58:39Z",
+        "content": "$EEENF reuters.com/markets/funds/j... \noil to 150",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9759052395820618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-26T15:54:29Z",
+        "content": "$EEENF whats happening here? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936273097991943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-26T15:13:28Z",
+        "content": "$EEENF time to buy more.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951059818267822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-18T12:45:30Z",
+        "content": "@howardlindzon no $MSTR for you?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980753660202026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-17T20:03:36Z",
+        "content": "$EEENF finance.yahoo.com/news/expe...  \n\u201cRegardless of an investor\u2019s view on renewable versus traditional energy, it\u2019s becoming more apparent every day that we need substantially more fossil fuel and renewable production, as neither can meet the growing energy demand alone,\u201d he said.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827015995979309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-17T19:14:18Z",
+        "content": "$EEENF finance.yahoo.com/news/expe...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902235865592957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-17T14:20:56Z",
+        "content": "$EEENF low volume. I think they are taking it up to >.01 before the good news.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994986057281494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-17T14:16:52Z",
+        "content": "$EEENF im still thinking 12 cents.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936029314994812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-17T13:31:04Z",
+        "content": "@howardlindzon Maybe buy liquor stock? $TAP ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968053102493286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-17T11:50:31Z",
+        "content": "$EEENF is hottie Bear @Zoey1979 (aged 43) becoming a Bull?",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971953630447388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-16T18:37:35Z",
+        "content": "$EEENF Bought!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9253343939781189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-14T14:34:48Z",
+        "content": "$EEENF F$%^ it . going to buy more.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993783712387085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-12T16:57:08Z",
+        "content": "$EEENF I have given up on this M*$%$@&$ fuc@$%$# stock. 73% down and all money lost it seems.  \nFuck&%$ Aussies.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997976422309875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-12T14:51:04Z",
+        "content": "$EEENF wen? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917634725570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-12T12:50:50Z",
+        "content": "$BTC.X lol. Whales already made money. YOUR money!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951516389846802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-11T18:47:55Z",
+        "content": "$EEENF sick of these mofos not delivering but plenty of snake oil statements.",
+        "sentiment": {
+            "TextBlob": -0.7142857142857143,
+            "NLTK": -0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996767520904541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-11T18:37:23Z",
+        "content": "$EEENF wtf will the risking certificate do?",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.7269,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973630309104919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-11T14:40:44Z",
+        "content": "$COIN lol @howardlindzon . Will be worth coins pretty soon.",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984782338142395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-11T14:30:43Z",
+        "content": "$EEENF Write to these mf's on their site.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954633116722107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-11T14:29:52Z",
+        "content": "$EEENF foff 88",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939635396003723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-10T19:00:32Z",
+        "content": "@gusher1 then why is your price the same as $EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997101366519928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-10T13:20:48Z",
+        "content": "$EEENF where's the hottie bear @Zoey1979 now that good news is out?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996428906917572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-09T16:57:38Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-08T19:38:36Z",
+        "content": "$EEENF The way I see it post WW3 world will need to run on oil.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946892261505127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-04T15:34:27Z",
+        "content": "$EEENF badnews @yourMarginCall420 :(. youtube.com/watch?v=E8m44W1...",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968270659446716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-04T15:07:08Z",
+        "content": "$BABA @howardlindzon cnn.com/2022/05/04/investin... \nDont be a bearish market analyst in China?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936178922653198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-03T20:00:55Z",
+        "content": "$EEENF cnn.com/2022/05/03/investin...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9812798500061035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-05-02T19:01:48Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-28T22:51:23Z",
+        "content": "$AMZN @howardlindzon doom and gloom?",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965071082115173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-26T15:20:25Z",
+        "content": "$EEENF Wheres our resident bear Only Profits 69?  \nHope he's ok!  \n@yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.807,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9482789039611816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-25T19:36:03Z",
+        "content": "$EEENF Energy bright Red. 88E holding!",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9757298231124878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-25T13:14:56Z",
+        "content": "$EEENF and also Quordle and Nerdle",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921344518661499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-25T13:04:15Z",
+        "content": "$EEENF \"Higher porosity is indicative of better reservoir quality and higher resistivity is an indicator that greater amounts of hydrocarbons are present. Given the favorable petrophysical comparison between Icewine-1 and Alkaid-1, the Company is optimistic that a production test in the Eastern Icewine acreage could yield a similar or better result than seen during the testing of Alkaid-1. \"",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.9136,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984347939491272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-24T20:08:12Z",
+        "content": "$EEENF wen? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917634725570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-19T12:46:21Z",
+        "content": "$EEENF We need Gas and a farmout. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993103742599487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-18T16:22:54Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-08T16:11:43Z",
+        "content": "$EEENF wen? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917634725570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-04-04T14:17:22Z",
+        "content": "@howardlindzon Maybe all your gripes with $TWTR.P will now be resolved?  \nWill Agent Orange be allowed back on the platform. \nIs it bye bye Parag?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.264,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8671701550483704
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-29T23:34:25Z",
+        "content": "$EEENF Like i said Kangaroos screwing Us and the European.  Thieves!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985485672950745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-29T20:31:53Z",
+        "content": "$EEENF microcapdaily.com/88-energy...\n@yourMarginCall420  \nwen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917029738426208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-29T16:14:30Z",
+        "content": "$EEENF Thieves have timed it so we sell then they buy in Australia.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925851225852966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-29T16:09:01Z",
+        "content": "$EEENF Wait a minute!!!! Did they time this like this so Aussies could pick up cheap shares!!!!!  \nHighly unusual to give out this press release in the middle of the night in Aussie.  \nEurope, US lose money Aussie come and pick up the cheapies!!!!",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.3276,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965852499008179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-29T14:17:59Z",
+        "content": "$EEENF hate that &^%#$@ Australian accent.",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992808699607849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-29T12:40:38Z",
+        "content": "$EEENF well only profits 69 was right I guess. @yourMarginCall420 . \nOnly hope is they sell their acreage.",
+        "sentiment": {
+            "TextBlob": 0.09523809523809523,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980835914611816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-28T21:52:46Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-28T13:52:57Z",
+        "content": "$EEENF where's our resident bear only profits 69 aka Jack Meoff? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986384510993958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-28T13:51:24Z",
+        "content": "$EEENF Those who were thinking 6 months ahead.. \n:).15 soon.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960947632789612
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-28T13:41:45Z",
+        "content": "@howardlindzon $DASH was at $242 once upon a time!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9790245294570923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-28T13:34:38Z",
+        "content": "$EEENF youtube.com/watch?v=r7bu5aK...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909986257553101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-26T14:44:34Z",
+        "content": "$EEENF wen? @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917634725570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-25T14:29:47Z",
+        "content": "$EEENF Everyone. There is gas wait for the fireworks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976606369018555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-25T14:23:13Z",
+        "content": "$EEENF Whats happening here @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954385161399841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-24T15:11:32Z",
+        "content": "$EEENF When its good news and the stock drops its a hold game because the samrt ones are looking in the future. There is no way this is going to be less than .15 soon. Soon...",
+        "sentiment": {
+            "TextBlob": 0.03333333333333332,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968109726905823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-24T14:20:45Z",
+        "content": "$EEENF @yourMarginCall420",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887646436691284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-24T12:56:23Z",
+        "content": "$EEENF did someone say gas?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979223608970642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-22T23:11:47Z",
+        "content": "$EEENF did someone say gas??!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978686571121216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-22T13:49:29Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-21T20:04:54Z",
+        "content": "$EEENF reuters.com/world/middle-ea...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9807307720184326
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-18T13:53:00Z",
+        "content": "$EEENF whaa ...! what happened @yourMarginCall420 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990264177322388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-17T16:38:14Z",
+        "content": "$INTC BUY! @howardlindzon ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9837395548820496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-17T14:03:37Z",
+        "content": "$EEENF youtube.com/watch?v=ia0IB-i...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908406734466553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-16T16:00:03Z",
+        "content": "$EEENF @yourMarginCall420 Ready to take off?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941422343254089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-08T14:25:03Z",
+        "content": "$EEENF @khanson99 Looks ready to rip?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984384179115295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-07T13:05:00Z",
+        "content": "$EEENF @khanson99 moon soon?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896559715270996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-07T12:27:09Z",
+        "content": "$EEENF woohoo oil up we going up  \nAs soon as they hit gas.. \nstay for  (1.6*(60-15)*.1)/16>=.15",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944456815719604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-04T16:04:12Z",
+        "content": "$EEENF marketwatch.com/story/88-en...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935751557350159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-04T14:00:51Z",
+        "content": "$EEENF wait for (1.6B * (60-45)*.1)/1.6B>=.15 \nThoughts @khanson99",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979128241539001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-03T12:22:56Z",
+        "content": "$EEENF @khanson99 up up and away?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908801317214966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-02T21:17:35Z",
+        "content": "$EEENF @khanson99 Wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935861229896545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-01T18:13:27Z",
+        "content": "$EEENF US will be providing oil to Europe as Russian starts attacking cities and the oil and gas is then sanctioned.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906800389289856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-01T18:12:28Z",
+        "content": "$EEENF BP Shell soon becoming buyers!",
+        "sentiment": {
+            "TextBlob": 0.5625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9962263107299805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-01T18:11:57Z",
+        "content": "$EEENF woohoo!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97730553150177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-03-01T13:32:10Z",
+        "content": "$EEENF Wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-28T12:56:10Z",
+        "content": "$EEENF Woohoo! WW3!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5972,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867645502090454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-25T11:12:48Z",
+        "content": "$EEENF people wait for >.12 coming soon to a stock exchange near you.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942070245742798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-24T12:00:33Z",
+        "content": "$EEENF news.yahoo.com/trump-again-... \nHe knows him because he works for him.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9085593819618225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-23T21:09:21Z",
+        "content": "@Tz3sports Right now I would keep a wait and see approach. $BRCHF was a good one.",
+        "sentiment": {
+            "TextBlob": 0.4928571428571428,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980297684669495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-23T16:24:35Z",
+        "content": "$EEENF woohoo!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97730553150177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-22T15:41:22Z",
+        "content": "$EEENF Yayy WW3! \nbbc.com/news/business-60473233",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920374155044556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-15T06:22:20Z",
+        "content": "$EEENF smh.com.au/business/markets...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99009108543396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-07T22:18:13Z",
+        "content": "$EEENF  \n low value = (65 (avg price of oil 10 years) - 40 (cost of extraction in Alaska + infrastructure)) * 1.6B (expected oil reserves) /15B (outstanding shares) *10% (88E share) >= $0.26",
+        "sentiment": {
+            "TextBlob": -0.0875,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976804256439209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-07T14:59:33Z",
+        "content": "$EEENF youtube.com/watch?v=mzDVaKR...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926825165748596
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-04T15:32:25Z",
+        "content": "$EEENF if you see a woke person slap their face today cause they haven't woken up to reality.  \nWill make you feel better.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912768602371216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-04T15:29:55Z",
+        "content": "$EEENF permit is already approved, no one will come up with a question that reverses that decision.  \nOil is there. \n only question is the price someone pays for **E my range .2-.3.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983428716659546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-03T22:51:40Z",
+        "content": "$HOOD bye bye PFOF bloomberg.com/news/videos/2...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9697850942611694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-03T18:34:48Z",
+        "content": "$EEENF market red we green...",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952442049980164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-03T14:28:27Z",
+        "content": "$EEENF Russia invading, $XOM profits highest, supply chain issue. Think I'll keep my shares.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841113090515137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-03T14:13:32Z",
+        "content": "@howardlindzon @OhGodWhatHasBecome @ShawnJHustles Here's where $DWAC is going.. pump made billions retail suckered in now holding bag.  \nWhat else is left?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994250535964966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-02T19:28:05Z",
+        "content": "$EEENF @NooobInvestor 32 min...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953203797340393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-02T17:25:00Z",
+        "content": "@howardlindzon check out $PYPL !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.850541889667511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-01T19:09:38Z",
+        "content": "$EEENF @NooobInvestor 50 min...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947339296340942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-01T14:46:03Z",
+        "content": "$ASTI ascentsolar.com/contact-us.... \nWrite to this asshole- \nInvestor Relations \nMichael Gilbreth \nMGilbreth@AscentSolar.com",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985368251800537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-02-01T14:39:41Z",
+        "content": "$ASTI WooWee!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862658381462097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-31T18:45:08Z",
+        "content": "$EEENF waiting for .2  \nsimple math (low value):  {1.6B*(60 (Avg oil price) - 35 (Alaska extraction price)) * 1/10 (Share for 88E)}/15B (outstanding shares) = 0.27",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984136819839478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-31T16:12:24Z",
+        "content": "$ASTI otcmarkets.com/stock/ASTID/...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966632723808289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-31T14:31:56Z",
+        "content": "$EEENF woohoo!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97730553150177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-31T14:19:14Z",
+        "content": "$ASTI RS?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950443506240845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-31T02:22:46Z",
+        "content": "$EEENF alright junior partners don\u2019t let us down down under.  \nremember only we can save you from China.",
+        "sentiment": {
+            "TextBlob": -0.10370370370370373,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.992489218711853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-29T22:49:29Z",
+        "content": "$EEENF news.google.com/articles/CB... \nRussian attack is all but guaranteed \noil prices over 100 soon. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2617,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991349577903748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-29T21:27:26Z",
+        "content": "$EEENF where is onlyprofits69?  \nmissing him here.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996799230575562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-28T20:34:55Z",
+        "content": "$EEENF where @NooobInvestor be??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983718991279602
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-27T13:08:48Z",
+        "content": "$EEENF Alright as expected junior partners let us down. Time for the U.S of A to save the day!",
+        "sentiment": {
+            "TextBlob": -0.14722222222222225,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909665584564209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-26T20:13:43Z",
+        "content": "$EEENF wheres noobinvestor?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990767240524292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-26T14:38:28Z",
+        "content": "$EEENF KANGAROOS!!  \n\"This is how we do it\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7793915271759033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-26T14:36:03Z",
+        "content": "$EEENF WooHoo!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97730553150177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-26T13:48:47Z",
+        "content": "@howardlindzon not your style but throw some at $EEENF .  \nAlso $INTC has billions coming their way.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9734845757484436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-26T13:12:42Z",
+        "content": "$EEENF kangaroos always let us down. Let\u2019s see how they stand up to China without us.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8935613036155701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-25T18:21:53Z",
+        "content": "$EEENF Wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-25T02:50:45Z",
+        "content": "$QQQ WE ARE ALL GOING TO DIE!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.636,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868721961975098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-21T20:18:22Z",
+        "content": "@howardlindzon Thought you would be on the sidelines by now or in $GLD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9800042510032654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-20T21:52:17Z",
+        "content": "@howardlindzon Also look at the apes at $AMC and $GME !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9542661309242249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-20T03:37:03Z",
+        "content": "$EEENF Jim Cramer, who once saw oil stocks as uninvestable, explains why he changed his mind",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969049096107483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-19T16:38:54Z",
+        "content": "$EEENF now lets @Thinkaboutitbro",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856394529342651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-19T16:25:47Z",
+        "content": "$EEENF simple calculation : (min oil) 1.6 BBO * (avg price of oil 10 years) 55 - (extraction costs at Alaska) 35 * (%share for EENF) .1 / (# of SHares) 14 B >= $0.16 \nSell below that and you are a fool.",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994534850120544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-19T16:21:17Z",
+        "content": "$BRCHF @Stocksiren Got out at the wrong f***ing time. lol",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993257522583008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-19T14:37:37Z",
+        "content": "$EEENF WOOHOO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97730553150177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-18T14:56:12Z",
+        "content": "$EEENF WOOHOO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97730553150177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-18T12:15:24Z",
+        "content": "$EEENF bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814819097518921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-17T19:39:25Z",
+        "content": "$ARKK f c u k . I had the right idea on puts just the wrong timing!!",
+        "sentiment": {
+            "TextBlob": -0.24776785714285715,
+            "NLTK": -0.5696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991544485092163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-13T21:15:33Z",
+        "content": "$EEENF RIP onlyprofitsXXX. StockTwits must be  allergic to the guy. Gets banned as soon as he rears his head.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987854361534119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-13T14:04:29Z",
+        "content": "$EEENF Everyone lets welcome @OnlyProfits42069xx (now \"Angela Reese\" after the operation ) back!",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871473908424377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-11T13:13:43Z",
+        "content": "$EEENF Bears are people too.. \nyoutube.com/watch?v=pGgM3c1...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964849948883057
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-07T02:25:08Z",
+        "content": "@Stocksiren @FLn00b Keep an eye on $EEENF .",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9032508134841919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-06T20:16:00Z",
+        "content": "$EEENF Wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-06T01:52:35Z",
+        "content": "$EEENF kangaroo have small hands.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.982284426689148
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-05T19:01:17Z",
+        "content": "$LMND will be 5 by 2/2/22",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947085380554199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-05T15:51:27Z",
+        "content": "$EEENF & $ASTI Say I didnt say so ;)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3593,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953511953353882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-05T15:03:57Z",
+        "content": "$ASTI at 1:5000 they would want the price to be >.04",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878739714622498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-05T15:01:58Z",
+        "content": "$EEENF woohoo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977631151676178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-05T02:17:36Z",
+        "content": "@howardlindzon can still get into $EEENF they have the largest oil exploration in 22. Might be sitting on 1.6BBOI .Penny & risky. 9x or 0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891315698623657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-05T02:05:53Z",
+        "content": "@Gmoney2020 $EEENF ! Soon \ud83c\udf19",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934349060058594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-04T15:46:28Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-04T15:44:44Z",
+        "content": "$ASTI up 111% past 2 days.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9675113558769226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-04T00:24:52Z",
+        "content": "$ASTI Up Up and away.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8555185794830322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2022-01-03T15:50:50Z",
+        "content": "$AMC Justice for Harambe!! \nyoutube.com/watch?v=ZbYz_QH...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6103,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935965538024902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-31T20:52:43Z",
+        "content": "$EEENF don\u2019t sell till .18 USD.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830538630485535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-29T19:37:18Z",
+        "content": "$EEENF oilprice.com/Latest-Energy-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862362742424011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-29T18:03:25Z",
+        "content": "$eeenf wen lambo?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953054785728455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-29T13:16:18Z",
+        "content": "$ASTI soon.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9157054424285889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-24T14:43:49Z",
+        "content": "@howardlindzon always shady. Always. Why? \n $DWAC\nthestreet.com/investing/chi...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908034801483154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-16T14:11:22Z",
+        "content": "@howardlindzon too bad $LOCO is taken!",
+        "sentiment": {
+            "TextBlob": -0.8749999999999998,
+            "NLTK": -0.5848,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991270899772644
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-16T14:10:45Z",
+        "content": "@howardlindzon LOL. \n$RABD\n$RDIT",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945157170295715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-12T20:03:53Z",
+        "content": "$ASTI this will move to >0.05 before split.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940301179885864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-12-02T17:30:01Z",
+        "content": "$ASTI called it... otcmarkets.com/stock/asti/n...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998084306716919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-30T15:41:26Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-24T15:50:34Z",
+        "content": "$ASTI @Stocksiren Keep an eye on this. They will R/S soon for NASDAQ. But before think this will go to ~0.01",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900953769683838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-23T17:25:49Z",
+        "content": "$EEENF Woohoo. joint development may be announced soon.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9760814309120178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-19T21:07:41Z",
+        "content": "$GME Kenney G won auction of constitution from crypto mob.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.95038902759552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-19T16:00:15Z",
+        "content": "$ASTI He says it right in his statement. NASDAQ listing will make it more desirable to investors. Interesting that it timed well with the infrastructure bill so they must know something we dont.  \n \nSpeculating here but there has been a push by both parties to break the Chinese solar monopoly and flexible solar panels would be ideal if production ramps up and economies of scale kick in.  \n \nIn other words government investment.",
+        "sentiment": {
+            "TextBlob": 0.3434523809523809,
+            "NLTK": 0.9287,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.767906129360199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-19T15:48:52Z",
+        "content": "$ASTI they are trying to drop the price and scare you before the reverse split to pick up shares. Once they load up on your shares price goes up and tey make a killing on uplist.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9730639457702637
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-08T19:24:01Z",
+        "content": "$BE woohoo!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8754150867462158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-07T02:24:19Z",
+        "content": "$ASTI going up!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9821131825447083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-07T02:21:28Z",
+        "content": "$EEENF 88 is super \ud83c\udf40 in Chinese.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900692105293274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-06T17:45:17Z",
+        "content": "$EEENF did @onlyprofits69 get banned?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990636706352234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-05T23:08:44Z",
+        "content": "$EEENF bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814819097518921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-05T15:54:44Z",
+        "content": "$EEENF what happened to @onlyprofits69?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992263317108154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-05T13:25:19Z",
+        "content": "$EEENF 1.6B of oil = > $ .08/share",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884740710258484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-03T19:23:02Z",
+        "content": "$EEENF wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-02T22:34:06Z",
+        "content": "$EEENF oilprice.com/Latest-Energy-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862362742424011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-02T20:06:24Z",
+        "content": "@howardlindzon Didn't you get in on $SQUID.X for a 360,000% gain?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978471994400024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-02T12:47:32Z",
+        "content": "$EEENF wen? \nWant to buy 1 million more.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982643723487854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-01T21:24:27Z",
+        "content": "$EEENF Lets do some math and lets try to see how much 88E is worth as a worse case scenario.  \n1. There's a 10% chance of prospective oil becoming commercial oil.  \n2. Development costs for Alaska oil is  approx $35 per barrel.  \n3. Prospective oil for 88 is 1.624BBO at 2P. \n4. Lets take cost of oil at an avg $65 for next 10 years.  \nThis gives: \n1,624,000,000*PofCommercialization*1/3(oil-dev cost)*2P/OS \nSo putting the numbers in \n1,624,000,000*0.1*1/3(65-40)*0.5/14,000,000,000 = 0.077 \n \nSo at a minimum 88E is worth $0.08.",
+        "sentiment": {
+            "TextBlob": 0.12142857142857144,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977642297744751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-01T16:47:21Z",
+        "content": "$EEENF .15 is my target by December! Too many catalysts. \nGood news is coming.  \nBut maybe my math is all wrong because woke trash says math is racist!!! katu.com/news/local/debate-...",
+        "sentiment": {
+            "TextBlob": 0.07447916666666665,
+            "NLTK": -0.8972,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975702166557312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-11-01T15:18:59Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-28T21:03:24Z",
+        "content": "$EEENF",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851301908493042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-26T20:53:43Z",
+        "content": "$EEENF Here is another good reason not to sell below .15. \nEnterprise value / 2P = 2.7*10^8/1.6*10^9 = 0.17. \nSo Valuations are consistently over .15 without Gas etc. \ninvestopedia.com/articles/b...",
+        "sentiment": {
+            "TextBlob": 0.475,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979718327522278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-26T17:55:33Z",
+        "content": "$EEENF anyone seen @onlyProfits69 ? Missed him today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993671774864197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-25T21:01:26Z",
+        "content": "$EEENF people it might be getting close to a moonshot. I suggest you do not sell for less than .15.\n A simple calculation will explain why: \n1.6 B * 5 % of avg 10 yr price of oil @ $45 / Total OS = $0.25\n\nThis is a very conservative estimate and doesn't take into account gas and any extra oil found which would be factored into any negotiations. It also estimates a cost of 88E oil at only 5% for the buyer (to develop field etc) at a low $45 per barrel moving forward. \n\nYou could halve that and it would still be .125. \nThe only problem here is the paper hands that start selling for pennies.",
+        "sentiment": {
+            "TextBlob": 0.004166666666666669,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988288283348083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-25T19:39:25Z",
+        "content": "$ASTI heating up.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6274645924568176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-25T12:57:47Z",
+        "content": "$EEENF All the Trumpians here should see this. netflix.com/title/80989772\nand read below. \nrollingstone.com/politics/p...\nAlthough I suspect they are too dumb to understand the consequences. Needs second order thinking skills.  \nPlaybook for the Dictator. \n-Discredit free press - check\n-Control perception of reality through propaganda - check\n-Develop cult like personality - check\n-Use culture of fear - check\n-Discredit electoral results - check",
+        "sentiment": {
+            "TextBlob": -0.018749999999999996,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978494644165039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-24T01:17:40Z",
+        "content": "$EEENF wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952300786972046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-22T15:41:34Z",
+        "content": "$EEENF lol onlyprofits69 blocked me even though I was his biggest fan.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99921715259552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-21T12:33:19Z",
+        "content": "$EEENF @onlyProfits69 wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996828019618988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-13T22:18:25Z",
+        "content": "$EEENF @onlyProfits69 what happened???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992474317550659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-13T19:06:30Z",
+        "content": "$NET nice call @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.618046224117279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-13T12:56:06Z",
+        "content": "$EEENF @onlyProfits69 . wen?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972162246704102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-09T09:28:03Z",
+        "content": "$EEENF @onlyProfits69 huh huh! \nnews.google.com/articles/CB...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972706437110901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-08T15:36:03Z",
+        "content": "$EEENF @onlyProfits69 time to...?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983484745025635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-07T20:24:44Z",
+        "content": "$eeenf agdc.maps.arcgis.com/apps/w...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933367967605591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-07T20:16:07Z",
+        "content": "$EEENF \"To help the project move forward, the U.S. Congress has included loan guarantees worth $26 billion for the Alaska LNG project in the latest infrastructure bill.\"",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9462440609931946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-07T15:41:27Z",
+        "content": "$EEENF @onlyProfits69 plenty of excitement today. Your thoughts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9709095358848572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-06T22:09:56Z",
+        "content": "$EEENF youtube.com/watch?v=tR_6dib... \n\ud83e\udd21 on the right and left.",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922303557395935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-01T21:19:22Z",
+        "content": "$EEENF youtube.com/watch?v=zrFI2gJ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923098087310791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-10-01T14:30:23Z",
+        "content": "$EEENF yes?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9592207670211792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-29T19:22:55Z",
+        "content": "$EEENF @Corncob75\nyoutube.com/watch?v=Xgc761r...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911778569221497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-28T16:29:52Z",
+        "content": "$EEENF @onlyProfits69 Will I get back the money I'm losing? x10?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4515,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999097466468811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-28T13:22:45Z",
+        "content": "$EEENF marketwatch.com/story/these...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992078959941864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-27T13:05:53Z",
+        "content": "$EEENF where is @onlyProfits69!  Missing him here.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997054934501648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-24T19:54:50Z",
+        "content": "$icp zfjzz-4aaaa-aaaah-aasbq-cai...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981533885002136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-24T19:39:13Z",
+        "content": "$ICP 6jgp5-riaaa-aaaai-aapuq-cai...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973136782646179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-23T19:58:28Z",
+        "content": "$EEENF woohoo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977631151676178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-23T13:37:11Z",
+        "content": "$EEENF @onlyProfits69 your thoughts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934754967689514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-22T13:12:25Z",
+        "content": "$EEENF @BinaryLogic Is this a fair assumption- The pricing of 88E would be 10%-15% of the avg cost of extraction in Alaska ($45) and infrastructure setup subtracted from projected oil revenues?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.3869,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982954859733582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-21T14:52:04Z",
+        "content": "$UPST lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928601384162903
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-17T14:17:06Z",
+        "content": "$EEENF hope this continues and not that ...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915328621864319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-16T11:46:09Z",
+        "content": "$ICP.X dashboard.internetcomputer....\n@howardlindzon adoption is good.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989917874336243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-13T14:24:25Z",
+        "content": "$DNN wsj.com/articles/uranium-st...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955778121948242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-13T13:59:08Z",
+        "content": "$SNOW 265 this week?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987703800201416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-13T13:58:03Z",
+        "content": "$UPST $180 this week?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919639825820923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-13T13:57:30Z",
+        "content": "$NET 116 this week?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.966824471950531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-13T13:52:15Z",
+        "content": "$DNN 3+ by October?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957555532455444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-13T13:50:39Z",
+        "content": "$DNN @Stocksiren did you jump on?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941377639770508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-13T13:48:41Z",
+        "content": "$EEENF @onlyProfits69 Your thoughts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934754967689514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-10T18:18:47Z",
+        "content": "$UPST lol.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952150583267212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-10T16:16:37Z",
+        "content": "$DNN marketwatch.com/story/why-u...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955808520317078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-10T16:14:30Z",
+        "content": "$DNN @Stocksiren DNN my dear DNN...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854493737220764
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-10T16:04:35Z",
+        "content": "$EEENF Its official folks 88E is going to 0. Total POS. No Oil. Sell all your shares! \nSo sayeth @Rabito79 . \nAll hail Rabito79!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986574649810791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-10T14:41:58Z",
+        "content": "$UPST wont go below 280",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9106173515319824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-10T12:11:05Z",
+        "content": "$UPST going 300+",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.877173900604248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-10T12:08:44Z",
+        "content": "$EEENF The case for this company is simple. It has confirmed oil of high quality. Oil prices will remain elevated. Sooner or later someone will come to extract it. The price will go 5 - 10 x. So relax and enjoy @onlyProfits69 's posts.",
+        "sentiment": {
+            "TextBlob": 0.192,
+            "NLTK": 0.7688,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9309931993484497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-09T18:45:34Z",
+        "content": "$IRCP @Stocksiren",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986903190612793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-09T17:35:01Z",
+        "content": "$UPST will track sideways for a few weeks. Not going down anytime soon.",
+        "sentiment": {
+            "TextBlob": -0.1777777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984747767448425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-09T15:45:13Z",
+        "content": "$UPST oops 285.06...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930658340454102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-09T15:41:15Z",
+        "content": "$SPCE businessinsider.com/virgin-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938437938690186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-09T15:37:00Z",
+        "content": "$UPST has to hit 286",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981029033660889
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-08T16:00:34Z",
+        "content": "$UPST on no is it going down? Algo trading?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.3736,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977966547012329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-08T13:32:48Z",
+        "content": "$UPST 300+ today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9597419500350952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-07T17:08:31Z",
+        "content": "$UPST probably drop after 286",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996254563331604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-07T14:43:22Z",
+        "content": "$UPST lol.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952150583267212
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-04T16:40:26Z",
+        "content": "$DNN @Stocksiren may double by October.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965852499008179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T15:45:26Z",
+        "content": "$UPST 245 close",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9728138446807861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T15:26:00Z",
+        "content": "$EEENF @onlyProfits69 thoughts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951253533363342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T15:17:36Z",
+        "content": "$UPST might hit 185 in 2 weeks.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943115711212158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T15:12:26Z",
+        "content": "$UPST lol  Poor retail with their options.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994931221008301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T14:29:08Z",
+        "content": "$UPST might settle at 235 eod",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987496137619019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T13:47:41Z",
+        "content": "$UPST Might be time for a drop...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974148273468018
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T12:15:17Z",
+        "content": "$UPST yup >250 today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9491632580757141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-03T02:02:20Z",
+        "content": "$UPST 250 tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.964218258857727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-09-02T15:21:16Z",
+        "content": "$UPST roping people in for the weekly...\nMight park it at 225 tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9751930832862854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-31T16:02:27Z",
+        "content": "$EEENF The trading halt has been requested pending an announcement by the Company in\nrelation to a capital raising.\n\nclients3.weblink.com.au/pdf...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965000152587891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-31T14:02:59Z",
+        "content": "$EEENF where's @onlyProfits69 ? Getting worried...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990324974060059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-27T19:50:33Z",
+        "content": "$UPST 217 at close?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913192391395569
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-26T18:51:34Z",
+        "content": "$UPST volume...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969353675842285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-26T13:07:52Z",
+        "content": "$UPST $140 by 9/3",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867871999740601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-26T12:06:10Z",
+        "content": "@URADONKEY thats what im thinking. Options have been great for MM's. All courtesy of Robin the $HOOD .",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983735084533691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-26T12:04:06Z",
+        "content": "$AMC $40 by 27/8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878662824630737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-25T19:15:29Z",
+        "content": "$UPST youtube.com/watch?v=3fdZWbI...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993565022945404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-25T15:14:22Z",
+        "content": "$UPST Perfect place to park it on Friday but let's see...",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.3291,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9928312301635742
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-25T15:09:59Z",
+        "content": "$UPST How high can it go  with low volume $226?",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992475509643555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-25T15:06:31Z",
+        "content": "$UPST Tutes loaded early, insiders sold high. Who's left?",
+        "sentiment": {
+            "TextBlob": 0.08666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995168447494507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-24T17:25:07Z",
+        "content": "$UPST $145 in 2 weeks?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9913490414619446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-24T15:54:41Z",
+        "content": "$UPST Friday 210",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9611690044403076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-20T21:39:28Z",
+        "content": "$DNN Uranium is the only alternative energy that can provide clean continuous power",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988260865211487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-20T21:31:41Z",
+        "content": "$NET Nice ride but might see some reversal in the coming month..",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9548496603965759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-20T16:07:31Z",
+        "content": "$SNOW Will continue downtrend over the next month.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989129304885864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-20T15:12:21Z",
+        "content": "$EEENF Hedgies will make a ton of cash on this one.....",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850821495056152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-20T15:08:14Z",
+        "content": "$EEENF need a bit of comedy can someone reach out to @onlyProfits69 ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992820620536804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-20T14:53:34Z",
+        "content": "$EEENF Somebody really wants your shares.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3535,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959067106246948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-19T20:31:54Z",
+        "content": "$EEENF wheres @onlyProfits69 ? Missed him today...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995586276054382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-19T13:59:45Z",
+        "content": "$EEENF lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904190897941589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-18T14:09:47Z",
+        "content": "$DASH will start trending down.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995841383934021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-18T13:51:46Z",
+        "content": "$EEENF lets say buyout is at .20 hedge funds buying at .02 make 10x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932429194450378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "rman1",
+        "timestamp": "2021-08-18T13:46:34Z",
+        "content": "$EEENF btw for every share sold someone is buying :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948515295982361
+            }
+        },
+        "image_url": ""
+    }
+]

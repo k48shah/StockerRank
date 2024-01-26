@@ -1,0 +1,4398 @@
+[
+    {
+        "username": "spacrider",
+        "timestamp": "2022-12-05T17:34:37Z",
+        "content": "$CND 2 possible reasons for calling off the deal. 1. SEC is taking forever and the deal may not consummate even in January. 2. The other reason could be Jeremy wants even more or Concord doesn\u2019t agree with increased valuation based on current conditions. Bearish",
+        "sentiment": {
+            "TextBlob": 7.93016446160826e-18,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991106390953064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-08-09T15:30:46Z",
+        "content": "$RIVN Rivian \u2014> Execution\nLucid \u2014> Excuses\n\nOptimistic on Rivian ramping up production. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990670084953308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-08-05T20:14:39Z",
+        "content": "$CND Warrants \ud83d\ude02 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990082383155823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-07-29T03:07:29Z",
+        "content": "$ETH.X $LCID I was clearly wrong on bearish calls on both. Didn\u2019t consider Dem\u2019s mid-term election shenanigans. \n\nLucid might miss on deliveries but still can go up. I\u2019d watch it from the sidelines for now.",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8427503705024719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-07-16T02:20:31Z",
+        "content": "$CND Yields have come down drastically from the past. Sustainable.",
+        "sentiment": {
+            "TextBlob": -0.20277777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950255751609802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-07-09T00:16:05Z",
+        "content": "$TWTR.P $TSLA Elon\u2019s bid timing was off (during tech meltdown). Had he waited, he could have picked it up at a substantial lower price. He tried negotiating a lower price but didn\u2019t get what he wanted. So, he\u2019s using some excuses to get out of the deal completely and legally.\n\nPersonally, I think it\u2019s a good business move and he can bid at a lower price. It\u2019s just business. Kohls bidding process is a recent example how changing business and economic conditions can throw off a deal.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.311,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5049781203269958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-07-01T17:03:18Z",
+        "content": "$AFRM Klarna revenue was $1.6Billion vs Affirm\u2019s $870 Million last year. Klarna is now valued at $6.5 Billion. What should be the valuation of Affirm? \ud83e\udd14\n\nAFRM has been doing well and might even announce better results in the short term, but the field is getting crowded.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.5346,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977570176124573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-07-01T14:16:34Z",
+        "content": "$KSS I got out early thanks to @mrinvestorpro because his logic made perfect sense.",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8447492718696594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-07-01T00:47:15Z",
+        "content": "$GRAB Looks attractive to take a small position and scale in during pull backs. Travel is picking up in SE Asia. Bullish",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8613711595535278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-06-30T18:59:31Z",
+        "content": "$LCID Bad news from Tesla would bring down all EVs temporarily. LCID isn\u2019t going to make its target for 2022. Bearish, short term. RIVN may be delivering more cars and might hold up better IMO but the market sentiment isn\u2019t good. Bearish",
+        "sentiment": {
+            "TextBlob": 0.14074074074074075,
+            "NLTK": 0.5499,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994531273841858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-06-30T18:03:09Z",
+        "content": "$ETH.X Going to 3 digits pretty soon. Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963817596435547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-06-28T16:50:25Z",
+        "content": "$LCID $AAPL \ud83c\udf4e is developing tech and was looking for a mass manufacturing company like Hyundai to produce their cars. Lucid\u2019s struggling to make their estimates. So, not sure if there\u2019d be a deal between the two unless Apple is impressed with Lucid\u2019s tech vs their own and can wait a few years for production ramp up. \n\nShort term, I\u2019m bearish on LCID since they won\u2019t make their targets for 2022. Long term, I\u2019m optimistic. Waiting to add it after pull backs.",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.3939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695985317230225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-06-17T16:08:52Z",
+        "content": "$CND USDC hit $55B. Tether is declining, soon USDC would be No.3! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995833039283752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-06-13T15:08:37Z",
+        "content": "$CND USDC market cap steady at 54B+. Interest rates going up should be tail wind for Circle. SEC approval is the headwinds \ud83d\ude09!",
+        "sentiment": {
+            "TextBlob": 0.02083333333333333,
+            "NLTK": 0.75,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868927597999573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-06-10T20:58:25Z",
+        "content": "$CND Hopefully the market crash is over by the time SEC approves this merger.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975295662879944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-06-06T06:39:53Z",
+        "content": "$KSS @Mrinvesterpro9 may be right. The board might balk at the offers and decide not to sell at lower price. Risk/reward not favorable considering leveraged buyout is increasingly difficult in a higher rate environment.",
+        "sentiment": {
+            "TextBlob": 0.03392857142857142,
+            "NLTK": -0.7394,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973798394203186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-05-26T23:51:26Z",
+        "content": "$KSS Even if some of them bail out, I think there\u2019s plenty of interest. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887037873268127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-05-25T20:39:43Z",
+        "content": "$KSS There\u2019s no deal by end of this week. The deadline for binding offer has been extended for 2 more weeks (from end of May to Second of week of June). Source: NYP article. Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971067309379578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-05-25T18:57:01Z",
+        "content": "$KSS Simon Property Group already owns JCPenney, so it might get scrutiny and increase deal risk. So, not a deal breaker if they don\u2019t bid for Kohl\u2019s IMO.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994479775428772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-05-25T17:47:32Z",
+        "content": "$KSS Initiated a position at 42. Should\u2019ve done it yesterday but todays news gives confidence that the deal is on.\n\nThe SP was getting hammered, so they leaked it to make it go up so that the bids would come in at a higher level. \n\nI\u2019ve seen turds getting bought at premium in retail, so I\u2019m anticipating reasonable upside. The risk is that the bids come in at lower levels and Kohls remain to stay independent. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": -0.5216,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9113548994064331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-05-13T02:58:24Z",
+        "content": "$CND Tether is on a shaky ground. Bullish",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997486472129822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-05-12T19:26:06Z",
+        "content": "$CND Holding up good amidst crypto carnage. Hopefully, we sustain the uptrend. 1 week chart below. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9578446745872498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-04-21T19:50:15Z",
+        "content": "$CND Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987653493881226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-03-15T18:59:41Z",
+        "content": "$CND @Kornie7 @DreamingOwl Market cap is flat for 1 month and is stuck at $52+ Billion. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999681830406189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-02-17T15:54:28Z",
+        "content": "$CND @Kornie7 @DreamingOwl All along I was thinking what a steal we\u2019re getting with $4.5 B valuation. With Federal reserve poised to raise  rates multiple times, Circle\u2019s revenue is going to be substantially higher than projected. \n\nIt\u2019s going to be a long hold. The risk is that with growing valuation, Circle might completely walk away and go in its own. Hopefully they commit this time. \ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": 0.18,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9045577645301819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-02-03T06:22:43Z",
+        "content": "$CVII OK, I\u2019m surprised by the insane interest from Klein (plus Mrs. Jobs), Dell and Sloan. They\u2019re gonna pump this valuation to 50Billion+. China shut down Ed tech companies, so foreign investors think India  as their only option to get rich. \n\nCompetition is intense in Indian ed tech market. PayTM IPO which was backed by marquee investors such as Berkshire, Jack Ma and SoftBank didn\u2019t do well. I will watch this from the side lines.",
+        "sentiment": {
+            "TextBlob": -0.011728395061728396,
+            "NLTK": 0.8816,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7956486940383911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-02-01T22:13:55Z",
+        "content": "$CND India just said OK to Cryptos. Russia is also weighing similar policy. Macro looking good for Cryptos.",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.7034,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9476743936538696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-02-01T06:32:31Z",
+        "content": "$CND The best stablecoin by a mile. 3, 4, 5 no matter how many interest rate raises, the revenue rises with them. The more, the merrier! Bring it on!\n\nSome people are saying that Biden\u2019s team would force CND to be taken over by JPMorgan. Not sure, how far it\u2019s true. Circle hasn\u2019t applied for bank charter yet based on Jeremy\u2019s Nov interview. So, these are the risks. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4135416666666667,
+            "NLTK": 0.8556,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8803368210792542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-01-26T17:31:07Z",
+        "content": "$CND Tether is stuck at $78+ Billion market cap while USDC is growing steadily and will surpass it. Transparency, agility and harmony with interest rate hikes!\n\nBusiness will get better, but price action is at the mercy of moody Mr. Market.",
+        "sentiment": {
+            "TextBlob": 0.26944444444444443,
+            "NLTK": 0.6049,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7512508034706116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-01-25T16:53:31Z",
+        "content": "$SOFI Rising interest rates and bank charter are huge negatives for SoFi since it\u2019ll increase revenue and profitability. /s \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998781144618988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-01-21T07:31:44Z",
+        "content": "$CVII If it\u2019s BYJU, watch your investment go down. Not a sustainable model to keep acquiring companies. Lots of negative articles and videos about BYJU, very aggressive marketing. \n\nIf Churchill still ends up merging with BYJU, that tells you founders don\u2019t have your best interest. Bearish",
+        "sentiment": {
+            "TextBlob": 0.18611111111111112,
+            "NLTK": 0.3832,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997430443763733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-01-19T18:22:34Z",
+        "content": "$CND Federal Reserve will raise interest rates at least 3 times this year. CND invests in cash and 90 day treasury securities. As the rates rise, so does Circle\u2019s interest income. Great play on raising interest rates. SoFi would also benefit having a bank charter. \n\nTech doesn\u2019t do well during raising interest rates. Will the revenue go up? Yes! Will the stock go up? Anyone\u2019s guess! \ud83d\ude02 Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.9822,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956238865852356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2022-01-11T18:20:01Z",
+        "content": "$CND @Kornie7 @DreamingOwl My observation is that during crisis, cryptos tank but stable coins tend to hold up pretty good. With incoming interest hikes, I anticipate that Bitcoin, ETH, etc would be volatile while stable-coins\u2019 market cap might keep expanding IMO. \ud83e\udd1e\n\nTether should be abolished BTW.",
+        "sentiment": {
+            "TextBlob": 0.475,
+            "NLTK": 0.9246,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9657306671142578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-11-18T22:41:13Z",
+        "content": "$CND $RGTI $DCFC $FPAC Opened starter positions in all of them. Mostly commons since the Ws have run up a lot \ud83d\ude02. Better late than never I guess. Cheers! @Kornie7 @DreamingOwl",
+        "sentiment": {
+            "TextBlob": 0.20833333333333334,
+            "NLTK": 0.1625,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9075367450714111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-11-18T17:28:26Z",
+        "content": "$LCID $GM $F \nCramer yesterday: Lucid is phenomenal. It\u2019s the next Tesla. \nCramer today: Tesla is the Amazon and there is only one Amazon. Lucid has 17k reservations, but Ford can crank out 17K cars in a day. \nWhat a \ud83e\udd21\ud83e\udd21\ud83e\udd21.\n\nMotor Trend: \u201cLucid is way ahead. The traditional big  auto makers should be worried.\u201d\n\nJust saying!",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.2481,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965630173683167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-10-25T19:20:37Z",
+        "content": "$MQ Took a starter around $27. Square (70% of revenue), Affirm, Klarna, Afterpay, JPM, etc ..all great clients. This is just getting started. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936332702636719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-10-23T06:16:30Z",
+        "content": "$BROS Took a starter position. Haven\u2019t been to one, but coffee is a good business. Plenty of scope for expansion and multiply the market cap. Got in at the top, but not worried in the long run. Cheers! Bullish",
+        "sentiment": {
+            "TextBlob": 0.284375,
+            "NLTK": 0.9157,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990206956863403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-10-22T06:38:05Z",
+        "content": "$PTRA $LEV The story hasn\u2019t changed, in fact it got better. There\u2019s intense competition in consumer EV, it\u2019s a crowded field. \n\nBut, Proterra is an Ev transit leader and Lion has trucks on the road. The use cases for Lion and Proterra are wide ranging. \n\nInfra deal is imminent. \ud83d\udc8e\ud83d\ude4c will be rewarded in the long run.",
+        "sentiment": {
+            "TextBlob": 0.13749999999999998,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9898227453231812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-10-21T18:07:04Z",
+        "content": "$DWAC @Kornie7 @DreamingOwl SPACs are lit again. Wish I got in on this \ud83d\ude00!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9482990503311157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-10-15T20:19:26Z",
+        "content": "$M Took a starter position for an intermediate trade (few months). Upcoming Holiday season, turnaround working and increased e-commerce sales give confidence. Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9944261312484741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-23T18:20:26Z",
+        "content": "$PTRA $LEV $BB The SPAC boom is over. The despac craze is going on, but may be short-lived since the insiders are filing and dumping on these high fliers.\n\nBiden will have to pass the infrastructure plus social bill to salvage himself. So, EV and charging companies will benefit. Most of us are in, now let\u2019s wait and get rewarded. Bullish",
+        "sentiment": {
+            "TextBlob": 0.23111111111111113,
+            "NLTK": 0.7227,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8601142168045044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-21T16:24:35Z",
+        "content": "$RKLYQ Took a starter position @Kornie7 @DreamingOwl",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9531049132347107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-16T03:53:06Z",
+        "content": "$IRNT @Kornie7 @DreamingOwl \ud83d\ude31\ud83d\ude31\ud83d\ude31WSB!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9815712571144104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-10T18:20:46Z",
+        "content": "$GREE Initiated a position. Can\u2019t stop gambling @Kornie7 \ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8863658308982849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-09T21:46:21Z",
+        "content": "$LILM @Kornie7 @DreamingOwl Took a small position for fun \ud83e\udd29!",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.915802001953125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-08T03:58:49Z",
+        "content": "$HIPO @DreamingOwl Congrats. $MILE could be next??  @Kornie7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5803,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8303409814834595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-03T19:51:56Z",
+        "content": "$KPLT $DOCN Took a starter positions on both and they ran away before I could add more. Good problem to have \ud83d\ude02! Bullish",
+        "sentiment": {
+            "TextBlob": 0.6875,
+            "NLTK": 0.1297,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995786547660828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-09-02T23:16:08Z",
+        "content": "$BKKT Added for a quick swing. A small position. Cryptos are flying, this has been artificially kept low. Bullish",
+        "sentiment": {
+            "TextBlob": -0.12916666666666665,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994304776191711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-31T19:15:14Z",
+        "content": "$ROOT Initiated a position. Carvana investment and partnership should provide momentum. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9135655164718628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-30T19:48:50Z",
+        "content": "$KPLT $AFRM safe bet. KPLT long shot. Being a SPAC gambler, I like the latter \ud83e\udd23! \nKPLT might be a buyout candidate. AFRM should buy it and manage that portfolio separately. Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.69,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973399043083191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-30T19:45:21Z",
+        "content": "$DOCN Looking good. Only regret is not going big \ud83d\ude09! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.1007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8789085149765015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-28T06:50:23Z",
+        "content": "$KPLT $AFRM is firing on all cylinders with Apple and Amazon deals. The question is if Affirm will share the pie with Katapult. It looks like Affirm is writing loans for sub-prime instead of prime due to slowing retail sales. With big partnerships, hopefully Affirm gets Prime customers and lets Katapult handle sub-prime.\n\nIt's all guessing game now, but the sure bet is Affirm and KPLT is a long shot.",
+        "sentiment": {
+            "TextBlob": -0.015000000000000005,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950374960899353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-24T15:50:24Z",
+        "content": "$LCID $PTRA $LEV \nPete\u2019s 4 finger sign = Q4 delivery??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975211024284363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-23T16:37:31Z",
+        "content": "$GMIIU Opening up more properties. With a booster shot and further vaccines for kids travel should open up eventually. Sonder will benefit. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990702271461487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-23T15:38:45Z",
+        "content": "$LEV $PTRA After Afghan mess, Biden\u2019s only chance of redemption is the infrastructure bill. It\u2019ll happen and we\u2019ll have our day. Once passed, the bill will triple the funding for electrification of buses.\n\nMarket opportunity is expanding, order book, revenue and EPS will be expanding. Only the SP is shrinking lately coz of small cap sell off due to tapering.\n\nIn the end, SP follows earnings always, yes always! Bullish",
+        "sentiment": {
+            "TextBlob": -0.146875,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852021336555481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-19T16:15:06Z",
+        "content": "$LEV $PTRA  Babies are thrown with bath water because of some bad apples. Any deSpac that reiterates/raises guidance is Golden, Lion and Proterra fit that bill.\n\nAh, those crayon projections  from SPACs illuminated by Don Johnson CPA. Bullish",
+        "sentiment": {
+            "TextBlob": 5.551115123125783e-17,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982292056083679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-17T18:29:22Z",
+        "content": "$PTRA $LEV \n\nFor those who are just getting in, congrats!\nFor those who bought earlier, \ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951926469802856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-14T02:05:09Z",
+        "content": "$KPLT Just listened briefly to the conference call. E-commerce is slowing (or at least for KPLT \ud83d\ude09) and customers with excellent credit and savings are disinclined to spend. So, the lenders who used to go for prime borrowers are going for subprime, a worrying trend indeed for KPLT. (Maybe AFRM is eating KPLT\u2019s lunch). For now, I\u2019ll watch from the sidelines until next quarter to get more clarity. @Kornie7 @DreamingOwl",
+        "sentiment": {
+            "TextBlob": 0.24,
+            "NLTK": 0.6997,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996056318283081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-13T17:45:53Z",
+        "content": "$PTRA $LEV $SOFI All had massive negative EPS due to SEC classification of warrants as liability. Nothing to worry about.\n\nLegit SPACs:\nHigher revenue\nIncreased order book \nReiterated guidance\n\nAll above 3 are legit SPACs/deSpacs. The story hasn\u2019t  changed but the market sentiment is. The road will be bumpy but the charts are gonna look beautiful in 3-5 years. Bullish",
+        "sentiment": {
+            "TextBlob": 0.08214285714285714,
+            "NLTK": 0.7053,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5050047039985657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-12T22:03:14Z",
+        "content": "$ORGN Almost break even. Long term play. They\u2019ve started measuring emissions for producing 1 bottle of cola to a roll of toilet paper. Companies need to offset, this is a real business use case. Bullish",
+        "sentiment": {
+            "TextBlob": 0.03888888888888889,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976068735122681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-12T21:27:00Z",
+        "content": "$SOFI $BB $PTRA Sell and move on. Then after a year or two kick yourself for selling too soon. The folks who went to private schools, got job at WS and working on high floors in New York crunching numbers on worksheets don\u2019t know the trends on the ground. We are early perhaps a bit too early \ud83d\ude09\ud83d\ude06! Bullish",
+        "sentiment": {
+            "TextBlob": 0.10427272727272727,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994710087776184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-11T21:39:05Z",
+        "content": "$PTRA \nBus electrification federal funding:\n2021 : $182 Million\nNext 5 years: $800 Million each year (when infra bill passes) Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962390661239624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-11T21:16:49Z",
+        "content": "$PTRA With extremely favorable e-commerce trends, it took Amazon 14 years to reach a profit. EV is just getting started, I don\u2019t look at margins now, rather orders, partnerships and investments. \ud83c\udf08\ud83d\udc3b are too salty \ud83e\udd23! Bullish",
+        "sentiment": {
+            "TextBlob": -0.15625,
+            "NLTK": 0.8118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973680377006531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-10T21:14:07Z",
+        "content": "$KPLT I\u2019d traded this for a small profit earlier. Looks juicy now for an entry again. Need to look into ER call for more details.\n\nWhen I tried to buy shoes or sunglasses, I\u2019m offered to buy it with Affirm. Affirm is ubiquitous, so hopefully it\u2019ll trickle down to KPLT?",
+        "sentiment": {
+            "TextBlob": 0.023611111111111104,
+            "NLTK": 0.75,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8877972364425659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-10T21:08:41Z",
+        "content": "$GMIIU Why no love for Sonder? Good value pick! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.8221,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950026869773865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-10T20:45:54Z",
+        "content": "$SFT Congrats, longs! You\u2019re winning against WS manipulation! \ud83d\udc4f\ud83c\udf89",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.7339,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985645413398743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-10T20:41:58Z",
+        "content": "$DOCN Initiated a position today. Trying to diversify away from SPACs a bit. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9552819728851318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-08-10T16:18:29Z",
+        "content": "$PTRA $LEV $39 Billion for transit and rails. More may come from Dems 3.5 Trillion package though I expect the bill be trimmed to $2-2.5 Trillion top line number. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985975623130798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-07-31T00:30:43Z",
+        "content": "$PTRA $LEV the reasons most of us bought : secular trend towards electrification, support from governments, vehicles on the road (not rolled down from a hill \ud83d\ude02) and minimal execution risk.\n\nHave these factors changed? No, in fact with $$$ from Federal government for electric charging network($7.5B), school bus electrification ($2.5B) and public transit electrification(part of $38B including rail) the anticipated trend is accelerating! HODL! Bullish",
+        "sentiment": {
+            "TextBlob": 0.06111111111111111,
+            "NLTK": -0.2924,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9821419715881348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-07-28T23:20:31Z",
+        "content": "$PTRA Public Transit Bill: $38 Billion (buses and rails).  Proterra is a direct beneficiary of the bigger package.\nZero emission school buses: $2.5 Billion. Proterra is an indirect beneficiary through partners. \nLook at the bill size and decide for your yourself. Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918915033340454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-07-22T18:17:38Z",
+        "content": "$PTRA $LEV Future multibaggers. Inevitable trend mandated and supported by governments. This is as good as it gets. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.992026150226593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-07-22T16:18:21Z",
+        "content": "$LCID What does $TSLA do when share prices go up? Raise billions of $$ by selling shares. What did $GME and $AMC do recently? Bought back shares? \ud83e\udd23\ud83d\ude02\n\nSheep being manipulated by Cucklers into FUD!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2498,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980700612068176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-07-13T18:30:07Z",
+        "content": "$PTRA $LEV If you missed AAPL, TSLA, etc this is your chance for redemption. HODL! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971363544464111
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-07-07T22:58:39Z",
+        "content": "$HCIC Chinese crackdown risk? @Kornie7",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923208355903625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-30T15:41:24Z",
+        "content": "@Kornie7 @TraderGOAT $SOFI  When a stock runs, somehow you both are always seem to be there already \ud83d\ude02\ud83d\udc4d!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9627292156219482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-25T19:12:21Z",
+        "content": "$SOFI Bought some commons today. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958292841911316
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-25T18:11:24Z",
+        "content": "$SPCE Congrats @TraderGOAT. Your conviction paid off \ud83d\ude80\ud83d\ude80\ud83d\udc4d!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.949016273021698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-23T21:02:40Z",
+        "content": "$KPLT $SFT Got burned by SFT price action before despite high growth rate. But, KPLT is already profitable, so shorts can\u2019t bury it for longer. \n\nDuring recessions, non-prime borrowing goes up and 2008 crisis was proof. Lending to buy furniture, laptops and tires is a good business. Bullish",
+        "sentiment": {
+            "TextBlob": 0.32,
+            "NLTK": 0.1174,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.91794353723526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-21T19:12:35Z",
+        "content": "$PUCKU Opened a starter position here. Ws are about 65 cents. @Kornie7 @DreamingOwl @Kaasi @CPurdy1984",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929347634315491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-21T14:49:36Z",
+        "content": "$KPLT (loans for subprime borrowers during e-commerce check outs). Got some commons, revenue generating and profitable. Reminds me of LPRO (auto loans for subprime borrowers). Price action isn\u2019t encouraging, heavily shorted it seems. Have to hold strong and long for returns. @Kornie7 @DreamingOwl @Kaasi @CPurdy1984 Bullish",
+        "sentiment": {
+            "TextBlob": 0.07083333333333332,
+            "NLTK": 0.8625,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971154928207397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-16T16:19:37Z",
+        "content": "$LEV Bears capitulated quickly before I could pull the trigger \ud83e\udd23. I have more than enough though. Bullish",
+        "sentiment": {
+            "TextBlob": 0.27777777777777773,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980042576789856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-08T20:26:30Z",
+        "content": "$LEV $PTRA  Manchin's a mixed bag for us. Pros: lower corporate and long term capital gains taxes. \nCons: May block or water down Biden's green infrastructure and back traditional roads and bridges that lobbyists want.\ncnbc.com/2021/06/08/joe-man...\n@TraderGOAT @CPurdy1984 @Kornie7 @DreamingOwl",
+        "sentiment": {
+            "TextBlob": -0.057936507936507946,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998403012752533
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-06-04T16:54:13Z",
+        "content": "$OUST I\u2019m almost green after many months. Could have sold at a loss, moved onto ACTC or LEV to break even and higher, but stuck with Ouster since I wanted to practice patience and value investment. Cheers! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2041666666666667,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998426079750061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-28T04:21:03Z",
+        "content": "$PTRA $LEV $ARVL $SOFI $LCID Infra bill is getting closer with or without Republican support. \nPublic Transit - ACTC (Proterra) will be a big beneficiary ($75 Billion)\nSchool Bus - LEV sold more buses than Thomas Built (ACTC), both should benefit, but Lion would get more benefit vs Proterra ($25 Billion)\nEV credit will benefit traditional auto makers such as GM, F and TSLA TBH. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.9303,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801285862922668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-17T22:19:41Z",
+        "content": "$OUST Down a lot, but I'm practicing my value investing with Ouster :)! HODL!",
+        "sentiment": {
+            "TextBlob": 0.3128472222222222,
+            "NLTK": 0.5696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9582851529121399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-13T20:07:36Z",
+        "content": "$LEV $ACCI Picked up more Ws. Be greedy when others are fearful. \n\nEven Cryptos need to be green these days. Think about that. Bullish",
+        "sentiment": {
+            "TextBlob": -0.20000000000000004,
+            "NLTK": -0.6969,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998195230960846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-11T16:49:53Z",
+        "content": "$PTRA $LEV \n\nPain now, joy in July/Aug (infra Bill). Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961263537406921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-06T23:18:22Z",
+        "content": "$PTRA $LEV $ARVL $LCID \n\nProterra is a shrewd company, they let employees organize into unions. They won lots of govt contracts, they went with ACTC at low valuation based on political connections. \n\nWith new infrastructure bills, Proterra will benefit immensely since they are kinda insiders. Remember, Biden\u2019s Virtual meeting with Proterra? Also, don\u2019t forget Biden\u2019s favorite phrase \u201cwell paying union jobs\u201d. Connect the dots.",
+        "sentiment": {
+            "TextBlob": 0.12727272727272726,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976121187210083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-06T19:49:04Z",
+        "content": "$ORGN @Kornie Added some Ws today. Climate change is real and ESG is a major deal.",
+        "sentiment": {
+            "TextBlob": 0.13125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981397390365601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-06T19:25:09Z",
+        "content": "$PTRA @DreamingOwl @Kaasi Got some today. Missed the $4s but paying 10-15 cents above is no big deal.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982141256332397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-05-01T07:03:26Z",
+        "content": "$GMIIU In 2019, they projected revenue of $400 Mil, actual number was about $140 mil. 40-50% growth is reasonable IMO. I\u2019d think they\u2019d hit $1-$1.5 Billion vs $4 Billion they project in \u201825. I could be wrong, but this level of growth seems insane to me. \n\nI\u2019ll park some cash since this is a revenue generating Unicorn SPAC with investments from Bezos family office and reputed firms. It could be a reopening play as well. \n\n\ud83e\udd1e@TraderGOAT @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": -0.325,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991251528263092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-21T22:18:33Z",
+        "content": "$SFT Way undervalued, unlike most SPACs,  Q1 result was on track and revenue guidance matched DA presentation. Long hold until Wall Street starts to like it. Bullish",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951247572898865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-21T16:30:48Z",
+        "content": "$LEV $LCID $ARVL $MVST $PTRA I could never pull the trigger to sell any of these during the massacre. We've seen the worst. The best is yet to come. \n\nInfra bill will be passed in Aug-Sept, shorts may play their games  until then. But, trust your DD and hold on. \n\n$20 Billion to electrify school buses, $25 Billion to electrify transit vehicles, $100 Billion EV rebates for consumers, and so on. The future of EV is here. Don't bet against Biden. Despite republican opposition, he passed the big stimulus bill. He's not gonna give up on EV despite Pubs resistance. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858023524284363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-21T16:01:40Z",
+        "content": "$LEV I was expecting NGA to announce the contracts after ticker change. Shorts got burned quickly. \n\nThis is a sizeable order, imagine when they announce massive garbage truck order. Shorts will lose their shirts. It's coming. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997407793998718
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-19T16:15:41Z",
+        "content": "$LEV $ARVL $MVST $OUST Suits' manipulation. Trust your DD. EV is the future. Biden and Trudeau are on board. Are you?\n\nTo the Suits.. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6221175193786621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-16T18:23:44Z",
+        "content": "$DOGE.X $OUST $PTRA $ARVL $LEV Pay $8-$15 bucks for SPACs or just 35 cents for dogs, the latter is drastically undervalued :)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989556074142456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-16T15:43:04Z",
+        "content": "$ARVL $LEV $PTRA $LCID Infra Bill will come in July - September. Plenty of time for suits to manipulate the prices meanwhile. \n\nCan\u2019t hold down solid companies for long. Hold strong. \ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.05694444444444442,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936895370483398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-16T15:39:17Z",
+        "content": "$OUST One of the best Lidar plays. Next 2 years will show who the true leader is in Lidar. Mechanical and expensive (VLDR) vs. Digital (Oust) and cheaper, vs unproven 4D Lidar competition. \n\nDon\u2019t worry about suits manipulation. They might bring it down again, who knows. They want to scare you and get cheaper shares from you. \ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.11574074074074076,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994694173336029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-15T17:17:00Z",
+        "content": "$THCA Negotiations with Transfix started in Dec '20 when SPACs were booming. Now that SPACs are in dumpster, hopefully THCA negotiated a better deal with Transfix instead of bloated valuation.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947346448898315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-15T17:03:08Z",
+        "content": "$LCID $LEV $ARVL $MKFG $MVST \n\n\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981005787849426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-15T16:26:44Z",
+        "content": "$LCID Downward pressure maybe due to Benz' unveiling its EQS electric Sedan. The price is going to be $100K plus. So, 60K Lucid Air should do well. The highest price Lucid Dream was limited edition. Hopefully, they ramp up the 60K Air production next year!",
+        "sentiment": {
+            "TextBlob": -0.06547619047619048,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8542860746383667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-14T18:45:11Z",
+        "content": "$COIN @Kornie7 @DreamingOwl Market cap is only 65B? Undervalued by $35Billion based on ST and Redditors' opinion.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984172582626343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-13T06:19:53Z",
+        "content": "$AGC From Reuter's article, Proforma equity value = $40 Billion. Cash held in trust =$500-550 Mil, PIPE =4 Billion, so enterprise value = 40-(4.55)= $35.5 Billion. Waiting to see the actual numbers tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918131828308105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-12T18:29:05Z",
+        "content": "$GMIIU Sonder is a good reopening play plus opportunity for expansion is great. Took a starter position here, so obviously this might go below 1 :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.9349,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9809613823890686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-12T15:57:44Z",
+        "content": "$AGC Uber shows the possibility for Grab of vaccination rollout and reopening potential. It's just a matter of time. \ncnbc.com/2021/04/12/uber-po... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998295247554779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-12T15:47:31Z",
+        "content": "$OUST Nuro!!!\ncnbc.com/2021/04/12/dominos...\nOuster partners and customers: Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995139837265015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-09T16:31:40Z",
+        "content": "$AGC The P/S ratio is on par with UBER. But, Grab grew 70% last year and may be on pace to high double digit growth vs low growth of UBER. UBER is shrinking, sold its bike unit, flying taxi unit, etc but Grab is expanding into new verticals (banking, insurance, payments, etc). \n\nThis is a long hold. If Grab can execute, it may reach or exceed UBER's market cap (3x return).",
+        "sentiment": {
+            "TextBlob": 0.04106060606060607,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9744935631752014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-07T18:06:58Z",
+        "content": "$PTRA Big beneficiary of Biden's infrastructure plan. Cities and state governments will electrify their public transportation and fleets. Already proven tech, so a good investment for those who seek safe plays.\n\n$ARVL Two US factories one for buses and another for vans (UPS). The former will help win government contracts pretty soon.\n\n$LEV Big winner of school buses electrification. Garbage truck is a big potential. Amazon is a partner and a client. The only issue is that they can't keep up with the demand. Not a good problem to have.\n\nCommons are a safe play at this moment since Big Boys can short the Warrants and bring them down during redemption making us lose capital.",
+        "sentiment": {
+            "TextBlob": 0.14027777777777778,
+            "NLTK": 0.9862,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920726418495178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-04-07T17:57:35Z",
+        "content": "$AGC $OUST Still in the red due to SPAC attack 3.0, but holding strong. Patience pays. Cheers! Bullish",
+        "sentiment": {
+            "TextBlob": 0.13888888888888887,
+            "NLTK": 0.8335,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.980344831943512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-31T16:37:23Z",
+        "content": "$LEV $ARVL $PTRA $MVST The future is EV and we are on the ground floor in the 1st innings. The tutes are bringing it down and loading now. With trillions coming in, they know all these are gonna fly. Have patience and know what you hold! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2814814814814815,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.960519552230835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-29T00:46:15Z",
+        "content": "$TSLA $LCID @TraderGOAT @siddhu09 @Kornie7 @DreamingOwl Mini EV outselling TSLA in China. $5K, can't compete with Chinese on price :) Gotta have a niche!\ncnbc.com/2021/03/28/wulings...",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8317461013793945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-27T21:17:09Z",
+        "content": "$APPH Does someone know why this fell off from $40 to $18? Is it the overall Feb-Mar SPAC market correction or something else?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999785840511322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-26T20:56:09Z",
+        "content": "$APPH $SMR Groundbreaking tech for food security  helping countries like Singapore. Eliminates issues like pandemic, lack of arable land, labor,  pesticides, gmo seed cost, etc. Even US benefits from not importing from Mexico. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994482159614563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-26T18:18:45Z",
+        "content": "$SMR @DreamingOwl @Kornie7 @CPurdy1984 Sold my IPOF for a small profit and got SV. Farming has big potential. Cheers!",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.7424,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972571730613708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-26T16:39:40Z",
+        "content": "$GNPK $VLD Not in, but congrats to both holders. Glimmer of hope in SPAC land finally. Cheers!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6836,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993529915809631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-25T20:21:25Z",
+        "content": "$LUXA Averaged down. \n$IPOF Got a starter position. \n$THCA Averaged down. Deep red still \ud83d\ude02.",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998479425907135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-25T16:02:53Z",
+        "content": "$LEV $SOFI $LCID $ARVL $PTRA \nWhat\u2019s the Wall Street Weasel afraid of?\n\nIn WSB lingo, they\u2019re afraid that you\u2019ll become the boyfriend of their wives and daughters \ud83d\ude02. You are eating their lunches and they want to scare you. \n\nDon\u2019t buy on margin, don\u2019t do near term options and You\u2019ll be OK. \n\nAre you afraid of this fella? \ud83d\ude02\ud83e\udd23\n\ud83d\udc47\ud83d\udc47",
+        "sentiment": {
+            "TextBlob": -0.23999999999999994,
+            "NLTK": 0.101,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9928606152534485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-24T20:13:14Z",
+        "content": "$LEV $SOFI $PTRA $LCID $ARVL \nWall Street thugs wanna bring everything down to NAV and below. Now, I know why they created WSB. \n\nStay Strong, my bag holding fellas!",
+        "sentiment": {
+            "TextBlob": 0.19305555555555554,
+            "NLTK": 0.68,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957160353660583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-24T16:13:51Z",
+        "content": "$MVST $MKFG Got a starter position. Cheers! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.960421085357666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-18T19:26:58Z",
+        "content": "$LEV $LCID $ARVL $PTRA $SOFI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974843263626099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-16T17:54:26Z",
+        "content": "$RKLYQ DA coming pretty soon. Whether market will like it or not is a different thing \ud83d\ude02!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.7177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965134263038635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-16T00:10:02Z",
+        "content": "$FTCV @DreamingOwl Are you in on this? I know you are a Betsy fan!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9951894283294678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-15T22:58:42Z",
+        "content": "$LCID @TraderGOAT @Kornie7 @DreamingOwl @Kaasi It was waiting for \ud83d\udc10 before launching \ud83d\ude02!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977608919143677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-13T20:23:30Z",
+        "content": "$LEV $SOFI $PTRA $LCID $AGC \nGimme some Stimmy! \ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976251721382141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-13T00:59:11Z",
+        "content": "$KORE Boomers\u2019 dream stock. Hard pass. \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964558482170105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-13T00:41:32Z",
+        "content": "$AGC @siddhu09 @Dadabear @acecupid Grab Pay is available in Singapore, Malaysia and Philippines. Grab Mart (grocery delivery) available in all the above mentioned plus Thailand, Vietnam, Cambodia, Indonesia and Myanmar. \n\nSo, they emulated Uber first, then Alipay (Grab Pay) followed by instacart (Grab Mart) of SE Asia. Pretty impressive. First mover, huge potential.",
+        "sentiment": {
+            "TextBlob": 0.3277777777777777,
+            "NLTK": 0.8126,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987456798553467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-12T03:00:41Z",
+        "content": "@StewieRescue @siddhu09 @Dadabear @acecupid Agree with too many SPACs increasing the supply and doing deals at insane valuation going to diminish the returns. But, a good business such as SoFi will give returns in the long run. Look at DNMR, LPRO, SKLZ, DKNG, etc. \n\nWe gotta be more selective going forward and find good businesses to invest in for better returns. Also, the timeline has gotten longer to make $$$. It\u2019s not going to be easy, but with Stimmie and infra bill, I believe quality SPACs will print. GL!",
+        "sentiment": {
+            "TextBlob": 0.2657407407407407,
+            "NLTK": 0.9667,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844374656677246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-12T00:19:08Z",
+        "content": "$AGC @siddhu09 @Dadabear @acecupid When the rumors came out a couple of days ago, I thought it\u2019s going to be PSTH, Foley or CCV. The numbers are huge, tailor made for Ackman\u2019s SPAC but another missed opportunity \ud83e\udd28. \n\nMy 2nd pick was Klein along with Saudi PIF guys would be more than glad to arrange billions quickly. Anyways, AGC said not gonna overpay, so I believe it \ud83e\udd1e. Bearish",
+        "sentiment": {
+            "TextBlob": 0.3466666666666667,
+            "NLTK": 0.7886,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991029500961304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-11T21:16:45Z",
+        "content": "$BOXDQ More than $1B, what is it $1.5 or $2B \ud83d\ude05? I like boxed.com, any company that treats its employees well like Costco, Boxed etc tend to do well in the long run. \n\nBoxed also has SAS deal with Aeon in Malaysia. GL to us! Cheers!\n\nThanks to @acecupid for the ping \ud83d\ude4f! Bearish",
+        "sentiment": {
+            "TextBlob": 0.22395833333333334,
+            "NLTK": 0.9525,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8656728267669678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-11T16:15:26Z",
+        "content": "$LEV $SOFI $PTRA $LCID $MVST \nI wasn\u2019t fazed during the sell off and didn\u2019t sell a thing. It was just cash grab by MMs and \ud83d\udc33. \n\nSPACs will hit all time high within a few months once infrastructure bill is approved. After that, we\u2019ll have to assess the market conditions and make a decision. But, for the next 6 months if there are raids, don\u2019t be shaken and stay put. You\u2019ll be rewarded.",
+        "sentiment": {
+            "TextBlob": -0.013333333333333336,
+            "NLTK": 0.6956,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7995858788490295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-10T20:37:30Z",
+        "content": "$OUST MMs shaking out weak hands and stealing option premiums. If you hold commons or Ws, there\u2019s no need for concern. \n\nThe days of quick gains in SPAC land is over. If you looked at LAZR and VLDR, the WS guys shook out the tree and had all the fruits. Good things come to those who wait. Bearish",
+        "sentiment": {
+            "TextBlob": 0.21944444444444441,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932327270507812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-08T18:15:06Z",
+        "content": "$LEV $PTRA $SOFI $LCID $PSFE \n1.9 Trillion is gonna hit the economy pretty soon. Once that\u2019s done, next up is the infrastructure spending of $2Trillion. With all that money sloshing around, equities are a good place to be in. \n\nSPACs are trimming the fat too, reputed SPACs now come with reduced/no warrants, lock ups for founders, etc. Good SPACs will continue to do well while the speculative ones will get punished. \n\nTech and EV trends are favorable, be picky with SPACs and reap the rewards.",
+        "sentiment": {
+            "TextBlob": 0.4125,
+            "NLTK": 0.9287,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957558512687683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-06T22:18:25Z",
+        "content": "$CZOO @DreamingOwl @Kornie7 @siddhu09 @CPurdy1984 @siddhu09 Owl and I know online used car space well. The valuation is insane. A company that was valued at $2.6 Billion recently wants $8Billion +. How insane is that?\n\nIn the past, SPACs used to give 1.5x and IPO listing prices were 2x. The valuation should have been $4.5-$5 Billion based on that criteria. I wouldn\u2019t mind if market punishes such bad deals. Retails are bing walked all over by the founders here.",
+        "sentiment": {
+            "TextBlob": -0.45833333333333326,
+            "NLTK": -0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992784857749939
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-06T06:47:24Z",
+        "content": "$OUST Hey WS and Hedge funds, go long on this based on our Bearish indicators \ud83d\ude02. Bearish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984561204910278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-05T17:36:16Z",
+        "content": "$PSTH Maybe flip kart? \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973906874656677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-05T15:58:37Z",
+        "content": "$OUST VLDR Ws went from $7 to $2, it was bleeding for months. The big boys drove all the retail away and got in at $2 and booked profits at > $10. \n\nOil, traditional banks are not the places to be in even after reopening. Don\u2019t get sidetracked and know what you hold. CLA is going higher in the long term. Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980887770652771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-05T15:50:37Z",
+        "content": "$PTRA $LEV GME up and these gems down. I\u2019m not concerned one bit by the parlor tricks of big boys. Last year, from July until November 1st week, my portfolio was flat. I can take pain for months \ud83d\ude02. Bring it on! \n\nIf there\u2019s inflation, there\u2019s nowhere to hide but in stocks. I\u2019m OK with bloated stocks correcting, but not the good ones getting hammered. Margin raid by the MMs and their allies. Pathetic. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0018849206349206124,
+            "NLTK": -0.7712,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980132579803467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-04T16:25:48Z",
+        "content": "$JOBY Uber IPO\u2019d at $75 Billion valuation leaving no upside for retail investors. Joby at $5 Billion and Lillium at $2 Billion + valuations give us upside potential. It\u2019s too early I know, but these are promising disruptive enterprises. \n\nReid Hoffman has incentives to cash at $30 Billion valuation based on vesting schedule. Let\u2019s think like VCs and hold. In due time, we\u2019ll be rewarded.",
+        "sentiment": {
+            "TextBlob": 0.04375000000000001,
+            "NLTK": 0.8885,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965434670448303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-04T16:19:53Z",
+        "content": "$LEV $ARVL $LCID $PTRA EV is the future. Don\u2019t get shaken by MMs and Tutes. US, Europe and Singapore all have EV mandates. \n\nBiden clean energy and infrastructure Bill is coming up later in the year. Expired EV credits are gonna be expanded. There are way too many positives. \n\nHold strong \ud83d\udcaa!",
+        "sentiment": {
+            "TextBlob": 0.2816666666666666,
+            "NLTK": 0.9184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849159717559814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-04T15:40:05Z",
+        "content": "$LEV $ARVL $SOFI $PTRA $LCID I can wait months or years, I\u2019ll hold.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946122169494629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-03T18:06:41Z",
+        "content": "$LEV Glad to be investing along with Bezos! Not swayed by the sell-off. \ud83d\udc8e\ud83d\ude4c Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895293116569519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-03T16:28:34Z",
+        "content": "$SOFI $PTRA $LEV $LCID $ARVL Theres no sugarcoating it, the pain is real. I\u2019m taking it in the chin. Been through a brutal SPAC attack in October which wiped 50% of my portfolio. But, things got better in Nov and onwards.\n\nThe bond yields are rising, overall market is wobbly. But, the macro picture and trends look favorable. Stimulus coming, infrastructure plan coming later this year, Fed\u2019s gonna keep the interest low. EV is the future. GM, Volvo etc are committed to go 100% EV in a decade or so. \n\nCorrection is good for SPACs, though painful it took out the excesses. Hang in there, we\u2019ll come out on the other side fine.",
+        "sentiment": {
+            "TextBlob": 0.010606060606060603,
+            "NLTK": 0.8499,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.947899580001831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-03-02T07:05:38Z",
+        "content": "$OUST Don\u2019t worry about the negative price action here while other Lidar stocks are going up. Knowing SPACs, a good company is held for only one reason, Tutes and big guys want to load at lower prices. Join them and load when it\u2019s cheaper. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938628673553467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-28T03:31:18Z",
+        "content": "$JOBY $LEV $PTRA $UBER \nAll the above companies except Uber give you an early opportunity to grow with them. Uber IPO\u2019d very late, so the upside was limited to us retail investors.\n\nWe have VC like opportunities but we are driven away by Tutes who want our cheaper shares. Your shares are down 25%, so what? Believe in your DD, have conviction and be rewarded. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1033968253968254,
+            "NLTK": 0.9239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984138011932373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-26T17:18:40Z",
+        "content": "$LCID $LEV $OUST $SOFI $PTRA \nWe\u2019ve had SPAC attacks in 2020 by the Tutes with only a handful of SPACs trading at that time. Now with hundreds of SPACs available, I thought they quit and moved on. \n\nBoy, those big bad boys Tutes still want your shares for cheap! Don\u2019t get scared by their parlor tricks and give \u2018em cheapies. \ud83d\udc8e\ud83d\ude4c! Bullish",
+        "sentiment": {
+            "TextBlob": 0.06500000000000003,
+            "NLTK": -0.8353,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982031583786011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-26T16:40:12Z",
+        "content": "$RKLYQ $OUST $HAAC fire sale prices today. Bought at huge discounts. Cheers! \ud83d\ude4f Bullish",
+        "sentiment": {
+            "TextBlob": 0.5000000000000001,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899577498435974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-26T15:57:06Z",
+        "content": "$LCID $LEV Fair value for LCID is $50. Unlike QS and LAZR that ran up on hope, Lucid is delivering vehicles in 2nd half of 2021.\n\nLucid CEO wants to deliver the best quality vehicles rather than rushing deliveries hence the delay. Dream edition already sold out. $650 Million in preorders. \n\nHonesty beats hype in the longer run. Let\u2019s make \ud83c\udfe6\ud83d\udcb5!",
+        "sentiment": {
+            "TextBlob": 0.3466666666666667,
+            "NLTK": 0.9324,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8992103338241577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-26T15:30:51Z",
+        "content": "$OUST Bought more and brought my average down. I\u2019m greedy now amidst fear. Let\u2019s make that double. Cheers! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0486111111111111,
+            "NLTK": -0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847977757453918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-25T17:38:00Z",
+        "content": "$SRNGU Sportradar. Article from last week (2/19). SRNGU went live just yesterday with $1.5Billion from the guys who know casinos, gaming and betting. \n\nWill they date and marry eventually? @DreamingOwl @Kornie7 @Kaasi @CPurdy1984 \n\nRegular market, we\u2019re looking at $12 already. Lucky to get this under $11. \n\nSRNGU: SR=> SportRadar N=>Needs GU=>Goods (\ud83d\udcb5) from Us. \ud83d\ude02\n\n\ud83e\udd1e\ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": 0.11742424242424242,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917952418327332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-25T03:52:42Z",
+        "content": "$JOBY \u2018 Money Tree\u2019 aunt Cathie will \ud83d\ude80Joby to the \ud83c\udf14! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951807260513306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-24T19:33:46Z",
+        "content": "$LEV $ARVL $LCID $MVST \nMost of us got into all these at lower prices. It\u2019s better to take your dog for a walk or focus on your work or spend time with your kids rather than staring at numbers in the monitor. \n\nStimulus is coming, green energy bill would be next, lower interest rate will persist, EV credit will be expanded and the switch from ICE to EV is just in the 1st inning. \n\nWe were due for a correction anyways. Let the MMs and Tutes accumulate at these lower prices, we\u2019ll all enjoy higher prices later. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16562500000000002,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990566372871399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-24T17:32:49Z",
+        "content": "$LCID $LEV $ARVL $PTRA \nCCIV will do well in the long run. The CEO kinda alluded to the shitty job that Bloomberg did on $24Billion valuation. Peter is confident on long term growth, secured semiconductor supply and sold out Dream edition. \n\n$4.5 Billion is plenty of money and I don\u2019t mind them coming to markets again for more $$$ coz it\u2019s like Amazon. Invest crazy in the beginning, take the market share, mind share and win. Is anyone excited or talking about GM or Ford\u2019s EV line ups? No! Tesla for mass market EV and Lucid for Luxury EV would be the perception going forward. \n\ud83d\udc47\ud83d\udc47 Bullish",
+        "sentiment": {
+            "TextBlob": 0.22410714285714287,
+            "NLTK": 0.9476,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9770808219909668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-24T16:27:23Z",
+        "content": "$SRNGU Starter position here. @DreamingOwl @Kornie7 @siddhu09 @CPurdy1984 @Ivanka_Pump69 @Kaasi \nThe team that brought SKLZ and DKNG. Cheers!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9859533905982971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-24T01:52:21Z",
+        "content": "@mwb111 @Kornie7 @DreamingOwl @Kaasi @CPurdy1984 The more, the merrier my friend! We\u2019re all here to make that Dollar.\n\nI don\u2019t believe in crypto, but Elon, Chamath, MasterCard, Square and hedge funds are on it. It\u2019s just maybe 1-5% of their portfolios, but retail my go big with their hard earned $$. I\u2019d really appreciate if someone pointed out the risks in my investment.",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.6274,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9845644235610962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-24T01:23:18Z",
+        "content": "$WKHS $RIDE Sorry to see folks lose $$ here. The risk was both these companies are one trick ponys. \n\nWKHS: do or die with USPS contracts\n. RIDE: 1 model that has hub motor design but with impressive order book. Compare this to Lucid, Proterra or Arrival, how long they\u2019ve been working with clients, testing, etc. it\u2019s night and day. Ride could still come out on the other side, but beware of the pitfalls as well. \n\nIf there are hiccups in manufacturing or vehicles breaking down, the $$ is gone. Please diversify and minimize your risks with boom or bust companies. @Kornie7 @DreamingOwl @Kaasi @CPurdy1984",
+        "sentiment": {
+            "TextBlob": 0.033888888888888885,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9713106751441956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-23T21:35:54Z",
+        "content": "$INDI Added more to make internet stranger @Ivanka_Pump69 happy \ud83d\ude02!",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.6114,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9697670340538025
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-23T21:03:28Z",
+        "content": "$JOBY Added more today at market closing. Joby and Cathie would be nice. Cheers!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.7345,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999525785446167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-23T16:31:02Z",
+        "content": "$LEV $LCID $ARVL The future is green. We are just in the 1st inning, good times ahead. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9973635077476501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-23T15:30:21Z",
+        "content": "$ZNTE Added. In Cathie we trust. Cheers!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7712,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998300075531006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-23T15:04:37Z",
+        "content": "$OUST Added more. Cheers!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.5697,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9962068796157837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-23T14:57:47Z",
+        "content": "$HAAC Added. Thanks for the sell off. Cheers! \ud83d\ude4f\ud83d\udc4d",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7424,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988868832588196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-22T21:04:56Z",
+        "content": "$OUST Added some more Ws. Cheers!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.5676,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9458351135253906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-22T18:29:56Z",
+        "content": "$BURU Starter W position here. @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9851201176643372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-22T18:27:33Z",
+        "content": "$RKLYQ Inept SPAC team, had 2 years to close and even with all the boom not able to close quickly.\n\nAnnounce it, fellas!",
+        "sentiment": {
+            "TextBlob": 0.08333333333333331,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995959401130676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-21T19:55:56Z",
+        "content": "@aftabaqua @SPAC_Finder @Kornie7 @DreamingOwl @Kaasi @SPACWarrior @SpacTiger @SPACKing @EverlastCapital Good place to park some $$$.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5919954180717468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-18T20:46:14Z",
+        "content": "$RKLYQ $LILM $LNFA.U $THCA $RNW Patiently waiting for news. SCPE, QELL and THCA are taking forever. @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9022814631462097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-17T15:22:57Z",
+        "content": "$JOBY Added. Joby is superior to other evTols and got Uber\u2019s backing. @Kornie7 @DreamingOwl @Kaasi Bullish",
+        "sentiment": {
+            "TextBlob": 0.2875,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9733341932296753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-16T20:28:41Z",
+        "content": "$LEV \ud83e\udd81 is roaring again!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99610435962677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-16T19:01:01Z",
+        "content": "$LCID Regret selling 50% to recover capital. Profits are profits, anyways! Congrats \ud83c\udf8a\ud83c\udf7e! $12Billion is excellent valuation. More room to \ud83c\udfc3\u200d\u2642\ufe0f! @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.8125,
+            "NLTK": 0.8996,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9907968044281006
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-16T17:21:57Z",
+        "content": "$PDAC Booked profits in my Ws (15%+). Good swing play. GL longs! @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.8891,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9973878264427185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-15T16:29:49Z",
+        "content": "$RNW @Kornie7 @DreamingOwl @siddhu09 @Kaasi Renew power (solar) rumor. Anybody in or getting in on Tue? Have a starter position.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959293007850647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-12T23:44:25Z",
+        "content": "$ORGN @Kornie7 @DreamingOwl @Kaasi @siddhu\nOriginal materials rumor. Future DNMR? Nestle, Pepsi and Danone customers.",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9806947708129883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-11T21:30:05Z",
+        "content": "$LCID Churchill Capital 6 and 7 are coming tomorrow. Klein is on a roll. Maybe he\u2019s confident with Lucid deal, he can get other unicorns \ud83e\udd14? @TraderGOAT @Kornie7 @DreamingOwl @Kaasi @siddhu09 @CPurdy1984",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9910843372344971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-11T16:00:05Z",
+        "content": "$THCA Added. Frustrating but willing to wait for the announcement bump.",
+        "sentiment": {
+            "TextBlob": -0.07500000000000001,
+            "NLTK": -0.2382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969165325164795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-11T15:50:39Z",
+        "content": "$LNFA.U @Kornie7 @DreamingOwl @Kaasi @siddhu09 @CPurdy1984 VIH (Bakkt-crypto) was their 1st SPAC. They did 2nd SPAC (LNFA) and announced Bakkt a month later.\n\nRecently they filed for 3rd SPAC. People are speculating an announcement in a month. Legal tech target.",
+        "sentiment": {
+            "TextBlob": 0.04,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962460398674011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-11T15:05:10Z",
+        "content": "$INDI Total manipulation and accumulation to drive away retail. There\u2019s semiconductor shortage, regular semi names are up. \n\nAdded. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991641044616699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-11T04:35:07Z",
+        "content": "$IIIIU @Kornie7 @DreamingOwl @Kaasi @siddhu09 @CPurdy1984 1 month after after warrants split, INAQ announced MetroMile merger news. This is the third SPAC from the same team. Units splitting tomorrow \ud83d\udc40\ud83e\udd1e!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964912533760071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-10T21:26:32Z",
+        "content": "$THCA I think they\u2019re working on PIPE just like THCB. Transfix was valued $800Million before. The valuation could be $1.5 Billion or more. \ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997174859046936
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-10T16:03:30Z",
+        "content": "$ACIC Got a starter position (2K Ws). If United Airlines is in, I\u2019m with them for a quick swing \ud83d\ude02. @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8506531715393066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-09T21:45:27Z",
+        "content": "$RKLYQ Ws at 52 week high at heavy volume. \ud83e\udd14 Bullish",
+        "sentiment": {
+            "TextBlob": -0.020000000000000004,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989251494407654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-04T17:41:51Z",
+        "content": "$LCID @TraderGOAT @Kornie7 @DreamingOwl @Kaasi @siddhu09 Resharing since it\u2019s gonna be buried.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977184534072876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-04T17:38:54Z",
+        "content": "$LCID Here\u2019s my take on Lucid valuation based on shooting in the dark model:\nAll figures are approximate. \nProterra: 3xprojected 2023 Rev $838M = $2.4 Billion\nArrival: 1.1x 2023 Rev $5.1 Billion = $5.4 Billion\nLucid revenue based on Forbes article and assumptions.\n2021 revenue $900 Million\n2022 rev 25000 vehicles x $100K Avg selling price = $2.5 Billion\n2023 revenue $6-7 Billion \nBased on Proterra and Arrival multiples, possible Lucid valuations:\n2x 2023 Revenue => Approximately $14-15 Billion (fair)\n3x 2023 Revenue => Approx $ 18-$21 Billion (possible)\n4x 2023 revenue => Approx $24-28 Billion (millennial valuation \ud83d\ude02)\n\ud83e\udd1e\ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": -0.041666666666666685,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951523542404175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-04T17:05:34Z",
+        "content": "$LCID @TraderGOAT @Kornie7 @DreamingOwl @Kaasi Lucid rumor broke by Bloomberg EMEA reporters (perhaps from Saudis PIF), price goes up. \u2b06\ufe0f\nCNBC Faber mentioned \u201cno way it\u2019s a done deal\u201d (Klein\u2019s folks?). Price comes down. \u2b07\ufe0f\nLA Times author with prior Lucid articles said Lucid\u2019s going public. \u2b06\ufe0f\nPrice goes Parabolic as if a deal is near.\nWSJ comes up with an article saying a deal isn\u2019t imminent (again Klein\u2019s guys?)\u2b07\ufe0f\nToday comes an article from Forbes saying Lucid CEO likes SPACs!\n\nTug of war between PIF/Lucid vs Klein? \ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": -0.0076388888888888964,
+            "NLTK": -0.6939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992239475250244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-04T04:01:40Z",
+        "content": "$RKLYQ Folks say Rockley Photonics but I heard Singapore\u2019s X-ZELL or Cuehealth mentioned as possible targets as well. Rockley got financing from Credit Suisse backed SIG-I capital and AMAT. The only link that I see is that SCPE AJ Coloma was an IB at Credit Suisse. \ud83e\udd1e Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.8625,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988312125205994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-04T03:45:02Z",
+        "content": "$ZNTE $PDAC $LILM $RKLYQ Got a small position in all of them. SCPE got LOI and deadline approaching, ZNTE gave itself 6 months to find a target, PDAC and QELL both filed second SPACs. It\u2019s only a matter of time.\n\nGot CCIV, NGA and IPOE positions as well.",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976977705955505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-03T17:27:57Z",
+        "content": "$LCID People say Saudis may demand more valuation based on SP action. But, IMO Klein can argue that Game Stop hit $500 too \ud83d\ude02. @TraderGOAT @Kornie7 @siddhu09 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.06666666666666665,
+            "NLTK": -0.7311,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999279797077179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-02-02T03:49:09Z",
+        "content": "$LCID => 204 => 2/04 => $204 PT for 2021 \ud83d\ude02\n@TraderGOAT @Kornie7 @siddhu09 @DreamingOwl @Kaasi Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912687540054321
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-29T21:30:53Z",
+        "content": "$LCID $SOFI @TraderGOAT @Kornie7 @siddhu09 @Kaasi @CPurdy1984 RH screwed up big time. IPO upside may be limited with what\u2019s going on.",
+        "sentiment": {
+            "TextBlob": -0.03571428571428571,
+            "NLTK": -0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989270567893982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-28T23:22:30Z",
+        "content": "$LEV Merger ramp up coming! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930865168571472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-27T19:29:15Z",
+        "content": "$LCID Saudis better hurry up and get this deal done before they\u2019re forced to divest. Lucid signed the deal in Sept 2018 and the unfortunate event happens in Oct 2018. They got too much equity for $1.3Bilion. @TraderGOAT @Kornie7 @DreamingOwl @Kaasi \n\ud83d\udc47\ud83d\udc47",
+        "sentiment": {
+            "TextBlob": -0.02500000000000001,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983251690864563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-27T16:37:08Z",
+        "content": "$OUST Not selling!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986586570739746
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-26T21:41:13Z",
+        "content": "$THCA $MVST They should\u2019ve stuck to their specialty Cannabis vs Freights and Batteries \ud83d\ude21! Announce it, fellas!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3786,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999447762966156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-26T19:34:22Z",
+        "content": "$TPGY @Kornie7 @DreamingOwl @Kaasi \nLove him or hate him, Jimmy Chill has sway over boomers who can move the stocks. Our job is to get in before him and wait \ud83d\ude02!",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.2003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9962704181671143
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-26T16:20:41Z",
+        "content": "$UP Took a starter position here. Cheers! Second only to Net-jets in private aviation. Pandemic is accelerating high net worth travel. Bullish",
+        "sentiment": {
+            "TextBlob": 0.07666666666666666,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.959926187992096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-25T19:47:10Z",
+        "content": "$LEV Real company with real products and real revenue.  Leader in school buses \ud83d\ude8c, Amazon stake, anticipated Significant refuse truck orders, upcoming plant, so many impending catalysts. \n\nStill holding all my Warrants and not chasing other SPACs for now. Merger by early March. Bullish",
+        "sentiment": {
+            "TextBlob": 0.20714285714285716,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98399817943573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-25T13:26:42Z",
+        "content": "$LTCH $SPRQ Not in, but Congrats to folks who got in early! \n\n\u26a0\ufe0fDon\u2019t chase or FOMO now. The money is made by getting in before DA, not after! \u26a0\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.15625,
+            "NLTK": -0.6426,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9653264880180359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-25T06:04:10Z",
+        "content": "$LCID @TraderGOAT @Kornie7 @DreamingOwl @Kaasi People on Twitter say that LA times article author did couple of interviews with Lucid CEO before, thus making Friday article credible. Collective intelligence on CCIV is at another level \ud83d\ude02 \ud83e\udd1e\ud83e\udd1e!",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9446604251861572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-22T19:18:54Z",
+        "content": "$TDOC Pretty close to $260 and within 3 months. I\u2019ll take it. \n\n\ud83d\udc47\ud83d\udc47",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9807426929473877
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-21T18:53:25Z",
+        "content": "$ZNTE Added a starter position here. Cheers! @Kornie7 @TraderGOAT @DreamingOwl @CPurdy1984 @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.929865300655365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-21T01:25:14Z",
+        "content": "$LCID FII forum hosted by Saudi PIF Jan 27-28. Announcement is rumored to come on Jan 25/26. Now, I no longer have to get up at 4 AM until next week \ud83d\ude02\ud83d\ude06! @TraderGOAT @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9188640713691711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-20T20:50:42Z",
+        "content": "$PAYO @Kornie7 @DreamingOwl @Kaasi added at $13.50. Got in late. But still good I guess.",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.5927,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999502420425415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-20T16:06:41Z",
+        "content": "$PDAC Opened starter position. Thanks @Kaasi!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990743398666382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-19T17:42:37Z",
+        "content": "$PTRA @Kornie7 @DreamingOwl @Kaasi Missed this train, should\u2019ve hopped in at $20 after DA. I expected QELL to land this. \n\nProterra had many clues, most of the buses were sold to LA city govt. Proterra allowed Unions and won the govt contracts. They went with ACTC to get more contracts than utilizing Barry\u2019s expertise. Smart move by Proterra.",
+        "sentiment": {
+            "TextBlob": 0.32285714285714284,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981942772865295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-15T19:20:36Z",
+        "content": "$LCID Going public by April can\u2019t happen through direct listing or traditional IPO. De-spacing takes 3 months. \ud83e\udd14 @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988588094711304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-15T15:15:55Z",
+        "content": "$LCID @Kornie7 @DreamingOwl @Kaasi Bought more @16.80 and averaged up. Could have waited! markets closed on Monday, don\u2019t wanna chase if DA drops on Mon/Tuesday PM.",
+        "sentiment": {
+            "TextBlob": 0.2625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695420861244202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-14T17:05:21Z",
+        "content": "$LCID Standard language or Faber knows more than all of us? \ud83e\udd1e\ud83e\udd1e\n\n\ud83d\udc47\ud83d\udc47\ud83d\udc47\nSkillsoft rumor language on Oct 2. Merger news came out on Oct 13.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912258982658386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-14T00:16:46Z",
+        "content": "$LEV Everyone has own opinion about Mad Money interview. Here\u2019s my take: \nMarc said that Lion has 500 truck per year limit for Amazon to accommodate other customers\u2019 orders as well. He was careful not to chase away prospective customers IMO.\nThough Lion has pivoted to Trucks, he was enthusiastic about Biden\u2019s plan to electrify 500K school buses. He talked about upcoming US plant in 2 years.\nHe also mentioned about Lion\u2019s current 8 models plus upcoming 8 newer ones. \nMarc was nervous, but seems to be down to earth, honest CEO. \ud83d\udc4dNot fast talking, sleazy snake oil salesman that rolls down trucks from the hills \ud83d\ude06. Bullish",
+        "sentiment": {
+            "TextBlob": 0.08388888888888889,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9719547629356384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-13T20:43:07Z",
+        "content": "$LEV Romeo - Juliet\nRepublic services takes 5% stake in Romeo Power (RMO).\nLion Electric (NGA) orders $234 Million worth batteries from Romeo. \nWill Republic Services return the favor? \ud83d\ude09 Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965633749961853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-13T19:41:46Z",
+        "content": "$LCID Added slowly at $12s, $13s, $14s and $15. Should I add more at $16? \ud83e\udd14\n\n@kaasi and @Kornie7 will say: Dummy, You should\u2019ve gone all in at $12\u2019s. \ud83d\ude02\ud83e\udd23",
+        "sentiment": {
+            "TextBlob": 0.09999999999999998,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987742304801941
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-13T17:46:03Z",
+        "content": "$LEV Will keep this after merger just for the Garbage/Tidy trucks potential alone. @Kornie7 @DreamingOwl Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979806542396545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-13T14:39:22Z",
+        "content": "$LCID Added more and averaged up. Cheers! At this point, it\u2019s speculation. My average is in $13\u2019s now. Upside could be double and downside 30%. I\u2019m OK with it. \n\nIf I win, my portfolio goes up, if I lose my taxes will go down \ud83e\udd2a.",
+        "sentiment": {
+            "TextBlob": 0.2699074074074074,
+            "NLTK": 0.7525,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993081092834473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-12T20:18:14Z",
+        "content": "$LCID Bought that dip! \ud83d\ude4f\ud83d\ude4f\n\nThis will move slow and steady coz of the large float (180 Million). Bullish",
+        "sentiment": {
+            "TextBlob": 0.02698412698412696,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6393816471099854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-12T01:34:40Z",
+        "content": "$LCID I think this is a done deal. Lucid needs money ASAP for factory expansion and new model roll outs. The EV market competition is intense. They need to sell affordable lower priced cars which they can\u2019t do at this stage. \n\nIf you look at Tesla, they pivoted to Model 3 and Y. Model S and X demand isn\u2019t that high vs lower priced models. \n\nPlus, CCIV director\u2019s connection to Aramco, Lucid and CCIV gives credence to the rumor.  \n\nThanks @Kaasi for the ping, Bro! \ud83d\ude4f Bullish",
+        "sentiment": {
+            "TextBlob": 0.18659090909090909,
+            "NLTK": -0.2481,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9394029378890991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-11T23:39:18Z",
+        "content": "$LCID Lucid CEO was instrumental in Model S development, he recruited the engineers there personally. Most of them joined him at Lucid. \nLucid\u2019s cars are 15% more efficient than Tesla\nLucid has developed its own skateboard platform \u2705\nLucid does in-house battery development \u2705\nLucid is developing luxury cars vs just building a regular EV (Model S)\nLucid is moving to Europe by end of \u201821\u2705\nLucid is planning entry to China in 2022\u2705\nLucid SUV gravity will be released in 2023\u2705\nCons:\nLucid has to sell low volume high end cars to increase cash flow just like Tesla did it with Model S.",
+        "sentiment": {
+            "TextBlob": 0.26571428571428574,
+            "NLTK": 0.6997,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8077686429023743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-11T22:13:32Z",
+        "content": "$LCID CIIC (Arrival)rumor prior day and DA the next day. CCIV?? \ud83e\udd14 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993662238121033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-10T07:39:15Z",
+        "content": "$OUST Cruise president says lidar market (automotive) is crowded and ripe for consolidation. All of them targeting the same auto customers !\ncnbc.com/2021/01/09/executi...\n\n85% of CLA's 2020-2025 revenue is non-automotive. Something to think about. CLA and VLDR have diversified customers across various verticals. \n@Kaasi @DreamingOwl @Kornie7 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931474328041077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-08T17:55:02Z",
+        "content": "$OUST Added more (commons). Cheers!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.5676,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9963089823722839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-08T04:12:21Z",
+        "content": "$SOFI \nChime, Varo and Robinhood are customers of SoFi (Galileo platform) \u2705\nInitial bank charter approval \u2705\nCredit card with 2% rewards \u2705\nCrypto \u2705\nFractional Shares \u2705\nWorldwide in-network atm fees reimbursement \u2705\nGobble up shares before Cathie Wood does!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.9098,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9608592987060547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-07T21:50:21Z",
+        "content": "$SOFI SoFi: FDIC insurance up to $1.5 Million vs $250K at other banks. ATM fees worldwide reimbursed at 55,000+ AllPoint network. No account fees or overdraft fees. What\u2019s not to like? \ud83d\udc4d Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.5122,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969185590744019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-07T19:25:03Z",
+        "content": "$SOFI @Kornie7 is in. Cathy (Ark) next? @Kaasi Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966508746147156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-07T17:52:54Z",
+        "content": "$SOFI Starter position (commons). Cheers!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968133568763733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-04T18:00:16Z",
+        "content": "$LEV Gift! Averaged up!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5826,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7562875747680664
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2021-01-04T14:24:15Z",
+        "content": "$LEV @Kornie7 @DreamingOwl @Kaasi \nCalled it!! Next stop $30!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4724,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911807179450989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-31T18:12:43Z",
+        "content": "$THCA Small position, but holding it strong!",
+        "sentiment": {
+            "TextBlob": 0.14583333333333331,
+            "NLTK": 0.6948,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994339346885681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-31T18:11:19Z",
+        "content": "$LTRY Holding my starter position strong!",
+        "sentiment": {
+            "TextBlob": 0.5416666666666666,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.993736982345581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-31T18:09:08Z",
+        "content": "$HAAC Added starter position here. Cheers! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8783964514732361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-30T19:05:43Z",
+        "content": "$TMC Took a starter position (commons) for possible Q1 news.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993889331817627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-29T18:47:24Z",
+        "content": "$LILM Seal the deal Mr. Engle before Proterra changes its mind and go with direct listing.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9188055992126465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-29T15:50:01Z",
+        "content": "$FUSE Took a starter position. Was watching it for a while. Didn\u2019t want to put $$ on pre LOI coz of opportunity cost. \n\nLast night, I decided to get in based on Chairman\u2019s pedigree, rumors and substantial volume.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.975976288318634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-28T20:47:14Z",
+        "content": "$OUST Took a starter position today. Cheers!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985533356666565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-28T18:59:17Z",
+        "content": "$LEV $ARVL Keep it down so that we can load more!  \ud83e\udd11",
+        "sentiment": {
+            "TextBlob": 0.23472222222222222,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990741014480591
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-26T20:22:11Z",
+        "content": "$OUST The merger is in first half of 2021. So, possibly Q2 \u201821 merger?",
+        "sentiment": {
+            "TextBlob": 0.02777777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995728075504303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-23T18:58:05Z",
+        "content": "$SPRU @Kornie7 @DreamingOwl @Kaasi \ud83d\ude31\ud83d\ude31 I\u2019ll never underestimate Jimmy Chill!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2914,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8160372376441956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-23T18:18:32Z",
+        "content": "$LEV \n\nBuild it, they\u2019ll come. \n\nAmen say Amazon, Canadian National \ud83d\ude83, and Republic services (? \ud83d\ude09). Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969251751899719
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-23T17:59:01Z",
+        "content": "$INDI Still undervalued. SPAC management(Skyworks) is solid and can help win more contracts from Apple. Bullish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992430210113525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-21T21:28:32Z",
+        "content": "@Kornie7 @Ivanka_Pump69 @DreamingOwl Take a look at $THRB. Previous SPAC RPAY, plus team has executives from Skyworks (Apple supplier).",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8769149780273438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-21T21:06:34Z",
+        "content": "$VLDR \u2018In the short term, market is a voting machine. But, in the long run it\u2019s a weighing machine\u2019. Ben Graham (Warren Buffett\u2019s mentor). \n\nCongrats, folks \ud83c\udf7e\ud83d\udc4f\ud83c\udf8a\ud83c\udf89!",
+        "sentiment": {
+            "TextBlob": -0.03125,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9763461351394653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-21T20:22:49Z",
+        "content": "$INDI Initiated a starter position today. Like the founders track record plus the SPAC team with impressive credentials (Skyworks).",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992938041687012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-16T20:30:43Z",
+        "content": "$TPGY Small starter position in today. Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997509241104126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-16T15:43:04Z",
+        "content": "$LEV Republic services ordered 2500 garbage trucks from NKLA. They should cancel and come to LION. Possible? @Kornie7 @DreamingOwl @TraderGOAT Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988890290260315
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-15T20:17:21Z",
+        "content": "$THCA Added starter position today. @Kornie7 @DreamingOwl @Ivanka_Pump69",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6483178734779358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-15T20:15:46Z",
+        "content": "$LEV Added more Ws today. \ud83c\udf81 Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99461430311203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-14T21:24:04Z",
+        "content": "$GHIV Took a starter position (commons)  here before market close. Warrants are way ahead of commons. @Kornie7 @DreamingOwl @Ivanka_Pump69",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9610072374343872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-11T20:18:17Z",
+        "content": "$LTRY Added Ws. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8671571016311646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-10T18:08:14Z",
+        "content": "$LEV TY, MMs! It\u2019s coz of you, folks who are new and old to NGA can load up the truck! \ud83d\udc4d\ud83e\udd2a\ud83d\ude09 Bullish",
+        "sentiment": {
+            "TextBlob": 0.13068181818181818,
+            "NLTK": 0.6016,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983879327774048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-09T19:43:58Z",
+        "content": "$ARVL $LEV $CHPT $MVST $QS\nReddit/WSB has 1.6 million members, yet SPACs discussions still banned by moderators there. TSLA and PLTR are their eternal favorites. They have power over whales. \n\n100 days later, SPACs still not free after proving their merits with HYLN, RIDE, SBE, QS, LAZR and so on. Still crippled by attacks from WS whales and discrimination by Reddit mods from enjoying WSB prosperity. \n\nI have a dream where SPAC children are not seen as pump and dump and can play along with Reddit WSB children like PLTR so we all can YOLO \ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83c\udf19\ud83c\udf19\ud83c\udf1d\ud83c\udf1d! Bullish",
+        "sentiment": {
+            "TextBlob": 0.14166666666666666,
+            "NLTK": 0.7733,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985677003860474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-09T17:36:36Z",
+        "content": "$AI @TraderGOAT @siddhu09 Are you guys in?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9611321687698364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-09T01:37:07Z",
+        "content": "$ARVL $LEV $VLDR $MVST $RIDE \nI said: SNOW private valuation was 12.5 Billion, will IPO at 20 Bil, list at $40 Bil and retail will chase it to $60 Bil. \nMarket cap now: $110 Billion!!\nQS: a company with no revenue until 2025.\nTesla\u2019s battery tech might catch up or beat QS tech by then. \nSP: $70 now !!! \ud83e\udd14\ud83d\ude33\ud83d\ude47\u200d\u2642\ufe0f\nSurely was a head scratcher for me. Jimmy Chill just demystified young investors for me today. Their mindset: Don\u2019t care about valuation. missed earnings? Not a problem for us. Frequent capital raises? Talk to my hands. \n\nThough I would stick to my strategy, I now know how they operate and can coexist with them on the side in Peace. \n\nStonks only go up \ud83d\ude80 \ud83d\ude80 \ud83d\ude80 \ud83d\ude80! Stonks to the \ud83c\udf19 \ud83c\udf1d!",
+        "sentiment": {
+            "TextBlob": 0.13999999999999999,
+            "NLTK": 0.8746,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99297696352005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-08T20:23:23Z",
+        "content": "$LEV SELL SELL SELL\nAnd You\u2019ll miss out \nWhen Big Daddy says\n\u201cBUY BUY BUY\u201d\n\n\ud83e\udd81\ud83d\udca5\ud83d\ude82\ud83d\udcb5\ud83c\udfe6\ud83e\udd11 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979020357131958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-08T20:20:18Z",
+        "content": "$ARVL \ud83d\udcaa\ud83c\udfc6 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998346209526062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-08T17:09:00Z",
+        "content": "$LEV Undervalued, but SBE had similar price action for a long time before it bursted upwards. Could happen here too.\n\nFactory opening and Amazon pilot vehicles delivery are December catalysts. We don\u2019t need him, but Cramer pump would take SP to another level \ud83d\ude02\ud83e\udd23! Bullish",
+        "sentiment": {
+            "TextBlob": 0.012500000000000002,
+            "NLTK": 0.3274,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956954717636108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-08T16:44:50Z",
+        "content": "$VLDR Citron validates our valuation of VLDR vs. peers\u2019 insane SP. \ud83d\udc4d\ud83d\ude4f\ud83d\udc4f\ud83c\udf89 Bullish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967766404151917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-07T21:15:08Z",
+        "content": "$LILM After Unit split, my TD account says I\u2019m up a lot in commons and down a lot in Warrants with a cost (purchase price) of $7.77 for both. \n\nWhat do y\u2019all see after splitting?",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947064518928528
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-07T20:54:28Z",
+        "content": "$LEV Jimmy Chill, bro don\u2019t pump it. Still undiscovered by lots of retail. Let them load before you \ud83d\ude80 this to the \ud83c\udf19 \ud83c\udf1d! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982802867889404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-07T18:37:55Z",
+        "content": "$SFT $VLDR Congrats to the turtles here. You folks have incredible patience ! A well deserved reward! \ud83d\udc4d\ud83d\udc4f\ud83c\udf89\n\nSFT still has a long runway left. WS vs SFT CEO is what\u2019s holding it back. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2375,
+            "NLTK": 0.8684,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9812626242637634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-07T15:52:15Z",
+        "content": "$LTRY Took a starter position on Ws here. lottery.com LOI. @Kornie7 @DreamingOwl @Kaasi",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949681162834167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-05T23:07:24Z",
+        "content": "$LAZR $LEV $ARVL $FSR $CHPT \nI finally got the answer to SPAC market\u2019s irrational exuberance. \n\nFSR\u2019s momentum from 8 to $16, LAZR\u2019s incredible run, Canoo jumping 50% in 5 minutes.. all things point to one man: Jim Cramer. He mixes some good calls (HCAC , CIIC) with some speculative ones. But, they all run regardless. \n\nIf Cramer blesses your SPAC, it\u2019s going to print. I\u2019m guessing NGA would be on his list next since it\u2019s got vehicles on the road already. \n\nGame on, Cramer! We\u2019re ready!",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.8802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9170345067977905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-05T19:31:42Z",
+        "content": "$SFT @DreamingOwl I applaud you for having conviction and patience to hold this through immense volatility. Right now, we can ask monkeys to throw dart at the SPACs and they can beat most of the experts here. \n\nIn the long run though, many SPACs won\u2019t make it and only the good ones will remain. This is a multi bagger in the making. George didn\u2019t help SFT by being Vocal against the big boys \ud83d\ude06\ud83d\ude02. Bullish",
+        "sentiment": {
+            "TextBlob": 0.24196428571428572,
+            "NLTK": 0.8225,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.620196521282196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-05T00:09:17Z",
+        "content": "$LEV Buy aggressively. You know it\u2019s coming ! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996073842048645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-04T23:55:07Z",
+        "content": "$GOEV Bought @3.20 and sold at $2.70 this week. \ud83e\udd26\u200d\u2642\ufe0f\n\nCongrats, bulls! You folks deserve it. \ud83d\udc4d\ud83d\udc4f\ud83c\udf89",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9858945608139038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-04T19:52:39Z",
+        "content": "$QS $LAZR $VLDR $SFT $STEM \n\nMe: staying away from no revenue SPACs.\nMarket: Let me give them 300 - 400% returns.\n\nMe: I\u2019m in on revenue ready SPACs.\nMarket: Here\u2019s your -20 to -40 % returns. \n\nMe: Buy pre LOI SPACs \nMarket: Meh, sideways movement for you!\n\nMe: Sell my pre LOI SPACs\nMarket: Thanks, Glazier! Let me unleash these giants! \n\n\ud83d\ude09\ud83e\udd2a\ud83d\ude06\ud83d\ude05\ud83e\udd23\n\nHYLN and CIIC were kind to me though \ud83d\udc4d\ud83d\ude4f!",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.816,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.934660017490387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-04T15:47:52Z",
+        "content": "$MVST Don\u2019t have conviction coz of Chinese connection, but initiated a starter position based on @Kaasi @DreamingOwl and @Kornie7 positions \ud83d\ude09\ud83d\ude06.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944072961807251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-04T14:49:32Z",
+        "content": "$LEV Buy buy buy before Jimmy Chill finds this daughter of Tesla \ud83d\ude06\ud83d\ude02! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983217120170593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-04T01:32:59Z",
+        "content": "$LEV WKHS $GOEV $ARVL  why did USPS rush and not going with good quality EVs such as Arrival/Canoo/Lion? All three can manufacture in the US too. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991457462310791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-04T00:26:05Z",
+        "content": "$ARVL Jim Cramer is right only about 1 out of 100 calls and this is one of his right calls in a long time \ud83e\udd23\ud83d\ude02. Bullish",
+        "sentiment": {
+            "TextBlob": 0.13035714285714284,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942229390144348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-03T05:08:23Z",
+        "content": "$CRWD delivers every quarter! \ud83d\udc4d\ud83d\udca5 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926927089691162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-02T20:00:26Z",
+        "content": "$LEV This could trade sideways for a while too. What I know is that eventually this will go higher just like SBE. The risk is that NGA could shoot higher pretty sooner than later \ud83d\ude09!\n\nFor perspective, SBE price action:\n9/15 : $10.45\n9/16: $13.30\n11/2: $13.71\nElection & Post election\n11/3: $14.90\n11/18: $19.68\n11/27: $37.13 Bullish",
+        "sentiment": {
+            "TextBlob": 0.16999999999999998,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977318644523621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-02T17:37:16Z",
+        "content": "$LEV @TraderGOAT I\u2019m surprised that this didn\u2019t fly out of the gate like CIIC. I\u2019m guessing Amazon is building its stake and will make sure \ud83e\udd81 is a success. Looks similar to its Rivian investment. \ud83e\udd1e Bullish",
+        "sentiment": {
+            "TextBlob": 0.33999999999999997,
+            "NLTK": 0.8779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994914174079895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-02T14:42:35Z",
+        "content": "$LEV Added more Ws. It\u2019s trading like the DA never happened. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973239898681641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-02T14:30:39Z",
+        "content": "$ARVL Picked up some more Ws. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967585206031799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-01T20:33:05Z",
+        "content": "$LEV $ARVL $CHPT Hang in there. This too shall pass. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994933605194092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-01T16:34:02Z",
+        "content": "$LEV $RIDE $HYLN $MVST $ARVL $UPH $ZEV $CHPT  \nSPAC attack \nRound 1: July\nRound 2: September \nRound 3: December \nLike winter \u2744\ufe0f, this volatility is part of SPAC investing. Brace yourself.\n\nThis too shall pass!",
+        "sentiment": {
+            "TextBlob": -0.21666666666666667,
+            "NLTK": -0.2244,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981653094291687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-01T15:49:30Z",
+        "content": "$LEV SPACs sell off going on today. Added some warrants. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971837401390076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-01T14:27:34Z",
+        "content": "$LEV This is being held for big boys. Not worried. Amazon has the option to buy 20% stake if pilot goes will. That news alone will send this stock to \ud83c\udf19\ud83c\udf1d! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982665777206421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-12-01T02:17:12Z",
+        "content": "$MVST Missed the boat on this. Price too high for me before DA to take a position. Congrats to those who got in earlier.",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991894364356995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-30T16:34:52Z",
+        "content": "$UPH Closed my starter position. Had bought it on margin. I never do margin and wasn\u2019t comfortable holding it. Out @ $1.40\nGL, longs!",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.7667,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984777569770813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-30T16:07:49Z",
+        "content": "$LEV I thought I was buying EV school bus company. It turned out to be EV Truck company which is going to be partially owned by Amazon. Even better! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2625,
+            "NLTK": 0.5983,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985312223434448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-30T15:02:33Z",
+        "content": "$LEV MMs brought it down for their WS clients. Load with them before it  \ud83d\ude80 s! Bullish",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988886713981628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-30T13:51:44Z",
+        "content": "$LEV Speculation based on IP slide:\n\nAMZN might take 20% stake over 8 years. Potential 500 trucks/year from 2021-25. $1.1 Billion spend will give them about 20% stake. Nobody is talking about this. This could be huge!!!\n\nRivian: EV Van\nLion: EV trucks?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.39062500000000006,
+            "NLTK": 0.5478,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977255463600159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-30T13:26:58Z",
+        "content": "$LEV Does anyone know who this customer taking a 20% stake in Lion? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999688982963562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-30T13:09:43Z",
+        "content": "$LEV You nailed it OG! \ud83d\udc4d\ud83d\ude4f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9631665945053101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-30T13:06:41Z",
+        "content": "$LEV I was planning to dump 50% of my position today out of frustration. It was selling at $12 earlier,  so was planning to sell it after market open. What a gift!!\n\nLet\u2019s hit $20! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5684,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990791082382202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-28T05:27:47Z",
+        "content": "$HYLN Warrants have been registered. They\u2019ll be redeemed pretty soon. Watch out for the commons to come down in the coming days.\n\nDisc: no positions.",
+        "sentiment": {
+            "TextBlob": 0.04722222222222221,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987875819206238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-27T22:02:30Z",
+        "content": "$UPH Starter FOMO position in AH based on @Kaasi referral. \ud83d\ude4f \ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957276582717896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-27T16:28:20Z",
+        "content": "$LILM Initiated unit split with TD. \ud83e\udd1e\n\nCIIC would have been a perfect fit. CIIG folks are Wall Street guys. They can raise you \ud83d\udcb0 \ud83d\udcb6 but can\u2019t provide operational expertise.\n\nProterra would be better off with QELL than anyone else. If not Proterra, I still hope QELL ends up with a nice \ud83d\udc8e.",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.8196,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966756105422974
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-27T14:58:53Z",
+        "content": "$LILM Barry wants to move quickly. Companies like Plus want to merge with this. It\u2019s just a matter of time. Patience pays. \n\nNikola Chairman is the mentor. Proterra ex-CEO and Director on board. \n\nCommons are better since warrants have run up a lot.",
+        "sentiment": {
+            "TextBlob": 0.3444444444444444,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914458990097046
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-27T14:47:12Z",
+        "content": "$TDOC Your kids and grandkids will thank you for patiently holding this for years. \n\nAAPL, GOOGL, TSLA and AMZN kinda stock. Don\u2019t dance in and out. Buy and forget! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2244,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9835741519927979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-27T14:41:44Z",
+        "content": "$SFT Fair value $15. 2023 target $76+. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998782217502594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-27T14:40:23Z",
+        "content": "$LEV Commons at $13+. PIPE investors are guaranteed to profit. \n\nWarrants are going lower and commons might too if there\u2019s no deal. \n\nWhy delay it? Unleash the Lion!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5684,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998849630355835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-27T01:57:54Z",
+        "content": "$LEV Lion needs $200 Million for its battery plant.\nArrival is already here.\nGet it done, \ud83c\udf41 !",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951152801513672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-26T00:28:38Z",
+        "content": "$SFT Shorts deserved this Thanksgiving gift \ud83d\ude02\ud83e\udd23! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923111200332642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-25T20:45:04Z",
+        "content": "$SFT They drove everyone away so that their WS buddies can make \ud83c\udfe6. People who waited patiently are getting rewarded. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867080450057983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-25T16:38:53Z",
+        "content": "$LEV \nCIIC rumor on Bloomberg and \ud83d\udca5 DA the next day. SPAC run by WS guys.\nNGA Bloomberg rumor hit 3 weeks ago, still no DA. SPAC run by Canadian operations guys.\nSee the difference?\n\nUnleash the Lion, fellas! Your competitor has Arrived!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5216,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981153011322021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-25T15:50:58Z",
+        "content": "$LEV Added commons. This is taking way longer than I\u2019d expected.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973688125610352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-25T01:35:23Z",
+        "content": "$ARVL \nArrival Mobility is focused on building a radically different mobility ecosystem, with services that accelerate the transition from owning vehicles to using \u2018mobility as a service.\n\nArrival\u2019s vehicles are competitively priced to fossil fuel equivalents and, when combined with the services being developed by the Arrival Mobility team, create an integrated ecosystem for cities and customers to elevate the transportation experience, reduce costs and enable \u201cmobility as a service\u201d offerings.\n\nSource: Arrival website Bullish",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.972307026386261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-24T21:37:03Z",
+        "content": "$LILM Already mentioned in Plus rumor, an announcement might come sooner than later. Hoping it\u2019s Proterra. \ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975776076316833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-24T20:06:28Z",
+        "content": "$LEV Added commons.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9769250154495239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-24T12:52:37Z",
+        "content": "$ARVL Trimmed 1/3, felt sick to my stomach selling my prized warrants. Right or wrong, I share my decisions with ST community. \n\nAfter merger, Ws will be double digits looking at HYLN and RIDE warrants conservatively. Bullish",
+        "sentiment": {
+            "TextBlob": -0.23214285714285715,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887564778327942
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-24T03:53:05Z",
+        "content": "$SFT $VLDR $LILM Had capital tied up in these tickers, so trimmed for risk management and growth. Bought CIIC and NGA. \n\nNow that Spac Mafia news is official, I won\u2019t be complacent in booking profits. I recently booked SBE profits. I\u2019m planning to book profits in CIIC and NGA as they run higher and I encourage everyone to do the same.",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.8987,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6477963924407959
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-24T00:42:11Z",
+        "content": "$ARVL Gonna hit $30 commons and Warrants should be $10+ too.\n\nLook at DeSPACed picks like RIDE and HYLN for commons vs warrants price comparison. \n\nRIDE @ 29.30 Warrants @ 10.30\nHYLN @26.85 Warrants @10.80 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998711347579956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-24T00:30:31Z",
+        "content": "$ARVL Warrants are being held by you know who. Daylight robbery!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999270498752594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-24T00:26:07Z",
+        "content": "@siddhu09 \ud83d\udc4d Ping her to get $ARVL, bro! \ud83d\ude09",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848664402961731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T23:50:33Z",
+        "content": "$LILM Trimmed some units in AH to have capital for other picks (NGA commons tomorrow). Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995693564414978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T23:38:16Z",
+        "content": "$ARVL The market trends are favorable vs July/Sept volatility. Look at Biden\u2019s EV push, Treasury Sec pick, Chinese EV run ups, GB\u2019s recent momentum, charging companies\u2019 \ud83d\ude80 \n\nI sold SBE+ at $8.50 based on my prior -ve experiences with VLDR and SFT price actions. SBE+ is at $13.50 now. \n\nI\u2019ll hold CIIC as I personally believe SBE and CIIC are two of the best EV SPACs out there. \n\nMy 2 cents. If you wanna book profits, please do so. MMs and \ud83d\udc33 are ruthless and you never know when they\u2019ll raid our profits. GL! Bullish",
+        "sentiment": {
+            "TextBlob": -0.014285714285714282,
+            "NLTK": 0.9614,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5761633515357971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T19:56:05Z",
+        "content": "$ARVL here warrants are the better play.\nNGA: commons are less risky Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666669,
+            "NLTK": 0.5849,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937989115715027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T19:13:14Z",
+        "content": "$LILM TD got no instructions to split yet. Bummer!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984675049781799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T19:02:53Z",
+        "content": "$LEV Commons are a better bet now. Ws have run up before DA. All these YT pumpers will be all over this when news hits coz of AMZN order (though it\u2019s for 10 units).",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954969882965088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T16:00:19Z",
+        "content": "$ARVL Sold $CHPT too soon. Not selling CIIC \ud83e\udd2a!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992353916168213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T15:10:16Z",
+        "content": "$AVPT GL, longs! I\u2019d sold my 4K warrants at 25 cents loss a couple of weeks ago. Just like Glaser Capital, if I sell the target is acquired within days or weeks. KCAC and APXT, 2 out of 2. \ud83d\ude06\ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5461,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985290765762329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T14:38:27Z",
+        "content": "$ARVL Too many YT videos over the weekend. @Kaasi @DreamingOwl We gotta pay up or be happy with what we have now \ud83d\ude09.",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972645044326782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T06:00:18Z",
+        "content": "$SFT I think SFT CEOs are pissed off at the price action thereby forcing warrants redemption prematurely. If it doesn\u2019t go up to $12 and $15 they stand to lose future equity. They\u2019re going in the right direction though. Bullish",
+        "sentiment": {
+            "TextBlob": 0.12857142857142856,
+            "NLTK": -0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984439015388489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-23T05:55:45Z",
+        "content": "$LILM I want Proterra, not Plus. Proterra hopes burned me before with HCAC \ud83d\ude02.  \ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2575,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978961944580078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-22T20:31:58Z",
+        "content": "$TDOC Starbucks was doing good. Then, McDonalds opened McCafes. Starbucks sales started booming after that, SBUX CEO said McCafe increased coffee awareness and boosted sales. \n\nTDOC was doing good. Then, COVID accelerated the trend and increased awareness. Even after COVID telehealth is here to stay. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.8885,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982174038887024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "spacrider",
+        "timestamp": "2020-11-22T03:47:55Z",
+        "content": "$ARVL @Kaasi EVs are on \ud83d\udd25 recently including NIO, XPEV, even Solo and Ayro with their ugly cars. \n\nI\u2019m kicking myself for not adding in $2s and $3s. I might bite at low $4s next week. \ud83e\udd1e",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": -0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998752236366272
+            }
+        },
+        "image_url": ""
+    }
+]

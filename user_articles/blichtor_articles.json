@@ -1,0 +1,1108 @@
+[
+    {
+        "username": "blichtor",
+        "timestamp": "2019-03-18T17:43:12Z",
+        "content": "$SPY Bullish that it held 281.35 area. Nice upside potential. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9294902086257935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-03-15T14:37:26Z",
+        "content": "$MSFT New ATH of 116.46 and is the top market cap U.S. stock at about $893 billion",
+        "sentiment": {
+            "TextBlob": 0.3181818181818182,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9939135909080505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-03-06T21:55:43Z",
+        "content": "Wondering what the GOAT is going to say about $SPY tonight \ud83e\udd14 @StockTwits",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961696267127991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-03-06T19:56:33Z",
+        "content": "$SPY Thanks for playing",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998664379119873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-03-05T21:12:53Z",
+        "content": "$TWTR.P Fib levels don't lie @scheplick",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5510366559028625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-28T17:53:38Z",
+        "content": "$SQ Really impressive turnaround.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5563,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966633915901184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-28T16:55:03Z",
+        "content": "$NFLX - Love the chart setup. Daily candles bunching up right around some resistance. Cup n handle. Think it resolves higher from here.",
+        "sentiment": {
+            "TextBlob": 0.2589285714285714,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994911253452301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-28T16:44:47Z",
+        "content": "$TSLA As mentioned yesterday - expecting a big move to the upside with Tesla today/into tomorrow with Elon's announcement (no position).",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981533885002136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-27T18:38:26Z",
+        "content": "$TSLA is intriguing right here. Right near upper resistance and has been setting some lower support. Looking for a move above 325. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1619047619047619,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9285804033279419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-27T18:35:13Z",
+        "content": "$BA is up 35.3% YTD. Remember when the trade war was a concern for them? Me neither lol.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": -0.7377,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983215928077698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-25T20:15:18Z",
+        "content": "I'm bearish $SPX until further notice. Couldn't clear 2,815. Bearish",
+        "sentiment": {
+            "TextBlob": 0.05000000000000001,
+            "NLTK": -0.2924,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999483585357666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-24T01:56:51Z",
+        "content": "People who know me know I'm bullish South America, including $MELI. \n \nYTD - Argentina (+18.1%) and Colombia (+17.7%) are the top countries.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9591587781906128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-22T23:59:29Z",
+        "content": "$FNKO intriguing me again. Rode the weave last year and sold. I like the base we're seeing. (No current position).",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990763664245605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-13T19:07:24Z",
+        "content": "$EA Another day of pure domination for Apex Legends over Fortnite.",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886453151702881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-02-13T14:43:17Z",
+        "content": "$LEVI \ud83d\udc56 \n \n*Do you see what I seeeeeeeee*",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9548704028129578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-01-17T20:13:52Z",
+        "content": "$SPY Basically right back to where we were. That was cute. Thanks for playing.",
+        "sentiment": {
+            "TextBlob": 0.24642857142857144,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988994598388672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-01-14T16:50:54Z",
+        "content": "STILL BORED; BECAME A $DRIP GOD AGAIN - Dr. Fly ibankcoin.com/flyblog/2019/...",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995796084403992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2019-01-07T22:09:34Z",
+        "content": "$SPY The McClellan Oscillator is very high on many names such as Amazon. Market looks due for another hard down move here.",
+        "sentiment": {
+            "TextBlob": 0.022629629629629614,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8641548752784729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-21T19:03:26Z",
+        "content": "$QQQ Needs to close today above 150 otherwise this gets nastier in a hurry.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995711445808411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-21T18:30:07Z",
+        "content": "$SPY Follow up on my 227 price target. cc: @Shortseller Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993147075176239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-21T18:23:27Z",
+        "content": "$SPY Absolutely brutal action this week. Bear market is going to be ugly. My current price target is 227.",
+        "sentiment": {
+            "TextBlob": -0.36875,
+            "NLTK": -0.8268,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997218251228333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-17T00:23:32Z",
+        "content": "@HatchingGains @michaelbozzello $BSV.X this is it, right? No pricing right now because of data issue with some crypto.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987932443618774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-13T16:03:48Z",
+        "content": "For all you $GE fans out there, check out some of the top reactions from Tusa's upgrade to neutral this morning! \n \nstocktwits.com/discover/hig...",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8850700259208679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-11T19:25:26Z",
+        "content": "Shared my thoughts on $MELI outlook for the next year in the 2019 Room. \n \nstocktwits.com/r/2019/gIR1j...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8995487689971924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-07T20:26:45Z",
+        "content": "$SPOT The market could be in a longterm downtrend, especially in tech, but this is attractive down here. No position yet, but interested.",
+        "sentiment": {
+            "TextBlob": 0.22361111111111112,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.992618978023529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-12-03T17:43:56Z",
+        "content": "$AMZN briefly surpassed Microsoft to become the most valued company (based on market cap).",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9757028222084045
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-27T20:10:49Z",
+        "content": "$SPY data is now back and reflecting accurately. Thanks for your patience with this!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983408451080322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-27T17:37:42Z",
+        "content": "$HOOD Major mood @michaelbozzello @chadtempest @scheplick @howardlindzon",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9423050880432129
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-27T17:32:42Z",
+        "content": "$HOOD Take my money!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927111864089966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-09T16:28:27Z",
+        "content": "$AMZN Key support at 1707. Looking for a rebound here (no position).",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993988275527954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-08T16:40:40Z",
+        "content": "$BA Breaking out above crucial 372 level. A close above and I think this pushes for ATHs. (Currently long)",
+        "sentiment": {
+            "TextBlob": -0.0125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9671707153320312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-08T16:16:13Z",
+        "content": "$NVDA I think we should see a big bounce off of the 205 level here. Wildly overdone at this point. (Been long for over a year).",
+        "sentiment": {
+            "TextBlob": 0.016666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989405274391174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-07T20:40:42Z",
+        "content": "$SPY Great price action today above the 200 day. If we can hold today's closing level at open tomorrow, quick move up to 290.",
+        "sentiment": {
+            "TextBlob": 0.24666666666666667,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9902886152267456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-07T20:39:04Z",
+        "content": "$AMZN Up 7% since this post the other day. Bulls seem to be in control again. I think this sees 1800 sooner than later (still no position).",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9028430581092834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-05T19:49:12Z",
+        "content": "$SPY looking like it wants to move higher. A close above 273.46 and I think we push to test the 200 day moving average 276 tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.07500000000000001,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984901487827301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-11-05T19:44:23Z",
+        "content": "$AMZN very attractive here. Rebounding nicely. (No position currently)",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.7264,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997518658638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-24T01:55:17Z",
+        "content": "$HD Something to watch in the coming days. My guess is we see a nice bounce (no position).",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7815443873405457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-22T12:47:07Z",
+        "content": "$ETE Test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847180247306824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-18T15:22:03Z",
+        "content": "$NFLX nearly back to the level it closed at prior to reporting earnings Tuesday. Incredible move back.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990378618240356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-13T03:20:08Z",
+        "content": "$QQQ Really like how this was able to take out the morning highs in the push into the close. IMO bodes well for next week.",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.5984,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9983270764350891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-12T14:18:39Z",
+        "content": "$TWTR.P Perfect bounce off of the 26.26 Fib level yesterday.  Bottom could very well be in. (Currently long the stock)",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.7264,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992181062698364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-10T20:02:35Z",
+        "content": "$QQQ went from the 100 DMA to the 200 DMA in 1 day.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897385239601135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-06T03:40:31Z",
+        "content": "$FNKO is taking over NYC right now with Comic Con in town (no position currently, but intrigued to re-enter).",
+        "sentiment": {
+            "TextBlob": 0.17857142857142858,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9168605804443359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-05T17:56:01Z",
+        "content": "$QQQ Clean bounce off the 100-day moving average.",
+        "sentiment": {
+            "TextBlob": 0.10833333333333335,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9562225937843323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-10-05T13:13:38Z",
+        "content": "$TSLA Question of the Day (cc: @StockTwits) \n \nWhen was the Shortseller Enrichment Commission (SEC) founded?",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999427080154419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-09-28T15:06:58Z",
+        "content": "$BA Nearing its ATH from June (374.48). RSI directionally strong.",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976649284362793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-09-25T14:32:07Z",
+        "content": "$SHAK Very nice breakout this morning, rising above the 50 and 100 DMA.",
+        "sentiment": {
+            "TextBlob": 0.39,
+            "NLTK": 0.4754,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9878730773925781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-09-24T13:34:04Z",
+        "content": "$SPY Thinking we see a drawdown early but end up closing slightly green. Headlines are just that. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9947644472122192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-09-21T17:47:08Z",
+        "content": "$NIO Short-term thoughts on this? Seems like some nice consolidation down here around 8.50+...",
+        "sentiment": {
+            "TextBlob": 0.2222222222222222,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946475625038147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-09-10T18:07:00Z",
+        "content": "$QCOM Jim Lebenthal reiterated this as his final trade on Halftime Report, and I wholeheartedly agree. Not a sexy pick, but long-term play. Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.4519,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9931371212005615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-09-05T20:03:16Z",
+        "content": "Nasty day for some of my tech names. That being said, added a few longs: $HD $GS $QCOM.",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994062185287476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-28T21:27:00Z",
+        "content": "$NVDA Update: Shorts got hit hard and the earnings dip was a strong BUY BUY BUY *Cramer voice* Bullish",
+        "sentiment": {
+            "TextBlob": 0.0708333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924032688140869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-27T21:49:14Z",
+        "content": "$GS Nice rip in financials today - a lot of unusual activity in options, especially Goldman.  Should work it\u2019s way back up to 250 from here.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7425317168235779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-17T19:38:07Z",
+        "content": "$FNKO Looks like a nice floor has been set at 18.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.644868016242981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-17T19:36:58Z",
+        "content": "$MELI holding a key level here at 320. Close above that and next week it will shoot higher. Bullish cross in moving averages taking place.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9938324689865112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-17T17:44:31Z",
+        "content": "$LULU Showing phenomenal strength this week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988314509391785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-17T17:38:55Z",
+        "content": "$NVDA I don\u2019t blame people for selling off the report, but know your end game. Long-term this is still far and away one of the best to own. Bullish",
+        "sentiment": {
+            "TextBlob": 0.32499999999999996,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7360054850578308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-15T16:44:17Z",
+        "content": "$LMT now positive. Showing some nice relative strength!",
+        "sentiment": {
+            "TextBlob": 0.27575757575757576,
+            "NLTK": 0.8718,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998388290405273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-15T16:41:53Z",
+        "content": "$BA down at its 200-Day Moving Average for the 1st Time since 2015.",
+        "sentiment": {
+            "TextBlob": -0.1527777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995086193084717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-07T18:44:05Z",
+        "content": "Now that the IPOs from earlier this year have settled, I'm getting into $DOCU and $ZUO. Best in class stocks with great upside from here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852220416069031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-06T20:19:11Z",
+        "content": "$HEAR What a quarter!! The Fortnite effect is too real LOL",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.627,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994544386863708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-06T19:31:19Z",
+        "content": "$DIS Technically speaking I love where this is at heading into earnings. I think ATH is coming sooner than later. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952379465103149
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-02T22:09:25Z",
+        "content": "$SQ Hilaruius that this was trading lower in the pre-market. It was an excellent quarter and we should see ATH next week (if not tomorrow).",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9777268767356873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-02T20:13:51Z",
+        "content": "$TTWO Zelnick: \"First quarter operating results that exceeded our expectations.\" and \"We are increasing our operating outlook for FY2019.\" Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8580933213233948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-02T18:33:44Z",
+        "content": "$TTWO Just a reminder/heads up about earnings today - they basically always halt the stock prior to the earnings release. Not unusual.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992802739143372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-02T17:41:29Z",
+        "content": "$RCL CEO Richard Fain coming up on CNBC in 10 minutes (1:50 ET).",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9697208404541016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-02T16:17:57Z",
+        "content": "$TTWO I think Red Dead Redemption 2 will be revolutionary. Online mode should surpass GTA in all metrics and it\u2019s not priced into stock.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9932089447975159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-02T16:13:33Z",
+        "content": "$TTWO Interested to hear what Zelnick has to say about Grand Theft Auto active users, the new Red Dead Redemption, and any Fortnite concerns",
+        "sentiment": {
+            "TextBlob": 0.09217171717171717,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8570857048034668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-08-01T19:03:06Z",
+        "content": "$TSLA I\u2019ve never been more excited for a conference call. This is going to be epic! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": -0.3705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9586923718452454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-31T19:12:09Z",
+        "content": "@howardlindzon Rockin' and rollin' with $UNP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9441877603530884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-31T18:19:24Z",
+        "content": "$AAPL Is this the biggest earnings in a while merely based on broader implications with FAANG & the NASDAQ? Might need to be a leader...",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981942772865295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-30T22:47:03Z",
+        "content": "\u201cGuess who\u2019s back, back again!\u201d\n\n$CMG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962544441223145
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-30T20:43:46Z",
+        "content": "$CAT This shouldn\u2019t be down below 145. The outlook they gave on the call was promising & profits nearly doubled. I\u2019d be looking to add here. Bullish",
+        "sentiment": {
+            "TextBlob": 0.04814814814814814,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.745163083076477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-30T01:01:07Z",
+        "content": "@VoxGeorge Fair point. $TSLA will have its usual fireworks & $CAT will be very interesting in regards to tariffs and broader market effects.",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.6478,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957079887390137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-30T00:28:05Z",
+        "content": "Some of the key earnings I\u2019ll be watching this week are $AAPL, $CAT, $TSLA, $SQ & $TTWO. \n\nWhich companies are you looking forward to most?",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9402740597724915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-26T22:07:33Z",
+        "content": "Key earnings in the morning: $TWTR.P, $CVX, and $XOM. Twitter already discussed deleting users so growth there probably not the key metric.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5214,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995713829994202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-26T22:05:58Z",
+        "content": "$AMZN reported strong numbers and investors weren\u2019t too bothered by the lower than expected guidance. Good overall support for tech stocks.",
+        "sentiment": {
+            "TextBlob": 0.2583333333333333,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9961925745010376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-26T19:57:55Z",
+        "content": "$AMZN Shooting down near LOD into the close",
+        "sentiment": {
+            "TextBlob": -0.02777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985485672950745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "blichtor",
+        "timestamp": "2018-07-26T19:43:10Z",
+        "content": "$AMZN Expecting good numbers in terms of Prime membership and AWS growth, but the stock is priced for perfection. Grab your popcorn!",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.8439,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992541670799255
+            }
+        },
+        "image_url": ""
+    }
+]

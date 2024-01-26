@@ -1,0 +1,240 @@
+[
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-09-16T02:58:05Z",
+        "content": "$AAPL suppliers",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819596409797668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-08-25T20:10:16Z",
+        "content": "$SMPL Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993104934692383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-08-05T02:24:53Z",
+        "content": "$MDLA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9657599329948425
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-08-01T00:05:31Z",
+        "content": "$UUP  SEEN & NOTED------->  THE BUCKAROOO BONZAI !!    Busting out to a new 52 week high.",
+        "sentiment": {
+            "TextBlob": 0.1481818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957905411720276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-07-30T01:56:25Z",
+        "content": "SEEN & NOTED---> set-up in IoT chip maker $DIOD",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978467226028442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-07-22T00:35:46Z",
+        "content": "$FSLY poised to PoP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964138865470886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-07-22T00:33:34Z",
+        "content": "$FSLY is setting up for a b/o",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.501689076423645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-07-14T21:05:23Z",
+        "content": "$ESTC MoJo risin' Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964338541030884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-07-08T00:05:52Z",
+        "content": "$CRWD liking the set-up before the ER on July18th",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9758185148239136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-07-04T20:33:13Z",
+        "content": "$ARVN looking for a break abover 25.19 w/ vol. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984809756278992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-07-01T04:48:55Z",
+        "content": "$FBM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902617335319519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-06-26T16:36:33Z",
+        "content": "FWIW----->  FinTech.Blockchain related tickers >+ 4%. Pardon the pink sheets and, yeah, HIVE. $RIOT,$MGI,$AMD,$GBTC",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992135763168335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-06-24T00:03:15Z",
+        "content": "TABLE w/Rankings... $WKHS,$GBTC,$ARQL,$AXNX,$RFL,$SE,$VYGR,$QURE,$KOD,$ZLAB,$TPTX,$TUFN$WKHS,$GBTC,$ARQL,$AXNX,$RFL,$SE,$VYGR,$QURE,$KOD,$ZLAB,$TPTX,$TUFN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964689016342163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-06-24T00:01:25Z",
+        "content": "A few of the MoMo w/MoJo charts on watching: $WKHS,$GBTC,$ARQL,$AXNX,$RFL,$SE,$VYGR,$QURE,$KOD,$ZLAB,$TPTX,$TUFN",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972357153892517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-03-29T14:29:29Z",
+        "content": "$VKTX seekingalpha.com/news/34459...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930524230003357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-01-07T03:20:48Z",
+        "content": "$ELOS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9546592235565186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Geo8888",
+        "timestamp": "2019-01-01T00:34:08Z",
+        "content": "$THOR modernreaders.com/news/2018...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9753545522689819
+            }
+        },
+        "image_url": ""
+    }
+]

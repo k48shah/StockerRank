@@ -1,0 +1,2340 @@
+[
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2020-05-27T14:46:50Z",
+        "content": "$MARK - SeaWorld \ud83d\udc0b presenting now, Disney is next \n\nyoutube.com/watch?v=W1fF7W0...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889842867851257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2020-05-27T13:04:01Z",
+        "content": "$MARK - Disney to announce its plans at 11am EST time on CNBC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965975880622864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2019-07-15T18:41:37Z",
+        "content": "$FCEL - sec.gov/Archives/edgar/data... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994674563407898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-12T17:26:32Z",
+        "content": "$RSLS this has caught many a bagholder (this isn\u2019t the first time) so don\u2019t get stuck with it. But don\u2019t sell into weakness.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": -0.6522,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958080053329468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-12T17:24:22Z",
+        "content": "$RSLS it\u2019s lunch. And ALOT of people bought this after the first halt (over 4$) if you got in at 3$ or below, check your FOMO and sell at PH Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99111407995224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-12T16:41:32Z",
+        "content": "$GLBS selling my last lot at 13$ - hoping this will happen today w/ a nice one stock per day for the rest of the week \u270a\ud83c\udffe",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9747411608695984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-12T16:34:56Z",
+        "content": "$RSLS IN AT 2.70 \ud83d\ude80 let\u2019s race back to the HOD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917463064193726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-09T16:57:38Z",
+        "content": "$PXS appreciate that sale hopped in at 2.08$ now my shipfolio is: $GLBS $PSHG $TOPS $GSL $PXS \ud83d\ude80\ud83d\ude80\ud83d\ude80 #sheready \ud83d\ude06 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937251210212708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T22:15:10Z",
+        "content": "$TOPS my experience... AH on these are fake outs.... save your energy for PM, & let these \ud83d\udc3b shrivel silently Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995471835136414
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T16:12:52Z",
+        "content": "$GSL it\u2019s lunch y\u2019all. This is the low volume point of the day. Don\u2019t let lunch stress you \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f\ud83d\ude02 eat a snickers - price is stable here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869692325592041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T16:09:16Z",
+        "content": "@8thwaste it actually only needs about 15\u00a2, $PXS is at 17% and $GSL is at 13% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990241527557373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T15:58:57Z",
+        "content": "@kenkenh there\u2019s always several possibilities. I swung all mine based on 9/1 charts &my experience. Didn\u2019t select $EDRY but watching \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952632188796997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T15:55:13Z",
+        "content": "@Cajunasbobbyboucher I didn\u2019t do $DRYS $SINO $PXS or $ESEA this year. I picked my starting 5, I may grab a few as I sell off. I only do 5",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964626431465149
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T15:52:00Z",
+        "content": "$TOPS be patient! There\u2019s typically one leader per day thru shippers season, $GLBS and $GSL seem to be 1 & 2 now, that\u2019s ok. Hold and watch. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666669,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9079563617706299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T15:42:58Z",
+        "content": "@angela_marie good call. It\u2019s gonna feel flat from 1.08 to 1.15, but after.... \u2708\ufe0f\u2708\ufe0f\u2708\ufe0f\u2708\ufe0f $GSL Bullish",
+        "sentiment": {
+            "TextBlob": 0.33749999999999997,
+            "NLTK": 0.2382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994558691978455
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T15:31:21Z",
+        "content": "$GSL anyone looking to get in ($GLBS sympathy) - this is still a solid entry under 1.10 - nice consolation at this level - expect 2$ PT Fri Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9133971929550171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T15:22:59Z",
+        "content": "My shippers are $GSL $SHIP $GLBS $TOPS $PSHG - sold some $GLBS today... PTs at at 3xs, 4.5xs & 5.75xs the average lot price. \ud83e\udd11 adj for MOMO Bullish",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996997594833374
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T14:45:44Z",
+        "content": "$PXS $TOPS $PSHG $GLBS I do recall. Got DCIX on a Thursday AH at 4.50, sold that AM at 19 \ud83e\udd11 \ud83e\udd13",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930508136749268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T14:30:07Z",
+        "content": "$TLRY y\u2019all still backing this shit show or nah? 50$ by end of quarter....",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.6757,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991247057914734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-11-01T14:01:33Z",
+        "content": "$GLBS - first sale \ud83e\udd11 in at .37 out at 10.38 - next set aiming at 14! \u2708\ufe0f\u2708\ufe0f\u2708\ufe0f\u2708\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998967170715332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-10-18T13:47:36Z",
+        "content": "$CYTO I\u2019ll be back round .69 to .81 \ud83d\ude0e #predictable Bearish",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987086057662964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-10-15T13:41:52Z",
+        "content": "$GLBS the value is here with this company. It\u2019s a pre- shippers week snack. Taste and enjoy y\u2019all. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972493052482605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T19:53:53Z",
+        "content": "$TLRY exactly how I feel! I hope it lands in OTC at subpenny!",
+        "sentiment": {
+            "TextBlob": 0.390625,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5836042165756226
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T19:50:30Z",
+        "content": "@jaydogg17 that too... I had so many options today! For 1 share of garbage $TLRY a real trader could\u2019ve made 30-40% today \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f #notsorry Bearish",
+        "sentiment": {
+            "TextBlob": 0.4125,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976931214332581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T19:48:23Z",
+        "content": "$TLRY scary thing is.... so many stocks gave great gains today $MYSZ $ALTO $JXJT $UPL $TOPS \ud83d\udde3 Stop failing for Retail lies - learn to trade Bearish",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": -0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9709413647651672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T19:46:26Z",
+        "content": "$TLRY aka #tulips \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937382936477661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T19:43:59Z",
+        "content": "$TLRY exactly! Did they even read the IPO \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991269707679749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T19:42:43Z",
+        "content": "$TLRY whelp \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911521077156067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T01:24:15Z",
+        "content": "$TLRY this is why it looks criminal to me (VC Law summary Link) \ud83d\udc49\ud83c\udffe justia.com/banking-finance/...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988671541213989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T01:16:11Z",
+        "content": "$TLRY the more research I do, the more it seems probably that this was a game from THE START \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f noobs do you DD please Bearish",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978622794151306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T01:13:51Z",
+        "content": "$TLRY \u2620\ufe0f  I hope someone who invested late or stayed in sees this, I\u2019m not a heavy poster - if the CEO is what i think, he should go to jail Bearish",
+        "sentiment": {
+            "TextBlob": -0.09999999999999999,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994341731071472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T01:08:03Z",
+        "content": "$TLRY I\u2019ve been a noob before - I remember \u201cfalling\u201d for things... I also still appreciate the logical people posting caution w/ info \u270a\ud83c\udffe",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9978158473968506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T01:00:34Z",
+        "content": "$TLRY so exciting right! *birdman hand rub*",
+        "sentiment": {
+            "TextBlob": 0.3285714285714285,
+            "NLTK": 0.7897,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994589686393738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:56:27Z",
+        "content": "@hkam ethically, VC mgmt have arms length dealings, the clear violation is sus. Leafly is a publication, which would validate the pump $TLRY Bearish",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889695644378662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:53:59Z",
+        "content": "$TLRY maybe I\u2019m a conspiracy theorist... however, Im trying to make sure all yall noobs don\u2019t get totally swallowed. Was shady now fraudy",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970439076423645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:50:41Z",
+        "content": "$TLRY OMG more news... Privateer has only invested in 1 company (Brendan\u2019s), & acquired another (Leafly), oh, and they are fully exited",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991320967674255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:45:45Z",
+        "content": "@ninanina65 you get to watch the $TLRY purge with me... in the safe sane seats \ud83d\udcba\ud83d\udcba I\u2019ll even bring bubbles",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9742023348808289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:44:06Z",
+        "content": "$TLRY CEO is Brendan Kennedy - he\u2019s also 1/3 founder of Privateer Holding\u2019s (the PE firm that Thiel invests in) - come se dice #EnronSketch Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9573608040809631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:40:27Z",
+        "content": "$TLRY bwahahahahaha \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 *goes to google* yooo, this CANT be this ENTERTAINING",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9943944215774536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:39:25Z",
+        "content": "$TLRY and play of the day goes too...... \ud83e\udd41\ud83e\udd41\ud83e\udd41\ud83e\udd41\ud83e\udd41\ud83e\udd41\ud83e\udd41\ud83e\udd41\ud83e\udd41\ud83e\udd41",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992460310459137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:30:08Z",
+        "content": "$TLRY BEST COMMENT I SEEN ALL DAY - yes sports fan, this is just irrational",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8192,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998755693435669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:24:15Z",
+        "content": "$TLRY @fidycent me, crying? Oh, a bit of a drama queen aren\u2019t you... \ud83d\ude02 I haven\u2019t been this amused since $HMNY Bearish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0387,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887989163398743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-20T00:15:07Z",
+        "content": "$TLRY \ud83d\udde3Fact Check: Thiel\u2019s fund owns 76% stake (investment was under 7M) - again no dog in this fight, i just wanna share info",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869094491004944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T23:53:36Z",
+        "content": "@Rum_Bull @Canuckforever as a canna enthusiast I wanted to see something that matched my B.IQ; I have NOT, & yup #shadyAF $TLRY Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9743450284004211
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T23:50:21Z",
+        "content": "@Catherine9999 no need to short right away... spidery senses say $TLRY will be halted again in the days to come \ud83d\ude08 #betterthantv Bearish",
+        "sentiment": {
+            "TextBlob": 0.14285714285714285,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923519492149353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T23:43:21Z",
+        "content": "@decoylb1 so what you think $TLRY has to secure these funds sir? \ud83d\ude02 I made my first real bag in bio $PBYI and what is that at YoY #illwait\ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.2833333333333334,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983886480331421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T23:37:33Z",
+        "content": "$TLRY lets just do a comparison here sports fans $GWPH an ESTABLISHED canna stock is trading @ $153 \ud83e\uddd0 why are u buying at $AAPL prices \ud83e\udd2f Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985675811767578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T23:21:57Z",
+        "content": "@Derrel949 $TLRY I expect the same... no dog in this fight (it was too high IMHO @ 50$) *grabs popcorn and waits* Bearish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993523359298706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T20:11:49Z",
+        "content": "$TLRY $PSHG $TOPS $GLBS $DRYS $PXS ok... that TLRY line = COMEDY lmao",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.7983,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960973858833313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T20:10:39Z",
+        "content": "$TOPS as a low float, understand that being in now places you well for #shippersweek <5$ with a hold to Oct gives this an easy $30 pt by Nov Bullish",
+        "sentiment": {
+            "TextBlob": 0.21666666666666667,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956240057945251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-09-19T19:22:04Z",
+        "content": "$TLRY just watching for now. Looking for the short tho. I can\u2019t see any guidance support here. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982759952545166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-30T19:53:02Z",
+        "content": "$THMO in at a small piece. Thinking this will continue Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987794756889343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-27T20:14:35Z",
+        "content": "$UPL 30% in 2 weeks - #solidswings \u270a\ud83c\udffe anyone new reading this.... \ud83d\udde3 You have got to learn to READ THE CHART Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982801675796509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-27T20:10:24Z",
+        "content": "$PVTL I love it when a recent swing behaves as expected \u270a\ud83c\udffe",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5603878498077393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-21T17:27:35Z",
+        "content": "$AMPE again I say #fuckem \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987008571624756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-21T13:56:49Z",
+        "content": "$AMPE it wasn\u2019t entertaining but it was easy.",
+        "sentiment": {
+            "TextBlob": 0.4666666666666667,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.99437415599823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-17T19:57:17Z",
+        "content": "$IZEA I like it here. Buy at 1.48 see y\u2019all next week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9600965976715088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-16T19:18:04Z",
+        "content": "$SAVA because there\u2019s lessons everywhere.... lost a hundred on this small hold.... you must have AH and PM access for these stocks",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997954964637756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-16T18:11:37Z",
+        "content": "$UPL finally! \u2708\ufe0f\u2708\ufe0f\u2708\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996550440788269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-16T02:00:44Z",
+        "content": "$LMFA watched and waited.... \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f #batsbrezzyonback \ud83d\udde3NOW DO IT EVERYDAY YOURE A TRADER SUCCESSFUL TRADES ARE ALL TRADERS DO #stayhumble",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.6739,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9832779765129089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-16T01:37:48Z",
+        "content": "$SAVA I mean... when I see what I see I see what I see.... s/o to the mid-day dip buyers who held thru.... you the real MVP Bullish",
+        "sentiment": {
+            "TextBlob": -0.056249999999999994,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6317775845527649
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-16T00:00:37Z",
+        "content": "$SAVA I held this overnight because I won\u2019t play this ticker again (personal rule) -  I scalped MAJOR \ud83e\udd11 & since vol never stopped \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.4707,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9425218105316162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-15T23:57:47Z",
+        "content": "Watchlist 8/16 - $LMFA (I\u2019m in at .46) $STAF (today was a fake out, hope u didn\u2019t buy) $AMPE (still waiting) $HYREQ (needs vol) $FTFT $TENX Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992470741271973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-15T19:20:26Z",
+        "content": "$LMFA keep close stops! It\u2019s better to lose the cost of trading again than hold these bags",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.1759,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995997548103333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-15T19:19:36Z",
+        "content": "$LMFA please don\u2019t let AH and Premarket runs trick you with these low floaters. Like I said I fell for this once too. \ud83d\ude02\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9885949492454529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-15T19:17:15Z",
+        "content": "Now.... I will buy some $LMFA take it off y\u2019all hands \ud83d\ude18 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989786148071289
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-15T14:47:44Z",
+        "content": "$SAVA damn today was a good day 1.43 to 1.83 \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 Bout to go get my nails done. Y\u2019all have fun. \ud83d\ude18 Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5423,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994938850402832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T21:12:47Z",
+        "content": "$DPW that was such an asshole move I have to think it\u2019s Bullish.... \ud83e\udd14 Ault wins \ud83d\ude02 Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980382323265076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T20:46:54Z",
+        "content": "$LMFA not willing to jump in this AH but absolutely on my watchlist for tomorrow. \ud83d\udd25 when not LMFAO at me.... I love this stock. Scalp city Bullish",
+        "sentiment": {
+            "TextBlob": 0.19166666666666665,
+            "NLTK": 0.2985,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.993421733379364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T20:43:03Z",
+        "content": "$EGO got stopped out while setting up tomorrow\u2019s plays #GLTA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992327690124512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T20:41:29Z",
+        "content": "$DPW biggest issue the rest of this week will be volume. Protect your position in the meantime. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981118440628052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T20:32:52Z",
+        "content": "$PVTL took a while to make a call on this ticker, but in now #Long \ud83d\udd2e Adding this to my #HODL portfolio \ud83d\ude02 yup that\u2019s what I named it. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985583424568176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T19:51:43Z",
+        "content": "$ICON was watching this one for volume the last week. I\u2019m in now. \u2708\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974410533905029
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T18:54:01Z",
+        "content": "$INPX talk about long waits..... I think this will continue into AH \ud83d\udd2e Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949526786804199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T17:47:50Z",
+        "content": "$EGO small position here. I like the chart Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975361824035645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T17:45:46Z",
+        "content": "Still positive on my $AMPE position and the volume means volatility (it goes both ways people) I need to see it close at .48\u00a2 or higher Bullish",
+        "sentiment": {
+            "TextBlob": 0.23863636363636365,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7280871272087097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-14T17:43:40Z",
+        "content": "Fugly midday.... but I like $DPW with its news and ER today. Taking small position here Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.5023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9490897059440613
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T20:56:05Z",
+        "content": "$GLBS I like the chart here. The gains have been coming all week. I\u2019ve scalped and held a position here since Monday. \ud83c\udfaf PT .73 by Tuesday Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9820220470428467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T20:52:57Z",
+        "content": "$AMPE it didn\u2019t close at .53 but AH at .54 counts. \u2708\ufe0f\u2708\ufe0f\u2708\ufe0f\u2708\ufe0f not yet a rocket.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981458187103271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T20:21:48Z",
+        "content": "$RSLS $NVCN $INPX $SGYP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950737357139587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T19:54:39Z",
+        "content": "$AMPE same advice \u270a\ud83c\udffe",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879294633865356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T19:52:59Z",
+        "content": "$GLBS a shipper that\u2019s gaining organically. And it\u2019s not even October \ud83e\udd11 Set your stops and ride the wave \u270a\ud83c\udffe Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8958947062492371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T19:45:56Z",
+        "content": "All Green positions today $AMPE $GLBS $WATT $NVAX $NOG $XXII Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977631568908691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T19:40:08Z",
+        "content": "$AMPE shifters are working overtime to stay alive \ud83d\ude02 it\u2019s actually cute Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9212146401405334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T19:37:52Z",
+        "content": "$GLBS today was nice but I see .72 print by Monday \ud83e\udd11 Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979088306427002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T19:33:46Z",
+        "content": "$NOG buying more here Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992213249206543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2018-08-09T19:29:46Z",
+        "content": "$AMPE solid into PH - I see a continuation play here. In at .35 holding till tomorrow. Expecting it to close @ .53 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933854937553406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-08T02:15:43Z",
+        "content": "@Zoooma yes. Thanks for pointing out the ticker that was $CWIR",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.681768536567688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-07T15:05:12Z",
+        "content": "$TOPS Im gonna but a golden retriever and name him TOPS \ud83d\ude0d\ud83e\udd11 #shipitbaby Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7615,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944151639938354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T20:19:48Z",
+        "content": "$BONT with volume #powerhour \ud83d\udcb0 known runner Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967179894447327
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T19:05:15Z",
+        "content": "$PLUG will run past the 3.12 resistance when 3.10 prints Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994887113571167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T18:51:48Z",
+        "content": "$PLUG on the scanners. NHOD \ud83e\udd11 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991700649261475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T18:13:04Z",
+        "content": "$PLUG prepped to test new 52 week high Bullish",
+        "sentiment": {
+            "TextBlob": 0.1481818181818182,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990767240524292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T17:23:26Z",
+        "content": "$TOPS hold about 1.57 will force shorters out. Buy the dip. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935653805732727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T17:22:04Z",
+        "content": "$TOPS active shorters at 1.53, hold 1.57 and should push to HOD Bullish",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897288084030151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T16:44:25Z",
+        "content": "$RLOG still has volume with .5 looking like the support. Small gap to .56 psyche Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952501058578491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-06T16:34:41Z",
+        "content": "Busy morning for #Shippers \ud83e\udd11 $RLOG $PSHG $TOPs \ud83d\ude80\ud83d\ude80 Man that was fun. I think there\u2019s more in those thanks too Bullish",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.7553,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9530367851257324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-04T02:04:00Z",
+        "content": "@sunburntbull have you traded the shippers before? Where do u think that 52 week high cane from? Have u seen $DRYS $PSHG ?  @Yeezy is right Bullish",
+        "sentiment": {
+            "TextBlob": 0.22285714285714286,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977454543113708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T21:54:13Z",
+        "content": "@Sarron7 I watch for volume. I got in $PSHG Today at 7.8 and again at 10.7 - I\u2019d rather be slightly late at vwap than bag holding. Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827669858932495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T20:40:55Z",
+        "content": "@edmarts it sure does! Learn your shippers $PSHG $DRYS $RLOG $TOPS",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6929641366004944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T20:33:26Z",
+        "content": "$TOPS R/S \ud83e\udd11 apparently the #shippers are gonna feed the team Monday too $PSHG $DRYS $RLOG $SINO",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993106126785278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T19:49:50Z",
+        "content": "Great vwap play for $PSHG #shippers \ud83e\udd11 $DRYS $TOPS $RLOG $SINO Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9444190859794617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T19:16:32Z",
+        "content": "It\u2019s a shippers day OBVIOUSLY. Going back in to $TOPS for .69 \ud83e\udd11 $PSHG $TOPS $RLOG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961246848106384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T18:35:37Z",
+        "content": "I can\u2019t see $TOPS tanking as long as $PSHG holds that 12$ support #sympathy #shipper Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987291693687439
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T18:05:37Z",
+        "content": "$TOPS if you\u2019re in under .81 (vwap) I think you\u2019re good.... have faith in your trade and your chart! #mytwocents Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9321557879447937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T18:04:21Z",
+        "content": "$TOPS all out .55 to 1.18 #print and \u2708\ufe0f Good luck y\u2019all. I wanted that 1.30 but it hit the wall hard. Bullish",
+        "sentiment": {
+            "TextBlob": 0.20416666666666664,
+            "NLTK": 0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99860018491745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T17:49:10Z",
+        "content": "All this winning, I\u2019m GREEN AF in $RLOG $TOPS $PSHG and $SINO #firstalerts with the squad #tradesocially Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875059127807617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T17:42:50Z",
+        "content": "And here comes $TOPS \ud83d\ude0e hey @CamTheMan_ fish sandwich on me! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961357116699219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T17:41:40Z",
+        "content": "Rode $PSHG one more time, glad I did, but I\u2019m out today. Up 79% on said trade \ud83d\ude1c good luck those still in it. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.8747,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5239117741584778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T17:20:34Z",
+        "content": "$PSHG makes me feel better than my pre fda $PYBI #gainsbrogains",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9785077571868896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T16:59:32Z",
+        "content": "$PSHG yup I came back... glad I did. I think it\u2019ll hit that 20$ print Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945489764213562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T16:10:32Z",
+        "content": "$PSHG caught my first #shipper scalp, 10 min $100 \ud83d\udcb0 #printthat my nerves can\u2019t handle it lol",
+        "sentiment": {
+            "TextBlob": 0.525,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985073208808899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T15:19:55Z",
+        "content": "$DRRX that .94 wall was smacked hard. If crosses it should shoot out.",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995266199111938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-03T15:16:33Z",
+        "content": "Midday check in: green so far $DRRX $INFI $PHIO $IMNN $GROW \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0 Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964486360549927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T20:35:16Z",
+        "content": "To everyone who caught that $AAPL sale recently.... \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830989241600037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:57:18Z",
+        "content": "$CRDF a rebound to open is fine... we all know this company sucks a news management.",
+        "sentiment": {
+            "TextBlob": 0.038888888888888896,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9623327255249023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:56:06Z",
+        "content": "$CRDF this low volume is why I\u2019m still here. Above .70 EOD there\u2019s a room... but I\u2019m out tomorrow. Only so much time to give",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.1406,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971433281898499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:50:25Z",
+        "content": "$CMLS fuckit... I got a spare hundo, let\u2019s see you at .345",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989093542098999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:47:44Z",
+        "content": "$RNVA has a great trade with you last week, I think you might have a good scalp in you w/in the next few days Bullish",
+        "sentiment": {
+            "TextBlob": 0.26,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830133318901062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:46:28Z",
+        "content": "$CMLS just got here.... something coming from you... I can feel it. \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f just spectating currently \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9469455480575562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:42:55Z",
+        "content": "$BIOA strong build, I\u2019m swinging you longer. Close at .56 - and AH to .575 #predictions Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9899439811706543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:41:04Z",
+        "content": "$BIOA theres my lovely loyal friend, can I hang with you tomorrow at say \ud83e\udd14 .65\u00a2 - I missed you \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0 Bullish",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915384650230408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:38:43Z",
+        "content": "$BONT good job y\u2019all... watch for those shorters....",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9666954278945923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T19:37:24Z",
+        "content": "Slow market today, but for the pessimist in the room $TVIX and $UVXY look good right now Bullish",
+        "sentiment": {
+            "TextBlob": 0.22857142857142854,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9019550681114197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-02T06:39:06Z",
+        "content": "@mcnabj I ran $YVR 2xs today & $ICON 3xs, I set SL & let my chart reading do the work. So, I made 267$ and lost maybe 3 - 5 dollars.\ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997081160545349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T21:02:41Z",
+        "content": "$IMDZ I like the stock, but management decisions lately have me weary. I decided to wait till mkt tomorrow",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993332028388977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T20:48:00Z",
+        "content": "$CRDF lack of news is fine! Let the slow build, PM & opening vol give u your direction. Best way to hit maximum gains #mytwocents \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.4069444444444444,
+            "NLTK": 0.75,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967820644378662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T19:20:00Z",
+        "content": "$ICON $SRAX $WPRT $ICON $XNET $CALI $LINU $YVR $XXII \ud83d\udcb0 today was def a squad win \ud83c\udfc6 all first alerts and watchlist wins #tradesocially",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9843346476554871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T18:58:02Z",
+        "content": "$BIOA in for some spare change. I think she ready for .56 to .60 print by Friday",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984208345413208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T18:54:37Z",
+        "content": "$BONT I\u2019ll buy at 64\u00a2 and not a moment before w/o news or SERIOUS volume for a scalp. I just don\u2019t believe guys \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f Bearish",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.2577,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978010058403015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T18:48:30Z",
+        "content": "$CRDF \ud83e\udd14 I actually see the advantage of PR on this either AH or PM tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957242012023926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T17:17:44Z",
+        "content": "$CRDF ++ NEWS \u2014 patent granted Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949719905853271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:58:23Z",
+        "content": "@newguy11 @Hardworkingfather $BONT .05 is a 7% loss, I say buy more for .70 (if u can) or sell and buy back in (if u believe) never baghold",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997249245643616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:52:55Z",
+        "content": "Seriously, I\u2019m not a shorter, so that\u2019s not my go to, but I do learn from the shorters in the room and \u201cdon\u2019t short weakness\u201d $YVR Bullish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": -0.09,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9782803058624268
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:49:34Z",
+        "content": "If @osirustwits wont short it, it ain\u2019t shortable \ud83d\ude02 #wearenotretail \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f\ud83d\ude0e $YVR Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954861998558044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:47:55Z",
+        "content": "@mcnabj & I would argue that $YVR with the ascending chart I see, is a dangerous short. In fact I expect it to close within 15\u00a2 of HOD +|- Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995737671852112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:30:24Z",
+        "content": "Both of these have great trends when u know where u want in and out, and place those stops! $YVR $ICON",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9934895038604736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:29:37Z",
+        "content": "#Mytwocents \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f on a day play like $YVR and $ICON always be prepared to buy at least one dip. And know your trade.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871978163719177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:27:39Z",
+        "content": "And there goes $YVR \u274c it\u2019s a known slider. It may pick up, but I\u2019d watch closely for volume.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9798417091369629
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T16:06:39Z",
+        "content": "Moving into lunch $ICON and $YVR still holding green with great positioning to push HOD\u2019s again #mytwocents \ud83d\ude0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.30000000000000004,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9633580446243286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T15:50:55Z",
+        "content": "And just like that HOD pushed \u2708\ufe0f $ICON \ud83d\udcb0 chart legs still look great with solid positioning under 2.05$ Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982219338417053
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T15:41:08Z",
+        "content": "$ICON prepped to push HOD \ud83d\udcb0 chart is ascending nicely Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966789484024048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T15:40:05Z",
+        "content": "$EVHC rebounding after a hard day. Great long hold at days range",
+        "sentiment": {
+            "TextBlob": 0.15277777777777776,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966238737106323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T15:06:52Z",
+        "content": "$AVGR resistance setting in for .34\u00a2 \u25aa\ufe0f if interested in today, wait for vol push above that #mytwocents \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970121383666992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T14:19:41Z",
+        "content": "$CYTR approaching good in point just below 2$ #dontbuythenews #sellthenews Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950183629989624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T14:18:17Z",
+        "content": "For $BIOA fans, current mark looks good for a swing... Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9424976706504822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T14:14:54Z",
+        "content": "$DCAR on scanners with Volume and HOD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950718283653259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T13:50:11Z",
+        "content": "$CYTR is a good play with the news. But not at that pace \ud83c\udfc3\ud83c\udffd\u200d\u2640\ufe0f wait for $1.92-$1.97 \u231b\ufe0f or at least for the 30min candle mark #tradesmarter Bullish",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.3919,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9886981844902039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T13:46:02Z",
+        "content": "Volume leaders on #WL today at the 15 min \ud83d\udece $POAI $IBN $NIHD $HMNY $MNGA $ADMS $AVGR \ud83d\udcb0 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978819489479065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T13:08:53Z",
+        "content": "Pre-market gains in #Banking \ud83d\udcb5 $IBN looking bullish to the gate Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846413731575012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-11-01T12:54:44Z",
+        "content": "\u202aUnder one hour till the bell \ud83d\udece Today\u2019s #WL $HMNY $MVES $AVGR $GNMX $VBIV $IMDZ $FAT $BGFV $CYTR $ICPT $EL \u202c",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978312849998474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T21:03:05Z",
+        "content": "$VMCI was the #OTCSubpenny champ w/ over 700% gains on the day. \ud83d\ude4c\ud83c\udffe\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9385596513748169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T21:00:45Z",
+        "content": "Today was a good look for #OTC market top of my watchlist going into tomorrow is: $QLGN $ATOS $DPW $BIOA $HUSA $INPX Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7554213404655457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T19:23:02Z",
+        "content": "$HMNY at HOD for powerhour, I think this can hold through till tomorrow. If so, I\u2019m in again. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982706308364868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T19:13:23Z",
+        "content": "$ATOS pushing HOD for powerhour Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953492283821106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T14:35:36Z",
+        "content": "$IPAS moving this morning w/ news ++++ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945862293243408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T14:04:54Z",
+        "content": "Last weeks bag holders should find light today $ASXC Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908855557441711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T14:03:46Z",
+        "content": "$ASXC moving nice this morning.... Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9690305590629578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T13:50:08Z",
+        "content": "$HMNY looking to bull today.... it\u2019s hard to give up on a stock that can swing so high so quick. The bull in me keeps this on my watchlist",
+        "sentiment": {
+            "TextBlob": 0.06722222222222221,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9982810020446777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-31T13:25:22Z",
+        "content": "Today\u2019s OTC #bullwatch $BIOA $MBVX $VXRT $CASI $ATOS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962105751037598
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-27T15:43:33Z",
+        "content": "$RNVA my prediction here, .57 HOD on 15 min volume spike. \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999365508556366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-27T13:29:11Z",
+        "content": "$DCAR HOD $1.76 \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f my prediction",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938044548034668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-27T13:28:16Z",
+        "content": "$17 HOD for $HMNY when it holds 12$ support on the 5 & 15 minute candle. \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973174929618835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-26T20:23:14Z",
+        "content": "$DCAR with huge volume today. Prime position for a swing",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992864727973938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-23T21:35:24Z",
+        "content": "$IMDZ just announced a 16M public offering streetinsider.com/dr/news.p...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985191226005554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-20T18:30:23Z",
+        "content": "Powerhour should be lovely for $INPX",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9707199931144714
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "ayo_brezzy",
+        "timestamp": "2017-10-20T17:38:22Z",
+        "content": "$WINS is getting delisted... halted as we speak. Placing bets on where this lands....",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994001388549805
+            }
+        },
+        "image_url": ""
+    }
+]

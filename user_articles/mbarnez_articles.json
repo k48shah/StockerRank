@@ -1,0 +1,3250 @@
+[
+    {
+        "username": "mbarnez",
+        "timestamp": "2018-06-12T13:20:37Z",
+        "content": "$TWTR.P HaHa",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891198873519897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2018-01-10T23:04:24Z",
+        "content": "$DUK killing me here! Why!? Anyone?!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7674,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994713664054871
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2018-01-10T19:20:36Z",
+        "content": "$KODK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969544410705566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2018-01-10T15:43:08Z",
+        "content": "$KODK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969544410705566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2018-01-05T14:38:56Z",
+        "content": "$DUK bottomed yet!?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988787770271301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-11-15T00:13:31Z",
+        "content": "$BTC.X HEYOOO!! #mgti",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764862656593323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-11-07T03:15:24Z",
+        "content": "$BTC.X  IS strong LIKE BULL!!\ud83e\udd89 Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.7974,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6879968643188477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-11-06T02:35:32Z",
+        "content": "$BTC.X 10k is coming! I can feel it in my pants! #mgti",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9407367706298828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-10-23T19:17:25Z",
+        "content": "$BTC.X LETS GO!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998273491859436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-10-18T02:26:09Z",
+        "content": "$BTC.X BEARISH LIES! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5893,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994364380836487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-10-15T17:36:36Z",
+        "content": "$BTC.X Sunday bull run? #stronglikebull Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956353306770325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-10-09T13:34:52Z",
+        "content": "#mgti $BTC.X ALL ABOARD! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2789,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986409544944763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-10-04T13:54:25Z",
+        "content": "$BTC.X Someone finally made Monopoly money REAL!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.15625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993816614151001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-06-23T15:53:07Z",
+        "content": "$DUK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99580317735672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2017-01-25T14:56:48Z",
+        "content": "$TWTR.P make America tweet again! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984984397888184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-12-16T14:51:01Z",
+        "content": "$DRYS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987605810165405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-10-19T22:09:37Z",
+        "content": "$MGTI Tiffany has given us an unprecedented case of blue balls! \ud83d\ude1c Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899851083755493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-10-06T15:34:09Z",
+        "content": "$MGTI I'm out, should've left long ago \ud83d\ude25 maybe try again another time",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995074272155762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-10-04T21:04:55Z",
+        "content": "$MGTI COME ON JOHN! DROP THE HAMMER LIKE COLE TRICKLE AN $HIT!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3129,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990842342376709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-10-04T14:53:47Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-10-03T17:58:47Z",
+        "content": "$TWTR.P Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973570108413696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-10-03T03:07:09Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-30T23:46:17Z",
+        "content": "$TWTR.P 25 easy AH. Helping my $MGTI position \ud83d\ude0e Bullish",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981042146682739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-29T19:02:23Z",
+        "content": "$MGTI it's time!!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9253290891647339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-29T18:56:52Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-29T03:05:32Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-27T17:41:01Z",
+        "content": "$MGTI hope they weren't in New York to film an episode of shark tank \ud83d\ude1c Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966277480125427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-27T14:06:42Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-27T02:12:29Z",
+        "content": "$MGTI 400 fu$king pounds! Lmao Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.636,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983002543449402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-27T02:07:36Z",
+        "content": "$MGTI \"cyber warfare\" mentioned in debate! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989239573478699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-26T18:26:58Z",
+        "content": "$TWTR.P Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973570108413696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-26T18:26:46Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-21T19:21:23Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-21T18:03:27Z",
+        "content": "$MGTI no rate hike Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9755637049674988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-21T14:08:43Z",
+        "content": "$MGTI mommy poured me extra sugar in the Kool aid!!! Me happy boy! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7067,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909377098083496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-21T02:14:10Z",
+        "content": "$MGTI hope this doesn't end like chasing Forrest Gump across the states did ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1999,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980452060699463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-19T13:28:50Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-19T01:28:27Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-15T23:41:59Z",
+        "content": "$MGTI EIJAH!! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988872408866882
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-15T19:47:47Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-15T14:16:57Z",
+        "content": "$MGTI gimme tree fiddy!!!? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967870712280273
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-14T12:58:39Z",
+        "content": "$MGTI yeeeeah boooyeee! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975824356079102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-09T18:50:52Z",
+        "content": "$MGTI cup and handle on the daily? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983464479446411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-09T12:46:49Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-08T15:26:57Z",
+        "content": "$MGTI GOOO!? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993926286697388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-08T13:34:14Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-07T19:56:23Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-06T22:58:11Z",
+        "content": "$MGTI pronounced Eijah for all the noobs",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955227375030518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-02T20:41:23Z",
+        "content": "$MGTI I'm seeing 3.49 AH Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979852437973022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-09-01T21:22:08Z",
+        "content": "$MGTI just called in my vote ?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994701743125916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-24T17:57:09Z",
+        "content": "'I FINK U FREEKY' by DIE ANTWOORD (Official) - YouTube $MGTI #mgt #BULLISH youtube.com/watch?v=8Uee_mc...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6841,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997535228729248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-24T15:10:17Z",
+        "content": "$MGTI BOOM SHAKALAKA!!!! Lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6083,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960991144180298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-24T15:03:35Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-23T16:47:54Z",
+        "content": "$MGTI Eijah interview release today? Anyone know a link? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995138645172119
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-22T14:01:13Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-19T18:18:13Z",
+        "content": "$MGTI HEEYOOO!! ???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969745874404907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-19T18:10:21Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-19T14:48:35Z",
+        "content": "$MGTI Sept 8th, sideways till then imo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969906806945801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-15T17:46:42Z",
+        "content": "$TWTR.P Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973570108413696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-15T15:16:21Z",
+        "content": "$MGTI sold my dog to buy more Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987829327583313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-12T12:48:00Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-11T13:37:43Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-10T23:18:05Z",
+        "content": "$MGTI lmao",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985209047794342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-10T15:42:31Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-09T19:38:50Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-08T20:51:44Z",
+        "content": "$MGTI angel investor Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963287711143494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-08T15:37:59Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-05T18:22:30Z",
+        "content": "$MGTI for those of you with periscope, there's a live stream going at defcon Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912459254264832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-05T03:09:30Z",
+        "content": "$MGTI gonna sleep in the am...morning wood gonna be so strong? Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.6418,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908146262168884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-04T16:16:32Z",
+        "content": "$TWTR.P Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973570108413696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-04T15:07:29Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-03T17:52:28Z",
+        "content": "$MGTI perfect time for a bullish tweet or PR....she's primed to do a stanky leg. IMO Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995435893535614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-08-01T13:50:07Z",
+        "content": "$MGTI ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989588260650635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-29T12:57:35Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-29T03:00:31Z",
+        "content": "$MGTI ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989588260650635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-28T18:47:04Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-27T19:14:59Z",
+        "content": "$MGTI #mindblown Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972917437553406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-27T13:01:48Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-26T19:55:09Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-26T15:24:42Z",
+        "content": "$MGTI just bought 5k more, thanks sellers Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9668657183647156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-25T18:00:32Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-22T19:37:50Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-18T14:16:48Z",
+        "content": "$MGTI And to think all they needed to do was make a Pokemon go game and we'd all be rich right now...SMH",
+        "sentiment": {
+            "TextBlob": 0.08690476190476189,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9253662824630737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-15T00:49:38Z",
+        "content": "$MGTI I dunno if mcafee is working hard, but he has to be working with one...all these fine weemons walking around?",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9810015559196472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-13T21:02:31Z",
+        "content": "$MGTI OOOOH YEEEAH!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9234297871589661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-13T16:31:41Z",
+        "content": "$MGTI bulls leaving non believers on earth #bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985448122024536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-13T16:10:45Z",
+        "content": "$MGTI Tiffany posted nasa vehicle assembly building article. The rocket is being built guys, get in or out. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976734519004822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-13T13:18:51Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-12T13:48:05Z",
+        "content": "$MGTI back over 4 today ladies and gents?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986054301261902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-11T21:27:23Z",
+        "content": "$MGTI I'm seeing 3.82",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9850274324417114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-11T00:31:05Z",
+        "content": "$MGTI can I like this more than once?! McAfee hiring some hotties!! lol ??",
+        "sentiment": {
+            "TextBlob": 0.88828125,
+            "NLTK": 0.7728,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9723688960075378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-10T02:47:03Z",
+        "content": "$MGTI bet they drop a big ol' PR Monday  PM! ??? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4464,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992208480834961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-10T01:40:37Z",
+        "content": "$MGTI here's mine",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887487888336182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-10T01:38:51Z",
+        "content": "$MGTI summary of today's posts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9774428606033325
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-09T03:03:18Z",
+        "content": "$MGTI what's a proxy? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992214441299438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-09T01:29:40Z",
+        "content": "$MGTI made me fall off the wagon ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991157650947571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-08T18:39:24Z",
+        "content": "$MGTI POWERHOUR!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9624701738357544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-08T18:04:00Z",
+        "content": "$MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695320129394531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-08T17:27:53Z",
+        "content": "$MGTI come with me child Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970729351043701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-08T17:09:12Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-08T17:01:28Z",
+        "content": "$MGTI nothing on Twitter yet though",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953893423080444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-08T15:12:47Z",
+        "content": "$MGTI hoping he wants to burn shorts",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988290667533875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-07T20:04:59Z",
+        "content": "$MGTI if they file it today will 5 pm be the deadline? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994932413101196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-07T13:48:11Z",
+        "content": "$MGTI found some career opportunities for shorts digitalcurrency.unic.ac.cy/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9815696477890015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-07T13:38:45Z",
+        "content": "$MGTI MUUUHAHAhaha!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991897702217102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-07T02:42:24Z",
+        "content": "$MGTI mcafee going balls deep into China! #bringsmore2thetable",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7714117169380188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-07T02:21:47Z",
+        "content": "$MGTI bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849114418029785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-06T17:45:53Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-05T02:54:23Z",
+        "content": "$MGTI tomorrow will be the fireworks finale!! ????? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981749057769775
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-04T01:05:20Z",
+        "content": "HOLY FU$&BALLS!! $MGTI\nGet it yet bears!!!? digitalcurrency.unic.ac.cy/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942769408226013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-03T13:40:24Z",
+        "content": "$MGTI is it Monday yet??!....wait, is it Tuesday yet??!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992664456367493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-01T19:49:17Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-01T14:10:30Z",
+        "content": "$MGTI lmaoooo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9822008609771729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-01T14:07:00Z",
+        "content": "$MGTI HOORAY! She said yes guys! WERE GETTING MARRIED!! Lol",
+        "sentiment": {
+            "TextBlob": 0.5953125,
+            "NLTK": 0.8934,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8501071929931641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-01T04:01:58Z",
+        "content": "$MGTI plenty of feelings were hurt today folks, get back in the game tomorrow! Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.5707,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985073208808899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-07-01T01:38:42Z",
+        "content": "$MGTI I hope today puts a fire in JMs belly to burn the shorts houses down! ??? Bullish",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": 0.3252,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996102452278137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-30T19:02:19Z",
+        "content": "$MGTI lmao!!",
+        "sentiment": {
+            "TextBlob": 0.9375,
+            "NLTK": 0.6688,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990816593170166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-30T13:32:12Z",
+        "content": "$MGTI they don't even need to sell products!!! JM prints his own fu$kin money!!$$$$ Bullish",
+        "sentiment": {
+            "TextBlob": 0.9375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961565136909485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-30T13:23:24Z",
+        "content": "$MGTI WOW! Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.7027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917451739311218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-29T19:21:24Z",
+        "content": "$MGTI THAR SHE BLOWS! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983966946601868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-29T18:47:53Z",
+        "content": "Can't stop myself $MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9801684617996216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-29T17:31:53Z",
+        "content": "$MGTI pictures of rockets!! Where are they?! Lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.5684,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980741739273071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-29T17:22:14Z",
+        "content": "$MGTI ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989588260650635
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-29T14:20:48Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-28T18:49:44Z",
+        "content": "Huge number of successful cyberattacks at one federal agency, report reveals\n\n$MGTI foxnews.com/politics/2016/0...",
+        "sentiment": {
+            "TextBlob": 0.5750000000000001,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9279035329818726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-28T15:14:37Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-27T01:58:24Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-26T02:04:04Z",
+        "content": "$MGTI one follower, new acct set up to bash $MGTI #blocked",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999510645866394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-23T13:24:49Z",
+        "content": "$MGTI Twilio is IPOing at 15 bucks this am folks. A cloud based company with user authentication...that's it. THINK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998843789100647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-22T15:02:21Z",
+        "content": "$MGTI there we go? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987309575080872
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-20T18:22:12Z",
+        "content": "$MGTI POWER HOUR COMING! Mid day PR is awesome!!! Thank you Mcafee!! #clutchmove Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8302,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986989498138428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-20T14:28:18Z",
+        "content": "$MGTI hope this isn't the only \"major news\" anyone know who he is? Bullish",
+        "sentiment": {
+            "TextBlob": 0.03125,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995622038841248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-18T00:10:38Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-17T19:57:26Z",
+        "content": "$MGTI IM IN LIKE FLYNN THEN!!? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5882,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982069730758667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-16T20:12:02Z",
+        "content": "$MGTI #BULLISH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984591007232666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-15T17:07:52Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-14T15:41:28Z",
+        "content": "$MGTI #bullish marketwatch.com/story/chine...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992511868476868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-14T15:04:52Z",
+        "content": "$MGTI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970864653587341
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-14T13:26:10Z",
+        "content": "$MGTI get in people! You think John is going to China representing a 2 dollar stock!? MORE LIKE 100! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.7299,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990072846412659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-11T01:07:32Z",
+        "content": "$MGTI my man said \"$hit just got real!\"",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9783671498298645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-11T00:36:43Z",
+        "content": "$MGTI dafaq you mean?!",
+        "sentiment": {
+            "TextBlob": -0.390625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950996041297913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-06-01T01:46:03Z",
+        "content": "$MGTI anyone know where they sell MGT t-shirts? I need a few for the kids",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994593262672424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-31T17:20:11Z",
+        "content": "$MGTI holding 10k shares because I'm Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991241097450256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-31T15:25:04Z",
+        "content": "@ptrcky @nv1 I just saw the screen, I don't think $MGTI was mentioned",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967303276062012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-31T15:17:30Z",
+        "content": "$MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695320129394531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-31T14:02:16Z",
+        "content": "$MGTI Hopefully he's giving everyone one last chance to buy in then drops a bombshell at market close! LOL Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.8728,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989529848098755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-23T13:29:03Z",
+        "content": "$MGTI BUY THE DIP!! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986912608146667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-20T18:33:43Z",
+        "content": "$MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695320129394531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-20T01:47:46Z",
+        "content": "$MGTI dafaq!?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962748289108276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-20T01:39:11Z",
+        "content": "$MGTI what he said!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.988375186920166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-20T01:31:08Z",
+        "content": "$MGTI rewarded*",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7179901003837585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-20T01:29:45Z",
+        "content": "$MGTI Buy in tomorrow! Last weekends news was only the beginning! Weekend holders will be awarded! I think! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5951,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.750938355922699
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-18T19:22:36Z",
+        "content": "$MGTI A falling knife now...smh I suck at life?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986526966094971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-18T19:19:53Z",
+        "content": "$MGTI I guess a couple of weeks are just to long to wait aye?  #mgt Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993512034416199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T23:59:02Z",
+        "content": "$MGTI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695320129394531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T23:54:51Z",
+        "content": "$MGTI  don't fight it by the singles",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2924,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858211874961853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T14:23:46Z",
+        "content": "$MGTI IM GOING TO DISNEY WORLD!!? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984689354896545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T13:58:26Z",
+        "content": "$MGTI bought 5k more? I'm doing my part guys! BUY Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965124726295471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T02:57:48Z",
+        "content": "$MGTI framing this over the mantle",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918667674064636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T02:31:06Z",
+        "content": "$MGTI made so much money im gonna let the wife buy back her engagement ring from the pawn shop",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971650242805481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T02:11:36Z",
+        "content": "$MGTI made so much money I'm gonna pay Pandora for no ads",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974785447120667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-17T02:07:43Z",
+        "content": "$MGTI made so much money I can talk a girl into losing my virginity Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99666827917099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-12T15:00:47Z",
+        "content": "$MGTI Go! GO! ?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990448355674744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-05-06T19:39:52Z",
+        "content": "$CHK ouch!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972165822982788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-25T17:35:26Z",
+        "content": "$SQ I know who's cooking dinner tonight?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984374642372131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-25T16:57:25Z",
+        "content": "$SQ \"Come on in, the water is fine!\"",
+        "sentiment": {
+            "TextBlob": 0.5208333333333334,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999288022518158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-22T16:36:48Z",
+        "content": "$TWTR.P The move to 20 will be swift and deadly for the Bears ? Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993938207626343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-22T15:10:02Z",
+        "content": "$SPY $MSFT $SBUX $SQ not if you bought at 13.89! ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984122514724731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-20T18:19:33Z",
+        "content": "$SQ GET BACK OVER 14! DO IT! DO IT NOW! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983052015304565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-20T15:48:39Z",
+        "content": "$SQ JOIN THE PARTY!! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7876,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993317723274231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-19T16:41:27Z",
+        "content": "$TWTR.P of course it drops after I bought back in yesterday @17.21 Hope earnings beats! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977869987487793
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-14T12:38:26Z",
+        "content": "$SUNE now a good time to buy this?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8821901679039001
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-11T17:59:26Z",
+        "content": "$SQ $TWTR.P WS telling jack he can have 2 stocks at 15 or one at 30....which is it gonna be? Lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985871315002441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-08T14:00:16Z",
+        "content": "$SQ KABOOM!! ???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975453019142151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-06T23:44:18Z",
+        "content": "$TVIX $KBH where dafaq is room? I see you everywhere scalping!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960609078407288
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-03T20:25:52Z",
+        "content": "$TWTR.P $SQ Anyone else believe they didn't raise the 140 character limit because they didn't need to? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985530972480774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-01T19:12:06Z",
+        "content": "$SQ power hour like yesterday?! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999306321144104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-04-01T19:11:44Z",
+        "content": "$TWTR.P is this power hour?! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988018274307251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-27T21:35:34Z",
+        "content": "$DWTI $UWTI I know that feel bro?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874098896980286
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-24T13:35:48Z",
+        "content": "$TWTR.P wow...",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9528805017471313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-23T16:08:43Z",
+        "content": "$BHC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9567784667015076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-23T16:07:41Z",
+        "content": "Canadian Stocks Fall for Second Day as Commodity Producers Drop - Bloomberg Business$vrx bloomberg.com/news/articles...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968752861022949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-23T15:51:46Z",
+        "content": "$BHC I'm meant 34.24",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898219108581543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-23T15:48:31Z",
+        "content": "$BHC I'm in at 1k 35.24",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9818364977836609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-23T15:46:46Z",
+        "content": "$BHC 35 today? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989925026893616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-18T15:58:53Z",
+        "content": "$DWTI $UWTI which train to board?!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991512298583984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-18T14:30:42Z",
+        "content": "$UWTI taking out stops",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956320524215698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-18T13:47:14Z",
+        "content": "$UWTI BOOM!! LETS GO!! ???? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978038668632507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-17T17:02:56Z",
+        "content": "$UWTI got stopped out at 27.30? GLTA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995701909065247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-17T14:04:28Z",
+        "content": "$UWTI BOOM! ?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994218349456787
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-16T02:17:17Z",
+        "content": "$TWTR.P up tomorrow folks, just taking a dip ?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984318614006042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-15T17:58:23Z",
+        "content": "$UWTI lets see it bounce off 22 like yesterday!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5229,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868459701538086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-15T02:26:54Z",
+        "content": "$TWTR.P tech stocks are $hit, and this one lost. What goes up comes down, then goes back up again. Lets watch it do just that? Bullish",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997156262397766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-14T16:01:46Z",
+        "content": "$UWTI 500 shares waiting to be filled at 22. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990735054016113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-11T03:20:34Z",
+        "content": "$TWTR.P up tomorrow...nighty night ??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936275482177734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-07T03:14:02Z",
+        "content": "$UWTI should I get my toes wet here or wait? Hmm ? Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992316961288452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-04T18:42:34Z",
+        "content": "$TWTR.P LETS SEE SOME PANIC BUYING AND SHORT COVERING!! FRIDAY, FRIDAY!! ?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7623,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980936646461487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-03-03T15:01:26Z",
+        "content": "$TWTR.P KABOOOM!!!!???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959698915481567
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-29T14:39:35Z",
+        "content": "$TWTR.P lets see some dicaprio effect! FLAP THOSE WINGS BIRDIE!!! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9283940196037292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-28T02:49:15Z",
+        "content": "$TWTR.P #Regressiontothemean 25 in 4 weeks ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976533055305481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-27T02:22:11Z",
+        "content": "$TWTR.P 's new gifs trump $META 's new emojis...they are pitiful ?",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996427297592163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-25T19:00:30Z",
+        "content": "$TWTR.P wants to test 17.77?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994157552719116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-25T17:19:39Z",
+        "content": "$TWTR.P come on lil birdie, make us some money today!??? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927129149436951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-24T19:34:56Z",
+        "content": "$TWTR.P 2150 here @19.56 avg?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996906578540802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-24T19:12:41Z",
+        "content": "$TWTR.P LETS GOOO!! \nGET TO THE CHOPPA!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992187023162842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-23T22:28:32Z",
+        "content": "$TWTR.P working back to my 19.56 avg...pours a crown on the rocks. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980370402336121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-19T20:14:24Z",
+        "content": "$TWTR.P CLOSE GREEN!! Bullish",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974876642227173
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-18T20:24:08Z",
+        "content": "$TWTR.P wait till 50",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976025223731995
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-12T19:13:31Z",
+        "content": "$TWTR.P BOOM! COME ON 20!! ?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867873191833496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-10T15:33:55Z",
+        "content": "$TWTR.P BOOM! Do we have a dollar? 2!? 3!?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972981810569763
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-10T15:08:00Z",
+        "content": "$TWTR.P $DIS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990326166152954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-10T14:36:10Z",
+        "content": "$TWTR.P Let today be a good one lil birdie!! ??? Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6154,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9736399054527283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-09T17:09:51Z",
+        "content": "$TWTR.P if periscope adds 20 mill MAUs to Twitter that should be enough good news. Any positive news sends this back over 20...imo Bullish",
+        "sentiment": {
+            "TextBlob": 0.2318181818181818,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877804517745972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-06T16:22:01Z",
+        "content": "$SQ in at 8.70? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994295239448547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-02-03T16:29:16Z",
+        "content": "$TWTR.P BUY BUY BUY!!!??? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980272650718689
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-28T16:12:56Z",
+        "content": "$TWTR.P anyone know if they're using GoPro and periscope in the xgames tonight? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996267557144165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-27T17:25:57Z",
+        "content": "$TWTR.P GO! GO! GO! ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988942742347717
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-27T16:33:38Z",
+        "content": "$SUNE I'm in at 3.45 glta Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982878565788269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-27T03:37:21Z",
+        "content": "$TWTR.P avg down to 20.66, don't let me down Dorsey!! ? I'm on the morphine drip!! Lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.08822337962962963,
+            "NLTK": 0.6083,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990530788898468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-24T21:30:58Z",
+        "content": "$TWTR.P Oprah is coming! ?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988431930541992
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-24T16:44:09Z",
+        "content": "$TWTR.P anyone think periscope will launch the stock price this week? ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993334412574768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-22T15:50:27Z",
+        "content": "$TWTR.P all systems are go, prepare for launch? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993205070495605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-21T15:38:20Z",
+        "content": "$TWTR.P taking an interesting bird flight no doubt \u2615\ufe0f Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979395270347595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-20T02:37:37Z",
+        "content": "$TWTR.P averaged down to 20 today, hope Dorsey has a rabbit in his hat ? Bullish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976805448532104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-18T00:42:53Z",
+        "content": "$TWTR.P tomorrow is Martin Luther King Jr. Day bro, market is closed...sleep well",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979290962219238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-17T17:47:08Z",
+        "content": "$TWTR.P almost 35k people watching this stock on stocktwits!? Hmm... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991994500160217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-13T15:01:46Z",
+        "content": "$TWTR.P BACK THE TRUCK UP!!!?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999036431312561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-10T01:41:22Z",
+        "content": "$META $TWTR.P $GOOG meanwhile, back in reality, TWTR is a company developing new apps and ideas",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963498115539551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-08T19:14:43Z",
+        "content": "$TWTR.P summer olympics this year and presidential election, going long! ? Bullish",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986924529075623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-08T14:11:00Z",
+        "content": "$TWTR.P going to 23 today ladies and gents!!!??? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950616955757141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-06T15:27:08Z",
+        "content": "$TWTR.P buying with both hands at these prices!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984261989593506
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "mbarnez",
+        "timestamp": "2016-01-05T02:50:03Z",
+        "content": "$TWTR.P watching and waiting ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989497065544128
+            }
+        },
+        "image_url": ""
+    }
+]

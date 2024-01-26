@@ -1,0 +1,282 @@
+[
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-07-20T08:33:43Z",
+        "content": "$IBIO \nOh wow that\u2019s nice 5.10 \nOk back to bed now",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998818576335907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-07-13T03:56:09Z",
+        "content": "@Fluffygummybear2 \nI DONT PLAY BIT OR ANY OTHER TYPE OF \nCRYPTO COIN \nStop sending requests to join ... If you haven\u2019t figured it out yet I\u2019m a $FCEL guy since 6/02/19 when it was 0.13 per \nIt\u2019s shame I sold my 124600 shares last November \nHey 124600 @ .74 wasn\u2019t to shabby of a day Bearish",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": -0.539,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989018440246582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-07-07T14:34:46Z",
+        "content": "$FCEL \nWell this is boring I\u2019m going to Home Depot I\u2019m gonna get something productive done because it ain\u2019t happening here today",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997056126594543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-07-07T13:21:20Z",
+        "content": "$FCEL \nUgggg \nDon\u2019t be surprised to see 2.60 at some point today \ud83d\ude1e\nSure do hope someone can tell me that I was wrong at the end of the day",
+        "sentiment": {
+            "TextBlob": 0.033333333333333326,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9088495969772339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-07-06T14:00:21Z",
+        "content": "$FCEL \nThere it is again \n3.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9656265377998352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-07-06T13:43:40Z",
+        "content": "$FCEL \nThere it is 3.00",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9004881381988525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-06-12T11:51:19Z",
+        "content": "$FCEL @TradeWithNaren \ud83d\ude0f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9864153265953064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-06-11T12:35:34Z",
+        "content": "$MRNA @TradeWithNaren \nAny thoughts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929265379905701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-06-08T18:07:46Z",
+        "content": "$PRPO Anybody know why the sudden jump I can\u2019t seem to find any news or anything",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994605183601379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-06-04T21:24:58Z",
+        "content": "$CNVS @TradeWithNaren \nHi Naren \nI would like to thank you for that great tip on CIDM late in the day yesterday not to mention the bit of directional guidance with my trading ... still have a long way to go yet \nAny how , I\u2019d like to share my appreciation  from that great call & your willingness to help me grow \nBrian",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.975,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989653825759888
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-06-03T23:48:21Z",
+        "content": "$CNVS \nOut at 2.15 for a 90% gain \nGreed telling me to wait till tomorrow \nNow that I did sell it will run another 300% & I\u2019m good with that",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9950287938117981
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-05-22T15:11:38Z",
+        "content": "$MDGS \nYep blew this one guess I\u2019ll be holding it till ...........wtf dum ass",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986275434494019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-05-13T15:28:20Z",
+        "content": "$AMRX \n3.30 & 3.85 are on the bid side \n4.18 lo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928222298622131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-05-12T13:37:44Z",
+        "content": "$AMRX \nIt\u2019s looking like a downhill roller coaster",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976897239685059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-04-13T10:28:29Z",
+        "content": "$USO \nFargin bears , drops 2.25% & omg the sky is falling",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985674619674683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-04-08T20:00:57Z",
+        "content": "$MBRX\nWow that was just sad",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979720711708069
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-04-08T18:59:54Z",
+        "content": "$MBRX \nEnough with the 130s already\nGet back to the 160 or 170\u2019s",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965509176254272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-04-08T16:58:14Z",
+        "content": "$MBRX \nShow me that one o\u2019clock push right to 180",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906308054924011
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-04-08T16:56:13Z",
+        "content": "$MBRX \nCome on baby go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.582156777381897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Brian4776STjailAcct",
+        "timestamp": "2020-04-08T13:42:59Z",
+        "content": "$MBRX \nOk that wasn\u2019t so bad \nAnd back up we go",
+        "sentiment": {
+            "TextBlob": -0.06666666666666661,
+            "NLTK": -0.5092,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9924821257591248
+            }
+        },
+        "image_url": ""
+    }
+]

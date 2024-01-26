@@ -1,0 +1,1122 @@
+[
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-06-07T00:38:59Z",
+        "content": "Am I the only one who finds it ironic that  $AAPL and $META pushing for more in office work while also pushing for virtual headset work? \ud83e\udd37\u200d\u2642\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976398944854736
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-06-06T02:32:59Z",
+        "content": "$AAPL will sleep like a baby tonight for $3.49",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950501322746277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-05-10T17:15:40Z",
+        "content": "Testing out a new concept on a few streams like $ABNB. You'll now be able to find more popular/engaging conversations and messages under \"Trending\". Early BETA so only on Web and will be coming to iOS/Android soon. Share your thoughts as always!",
+        "sentiment": {
+            "TextBlob": 0.17272727272727273,
+            "NLTK": 0.6114,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5087718367576599
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-05-07T19:53:33Z",
+        "content": "$META",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9424152970314026
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-24T00:45:56Z",
+        "content": "@etrader99 @ybnsamir @Stocktwits $OCS has been added Thanks for the heads up!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9743752479553223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-21T01:20:29Z",
+        "content": "$TSLA $PLTR",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936016201972961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-20T20:13:24Z",
+        "content": "We just started to roll out price alerts on iOS. Look for the \u23f0 next to the watch button.  $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976668357849121
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-18T01:02:46Z",
+        "content": "Me checking if my stocks are all still down on the weekend. $SPY",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986737966537476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-17T03:48:45Z",
+        "content": "We also just started to roll out Price Alerts on Android. Email/Push/InApp notifications. Look for the \u23f0 $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984684586524963
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-16T23:44:03Z",
+        "content": "Yesterday we rolled out a cleaned up IA and added Settings/Filters to the @Stocktwits feeds. Having control over your experience is top of mind for us. Tip of the iceberg(seriously), but exciting first step. iOS/Android rolling out soon and MUCH more in coming weeks. Big thanks to our team!  $SPY Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.8702,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9628081917762756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-15T23:00:49Z",
+        "content": "$SPY Excited for the updates we have in the pipeline here. Just getting started.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871416091918945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-13T00:18:35Z",
+        "content": "$SBNY $SIVBQ $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981275200843811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-03-08T01:39:53Z",
+        "content": "$AAPL $SPY $TSLA \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953149557113647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-02-15T19:41:47Z",
+        "content": "@mrpocket @Stocktwits @tctranfo Hey there are you looking at the right Class? I see $GOOG hod around 97.31 and $GOOGL at 97.08",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972021579742432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2023-02-08T14:56:11Z",
+        "content": "@Wigglyick @wlvsbyote @tctranfo @howardlindzon hey the team has added $GPCR  thanks!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9883379340171814
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-12-02T00:56:46Z",
+        "content": "@howardlindzon @75bps @stocktwits @tctranfo Thanks for that feedback. Also make sure to take advantage of the search, both on your messages and other members. Looks like Howard has made a few messages on $SPY",
+        "sentiment": {
+            "TextBlob": 0.09374999999999999,
+            "NLTK": 0.8271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5906609296798706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-10-04T16:17:20Z",
+        "content": "$TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896335601806641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-10-03T13:52:10Z",
+        "content": "@commonking What's up my friend :)  I see which you favor. What are your thoughts on Youtube($GOOG) grabbing more share from $SPOT? I'm finding myself more and more leaning into youtube.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8858,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9658593535423279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-09-16T17:22:28Z",
+        "content": "$WEST test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881207942962646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-08-22T13:55:35Z",
+        "content": "$APE Over under 40k watchers by EOD?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972332119941711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-07-01T22:26:42Z",
+        "content": "$SPY USA! USA! USA! sorry couldn't resist on the green close going into the 4th. Enjoy it all :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.05000000000000002,
+            "NLTK": 0.7767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9818275570869446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-06-22T14:00:27Z",
+        "content": "$REVRQ It's gotta be the advertising",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955193996429443
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-06-13T21:55:15Z",
+        "content": "Officially proposing we rename it -401K $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962778687477112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-06-13T00:54:03Z",
+        "content": "$BTC.X I can\u2019t stop watching this stream today as brutal as this is. \ud83d\ude13",
+        "sentiment": {
+            "TextBlob": -0.875,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939790964126587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-06-04T01:03:40Z",
+        "content": "Finally watching $GME documentary on Hulu. Awesome to see @GMEshortsqueeze @Uberkikz11 !",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.984961748123169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-05-11T13:31:29Z",
+        "content": "$U ouch",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993822574615479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-05-10T16:46:25Z",
+        "content": "$AZUKI.NFT test",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944844841957092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-04-04T13:37:49Z",
+        "content": "@Brandon_jack9 @Stocktwits $SHIB.X is supported for buying. $KSHIB.X also",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895646572113037
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-03-22T18:54:09Z",
+        "content": "$AMC $GME $TSLA all top trending. What year is this 2021?!?",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9271841645240784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-03-22T18:25:41Z",
+        "content": "@acura22itr @Accidentfreak Hey all - wanted to close the loop here. FTX.US has a max sell/buy in coins of 99,999,999.00. We need to provide better messaging on the app and will add this in immediately. They did however provide us with more guidance into adding $KSHIB.X as tradeable(which we have now made available). KSHIB is 1 coin for every 1000 $SHIB.X coins. So those who are swinging bigger buys/sells can access the market of SHIB without these max quantity issues getting in the way. Thanks for the help here @acura22itr you are the best!",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.9184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5138351917266846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-02-09T01:34:49Z",
+        "content": "You can now find what cryptos you can trade on @Stocktwits in your discover section in the latest iOS build 5.0.5 $BTC.X $LTC.X $SOL.X  \ud83d\ude80",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978407621383667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-02-08T19:09:44Z",
+        "content": "Love to see it! $SHIB.X",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997637867927551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2022-02-04T20:58:50Z",
+        "content": "you're welcome fam $BTC.X $SOL.X \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9567742347717285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-10-28T13:49:47Z",
+        "content": "$SYPR good day",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9635306000709534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-09-24T13:18:35Z",
+        "content": "$DOGE.X grabbed another 5000 shares cause why not",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987391829490662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-09-18T14:11:48Z",
+        "content": "Trying to figure out what stock to buy. Nevermind. I know what I\u2019m buying Monday. $SBUX Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991963505744934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-09-04T15:29:40Z",
+        "content": "With the kid at the paw patrol movie. I haven\u2019t been in a theatre in like 7 years. Holy shit you can literally sleep in these seats.  $AMC Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946468472480774
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-25T20:51:43Z",
+        "content": "$WAX.X nice week here :D",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7804,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9616795778274536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-25T00:53:36Z",
+        "content": "$GME \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887856245040894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-17T17:25:22Z",
+        "content": "@BullishJohn $ME In for a little too :)",
+        "sentiment": {
+            "TextBlob": 0.15625,
+            "NLTK": 0.4062,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942060112953186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-13T01:02:40Z",
+        "content": "@Born_Lucky_Not_Rich @AMGFAN Ha! I am linked was just testing stuff. Still in beta so troubleshooting using my. own accounts at times. Not so happy with my $BTC.X today but that will be ok :)",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7922,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9507712125778198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-08T00:39:22Z",
+        "content": "$DOGE.X cause why not Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9666045308113098
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-05T16:25:28Z",
+        "content": "@abubnic Great point! We are going to make videos and get a good FAQ up. The summary though to help in the short term is. Users who connect a brokerage get a verified badge next to their username. Once you connected your portfolio you can make it public or private. A private portfolio means only you can see your portfolio and holdings. If you choose to make your holdings public it exposes just your holdings and % change in performance. We NEVER show $ or Shares to other users. So for example my portfolio with $DOGE.X is public. So you'll se a verified icon for that holding when I post about it. You can also visit my profile and see my portfolio that is public and what holdings I'm sharing. Also we will never share this data with any third party period. Your credentials go through Plaid securely and are NOT held on the Stocktwits side.  Let me know if you have more questions!",
+        "sentiment": {
+            "TextBlob": 0.17333333333333334,
+            "NLTK": 0.9314,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933038353919983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-04T14:08:05Z",
+        "content": "$HOOD Best show in town.",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9992493987083435
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-03T21:41:36Z",
+        "content": "@WhaleCapital @TCTRANFO @howardlindzon @stocktwits Users can set their holdings to public or private. Private means no one can see your holdings, but you won't get a green verified mark on those symbol streams(like Howard's HOOD or SHOP. For example I own $BTC.X in a public profile so I get a verified mark for having it public. For users who make their holdings public we only show your holding, never $ amounts or shares. We'll expand the public view to show more detailed data, but never will reveal the $ or shares for privacy.",
+        "sentiment": {
+            "TextBlob": 0.10833333333333332,
+            "NLTK": -0.3213,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974833130836487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-08-03T19:53:20Z",
+        "content": "$HOOD what a turn of events! Gotta love the markets",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996178150177002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-07-30T00:16:50Z",
+        "content": "Cool seeing the $HOOD stream adding 16k watchers since this morning. Hate or love it you gotta watch it \ud83d\udc40 stocktwits.com/rankings",
+        "sentiment": {
+            "TextBlob": 0.016666666666666646,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7658281922340393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-05-25T01:00:45Z",
+        "content": "$WTI nice little day ! Bullish",
+        "sentiment": {
+            "TextBlob": 0.1828125,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9699499011039734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-05-19T13:03:32Z",
+        "content": "Me: Investing is easy.\n\nBitcoin: I'll fix that. \n\n$BTC.X",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.956185519695282
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-05-07T15:49:02Z",
+        "content": "$SNDL nice little friday",
+        "sentiment": {
+            "TextBlob": 0.20625,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9855807423591614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-05-06T15:10:18Z",
+        "content": "I keep telling @Korsesker to get involved with  $TLM.X or have fun being broke",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9799556136131287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-04-29T22:52:53Z",
+        "content": "$TLM.X just broke a million players and we only got 17 watchers here. So I guess we are early adopters?",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983592629432678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-04-29T01:43:17Z",
+        "content": "Been converting all my $WAX.X to $TLM.X . Community is growing super fast and I think you benefit either way.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.8225,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989620447158813
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-04-29T01:40:50Z",
+        "content": "$WAX.X My biggest concern with WAX has been buying WAXP on its own. I get most of my funds on through pack drops then converting it to WAX in sales. Anyone know something I don't here?",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980427026748657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-04-28T19:57:02Z",
+        "content": "$TLM.X I\u2019m staked around 50 TLM now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852199554443359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-04-27T20:04:52Z",
+        "content": "$TLM.X \ud83d\udc40 \ud83d\udc7d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887037873268127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-04-14T18:44:42Z",
+        "content": "$COIN just here to be part of history. This is good for markets and non traditional markets in so many ways. Congrats to those profiting",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.8467,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994896650314331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-02-08T22:26:56Z",
+        "content": "@SmokeyDuck @howardlindzon Hey Smokey - We currently have a version of this we call advanced search. Wherever you see someones message that has a $ticker symbol tagged you'll see a magnifying glass on the message. This will allow you to view and search through their messages. Especially as a Lifetime user you have full access to this. We definitely want to produce a more intuitive overall advanced search, but this was a lightweight version that allowed us to get it into the Community's hands faster.  blog.stocktwits.com/advance...",
+        "sentiment": {
+            "TextBlob": 0.20625,
+            "NLTK": 0.5346,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9788221716880798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-02-05T17:37:46Z",
+        "content": "$DOGE.X We finally fixed this chart. Sorry for the delay.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994763731956482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-01-13T03:05:07Z",
+        "content": "$GEVO $GOEV \ud83d\ude02",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9785916805267334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-01-11T15:19:43Z",
+        "content": "My favorite crypto line will always be:\n\n\"a 20% pullback overnight is healthy\"\n\nThat's the kind of volatility I am here for.  $BTC.X",
+        "sentiment": {
+            "TextBlob": 0.5333333333333333,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8491124510765076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-01-08T23:59:04Z",
+        "content": "@TheePLUG @Stocktwits @FraudBuster @Angie2499 @davidvir @johnnythehammer @PLUG_DEALER @cleanhydro @Girba @BullishbyNature @thrifty669 you all are my hero\u2019s. Everyone deserves their $PLUG moment",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8150234818458557
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-01-08T22:32:24Z",
+        "content": "I remember a lot of the die hard $PLUG bulls when I was Community Manager. They were so passionate and patient. I hope they are all still in now. It\u2019s so cool to think you can have these sub communities hanging for years and years on @Stocktwits. They become like a family that now get to celebrate together. Gj bulls!",
+        "sentiment": {
+            "TextBlob": 0.03194444444444444,
+            "NLTK": 0.9377,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995900988578796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2021-01-05T18:31:04Z",
+        "content": "@howardlindzon @Genius_Gif_King @oghowie @stocktwits @rkhanna what a coincidence that's my $ZOOM background.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6661048531532288
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-10-29T00:48:09Z",
+        "content": "Nothing more interesting to me than watching someone use a product they love. Every night I see my wife use $PINS in bed. The interesting thing is she gets all her ideas from there but says shopping on it is anything but smooth. She does most of her buying from targeted Instagram ads where the process is seamless. I find it interesting that Instagram is likely short term benefiting from her Pinterest browsing. Still means huge opportunity on the transaction side for $PINS who nailed the engagement side. Good job Bulls.",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.9084,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9904696941375732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-10-23T00:31:34Z",
+        "content": "$XRP.X Thanks all for your supreme patience here while we got to fixing this chart!",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7777,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994468092918396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-10-02T12:50:15Z",
+        "content": "Was I the only one who couldn't stop watching coverage and got zero sleep last night? Things keep getting more interesting and basically anything you think won't happen in these next few weeks almost certainly will.  $SPY",
+        "sentiment": {
+            "TextBlob": 0.14489795918367346,
+            "NLTK": 0.7174,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9721498489379883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-10-02T08:29:59Z",
+        "content": "$SPY \u201cQuarantine process\u201d",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946407079696655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-09-30T02:26:34Z",
+        "content": "This would have been a much better debate on a Zoom call where they both had funny backgrounds. $SPY",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979800581932068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-09-30T02:19:42Z",
+        "content": "The Stocktwits $SPY stream should be live streamed along with the debate. That\u2019s the real opinions people should see.",
+        "sentiment": {
+            "TextBlob": 0.16818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9643172025680542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-09-30T01:52:29Z",
+        "content": "$SPY so many clown emojis \ud83e\udd21",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943091869354248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-09-24T15:50:27Z",
+        "content": "$SUNW What year is this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916802048683167
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-09-14T12:45:00Z",
+        "content": "$UFO This stock should be all the rage today with the \"big\" announcement I hope it's not getting excited for nothing :X twitter.com/royalastrosoc/s...",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": -0.409,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996293783187866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-08-10T12:26:46Z",
+        "content": "No power for 5 days and still no internet(at my in-laws...gulp). I'm catching up on the market and any DMs/Mentions/Emails you all may have sent me in the last week. Coming out of this week long adventure I can sum it up best with \n\nBearish $PEG, $ATUS , Bullish $HD $LOW $VZ",
+        "sentiment": {
+            "TextBlob": 0.30999999999999994,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914942979812622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-07-29T00:23:33Z",
+        "content": "@howardlindzon @quadrifoglio @HankRearden666 Apologies for the issues! Team is working hard to resolve this as quick as possible. We want to get you all back to posting GIFs on $AMD as fast as possible! Thanks for your patience",
+        "sentiment": {
+            "TextBlob": 0.0630952380952381,
+            "NLTK": 0.717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955955147743225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-07-15T20:44:55Z",
+        "content": "$BTC.X ouch this Twitter hack is getting crazy.",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993582367897034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-06-11T20:02:25Z",
+        "content": "$SPY I did the math though. Stonks are only supposed to go up I thought?!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894136190414429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-05-07T00:07:20Z",
+        "content": "For anyone experiencing crashes on our Apps. This is related to a change $META made to their SDK and it's impacting a ton of apps.  theverge.com/2020/5/6/21250...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5857539176940918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-05-06T15:23:31Z",
+        "content": "It's got that heavy kinda feeling $SPY",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0534,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930201172828674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "michaelbozzello",
+        "timestamp": "2020-04-20T18:37:01Z",
+        "content": "$USO wow. Commenting for history purposes.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8921116590499878
+            }
+        },
+        "image_url": ""
+    }
+]

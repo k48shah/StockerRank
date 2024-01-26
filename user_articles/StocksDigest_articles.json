@@ -1,0 +1,6274 @@
+[
+    {
+        "username": "StocksDigest",
+        "timestamp": "2018-12-06T14:09:04Z",
+        "content": "$AVGR looks great day! PM high of .398 of news announcing a new commercial launch 68 minutes ago. Watch for this to rocket\ud83d\ude80 Bullish",
+        "sentiment": {
+            "TextBlob": 0.3240909090909091,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948504567146301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2018-11-30T22:31:21Z",
+        "content": "Today\u2019s Recap: Only one alert! Hope you all profited from this trade \u2705\n\n$EDGE +15%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7712,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901268482208252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2018-11-30T14:54:34Z",
+        "content": "$EDGE watch for this to rocket on latest PR! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887107014656067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2018-11-30T00:20:52Z",
+        "content": "\ud83d\udd25Today\u2019s Recap: 3 Alerts Total\ud83d\udd25\n\n$ASNS +42% (Alerted 11 min after market open)\n\n$NBEVQ +9% \n\n$YCBD -4%\n\nLet\u2019s see what tomorrow brings:)",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904108047485352
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2018-11-29T14:41:11Z",
+        "content": "$ASNS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986808896064758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2018-11-29T14:28:13Z",
+        "content": "Breaking News: An apparent agreement for the farm bill has been reached! Watch for $YCBD and $NBEVQ to run! Bullish",
+        "sentiment": {
+            "TextBlob": 0.078125,
+            "NLTK": 0.6351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989761114120483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-14T01:43:09Z",
+        "content": "7 out of 7 successful July alerts!!! \ud83c\udfaf\n\n$ACHV +42%\n\n$YUMAQ +22%\n\n$IMUC +12%\n\n$DARE +9%\n\n$SPI +8%\n\n$ZNOG +6%\n\n$INPX +5%",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6884,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8233188390731812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-14T01:42:15Z",
+        "content": "Our top alerts ever\ud83d\ude0e\n\n$ADPT +245%\n$MARA +229%\n$DCTH +201%\n$SEII +152%\n$MBRX +128%\n$CETC +110%\n$INNL +95%\n$NADL +43%",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861900806427002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-13T13:56:42Z",
+        "content": "$YUMAQ went up 22.13% since our alert ONLY FOUR MINUTES AGO! A big thanks to our chatroom for the find!\ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.6892,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9938619136810303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-13T13:49:31Z",
+        "content": "Alert: $YUMAQ is moving quickly and is a solid day trade opportunity! Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9939203262329102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-13T13:46:21Z",
+        "content": "$SPI went up 8.08% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.586616039276123
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-13T13:43:06Z",
+        "content": "$INPX was up 5.49% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8042556047439575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-13T13:41:06Z",
+        "content": "Alert: $SPI is another solid scalp play. Get ready! Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.7901,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9916433095932007
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-13T13:36:14Z",
+        "content": "Alert: $INPX is a solid day trade! Look for this to run quickly! Bullish",
+        "sentiment": {
+            "TextBlob": 0.20833333333333331,
+            "NLTK": 0.5242,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9089895486831665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-07T01:18:45Z",
+        "content": "4 out of 4 successful alerts today\ud83d\udd25 \n\n$ACHV +42.41%\n\n$IMUC +11.59%\n\n$DARE +8.04%\n\n$ZNOG +5.78%",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780057072639465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T17:31:00Z",
+        "content": "We'd like to say what an amazing day it has been. \ud83d\ude4f\ud83c\udffd \n\n$ACHV went up 42.21% since we alerted it TODAY!!! \u2705",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8007,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986347556114197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T17:12:30Z",
+        "content": "$ACHV up 34.65% since our alert! Congrats to the hundreds of active members in our chatroom who found this alert \ud83c\udf36",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.8687,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7851102948188782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T16:25:55Z",
+        "content": "$ACHV up 21.70% since our morning alert! BINGO. BANGO. BONGO. That's how you get it done \ud83d\udcaa\ud83c\udffd",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931453466415405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T15:29:33Z",
+        "content": "$ACHV up 16.52% since our alert this morning! Another great call made by our chatroom prospering in success \ud83d\udcb0",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.8832,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997305274009705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:57:26Z",
+        "content": "$IMUC went up 11.59% since our day trade alert ONLY 10 MINUTES AGO! \ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9758481979370117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:56:27Z",
+        "content": "$ACHV went up 6.16% since our alert ONLY FOUR MINUTES AGO! Great job team.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.7644,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993895292282104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:52:01Z",
+        "content": "$IMUC went up 3.86% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5733308792114258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:48:51Z",
+        "content": "Alert: $ACHV is a low float bio play. Looks like a solid day trade! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910486936569214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:44:05Z",
+        "content": "Alert: $IMUC broke the 200 sma. Look for this to go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2244,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981738328933716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:43:17Z",
+        "content": "$ZNOG went up 5.78% since our alert ONLY FOUR MINUTES AGO! Anyone catch this??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4314,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998683512210846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:39:58Z",
+        "content": "$DARE up 8.04% since our alert ONLY THREE MINUTES AGO! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972140192985535
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:36:58Z",
+        "content": "Alert: $ZNOG is another good day trade. Low float. Watch for this to go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983159303665161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:33:59Z",
+        "content": "Alert: $IDXG is a solid day trade above 1.03! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9036401510238647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-07-06T13:32:52Z",
+        "content": "Alert: $DARE is a solid day trade! Red to green move. Bullish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9884395599365234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-30T04:07:35Z",
+        "content": "Our top alerts ever\ud83d\udd25\n$ADPT +245%\n$MARA +229%\n$DCTH +201%\n$SEII +152%\n$MBRX +128%\n$CETC +110%\n$INNL +95%\n$NADL +43%",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861900806427002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-29T14:35:41Z",
+        "content": "$DRWI up 23.91% since our alert ONLY 20 MINUTES AGO! \ud83d\udd25",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911291599273682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-29T14:18:51Z",
+        "content": "$DRWI up 19.57% in ONLY FOUR MINUTES! BOOYAH!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9792888760566711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-29T14:13:41Z",
+        "content": "Alert: $DRWI is a good day trade! Load up :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.6875,
+            "NLTK": 0.8122,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964964985847473
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-29T14:11:47Z",
+        "content": "$SPLS up 2.58% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9816500544548035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T23:39:09Z",
+        "content": "Mid-week recap of our ALERTS \ud83d\udd25\n\n$MBRX +55%\n$DCTH +28%\n$DXTR +22%\n$BSTG +10%\n$RNVA +9%\n$XTNT +9%\n$AVEO +5%\n$ESNC +3%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994364857673645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T19:57:31Z",
+        "content": "$HTGMQ up 3.75% since our alert 37 minutes ago! Nice call team.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6547262668609619
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T19:54:58Z",
+        "content": "Swing Alert: $SPLS buyout rumors. Let's capitalize on it!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8600821495056152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T19:45:20Z",
+        "content": "Alert: $RVP is another OVERNIGHT HOLD! Look for this go :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983618855476379
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T19:34:28Z",
+        "content": "Alert: $TRCH is an OVERNIGHT HOLD! Just broke 1.64 resistance and high volume end of day. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": -0.2244,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935852885246277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T19:25:11Z",
+        "content": "Alert: $ATXS has heavy volume and is a good day trade before market end! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3375,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936167001724243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T19:19:32Z",
+        "content": "Alert: $HTGMQ is a solid day trade opportunity before market end! About to break the $3 wall... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7553237080574036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T17:52:25Z",
+        "content": "We should have issued another overnight hold alert for $MBRX. Up 111.89% since our post Monday \ud83d\ude48 Anyone still in???",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4098,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992009997367859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T13:48:44Z",
+        "content": "$BSTG went up 9.86% since our overnight alert! It doesn't get much cleaner than that :)",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.609,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996997117996216
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-28T03:05:02Z",
+        "content": "7 out of 7 successful alerts the past two days!\ud83c\udf36\ud83c\udf36\n\n$MBRX +55%\n$DCTH +28%\n$DXTR +22%\n$RNVA +9%\n$XTNT +9%\n$AVEO +5%",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878439903259277
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T19:58:49Z",
+        "content": "Alert: $BSTG is another OVERNIGHT HOLD! Looks good heading into tomorrow with increasing volume! Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6892,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6225149035453796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T19:56:23Z",
+        "content": "Alert: $PSTV is an OVERNIGHT HOLD! Possible gap filler. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999232292175293
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T18:18:44Z",
+        "content": "Don't be caught sleeping \ud83d\ude34\u274c $DXTR is up 22.27% since we first alerted it this morning! BINGO. BANGO. BONGO.",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965304732322693
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T18:03:10Z",
+        "content": "$DXTR is the gift that keeps on giving. Up 15.66% since our morning alert! \ud83c\udf81",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7777,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9942854046821594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T15:00:00Z",
+        "content": "$DXTR went up 12.36% since our day trade alert ONLY 29 MINUTES AGO! \ud83d\ude0e Shoutout to our chatroom for this great find!",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8252,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9269150495529175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T14:37:06Z",
+        "content": "$DXTR went up 5.75% since our day trade alert and it only took 5 MINUTES!\ud83d\udc06",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958129525184631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T14:28:32Z",
+        "content": "Alert: $DXTR is over .30 and is a good day trade! Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936665892601013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T14:11:18Z",
+        "content": "If you're just now waking up... CONGRATS \ud83c\udf8a our overnight alert $MBRX is up 53.15% since yesterday :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9679807424545288
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T13:58:16Z",
+        "content": "BOOYAH! $MBRX went up 44.76% since our overnight hold alert \ud83d\udca5 Who was able to pick up a share or two yesterday??",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6189,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966149926185608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T13:55:25Z",
+        "content": "$RNVA went up 9.09% since our alert ONLY 10 MINUTES AGO!! \ud83d\ude4c\ud83c\udffd",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841073751449585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T13:49:43Z",
+        "content": "$RNVA our chatroom spotted this and it ran before we barely had the time to alert it. Up 7.07% from our ST alert.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977051615715027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T13:43:39Z",
+        "content": "Alert: $RNVA is a solid day trade. Look for this to go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8984524607658386
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T13:39:37Z",
+        "content": "$MBRX our only overnight hold went up 41.96%!!! \ud83d\udd25 Congrats to our chatroom for finding this gem \ud83d\udc8e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6458,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9920111298561096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T13:36:23Z",
+        "content": "$MBRX up 34.27% since our overnight hold alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9735507965087891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T13:32:42Z",
+        "content": "$MBRX up 15.38% since our overnight hold!! Anyone get in??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933981895446777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-27T03:47:21Z",
+        "content": "5 out of 5 successful alerts today \ud83d\udd25 \n\n$DCTH +28.49%\n$XTNT +9.09%\n$AVEO +5.41%\n$MBRX +4.20%\n$ESNC + 2.89%",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9041997194290161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T20:05:12Z",
+        "content": "Also, a great job goes out to our chatroom for spotting $AVEO for a sweet 5.41% increase since our alert \ud83c\udf6d",
+        "sentiment": {
+            "TextBlob": 0.575,
+            "NLTK": 0.891,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9728853702545166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T20:02:59Z",
+        "content": "$MBRX up 4.20% end of day since we alert this as a overnight hold! Congrats to those who bought in and GL tomorrow \u2705",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.837,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7828062176704407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T19:43:36Z",
+        "content": "Alert: $MBRX is a high risk, high reward OVERNIGHT HOLD! Currently above the 100 sma. Bullish",
+        "sentiment": {
+            "TextBlob": 0.12,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9936522245407104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T19:40:25Z",
+        "content": "$AVEO up 4.32% since our alert ONLY 10 MINUTES AGO. Doesn't get any cleaner than that. How'd y'all do? \ud83e\udd20",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1734,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998589813709259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T19:27:35Z",
+        "content": "Alert: $AVEO is a good day trade if you're looking to scalp a few % points before market end Bullish",
+        "sentiment": {
+            "TextBlob": 0.24999999999999997,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9451717138290405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T18:52:53Z",
+        "content": "Multi-Day Swing Alert: $CLNE breached its 50 day moving average in a bullish manner. Also heavy insider buying during the end of May. Bullish",
+        "sentiment": {
+            "TextBlob": -0.175,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994888305664062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T18:38:45Z",
+        "content": "\ud83d\ude82 The little engine that could \ud83d\ude82 $DCTH up 28.49% since our morning alert. Amazing job team :)",
+        "sentiment": {
+            "TextBlob": 0.3041666666666667,
+            "NLTK": 0.8402,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9797385931015015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T18:13:03Z",
+        "content": "$DCTH up 22.91% since our alert this morning! That's what we are talking about. Our chatroom was all over this one\ud83d\udcb0",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991233944892883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T18:03:02Z",
+        "content": "BOOYAH! $DCTH Up 17.32% since our alert this morning. Did anyone take advantage of this move??\ud83d\ude0e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.593,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987245202064514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T14:12:06Z",
+        "content": "$ESNC up a nice 2.89% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9871677756309509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T13:57:38Z",
+        "content": "Alert: $ESNC is a quality day trade! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983628392219543
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T13:56:07Z",
+        "content": "$DCTH went up 11.73% since we alerted this as a day trade ONLY 7 MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887635707855225
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T13:54:15Z",
+        "content": "$XTNT up 9.09% since our overnight hold alert! Nice job everyone who snagged a couple shares \ud83d\udc4d\ud83c\udffd",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9761828780174255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T13:44:23Z",
+        "content": "Alert: $DCTH looks like a solid day trade! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.68,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.891345739364624
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T13:38:30Z",
+        "content": "It's crazy to think we alerted $MARA as a day trade last Wednesday and it's gone up 229.03% \ud83d\ude33 Congrats if you held!",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.3164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962400197982788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-26T01:27:02Z",
+        "content": "Last Weeks Alerts\ud83c\udf89\n$DCTH +200.60%\n$MARA +112.90% (Wed)\n$MARA +80.84% (Fri)\n$KTRA +12.93%\n$SINT +11.11%\n$PRKR +9.69%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896886348724365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T20:17:19Z",
+        "content": "We've alerted $MARA twice. On 6/21 it went up 112.90% and on 6/23 it went up 80.84% \ud83d\udca5 Anyone profit on both alerts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900527596473694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T20:01:38Z",
+        "content": "$XTNT nice close going into the weekend! Up 4.55%. Let's see what Monday has in store :)",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.7263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9529775977134705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T19:59:07Z",
+        "content": "$GST moved quick. Went up 5.71%.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7335814833641052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T19:53:39Z",
+        "content": "Alert: $GST looks like a very good scalp play before end of day! Unusual volume! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.879,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899565577507019
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T19:35:55Z",
+        "content": "Alert: $CRDF is a solid day trade! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9692413210868835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T19:35:02Z",
+        "content": "Alert: $XTNT is a OVERNIGHT HOLD! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955335855484009
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T14:30:42Z",
+        "content": "$MARA up 80.84% since our first alert! Our team was all over this one from the beginning. Beautiful.",
+        "sentiment": {
+            "TextBlob": 0.58125,
+            "NLTK": 0.75,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995761513710022
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T14:27:31Z",
+        "content": "$USAU up a solid 2.92% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993287324905396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T14:26:38Z",
+        "content": "$MARA went parabolic since our alert ONLY 50 MINUTES AGO! Up 69.30% \ud83d\udea8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950716495513916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T14:17:10Z",
+        "content": "$MARA up 26.97% since alerting this ONLY 40 MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.959443986415863
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T14:08:21Z",
+        "content": "Alert: $USAU is a solid day trade! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9409530758857727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T14:07:38Z",
+        "content": "$MARA up 23.12% since our alert ONLY 31 MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9644386172294617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T13:50:35Z",
+        "content": "Alert: $CYTR watch above .75 for a possible scalp play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984843134880066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T13:47:42Z",
+        "content": "Alert: $DCTH is back and is a good day trade! Bullish",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6220364570617676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T13:43:07Z",
+        "content": "$PRKR up 9.69% since our day trade alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.789115309715271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T13:42:11Z",
+        "content": "$MARA up 19.28% since our alert ONLY 5 MINUTES AGO \ud83d\udea8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.960310161113739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T13:34:56Z",
+        "content": "Alert: $MARA trying to make another run! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994869232177734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T13:32:31Z",
+        "content": "Alert: $TOPS low float bottom bounce scalp play :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99941086769104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T13:31:14Z",
+        "content": "Alert: $PRKR low float bottom bounce scalp play!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4738,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994039535522461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-23T01:41:12Z",
+        "content": "Today's recap of our top alerts! More to come :) \n\n$KTRA +12.93%\n$BSTG +8.76%\n$ARMP +2.21%",
+        "sentiment": {
+            "TextBlob": 0.5416666666666666,
+            "NLTK": 0.6548,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9761906266212463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T19:57:40Z",
+        "content": "$BSTG up 8.76% already since our overnight hold alert. Tomorrow will be fun, plenty of room to run.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968417882919312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T19:47:24Z",
+        "content": "Alert: $BSTG is another OVERNIGHT HOLD! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998941957950592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T19:45:17Z",
+        "content": "$ARMP solid 2.21% scalp play.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9967632293701172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T19:38:46Z",
+        "content": "Alert: $PED news and late eod volume. Watch for a break of the 200 sma at 1.17 Bullish",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998831570148468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T19:22:42Z",
+        "content": "Alert: $ARMP is an end of day scalp play! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5983,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99854576587677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T14:02:11Z",
+        "content": "Alert: $XXII news on FDA guidance. Look for this to run! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999357283115387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T13:57:00Z",
+        "content": "Alert: $TEAR has a good setup. Look for this to run! Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971742630004883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T13:50:25Z",
+        "content": "$KTRA up 12.93% since our day trade alert ONLY 3 MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9766964912414551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T13:45:16Z",
+        "content": "Alert: $KTRA news! Will run! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991647005081177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T13:44:22Z",
+        "content": "Alert: $LODE trying to make a move. Possible runner. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995682835578918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T02:29:20Z",
+        "content": "Our 2nd straight day an alert more than doubled \ud83d\udcaf\n\nDay 1 \ud83d\udc49\ud83c\udffd $DCTH +200.60%\nDay 2 \ud83d\udc49\ud83c\udffd $MARA +112.90%\nDay 3 \ud83d\udc49\ud83c\udffd ?",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9799633622169495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-22T00:34:16Z",
+        "content": "6 out of 7 successful alerts today\ud83d\udd25\n$MARA +112.90%\n$SINT +11.11%\n$DXTR +7.38%\n$LODE +7.21%\n$WKHS +4.2%\n$ASXC +2.48%",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.986213743686676
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T20:01:27Z",
+        "content": "$SINT went up 11.11% since our overnight alert! Thoughts on what tomorrow will bring?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8517241477966309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T19:56:14Z",
+        "content": "$SINT is already up 5.26% since our overnight hold alert. It'll be fun to see what happens tomorrow!",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.6996,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987058639526367
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T19:46:53Z",
+        "content": "Alert: $SINT is an OVERNIGHT HOLD. Unusual volume heading into close. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988124370574951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T19:43:06Z",
+        "content": "We love our chatroom. $MARA up 112.90% since our team alerted it this morning! BINGO. BANGO. BONGO.",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986842274665833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T19:33:05Z",
+        "content": "$MARA up 80.65% since our morning alert. Who does it better than us?? NOBODY!!",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.7222,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990910291671753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T19:22:51Z",
+        "content": "$ASXC up 2.48% for a quick scalp. Can't argue with GAIN$",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.2584,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7263755202293396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T19:19:02Z",
+        "content": "$MARA up 54.84% since first alerting it this morning! Wow, we've alert two 50%+ gainers in two days!!",
+        "sentiment": {
+            "TextBlob": 0.234375,
+            "NLTK": 0.783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6363927721977234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T19:11:46Z",
+        "content": "Alert: $ASXC looks like a good day trade! Increasing volume. Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.784,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955311417579651
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T18:59:35Z",
+        "content": "$MARA up 48.39% since alerting it this morning...BOOM! Our chatroom nailed this alert. Anyone snag a share or two??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6544,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9821324348449707
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T15:34:06Z",
+        "content": "$DXTR up 7.38% since alerted as an overnight hold!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9628121852874756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T14:12:09Z",
+        "content": "Alert: $LODE has gained 7.21% since our alert ONLY 13 MINUTES AGO! Anyone take advantage of the bounce?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.807,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974567294120789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T13:55:19Z",
+        "content": "Alert: $LODE possible runner! Trying to bounce off VWAP. Watch for a break of .17 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992514252662659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T13:50:27Z",
+        "content": "$WKHS up 4.20% since alerting this stock!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9708623290061951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T13:46:36Z",
+        "content": "Alert: $MARA possible runner! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983304142951965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T13:44:00Z",
+        "content": "Alert: $WKHS red to green. Possible runner. Bullish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978860020637512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-21T02:50:52Z",
+        "content": "We've alerted $DCTH twice. On 6/8/17 it gained +90.48%. On 6/19/17 it gained +200.60%. Anyone profit on both alerts?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931506514549255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T19:59:14Z",
+        "content": "Alert: $DARE is another OVERNIGHT HOLD alert. Coming out of a squeeze. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982427358627319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T19:50:53Z",
+        "content": "Alert: $DXTR also looks good for an OVERNIGHT HOLD! The overnight hold alert superceeds our prior day trade alert. Buckle up. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.8313,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928402900695801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T19:42:15Z",
+        "content": "Alert: $DXTR looks good for an intra-day scalp before close! Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971402883529663
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T16:43:35Z",
+        "content": "Our chatroom was all over this one. Where were you? Alerted $DCTH as an overnight hold yesterday and now up +200.60%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988476037979126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T16:29:41Z",
+        "content": "$DCTH has us speechless. Up 150.50% since our overnight alert yesterday! 150%? 150%... 150%!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5216,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7839411497116089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T14:14:23Z",
+        "content": "$DCTH our team was all over this stock. Alerted yesterday as an overnight hold and the rest was history... +110.42%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983708262443542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T13:47:43Z",
+        "content": "$INFI up 5.43% since our overnight alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9095594882965088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T13:39:18Z",
+        "content": "$INFI up a solid 3.36% since our overnight hold alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976390600204468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-20T13:33:58Z",
+        "content": "$DCTH up officially 20.24% since our overnight hold alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9829484820365906
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-19T23:52:46Z",
+        "content": "$DCTH up 20.24% after hours!! We nailed this for a second time :) Anyone pick up a share or two? Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6988,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990984201431274
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-19T20:04:32Z",
+        "content": "Anyone remember when we made our first alert on $DCTH back on June 8th. Let's see if it happens again :)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995342493057251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-19T20:01:21Z",
+        "content": "$HOS and that's how it's done! 4.68% in ONLY SIX MINUTES. Great scalp call :)",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.8122,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9904475212097168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-19T19:55:01Z",
+        "content": "Alert: $DCTH is an OVERNIGHT HOLD! High risk, high reward play. Breaking out. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.7574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9453911781311035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-19T19:53:09Z",
+        "content": "Alert: $HOS possible quick scalp before close! Bullish",
+        "sentiment": {
+            "TextBlob": 0.20833333333333331,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977795481681824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-19T19:49:09Z",
+        "content": "Alert: $RGLS is another OVERNIGHT HOLD! Possible bottom found. Watch for this to break $1. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990344047546387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-19T19:48:11Z",
+        "content": "Alert: $INFI is an OVERNIGHT HOLD! Over the 50 sma with good volume into the close. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9863165020942688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-16T22:09:52Z",
+        "content": "TOP ALERTS\n ~PAST 30 DAYS~\n\n$DCTH +90%\n$CMLS +41%\n$VXRT +27%\n$PBYI +26%\n$TOPS +22%\n$HMNY +18%\n$CCLD +12%\n$CBIO +11%",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.368,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9772952795028687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-16T22:08:13Z",
+        "content": "This weeks wonderful recap :)\n\n$ADMP +11.30%\n$OHRP +8.15%\n$BPTH +7.00%\n$REXX +3.07%\n$NM +2.38%\n$XXII +2.15%",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9951168298721313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-16T13:37:10Z",
+        "content": "$ADMP boom!!! Up 11.30% since we alerted this as an overnight hold. Amazing job team :)",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.826,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9933063387870789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-16T13:35:38Z",
+        "content": "$XXII up 2.15% since our overnight hold alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7472087740898132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-16T03:48:23Z",
+        "content": "$ADMP congrats longs who saw our overnight alert! Up 6.96% in after hours :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8356,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9810724258422852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-15T19:49:16Z",
+        "content": "Alert: $ADMP received FDA approval today. This is an OVERNIGHT HOLD. Buyer beware...High risk, high reward play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979821443557739
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-15T19:47:03Z",
+        "content": "Alert: $XXII looks good for an OVERNIGHT HOLD! Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8735926747322083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-15T17:22:13Z",
+        "content": "$OHRP up 8.15% since our overnight alert!!! Great call team :)",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.88,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9571048617362976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-15T16:04:28Z",
+        "content": "$OHRP up 5.19% since our overnight hold alert yesterday during power hour!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.975911021232605
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-14T19:55:40Z",
+        "content": "Alert: $ISEE looking to break the 50sma @ 2.71. Another stop limit just above that limit for an OVERNIGHT HOLD could be a solid play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902666211128235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-14T19:54:42Z",
+        "content": "Alert: $OHRP looking to break the 50sma @ 0.68. A stop limit just above that limit for an OVERNIGHT HOLD could be a solid play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849802851676941
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-13T00:46:24Z",
+        "content": "$BPTH our only overnight alert went on fire during after hours! Up 7.00%. Did anyone grab a share or two?? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3923,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995630383491516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-12T19:45:45Z",
+        "content": "Alert: $BPTH crossed the 20sma today at .42 with increasing volume makes this an OVERNIGHT HOLD! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910547137260437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-12T17:43:36Z",
+        "content": "$REXX up 3.07% since our alert. Nice job team.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965208768844604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-12T14:34:35Z",
+        "content": "$NM up 2.38% since our weekend hold alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8802471160888672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-11T19:17:35Z",
+        "content": "Only three alerts last week but two of those overnight alerts absolutely crushed it :)\n$DCTH +90.48%\n$VXRT +27.25%",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.066,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990259408950806
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-09T19:39:58Z",
+        "content": "Alert: $NM showing good support at the 20sma of 1.25. MACD crossed over to green over red. Buckle up as this is another WEEKEND HOLD. Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955986738204956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-09T19:33:55Z",
+        "content": "Alert: $REXX is a WEEKEND HOLD. Great volume heading into close with a solid chart setup. Look for this to continue up! Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.8016,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9930504560470581
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-09T15:19:15Z",
+        "content": "$DCTH up 90.48% since our alert. Can someone say BOOM!? Stay tuned as we find more winners :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8467,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9645101428031921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-09T15:03:36Z",
+        "content": "$VXRT up 27.25% since our alert! The gift that keeps on giving.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7777,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.988224983215332
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-09T15:00:05Z",
+        "content": "$VXRT up 15.13% since our alert as a overnight hold! Another great alert :)",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.8955,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9714857935905457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-09T13:41:32Z",
+        "content": "$DCTH up 66.67% since our alert during yesterday's power hour!! Great call made by our analyst. More to come...",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.7835,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.99504154920578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-08T19:56:45Z",
+        "content": "Alert: $WKHS is currently breaking out and is another quality OVERNIGHT HOLD as this move looks to continue. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8361440300941467
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-08T19:51:43Z",
+        "content": "Alert: $VXRT is a good OVERNIGHT HOLD. Crossed both 13 and 20sma. Tie in the unusual volume its been having and it seems to be a solid play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999392032623291
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-08T19:43:33Z",
+        "content": "Alert: $DCTH high risk high reward OVERNIGHT HOLD. This could be a big play moving forward into tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": 0.10666666666666667,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894973039627075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-02T17:10:36Z",
+        "content": "$TXMD is up 7.17% since our alert on an overnight hold. Again... you're welcome :)",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971643090248108
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-02T15:15:50Z",
+        "content": "$TXMD up 4.89% since our alert as an overnight hold. You're welcome.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994844198226929
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-01T19:56:10Z",
+        "content": "Alert: $TXMD looks good for an OVERNIGHT HOLD. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978013634681702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-06-01T14:29:46Z",
+        "content": "Special Swing Alert: $FUEL found support. Be sure to set your stop losses and let this girl run. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4285714285714286,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967671632766724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-30T14:08:04Z",
+        "content": "$SCON is up 3.96% since our weekend hold alert! Another solid alert made by our team :)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.807,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989156723022461
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-30T14:06:30Z",
+        "content": "$ZSANQ is up 2.68% since our weekend hold alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5955625176429749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-26T19:49:37Z",
+        "content": "Alert: $ZSANQ is another WEEKEND HOLD. Recent insider buying. Should rise in anticipation of Wednesday's shareholder meeting. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938110709190369
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-26T19:46:36Z",
+        "content": "Alert: $SCON is a WEEKEND HOLD. Low float. MACD trying to crossover. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993999004364014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-26T18:19:05Z",
+        "content": "$MNKD up 13.59% since our overnight alert yesterday during power hour!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900222420692444
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-26T01:06:55Z",
+        "content": "Today's Excellent Recap (5/24)\n\n$TOPS +22.25%\n$GLG +6.81%\n$AMTX +6.06%\n$GLYC +5.91%\n$BCRX +5.64%\n$KA +5.20%",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9963334798812866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T19:48:34Z",
+        "content": "Alert: $MNKD is another OVERNIGHT HOLD. Wedge break setup and using the 50sma as support. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999091625213623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T19:43:43Z",
+        "content": "Alert: $ROX looks good for an OVERNIGHT HOLD. Takeover rumors. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997893750667572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T14:54:14Z",
+        "content": "$GLYC up 5.91% since our first alert.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5334901213645935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T14:23:54Z",
+        "content": "$AMTX up 6.06% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8376639485359192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T14:19:58Z",
+        "content": "$BCRX up 5.64% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8775976300239563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T14:16:13Z",
+        "content": "Alert: $AMTX potential to go higher. We believe the market hasn't fully grasp the news. Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994010925292969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T14:11:58Z",
+        "content": "$GLG up 6.81% since our alert ONLY 14 MINUTES AGO. Solid alert team.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9988141059875488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T14:09:58Z",
+        "content": "$GLYC up 3.24% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.882623553276062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T14:06:21Z",
+        "content": "$GLG up 4.68% since our alert ONLY EIGHT MINUTES AGO.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780094623565674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:56:45Z",
+        "content": "Alert: $GLG possible bouncer. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962921142578125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:54:28Z",
+        "content": "$BCRX up 4.05% since our alert ONLY SIX MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9746677875518799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:52:44Z",
+        "content": "$TOPS Up 22.25% in ONLY THREE MINUTES! Wow that ran fast.",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8425112962722778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:48:05Z",
+        "content": "Alert: $TOPS is ready to boom! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6114,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7789008021354675
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:46:29Z",
+        "content": "Alert: $BCRX high risk play. Runner on news. Potential day trade. Bullish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965272545814514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:42:18Z",
+        "content": "Alert: $MBRX look for confirmation above $1 with tight stop losses for a potential day trade. Bullish",
+        "sentiment": {
+            "TextBlob": -0.05952380952380953,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989547729492188
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:35:32Z",
+        "content": "$KA up 5.20% since our overnight alert yesterday during power hour!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9786304831504822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T13:30:30Z",
+        "content": "Alert: $GLYC running on news. Potential day trade. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989097118377686
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-25T01:13:47Z",
+        "content": "We were 3/3 for our alerts. An all Green Day! Great job today team :)\n$CBIO +10.86%\n$IDN +3.81%\n$LEDS +1.66%",
+        "sentiment": {
+            "TextBlob": 0.35000000000000003,
+            "NLTK": 0.8122,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9961393475532532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T19:49:59Z",
+        "content": "Alert: $KA Is looking good for an OVERNIGHT HOLD. Increasing volume heading into close with 13m float. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983443021774292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T14:45:15Z",
+        "content": "$LEDS up 1.66% since our alert. Nothing wrong with being in the green.",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": 0.5795,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9881970286369324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T14:42:08Z",
+        "content": "$IDN up a healthy 3.81% since our alert 32 minutes ago.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9692729711532593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T14:36:27Z",
+        "content": "$CBIO up 10.86% since we first alerted it!",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9356405735015869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T14:11:26Z",
+        "content": "$CBIO unusual volume. Possible runner. Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978011250495911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T14:08:37Z",
+        "content": "Alert: $IDN 52 week breakout out. Should continue to run intra day. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979925155639648
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T14:05:52Z",
+        "content": "Alert: $LEDS potential breakout play Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828952550888062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-24T03:50:03Z",
+        "content": "More great alerts by our team! We hope to help you all out :)\n\n$HMNY +17.96%\n$FNCX +10.77%\n$AVTX +8.66%\n$VRAY +5.75%",
+        "sentiment": {
+            "TextBlob": 0.6666666666666666,
+            "NLTK": 0.9229,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968106150627136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:52:01Z",
+        "content": "$SMRT up only 2.70% but hey... profit is profit! Good alert.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.9397,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9969761371612549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:43:14Z",
+        "content": "$HMNY up 17.96% since our alert!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8933628797531128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:41:36Z",
+        "content": "$AVTX went up 8.66% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5843286514282227
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:29:02Z",
+        "content": "Alert: $AVTX director buys 72,672 shares. Great day trade here! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.8313,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934930205345154
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:25:41Z",
+        "content": "$FNCX boom!! Up 10.77% since we alerted this ONLY EIGHT MINUTES AGO.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9443119168281555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:16:10Z",
+        "content": "Alert: $FNCX might have found a bottom. Look for this to go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999413251876831
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:12:28Z",
+        "content": "Alert: $SMRT breaking new intra day highs! It'll keep going. Bullish",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.804364025592804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:08:26Z",
+        "content": "$HMNY went up 10.22% since our alert ONLY THREE MINUTES AGO. Nice day trade team :)",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9813553690910339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:04:20Z",
+        "content": "$VRAY great overnight alert, up 5.75%!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7644,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9943011999130249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T14:03:32Z",
+        "content": "Alert: $HMNY reversal. Look for this to pop this morning! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989111423492432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T13:55:46Z",
+        "content": "$VRAY our overnight pick is up 4.29% since our alert during yesterday's power hour! Quality alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9583477973937988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T13:52:32Z",
+        "content": "$TMBR up 5.65% since our alert! Nice little pop.",
+        "sentiment": {
+            "TextBlob": 0.20625,
+            "NLTK": 0.6476,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9965752959251404
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T13:45:04Z",
+        "content": "Alert: $TMBR gapping up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988595247268677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-23T03:11:13Z",
+        "content": "Great alerts by our analyst team today! Let's see what tomorrow brings :)\n$CMLS +40.70%\n$PBYI +26.09%\n$CCLD +11.87%",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.8122,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991505146026611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T19:53:58Z",
+        "content": "Alert: $VRAY looks good for an overnight hold! Bullish",
+        "sentiment": {
+            "TextBlob": 0.875,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9274640083312988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:25:01Z",
+        "content": "$CMLS up 40.70% since our alert ONLY 31 MINUTES AGO. Great job team :)",
+        "sentiment": {
+            "TextBlob": 0.43333333333333335,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.995802104473114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:21:14Z",
+        "content": "$CMLS so far our best alert of the day. Up 35.62%",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.7693,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966316819190979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:19:18Z",
+        "content": "Alert: $CMLS up 25.44% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5707,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9808781147003174
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:17:56Z",
+        "content": "Alert: $PI with a new all time break! Bullish",
+        "sentiment": {
+            "TextBlob": 0.17045454545454544,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970025420188904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:13:28Z",
+        "content": "$PBYI up a violent $26.09% since our alert at its second halt only 8 minutes ago! Halted again...",
+        "sentiment": {
+            "TextBlob": -0.26666666666666666,
+            "NLTK": -0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987012147903442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:07:59Z",
+        "content": "$CMLS up 15.27% since alerting this ONLY 16 MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.987453818321228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:04:00Z",
+        "content": "Alert: $FNSR with the possible breakout Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967656135559082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T14:02:43Z",
+        "content": "Alert: $PBYI halted. Could continue for the short moments following the halt! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996165037155151
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T13:57:10Z",
+        "content": "Alert: $PULM trying to break the 50SMA. Potential runner! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972566962242126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T13:54:44Z",
+        "content": "$CMLS another quick day trade yielding 10.19%! Hope you caught this.",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5196949243545532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T13:50:22Z",
+        "content": "Alert: $CMLS possible runner from a bounce off VWAP. Look for this to go up! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976425766944885
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T13:41:58Z",
+        "content": "$CCLD up 11.87% since our alert ONLY SIX MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990687906742096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-05-22T13:33:29Z",
+        "content": "Alert: $CCLD about to go higher! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983752965927124
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-26T19:43:46Z",
+        "content": "Alert: $RNVA looking great for an overnight hold! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7644,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5879035592079163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-21T19:46:03Z",
+        "content": "Alert: $QLGN held $1 very well today. Possible bottom bounce with increasing volume EOD! Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5974,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925379157066345
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-20T15:58:58Z",
+        "content": "Alert: $SNGX possible rebound!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9823055863380432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-20T00:41:26Z",
+        "content": "Recap of today\u2019s verified alerts. Great job team, more to come!\n$FNCX +22.64%\n$ADPT +18.85%\n$CALI +9.78%",
+        "sentiment": {
+            "TextBlob": 0.7125,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.98973548412323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T19:56:42Z",
+        "content": "Alert: $SFUN good end of day volume. Possible bull flag breakout. Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.940895676612854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T19:38:56Z",
+        "content": "Alert: $POAI speculation on big news to come. Will run! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990635514259338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T19:34:56Z",
+        "content": "$FNCX up 22.64% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.91351717710495
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T18:47:04Z",
+        "content": "$FNCX up 18.87% since yesterday's alert",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9357147812843323
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T16:24:29Z",
+        "content": "$ADPT up 18.85% since our first alert this morning!!!",
+        "sentiment": {
+            "TextBlob": 0.48828125,
+            "NLTK": 0.4724,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5707644820213318
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T14:43:59Z",
+        "content": "$ADPT up 13.93% since our alert. Great job team!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7644,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994958639144897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T14:21:59Z",
+        "content": "$ADPT up 7.38% since alerting this only 43 minutes ago!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862378835678101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T14:04:19Z",
+        "content": "Alert: $PRKR possible bottom found on news. CM Asset Management Inc. WA bought a new position in shares of ParkerVision, Inc. Bullish",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995927214622498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T13:53:27Z",
+        "content": "$CALI up 9.78% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6721046566963196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T13:50:24Z",
+        "content": "$ADPT up 4.92% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9439381957054138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T13:48:25Z",
+        "content": "Alert: $DSX possible bounce play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982513785362244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T13:47:06Z",
+        "content": "Alert: $CALI running. Look for this to continue. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993926286697388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T13:37:17Z",
+        "content": "Alert: $ADPT possible bounce play Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951209425926208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-19T02:57:18Z",
+        "content": "Great alerts today with $DCTH +21.95% and $SCON +14.42% \n\nFollow us for additional alerts: $BHC $OCUP $PTN $PLX $XOMA",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6958750486373901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T19:45:35Z",
+        "content": "Alert: $NURO MACD crossover green over red. Plus news. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977760910987854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T19:04:23Z",
+        "content": "Alert: $IDXG possible bounce play Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911862015724182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T17:35:58Z",
+        "content": "$DCTH up 21.95% since our alert! Another great call by our team. We hope you all profited off this :)",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": 0.9299,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9912871718406677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T14:20:34Z",
+        "content": "Alert: $DCTH possible intraday runner. Good setup. Bullish",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8221346139907837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T14:12:10Z",
+        "content": "$SCON up 14.42% since our first alert yesterday during power hour!",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9883660078048706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T14:10:14Z",
+        "content": "$SCON up 11.63% since our alert",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910213351249695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T14:07:51Z",
+        "content": "$SCON up 7.44% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900500774383545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T13:58:17Z",
+        "content": "Alert: $FNCX booming Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989629983901978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-18T03:03:33Z",
+        "content": "Recap of today\u2019s verified alerts! Another solid day :)\n $OHRP +17.51%\n$UNIS +13.86%\n$CRDF +11.32%\n$AVGR +10.77%",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5983,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9553198218345642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T19:47:28Z",
+        "content": "Alert: $INFI looks good heading into tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844298362731934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T19:46:15Z",
+        "content": "Alert: $SCON bull flag break. Look for this to continue! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988536834716797
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T16:59:48Z",
+        "content": "$OHRP up 17.51% since our alert on insider buying!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9673650860786438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T16:17:41Z",
+        "content": "$GSAT up 1.36% since alerted. This stock has plenty of room to run. Buckle up :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982044696807861
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T15:56:22Z",
+        "content": "$OHRP up 12.51% since our alert on insider buying last Thursday! Did anyone take advantage and profit from this? :)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8553,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965978264808655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T15:27:34Z",
+        "content": "$AVGR up 10.77% since our first alert!",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9404239654541016
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T15:12:28Z",
+        "content": "$AVGR up 7.69% since our alert LESS THAN ONE HOUR AGO!",
+        "sentiment": {
+            "TextBlob": -0.20833333333333331,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9853305816650391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T14:45:39Z",
+        "content": "$UNIS up 13.86% since we alerted this ONLY 10 MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950366616249084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T14:34:18Z",
+        "content": "Alert: $UNIS possible flyer Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986200332641602
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T14:28:27Z",
+        "content": "$AVGR up 6.15% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977984607219696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T14:24:30Z",
+        "content": "Alert: $AVGR looking to break higher Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976696372032166
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T14:18:00Z",
+        "content": "Alert: $GSAT watch over 1.85 for a potential gap up. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969403743743896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-17T13:44:17Z",
+        "content": "$CRDF up 11.32% since alerting as a weekend holder!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5702352523803711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-16T01:34:50Z",
+        "content": "$ADPT our best alert to date! We had a 245% runner this week. We hope you caught this!! $OCUP $INNL $CBIO $INO $TVIX",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.88,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8773283958435059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T19:52:43Z",
+        "content": "Alert: $IMGN back over the 50 sma. Heavy volume into close. Weekend holder. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991299510002136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T19:48:01Z",
+        "content": "Alert: $CRDF is over the 20 sma of 1.03. Weekend holder. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986771941184998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T17:40:37Z",
+        "content": "$AMRS up 21.41% since yesterday's alert just before close.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892956614494324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T15:18:40Z",
+        "content": "Alert: $OHRP insider buying of $100,000 in stock buy a director. The SEC Form 4 was filed seven minutes ago. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991515874862671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T14:28:05Z",
+        "content": "Alert: $NVAX about to run!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991745352745056
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T14:11:35Z",
+        "content": "Alert: $HSTO big volume coming in! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967221617698669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T14:04:20Z",
+        "content": "Alert: $SPU watch above $3 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875840544700623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T13:56:39Z",
+        "content": "Alert: $OCUP big bids coming in! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912147521972656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T13:55:45Z",
+        "content": "$FCSC up 10% since alerted.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6233270764350891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T13:53:52Z",
+        "content": "$CVM up 10% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9173019528388977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T13:51:56Z",
+        "content": "Alert: $FCSC flying. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986598491668701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T13:48:47Z",
+        "content": "Alert: $CVM watch over .10 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975500702857971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T13:36:17Z",
+        "content": "$AMRS up 12.48% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9799823760986328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-13T02:39:57Z",
+        "content": "Today\u2019s verified alerts: Follow us if you\u2019re seeking GAINZZZ\n$ADPT +245.25%\n$NADL +43.02%\n$PED +14.84%\n$TOPS +14.79%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936328530311584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T19:58:43Z",
+        "content": "Alert: $AMRS closing over the 50 sma with increasing volume! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967992305755615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T19:55:16Z",
+        "content": "$TOPS up 14.79% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.963580846786499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T19:51:31Z",
+        "content": "$TOPS up 9.24% since our alert!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9760042428970337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T19:47:09Z",
+        "content": "Alert: $TOPS great setup heading into tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850063920021057
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T15:01:38Z",
+        "content": "Alert: $ITEK looks to fill its gap. Potential runner.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976716637611389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T14:23:31Z",
+        "content": "Alert: $QBAK MACD crossover to green over red. Potential runner. Bullish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962213039398193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T14:12:17Z",
+        "content": "$QLGN let's see if this gears up for a beautiful pop. Bullish",
+        "sentiment": {
+            "TextBlob": 0.85,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9452493786811829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T14:04:19Z",
+        "content": "Alert: $QLGN possible runner on news. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965763688087463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T14:00:20Z",
+        "content": "$ADPT up 245.25% since our alert less than 48 hours ago! Congrats to our first +200% call in only two days.",
+        "sentiment": {
+            "TextBlob": 0.013888888888888895,
+            "NLTK": 0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.973139226436615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T13:56:36Z",
+        "content": "$ADPT up 186.51% since our alert ONLY MONDAY. Crazy sauce.",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9814136028289795
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T13:52:59Z",
+        "content": "$ADPT up 158.68% since our alert ONLY MONDAY! I guess it did pass $1 with ease :)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936074018478394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T13:38:49Z",
+        "content": "$PED up 14.84% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902769327163696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T13:36:38Z",
+        "content": "$NADL up 43.02% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9743931293487549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T13:34:44Z",
+        "content": "$NADL up 36.43% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9766833186149597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-12T01:54:48Z",
+        "content": "Recap of today's verified alerts!!\n\n$ADPT +27.80%\n$USIO +24.52%\n$NADL +20.16%\n$AIM.DL0223 +10.91%\n$PLUG +9.80%\n$RNVA +5.97%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942371845245361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T23:14:47Z",
+        "content": "$ADPT up 27.80% since our first alert. The gift that keeps on giving.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979026317596436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T22:07:26Z",
+        "content": "$ADPT up 23.67% since alerting this on Monday during power hour. Our analyst team has been killing it! More to come.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.69,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995206594467163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T20:31:49Z",
+        "content": "$NADL up 20.16% in after hours since we alerted this as a possible overnight runner!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9792896509170532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T19:54:04Z",
+        "content": "Alert: $ISSC possible overnight runner. MACD crossover green over red! Bullish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951937794685364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T19:50:41Z",
+        "content": "Alert: $PED possible runner going into tomorrow. Higher risk play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977896213531494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T19:48:17Z",
+        "content": "Alert: $NADL possible overnight runner. Higher risk play. Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965807795524597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T19:43:19Z",
+        "content": "Alert: $GNCAQ possible runner going into tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966825842857361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T19:28:31Z",
+        "content": "$ADPT up 11.31% since our first alert.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8657482862472534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T17:29:10Z",
+        "content": "$ADPT up 8.21% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9426460266113281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T17:25:59Z",
+        "content": "$ADPT up 6.15% since our alert yesterday. Another solid alert :)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9053487777709961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T16:58:32Z",
+        "content": "$ADPT up 3.06% since our overnight alert yesterday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.966960072517395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T15:17:47Z",
+        "content": "$AIM up 10.91% since our alert. Great find team, quality alert.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9740877747535706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T15:13:36Z",
+        "content": "$AIM up 7.27% since our alert only one hour ago.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847447276115417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T15:04:07Z",
+        "content": "$AIM up 3.64% since our alert on insider buying! It still has room to run :)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978803396224976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T14:14:50Z",
+        "content": "$PLUG up 9.80% since our alert yesterday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921477437019348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T14:12:13Z",
+        "content": "Alert: $AIM insider buying today by the CEO for $100,000! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979256391525269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T13:59:18Z",
+        "content": "$USIO up 24.52% since our first alert.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9489649534225464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T13:53:56Z",
+        "content": "Alert: $USIO halted. This will pop moments after the halt. Good luck. Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9623886942863464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T13:52:41Z",
+        "content": "Alert: $USIO flying. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987126588821411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T13:47:18Z",
+        "content": "Alert: $AUPH broke high of day on upgrade Bullish",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951306581497192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T13:42:30Z",
+        "content": "$PLUG up 8.16% since our alert yesterday a few minutes before close.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952612519264221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T13:39:55Z",
+        "content": "$RNVA up 5.97% since our overnight alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9627301096916199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T02:31:40Z",
+        "content": "Today\u2019s Top alerts :)\n\n$ENRJ +17.98%\n$TOPS +12.90%\n$PSHG +11.39%\n$IMNN +9.32%\n$LEDS +9.05%\n$GLBS +8.69%\n$BLCM +2.95%",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984489917755127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-11T01:43:00Z",
+        "content": "$LEDS up 9.05% in after hours since our alert before the close. Another great call!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7644,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9968814849853516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T20:02:08Z",
+        "content": "$BLCM up 2.95% since our first alert.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9710392355918884
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T19:55:37Z",
+        "content": "Alert: $PLUG possible runner. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989446997642517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T19:53:16Z",
+        "content": "Alert: $LEDS possible runner Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956092238426208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T19:45:01Z",
+        "content": "Alert (Overnight Pick): $RNVA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985413551330566
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T19:42:57Z",
+        "content": "Alert (Overnight Pick): $ADPT this should pass $1 with ease. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981762170791626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T19:31:34Z",
+        "content": "$BLCM up 1.36% since our alert... but hey, a gain is a gain.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.8807,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6564205288887024
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T18:00:02Z",
+        "content": "Alert: $BLCM looks like a solid play",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9977527260780334
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T14:44:58Z",
+        "content": "$PSHG up 11.39% since our first alert ONLY 32 MINUTES AGO!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9321128129959106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T14:22:42Z",
+        "content": "Alert: $OCUP look for continuation above .70 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983622431755066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T14:21:05Z",
+        "content": "$PSHG up 6.33% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8545907139778137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T14:18:05Z",
+        "content": "$GLBS up 8.69% since our alert. Nice day trade.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5462562441825867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T14:11:37Z",
+        "content": "Alert: $GLBS halted. This will have a massive pop after the halt. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992117881774902
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T14:10:51Z",
+        "content": "Alert: $PSHG possible runner! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989180564880371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T14:08:28Z",
+        "content": "$IMNN up 9.32% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9658949971199036
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T13:57:48Z",
+        "content": "Alert: $IMNN possible runner. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989253878593445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T13:54:38Z",
+        "content": "$ENRJ up 17.98% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8185122013092041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T13:51:31Z",
+        "content": "Alert: $YECO second halt of the day! Second flyer.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988676309585571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T13:46:55Z",
+        "content": "Alert: $ENRJ haulted! This will fly the minutes following the hault. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870894551277161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T13:44:07Z",
+        "content": "$TOPS up 12.90% in only a few minutes since we alerted this.",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9829968214035034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-10T13:38:25Z",
+        "content": "Alert: $TOPS with the reversal. Look for a gap up. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984044432640076
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-09T05:10:19Z",
+        "content": "Last weeks top alerts (Part 1/3):\n\n$SEII +152.45%\n$CETC +110.40%\n$INNL +94.97%\n$SAVA +32.71%\n\n(Verified via posts in our feed)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944362640380859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-09T05:09:22Z",
+        "content": "Last weeks top alerts (Part 2/3):\n\n$SSKN +28.07%\n$AEHL +25.89%\n$IGC +20.18%\n$GALT +14.46%\n\n(Verified via posts in our feed)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949648976325989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-09T05:08:49Z",
+        "content": "Last weeks top alerts (Part 3/3):\n\n$TGC +13.64%\n$TMBR +13.09%\n$AUPH +9.70%\n$HSTO +8.06%\n$CIE +5.69%\n\n(Verified via posts in our feed)",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993901252746582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-08T01:51:50Z",
+        "content": "Follow us for the latest alerts:)\n \n$INNL 94.97% Gain\n$HSTO 8.06% Gain\n$GALT 14.46% Gain\n$AEHL 25.89% Gain",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.9274,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873461127281189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-08T01:51:35Z",
+        "content": "Follow us for the latest alerts:) \n\n$SEII 152.45% Gain\n$SAVA 32.71% Gain\n$TMBR 13.09% Gain\n$IGC 20.18% Gain",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.9274,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906920790672302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-08T01:50:30Z",
+        "content": "We had an amazing week! Follow us for the latest alerts:) \n\n$CETC 110.40% \n$SSKN 28.07% \n$TGC 13.64% \n$CIE 5.69%",
+        "sentiment": {
+            "TextBlob": 0.5833333333333334,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9579455852508545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T22:33:03Z",
+        "content": "$CIE up 5.69% since we alerted this during power hour.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.968214213848114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T19:59:42Z",
+        "content": "$GALT up 14.46% since our first post.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9356399178504944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T19:41:28Z",
+        "content": "$HSTO up 8.06% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8590875267982483
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T19:34:57Z",
+        "content": "$HSTO up 5.15% since our alert just a few minutes ago.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9795875549316406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T19:28:48Z",
+        "content": "ALERT: $HSTO low float squeeze",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2103,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981732368469238
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T19:22:07Z",
+        "content": "ALERT: $CIE broke resistance. Look for continuation above .60",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0343,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948863387107849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T18:47:35Z",
+        "content": "$GALT up 12.85% since we first alerted this stock. We've been on this run all morning.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930883049964905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T18:07:21Z",
+        "content": "$GALT up 9.64% since our first alert. Always be on the lookout for our \"ALERT:\" notification throughout the day!",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5514412522315979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T18:01:52Z",
+        "content": "$GALT up 7.23% since our first alert.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5598387122154236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T16:47:05Z",
+        "content": "$GALT up 6.43% since we first alerted this yesterday. Another solid alert.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987646341323853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T16:25:48Z",
+        "content": "$GALT up 3.61% since we alerted this yesterday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9345829486846924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T15:59:49Z",
+        "content": "$AEHL up 25.89% since alerting this less than two hours ago!",
+        "sentiment": {
+            "TextBlob": -0.20833333333333331,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9816625714302063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T15:07:24Z",
+        "content": "$AEHL up 10.27% since alerting this only 41 minutes ago.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779946208000183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:52:58Z",
+        "content": "$AEHL up 4.91% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9111282229423523
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:40:02Z",
+        "content": "$CETC up 110.40% since alerting this 31 minutes ago.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9598572254180908
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:38:18Z",
+        "content": "$CETC what a clean call. Up 100% since we alerted this only 29 minutes ago!!",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.508,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870118498802185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:35:25Z",
+        "content": "$AUPH up 9.70% since our first alert yesterday.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9692497849464417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:33:31Z",
+        "content": "$CETC up 80% since our first alert. Hope you all caught this:)",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9536328911781311
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:28:56Z",
+        "content": "ALERT: $VCON low float! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2789,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997411370277405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:24:08Z",
+        "content": "ALERT: $AEHL another hot China stock about to pop! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.4981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991093277931213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:18:54Z",
+        "content": "ALERT: $AEHL another hot China stock about to pop! Get ready... Bullish",
+        "sentiment": {
+            "TextBlob": 0.25625,
+            "NLTK": 0.4981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993160963058472
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:13:53Z",
+        "content": "$CETC up 55.60% since our alert. Another solid day for us.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996217489242554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:07:23Z",
+        "content": "ALERT: $CETC halted. Third halt of the day. Third flyer!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985584616661072
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:03:08Z",
+        "content": "$TGC up 13.64% since our alert.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819455742835999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T14:01:22Z",
+        "content": "$SSKN another successful call. Up 28.07% since our first alert.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8970639109611511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T13:54:08Z",
+        "content": "ALERT: $TGC halted. This could fly! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.4981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998330295085907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T13:53:19Z",
+        "content": "ALERT: $SSKN halted. Watch for this to fly quickly. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997607946395874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T13:49:44Z",
+        "content": "$SEII up 152.45% since our very first alert.",
+        "sentiment": {
+            "TextBlob": 0.325,
+            "NLTK": 0.3566,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8338302969932556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T13:42:36Z",
+        "content": "$AUPH up 5.61% since our first alert yesterday",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9682069420814514
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T13:40:22Z",
+        "content": "$SEII this is insane. Up 139.53% since our first alert.",
+        "sentiment": {
+            "TextBlob": -0.375,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9615382552146912
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-07T04:21:51Z",
+        "content": "Quick recap of our alerts since yesterday!\n\n$SEII 100.78% Gain\n$INNL 94.97% Gain\n$SAVA 32.71% Gain\n$TMBR 13.09% Gain",
+        "sentiment": {
+            "TextBlob": 0.41666666666666663,
+            "NLTK": 0.9312,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912853837013245
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T21:23:09Z",
+        "content": "$SAVA we simply can't post fast enough! Up 32.71% since our first alert.",
+        "sentiment": {
+            "TextBlob": 0.1125,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965586066246033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T21:20:54Z",
+        "content": "$SAVA continues to climb. Up 26.39% since our first alert. Woot woot!!",
+        "sentiment": {
+            "TextBlob": 0.390625,
+            "NLTK": 0.8118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9374942183494568
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T21:17:51Z",
+        "content": "$AUPH Positive news. This will run!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.35511363636363635,
+            "NLTK": 0.6351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9878697991371155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T21:05:07Z",
+        "content": "$SAVA up 22.60% since we first alerted this just before power hour. Follow us to get the latest alerts:)",
+        "sentiment": {
+            "TextBlob": 0.4166666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9835335612297058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T20:21:31Z",
+        "content": "$TMBR up 13.09% from our alert only two hours ago. Another great call! This looks good heading into tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.8588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9970292448997498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T20:20:21Z",
+        "content": "$SAVA up 13.75% since our alert only two hours and twenty minutes ago. Look for this to run tomorrow.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987443685531616
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T20:12:33Z",
+        "content": "$SEII only 50 minutes ago we gave this alert and now it's up 100.78%. We're speechless.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9952228665351868
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T20:07:23Z",
+        "content": "$TMBR up 7.70% since our alert only a couple hours ago! This should continue to run tomorrow. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982494115829468
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T19:58:53Z",
+        "content": "BEAR ALERT: $SEII up 75.97% since our first post. The cliff is fast approaching. Be careful. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0875,
+            "NLTK": 0.5473,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803486466407776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T19:53:42Z",
+        "content": "ALERT: $GALT heavy volume coming into the close. Possible overnight runner. Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985835552215576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T19:40:11Z",
+        "content": "$SEII all the way up to 50.39% gains since our first alert. Be very careful about seeking additional profits.",
+        "sentiment": {
+            "TextBlob": 0.06,
+            "NLTK": 0.8122,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9862609505653381
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T19:31:18Z",
+        "content": "$SEII up 28.94% since our alert! Wow.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.7424,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9891306161880493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T19:23:03Z",
+        "content": "$SEII up 14.73% since our alert. Hope you caught this in time.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9703559875488281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T19:19:45Z",
+        "content": "ALERT: $SEII BOOM!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4724,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8062424063682556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T19:07:17Z",
+        "content": "$SAVA up 11.22% so far since our alert",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9553473591804504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T18:59:18Z",
+        "content": "ALERT: $SAVA Potential runner on buyout speculations! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4981,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954565763473511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-06T18:24:26Z",
+        "content": "ALERT: $TMBR Crossover MACD from red to green. Possible runner. Bullish",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.4466,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969956874847412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-04T23:28:01Z",
+        "content": "$INNL Wow. Up 94.97% since first recommending this stock as an overnight runner ONLY FOUR HOURS AGO!!!!",
+        "sentiment": {
+            "TextBlob": 0.11666666666666665,
+            "NLTK": 0.7156,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.991323709487915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-04T20:18:39Z",
+        "content": "$SHIP Watch over $1.13 for a gap up.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909023642539978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-04T19:57:17Z",
+        "content": "$INNL up 12% so far since our first post.",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9229907393455505
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-04T19:49:09Z",
+        "content": "$IPI 100sma @ 1.87 50sma @1.91. Needs to hold current levels. Possible overnight runner. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989776611328125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-04T19:36:48Z",
+        "content": "$INNL Has good volume and crossed above the 100sma today. Possible overnight runner. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9939131140708923
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-04T14:21:01Z",
+        "content": "$IGC up 20.18% since we recommended it as a possible overnight runner yesterday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.960911750793457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-04-03T19:43:25Z",
+        "content": "$IGC Strong into the close. Possible overnight runner. Bullish",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9078282117843628
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-03-30T19:48:17Z",
+        "content": "$CIE looks great! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9991393089294434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-03-30T19:46:58Z",
+        "content": "$HSTO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966711401939392
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-03-30T17:30:15Z",
+        "content": "$NSPR Holding $1 well. Above avg volume. MACD crossover. Look for this to pop in power hour. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9725804924964905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-03-14T19:53:15Z",
+        "content": "$CYTO Great EOD volume. Possible runner this week. Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983000159263611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-03-14T19:42:31Z",
+        "content": "$MFIN Looking good heading into close. Possible great overnight hold opportunity. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.8689,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9856925010681152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-03-14T19:40:51Z",
+        "content": "$RTK Heavy insider buying. Look for this to shoot up in the upcoming days. Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993159770965576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2017-03-08T05:28:33Z",
+        "content": "$SNAP If you're a long-term investor, there's no need to panic. Pick up some more shares on the way down and precede to relax. 2018: $50 Bullish",
+        "sentiment": {
+            "TextBlob": 0.17222222222222222,
+            "NLTK": -0.0276,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9765729308128357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-04-03T05:23:03Z",
+        "content": "$OCUP Make your own decision on this (and any stock for that matter), but in my opinion this has a greater reward than risk Bullish",
+        "sentiment": {
+            "TextBlob": 0.55,
+            "NLTK": 0.7684,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9970173835754395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-04-03T05:20:38Z",
+        "content": "$OCUP It will heavily depend on the surprise release of partnerships and successful/ safe trials Bullish",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9905099272727966
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-04-03T05:19:02Z",
+        "content": "$OCUP With this solid pipeline, there is a great possibility to reach $2 by the end of April Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.714,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9859191179275513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-04-03T05:18:12Z",
+        "content": "$OCUP It's not often you come across a company with this much potential Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887839555740356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-03-31T19:02:17Z",
+        "content": "@dalefoster1010 Not here. $OCUP is a better company with a better pipeline",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891663193702698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-03-26T19:57:08Z",
+        "content": "$OCUP In at $1.13! Let's wait and see :) Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986152648925781
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-03-26T16:43:20Z",
+        "content": "$OCUP Waiting for the bubble talk to continue so that I can pick up cheaper shares Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990476965904236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-03-13T14:44:54Z",
+        "content": "$SLS Added more at $3 we'll see what happens Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909486174583435
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-03-13T13:48:11Z",
+        "content": "$SLS Started a position at $3.12 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986697435379028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-03-06T21:00:01Z",
+        "content": "$SLS In at 3.46 and will keep a tight stop on this to limit the risk",
+        "sentiment": {
+            "TextBlob": -0.17857142857142858,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.679157555103302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-28T15:03:20Z",
+        "content": "$OCUP Took my profits from 1.05 and will look to reenter on the dips below 1.2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989168643951416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-25T15:52:38Z",
+        "content": "$OCUP Now 1.21 and has room to run Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982298016548157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-25T02:13:42Z",
+        "content": "\"@Graham11: $OCUP ....New article out today ...........    static.cdn-seekingalpha.com...  ....\" Good stuff!! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9244478344917297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-20T20:59:29Z",
+        "content": "$OCUP Well folks at home, we're back in at $1.05! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9749413728713989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-14T16:28:15Z",
+        "content": "$SLS Looking for a position closer to $3",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979315996170044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-14T16:02:02Z",
+        "content": "$SLS Down down down in a burning ring of fire haha",
+        "sentiment": {
+            "TextBlob": -0.0666666666666667,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967747330665588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-14T15:22:06Z",
+        "content": "$SLS What happened in 2009 and 2010 that lead to the downfall of pps",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996287822723389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-13T06:49:14Z",
+        "content": "Currently watching and waiting to buy $SLS $INO $OCUP and looking at starting an entry for $ONCS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978590607643127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-10T20:39:18Z",
+        "content": "$OCUP It will hit $1 hopefully during this week and bounce back during the upcoming months.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5209136009216309
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-10T17:30:46Z",
+        "content": "$OCUP Can't be upset with a 26% gain. I'm out at 1.26 and can't wait until this puppy goes down closer to $1 again",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.6792,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9757543802261353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-02-08T21:49:01Z",
+        "content": "\"@ARNInsiderTrades: Catalyst Pharmaceutical Partners CEO Patrick Mcenany Buys $45,500 in $CPRX analystratings.net/stocks/N...\" Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998910665512085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-01-23T14:41:43Z",
+        "content": "$OCUP Back in the game at $1 Bullish",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956887364387512
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-01-17T14:57:15Z",
+        "content": "$OCUP Out at $1.15. Will look to revisit closer to $1!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9912688732147217
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-01-14T19:20:38Z",
+        "content": "$OCUP Added 1k Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5501814484596252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2014-01-03T20:10:36Z",
+        "content": "$INO will look to revisit below $2.20 and hopefully $2",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869306087493896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-12-26T16:08:07Z",
+        "content": "$INO Doesn't hurt to ring the cash register for a profit. Will look to re add later for a bargain Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7562,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9731917381286621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-12-26T15:33:19Z",
+        "content": "$INO $3 in the next half hour? Bullish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994342923164368
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-12-03T21:11:47Z",
+        "content": "$INO Looking for some great news at 2amET tomorrow right before the next two presentations Dr. Kim has in store! Bullish",
+        "sentiment": {
+            "TextBlob": 0.36190476190476195,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993622899055481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-10-01T21:00:03Z",
+        "content": "$INO ir.inovio.com/2013-10-01-In... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999189555644989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-18T17:49:09Z",
+        "content": "$INO Added some on the dip Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9815881252288818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-12T14:36:21Z",
+        "content": "$INO where can I watch or listen to the live stream?",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971538782119751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-10T19:56:18Z",
+        "content": "$INO Still has different conferences on September 11-12, 25-28, 27th, October 7th, December 3-4, and 3-5 to close out the year. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973083734512329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-10T06:29:50Z",
+        "content": "$NES Hopefully this would bring some excitement back into the stock",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6975830793380737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-10T06:28:12Z",
+        "content": "\"@BlackPacificCapital: $NES Cramer just invited Dick Heckmann back onto Mad Money lets see if anything comes of this\"",
+        "sentiment": {
+            "TextBlob": -0.3125,
+            "NLTK": -0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958575367927551
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-09T14:53:56Z",
+        "content": "$INO This volume is insane. Great news to come!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980500936508179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-08T17:31:55Z",
+        "content": "$INO to present on Tuesday September 10th at 11:15ET",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8822351098060608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "StocksDigest",
+        "timestamp": "2013-09-06T18:26:12Z",
+        "content": "\"@Day_After: $INO Any one else hear this youtube.com/watch?v=DI2GGYp...\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974710941314697
+            }
+        },
+        "image_url": ""
+    }
+]

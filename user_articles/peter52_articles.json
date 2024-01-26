@@ -1,0 +1,3670 @@
+[
+    {
+        "username": "peter52",
+        "timestamp": "2023-02-16T17:46:24Z",
+        "content": "$WNDW Still just lurking. Price action is interesting, but I still can't find any kind of news at all to turn this from a gamble to an investment. Product news? Funding news? Research progress? New partners? Anyone?",
+        "sentiment": {
+            "TextBlob": 0.3340909090909091,
+            "NLTK": 0.7399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967729449272156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2023-02-03T16:00:36Z",
+        "content": "$WNDW Has anyone been able to identify some evidence of solidifying future; a manufacturing partner, a real-world test, a product?  I just can't find anything tangible. Please share (or re-share?)  if you have any info. I'm currently out but still lurking after a painful loss a few years ago. Be careful out there. You can also see a high-volume spike on 10/18 of last year that didn't pan out.",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": -0.6966,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9365473985671997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2022-08-10T18:32:25Z",
+        "content": "$WNDW Are there knowledgeable tech experts or evangelists here willing to post or re-post your thesis of the actual company/technology? I've always loved the idea/potential, but I've never been able to gauge how real this is or can be. The recent executive moves also sound great, but I'm trying to find sources showing actual product roadmaps, pending implementations, or manufacturing partner deals. Any links or info would be appreciated.  \nI'm embarrassed to say I sold at the lows after a long holding period, but recent price action has me again thinking \"maybe\" this is real? Still watching...\"just in case.\"",
+        "sentiment": {
+            "TextBlob": 0.23571428571428574,
+            "NLTK": 0.8577,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907280206680298
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2022-06-27T00:50:52Z",
+        "content": "@eightfoldpath Whoa. You are correct. I was thinking of VaxArt $VXRT.  Thank you so much for catching that.  Sorry @howardlindzon and everybody. I will check if I can update or flag my previous post. Otherwise I may delete it. That said, you guys may want to check out VaxArt \ud83e\udd74",
+        "sentiment": {
+            "TextBlob": 0.03333333333333335,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940010905265808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2022-06-17T18:55:19Z",
+        "content": "$NIO Coming out of nice reverse H&S on 15 min chart. Triggered my small add order. I wish it didn't happen just before a long weekend, but I'll go ahead and keep it for now.",
+        "sentiment": {
+            "TextBlob": 0.09999999999999999,
+            "NLTK": 0.4118,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9846163988113403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2022-05-19T21:23:43Z",
+        "content": "@howardlindzon LOL, guilty of a few of those (though I got stopped out quickly each time). It's so tempting because of the percentages on turn-arounds.  If one caught $ARKK at low of $35, they'd be +20% at 43 in just a week (if they don't follow back down).   \nOr... $U was down 86% (from 210 high tick down to low of 29.09). At today's 41.65 $U is still down 80%. That last $12/share round trip was 6% on the way down (from 210), but 40% back up (from 29.09) assuming my math is ok. That big percentage is hardly visible on the 1yr chart. \nProblems: Nobody catches the top/bottom tick, and profits can be given up just as quickly if the overall decline continues. If you don't have a stop, you could quickly have a new extended loss. I personally only try just above a support level or after a reasonably tight base (indicating where to put a tight stop). Not saying anything new here, and not recommending, but just wanted to share because of the number of stocks showing extreme declines.",
+        "sentiment": {
+            "TextBlob": -0.017295334295334308,
+            "NLTK": 0.7963,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979986548423767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2022-02-08T17:43:14Z",
+        "content": "$SE , $ETSY , $COOK all seem to all have nice price action. I added a bit to the first, holding the last 2. All w tight stops.",
+        "sentiment": {
+            "TextBlob": 0.15428571428571428,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9658836722373962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2022-01-25T20:00:14Z",
+        "content": "$BROS, $SQ, $UPST, $ONL all seem to be waking up.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7386509776115417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2022-01-05T19:17:22Z",
+        "content": "@howardlindzon Will $EXAS ever find a bottom? No pun intended. \ud83d\ude09",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984179735183716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-10-13T19:11:22Z",
+        "content": "(Continued from $COOK notes above)  \n- Connected: Through an app, owners can program, monitor and control their grill \n   and access recipes. \n- Brand awareness: only 14% so lots of room for growth \n9/9/21 Conf Call: \n- Quarterly revenue $213 M, up 39.1% YOY. \n- \"strong performance across regions and \n   product categories\" \n-  North America revenue growing 36.1% \n-  Rest of the World revenue growing 163.0% YOY. \n- GUIDANCE: full 2021-year outlook, \n  expecting revenue of   $760-770 M vs consensus of $754.82 M. \n \nI hope that helps. If anyone sees wrong or old numbers in there, please feel free to correct.",
+        "sentiment": {
+            "TextBlob": 0.11190476190476188,
+            "NLTK": 0.936,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.669018030166626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-10-13T19:09:40Z",
+        "content": "@howardlindzon $COOK is just speculative for me since I'm not a product owner. Learned about it from loyal friends. I'm betting on growth and the loyalty of the customer base (cult stock) angle.   Here are my pieced-together notes from conference call, website, and other sources. I tend to move faster than I should, so there could be some errors or dated points in here, but this is what I personally am going on :-)  \n \nCreator of, and category leader: \"Worlds #1 selling wood-fired grill\" \n- Has passionate customer base/loyal community: \"The Traegerhood\" \n- Also provides original culinary content.  \n- YouTube videos: Several dozen \"about\" or \"how to cook ___\" videos \n   w well over 100K views.  \"Welcome to the Traegerhood\" video \n   released 8mo ago has 17 million views. I'm hoping that \n   correlates to new (or at least prospective) owners (or investors). \n- Also sells consumables: fuel (wood pellets), sauces, and accessories \n(Continued)",
+        "sentiment": {
+            "TextBlob": 0.07247474747474746,
+            "NLTK": 0.9788,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9315589070320129
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-10-13T17:02:41Z",
+        "content": "@howardlindzon Just speculative, but $ZM might finally be bottoming? Also, $COOK (Traeger) might be coming out of it's post-IPO spike and correction?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1431,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998915433883667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-08-04T17:04:24Z",
+        "content": "$ESTC Ooooh. Hoping for a breakout. This could be good above 150.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8654512763023376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-04-27T18:03:27Z",
+        "content": "$ALPP Looking strong. Recaptured all but one of several purchase prices. Only one more to go at 4.47!",
+        "sentiment": {
+            "TextBlob": 0.26458333333333334,
+            "NLTK": 0.3489,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9787886142730713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-04-15T19:55:32Z",
+        "content": "$NEOV  Careful setting stops on this one, folks. With these frequent 20% insta-dips, it seems someone REALLY enjoys clearing out those stop losses. On the other hand, if adding, I wonder if low-ball limit orders might work. \ud83e\udd14",
+        "sentiment": {
+            "TextBlob": 0.018750000000000003,
+            "NLTK": 0.5612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943357110023499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-04-13T16:25:17Z",
+        "content": "$PAVM I can't find any news regarding this drop. A new capital raise? Product issue? ... or just volatile price action? Any insight appreciated.",
+        "sentiment": {
+            "TextBlob": 0.14545454545454548,
+            "NLTK": 0.3538,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946889877319336
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-04-06T16:52:05Z",
+        "content": "$FREQ Looking super promising as it enters the bottom of that massive gap.  I'm betting the sell was way over done. While, I don't think it will get all the way back to the top right away, even 1/2 way up gets into the 20s (100% up from here).  My take is, many of the sellers thought the entire business story was invalidated, where it seems there was only a realization that the 4-dose approach didn't go as expected. I believe they still see positive outcomes from single-dose treatments and are still moving forward with that to help improve the lives of many. I may not be completely right here, but that is my understanding. Based on that, I added some spec-trade $ at $8.69 and $9.38.",
+        "sentiment": {
+            "TextBlob": 0.2101565101565101,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961102604866028
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-04-05T19:23:08Z",
+        "content": "$WRAP Dang, I was looking for an excuse to sell to free up some cash, but there are multiple positive news items sprouting up. This VR offering looks pretty cool & promising. I'll hang on a bit longer. police1.com/police-products...",
+        "sentiment": {
+            "TextBlob": 0.19675324675324674,
+            "NLTK": 0.9584,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9631054401397705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-04-02T03:14:08Z",
+        "content": "$CEMI Thanks to the chatter in this room, I held on. Thank you folks!  I ALMOST bailed toward the end of that long Feb-Mar decline,   but I actually added a bit 2 days ago on Wed.   :-)",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.7133,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9766260981559753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-04-01T14:34:30Z",
+        "content": "$SHMP Added. :-)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9774817824363708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-03-30T15:13:26Z",
+        "content": "$YAYO bought a little more.",
+        "sentiment": {
+            "TextBlob": 0.15625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8940503597259521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-03-26T20:11:01Z",
+        "content": "$YAYO  Got back in today. (3.08)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8557488322257996
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-03-23T14:05:26Z",
+        "content": "$FREQ  I'm not an expert here, but it looks like it's the 4-dose regimen that had issues. They say they are continuing tests with the less frequent dosing.  I'm adding a bit as a spec trade just to see if this is overdone and gets a bit of a bounce. I won't hold though :0) \n\"We believe in the potential of FX-322 given the demonstrated hearing signal and favorable safety profile observed with a single dose and in the future, we may evaluate re-treatment at longer intervals.\u201d (Link posted by @stckpro earlier: pulse2.com/freq-stock-price...)",
+        "sentiment": {
+            "TextBlob": -0.023015873015873014,
+            "NLTK": 0.9022,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965846538543701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-03-01T20:43:11Z",
+        "content": "$VUZI Took a bit of profit (at a healthy % gain) back in January at $13.44. Still hanging on to the rest. No plans to sell.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995793700218201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-24T16:36:58Z",
+        "content": "$UAVS I'm back in ($8.89)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955744743347168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-22T16:12:40Z",
+        "content": "$RWLK Took my last position off. Will watch from the side for now.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9955570101737976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-20T00:38:34Z",
+        "content": "$FINV Got stopped out today.  I'm ok with that. It was a good run from 3.02 :-)  GL all. \nstocktwits.com/peter52/mess...",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.8192,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9579493403434753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-18T20:21:44Z",
+        "content": "$UAVS Wow. Brutal. My stops got hit, so I'm out for now. Bummer. GL all.",
+        "sentiment": {
+            "TextBlob": -0.3875,
+            "NLTK": -0.1197,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958732724189758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-18T02:04:28Z",
+        "content": "Big up-moves in $WNDW, $CHEK, $IQST, $LGMK (Solar, medical device, EV batteries, biometrics) took some of the sting out of an overall down day.  (I don't have large positions in these four)",
+        "sentiment": {
+            "TextBlob": 0.011746031746031737,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9791256189346313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-17T19:16:31Z",
+        "content": "$WNDW Nice!  A ray of sunshine (on see-through electricity-generating windows) on a somewhat turbulent day. :-)",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.8089,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994943141937256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-17T16:49:40Z",
+        "content": "Rough day across the board. One of my $RWLK stops got hit, so I guess I'm taking some profits here (entry $2.21). I still have a little left going into earnings.",
+        "sentiment": {
+            "TextBlob": -0.09583333333333333,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993237257003784
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-16T20:11:38Z",
+        "content": "$PAVM Took profits with 1/5 of my position on this crazy run.  Loving the action though. It's a good thing when success comes to these companies solving basic human problems (Carpel tunnel, reflux disease, etc.)",
+        "sentiment": {
+            "TextBlob": 0.1571428571428571,
+            "NLTK": 0.8847,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997814297676086
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-16T15:38:49Z",
+        "content": "$BKYI Looking good. Pushing into new highs not seen since that quick spike in October 2020. Before that was August 2020.",
+        "sentiment": {
+            "TextBlob": 0.3898989898989899,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9906485676765442
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-11T17:49:55Z",
+        "content": "$YAYO Took some profit at 4.45. (was in at 2.40 and 2.69). GL to all.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7125,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9898768067359924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-11T15:53:32Z",
+        "content": "Seems $LPL, $SONO, $LOGI being rewarded for top-rated products. For past several months, certain models were frequently only available by getting lucky or by placing a back-order: LG 4k TV, SONOS Arc sound bar, and Logitec Video cams. Still, remember to set stops. All have had quite a run.",
+        "sentiment": {
+            "TextBlob": 0.15680272108843538,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976818561553955
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-11T15:22:29Z",
+        "content": "$MVIS up 45%. Nice! Tech leading to the future.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9967246651649475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-10T18:44:39Z",
+        "content": "I don't usually share my winners in the middle of the day (don't want to jinx it. Ha.)  But just to see how it goes... My portfolio's top 5 percentage gainers today (as of now) are: $TLRY, $ASXC, $FINV, $KOPN, $UAVS.   ($CREX is new today so didn't count that). Note that I don't bet the farm on anything. All my positions are fairly small (minus FANGs) as I'm spreading my investments around - counting on bumping up overall portfolio average.",
+        "sentiment": {
+            "TextBlob": -0.014204545454545456,
+            "NLTK": 0.4009,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871735572814941
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-10T17:12:38Z",
+        "content": "$CREX Just picked up some at 2.28 (new position). I'm liking the thermal mirror idea along with the price action. The chart has lots of spikes in there, but the overall curve and climb since November look great.",
+        "sentiment": {
+            "TextBlob": 0.2590909090909091,
+            "NLTK": 0.8176,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9969072937965393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-10T05:37:29Z",
+        "content": "I know this won't continue, but I appreciate each win. $NHWK, $TLRY, $SINT, $YAYO, $EMAN were my top 5 percentage gainers today, ranging from $24-$49%. I generally hold smaller positions, but these one-day moves have been turning them into bigger positions lately.  This is kinda ridiculous. When/how do we exit? I like my portfolio, so I may have to just trim a % across the board. Not sure.",
+        "sentiment": {
+            "TextBlob": 0.05833333333333335,
+            "NLTK": 0.5438,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9610403776168823
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-09T15:38:28Z",
+        "content": "$BKYI Added a bit. News of new contracts has been steadily trickling in over the last year or so. Seems they have expanded and improved product offerings and are getting gains in education and government institutions. I'm hoping that will help support and extend this nice, slow rise since November.  Always hoping for potential upside surprise if only we could get some positive news on those African contracts  :-)",
+        "sentiment": {
+            "TextBlob": 0.133030303030303,
+            "NLTK": 0.9782,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9885708689689636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-05T15:31:01Z",
+        "content": "$LUV Just add a bit at 49.82",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9826529026031494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-04T20:28:48Z",
+        "content": "$SINT My stop was too close, and I got stopped out the other day. Stepping cautiously back in here, hopefully staying in for the long haul. Hope I don't get whipsawed, cuz that's no fun.",
+        "sentiment": {
+            "TextBlob": -0.08124999999999999,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963825941085815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-04T15:05:24Z",
+        "content": "$WRAP Added. Not high conviction trade, but caught a little case of FOMO on this one this morning. I won't follow it down. :-)",
+        "sentiment": {
+            "TextBlob": 0.019236111111111093,
+            "NLTK": 0.4497,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.981525182723999
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-04T14:59:42Z",
+        "content": "$GLW I might be too early, but I've been wanting to add. Did so this morning.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9683207273483276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-04T14:44:16Z",
+        "content": "@feeney234 Hey, you might want to check out $SHMP.  It is on the move.  No guarantees of course, but this is one of my faves.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1154,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.990474283695221
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-04T01:11:12Z",
+        "content": "I like that my top 4 percentage winners today, $SPCE, $IQST, $AMRS, $MVIS, again came from 4 completely different industries.  I'm not holding large positions in these.  (and hanks to @feeney234 for the great call on IQST!).",
+        "sentiment": {
+            "TextBlob": 0.4285714285714286,
+            "NLTK": 0.8955,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944268465042114
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-02T22:20:40Z",
+        "content": "My top 4 percentage winners today ($YAYO, $TLRY, $KOPN, $VXRT) really ran, and the gains came from completely different industries. I don't have huge positions in these, but sometimes the smaller positions can become medium-size positions. :-)",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.6827,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980734586715698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-02T20:21:48Z",
+        "content": "$WNDW I had to add on a day when the whole market's up, but...well...I just added a bit. :-)",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7703368067741394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-02T18:56:59Z",
+        "content": "@canofwhupassdotcom Ha. Had multiple typos on that last post. Sorry. I just meant low-priced stocks. Also, to clarify, $SHMP was pushing against 48 cents. It has had a slight breakthrough that level now.",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984365105628967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-02T18:50:05Z",
+        "content": "Interesting price action some the little guys. $YAYO Looks like it's getting energized after testing 2.55 a few times in the last few weeks. $SHMP looks like it's building pressure pushing against 48 after good try up to .52 earlier this morning. Caution with both. They can have sudden big moves either way.",
+        "sentiment": {
+            "TextBlob": 0.07125,
+            "NLTK": 0.8934,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9681639075279236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-01T17:55:09Z",
+        "content": "Drone companies $UAVS and $GPRO having good days. :-)",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9554343223571777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-01T17:48:20Z",
+        "content": "Just added a little $SNAP. It has been in a range (48-55) since Dec 12 or so, and seems to be trying to break and stay above that range.",
+        "sentiment": {
+            "TextBlob": -0.09375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963940978050232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-02-01T16:12:47Z",
+        "content": "$VXRT up 26%! I'm not adding, but I am letting my original entries ride for now.",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.501,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9919947385787964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-29T15:53:45Z",
+        "content": "$VXRT Looking great! Stock pricing aside, this is one of those companies who, if successful, will benefit many.",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.9041,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997617602348328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-27T20:59:58Z",
+        "content": "$SHMP Seems like every well-balanced portfolio should have a little seafood. :-)  I added a bit today at .465.  Don't necessarily follow me, as I've had a bad tendency lately to add on (temporary) peaks. With good stocks and patience, it still works out in the end; it just takes a little longer. :-)",
+        "sentiment": {
+            "TextBlob": 0.04062500000000002,
+            "NLTK": 0.6051,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920309782028198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-27T20:59:31Z",
+        "content": "$SHMP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844643473625183
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-27T18:41:29Z",
+        "content": "$GNUS This is looking stronger than the last several breakouts in 2020.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9016590118408203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-26T21:06:52Z",
+        "content": "$ISRG What's the \"3 day rule\" again?  You can buy again ON the 3rd day, or AFTER three days? Ha. Doesn't matter. I just added. Might take a bit more volatility here, but we all know this is a loooong-term winner.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.8033,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9931922554969788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-26T14:58:59Z",
+        "content": "Whoops. There goes $NKLA  again. :-)  Is anyone here in this board a high-conviction owner, or is everyone just trading?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993457198143005
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-25T20:32:12Z",
+        "content": "$CHEK Got in at 2.04. Found this news on an approval in Europe.  Haven't done DD on this, but I love the chart, and It's hard for me to resist gastrointestinal test/treatment stocks due to personal issues in the past. Looks like this bottomed in Nov 2020.  One concern would be buyer conviction. It seems the last 100 posts or so only mention the stock price; not the company, but at least a few people are watching approval process. Another concern might be that this took off on Jan 1, so there might be a non-news stimulus like people buying back in after taking tax losses?  It looks like that (January pop) may have happened in the last few years, so I'll definitely watch in case it drifts down. streetinsider.com/Corporate...",
+        "sentiment": {
+            "TextBlob": -0.07301587301587302,
+            "NLTK": 0.9704,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986668825149536
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-22T19:51:00Z",
+        "content": "$GME In Nov I made 22% in GME in a few days and sold. In Dec, I made 41% in GME and sold. I thought, \"Wow. Lightning struck twice!\"  Now it's up another 200% without me. Augh!  (Actually,  I'm still counting my blessings, but it sure would have been nice... :-)  Just wow.",
+        "sentiment": {
+            "TextBlob": 0.23660714285714285,
+            "NLTK": 0.9251,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9914699196815491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-22T16:11:42Z",
+        "content": "$RWLK Took profits on 1/2 my shares just in case.  More than once in the past, these guys have done equity offerings on price pops.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9633891582489014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-22T15:56:19Z",
+        "content": "$NTWK Just sold my last shares. I was in for a few months, just playing the climb off the bottom.  I'll revisit if it bases for a while or climbs above 4.5 again.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949280023574829
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-21T15:26:43Z",
+        "content": "If you're shopping for a product that is hard-to-find, consider investigating the stock for that brand. In April nobody could get a Logitec webcam. $LOGI up 145% since then. In November, top-rated LG 4K TVs ($LPL) and top-rated SONOS Arc ($SONO) soundbars were only available on back-order. Now up 50% & 75% or so depending on entry points. What are the current hard-to-find items?",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987473487854004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-20T20:57:03Z",
+        "content": "LOL. $RWLK turned down as soon as I posted that...still sitting at an interesting long-term level though.",
+        "sentiment": {
+            "TextBlob": 0.3814814814814815,
+            "NLTK": 0.7378,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8684648275375366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-20T20:12:17Z",
+        "content": "Tiny stocks $RWLK (exoskeletons) and $BKYI (biometric/fingerprint) seem to be finding their way lately after long periods of struggle.",
+        "sentiment": {
+            "TextBlob": -0.11666666666666665,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9798128604888916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-19T19:18:34Z",
+        "content": "3D space $XONE, $DDD, $MTLS all on fire today (again). I'm in $XONE for a small amt.",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974626302719116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-19T16:56:30Z",
+        "content": "Drone company $UAVS looking great today, currently up over 15%. $ALPP looking good at over 8%.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.991136908531189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-19T16:51:29Z",
+        "content": "$OPTT Added just a bit at 3.21.  If you can ignore those massive spikes, the chart has a nice rounding pattern and has been increasing since last march.",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9934232234954834
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-15T19:52:02Z",
+        "content": "Three wins today with $AVGR, $SRNEQ, and $NURO.  These ones are spec plays for me, so may or may not stay in forever.  But healthwise, let's all wish Sorrento success.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.9091,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9951996803283691
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-14T20:39:43Z",
+        "content": "@howardlindzon $UAVS is my top percentage winner today, check out these others in different sectors! I don\u2019t hold large positions in any of these, but the percentages are making up for it. Very good day.  For stocks that is. Unfortunately, I woke up with vertigo today, so I can\u2019t do any trading or much else.",
+        "sentiment": {
+            "TextBlob": 0.22071428571428567,
+            "NLTK": 0.6464,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989776611328125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-13T15:51:50Z",
+        "content": "$VUZI maker of smart/AR glasses. On the move again on good volume.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996572732925415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-13T15:42:01Z",
+        "content": "$FINV Hitting new 52-wk high. 2nd approach to this level since pandemic.  This chart is super interesting given the slow turn up from a longer down trend. I'm taking a small position as a spec trade. Note: This is lightly traded.  Just an idea. I haven't done much DD on the business itself, so please do your own DD.",
+        "sentiment": {
+            "TextBlob": 0.14764921946740125,
+            "NLTK": 0.8622,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5765109658241272
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-12T23:08:17Z",
+        "content": "@EricGuillory  I think alternative energy/clean energy/EV stocks are being rediscovered in the last few days. See $FCEL, $PLUG, $SOLO, $KNDI",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9777464866638184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-12T19:21:27Z",
+        "content": "$WNDW Sold some @ 15.08. Entry was $6.98 in Dec. Leaving some in case it continues to run.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965673685073853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-12T16:17:34Z",
+        "content": "$BKYI Soooo tempting to add, but I'm trying to ride previous purchases. Has anyone heard any updates on progress (work or revenues) on the Africa projects?",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990145742893219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-11T17:08:11Z",
+        "content": "$AVGR Bought a little at 1.27 on a whim. Love the chart action since mid-Dec.",
+        "sentiment": {
+            "TextBlob": 0.13749999999999998,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9890525937080383
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-08T21:10:13Z",
+        "content": "I think $WISA has a strong chart since Sept. Getting a little lofty, but I'll likely add if it goes above 4.12 on Monday. (I admit I haven't done all my DD on this one. Just following price action)",
+        "sentiment": {
+            "TextBlob": 0.057638888888888885,
+            "NLTK": 0.5187,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869437217712402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-08T20:39:29Z",
+        "content": "$CHGG (Digital texts/learning) $KNDI (electric cars), & $GT all seem to be gaining momentum to me.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984728693962097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-07T18:43:00Z",
+        "content": "$QSR Looking good. Climbing up and out of a 7 month sideways move.",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974910020828247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-06T16:21:28Z",
+        "content": "$PAVM Price action is kind of wishy washy today, but If it's strong enough to get back to 2.29 or so, I plan to add a bit.",
+        "sentiment": {
+            "TextBlob": 0.22666666666666666,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764599204063416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-05T19:20:14Z",
+        "content": "Got stopped out of $VRAY & $ONVO today. Oops. Not sure yet if that's a good thing or a bad thing.",
+        "sentiment": {
+            "TextBlob": -0.0833333333333333,
+            "NLTK": -0.5365,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994914531707764
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-05T19:06:44Z",
+        "content": "$SLGG (Super League Gaming) and $PAVM (medical devices for carpel tunnel, Acid reflux & more) both looking promising to me. I'm setting tight stops and alerts on everything these days though.",
+        "sentiment": {
+            "TextBlob": 0.1709523809523809,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8259643316268921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-05T18:20:23Z",
+        "content": "$PAVM Hi folks. Just took a small position. Meaningful products. Chart looking good.",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993076324462891
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-05T16:03:31Z",
+        "content": "$TPR Moving above pre-pandemic levels, and looks like may have broken the long-term downtrend as well.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998479425907135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-05T15:03:57Z",
+        "content": "$SLGG Re-read the ER from October. Rapidly growing in revenues, number of users, and hours of gameplay. I'm back in for at least at least a swing trade, hopefully longer.",
+        "sentiment": {
+            "TextBlob": -0.19999999999999998,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7764226198196411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-04T20:50:40Z",
+        "content": "Taking a chance on $FUBO here. Might be early though.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997262716293335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2021-01-04T20:47:55Z",
+        "content": "$VRAY Got in (lucky) at $4.86 this morning. Took some profit at $6.50. Leaving a few shares. Anyone seeing any catalyst other than revenue announcement? Why so strong?",
+        "sentiment": {
+            "TextBlob": 0.11041666666666665,
+            "NLTK": 0.8658,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997603714466095
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-31T15:40:37Z",
+        "content": "$GT Bought a few shares. Might be early, but I feel it will go soon. It has been testing this level since October.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9845260381698608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-30T21:28:08Z",
+        "content": "Both $IGT and $SYK  look tempting as they test 52wk and AT highs.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9954498410224915
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-29T18:26:24Z",
+        "content": "$TNDM ok. Might be a bit early, but I'm back in :-)",
+        "sentiment": {
+            "TextBlob": 0.275,
+            "NLTK": 0.5499,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951441287994385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-29T16:17:31Z",
+        "content": "$FCEL Got stopped out of my last shares.  That was a great run for me from November. Hope it doesn't run without me, but trying to stick to my stops.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4118,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907335042953491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-29T15:31:36Z",
+        "content": "$ALPP Took some off at 3.51 (oops). Still have a few in case it rises from these levels.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.737072229385376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-29T15:27:27Z",
+        "content": "$UAVS I got stopped out of my last shares at 5.65. Would rather have stayed in, but have to stay disciplined. Got in originally at 2.99 and took some off at 8.04, so it was a quick, profitable trade. GL to all.",
+        "sentiment": {
+            "TextBlob": 0.23611111111111108,
+            "NLTK": 0.8422,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9682450890541077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-29T05:56:47Z",
+        "content": "@howardlindzon  I'm not a drone expert, but I did notice that drones in general were gaining strength recently. $ALPP (delivery drones) also took off and $KTOS (defense drones) has been making a run recently (broke out of base in Nov).",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.8402,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9235775470733643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-23T19:51:37Z",
+        "content": "$LPL I took 1/2 off to raise cash. I'm hoping to leave the remainder for long-term (with reasonable alerts or stops of course).",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989780187606812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-23T16:17:33Z",
+        "content": "$VANI Does anyone have a link to news? Funding? Buyers? Partners? I can't find anything of significance driving these moves.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994937181472778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-21T16:22:49Z",
+        "content": "Drone space seems to be heating up. I now have a position in 3 drone-related companies. Defense, Agriculture, Delivery ($KTOS, $UAVS, $ALPP)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7517663836479187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-21T16:15:43Z",
+        "content": "$ALPP LOL. Here's my DD on this one. It hit my GAP scan, I checked the chart, saw \"entering drone delivery space,\" waited for the next up-tick, and bought a little. Ha. I'm getting sloppy. Well, I'm in now. Let's see where this goes. :-)",
+        "sentiment": {
+            "TextBlob": 0.13916666666666666,
+            "NLTK": 0.8418,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998880922794342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-21T15:07:54Z",
+        "content": "$ABML Wow! I only had a partial position left on, but every once in a while, those little positions grow into bigger positions.",
+        "sentiment": {
+            "TextBlob": -0.027083333333333334,
+            "NLTK": 0.4003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9796180129051208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-18T21:03:18Z",
+        "content": "$EMAN I'm cautious since this looks a little like that Nov 11 pop, but I'm optimistic that it's is moving again and set a new 1-month high. Even if it pulls back, it might be setting up for a new stair-step (HH/HL) pattern.",
+        "sentiment": {
+            "TextBlob": 0.049045454545454545,
+            "NLTK": 0.5193,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9954714775085449
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-18T17:48:10Z",
+        "content": "$SPLK OK. I'm back in as it enters the gap! This buy might be just a tad early, but I hope to play this from here to 200...ish.",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.8484,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9824212193489075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-18T17:33:37Z",
+        "content": "$UAVS Nice move on nice volume! Got in at $2.99 a few weeks ago on a hunch. $KTOS (defense drones) also doing well.",
+        "sentiment": {
+            "TextBlob": 0.38333333333333336,
+            "NLTK": 0.7901,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9951879978179932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-17T21:08:54Z",
+        "content": "$LKNCY I missed it at 5.5 since my trade wouldn't go through. While researching why, I found this warning. Not sure how much this applies in this case, but just be aware. otcmarkets.com/stock/LKNCY/...",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": -0.4508,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987278580665588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-16T16:18:37Z",
+        "content": "@howardlindzon and Nintendo $NTDOY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9710859060287476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-15T18:49:35Z",
+        "content": "$LPL Seems to be following through on the breakout from last few weeks :-)  Highly-rated LG CX OLED TVs in demand (stay-at-home + holidays)",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8988242149353027
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-15T18:35:08Z",
+        "content": "Wow. I've had a great day with the low-priced ones today: $SHMP, $UEC, $OCX   (I got out of OCX just above $3.",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.836,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6351959705352783
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-15T16:03:47Z",
+        "content": "$VUZI Nice day. Finally back in green. Patience pays off again.",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959516525268555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-15T15:52:40Z",
+        "content": "$SHMP A beautiful few days. So glad to see this on Stocktwits.",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.8016,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9609431624412537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-14T19:13:28Z",
+        "content": "$GNUS I added several times in the last 4 months and held through through the downturn in October. All my positions are in the green today! Not adding this time, but enjoying today's pop and hoping it runs and holds this time. Hope everyone is well.",
+        "sentiment": {
+            "TextBlob": 0.0625,
+            "NLTK": 0.9441,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997147917747498
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-14T15:54:07Z",
+        "content": "$QSR \"Popeyes to launch beignets nationwide for limited time...\" cnbc.com/2020/12/14/popeyes...",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874032735824585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-09T20:08:08Z",
+        "content": "$QSR Slowly climbing above long-term resistance/support line. Now at new high since Feb (pre-pandemic).",
+        "sentiment": {
+            "TextBlob": -0.0009090909090909219,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7730046510696411
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-09T16:11:22Z",
+        "content": "@dallasskins  Forgot to list the ticker. Yes, I was referring to $ATER. Thanks for your quick reply.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9751284718513489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-09T15:41:05Z",
+        "content": "Are people still loyal to Popeye's chicken sandwich? \n$QSR   is once again pushing against resistance (since June). Could this be the time it breaks above?",
+        "sentiment": {
+            "TextBlob": -0.08888888888888889,
+            "NLTK": 0.5362,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943844079971313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-09T14:50:46Z",
+        "content": "$GNUS and $NTWK pushing through 4-6 month highs.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938880801200867
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-08T21:22:44Z",
+        "content": "$GME Whoa.  Almost an 18% swing from top to bottom in the after hours. Fighting to recover from lows now. I'm just holding for now.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6594157218933105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-07T18:01:22Z",
+        "content": "$NFLX Looking good.  Just a hunch, but maybe, with all the new 4K TVs rolling out, NFLX could get a revenue boost if existing subscribers consider upgrading to the higher tier for more devices and Ultra HD streaming.",
+        "sentiment": {
+            "TextBlob": 0.3965909090909091,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954908490180969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-04T21:04:45Z",
+        "content": "$SQBG Looking past those crazy 1-day spikes, this has beautiful 6-month rounding bottom, nicely moving up Oct through today.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993637204170227
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-04T20:10:32Z",
+        "content": "$LPL Nice! I bought on the 11/24 and was almost wondering if it was a fake breakout again.  3rd time (4th, 5th?) time's a charm!",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.4559,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9971176385879517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-12-04T17:41:24Z",
+        "content": "$CTLP Breaking out. 2 year high.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830232262611389
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-11-25T20:19:11Z",
+        "content": "@howardlindzon Yeah. I always thought there was a chance $ZM would go for $WORK and/or $DBX. Didn't see this news coming today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915789365768433
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-11-25T16:07:46Z",
+        "content": "$LPL Looking promising as it bumps up against its 52-week high for the 3rd time after a long recovery.",
+        "sentiment": {
+            "TextBlob": 0.0775,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9250986576080322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-11-24T17:04:11Z",
+        "content": "@ivanhoff US Steel $X jumped today too. I picked some up yesterday as it was moving above it's 6-month high. (Took a little off already).",
+        "sentiment": {
+            "TextBlob": -0.009166666666666665,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8562236428260803
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-10-27T16:27:47Z",
+        "content": "@howardlindzon Hey Howard, did you see $EXAS (Colon cancer screenings by mail)? It's one of my favs. I could have sworn you had this, but I don't see it in your Koyfin portfolio.  Thanks for all you do in keeping it honest, interesting and fun.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.9393,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998944103717804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-10-26T17:44:20Z",
+        "content": "$WRAP Not mentioned by name, but BolaWrap got a little air time in on cnbc yesterday. I'm not sure if this is good or bad exposure. Just sharing as an fyi. cnbc.com/2020/07/26/police-...",
+        "sentiment": {
+            "TextBlob": -0.10937499999999997,
+            "NLTK": 0.373,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993330180644989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-10-23T15:18:41Z",
+        "content": "$GNUS Getting some volume now...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927454590797424
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-10-21T23:19:28Z",
+        "content": "$WRAP Multiple law firms are sending out these press releases looking for someone to be lead plaintiff. Why multiple firms? Do they all share ownership of the case, or does only one firm eventually win the privilege to proceed? What if they are all just fishing for a case, and none of them is successful in finding a lead plaintiff? Anyone know how this works?  Just trying to assess the situation.",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.9226,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996486902236938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-10-20T16:48:42Z",
+        "content": "$WRAP Small, but positive news still coming out. Hoping ER next week will show US and international sales to counteract negative sentiment.  times-herald.com/news/2020/...",
+        "sentiment": {
+            "TextBlob": -0.06454545454545454,
+            "NLTK": 0.5499,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9939315319061279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-10-07T13:58:29Z",
+        "content": "$WRAP If I'm reading the filing correctly, he holds over 1.2 M shares directly or indirectly, and he just sold 6,000.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991438388824463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-10-05T16:37:43Z",
+        "content": "$WRAP Just a reminder folks. On Sept 24, LAPD said, \"I recently asked our Board of Police Commissioners to extend the pilot program in order to continue to evaluate the BolaWrap\u2019s effectiveness. Thus far, we are pleased with the device and with the responsiveness of Wrap Technologies.\" wraptechnologies.com/wrap-t...",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990962743759155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-09-29T17:15:36Z",
+        "content": "$LOGI I'm glad this took a few months to consolidate and absorb the earlier run.  It's looking promising for the next leg up.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9385408759117126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-09-25T17:06:43Z",
+        "content": "$GNUS Wow. Big ol' battle going on between $1.20 and $1.30.  Even if it stays in this range today, that's a 20% win and it's not even back to where it was 1 month ago when the news WASN'T priced in. The volume is helping to build support, so if it doesn't go today, I'm hoping it stair-steps up from here in the coming weeks.",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.9136,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9885236620903015
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-09-24T13:57:32Z",
+        "content": "$SOLO Showing strength on a down day. Added a bit.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9886725544929504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-09-23T19:31:51Z",
+        "content": "$WRAP  I don't see any mention in that article mentioning the increasing order backlog or international or world-wide sales. In July conf call they said \"worldwide sales developing rapidly.\" Adding here with hopes it has found support.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8735171556472778
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-09-15T20:35:50Z",
+        "content": "A few good dividend stocks seem to be showing some strength: $AMT $O $STOR $SPG",
+        "sentiment": {
+            "TextBlob": 0.24999999999999997,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9961777925491333
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-09-02T16:04:18Z",
+        "content": "$BKYI  In the last few days, was there an announcement of another offering or split, or are those hunches? I can't find any concrete news.   Any links are appreciated.",
+        "sentiment": {
+            "TextBlob": 0.037500000000000006,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.82211834192276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-08-27T19:47:31Z",
+        "content": "$QDEL Whew! Took a risk and doubled my shares at the bottom. That stinging overnight loss is gone. I'm completely out now. This is a little too volitile for me.  GL to all who are hangin' in there.",
+        "sentiment": {
+            "TextBlob": -0.04375,
+            "NLTK": 0.2789,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996292591094971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-08-27T17:44:32Z",
+        "content": "$ZBH Has been trying to break this level for 6 months. This time is looking promising.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5519117116928101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-08-18T16:37:42Z",
+        "content": "$AMTD In last few minutes TOS has started working almost normally for me.  Hoping it holds.",
+        "sentiment": {
+            "TextBlob": -0.016666666666666673,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9078010320663452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-08-17T15:26:41Z",
+        "content": "$AMTD Just got in. It's working, though a little slow. If you're stuck on the \"updating\" box.  Try closing the app and restarting it.",
+        "sentiment": {
+            "TextBlob": -0.24375000000000002,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884218573570251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-08-13T15:06:53Z",
+        "content": "$EMAN Added a bit.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9879952073097229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-05-11T20:27:06Z",
+        "content": "$LOGI So we won't know anything for a few hours?  Either way, this is tricky with report tonight and conf call tomorrow.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954806566238403
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-02-28T18:24:05Z",
+        "content": "$GILD Does anyone know what this after-hours activity was on $GILD on Feb 2?  Looks like a precursor to the run of the next 4 weeks.  Real question, so I can learn in case I see this again. I'm not well-versed in after hours activities.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996358156204224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-01-29T20:12:42Z",
+        "content": "$TNDM Looking strong! I'm in.",
+        "sentiment": {
+            "TextBlob": 0.5416666666666666,
+            "NLTK": 0.5562,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995287656784058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-01-23T20:55:32Z",
+        "content": "$OESX I'm not finding any news. Anybody? I'm hoping this is just profit-taking.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996902942657471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-01-23T18:55:15Z",
+        "content": "$ZAGG I just added some.  No new info. I was waiting for the sale too.  I just like the recent chart behavior and, even though apple didn't release a \"killer\" iphone last year, I think $ZAGG is still benefiting from lots of iPhone sales. I'm hoping growth can be sustained, so value will increase even without a sale.  The sale could be icing on the cake.  That said, I won't follow this down. :-)",
+        "sentiment": {
+            "TextBlob": 0.05525252525252524,
+            "NLTK": 0.9132,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9931473135948181
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-01-16T18:21:28Z",
+        "content": "$NICE & $BKYI both doing great. Maybe something going on in the biometrics space?",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989722967147827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-01-16T18:19:01Z",
+        "content": "$BKYI Looking good today. Some volume too.  Maybe the China deal will help to accelerate receipt of those old license fees?",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9462536573410034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-01-15T17:27:21Z",
+        "content": "$MNTV Finally! Hope it holds highs this time. (Took a few hits on earlier breakouts)",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9989043474197388
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2020-01-04T17:12:49Z",
+        "content": "@howardlindzon $AVAV along with $KTOS",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9685644507408142
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-11-27T18:58:50Z",
+        "content": "$BKYI Wow!  Glad I held on.",
+        "sentiment": {
+            "TextBlob": 0.3125,
+            "NLTK": 0.7959,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9987357258796692
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-11-21T18:07:39Z",
+        "content": "Just noticed $KTOS & $AVAV 15 min charts seem almost identical. Maybe $KTOS was reacting in a sympathy trade with $AVAV US Gov settlement news?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985958933830261
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-11-07T18:58:07Z",
+        "content": "$ZAGG Long-time bag-holder here.  Just sold some out of my bag. :-)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981487989425659
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-11-01T16:19:28Z",
+        "content": "$ZAGG In addition to potential buyout, I think they might also be benefiting from a stronger smart phone sales (from both android & Apple) after a long drought where people weren't upgrading.",
+        "sentiment": {
+            "TextBlob": 0.054761904761904755,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8525301814079285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-09-17T16:43:28Z",
+        "content": "$FNKO Does someone here have a handle on the FNKO ownership structure & motivation? Is this offering simply a matter of  the controlling shareholders and CEO cashing in a bit while continuing to maintain their controlling interest?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.7059,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992029070854187
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-09-05T20:50:43Z",
+        "content": "$DOMO Tempting to step in here... \n\"Total revenue was $41.7 million, an increase of 22% year over year \nSubscription revenue was $34.9 million, an increase of 24% year over year\"",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9465932250022888
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-08-13T19:16:04Z",
+        "content": "@DipAddicted Earnings Call transcript for $BE:  seekingalpha.com/article/42...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953984618186951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-08-07T19:19:34Z",
+        "content": "Would some of you be willing to share your favorite 5G rollout picks besides $MTZ?  While market is in turmoil, and before 5G really gets rolling, I'd like to identify and maybe add a few more positions ahead of the coming roll-out (thinking US domestic in next 1-5 yrs).   \nOne somewhat risky, but potential holding is $ZAGG --> More devices with lots of power consumption means more screens, cases, power packs & chargers.",
+        "sentiment": {
+            "TextBlob": 0.225,
+            "NLTK": 0.3284,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9357388615608215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-08-06T17:31:50Z",
+        "content": "$ZAGG IMO the question isn't how well will Zagg do this quarter. It is when will announcements (or at least rumors) of new devices and new form factors start percolating in the news.  ZAGG makes cases, screens and accessories and is well positioned for the next big cycle.  If there is a killer device, the move will be quick. If there is just a gradual transition the move will be slow and steady. The problem right now is, the cycle keeps getting delayed in phones/tablets.  Sooner or later, there will be a push for 5G and/or AR devices.   Just my opinion.",
+        "sentiment": {
+            "TextBlob": 0.04584415584415583,
+            "NLTK": -0.8892,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9715595245361328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-07-05T16:22:27Z",
+        "content": "$ZAGG So glad I added at 6.47.  Still down 23% from previous entries.  I'm cautiously optimistic I'll get the rest back over the next year.",
+        "sentiment": {
+            "TextBlob": 0.035555555555555556,
+            "NLTK": 0.6801,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8291351199150085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-28T17:03:52Z",
+        "content": "$EXAS There is likely a large subset of our population that delays or forgoes preventive or corrective dental visits for affordability reasons.  Maybe EXAS got a little boost today from last nights debates (may have increased awareness, assuming EXAS would be a long-term beneficiary if dental care becomes more affordable or widespread)?",
+        "sentiment": {
+            "TextBlob": 0.10535714285714286,
+            "NLTK": 0.8692,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950972199440002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-27T19:22:47Z",
+        "content": "Finally! Today $FNKO cleared all previous spikes going all the way back to September 2018.  The only one not cleared is the initial run-up after the IPO (to 31).",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": 0.2714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984398484230042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-27T16:59:24Z",
+        "content": "$ZAGG So glad it held on that most recent dip (whew). IMHO this zigzags sideways through much of the summer until $AAPL announces new phones or rumors pick up. It might pick up sooner since stock market anticipates; however, I'm not sure I'll hold if resistance fails at these lower levels.  Wouldn't be a surprise if it takes another hit depending on trade talks this weekend.",
+        "sentiment": {
+            "TextBlob": 0.08376623376623378,
+            "NLTK": -0.5397,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971702694892883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-27T16:51:24Z",
+        "content": "$FNKO Seems like it's getting some support at these higher prices. I'm hoping for a close above 24.50.    25 would be so good. Tired of the wicks on all those candlesticks.",
+        "sentiment": {
+            "TextBlob": 0.13749999999999998,
+            "NLTK": 0.8207,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977807402610779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-20T17:38:50Z",
+        "content": "$FNKO due to past fake breakouts, I'll be happier when we get 2-3 days in a row, but I have to say this is looking promising.  In previous (Q1) conf. call: \"we are highly confident that we will be able to achieve the guidance we issued at the end of February.\"",
+        "sentiment": {
+            "TextBlob": 0.02261904761904762,
+            "NLTK": 0.8569,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.997269332408905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-07T15:46:13Z",
+        "content": "$BYND Curious on who is a consumer vs who is trading... \nDo we have repeat purchasers (consumers) of beyond meat or Impossible Burger product here?",
+        "sentiment": {
+            "TextBlob": -0.3833333333333333,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986037611961365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-04T19:30:49Z",
+        "content": "$SNAP Self: \"Don't chase. Don't chase. Take some profits.\" \nSelf:  Oh shoot. I just added.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9811158180236816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-06-04T19:00:01Z",
+        "content": "$META The newly released Oculus Quest sold out after a week in multiple locations.   Barely mentioned in ER, but at some point this revenue stream may become relevant to stock price. gamasutra.com/view/news/343...",
+        "sentiment": {
+            "TextBlob": 0.1465909090909091,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972649812698364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-28T16:06:02Z",
+        "content": "$ZAGG This is looking promising.   Above the previous range, and now testing the higher range if you include intra-day spikes.  All of this on increasing volume over the last 3-4 weeks.",
+        "sentiment": {
+            "TextBlob": 0.056666666666666664,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6660707592964172
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-23T17:25:13Z",
+        "content": "$UWT Opinions? Beyond today, where do you see this in... \nA: 3 days? \nB: 3 months?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954339861869812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-22T16:38:42Z",
+        "content": "$ZAGG Still hanging in the new range.  I wouldn't get too worried until/unless it sinks below.  If it breaks and stays above, now that would be great.",
+        "sentiment": {
+            "TextBlob": 0.2090909090909091,
+            "NLTK": 0.7174,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8884426355361938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-20T16:57:54Z",
+        "content": "$ZAGG Nice little channel forming over last week or so.",
+        "sentiment": {
+            "TextBlob": 0.13749999999999998,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9767093658447266
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-20T15:08:47Z",
+        "content": "$ZAGG Nice to see bottom range is holding... and with some volume.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7574556469917297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-15T18:57:03Z",
+        "content": "$FNKO Added to this and $SNAP today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8423082232475281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-14T20:08:04Z",
+        "content": "$ZAGG I know it's only a day and a half, but I love the steady stair-step pattern of higher highs and higher lows.",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994695782661438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-14T19:49:23Z",
+        "content": "$ZAGG I don't want to jinx it, but....I think it's going to close up for the day! :-)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3335,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9940010905265808
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-13T19:56:42Z",
+        "content": "$ZBRA ummm...23% off the highs.  Has story changed at all with the tariffs or is this just getting thrown out with the kitchen sink? I've been waiting for it to get to these levels, so I can get back in, but recent burns elsewhere are making me hesitate. This whole market feels falling knife-ish.",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": -0.5499,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996576309204102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-10T16:40:13Z",
+        "content": "$DDD Ok. I just added. Couldn't resist that giant gap. I didn't see anything in the conference call that wasn't being addressed. Main thing is to keep perspective. This is a turn-around play, so looking first for stabilization (with bumps here and there), then acceleration later.",
+        "sentiment": {
+            "TextBlob": 0.10416666666666666,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9828464388847351
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-09T18:28:37Z",
+        "content": "$ZAGG Ouch ouch ouch. I'm still hanging on, but prob'ly won't ride it lower. Can this come back loooong term? Taking a look at 10yr chart, it's sitting at (or just below) trend.  Sales growing in multiple categories (though still at a loss overall) and not a high-flyer w a PE of just 5.3.  I don't think phone sales will recover too much in 2019, but between 2019-2021 I think there will be 5G handset refreshes all over the place.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.1109,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9873338937759399
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-03T17:30:00Z",
+        "content": "$EB Nice. Doesn't always work, but a 15-30% drop usually gets some kind of recovery. Long opportunity to top of gap, but don't get greedy.",
+        "sentiment": {
+            "TextBlob": 0.27999999999999997,
+            "NLTK": 0.7645,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9873329997062683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-02T18:40:24Z",
+        "content": "$DIS It's going to be another strong weekend for Avengers. Just tried to reserve tickets. Hard to find good seats in Dolby Cinema or IMAX.",
+        "sentiment": {
+            "TextBlob": 0.2805555555555555,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8822389245033264
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-02T15:58:10Z",
+        "content": "$EB Hard to resist buying below that massive gap. Nature abhors a vacuum. If it just gets to 18, that's almost a 6% gain from here (17-ish).",
+        "sentiment": {
+            "TextBlob": -0.10000000000000002,
+            "NLTK": -0.2911,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938660264015198
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-05-02T14:21:24Z",
+        "content": "$EB In conference call, it seemed most issues related to the Ticketfly integration taking longer than expected. Saying 2nd half completion.",
+        "sentiment": {
+            "TextBlob": 0.046666666666666676,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984602928161621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-25T16:11:59Z",
+        "content": "$NTDOY Augh! Kicking myself. Looking at note on my chart at 42.5 saying \"1st target. Take some profits.\"  Of course, I didn't take profits.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4015,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978710412979126
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-22T19:10:46Z",
+        "content": "$ISRG Soooo tempted to get back in here. Hoping it will stabilize for a few days first.",
+        "sentiment": {
+            "TextBlob": 0.016666666666666663,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957059025764465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-22T16:20:17Z",
+        "content": "$ZAGG News on Apple's 5G phones (2020) might help turn this around.  Any thoughts on what else is holding this back? 9to5mac.com/2019/04/22/5g-i...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979261159896851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-16T19:47:37Z",
+        "content": "$AMBA Took some profits the other day. Glad I left some shares on!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.8122,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.637324333190918
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-16T16:45:39Z",
+        "content": "$CUBE $STOR looking similar today w quick, steady drops.  Related in any way? Are dividend stocks getting hit?",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981843829154968
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-11T17:08:33Z",
+        "content": "$WW Ouch ouch ouch. This one paid bills last year. Tried to repeat based on CEO's positive comments, but not working.  Likely out soon.",
+        "sentiment": {
+            "TextBlob": 0.07575757575757576,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992662072181702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-08T18:00:51Z",
+        "content": "$AXON I really wish this had gone up slower, especially since there was more volume the last time it did a two-day jump like this.",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.6697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993194341659546
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-08T14:51:53Z",
+        "content": "$WW Looking promising. If up-move continues, this will climb into the massive February gap soon.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950137734413147
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-04T18:44:39Z",
+        "content": "$DIS I was waiting for one more dip but fell to FOMO.  Still, if it retraces to 107-109, I'll likely add.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779852628707886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-04-04T16:28:28Z",
+        "content": "$RWLK I can't do this anymore (out with a loss).  It just doesn't feel right.  Moving my remaining $ elsewhere. I wIsh you all the best.",
+        "sentiment": {
+            "TextBlob": 0.6428571428571428,
+            "NLTK": 0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995928406715393
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-03-28T18:39:13Z",
+        "content": "$DNKN Breaking out of this range, though not yet at 52-wk high. ...and the 2 % dividend doesn't hurt when it goes sideways for a while.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.4168,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6460602879524231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-03-28T18:22:15Z",
+        "content": "$ZAGG Going out 3 years, it looks like strong support/resistance around 8.40.  Hoping the decline ends and this starts moving sideways/up.",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.8225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9781187772750854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-03-27T18:31:18Z",
+        "content": "$ZUO I have a hunch this might have a playable range between 18 and 21.50-22.50.  Let's see if it holds 18.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966307282447815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-03-21T20:16:53Z",
+        "content": "$ZUO Added a few on the dip.  Numbers still looking pretty good if you're in for longer-term.",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9969921112060547
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-26T20:36:23Z",
+        "content": "$AWRE Heads up. This one finally might be moving!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9429849982261658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-14T01:25:10Z",
+        "content": "$NTDOY Even better! Nintendo has 4 out of 10 trending topics on Twitter tonight! -> Link's Awakening,   Zelda, #NintendoDirect,  and Switch.",
+        "sentiment": {
+            "TextBlob": 0.78125,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9295927882194519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-14T01:13:44Z",
+        "content": "$NTDOY \"Switch\" is trending in twitter.  :-)",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9765596985816956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-08T17:32:13Z",
+        "content": "$PRLB Seems future earnings should be strong; just missed estimates. Ignoring the 1st hr yesterday, the 15-min chart looks really nice.",
+        "sentiment": {
+            "TextBlob": 0.3444444444444444,
+            "NLTK": 0.3597,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5920514464378357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-07T18:16:26Z",
+        "content": "$PRLB I would preferred to have entered below 96, but just took a small position 101.44 with a fairly tight stop.",
+        "sentiment": {
+            "TextBlob": -0.2142857142857143,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9694706797599792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-06T17:18:14Z",
+        "content": "$NIO Augh! So much for patience. I couldn't stand waiting for it to confirm the break above 2.15.  I'm in. :-)",
+        "sentiment": {
+            "TextBlob": 0.2333333333333333,
+            "NLTK": 0.3802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940304160118103
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-05T18:47:24Z",
+        "content": "$ZAGG  Bouncing off resistance.  IMHO will move up quickly if it can break through.",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9940000772476196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-05T16:48:21Z",
+        "content": "$ZAGG Now recapturing levels from Nov '18.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7837003469467163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-01T17:25:30Z",
+        "content": "$YELP This one has gapped several times up & down. For you charting experts, at what level do you consider the gap filled? A,B,C,D, or E?",
+        "sentiment": {
+            "TextBlob": 0.08148148148148147,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985604882240295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-01T17:16:42Z",
+        "content": "$DBI Not smashing thru resistance but seems to be grinding two steps forward for every step back. Maybe gains upward momentum around 27.50?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976292252540588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-02-01T16:49:35Z",
+        "content": "$NTDOY Darn. So hard to be objective when my kids and their friends dropped the other consoles for Switch & now playing in person & online.",
+        "sentiment": {
+            "TextBlob": -0.1388888888888889,
+            "NLTK": 0.4951,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987897276878357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-31T19:41:57Z",
+        "content": "$RWLK Filling the Oct 1018 gap w volume increasing since start of 2019.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9685336947441101
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-31T18:51:56Z",
+        "content": "$BKYI Finally.  Multiple good-news reports.  Volume increasing in last few weeks.",
+        "sentiment": {
+            "TextBlob": -0.06666666666666667,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9947918057441711
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-30T22:38:08Z",
+        "content": "$ESTC @howardlindzon @ivanhoff Because of the two of you, I've been watching this and benefited. Thanks.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998456239700317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-30T21:52:08Z",
+        "content": "$META LOL. Was going to sell half and accidentally sold all. Close enough to 200day, so I'll take it. Good luck to those who are still in.",
+        "sentiment": {
+            "TextBlob": 0.33333333333333337,
+            "NLTK": 0.7925,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7523716688156128
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-29T17:38:28Z",
+        "content": "$DDD In previous conf. call (Oct), one \"issue\" was \"orders exceeding capacity.\"  Seems like good prob to have if they can get on top of it.",
+        "sentiment": {
+            "TextBlob": 0.3444444444444444,
+            "NLTK": 0.7351,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9629539847373962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-28T19:49:17Z",
+        "content": "$RWLK It's super sporadic, but I feel the increasing volume since November is promising.",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.7184,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981411695480347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-23T17:53:14Z",
+        "content": "$ZUO I can't find any news other than some insider sales. Any other news out there? nasdaq.com/symbol/zuo/insid...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993416666984558
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-18T16:32:15Z",
+        "content": "$RWLK Move w caution folks. This one can get you.  Still, the volume has been increasing since Nov, so maybe this move-up is more reliable?",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9840887784957886
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-17T19:41:30Z",
+        "content": "$FSLR Possibly breaking out.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979881048202515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-17T19:29:17Z",
+        "content": "$ZBRA Nice move!  Always scary adding on the way up.  This gives some breathing room from a small add yesterday.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1759,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9990550875663757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2019-01-16T19:53:42Z",
+        "content": "$NTDOY Making $ on the unit, the games (not included w console), add'l controlers, etc. I think Olympics will give tons of exposure as well.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9571570754051208
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-12-03T18:02:56Z",
+        "content": "$YELP It's inching closer to the bottom edge of that huge gap.",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9771918654441833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-12-03T17:57:39Z",
+        "content": "$FSLR Breaking out.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968627691268921
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-11-21T18:21:22Z",
+        "content": "$INTU Been watching (regretfully) for years. Finally got in at 196 for a long-term. Hope it keeps on keepin' on.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9964743256568909
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-11-15T21:04:04Z",
+        "content": "$RWLK Finally, a little price battle going on with a little more volume. Maybe more interest at this level?",
+        "sentiment": {
+            "TextBlob": 0.15625,
+            "NLTK": 0.2433,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919969439506531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-11-06T20:21:21Z",
+        "content": "$BKYI  In last 2 weeks this woke up. Looking very interesting. :-)",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.6779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9842923879623413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-11-02T15:48:12Z",
+        "content": "@howardlindzon $DNKN, $CLX, $STOR have held up well.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993089437484741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-10-31T23:49:47Z",
+        "content": "$DDD  So tempting. Earnings conf call seemed very positive. Might try a small position for long-term, and might add as low as 9s.",
+        "sentiment": {
+            "TextBlob": 0.015151515151515157,
+            "NLTK": 0.4201,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8752790689468384
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-10-16T17:37:21Z",
+        "content": "$TSLA I'm seeing a noticeable number of model 3s on Silicon Valley roads. Curious. Many (or few) sightings in other metropolitan areas?",
+        "sentiment": {
+            "TextBlob": 0.018750000000000003,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9399641752243042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-10-10T15:43:39Z",
+        "content": "@howardlindzon Thx for sharing. Thoughts on why payment processors ($SQ $PYPL) got hit so hard? I bought back into SQ too early (yesterday).",
+        "sentiment": {
+            "TextBlob": -0.0638888888888889,
+            "NLTK": 0.5321,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984424710273743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-09-25T04:09:48Z",
+        "content": "$BKYI Anyone have info on negative price action? They're still expanding, and projected annual revenue guidance should be up from previous.",
+        "sentiment": {
+            "TextBlob": -0.12222222222222222,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958317875862122
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-08-14T17:06:28Z",
+        "content": "$SWCH From conference call, mgt seems to say there are no lost future sales - longer deployments on some large deals pushed revenues out.",
+        "sentiment": {
+            "TextBlob": 0.10714285714285714,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9728763699531555
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-06-14T17:42:29Z",
+        "content": "$CPB Nice. Not just soup. These guys also have Pepperidge Farms, Goldfish, Pace, and Prego...",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9939623475074768
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-05-02T19:51:04Z",
+        "content": "$TMUS Just added a little @ 56.80",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9712145328521729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-05-02T16:36:41Z",
+        "content": "$TMUS vs $S - In case of a deal, are you betting on one or the other, or both?",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955072402954102
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-03-27T23:59:30Z",
+        "content": "$TSLA Lost my discipline on this one. I keep saying I'll sell over 350 and buy around 300. I didn't sell over 350 & haven't bought yet.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995689988136292
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-02-13T16:46:03Z",
+        "content": "$RWLK Wish we could buy/sell to play the 10% swing, but w these nickel increment restrictions, can't buy at 1.05 & can't sell at 1.15. Hmmm.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3716,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982084035873413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-02-07T21:55:20Z",
+        "content": "@Stocktwits Int rate & inflation fears combined w profit taking. Some div stocks got clobbered and didn't bounce so much $xom, $frt, $clx",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994078874588013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-02-01T17:02:26Z",
+        "content": "$META Tried to add AH with a limit at 177. Got within 10 cents but turned back up and never came back. Bummer. Still a long-term holding.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4168,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993582367897034
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2018-01-17T20:28:32Z",
+        "content": "$RWLK Not sure about these \"nickel increment\" rules. Are non-consumer traders making $ in the 4% gaps between $1.05-1.10 and $1.10-1.15?",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": -0.2411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995933175086975
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-11-16T18:52:19Z",
+        "content": "$SPLK Taking a reasonable gain now before ER. Good luck everyone.",
+        "sentiment": {
+            "TextBlob": 0.44999999999999996,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7416898012161255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-11-14T16:48:59Z",
+        "content": "$SFM I don't get it. For me, Sprouts is great. Closer than $WFM & I'm in no rush to buy avocados, raspberries, zucchinis, bread, etc online.",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993388056755066
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-11-03T16:08:12Z",
+        "content": "$AMC My kid & 5 friends seeing Thor this PM.  All shows sold out, so they're going non-IMAX, non-3D. Won't help Q3, but might help Q4?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.354,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8710740804672241
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-10-25T19:53:22Z",
+        "content": "$AMD Thoughts on future for game consoles? I believe they have Xbox 2017 and Atari 2018, but lost Nintendo? youtube.com/watch?v=AVpSlqJ...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.5408,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998189389705658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-09-13T15:35:33Z",
+        "content": "$FIT Product looks ok for now, but eventually iWatch battery life will be better, watch will be thinner, etc. Thoughts on long-term?",
+        "sentiment": {
+            "TextBlob": 0.4666666666666666,
+            "NLTK": 0.6652,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989504218101501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-09-12T16:48:03Z",
+        "content": "$AAPL My hope: iWatch appeals to non-Apple users (thinner, better battery, iPhone not needed) & iPhone 7 pricing boosts upgrade cycle.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7964,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6248093843460083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-09-11T16:59:59Z",
+        "content": "$STOR Thoughts on this? Just hit a 10-month high, but it has had a long run.",
+        "sentiment": {
+            "TextBlob": 0.055,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870496392250061
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-08-30T17:04:20Z",
+        "content": "$DDD Others tempted to buy here? Slowly approaching my $13 buy-back-in price, and chart looks promising, but news / ratings still negative.",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991773962974548
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-08-29T16:30:32Z",
+        "content": "$AMC Trying to boost sales. I've seen 2 new promotional offerings: AMC app offering extra points, and AMC ticket promo pushed at Costco.",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952400922775269
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-08-15T19:26:14Z",
+        "content": "$AMC Coming soon: Kingsman, Ninjago, Blade Runner, Coco. Still resisting temptation to guess the bottom. Hoping to see base before reversal.",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934351444244385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-08-04T14:52:21Z",
+        "content": "$AMC I'm not sure if this is just being manipulated to grab everyone with orders just above 16.10 but I added a little anyway. Gulp.",
+        "sentiment": {
+            "TextBlob": -0.14583333333333334,
+            "NLTK": -0.314,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9845722913742065
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-06-21T18:18:39Z",
+        "content": "$ACIA Ouch. Had a stop loss limit at 41.56. It got activated but not filled (market orders took precedence). I guess I'm still in...for now.",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.3071,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990372657775879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-06-07T16:57:16Z",
+        "content": "Still hanging on :( Has anyone switched from $P to another music/radio service at home? This might still be the most-used app in our house.",
+        "sentiment": {
+            "TextBlob": -0.75,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954352974891663
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-05-11T16:51:39Z",
+        "content": "$DDD Out for now (yesterday). This range has been amazingly predictable. If it settles to 14-16 I'll try once more.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990628361701965
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-05-10T19:23:48Z",
+        "content": "$DDD Touch call, but I just pulled the trigger and got out. Probably should have left a few shares, since it's closing strong.",
+        "sentiment": {
+            "TextBlob": 0.07777777777777777,
+            "NLTK": 0.8047,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986568689346313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-02-09T18:37:36Z",
+        "content": "$ZEN I just got out. Thanks to those of you who helped me stay patient a few weeks ago. :)",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9953590035438538
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-01-17T16:34:15Z",
+        "content": "$ZEN Ouch.  Does someone know the reason for the drop? I don't see any related news stories.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996447563171387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2017-01-13T18:09:30Z",
+        "content": "Been watching $TK a long time. Multiple false alarms. Optimistic that it's finally moving up and holding this time (in at 8.87).",
+        "sentiment": {
+            "TextBlob": -0.11250000000000002,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.971930205821991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2016-10-21T16:31:46Z",
+        "content": "$MCD Non-technical observations-Local store nicely remodeled. Nice, animated over-counter displays. Mobile App alerts/deals driving traffic.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.6908,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9937496185302734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2016-10-13T16:29:47Z",
+        "content": "@GeorgeTrad They said amazon wasn't keeping pricing within $GPRO pricing guidelines - real issue due to price matching by BestBuy & others.",
+        "sentiment": {
+            "TextBlob": 0.037500000000000006,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994277358055115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2016-07-11T18:03:51Z",
+        "content": "$NTDOY Just be careful. GPS+VR+Game idea is game-changer, but my nephew's interest went from \"wow!\" on Fri to \"meh\" on Sun. (no position)",
+        "sentiment": {
+            "TextBlob": 0.012499999999999997,
+            "NLTK": 0.68,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969075322151184
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2016-06-16T15:34:22Z",
+        "content": "$WWE Happy about today's move, but cautious. Price has jumped above 18.25 fifteen times in the last 6 months but dropped back.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896563291549683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2016-06-15T17:07:46Z",
+        "content": "$Fit Still long -> Cost point = nice gift for kids/spouses/parents; Network of fam/friends w/messaging;  Works well for Android phone users.",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9944491386413574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "peter52",
+        "timestamp": "2016-06-09T18:12:37Z",
+        "content": "$FIT Loyalty doesn't come from a particular model. It comes from challenges and support you get from your network of Fitbit friends.",
+        "sentiment": {
+            "TextBlob": 0.2833333333333333,
+            "NLTK": 0.8625,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951555728912354
+            }
+        },
+        "image_url": ""
+    }
+]

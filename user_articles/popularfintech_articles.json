@@ -1,0 +1,2214 @@
+[
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-21T06:23:11Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f PayPal sells its BNPL portfolio to private equity firm KKR $PYPL, \n\u2714\ufe0f Lightspeed expands its merchant cash advance business overseas $LSPD, and \n\u2714\ufe0f Citadel, Fidelity, and Schwab back a new crypto exchange $SCHW \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/paypal...",
+        "sentiment": {
+            "TextBlob": 0.10727272727272727,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9404587745666504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-19T06:17:15Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f Nasdaq agreed to acquire a financial software firm Adenza $NDAQ, \n\u2714\ufe0f SoFi stock received three downgrades in a single week $SOFI, and \n\u2714\ufe0f Robinhood reported operating results for May $HOOD \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/nasdaq...",
+        "sentiment": {
+            "TextBlob": 0.08214285714285713,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9877360463142395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-12T05:33:12Z",
+        "content": "In today's \"Popular Fintech\" newsletter: \n\u2714\ufe0f Barron\u2019s names best online brokers of 2023 $IBKR $SCHW $HOOD,  \n\u2714\ufe0f Visa is rumored to acquire Brazil\u2019s Pismo $V, and  \n\u2714\ufe0f Shift4 Payments introduces SkyTab Workforce $FOUR  \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/barron...",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6484183669090271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-09T06:17:44Z",
+        "content": "In today's \"Popular Fintech\" newsletter: \n\u2714\ufe0f Nubank announces layoffs in Brazil $NU,  \n\u2714\ufe0f dLocal co-founder returns amid company woes $DLO, and \n\u2714\ufe0f SoFi launches \u201cStudent Loan Verification\u201d service $SOFI \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/nubank...",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964128136634827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-08T07:04:11Z",
+        "content": "In today\u2019s @PopularFintech newsletter: \n\u2714\ufe0f Amazon teams up with Affirm to offer BNPL products through Amazon Pay $AMZN $AFRM, \n\u2714\ufe0f Legislators seek to curb Visa and Mastercard fees $V $MA, and \n\u2714\ufe0f Stripe adds support for Cash App Pay $SQ \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/amazon...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9700189828872681
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-07T05:46:11Z",
+        "content": "In today's \"Popular Fintech\" newsletter: \n\u2714\ufe0f SEC sues Coinbase for operating an illegal exchange $COIN, \n\u2714\ufe0f Shopify completes the sale of its logistics business to Flexport $SHOP, and  \n\u2714\ufe0f Marqeta\u2019s survey reveals surging consumer confidence in embedded finance $MQ \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/sec-su...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9316331148147583
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-06T06:44:11Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f SEC sues cryptocurrency exchange Binance $COIN, \n\u2714\ufe0f Online banks (think SoFi and LendingClub) see inflows of deposits $SOFI $LC, and \n\u2714\ufe0f Wall Street analysts remain optimistic about PayPal $PYPL \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/sec-su...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9774478673934937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-05T06:57:09Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f JPMorgan Chase $JPM eyes expansion to Continental Europe and Brazil, \n\u2714\ufe0f Stripe enters the credit card market with charge card issuing, and \n\u2714\ufe0f FIS $FIS survey finds that U.S. financial firms plan to invest heavily in embedded finance \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/jpmorg...",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9343219995498657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-02T06:42:39Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f Apple's $AAPL Savings Account customers face challenges with withdrawals, \n\u2714\ufe0f Nubank $NU partners with Uber $UBER to enable paying for rides with NuPay, and \n\u2714\ufe0f Adyen $ADYEN launches an instant payout service \n\ud83d\udc47 \npopularfintech.com/p/apples...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6663798689842224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-06-01T06:55:42Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f Affirm $AFRM partners with Worldpay from FIS $FIS to bring BNPL products to Worldpay\u2019s merchants, \n\u2714\ufe0f BILL $BILL sees strong upsell opportunities for Divvy, and \n\u2714\ufe0f nCino $NCNO revenue decelerates on weaker demand from larger banks \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/affirm...",
+        "sentiment": {
+            "TextBlob": 0.3444444444444444,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8025487065315247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-31T06:32:58Z",
+        "content": "In today\u2019s @PopularFintech newsletter: \n\u2714\ufe0f SoFi $SOFI stock rises on an earlier restart of student loan payments, \n\u2714\ufe0f dLocal $DLO confirms inquiry from Argentine authorities, and \n\u2714\ufe0f Marqeta $MQ closes its operations in Australia \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/sofi-s...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988117218017578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-30T06:44:06Z",
+        "content": "The best-performing Fintech stocks of 2023: Upstart $UPST, Shopify $SHOP and Nubank $NU are leading the Fintech stock rally of 2023 \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/the-be...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9984221458435059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-29T06:48:24Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f dLocal $DLO stock plummets on new allegations, \n\u2714\ufe0f Klarna losses narrowed in the first quarter of 2023, and  \n\u2714\ufe0f J.P.Morgan $JPM is building a ChatGPT-like investment advise service \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/dlocal...",
+        "sentiment": {
+            "TextBlob": 0.3287878787878788,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955174326896667
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-26T06:17:01Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f SoFi\u2019s $SOFI CEO defends the use of fair value accounting, \n\u2714\ufe0f PagSeguro $PAGS rebrands into PagBank, and \n\u2714\ufe0f Klarna launches a credit \u201copt-out\u201d feature #Klarna  \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/sofis-...",
+        "sentiment": {
+            "TextBlob": 0.6499999999999999,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9626466631889343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-25T07:27:43Z",
+        "content": "In today's \"Popular Fintech\" newsletter: \n\u2714\ufe0f Toast\u2019s $TOST management sees multiple levers for further growth, \n\u2714\ufe0f Marqeta\u2019s $MQ new CEO revamps sales strategy, aims for profitability \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/toasts...",
+        "sentiment": {
+            "TextBlob": 0.18409090909090908,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8336455225944519
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-24T06:29:41Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f Venture firm QED raises $925 million to invest in Fintech startups, \n\u2714\ufe0f Airbnb $ABNB partners with Stripe to enable paying for stays with bank payments, and \n\u2714\ufe0f Visa $V plans to open a technology hub in Poland \ud83c\uddf5\ud83c\uddf1 \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/ventur...",
+        "sentiment": {
+            "TextBlob": 0.13333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9263872504234314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-23T06:17:02Z",
+        "content": "In today\u2019s @PopularFintech newsletter: \n\u2714\ufe0f Wise $WISE CFO will depart the money transfer firm next year, \n\u2714\ufe0f PayPal\u2019s Venmo $PYPL introduces accounts for teens, and \n\u2714\ufe0f Australia plans to regulate the Buy Now Pay Later industry $SQ  \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/wise-c...",
+        "sentiment": {
+            "TextBlob": 0.24,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935930371284485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-22T06:33:11Z",
+        "content": "In today\u2019s \u2066\u202a\u201cPopular Fintech\u201d\u202c\u2069 newsletter: \n\u2714\ufe0f PayPal $PYPL targets small businesses as it is pressured to improve margins, and \n\u2714\ufe0f Coinbase $COIN plans to bring US products to Europe, sees opportunities in derivatives trading \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/paypal...",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9341648817062378
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-19T06:34:18Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f PayPal $PYPL is pressured to sell its remittance business Xoom, \n\u2714\ufe0f Coinbase $COIN expands Coinbase One to Europe, and \n\u2714\ufe0f Lightspeed $LSPD stock plummets on soft guidance \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/paypal...",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988977909088135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-18T06:31:40Z",
+        "content": "In today\u2019s \u201cPopular Fintech\u201d newsletter: \n\u2714\ufe0f Stone\u2019s $STNE profitable streak continues, \n\u2714\ufe0fdLocal $DLO quadruples its revenue outside of Latin America, and  \n\u2714\ufe0f Robinhood $HOOD reports a decline in trading activity in April \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/stones...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943865537643433
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-17T11:11:17Z",
+        "content": "Fintech Headlines for May 16, 2023: \n\u2714\ufe0f Warren Buffett bets on Capital One $COF, \n\u2714\ufe0f Square $SQ publishes a random presser about its Square for Restaurants offering, and \n\u2714\ufe0f Paysafe $PSFE reiterates its full-year guidance, expects to return to growth this year \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/warren...",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935011267662048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-16T11:08:57Z",
+        "content": "Fintech Headlines for May 15, 2023: \n\u2714\ufe0f Nubank $NU remains bullish on opportunities in Mexico and Colombia, \n\u2714\ufe0f Upstart $UPST secured additional funding for its loan marketplace, and \n\u2714\ufe0f SoFi's $SOFI stock was downgraded by Wedbush (again) \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/nubank...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993590712547302
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-15T06:07:52Z",
+        "content": "Nubank $NU, Stone $STNE, and XP Investimentos $XP will report their Q1 2023 results this week. What to expect? \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/nubank...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9712451100349426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-12T06:56:06Z",
+        "content": "MoneyLion and Dave\u2019s valuations were decimated since the companies went public. What\u2019s next for these neobanks? $ML $DAVE  \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/whats-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990491271018982
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-11T06:21:13Z",
+        "content": "Fintech Headlines for May 10, 2023: \n\u2714\ufe0f Robinhood $HOOD is launching 24-hour trading, \n\u2714\ufe0f Nuvei $NVEI gives Ryan Reynolds a crash course in Fintech investing, and \n\u2714\ufe0f Marqeta $MQ announces layoffs and\u2026share buybacks \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/robinh...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942289590835571
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-10T06:14:26Z",
+        "content": "Fintech Headlines for May 9, 2023: \n\u2714\ufe0f Toast $TOST is marching towards profitability, \n\u2714\ufe0f Affirm $AFRM keeps losing money, leans towards interest-bearing loans, and \n\u2714\ufe0f Upstart's $UPST stock rallies despite a terrible quarter \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/toast-...",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": 0.2626,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957703948020935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-09T06:27:53Z",
+        "content": "Fintech Headlines for May 8, 2023: \n\u2714\ufe0f PayPal $PYPL earnings disappoint, \n\u2714\ufe0f Brazil\u2019s Inter&Co $INTR reports 26 million customers, and \n\u2714\ufe0f Green Dot $GDOT gets a downgrade \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/paypal...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998379111289978
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-08T08:02:59Z",
+        "content": "The week ahead: \n\u2714\ufe0f Warren Buffet expects more turbulence in US banking, \n\u2714\ufe0fPayPal $PYPL, Robinhood $HOOD, and Affirm $AFRM to report their first quarter earnings, and \n\u2714\ufe0f The U.S. Labor Department will release inflation data for April on Wednesday \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/warren...",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929816722869873
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-07T07:29:18Z",
+        "content": "Fintech Headlines: May 1 - 7, 2023 \n\u2714\ufe0f Shopify $SHOP sells its logistics business, \n\u2714\ufe0f Coinbase $COIN launches perpetual futures exchange, \n\u2714\ufe0f Cash App continues to drive Block\u2019s growth $SQ , and \n\u2714\ufe0f Klarna partners with Airbnb $ABNB to enable paying for stays over time \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8618806600570679
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-06T07:29:29Z",
+        "content": "Fintech Headlines for May 5, 2023: \n\u2714\ufe0f Toast $TOST expands to Canada, Ireland, and the UK, \n\u2714\ufe0f Shift4 Payments $FOUR makes another acquisition, and \n\u2714\ufe0f BILL $BILL is approaching a billion in revenue \n\ud83d\udc47\ud83c\udffb \nheadlines.beehiiv.com/p/toa...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9909058809280396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-05T07:56:52Z",
+        "content": "Fintech Headlines for May 4, 2023: \n\u2714\ufe0f Shopify $SHOP sells its logistics business to Flexport, \n\u2714\ufe0f Coinbase $COIN returns to profitability, and \n\u2714\ufe0f Block's Cash App $SQ continues posting strong growth \n\ud83d\udc47\ud83c\udffb \nheadlines.beehiiv.com/p/sho...",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9868996143341064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-04T07:56:21Z",
+        "content": "Fintech Headlines for May 3, 2023: \n\u2714\ufe0f Uber $UBER selects Stripe for payment processing, \n\u2714\ufe0f Airbnb $ABNB partners with Klarna to enable paying for stays over time, and \n\u2714\ufe0f MercadoLibre's $MELI Fintech business starts to decelerate \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977567791938782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-03T06:11:54Z",
+        "content": "Fintech Headlines for May 2, 2023: \n\u2714\ufe0f Coinbase $COIN launches International Exchange, \n\u2714\ufe0f Shares of PacWest $PACW and Western Alliance $WAL plunge, as regional banking crisis continues, and \n\u2714\ufe0f The Fed is expected to raise fed funds rates today \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": -0.03333333333333333,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9738616943359375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-02T05:11:53Z",
+        "content": "Fintech Headlines for May 1, 2023: \n\u2714\ufe0f First Republic Bank $FRCB is sold to JPMorgan $JPM, \n\u2714\ufe0f SoFi $SOFI reiterates GAAP profitability target, and \n\u2714\ufe0f Global Payments $GPN announces CEO change \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949880838394165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-05-01T07:18:52Z",
+        "content": "The Week Ahead: May 1 - 7, 2023 \n\u2714\ufe0f U.S. regulators are looking for a buyer of First Republic Bank $FRCB, \n\u2714\ufe0f Federal Reserve to raise rates by another 25 basis points, and \n\u2714\ufe0f Block $SQ, Shopify $SHOP, Global Payments $GPN and Coinbase $COIN to report their Q1 2023 results \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973074197769165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-30T06:07:50Z",
+        "content": "Fintech Headlines: April 24 - 30, 2023  \n\u2714\ufe0f Tensions between Coinbase $COIN and the SEC rapidly escalate,  \n\u2714\ufe0f Visa $V and Mastercard $MA beat earnings estimates,  \n\u2714\ufe0f LendingClub $LC originations continue to decline, and  \n\u2714\ufe0f Nubank $NU passes the 80 million customers milestone  \n\ud83d\udc47\ud83c\udffb \npopularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927273988723755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-29T08:43:41Z",
+        "content": "Fintech Headlines for April 28, 2023: \n\u2714\ufe0f First Republic Bank $FRCB continues to fight for survival, \n\u2714\ufe0f FDIC is not happy with Cross River Bank's lending practices, and \n\u2714\ufe0fFederal Reserve takes blame for the collapse of Silicon Valley Bank $SIVBQ  \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": -0.05000000000000001,
+            "NLTK": -0.8806,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997661828994751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-28T05:12:26Z",
+        "content": "Fintech Headlines for April 27, 2023: \n\u2714\ufe0f Mastercard $MA beats earnings expectations on resilient consumer spending,  \n\u2714\ufe0f Tensions between Coinbase $COIN and the SEC escalate, \n\u2714\ufe0f FIS $FIS raises full-year earnings guidance, and reports strong progress towards Worldpay spin-off \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.16666666666666663,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9948698282241821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-27T06:27:05Z",
+        "content": "Fintech Headlines for April 26, 2023: \n\u2714\ufe0f Troubles at First Republic Bank $FRCB continue, \n\u2714\ufe0f LendingClub $LC reports deposit growth (but originations continue to decline), and \n\u2714\ufe0f Upstart $UPST lands Mercedes-Benz as its latest client for Upstart Auto Retail \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9921143054962158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-26T15:54:53Z",
+        "content": "LendingClub $LC will report its Q1 2023 results today, after market close. Time to revisit the company's Q4 2022 results \ud83d\udc47\ud83c\udffb popularfintech.com/p/lendin...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9635696411132812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-26T05:45:31Z",
+        "content": "Fintech Headlines for April 25, 2023: \n\u2714\ufe0f Visa $V beats earnings expectations, \n\u2714\ufe0f Nubank's $NU customer base surpasses 80 million mark, and \n\u2714\ufe0f Fiserv $FISV raises full-year revenue guidance \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9829971790313721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-25T06:22:09Z",
+        "content": "Fintech Headlines for April 24, 2023: \n\u2714\ufe0f First Republic Bank $FRCB reports larger-than-expected deposit outflows, \n\u2714\ufe0f Coinbase $COIN is suing the SEC \n\u2714\ufe0f Revolut's valuation cut by almost 50% \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960113763809204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-24T06:33:47Z",
+        "content": "Fintech Headlines for the Weekend of April 22-23, 2023: \n\u2714\ufe0f Gemini and Coinbase $COIN bid for bankrupt Celsius Network \n\u2714\ufe0f MoneyLion $ML announces 1-for-30 reverse stock split, and \n\u2714\ufe0f First Republic Bank $FRCB to report its earnings after markets close \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969726800918579
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-23T13:35:35Z",
+        "content": "Fintech Headlines: April 17 - 23, 2023 | Apple launches savings accounts, Coinbase CEO floats the idea of relocating the company, Wise reports strong growth, and Shift4 Payments becomes the latest target of short-sellers $AAPL $GS $COIN $WISE $FOUR \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.5833333333333333,
+            "NLTK": 0.8402,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6352614760398865
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-22T16:37:19Z",
+        "content": "VISA, Mastercard, FIS, Fiserv and LendingClub will report their Q1 2023 results next week, setting the stage for this earnings season $V $M $FIS $FISV $LC \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.855026364326477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-21T05:50:04Z",
+        "content": "Fintech Headlines for April 20, 2023: \n\u2714\ufe0f European Parliament approves Markets in Crypto-Assets regulation \n\u2714\ufe0f MercadoLibre $MELI plans to hire 13,000 people to expand its logistics business, and \n\u2714\ufe0f Shift4 $FOUR founder responds to the short seller report \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914122819900513
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-20T06:09:52Z",
+        "content": "Fintech Headlines for April 19, 2023: \n\u2714\ufe0f Coinbase $COIN gets a Bermuda license \n\u2714\ufe0f Shift4 Payments $FOUR becomes the latest target of short sellers, and \n\u2714\ufe0f Square $SQ rolls out Tap to Pay solution for Android devices \n\ud83d\udc47\ud83c\udffb \nfintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985702037811279
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-19T06:08:08Z",
+        "content": "Fintech Headlines for April 18, 2023:  \n\u2714\ufe0f Coinbase $COIN CEO floats the idea of relocating the company away from the US \n\u2714\ufe0f Wise $WIZEY reports strong Q4 FY2023 results, stock plummets \n\u2714\ufe0fGoldman Sachs $GS posts a $470 million loss on sale of Marcus loans  \n\ud83d\udc47\ud83c\udffb fintechheadlines.beehiiv.co...",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948786497116089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-16T07:39:34Z",
+        "content": "Fintech Headlines: April 10 - 16, 2023 \nTwitter partners with eToro to enable stock and crypto trading, Affirm expands its cooperation with Stripe, VISA chooses PayPal to pilot its person-to-person payments service \u201cVISA+\u201d $AFRM $V $PYPL #etoro #stripe \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9862516522407532
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-09T08:21:04Z",
+        "content": "Fintech Headlines: April 3 - 9, 2023 \nStripe\u2019s Annual Letter confirms decelerating growth, SoFi acquires a mortgage lender Wyndham Capital, dLocal\u2019s profit margin hit by costs related to short seller allegations and FTX bankruptcy $SOFI $DLO \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7680699229240417
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-04-02T16:15:53Z",
+        "content": "Fintech Headlines: March 27 - April 2, 2023 | Apple starts rolling out its BNPL service, Apple Pay Later, Block refutes Hindenburg\u2019s allegations, nCino reports fiscal Q4 2023 results, expects to grow despite the profitability guardrails $AAPL $SQ $NCNO \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6266,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9938662648200989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-03-30T10:42:43Z",
+        "content": "\u201cFintech Rivalries: How Fintech Companies Stack Up Against Each Other\u201d, Part 3 featuring Shopify and Mercado Libre $SHOP $MELI \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9123150110244751
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-03-26T10:47:55Z",
+        "content": "Fintech Headlines: March 20 - 26, 2023 | Short seller Hindenburg Research claims Block inflates Cash App metrics, Coinbase receives Wells Notice from the SEC, Robinhood sees rapid growth in Cash Sweep $SQ $COIN $HOOD \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9710765480995178
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-03-19T17:30:16Z",
+        "content": "Fintech Headlines: March 13 - 19, 2023 | Stone reports another profitable quarter, Banco Inter reports 25 million customers, Blend's revenue declines on falling mortgage originations, MoneyLion exits 2022 with positive Adjusted EBITDA $STNE $BLND $ML \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.22727272727272727,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9920125603675842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-03-17T16:55:46Z",
+        "content": "SoFi Q4 2022 Earnings Review: the last \"adjusted\" year? $SOFI \ud83d\udc47\ud83c\udffb popularfintech.com/p/sofi-q...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923559427261353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-03-13T06:35:26Z",
+        "content": "Fintech Headlines: March 6 - 12, 2023 | Silicon Valley Bank is shut down by the regulator after experiencing a bank run, Paysafe aims to reignite growth in 2023, Dave's guidance falls short of its pre-IPO projections $SICPVBQ $SBNY $SICP $PSFE $DAVE \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999349057674408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-03-05T18:43:50Z",
+        "content": "Fintech Headlines: February 27 - March 5, 2023 | \nKlarna plans to return to profit by summer 2023, Marqeta'a stock plummets on weak guidance and growth headwinds, Shift4 prepares for an aggressive European entry $MQ $FOUR $SICP #Klarna \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.1875,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995713829994202
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-03-03T18:03:05Z",
+        "content": "Nubank Q4 2022 Earnings Review: back in (lending) business $NU \ud83d\udc47\ud83c\udffb popularfintech.com/p/nubank... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946848750114441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-02-26T14:13:20Z",
+        "content": "Fintech Headlines: February 20 - 26, 2023, featuring Block $SQ, Coinbase $COIN, MercadoLibre $MELI, and Remitly $RELY \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.990551233291626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-02-19T10:18:46Z",
+        "content": "Fintech Headlines: February 13 - 19, 2023, featuring Shopify $SHOP, Nubank $NU, Upstart $UPST, and Toast $TOST \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9358458518981934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-02-15T18:47:05Z",
+        "content": "\"Fintech Rivalries: How Fintech Companies Stack Up Against Each Other, Part 2\" featuring SoFi, LendingClub, Affirm and Klarna $SOFI $LC $AFRM \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.58292555809021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-02-12T12:01:59Z",
+        "content": "Fintech Headlines: February 6 - 12, 2023, featuring Adyen, PayPal, Robinhood and Affirm $ADYEN $PYPL $HOOD $AFRM \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9478248357772827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-02-05T09:28:34Z",
+        "content": "Fintech Headlines: January 30 - February 5, 2023 \nPayPal announces layoffs, Marqeta acquires Power Finance, SoFi, Bill, and Lightspeed Commerce report Q4 2022 results $PYPL $MQ $SOFI $BILL $LSPD \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866307377815247
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-02-03T20:26:27Z",
+        "content": "\"Fintech Rivalries: How Fintech Companies Stack Up Against Each Other\" featuring PayPal $PYPL, Block $SQ, Toast $TOST, and Shift4 $FOUR \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884247779846191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-29T18:46:45Z",
+        "content": "Fintech Headlines: January 23 - 29, 2023 \nStripe expands partnership with Amazon, sets deadline for IPO decision, LendingClub reports Q4 2022 results, provides muted guidance for 2023, VISA and Mastercard beat earnings estimates $LC $V $MA \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7986595034599304
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-27T20:17:54Z",
+        "content": "Affirm Fiscal Q1 2023 Earnings Review: can a BNPL business be profitable? $AFRM \ud83d\udc47\ud83c\udffb popularfintech.com/p/affirm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9010056853294373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-22T11:10:12Z",
+        "content": "Fintech Headlines: January 16 - 22, 2023 \nRobinhood launches a media company to build on the success of its newsletter, Robinhood Snacks, Coinbase stock stages a rally, Upstart introduces financing capabilities to its Auto Retail platform $HOOD $COIN $UPST \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9836342334747314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-20T17:27:13Z",
+        "content": "Marqeta $MQ Q3 2022 Earnings Review: continued growth, cash cushion, and stock buybacks \ud83d\udc47\ud83c\udffb popularfintech.com/p/marqet... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856637716293335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-15T12:28:40Z",
+        "content": "Fintech Headlines: January 9 - 15, 2023 \nCoinbase and LendingClub announce layoffs, Amazon expands its \u201cBuy with Prime\u201d service to all eligible U.S.-based merchants, Goldman Sachs discloses a $3 billion loss in its consumer banking business $COIN $LC $AMZN $SHOP $GS \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.963629424571991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-13T20:33:49Z",
+        "content": "Stone $STNE Q3 2022 Earnings Review: returning to profitability, one quarter at a time \ud83d\udc47\ud83c\udffb popularfintech.com/p/stone-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8818007707595825
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-08T11:32:41Z",
+        "content": "Fintech Headlines: January 2 - 8, 2023 \nCrypto bank Silvergate $SICP experiences a bank run, Shopify $SHOP launches a new product for large retailers, the U.S. government seizes Sam Bankman-Fried\u2019s stake in Robinhood $HOOD \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.17532467532467533,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967946410179138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2023-01-05T19:07:05Z",
+        "content": "PayPal $PYPL Q3 2022 Earnings Review: forget growth, it's a margin story now \ud83d\udc47\ud83c\udffb popularfintech.com/p/paypal... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960784316062927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-12-26T12:58:46Z",
+        "content": "Fintech Headlines: December 19 - 25, 2022 \nMastercard is ordered to stop blocking competing networks, bankrupt FTX wants Sam Bankman-Fried's stake in Robinhood, dLocal refutes short-seller report, announces share buyback program $MA $V $HOOD $DLO \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.7351,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975929856300354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-12-18T18:46:19Z",
+        "content": "Fintech Headlines: December 12 - 18, 2022 \nGoldman Sachs to exit consumer lending, SEC aims to change order execution rules, SoFi launches a Buy Now Pay Later offering $GS $VIRT $SOFI \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906505346298218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-12-14T18:07:05Z",
+        "content": "Block, Inc. $SQ Q3 2022 Earnings Review: can Cash App become the primary bank account? \ud83d\udc47\ud83c\udffb popularfintech.com/p/block-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985761642456055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-12-11T11:02:59Z",
+        "content": "Fintech Headlines: December 5 - 11, 2022 \nRobinhood launches retirement accounts, releases November operating results, Coinbase CEO sees revenue falling 50% in 2022, MercadoLibre files a complaint against Apple, partners with WhatsApp $HOOD $COIN $MELI \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983388185501099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-12-04T08:04:17Z",
+        "content": "Fintech Headlines | November 28 - December 4, 2022 \n \nKlarna aims for profitability in 2023, LendingClub acquires $1 billion personal loan portfolio, Brazil legalizes crypto as a payment method \n \n$SHOP $DLO $AFRM $LC $SOFI $NU $MELI\npopularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9821428656578064
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-30T05:59:30Z",
+        "content": "Toast $TOST Q3 2022 Earnings Review: a marginally better quarter \ud83d\udc47\ud83c\udffb popularfintech.com/p/toast-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3832,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940639138221741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-27T11:30:31Z",
+        "content": "Fintech Headlines: November 21 - 27, 2022 | White House extends student loan moratorium, U.S. household debt surpasses $16.5 trillion, Shopify merchants break Black Friday sales record, Nubank launches savings accounts in Mexico $SOFI $SHOP $NU $PAGS \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8354645371437073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-24T16:53:58Z",
+        "content": "Nubank $NU Q3 2022 Earnings Review: when tailwinds are gone \ud83d\udc47\ud83c\udffb popularfintech.com/p/nubank... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978265166282654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-20T11:42:29Z",
+        "content": "Fintech Headlines: November 14 - 20, 2022 | Nubank reaches profitability, dLocal shares collapse after accusations of fraud, Stone leaves a year of losses behind, Coinbase and Robinhood stocks plunge following FTX collapse $NU $DLO $STNE $COIN $HOOD \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.8934,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995896577835083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-17T20:25:54Z",
+        "content": "SoFi Q3 2022 Earnings Review: the last lender standing $SOFI \ud83d\udc47\ud83c\udffb popularfintech.com/p/sofi-q... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966103434562683
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-13T10:30:04Z",
+        "content": "Fintech Headlines: November 7 - 13, 2022 | FTX files for bankruptcy, Toast margins start to improve, Affirm reports a wider operating loss, Upstart's struggles continue $TOST $AFRM $UPST $FTT.X \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925402998924255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-08T19:16:24Z",
+        "content": "Shopify Q3 2022 Earnings Review: hiding behind the revenue growth $SHOP \ud83d\udc47\ud83c\udffb https://www.popularfintech.com/p/shopify-q3-2022-earnings-review-hiding",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966172575950623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-06T16:10:54Z",
+        "content": "Fintech Headlines: October 31 - November 6, 2022 | PayPal announces partnership with Apple, Block's Cash App posts strong growth, trading volumes on Coinbase continue to decline, Robinhood returns to Adjusted EBITDA profitability $PYPL $SQ $COIN $HOOD \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6449918150901794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-11-03T18:25:05Z",
+        "content": "LendingClub $LC Q3 2022 Earnings Review: getting a banking charter was a smart decision \ud83d\udc47\ud83c\udffb popularfintech.com/p/lendin... Bullish",
+        "sentiment": {
+            "TextBlob": 0.21428571428571427,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7060660123825073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-30T09:06:12Z",
+        "content": "Fintech Headlines: October 24 - 30, 2022 | Shopify shares surge as the company beats analysts\u2019 expectations, Amazon will add PayPal's Venmo as a payment option, VISA and Mastercard earnings benefit from strong consumer spending $SHOP $PYPL $V $MA \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.8481,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9817075729370117
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-23T09:37:13Z",
+        "content": "Fintech Headlines: October 17 - 23, 2022 | Goldman Sachs restructures its consumer finance business, Mastercard will help banks offer cryptocurrency trading, Bank of America and American Express beat analyst estimates on strong consumer demand $GS $MA $NU $COIN $BAC $AXP \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.21666666666666665,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.955079972743988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-19T09:20:13Z",
+        "content": "Shopify Profile (NYSE: $SHOP): making commerce better for everyone \ud83d\udc47\ud83c\udffb popularfintech.com/p/shopif... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966644644737244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-16T08:09:25Z",
+        "content": "Fintech Headlines: October 10 - 16, 2022 | Big banks report mixed earnings, Apple to launch savings accounts, PayPal's plan to fine users for misinformation backfires, Google partners with Coinbase to accept crypto payments $JPM $WFC $C $AAPL $GS $PYPL $COIN $GOOGL \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.1388888888888889,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985688924789429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-13T16:12:23Z",
+        "content": "Shift4 Payments Profile (NYSE: $FOUR ): not pretending to be a software company \ud83d\udc47\ud83c\udffb popularfintech.com/p/shift4... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.476,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915169477462769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-11T08:52:43Z",
+        "content": "Lightspeed Commerce Profile (NYSE: $LSPD ): software, payments, and the art of acquisitions \ud83d\udc47\ud83c\udffb popularfintech.com/p/lights... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9888862371444702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-04T09:53:04Z",
+        "content": "VISA vs. Mastercard: visualizing the might of the payment giants $V $MA \ud83d\udc47\ud83c\udffb popularfintech.com/p/visa-v...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819258451461792
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-10-02T09:11:27Z",
+        "content": "Fintech Headlines: September 26 - October 2, 2022 | Nubank reaches 70 million customers, a private equity firm EQT acquires a B2B payments company Billtrust, and Robinhood launches a web3 wallet $NU $HOOD $COIN $BTRS $ML \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.521492600440979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-29T09:03:44Z",
+        "content": "Stone Profile (NASDAQ: $STNE): Warren Buffett's bet on Brazil's small businesses \ud83d\udc47\ud83c\udffb popularfintech.com/p/stone-...",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5363259315490723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-27T09:24:46Z",
+        "content": "XP Investimentos Profile: Charles Schwab of Brazil $XP \ud83d\udc47\ud83c\udffb popularfintech.com/p/xp-inv... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935299754142761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-22T14:26:59Z",
+        "content": "Coinbase $COIN Q2 2022 Earnings Review: staying bullish in a bear market \ud83d\udc47\ud83c\udffb popularfintech.com/p/coinba... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917248487472534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-20T09:37:51Z",
+        "content": "Robinhood $HOOD Q2 2022 Earnings Review: getting ready for the next bull market \ud83d\udc47\ud83c\udffb popularfintech.com/p/robinh... Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902994632720947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-15T09:08:38Z",
+        "content": "bill.com/ $BILL Fiscal Q4 2022 Earnings Review: can they keep the growth momentum? \ud83d\udc47\ud83c\udffb popularfintech.com/p/billco... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980185031890869
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-13T09:42:54Z",
+        "content": "MoneyLion $ML Q2 2022 Earnings Review: a SPAC that didn't go wrong \ud83d\udc47\ud83c\udffb popularfintech.com/p/moneyl... Bullish",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.3724,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9851071238517761
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-09T10:45:31Z",
+        "content": "Blend $BLND Q2 2022 Earnings Review: returning to growth is not on a horizon \ud83d\udc47\ud83c\udffb popularfintech.com/p/blend-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999344527721405
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-06T10:16:22Z",
+        "content": "Marqeta $MQ Q2 2022 Earnings Review: founder stepping down from the CEO role is a good thing \ud83d\udc47\ud83c\udffb popularfintech.com/p/marqet... Bullish",
+        "sentiment": {
+            "TextBlob": 0.2722222222222222,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9709715843200684
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-09-02T12:06:58Z",
+        "content": "dLocal $DLO Q2 2022 Earnings Review: no signs of a slowdown and still profitable \ud83d\udc47\ud83c\udffb popularfintech.com/p/dlocal... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978739023208618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-31T14:28:53Z",
+        "content": "Affirm $AFRM Fiscal Q4 2022 Earnings Review: is the guide too optimistic? \ud83d\udc47\ud83c\udffb popularfintech.com/p/affirm... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998978853225708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-29T11:11:37Z",
+        "content": "Upstart $UPST Q2 2022 Earnings Review: all eyes are on default rates \ud83d\udc47\ud83c\udffb popularfintech.com/p/upstar...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911762475967407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-28T12:50:58Z",
+        "content": "Fintech Headlines, August 22-28, 2022: SoFi gets clarity on student loan moratorium, Affirm and dLocal report earnings, and Brian Armstrong talks about Coinbase plans in an interview with CNBC $SOFI $AFRM $DLO $COIN \ud83d\udc47\ud83c\udffb popularfintech.com/p/fintec...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9904330968856812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-25T15:05:46Z",
+        "content": "Toast $TOST Q2 2022 Earnings Review: strong growth, terrible margins \ud83d\udc47\ud83c\udffb popularfintech.com/p/toast-... Bearish",
+        "sentiment": {
+            "TextBlob": -0.2833333333333333,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8407960534095764
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-25T09:47:38Z",
+        "content": "Top Brazilian Fintech companies trading on US stock exchanges: Nubank, Banco Inter, Stone, PagSeguro and XP Inc. $NU $STNE $PAGS $XP \ud83d\udc47\ud83c\udffb popularfintech.com/p/top-br...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6289,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9925670623779297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-25T09:26:54Z",
+        "content": "Affirm $AFRM will report Q2 2022 results today, after market close. This is the final quarter of the company's fiscal year 2022. Let's revisit its previous quarter results to set expectations \ud83d\udc47\ud83c\udffb popularfintech.com/p/affirm... Bullish",
+        "sentiment": {
+            "TextBlob": -0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892200827598572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-22T12:10:03Z",
+        "content": "Nubank $NU Q2 2022 Earnings Review: what will drive the growth past 2022? \ud83d\udc47\ud83c\udffb popularfintech.com/p/nubank... Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960502982139587
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-22T07:03:21Z",
+        "content": "dLocal $DLO will report Q2 2022 results today, after market close. Time to revisit its Q1 2022 results to set expectations \ud83d\udc47\ud83c\udffb popularfintech.com/p/dlocal... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9900162816047668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-19T12:46:11Z",
+        "content": "Block, Inc. $SQ Q2 2022 Earnings Review: can Afterpay fuel the next phase of growth? \ud83d\udc47\ud83c\udffb popularfintech.com/p/block-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996684730052948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-11T12:05:54Z",
+        "content": "PayPal $PYPL Q2 2022 Earnings Review: will activist investor trigger a business turnaround? \ud83d\udc47\ud83c\udffb popularfintech.com/p/paypal... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960475564002991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-11T07:47:05Z",
+        "content": "Toast $TOST will report Q2 2022 results today, after market close. Time to revisit its Q1 2022 results \ud83d\udc47\ud83c\udffb popularfintech.com/p/toast-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9587852954864502
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-10T12:27:04Z",
+        "content": "SoFi $SOFI Q2 2022 Earnings Review: SoFi needs the student loan payment moratorium to end \ud83d\udc47\ud83c\udffb popularfintech.com/p/sofi-q... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982865452766418
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-08-05T11:39:54Z",
+        "content": "LendingClub $LC Q2 2022 Earnings Review: strong results, conservative guidance \ud83d\udc47\ud83c\udffb popularfintech.com/p/lendin... Bullish",
+        "sentiment": {
+            "TextBlob": 0.4333333333333333,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9809892773628235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-07-25T12:32:19Z",
+        "content": "bill.com/ (NYSE: $BILL) is a provider of invoice management software for SMBs; however, the company generated almost 70% of its Q1 2022 (Fiscal Q3 2022) revenue from payment processing. Read the company's profile \ud83d\udc47\ud83c\udffb popularfintech.com/p/billco... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982607960700989
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-07-15T14:28:51Z",
+        "content": "Blend $BLND Q1 2022 Earnings Review: navigating mortgage lending collapse \ud83d\udc47\ud83c\udffb popularfintech.com/p/blend-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984151124954224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-07-06T15:11:56Z",
+        "content": "MoneyLion $ML Q1 2022 Earnings Review: are they pivoting away from consumer banking? \ud83d\udc47\ud83c\udffb popularfintech.com/p/moneyl...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970723390579224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-07-04T13:40:22Z",
+        "content": "Coinbase $COIN Q1 2022 Earnings Review: did the company print enough cash to survive the crypto winter? \ud83d\udc47\ud83c\udffb popularfintech.com/p/coinba...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969267249107361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-06-15T13:21:54Z",
+        "content": "Toast $TOST Q1 2022 Earnings Review: revenue growth at all costs? \ud83d\udc47\ud83c\udffb popularfintech.com/p/toast-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9758535623550415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-06-08T14:07:46Z",
+        "content": "Marqeta Q1 2022 Earnings Review: another strong quarter, but the exciting stuff is still ahead $MQ \ud83d\udc47\ud83c\udffb popularfintech.com/p/marqet...",
+        "sentiment": {
+            "TextBlob": 0.36666666666666664,
+            "NLTK": 0.7543,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986957907676697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-06-06T15:24:36Z",
+        "content": "dLocal Q1 2022 Earnings Review: another quarter of triple-digit profitable growth $DLO \ud83d\udc47\ud83c\udffb popularfintech.com/p/dlocal... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9465082287788391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-06-02T12:43:07Z",
+        "content": "Nubank Q1 2022 Earnings Review: growth is strong, but rising interest rates are a trouble $NU \ud83d\udc47\ud83c\udffb popularfintech.com/p/nubank...",
+        "sentiment": {
+            "TextBlob": 0.11666666666666664,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9773077964782715
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-17T14:05:21Z",
+        "content": "dLocal $DLO will report Q1 2022 results today after market close. Let\u2019s revisit their Q4 2021 results for the clues on what to expect today \ud83d\udc47\ud83c\udffb popularfintech.com/p/dlocal... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958738684654236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-16T16:44:09Z",
+        "content": "Nubank $NU reports Q1 2022 results today after market close. Let\u2019s revisit Q4 2021 results for the clues on what to expect \ud83d\udc47\ud83c\udffb popularfintech.com/p/nubank...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838465452194214
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-16T13:49:43Z",
+        "content": "Affirm $AFRM Fiscal Q3 2022 Earnings Review: investors are panicking, but the company keeps growing \ud83d\udc47\ud83c\udffb popularfintech.com/p/affirm... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850238561630249
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-13T13:49:34Z",
+        "content": "SoFi Q1 2022 Earnings: let's put that bank charter to work $SOFI \ud83d\udc47\ud83c\udffb popularfintech.com/p/sofi-q... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987033605575562
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-11T13:01:32Z",
+        "content": "Upstart $UPST Q1 2022 Earnings: it's tough to be a lender without a balance sheet \ud83d\udc47\ud83c\udffb popularfintech.com/p/upstar...",
+        "sentiment": {
+            "TextBlob": -0.3888888888888889,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978229999542236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-06T12:18:50Z",
+        "content": "Block Inc Q1 2022 Earnings: growth continues $SQ \ud83d\udc49\ud83c\udffb popularfintech.com/p/block-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9629514217376709
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-04T12:08:17Z",
+        "content": "Robinhood Q1 2022 Earnings: don't give up on this fintech just yet $HOOD \ud83d\udc49\ud83c\udffb popularfintech.com/p/robinh...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9140321612358093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-05-02T15:24:21Z",
+        "content": "LendingClub Q1 2022 Earnings: when a Fintech company buys a bank, the magic happens $LC \ud83d\udc49\ud83c\udffb popularfintech.com/p/lendin... Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9683732390403748
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-29T08:47:56Z",
+        "content": "Paypal Q1 2022 Earnings: the case of overpromising and under-delivering $PYPL \ud83d\udc49\ud83c\udffb popularfintech.com/p/paypal... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994319081306458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-25T15:01:29Z",
+        "content": "Coinbase: selling shovels in a gold rush is a profitable business $COIN \ud83d\udc47\ud83c\udffb popularfintech.com/p/coinba... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9803965091705322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-22T12:40:24Z",
+        "content": "Robinhood: a brokerage that aimed to \"democratize finance for all\" $HOOD \ud83d\udc47\ud83c\udffb popularfintech.com/p/robinh...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940861463546753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-16T16:25:30Z",
+        "content": "Publicly traded Fintech companies to watch in 2022 and beyond | $COIN $HOOD $XP \ud83d\udc49\ud83c\udffb popularfintech.com/p/public...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9607412815093994
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-13T12:33:36Z",
+        "content": "Four McKinsey & Co charts that should make anyone bullish about Fintech companies $SQ $AFRM $SOFI $COIN $HOOD $LMND \ud83d\udc49\ud83c\udffb popularfintech.com/p/four-m... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985125660896301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-11T15:06:06Z",
+        "content": "Toast: a Fintech that aims to become the operating system for restaurants $TOST \ud83d\udc49\ud83c\udffb popularfintech.com/p/toast-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978044629096985
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-08T15:02:45Z",
+        "content": "MoneyLion: are investors missing out on this rapidly growing neobank? $ML \ud83d\udc49\ud83c\udffb popularfintech.com/p/moneyl...",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": -0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984914064407349
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-04-04T14:01:08Z",
+        "content": "Blend Q4 2021 Earnings: mortgage market decelerates, so does company's growth $BLND \ud83d\udc49\ud83c\udffb popularfintech.com/p/blend-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4336,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9695119261741638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-29T11:36:58Z",
+        "content": "dLocal Q4 2021 Earnings: a Fintech with triple-digit revenue and profit growth $DLO  \ud83d\udc49\ud83c\udffb popularfintech.com/p/dlocal... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8623681664466858
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-11T18:39:15Z",
+        "content": "Marqeta Q4 2021 Earnings: a simple, boring business that's growing like a weed $MQ \ud83d\udc49\ud83c\udffb popularfintech.com/p/marqet...",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986335635185242
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-09T19:17:30Z",
+        "content": "The main potential unlock for Marqeta will come from the legacy issuers moving away from their on-premises solutions to the cloud-based SaaS solutions like $MQ \ud83d\udc49\ud83c\udffb popularfintech.com/p/public...",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9688456654548645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-09T14:57:33Z",
+        "content": "Publicly traded FinTech companies to watch in 2022 and beyond | Marqeta, Blend and Paymentus $MQ $BLND $PAY popularfintech.com/p/public...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9210502505302429
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-08T12:09:21Z",
+        "content": "Bear case for $UPST: the company fails to scale auto lending -> growth stalls as they already are one the leaders in personal loans market -> multiples contract to reflect limited growth. Learn how $UPST makes money: popularfintech.com/p/upstar... Bearish",
+        "sentiment": {
+            "TextBlob": -0.19047619047619047,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997455477714539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-08T12:01:29Z",
+        "content": "Cash App\u2019s gross margin on Bitcoin trading ranged from 1.3-2.4% in 2019 - 2021, while the share of Bitcoin revenue went from 37% in Q1 2019 to 87% at its peak in Q1 2021 $SQ $BTC.X popularfintech.com/p/block-... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965869188308716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-08T11:31:38Z",
+        "content": "National banking charter will be a major growth lever for $SOFI : SoFi originated $3.76 billion in loans in Q4 2021, and $12.7 billion in loans during the full year of 2021. This represents 67% YoY growth for the quarter and 31% YoY growth for the full year 2021. However, their loan book grew by $1.2 billion only (from $4.88 billion in 2020 to $6.07 billion in 2021).\n\n\ud83d\udc49\ud83c\udffb popularfintech.com/p/sofi-q... Bullish",
+        "sentiment": {
+            "TextBlob": 0.190625,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930157661437988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-03-07T16:10:39Z",
+        "content": "SoFi Q4 2021 Earnings: firing on all cylinders $SOFI popularfintech.com/p/sofi-q...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966832995414734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-25T17:13:48Z",
+        "content": "Block, Inc. Q4 2021 Earnings: coming out of the pandemic stronger than ever $SQ popularfintech.com/p/block-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0772,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9636428356170654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-23T16:24:48Z",
+        "content": "Nubank Q4 2021 Earnings: why is Warren Buffett so bullish about this neobank? $NU popularfintech.com/p/nubank...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990008473396301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-18T16:38:09Z",
+        "content": "Upstart Q4 2021 Earnings: auto loans are great, but growth needs to come from personal loans too $UPST popularfintech.com/p/upstar...",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968679547309875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-15T07:54:27Z",
+        "content": "Affirm Fiscal Q2 2022 results: expect the volatility $AFRM popularfintech.com/p/affirm...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9757472276687622
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-10T16:31:31Z",
+        "content": "Publicly traded FinTech companies to watch in 2022 and beyond | Consumer lending $UPST $SOFI $LC popularfintech.com/p/public... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943212270736694
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-09T08:31:15Z",
+        "content": "LendingClub Q4 2021 Earnings Call: transition to the Marketplace Bank model continues as planned $LC popularfintech.com/p/lendin... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9541425704956055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-08T15:23:54Z",
+        "content": "Paypal Q4 2021 Earnings Call: will earnings growth continue? $PYPL popularfintech.com/p/paypal...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942857623100281
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-08T10:20:23Z",
+        "content": "Publicly traded FinTech companies to watch in 2022 and beyond | Payments $PYPL $SQ $AFRM popularfintech.com/p/public...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9758548140525818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-08T10:03:07Z",
+        "content": "What did Block buy: Afterpay in numbers $SQ popularfintech.com/p/what-d...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995604157447815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "popularfintech",
+        "timestamp": "2022-02-07T19:27:11Z",
+        "content": "Paypal Q4 2021 Earnings Call: will earnings growth continue? $PYPL popularfintech.com/p/paypal...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942857623100281
+            }
+        },
+        "image_url": ""
+    }
+]

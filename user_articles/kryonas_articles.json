@@ -1,0 +1,296 @@
+[
+    {
+        "username": "kryonas",
+        "timestamp": "2023-03-08T12:32:16Z",
+        "content": "$SPY anyone know what that massive volume was 20 min ago? seems to be across the board like some news broke but my feeds are empty",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.3291,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996914863586426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-24T18:11:56Z",
+        "content": "$AFRM careful here, this recovery is tracking the nasdaq and is not due to anything inherent in AFRM.",
+        "sentiment": {
+            "TextBlob": -0.018750000000000003,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993452429771423
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-24T17:37:12Z",
+        "content": "$AFRM I think this trades down or sideways (along with the rest of the nasdaq) until wednesday. After FOMC we'll get our first opportunity",
+        "sentiment": {
+            "TextBlob": 0.04722222222222221,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955839514732361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-24T14:30:32Z",
+        "content": "$AFRM  the whole market is in massacre mode. buckle up",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999468982219696
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-21T21:15:09Z",
+        "content": "$AFRM this was a painful day. IV is looking pretty crazy for next week as well. Goodnight everyone, and good luck for new week",
+        "sentiment": {
+            "TextBlob": -0.035606060606060586,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.788716733455658
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-21T02:03:38Z",
+        "content": "$AFRM I wonder what will happen now that PTON halt ended up being fake news (or at least overstated) not seeing the AH recover that I am with PTON",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997047781944275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-20T22:19:17Z",
+        "content": "$AFRM Up until now, I've disagreed with the vitriol on this board towards Max for his lack of proactive PR during this drop since Nov since it has always been a selloff of the broader fintech sector and not related to AFRM or its performance. However, Max should absolutely release some sort of statement about how affirm is no longer reliant on peleton as a significant source of revenue after what we saw today.",
+        "sentiment": {
+            "TextBlob": 0.19166666666666665,
+            "NLTK": -0.4723,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7630651593208313
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-20T21:44:00Z",
+        "content": "$AFRM AH looking very bad",
+        "sentiment": {
+            "TextBlob": -0.9099999999999998,
+            "NLTK": -0.5849,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9998167157173157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-20T21:26:01Z",
+        "content": "$AFRM I've seen data before for the contribution of each opartnership to Affirm's total GMV (i.e. Peleton x% shopify y% etc.) but I can't seem to find that data now. Does anyone have latest update on how much each partnership brings in for AFRM? I know a year ago  PLTN was a huge portion of their GMV but I'd have to think given the number of huge retailers they've formed partners with at this point that peleton wouldn't even be 5% of the total",
+        "sentiment": {
+            "TextBlob": 0.25000000000000006,
+            "NLTK": 0.7469,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990423321723938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-13T17:08:33Z",
+        "content": "$AFRM yikes down 77k since yesterday",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986114501953125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-04T16:31:21Z",
+        "content": "$AFRM potential entry point 86c 1/7 I see regain to ~92 by thurs eod",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9892052412033081
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2022-01-04T15:11:04Z",
+        "content": "$AFRM @Theta_Thief congrats. shifting to calls midday myself",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9763765931129456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-12-31T19:18:23Z",
+        "content": "$AFRM what the fuck. This is just infuriating to watch",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989927411079407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-11-16T11:34:31Z",
+        "content": "$AFRM I'm so confused. All price targets and analysts are up. Revenue growth was way up, GMV was up. Why does this keep dropping? Every day I see things that would send any other stock up 3% and this just keeps falling. Nasdaq is sgreen? Falls. Amazon locked in? Falls. ATH price target upgrades? Falls. WTF? can anyone explain this to me?",
+        "sentiment": {
+            "TextBlob": -0.3416666666666666,
+            "NLTK": -0.7772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993188381195068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-11-11T18:36:58Z",
+        "content": "$AFRM Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977288842201233
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-11-09T11:53:42Z",
+        "content": "$TSLA Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980158269405365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-11-09T09:08:24Z",
+        "content": "$TSLA Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980158269405365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-11-08T23:06:29Z",
+        "content": "$TSLA Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980158269405365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-11-05T01:47:50Z",
+        "content": "$TSLA Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980158269405365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-11-04T14:53:15Z",
+        "content": "$TSLA Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.980158269405365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "kryonas",
+        "timestamp": "2021-10-21T20:17:45Z",
+        "content": "$QQQ what the fuck just happened to nq futures",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989424347877502
+            }
+        },
+        "image_url": ""
+    }
+]

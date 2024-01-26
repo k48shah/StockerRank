@@ -1,0 +1,772 @@
+[
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-12-09T01:48:34Z",
+        "content": "$RUM $DWAC $BTC.X $SHIB.X get on this next huge coin!!!!",
+        "sentiment": {
+            "TextBlob": 0.48828125000000006,
+            "NLTK": 0.5374,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863622188568115
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-11-24T13:45:51Z",
+        "content": "$SPY dropping as predicted. Wait until CPI report tanks it even further. Inflation doesn't go away. Great ride on SPY so far but it's Bearish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": -0.284,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9581406712532043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-11-10T13:22:20Z",
+        "content": "TTMT TRUMP TRUTH Media Token available for presale here. Ill be in for the pump! $SHIB.X $BTC.X cointool.app/ido/exchange?i...",
+        "sentiment": {
+            "TextBlob": -0.11249999999999999,
+            "NLTK": 0.1343,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985454082489014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-11-08T21:31:06Z",
+        "content": "$DWAC guess what sympathy just showed up yall. Just released. I will load this board! Buh bye $META @ShibuInu is history with this coin!!!!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5673,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887285232543945
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-10-25T00:02:22Z",
+        "content": "$ANY Those December calls going to print BIGLY very soon. $UVXY calls will too! Futures Red SPY tank means BTC green and all aboard the ANY train!!!",
+        "sentiment": {
+            "TextBlob": -0.046875,
+            "NLTK": 0.3111,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915857315063477
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-10-04T23:08:42Z",
+        "content": "$DPW",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5256951451301575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-10-02T21:39:12Z",
+        "content": "$EBON 2.13 AVG absolutely loaded my 1997 Dodge Stratus full of shares. To 10 we go now. ER was amazing, fake news bears can suck my stratus. @BrittanySlaps bought this shiiiii. We all know she the goat...",
+        "sentiment": {
+            "TextBlob": 0.16250000000000003,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9764911532402039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-08-15T23:51:44Z",
+        "content": "$DPW ER explosion incoming!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9495558142662048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-08-14T20:49:11Z",
+        "content": "$DPW no words needed...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959267377853394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-08-03T00:19:17Z",
+        "content": "$AYTU one of these days it's gunna pop faster than an ED patient loaded with AYTU cream! @ricky_lafleur",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.961243748664856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-06-24T18:44:17Z",
+        "content": "$CEMI This is the ticker that takes me over the retirement edge. Also is it true Canadians order soup and Dunkin Donuts? Hearing they need minimum 1 3 hour nap a day too.",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8377160429954529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-06-17T11:07:49Z",
+        "content": "$ORPH not to be confused with Orpheus which every Orpheus getting pounded for shorts @ricky_lafleur",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.2411,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995324969291687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2021-04-29T09:53:33Z",
+        "content": "$ADVM @Joe_Diddly @BCochanator Looks like that bounce is already paying off. Pay up!!!! \ud83e\udd11\ud83e\udd11\ud83e\udd11",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5053,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933453798294067
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-10-27T16:46:55Z",
+        "content": "$DGLY Election riots-protests. Upcoming contract PRs. Load-the-boat.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977554678916931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-10-25T23:37:23Z",
+        "content": "$TBLT April 9, 2020 8:20 AM\nToughBuilt Industries, Inc. (NASDAQ: TBLT) announced that Lowe\u2019s (NYSE: LOW) has awarded a portion of its soft sided tool storage business and all of the kneepad business to ToughBuilt, to be launched at their nationwide stores and online lowes.com/ for October 2020. There will be 30 SKUs and ongoing total annual forecast of $22.7 million dollars.\n\nPR in October! I believe yes. Let's bank.",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.7345,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931309819221497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-09-07T16:40:37Z",
+        "content": "@Micropedia Appreciate the watch lists. Also high on $AVGR and have been accumulating. Hope you are well. Incredible call on $VVPR as well.",
+        "sentiment": {
+            "TextBlob": 0.53,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994957447052002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-05-09T14:44:18Z",
+        "content": "$AYTU $XWEL $GNUS Ready for another great week with psmtrades.com/. Head over and check it out! Such a helpful and enjoyable team to trade with. Good luck to all and have a wonderful weekend!",
+        "sentiment": {
+            "TextBlob": 0.5666666666666667,
+            "NLTK": 0.9701,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998226761817932
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-04-15T23:29:28Z",
+        "content": "$XWEL Liftoff! Head over to PSM Trades to get alerts on these. Group entered at .32-.33.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997323751449585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-03-19T20:37:28Z",
+        "content": "$AYTU   CODX  had 3 offerings. Just sayin.  Trade as you wish. I bought more on the dip! #dontpanic",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961075186729431
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-27T16:07:55Z",
+        "content": "$RMTI Thanks for all those cheap shares!!!",
+        "sentiment": {
+            "TextBlob": 0.490625,
+            "NLTK": 0.7163,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9780032634735107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-27T15:19:30Z",
+        "content": "$RMTI  I'll take all these cheap  shares!",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992905855178833
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-19T21:30:23Z",
+        "content": "$BLIN @mrinvestorpro once again. If you are not following him I suggest you do! Thanks!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8398153185844421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-19T00:24:44Z",
+        "content": "$CODX  We will hit $4.00 this week. Just enjoy the ride.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996603727340698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-18T02:11:59Z",
+        "content": "@nx4884  Welcome to the party! $VRDN $",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7177,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9938095211982727
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-13T15:29:08Z",
+        "content": "$AGRX \ud83d\ude0e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9838385581970215
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-06T22:12:21Z",
+        "content": "$WWR This pops Friday! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945369362831116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-06T17:52:10Z",
+        "content": "$CODX AH will be the start back up with continuation tomorrow anticipating the news. Buy low-Sell High. Bullish",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975577592849731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-05T19:36:47Z",
+        "content": "$CODX Buying!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8653563857078552
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-05T15:43:49Z",
+        "content": "$INTEQ Same as yesterday. Second run yesterday hit over 4.30. Coming again but higher this time. Bullish",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931051135063171
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-04T17:15:54Z",
+        "content": "$INTEQ My only question is...How high will this go for all of us longs!!! #LionMaster called this. Many times.... Thanks.",
+        "sentiment": {
+            "TextBlob": 0.253125,
+            "NLTK": 0.5826,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9954319000244141
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-04T15:50:09Z",
+        "content": "$INTEQ #LionMaster Thank you. Some of us are not haters. Some of us listen! \ud83d\udc4d\ud83d\udc4d Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6619,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9974310994148254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-04T14:19:21Z",
+        "content": "$VXRT Something is coming. Manipulation at it's finest. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9775695204734802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-02-03T22:05:03Z",
+        "content": "$AIM  Going to be big tomorrow!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979568719863892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-31T15:42:00Z",
+        "content": "$DYNT Loaded @ 1.09. Thanks #Ultra_Calls...Again.  \ud83d\udcc8 Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950634837150574
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-31T14:29:47Z",
+        "content": "$IBIO Post all the rockets!!! Lets go!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9784613847732544
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-30T20:46:35Z",
+        "content": "$IBIO Holding! Roll the dice!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7521854043006897
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-30T15:48:28Z",
+        "content": "$PALI She wants to rip past 1.4! Bullish",
+        "sentiment": {
+            "TextBlob": -0.056249999999999994,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993808269500732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-30T15:43:57Z",
+        "content": "$PALI $1.50 PT EOD?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978345036506653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-30T15:36:52Z",
+        "content": "$PALI Liftoff! \ud83c\udf89 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988512992858887
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-30T15:28:26Z",
+        "content": "$PALI Loaded more at 1.19 & 1.24.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977083206176758
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-29T14:34:41Z",
+        "content": "$AGRX  Weak hands just got manipulated.... Near $5 end of day.",
+        "sentiment": {
+            "TextBlob": -0.1375,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993960857391357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-28T18:11:34Z",
+        "content": "$YAYO Hope everyone is on board. It is about to move quick. Thanks #ACinvestorBlog, always consistent. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2611111111111111,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976776242256165
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-28T15:37:58Z",
+        "content": "$CPHI It is just a matter of time before this follows the other virus booms! Bullish",
+        "sentiment": {
+            "TextBlob": -0.15625,
+            "NLTK": 0.1007,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991486072540283
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-28T15:06:13Z",
+        "content": "$AGRX Let's keep it rolling! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968873858451843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-25T17:34:44Z",
+        "content": "@howardlindzon  Thank you for your advice. In my short time here I enjoy your thoughts. I like $DKNG long term. Any thoughts on selling after the super bowl then buying back in on dips or just hold long? Bullish",
+        "sentiment": {
+            "TextBlob": 0.10555555555555556,
+            "NLTK": 0.9022,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9963552951812744
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-25T16:08:18Z",
+        "content": "@PennyStocksMom $INO looking like the best play Monday!? Also thank you for all your insight! Been holding $ARGX thanks to you!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.9369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993700385093689
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-24T16:37:25Z",
+        "content": "$AGRX Holding long!",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9849564433097839
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-23T15:12:59Z",
+        "content": "$VXRT Volume up. Strong hands about to reap rewards! $1",
+        "sentiment": {
+            "TextBlob": 0.5416666666666666,
+            "NLTK": 0.7712,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9967984557151794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-22T21:09:09Z",
+        "content": "$VXRT Holding  overnight!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9745647311210632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-22T21:08:45Z",
+        "content": "$UNT Holding overnight!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899525046348572
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-22T14:16:57Z",
+        "content": "$KIRK  Could be another great day here. Let's push $2!",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5579476356506348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-22T13:54:16Z",
+        "content": "$VBIV  Consistently holds strong.  A breakout is looming. $2+.",
+        "sentiment": {
+            "TextBlob": 0.3416666666666667,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9985947012901306
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-16T15:29:24Z",
+        "content": "$IBRX How long should we hold!? Wow.",
+        "sentiment": {
+            "TextBlob": 0.018750000000000003,
+            "NLTK": 0.6239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8912765979766846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-14T17:27:16Z",
+        "content": "$OPGN Here we go. Congrats to all those with patience..... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9390754699707031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "JaredN10",
+        "timestamp": "2020-01-13T16:04:03Z",
+        "content": "$OPGN $2 EOD. Support is there. FDA approval could pay off big. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.6597,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9901906251907349
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,0 +1,5238 @@
+[
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-27T18:56:15Z",
+        "content": "Yesterday the Dow Jones Ind Avg index filled its gap. Today the ETF that follows it $DIA filled its gap.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978861212730408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-27T16:20:44Z",
+        "content": "$SPY 15 min setup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952278137207031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-27T15:36:11Z",
+        "content": "$AAPL for the channel lovers. Tagged what appears to be the bottom of the channel and holding so far",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999750554561615
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-27T15:32:03Z",
+        "content": "$AAPL 30min: broke below the rising trend. Earnings ah will either confirm this move or possibly create a bear trap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948413968086243
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-27T15:27:35Z",
+        "content": "$UUP the dollar has not broken down yet. Notice in August it created a bear trap. I'm not convinced the fed wants the dollar to roll over at this point. It's pulled back enough to provide some relief to the Yen, but any lower and they run the risk of oil taking off more imo",
+        "sentiment": {
+            "TextBlob": 0.12407407407407407,
+            "NLTK": -0.5271,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979054927825928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-27T14:49:26Z",
+        "content": "Market summary for the week so far \n$SPY",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939877986907959
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-27T12:15:01Z",
+        "content": "$CS falls 14% as the increasingly troubled Swiss bank loses over 4 billion Swiss francs vs expectations of 567.93 million.\n\nSource: @CNBC",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": -0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994161128997803
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T22:13:02Z",
+        "content": "$IWM the small cap index rejected hard off this rising trend giving a gravestone doji close. After today's session there seems to be a defined line in the sand for bulls and bears",
+        "sentiment": {
+            "TextBlob": -0.27083333333333337,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975167512893677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T21:33:45Z",
+        "content": "The Dow Jones Ind $DJIA filled its gap. It also tagged a rising trend line now acting as resistance. Shooting star candle for the Dow \n \nNot familiar with shooting star candles? Check here: \ninvestopedia.com/terms/s/sh... Bearish",
+        "sentiment": {
+            "TextBlob": 0.07083333333333335,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969497323036194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T21:20:15Z",
+        "content": "$NYA the NYSE composite index has a similar setup to early June. It will be interesting if this trades out the same.",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959267377853394
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T21:06:10Z",
+        "content": "$SPY failed to close above the 50sma and closed just above the 50ema. \n \nGravestone doji close. If you can't tell the significance from the name then here's a quick explanation of what it generally indicates: \n \ninvestopedia.com/terms/g/gr...",
+        "sentiment": {
+            "TextBlob": -0.03611111111111111,
+            "NLTK": -0.7017,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994655251502991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T18:45:27Z",
+        "content": "$COST not a bad spot here imo. Grabbed puts again that I sold on 10/13 Bearish",
+        "sentiment": {
+            "TextBlob": 0.3499999999999999,
+            "NLTK": 0.431,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6799909472465515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T17:00:17Z",
+        "content": "$VIX $VVIX $SKEW etc. have shown a great de-hedging in the last two weeks, but especially since the WSJ article came out on Friday. We now have the Fed projecting GDP coming in hotter. If PCE inflation surprises on the upside this Friday it could get ugly. Market is under hedged",
+        "sentiment": {
+            "TextBlob": 0.025000000000000022,
+            "NLTK": -0.1406,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976935982704163
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T16:08:17Z",
+        "content": "$SPY 4 hour chart: every rally this year has been a rising wedge. This one doesn't look much different.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996323585510254
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T15:52:04Z",
+        "content": "$TNX 10 year holding 4% so far. Could be forming another short term falling wedge",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998762845993042
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-26T15:04:18Z",
+        "content": "$SPX The pattern seems to be playing out again. Big range being made to chop around for longer",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914016127586365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-25T18:52:50Z",
+        "content": "$SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9803100228309631
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-25T13:46:07Z",
+        "content": "$SPX 50ema acting as resistance right now. Notice on the previous bounces this year that it acted as resistance 4 of the 6 times. The two times it wasn't resistance were the two large bear market rallies we had. It seems that there is a test and retrace before clearing on BMR",
+        "sentiment": {
+            "TextBlob": 0.08333333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986515641212463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T20:17:38Z",
+        "content": "$SPX daily chart: broke and closed over the downtrend. but rejected just over 3800. I still have my suspicions given TLT making new lows today and VIX green for the entire session. Likely comes down to earnings reactions since Japan in panic mode & China markets crashing is fine",
+        "sentiment": {
+            "TextBlob": 0.01218434343434343,
+            "NLTK": -0.9331,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974101185798645
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T19:06:04Z",
+        "content": "$SPY 30min chart \n \n$VIX still green and above 30 \n \n$TNX 10 year yield still green \n \n$UUP dollar flat",
+        "sentiment": {
+            "TextBlob": -0.10625000000000001,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996825456619263
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T16:09:40Z",
+        "content": "We've seen this a few times this year where all major indexes including $VIX is green. Normally signals a big reversal is coming.",
+        "sentiment": {
+            "TextBlob": -0.037500000000000006,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972033500671387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T16:01:51Z",
+        "content": "$TNX goes red on the day. $UUP now flat but $VIX remains up more than $SPY still",
+        "sentiment": {
+            "TextBlob": 0.15833333333333333,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.991782546043396
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T15:58:26Z",
+        "content": "$SPX 30min: seems like this has formed into a much larger rising wedge.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9740983843803406
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T14:26:39Z",
+        "content": "$TSLA below $200",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956008195877075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T14:23:48Z",
+        "content": "$TLT fresh decade lows. What Fed pivot?",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974486231803894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T14:06:35Z",
+        "content": "$FXI China stocks getting hammered. Down 10.8%",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993650317192078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T14:01:37Z",
+        "content": "$TLT celebrating fed \"pivot\" again by flirting with new decade lows",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9827971458435059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T13:43:09Z",
+        "content": "$SPX let's see. \n \nSo far $TNX rallying higher, $VIX is back above 30, the dollar is green as yen intervention failed 2nd trading day in a row",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998963475227356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-24T13:36:15Z",
+        "content": "$SPX watching this spot on the daily closely",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5867989659309387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T19:25:14Z",
+        "content": "$VIX turns green on the day with the major indexes bright green...",
+        "sentiment": {
+            "TextBlob": 0.090625,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9928151369094849
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T19:16:56Z",
+        "content": "$VIX hasn't budged this entire rally. $TLT completely dead. All I need to see",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.6801,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9946704506874084
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T18:14:49Z",
+        "content": "$SPX 5 min chart. Looks like a bull trap to me. Rising wedge plus overshoot Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990013241767883
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T17:52:16Z",
+        "content": "$SPX let's see",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9896906614303589
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T17:41:39Z",
+        "content": "$SPX big spot again. We should know the direction very soon. VIX must break over 30 for this to trade out imo",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955331087112427
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T17:09:35Z",
+        "content": "$VIX rallying with $SPX here as we approach the key spot I'm watching. VIX needs to bust above 30",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979058504104614
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T16:30:40Z",
+        "content": "$TLT celebrating fed \"pivot\" by being down another 1.9% at decade lows",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992609620094299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T15:29:55Z",
+        "content": "$SPX 30min: the setup I'm watching",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.966586709022522
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T14:36:46Z",
+        "content": "$SPY inversing yields and the dollar. We're all FX and bond traders now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9770545959472656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T14:27:29Z",
+        "content": "$SPX that's a good start",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997875094413757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T14:13:53Z",
+        "content": "$SPX all week when we have run up this fast it resolves down. Let's see if it continues the pattern or if we still need to test the resistance above first",
+        "sentiment": {
+            "TextBlob": 0.0736111111111111,
+            "NLTK": 0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996563196182251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T14:08:51Z",
+        "content": "$SPX worth watching this spot. Not the best trend but it is noteworthy",
+        "sentiment": {
+            "TextBlob": 0.65,
+            "NLTK": -0.1862,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997792840003967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-21T13:47:44Z",
+        "content": "$SPX right off the trend I mentioned yesterday",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870098829269409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T20:41:15Z",
+        "content": "$SPX daily: rejected the rising wedge and also have made a lower high. Looks ready to finally head back down Bearish",
+        "sentiment": {
+            "TextBlob": 0.03407407407407407,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965373277664185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T20:32:26Z",
+        "content": "It's a shame $SNAP couldn't crush their earnings to help yields and the dollar come down. $NFLX almost did it",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0114,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976314306259155
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T19:31:22Z",
+        "content": "$ASTS at rising support. Should be getting an update on the test satellite towards the end of the month. Unfortunately, at the mercy of broader markets for now. \n \ntwitter.com/ast_spacemobile...",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994394183158875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T18:52:29Z",
+        "content": "$SPX 30min. Might be finding support just a little earlier. 3650 still a possibility. Main thing worth considering is heading into tomorrow we could gap up back at resistance with SNAP earnings after the close. If ad sales improve it could gap up META GOOG, etc. Keep an open mind",
+        "sentiment": {
+            "TextBlob": 0.04652777777777778,
+            "NLTK": 0.7579,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974138736724854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T17:35:50Z",
+        "content": "$SPX 30 min: we broke below the channel. If this can take out the low of the day then I'm expecting a move towards 3650 or wherever the small downtrend is by the time we get there. This is just a very short term target I'm eyeing. If bounce here then retest channel is possible",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": -0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986552000045776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T17:14:41Z",
+        "content": "$VIX down 1%. Markets must be getting less volatile",
+        "sentiment": {
+            "TextBlob": -0.16111111111111112,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987795948982239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T16:37:18Z",
+        "content": "$TLT fresh decade lows",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989701509475708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T16:16:20Z",
+        "content": "$SPX now watching this trend lol",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908567667007446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T16:09:03Z",
+        "content": "$SPX well...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9783112406730652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T15:19:34Z",
+        "content": "$UVXY I rarely chart volatility instruments because it doesn't normally make much sense to but... \n \nJust something to watch, especially with VIX right at 30 here",
+        "sentiment": {
+            "TextBlob": 0.1871428571428571,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9955163598060608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T14:41:35Z",
+        "content": "$SPX maybe a rejection... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985326528549194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T14:09:10Z",
+        "content": "$SPX we ran right back to the rising wedge we broke down from. This could be key for a backtest",
+        "sentiment": {
+            "TextBlob": 0.03253968253968253,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976446032524109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T13:58:17Z",
+        "content": "Since 10/12 $SPY has gone up roughly 3.7% while $TLT has dropped 4.5% \n \nOne is lying and we all know who",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975141286849976
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-20T13:44:41Z",
+        "content": "$SPX really annoying how we have just gone sideways after the breakdown yesterday. I'm now watching this smaller falling wedge that could break to the upside which could set back the drop by a day or two. Still in consolidation so I'm waiting till it's more clear",
+        "sentiment": {
+            "TextBlob": -0.04,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968383312225342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T18:37:35Z",
+        "content": "$SPX well...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9783112406730652
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T18:13:37Z",
+        "content": "$SPX doing some backtesting...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897777438163757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T17:34:40Z",
+        "content": "$SPX notice last time we broke down from a rising wedge we bounced to retest the breakdown area before continuing lower. Doesn't mean the same thing will happen. Just showing how these setups can resolve in a confusing manner",
+        "sentiment": {
+            "TextBlob": -0.1536111111111111,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926100373268127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T16:47:22Z",
+        "content": "$SPX breakdown it is",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969227910041809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T16:30:57Z",
+        "content": "$SPX huge spot here",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986067414283752
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T16:08:58Z",
+        "content": "$TNX popping off",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9896515011787415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T15:53:18Z",
+        "content": "$SPX 30min chart: what originally looked like another smaller wedge is now looking like a bear flag inside the larger rising wedge. Notice the range of the flag up to 3730 give or take. Not much to do in this consolidation phase",
+        "sentiment": {
+            "TextBlob": 0.06875,
+            "NLTK": 0.6124,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995254278182983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T14:42:12Z",
+        "content": "$AAPL tagged the 20ema... worth watching",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8270487785339355
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T14:36:07Z",
+        "content": "$SPX broke above and is looking to retest on this smaller setup. I'm cautious about fakeouts today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971133470535278
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-19T14:12:02Z",
+        "content": "$SPX 15 min chart. Another smaller setup to watch that is inside the rising wedge",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963232278823853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T20:26:18Z",
+        "content": "$UAL United Airlines Shares Surge On Higher Profit And Strong Demand Forecast - CNBC \n \ncnbc.com/2022/10/18/united-...",
+        "sentiment": {
+            "TextBlob": 0.3416666666666667,
+            "NLTK": 0.8658,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9772500395774841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T19:29:59Z",
+        "content": "$SPX hourly chart: two scenarios that I think are worth considering. Obviously with all the earnings about to drop we can see some adjustments. The main thing I will be preparing for is the wedge breakdown and then seeing if we follow through the same way as the previous 3",
+        "sentiment": {
+            "TextBlob": 0.06000000000000001,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9858132004737854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T18:51:11Z",
+        "content": "$SPX 30min chart: Watching this rising wedge very closely",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9446092247962952
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T18:42:59Z",
+        "content": "$SPX let's see if we get follow through on the flag break. Remember this is a very short term timeframe.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985186457633972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T18:06:12Z",
+        "content": "$SPX 10min time frame: caution here on what could be a bear flag",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976621866226196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T16:11:39Z",
+        "content": "$SPX oh boy",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.92787766456604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T15:23:13Z",
+        "content": "$SPX 30min chart. Almost there",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9845752716064453
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-18T14:48:28Z",
+        "content": "$SPX Careful fading today's move too soon. We just tested the bottom of this range which could start a big bounce. I still see 3800 as a possible top",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.979436457157135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-17T20:12:23Z",
+        "content": "$SPX Revised this a bit. We closed right a key spot for the short term. We could gap above back into the large channel similar to late May/very early June before rolling back below the channel to finally test the lower trend, which I believe needs to happen before expecting a BMR",
+        "sentiment": {
+            "TextBlob": 0.016666666666666666,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897857904434204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-17T18:27:06Z",
+        "content": "$SPX possible setup heading into the close",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830449819564819
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-17T18:03:42Z",
+        "content": "$SPX no new highs since 10:15. Not sure I would call today's move a short squeeze",
+        "sentiment": {
+            "TextBlob": -0.10606060606060606,
+            "NLTK": -0.4874,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969610571861267
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-17T16:38:12Z",
+        "content": "$TLT is acting very weak still. Close to going red on the day",
+        "sentiment": {
+            "TextBlob": -0.1625,
+            "NLTK": -0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997811913490295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-17T16:24:25Z",
+        "content": "$ASTS 300k block order Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993817806243896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-17T14:21:20Z",
+        "content": "$SPX daily close to retesting the downtrend. Huge spot",
+        "sentiment": {
+            "TextBlob": 0.20000000000000004,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6561207175254822
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T20:25:41Z",
+        "content": "$SPX textbook rejection. See yesterday's commentary",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5423,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994131326675415
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T20:19:38Z",
+        "content": "$SPX closed slightly below its 200sma for the first time since covid.",
+        "sentiment": {
+            "TextBlob": -0.005555555555555554,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9662006497383118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T20:09:49Z",
+        "content": "$SPX daily chart: just got our 4th hard rejection off the downtrend. Last 3 times we saw continuation for several days before a bounce occured. We're in a slightly broadening wedge, so the drop to the downtrend is larger now if it makes the full move. Bearish",
+        "sentiment": {
+            "TextBlob": -0.015476190476190485,
+            "NLTK": -0.7414,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952394962310791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T19:51:59Z",
+        "content": "$SPX updated hourly: still expecting this pattern to trade out next week Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980471134185791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T17:05:52Z",
+        "content": "$TSLA yup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9594027400016785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T16:16:36Z",
+        "content": "$SPX that was fast",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6014477014541626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T15:15:27Z",
+        "content": "$TNX the 10 year is over 4%",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9844702482223511
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T14:50:13Z",
+        "content": "Crazy part is each arrow had such a hard selloff that we made a lower low the same day. If the pattern hold then we could be sitting at yesterday's lows by the close... Imagine how bulls will feel over the weekend if that happens \n$SPX $SPY Bearish",
+        "sentiment": {
+            "TextBlob": -0.17833333333333332,
+            "NLTK": -0.7845,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991807341575623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T14:37:48Z",
+        "content": "$SPX hourly: so far so good. Next week should be fun Bearish",
+        "sentiment": {
+            "TextBlob": 0.27499999999999997,
+            "NLTK": 0.8111,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999228835105896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T14:07:18Z",
+        "content": "$NYA the NYSE composite struggling at supply zone as well",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1779,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984965324401855
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T14:05:32Z",
+        "content": "$QQQ struggling at supply zone so far",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985491633415222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T13:54:22Z",
+        "content": "$SPX big spot if we reject here. Very early in the day. Will revisit this chart later",
+        "sentiment": {
+            "TextBlob": 0.043333333333333335,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7389503121376038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T13:45:13Z",
+        "content": "$SPX as I've said if this was a true island reversal then the gap should not fill. Possible overthrow on the wedge this morning which could lead to something like this today. We'll see. I'm more concerned about how we trade into late Oct.",
+        "sentiment": {
+            "TextBlob": 0.1375,
+            "NLTK": 0.6486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8068528771400452
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-14T13:41:55Z",
+        "content": "$SPX 5 min chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926336407661438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T21:16:51Z",
+        "content": "$SPX As wild as today's reversal was we still closed below the main channel of the year where the heaviest volatility is seen. While we clearly saw bulls defend 3500, the recent past shows us that we generally need to see a local low defended at least twice, and often a lower low. \n \nWe could revisit the low very soon or it could take longer like earlier in the year. The longer it takes the lower the next low will be imho.",
+        "sentiment": {
+            "TextBlob": -0.002083333333333331,
+            "NLTK": -0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996038556098938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T19:26:55Z",
+        "content": "$SPX 15min chart: the setup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9922900795936584
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T16:46:11Z",
+        "content": "$SPX in fact, this pattern is identical to the previous two times. Of course patterns eventually end but till it does I will trade it",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850354194641113
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T16:30:19Z",
+        "content": "$SPX the last several times we've ran up this fast and rejected at the upper channel we had a large selloff follow. If we break and close above then we could setup for another island reversal pattern. Either way, I'm remaining bearish for now till this current trend changes",
+        "sentiment": {
+            "TextBlob": 0.05918367346938775,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978498220443726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T15:42:13Z",
+        "content": "$SPX took puts here 3660 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967897534370422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T15:16:04Z",
+        "content": "$SPY remember the megaphone?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967297315597534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T15:11:36Z",
+        "content": "$SPY gap filled. I personally believe that violent bounce was primarily from hedges being closed from those who specifically positioned for CPI print. My bias for end of the month remains down. I'm willing to be wrong. Done it before, will do it again",
+        "sentiment": {
+            "TextBlob": -0.06319444444444444,
+            "NLTK": -0.8126,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980213642120361
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T15:00:42Z",
+        "content": "$COST puts on fire \n \n$SPY bounced a lot more than what I expected but I'm holding conviction that lower lows are coming by late Oct",
+        "sentiment": {
+            "TextBlob": 0.03333333333333335,
+            "NLTK": -0.6908,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.74172443151474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T13:32:56Z",
+        "content": "In case you think there is even a hint of capitulation going on may I remind you $VIX is red",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978965520858765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-13T13:24:20Z",
+        "content": "It's possible we start seeing even greater price fluctuations as we enter a spot that could start triggering margin calls. $SPY $SPX will open below its weekly 200ema and monthly 50sma. Staying under these levels for 2-3 weeks has signaled severe bear markets",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": -0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967764019966125
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T21:14:22Z",
+        "content": "Might be worth following $BLK earnings tomorrow morning",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9765459895133972
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T20:36:04Z",
+        "content": "$SPY weekly chart: on a longer time frame it becomes more obvious what is missing for a bottom. Volume. Instead of volume surging we are seeing volume decreasing as we drop further. Bearish",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996840953826904
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T20:31:46Z",
+        "content": "$SPY some volume analysis: YTD volume has marked local bottoms by two surges in volume spread roughly a month apart. If this continues then it aligns with my prediction for another low later this month. \n \nWorth noting the prior bottoms needed to test the lower trend line twice.",
+        "sentiment": {
+            "TextBlob": 0.04285714285714286,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910350441932678
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T17:53:45Z",
+        "content": "$AAPL is leading down... Falling support looks like a magnet Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995653033256531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T17:31:56Z",
+        "content": "$SPX 30min chart. My wild guess. I'm loaded up in my puts now Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976906776428223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T15:54:03Z",
+        "content": "$SPX 15 min chart. Might get our very short term breakout. Needs a convincing move over the hod",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996410608291626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T14:44:00Z",
+        "content": "Eyes on the dollar \n$UUP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8961460590362549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T14:35:45Z",
+        "content": "$SPX probably a good spot to watch. Again, key is we need to break this wedge first",
+        "sentiment": {
+            "TextBlob": 0.31666666666666665,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8794125318527222
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-12T13:40:27Z",
+        "content": "$SPX we'll see if bulls can break us above this wedge. I'll be using pops to build my put position to swing into late Oct",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.882647693157196
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T20:14:50Z",
+        "content": "$SPX the daily is shaping up to be more similar to the fractal that I originally pointed out in September. \n \nI'm looking for a move to 3250-3300s.",
+        "sentiment": {
+            "TextBlob": 0.21875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966244697570801
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T19:56:46Z",
+        "content": "$SPX updated 30min. Can we make the break still? I think it's still possible. I lowered my levels of where I would like to get aggressive in my short positions. Will gladly take higher levels if offered",
+        "sentiment": {
+            "TextBlob": 0.1875,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975221753120422
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T19:19:28Z",
+        "content": "$SPX just noticed where we rejected",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986935257911682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T19:14:25Z",
+        "content": "$VIX broke yesterday's high. Managed to quickly get $SPY and $SPX puts for late Oct that I will build on",
+        "sentiment": {
+            "TextBlob": 0.06444444444444443,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5799235105514526
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T18:32:57Z",
+        "content": "$SPX 5min time frame. Possible flag setup heading into the close",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9908786416053772
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T18:12:56Z",
+        "content": "I'm adding $COST Nov puts here Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924880266189575
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T16:21:57Z",
+        "content": "$SPY looking perfect",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994841814041138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T15:59:32Z",
+        "content": "$SPY a 1% move off the low. Looking for a backtest on the broadening wedge breakout and then head up to my upside target to reload puts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975774884223938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T14:27:23Z",
+        "content": "Once again $TLT showing it can catch a bid down here (for now). This implies some relief should be starting up imho",
+        "sentiment": {
+            "TextBlob": -0.07777777777777779,
+            "NLTK": 0.4767,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9440567493438721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T14:15:48Z",
+        "content": "$VIX has not broke yesterday's high, as of now. Watching that closely to see if we should expect some relief here",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.6632,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906280040740967
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T14:13:53Z",
+        "content": "$SPY my wild guess for the very short term.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989017248153687
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T13:52:34Z",
+        "content": "$SPY $QQQ we did it!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9684001207351685
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T13:42:00Z",
+        "content": "$SPX 30min chart: testing the 52 week low. As I said, I expected we needed to undercut the low before a very short term bounce could start up. Watch for a reversal today. This should be short lived",
+        "sentiment": {
+            "TextBlob": -0.02,
+            "NLTK": -0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995918869972229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-11T00:19:28Z",
+        "content": "$ARKK yup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6473696827888489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T19:45:40Z",
+        "content": "$ASTS relative strength here Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935855269432068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T19:18:18Z",
+        "content": "$VIX trending down since 1:10PM",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987504482269287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T18:30:00Z",
+        "content": "$SPX  As some others have pointed out we have an island reversal top on this time frame so I do not expect the gap to fill",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848398566246033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T18:24:40Z",
+        "content": "$SPX 30 min chart. Still could make the lower low however I think I've caught the bulk of the move lower and now waiting for a very short term bounce around 3670-3685 area to add back puts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990092515945435
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T17:47:10Z",
+        "content": "$TLT trying to reverse finally. $AAPL nhod. $SPX might not get the lower low quite yet. Exited all puts from last week",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0547,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993714690208435
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T17:02:28Z",
+        "content": "$SPX yep",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7911791205406189
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T14:42:09Z",
+        "content": "$VIX 6%. This is up more %-wise than any point of the day on Friday and SPX was down more than 3% at Friday low. Think about that",
+        "sentiment": {
+            "TextBlob": 0.2111111111111111,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960511326789856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T14:35:31Z",
+        "content": "$TLT getting walked down hard...",
+        "sentiment": {
+            "TextBlob": -0.22361111111111115,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995406866073608
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T13:52:51Z",
+        "content": "$TLT new lows...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987947940826416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T13:36:47Z",
+        "content": "$AAPL lower than Friday",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999415397644043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-10T13:34:31Z",
+        "content": "$VIX higher than Friday...",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9384950995445251
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T20:52:47Z",
+        "content": "$SPX if this is in fact the 5th wave down, then it should be one of the hardest and fastest drops on this down cycle like the two previous ones. Whether we match the speed or not it seems like we need to target 3300s before a meaningful bounce can occur. Bearish",
+        "sentiment": {
+            "TextBlob": 0.005555555555555536,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983401298522949
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T20:12:32Z",
+        "content": "$SPX $SPY here was the call from Tuesday when I said I expected to revisit 3600s if not new lows Bearish",
+        "sentiment": {
+            "TextBlob": -0.08409090909090909,
+            "NLTK": 0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976592063903809
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T20:10:48Z",
+        "content": "$SPX updated 30min chart. Megaphone pattern playing out perfectly. I believe new lows come early next week. If I'm wrong, no harm done. Today was a record day for me. Bearish",
+        "sentiment": {
+            "TextBlob": 0.14727272727272728,
+            "NLTK": -0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9966608285903931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T19:31:25Z",
+        "content": "$VIX in case you think this is capitulation we're seeing in indexes, it's not",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990178346633911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T18:55:13Z",
+        "content": "$SPX before you go buying the dip for a bounce \"because we are dropping too much too fast\"... something to keep in mind",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995916485786438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T18:24:39Z",
+        "content": "The Nasdaq Composite, Dow Jones Ind, and NYSE composite are all on pace to close below their weekly 200sma/ema for the 3rd consecutive week. \n \n$COMPQ $DJIA $NYA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955892562866211
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T17:46:56Z",
+        "content": "$SPX finally made it. Did some more profit taking on puts",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9520531892776489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T16:59:42Z",
+        "content": "$TSLA this setup nailed the top",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9496046304702759
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T16:56:18Z",
+        "content": "$AAPL so far so good",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.6213,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998378753662109
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T16:46:08Z",
+        "content": "$TSLA almost at the neckline",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9779111742973328
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T15:26:53Z",
+        "content": "$SPX 30 min time frame. This mid zone seems to be a magnet once a big move is in play. We are not quite there yet. I did take profits from my nearest dated puts but I'm still holding my core for longer dated puts as I still expect new lows later this month Bearish",
+        "sentiment": {
+            "TextBlob": 0.03409090909090909,
+            "NLTK": 0.1154,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929347634315491
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T14:38:32Z",
+        "content": "$TSLA yup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9594027400016785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T14:10:24Z",
+        "content": "$SPX $SPY So much for next week! As I said last night, I was less concerned on timing this drop as being positioned for it. A single day can make the year when properly positioned Bearish",
+        "sentiment": {
+            "TextBlob": -0.006349206349206345,
+            "NLTK": -0.3954,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970424771308899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-07T13:44:19Z",
+        "content": "$SPX 30 min updated. Perfect play this week heading into next week",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7269,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.786135196685791
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T20:36:21Z",
+        "content": "$SPY I'm no Elliot Wave expert & I rarely if ever use it, but the more I study this, it's hard to ignore a repeating pattern this year. If this count continues we *could* chop for a little longer before the 5th wave down. I'm not as concerned with timing as positioning for it. \n \nThe shapes are irrelevant other than pointing out how we consolidated at each spot. \n \nIf you think you have a better count feel free to share and explain why.",
+        "sentiment": {
+            "TextBlob": 0.04891975308641975,
+            "NLTK": 0.7684,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986085295677185
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T18:55:16Z",
+        "content": "$COST huge wick being made today. Cup and handle setup Bearish",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895673394203186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T18:42:14Z",
+        "content": "$VIX broke 30 making a nhod and SPY is pinned still. Have a feeling some large orders are needing to be filled before they let it go",
+        "sentiment": {
+            "TextBlob": 0.30714285714285716,
+            "NLTK": -0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990028738975525
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T18:07:15Z",
+        "content": "$SPX looks like a breakdown. They chopped a lot at resistance and bulls couldn't pull anything off",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996885061264038
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T17:15:33Z",
+        "content": "$SPX 10min time frame. Setup going into the close. Watch for the break",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940609335899353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T15:51:59Z",
+        "content": "$ASTS short interest increased 14% despite the price falling. Current short int is anywhere from 24%-30%. Short squeeze potential thanks to $T advertising their support Bullish",
+        "sentiment": {
+            "TextBlob": 0.03333333333333333,
+            "NLTK": 0.8791,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934706687927246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T15:45:12Z",
+        "content": "$ASTS having a good day \n \nbloomberg.com/news/articles... Bullish",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8383724689483643
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T14:05:58Z",
+        "content": "$SPX breakdown on the 15 min time frame",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986644983291626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-06T13:34:51Z",
+        "content": "$SPX 15 min time frame. Watching this setup like a hawk",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933030605316162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-05T20:17:24Z",
+        "content": "$SPX hit the upper trend of the megaphone. Could chop around more before making a decisive move but I still expect a big move back down by next week. Bearish",
+        "sentiment": {
+            "TextBlob": 0.05740740740740741,
+            "NLTK": 0.1486,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990119934082031
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-05T19:12:46Z",
+        "content": "$TNX the 10 year broke out of this consolidation today. Currently up 3.9%. The dollar is up .9%. Stocks trying to celebrate. Won't last",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9798136353492737
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-05T18:10:11Z",
+        "content": "$AAPL so far this has traded out really well. Assuming it continues then I would expect us to drop to $130-$135 in coming days/weeks. I grabbed some puts up here Bearish",
+        "sentiment": {
+            "TextBlob": 0.15000000000000002,
+            "NLTK": 0.0754,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9805110096931458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-05T17:30:58Z",
+        "content": "Loaded up puts again on $SPY and $COST Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971452355384827
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-05T16:42:58Z",
+        "content": "$SPX 15min time frame: current setup is similar to the previous double tops around this rising trend. We either fade into the close or attempt a breakout that ultimately fails imho",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995630383491516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-05T14:18:27Z",
+        "content": "$SPX so far so good Bearish",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.6213,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9997616410255432
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-04T19:11:05Z",
+        "content": "$SPX 30 min time frame: meeting resistance at the upper part of the bear channel. Currently in another megaphone pattern that is a continuation pattern. Expecting to revisit 3600s if not new lows Bearish",
+        "sentiment": {
+            "TextBlob": -0.022727272727272724,
+            "NLTK": 0.1511,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983539581298828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-04T16:47:02Z",
+        "content": "$SPY I said last week that the volatility in this spot was relatively muted. We finally got a big volatility move off the lows similar to 5/4. If this fractal trades out then I would expect new lows later this month",
+        "sentiment": {
+            "TextBlob": 0.01948051948051948,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9953718781471252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-04T15:55:44Z",
+        "content": "$AAPL looks weak to me. Rejecting the 8ema on the daily so far",
+        "sentiment": {
+            "TextBlob": -0.09166666666666667,
+            "NLTK": -0.7096,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997403025627136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-04T15:53:29Z",
+        "content": "$TNX testing lower end of the bull channel and holding so far",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943743944168091
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-04T15:35:45Z",
+        "content": "$QQQ real close to filling its gap",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9869689345359802
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-04T14:05:43Z",
+        "content": "$SPX 30min chart. Squeezing late bears from last week. No point in fighting the trend break. Let them take this higher. Sentiment already changing over two daily green candles, like this has not happened multiple times this year. Bears trapped now but the next trap is for bulls",
+        "sentiment": {
+            "TextBlob": -0.05625,
+            "NLTK": -0.6956,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997425377368927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-03T20:13:51Z",
+        "content": "$SPX the last time we saw these levels was... last week. Nothing to write home about till we break above or below this range in a meaningful way",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919611811637878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-03T19:41:16Z",
+        "content": "$VIX the 30 level is still sticky... $SPX we're still in the same range that started on 9/23. Keep that in mind when looking at today's big bounce",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995490908622742
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-03T15:22:19Z",
+        "content": "$SPX Still seeing similarities to the setup back in early May. Regardless if we match it or not, we are at the spot where both bulls and bears will be very annoyed",
+        "sentiment": {
+            "TextBlob": -0.14,
+            "NLTK": -0.4391,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999036431312561
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-03T15:07:29Z",
+        "content": "$SPX 30 min time frame. Important spot",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9723271727561951
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-03T13:43:33Z",
+        "content": "$TSLA finally filled the gap from July, while making a new gap just above",
+        "sentiment": {
+            "TextBlob": 0.1787878787878788,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9781907796859741
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-01T16:43:20Z",
+        "content": "$SPY 3/3",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9856889247894287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-01T16:43:04Z",
+        "content": "$SPY 2/3",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9855940937995911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-10-01T16:42:43Z",
+        "content": "$SPY notable posts over the last month 1/3",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9785361886024475
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T21:56:48Z",
+        "content": "$SPY $SPX this played out exceptionally well.  A 50+ bps move in under 3 hours",
+        "sentiment": {
+            "TextBlob": 0.6666666666666666,
+            "NLTK": 0.6301,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9932593703269958
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T21:43:06Z",
+        "content": "$DJIA $COMP the Dow Jones and the Nasdaq composite closed below their respective monthly 50sma and 50ema. \n \nThe Dow and Nasd also closed below their respective weekly 200sma and 200ema \n \n$SPX closed just below its monthly 50ema with the 50sma still below. \n \nSP500 closed below its weekly 200ema and just slightly below/at the 200sma",
+        "sentiment": {
+            "TextBlob": -0.08095238095238096,
+            "NLTK": 0.6808,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989847540855408
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T20:32:43Z",
+        "content": "$SPY a 7% drop since the bearish engulfing candle",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9769432544708252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T20:09:22Z",
+        "content": "$AAPL yes",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.988468587398529
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T19:11:28Z",
+        "content": "Yields just popped some. $TIP new lows",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9793788194656372
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T19:01:28Z",
+        "content": "$SPX right on time",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9274329543113708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T17:18:48Z",
+        "content": "$SPX 5min setup",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9879298210144043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T17:14:39Z",
+        "content": "$VIX 30 area sticky. $AAPL still very weak",
+        "sentiment": {
+            "TextBlob": -0.48750000000000004,
+            "NLTK": -0.4927,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997935891151428
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T16:44:50Z",
+        "content": "$TIP not far from making new lows",
+        "sentiment": {
+            "TextBlob": 0.043181818181818175,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9815630912780762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-30T14:11:59Z",
+        "content": "$VIX heading down to 30. Seems like indexes are just looking for an excuse to rally today. $IWM small caps leading the way",
+        "sentiment": {
+            "TextBlob": -0.15185185185185188,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996088147163391
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T20:45:25Z",
+        "content": "Good thread on the fundamental side of why $COST should crater going forward: twitter.com/tradertexmex/st... \n \nEarlier in the day I posted the technical reason why I believe COST is a good short for the next several months to year",
+        "sentiment": {
+            "TextBlob": 0.19999999999999998,
+            "NLTK": 0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8986603617668152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T18:58:05Z",
+        "content": "$SQQQ was slightly early on this call but SQQQ drawdown was max 10% from this post before it reversed mid August.",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997550904750824
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T18:51:38Z",
+        "content": "$QQQ on 8/17 (day after we peaked on huge bear market rally) I wrote, \"a retrace to the low or higher low before midterms.\" Here we are. And I think the catalysts we're seeing meets the level to take us lower before midterms",
+        "sentiment": {
+            "TextBlob": 0.16250000000000003,
+            "NLTK": -0.4767,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847492575645447
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T18:26:37Z",
+        "content": "$AAPL charts tell the story before the headlines",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9830718636512756
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T18:09:12Z",
+        "content": "$SPX if this fractal wants to keep playing out, maybe we are here.",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928060173988342
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T17:53:38Z",
+        "content": "$BTC.X bitcoin looks a lot like $ARKK. It's held relatively well during the latest market drop but I don't believe that will last",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.1901,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994460940361023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T17:10:30Z",
+        "content": "$COST is only getting started. My top short pick Bearish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962164759635925
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T17:06:41Z",
+        "content": "$TSLA almost 14% drop since",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2075,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972707629203796
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T17:04:49Z",
+        "content": "$AAPL 18% drop since",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951730370521545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T15:42:59Z",
+        "content": "$QQQ surprisingly, this still hasn't reached June lows while every other major index has. $AAPL is down 4.4% and $TSLA is down 5.4% today. Not what one would expect. Think this says more about how large the bear market rally was for tech in Jul/Aug & less about relative strength",
+        "sentiment": {
+            "TextBlob": 0.09711199294532627,
+            "NLTK": 0.6632,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996336698532104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T15:07:37Z",
+        "content": "$ARKK has formed a head and shoulders. I don't think it's quite ready to breakdown yet but nothing bullish about this setup",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.2255,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7090134620666504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T14:50:13Z",
+        "content": "$SPX so are we ready to bounce to match the fractal or do we just rollover from here?",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4144,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984288811683655
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T14:24:54Z",
+        "content": "$COST inverse cup and handle. Watch for that handle break to start the move Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9682392477989197
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T13:56:34Z",
+        "content": "Keep in mind that $AAPL recently became the most shorted stock. So yesterday's bounce was heavily supported by short covering and most likely not actual buying.",
+        "sentiment": {
+            "TextBlob": 0.1142857142857143,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988778233528137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-29T13:52:55Z",
+        "content": "$SPX uncanny",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9774540066719055
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T21:09:44Z",
+        "content": "$SPX $QQQ Something I'm watching. Indexes have retraced to June lows or undercut them while RSI readings have made lower lows than June. One would expect bullish divergence but instead RSI seems to be confirming the move lower. \n \nLast time I remember spotting this was on $ARKK late last year and earlier this year. As we know rallies were short lived and lower lows followed. Until technicals improve dramatically I will continue looking for short setups while being cautious during these choppy ranges. \n \nSee the rest of the charts here: twitter.com/reformed_trader...",
+        "sentiment": {
+            "TextBlob": -0.07142857142857142,
+            "NLTK": -0.714,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999030351638794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T19:36:27Z",
+        "content": "Huge correction in $TNX and $UUP after eye-watering melt ups. \n \n$VIX also peaked in the mid 30s where I had previous said we needed to tag before a bounce could start up. \n \nNow it's time to see what reactions we get from GDP, and PCE over next two days.",
+        "sentiment": {
+            "TextBlob": 0.058333333333333355,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987859129905701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T19:23:48Z",
+        "content": "$SPX right at my mid trend. Most likely at the mercy of market reaction to economic data tomorrow morning",
+        "sentiment": {
+            "TextBlob": 0.19714285714285715,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967376589775085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T17:51:11Z",
+        "content": "$SPX the RSI yesterday was <27 yesterday after closing red for 6 consecutive days. For an index! And there are people who think a 1.5% bounce that hasn't cleared last two days highs is strong or somehow squeezing shorts. This is a weak dead cat bounce so far till proven otherwise",
+        "sentiment": {
+            "TextBlob": -0.006944444444444452,
+            "NLTK": -0.6692,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978922009468079
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T17:26:36Z",
+        "content": "$SPX algos still stuck",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981406927108765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T15:50:51Z",
+        "content": "If you haven't noticed, $SPY has become a leveraged inverse dollar ETF. We're all FX traders now",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.97845059633255
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T15:41:50Z",
+        "content": "Only $AAPL shareholders need to worry about demand destruction. Everyone else will be fine",
+        "sentiment": {
+            "TextBlob": 0.20833333333333334,
+            "NLTK": -0.743,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9743953943252563
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T15:26:53Z",
+        "content": "$TNX yields rolling over hard today after a monster run",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959186911582947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T13:39:14Z",
+        "content": "$AAPL down 4% and $SPY trying to shrug it off lol",
+        "sentiment": {
+            "TextBlob": 0.32222222222222224,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995173215866089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-28T13:33:17Z",
+        "content": "$AAPL not a good spot to reject",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.6256,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997796416282654
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-27T19:26:27Z",
+        "content": "$TLT tanking. Stock bulls still do not understand what bond markets are communicating",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995428323745728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-27T18:23:19Z",
+        "content": "$AAPL could it be this simple?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981064796447754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-27T17:30:22Z",
+        "content": "$TNX huge parabolic move. Once this officially peaks I expect stock bulls to celebrate peak yields, much like how they celebrated peak inflation. However, a rapid unwind would likely be bond markets signaling a recession (considering how inverted several of the yield curves are)",
+        "sentiment": {
+            "TextBlob": 0.19,
+            "NLTK": 0.8555,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993506669998169
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-27T16:12:27Z",
+        "content": "$TSLA huge rejection at the 50sma today Bearish",
+        "sentiment": {
+            "TextBlob": 0.4000000000000001,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991864562034607
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-27T16:03:13Z",
+        "content": "$SPX looks ready to make the next measured move lower Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978027939796448
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-27T14:05:48Z",
+        "content": "$DJIA the Dow is rejecting at June lows on bounces. Not a good sign for bulls",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.7356,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997398257255554
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-27T13:50:36Z",
+        "content": "$TNX yields breaking yesterday's highs. Be careful chasing any oversold bounce",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9919118881225586
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-26T21:08:47Z",
+        "content": "$SPX updated chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8592956066131592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-26T18:51:08Z",
+        "content": "JUST IN: Goldman Sachs, $GS, has begun laying off workers across the US \u2014 and the Wall Street giant is focused on culling mid-level investment bankers amid a downturn in dealmaking as the economy slows, per NYP. \n \n-Unusual Whales",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874320030212402
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-26T17:13:07Z",
+        "content": "$TSLA is due to catch down with everything else imo Bearish",
+        "sentiment": {
+            "TextBlob": -0.14027777777777778,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968056678771973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-26T16:09:30Z",
+        "content": "$TNX the 10 year yield breaks above 3.8%. Looks like 4% is coming sooner than later",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9891605973243713
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-26T14:17:05Z",
+        "content": "$VIX I know you're not supposed to do TA on VIX but here I am. Like it or not there's a clear pattern. For now this is providing relief to bulls as VIX pulls back from touching low 30s",
+        "sentiment": {
+            "TextBlob": 0.15,
+            "NLTK": 0.4541,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998393714427948
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-26T14:12:50Z",
+        "content": "$TIP new lows...",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977495074272156
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-26T14:11:29Z",
+        "content": "Tech trying to lead a bounce but $SPY looks very weak still",
+        "sentiment": {
+            "TextBlob": -0.48750000000000004,
+            "NLTK": -0.6474,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996176958084106
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T20:59:06Z",
+        "content": "$SPX came very close to making the full measured move. We'll see what Monday brings. Great way to end the week",
+        "sentiment": {
+            "TextBlob": 0.45,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996922016143799
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T20:11:35Z",
+        "content": "$SPX $SPY algos are stuck",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999700665473938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T18:27:09Z",
+        "content": "$UUP the dollar continues to push higher. Keep in mind the FX hits companies are taking doing international business.",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7789074182510376
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T18:22:27Z",
+        "content": "So far $AAPL has held up relatively well vs everything else. What happens when $AAPL breaks down?",
+        "sentiment": {
+            "TextBlob": -0.018518518518518528,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998201847076416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T16:46:47Z",
+        "content": "$TSLA solid play on the short side",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995952248573303
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T16:12:10Z",
+        "content": "$VIX at 30 here... don't get too excited if we don't hold above initially. The geyser is coming imo",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.2584,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.918083906173706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T16:05:45Z",
+        "content": "$DJIA the Dow has made new 52 week lows as well started to test pre covid highs. Big gap below that should act as a magnet. Bearish",
+        "sentiment": {
+            "TextBlob": 0.06818181818181818,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925105571746826
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T16:03:22Z",
+        "content": "$NYA it's a bit surprising how little the NYSE composite is mentioned. But it's not only completely blown through 52 week lows today, it's dropped well below pre covid highs. Some gaps below that I believe will be filled Bearish",
+        "sentiment": {
+            "TextBlob": 0.20249999999999999,
+            "NLTK": 0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990336894989014
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T15:51:07Z",
+        "content": "$SPX can we do it?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971610307693481
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T14:59:22Z",
+        "content": "$SPY $SPX The inverted cup and handle pattern fits perfectly in my model using 3 key trends \n1/3",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9986525774002075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T14:36:35Z",
+        "content": "$SPX $SPY inverted cup and handle. If you are not familiar with the pattern then look it up. Very powerful. Bearish",
+        "sentiment": {
+            "TextBlob": 0.10125,
+            "NLTK": 0.4754,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995226860046387
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T14:04:10Z",
+        "content": "$QQQ seriously. Who would long this? Especially knowing the Fed stopped accommodating the market and is actively running the largest QT program ever.",
+        "sentiment": {
+            "TextBlob": -0.12916666666666665,
+            "NLTK": 0.4995,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941471815109253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T13:44:34Z",
+        "content": "$AAPL Foxconn removes some iPhone 14 production lines as sales fall short of expectations \n \nasiantechpress.com/foxconn-...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994145631790161
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-23T13:39:17Z",
+        "content": "$DJIA the Dow is quickly approaching June lows",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996883869171143
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T20:44:31Z",
+        "content": "$SPX 30min time frame: possible bear flag. Will be watching this setup closely tomorrow",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5946730971336365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T17:59:36Z",
+        "content": "$DJT transports well below 52 week lows and currently not even trying to bounce. Leading indicator",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987737536430359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T17:17:39Z",
+        "content": "Just using this year. $VIX had to get to 35 before a bounce started. And even in May and June the VIX spike came days before a local bottom was found in $SPY. Currently VIX isn't even at 30 and everyone thinks a local bottom is in. \n \nOf course we could chop around a huge trading range but I have little/to no reason to believe a new local bottom is in.",
+        "sentiment": {
+            "TextBlob": 0.0893939393939394,
+            "NLTK": -0.2846,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999599277973175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T15:17:17Z",
+        "content": "$SPY no matter how you draw the bottom trend, the sustainable bounce zone is much much lower. I've been consistently calling for a strong wave lower heading into midterms. Nothing has changed. If anything the chart is doing exactly what you would expect. Bearish",
+        "sentiment": {
+            "TextBlob": 0.2833333333333333,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988306164741516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T14:52:10Z",
+        "content": "$TSLA gap \ud83e\uddf2 Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931734204292297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T14:41:59Z",
+        "content": "$TNX yields are the next $GME",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916875958442688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T14:30:19Z",
+        "content": "$TSLA price action has been very muted since the stock split. I have a feeling that is about to finally change",
+        "sentiment": {
+            "TextBlob": 0.10000000000000002,
+            "NLTK": 0.128,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991519451141357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T14:01:59Z",
+        "content": "$COST one of the most obvious bubble charts out there Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986794590950012
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-22T13:56:58Z",
+        "content": "$SPY don't step in front of the steamroller Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9842998385429382
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T20:46:12Z",
+        "content": "$SPY or this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981122016906738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T20:45:19Z",
+        "content": "$SPY remember this?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937567710876465
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T20:33:07Z",
+        "content": "$SPY bigger picture shows we are in the danger zone of starting a capitulation phase that could take out June lows and take us to the bottom of the broadening wedge that would align with pre covid highs. Keep in mind capitulation phases historically take place during late Sep/Oct Bearish",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": -0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926480054855347
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T20:18:28Z",
+        "content": "$SPY filled the small gap above and quickly rejected. Filled the gap mid July. Appears like we will fill the gap from June next Bearish",
+        "sentiment": {
+            "TextBlob": 0.1261904761904762,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993938207626343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T19:22:46Z",
+        "content": "$AAPL daily shows a bear channel Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955211877822876
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T19:18:09Z",
+        "content": "$TSLA possible rising wedge as it is running into resistance",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961965084075928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T19:10:36Z",
+        "content": "$SPY this has been one of the weakest bounces I've seen during Powell's speech. Next few days could be ugly",
+        "sentiment": {
+            "TextBlob": -0.3,
+            "NLTK": -0.765,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999672532081604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T18:27:10Z",
+        "content": "$VIX up .3%. Must be low volatility today",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977062940597534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T17:44:49Z",
+        "content": "$SPY my wild guess based on how this pattern worked out last time",
+        "sentiment": {
+            "TextBlob": 0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986951947212219
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T15:41:18Z",
+        "content": "$UUP the dollar is soaring to new multi decade highs. Nothing will break \ud83d\ude35\u200d",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9919112324714661
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T14:39:16Z",
+        "content": "$TSLA 15 min time frame. Watching this setup. If it can't make a move before 2pm it might be best to just watch",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.6369,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936918020248413
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-21T13:51:41Z",
+        "content": "$AAPL interesting spot it just rejected. Could overshoot. The big rally seems similar to the rally just before CPI report last week",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993088245391846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-20T18:10:58Z",
+        "content": "$SPY 5 min chart. Backtest and confirm the breakdown or chop above to lure in more bulls? Time will tell but support has been broken",
+        "sentiment": {
+            "TextBlob": 0.033333333333333326,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955803751945496
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-20T17:32:22Z",
+        "content": "$SPY hanging on a thread",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940840601921082
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-20T15:30:19Z",
+        "content": "$AAPL 30 min chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907229542732239
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-20T15:19:15Z",
+        "content": "$AAPL and $TSLA doing everything to keep markets from puking",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9389587640762329
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-20T14:15:59Z",
+        "content": "$SPY hard to believe there are still people bullish about this chart Bearish",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990529417991638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-19T17:15:50Z",
+        "content": "$AAPL daily: interesting spot here",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9976669549942017
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-19T15:43:29Z",
+        "content": "$TSLA hourly time frame: running into resistance here. Possible rising wedge too",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996573805809021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-19T14:55:43Z",
+        "content": "$SPX worth watching this spot closely if bears defend this level",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9842850565910339
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-19T14:42:50Z",
+        "content": "$ASTS bouncing off the 200sma today. Last month we got a golden cross (50sma above 200sma). Generally a good dip buying indicator for swing traders. Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9911319613456726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-19T14:26:11Z",
+        "content": "$SPY range bound from Friday so far. I wouldn't be surprised to see a big dead cat bounce before Wednesday's FOMC",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.7154,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7715961337089539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-19T14:10:10Z",
+        "content": "$TIP more lows...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989981055259705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T20:38:48Z",
+        "content": "$QQQ appears we have a larger head and shoulders now and not just the smaller one from earlier in the year.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8271620273590088
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T20:18:06Z",
+        "content": "$SPY despite what you think about today's candle, the weekly close is one massive bearish engulfing candle",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8969297409057617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T20:13:47Z",
+        "content": "$SPY obviously we have a gap that could fill but we have room up to 394 if it wanted to push that high and confirm the breakdown from this week.",
+        "sentiment": {
+            "TextBlob": 0.08,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982203841209412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T16:28:44Z",
+        "content": "$IWM just joined the breakdown club Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977937936782837
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T16:23:18Z",
+        "content": "$AAPL 5min time frame: warning Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970436692237854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T16:20:28Z",
+        "content": "$SPY 5 min",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9867885112762451
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T14:20:53Z",
+        "content": "$XBI still above its neckline",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9549762606620789
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T14:13:07Z",
+        "content": "$TSLA continues to buffer the pain in indexes. Wait for that to join the bear party and we'll see some more intense sell offs",
+        "sentiment": {
+            "TextBlob": 0.35,
+            "NLTK": 0.2944,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930492639541626
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T13:55:42Z",
+        "content": "$SPY has dropped about 7% from Monday and we still haven't seen $VIX get over 30. \n \n$UVIX $UVXY probably the next $GME lol",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999323844909668
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-16T13:33:07Z",
+        "content": "$SPY worth watching these gaps",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.714782178401947
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T21:45:12Z",
+        "content": "$SPY a sustained move under $390 and...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880924224853516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T20:14:34Z",
+        "content": "$SPY buckle up Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9774318933486938
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T19:30:04Z",
+        "content": "fwiw... $VIX was at this exact level around the same time in 2008. So yes it's happened before where fundamentals were bad but very few positioned appropriately",
+        "sentiment": {
+            "TextBlob": -0.04199999999999997,
+            "NLTK": -0.0653,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963094592094421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T19:25:09Z",
+        "content": "If you think everyone is buying puts just look at $VIX. This is a very complacent environment still",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": -0.1513,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7978061437606812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T19:08:53Z",
+        "content": "$TSLA so disconnected from it's mega cap peers. Makes me wonder if Elon is selling more this week. Funny how strong it trades when he needs to sell more. We'll see soon Bearish",
+        "sentiment": {
+            "TextBlob": 0.42083333333333334,
+            "NLTK": 0.7553,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.985636830329895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T18:42:35Z",
+        "content": "$AAPL intraday",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819527268409729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T18:14:13Z",
+        "content": "$SPY just ugly chop. Bears looking for a close under 390 still.",
+        "sentiment": {
+            "TextBlob": -0.7,
+            "NLTK": -0.5106,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999735414981842
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T17:00:31Z",
+        "content": "$ASTS filled the gap and is in a falling wedge or even a flag pattern... Bullish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": -0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996370077133179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T14:59:18Z",
+        "content": "I grabbed $UVXY Oct calls. The way VIX has been lagging makes me think big money is under leveraged and could create a panic in VIX inflows over coming weeks. Risky position but expect it to be big if the market drops how I think Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3716,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994878768920898
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T14:35:24Z",
+        "content": "$QQQ danger zone",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.98964524269104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T14:27:56Z",
+        "content": "$AAPL nlod",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930429458618164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-15T13:43:28Z",
+        "content": "$SPY bulls defending this spot again on very small volume. This breaks soon imo Bearish",
+        "sentiment": {
+            "TextBlob": -0.325,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919130802154541
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-14T18:04:05Z",
+        "content": "$SPY a sustained move under 390 and dealers will start chasing gamma down Bearish",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6121621131896973
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-14T17:36:54Z",
+        "content": "$AAPL so far rejected the 100ema and 8ema. If it continues to fade then we should see SPY breakdown Bearish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.5542,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990372657775879
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-14T17:33:43Z",
+        "content": "$SPY breakout or breakdown coming soon. I still see a head and shoulders but won't get in the way if this temporarily breaks upward Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930317401885986
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-14T16:05:48Z",
+        "content": "$SPY watching this setup closely. It's a 5 min timeframe so I'm being cautious Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.1689,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872087836265564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-14T14:21:55Z",
+        "content": "$GOOG not a good look Bearish",
+        "sentiment": {
+            "TextBlob": -0.35,
+            "NLTK": -0.3412,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997798800468445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-14T14:00:31Z",
+        "content": "$TSLA wants to fill the gap. Reminds me of AAPL filling the gap on Monday before we tanked Bearish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958702921867371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-14T13:55:06Z",
+        "content": "$SPY my projection if we make a measured move. Requires a break and close below the neckline Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974920749664307
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T20:56:22Z",
+        "content": "$QQQ looks ready for more downside. Small gap just below most likely a magnet but I expect it to head much lower over coming weeks",
+        "sentiment": {
+            "TextBlob": 0.19166666666666665,
+            "NLTK": -0.4012,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993306398391724
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T20:47:00Z",
+        "content": "$SPY just because we had the largest down day since June 2020, it doesn't mean we will immediately bounce. The past large drops this year almost always had follow through on the downside before bouncing. If you're unsure where we're going next then it's best to just sit and wait for a clear setup",
+        "sentiment": {
+            "TextBlob": 0.08517573696145124,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940032362937927
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T19:58:12Z",
+        "content": "$AAPL I warned",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985150694847107
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T19:36:46Z",
+        "content": "$QQQ just wiped out the last 4 days of fed pivot bros' hopium gains in a single day",
+        "sentiment": {
+            "TextBlob": -0.03571428571428571,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997684359550476
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T18:37:05Z",
+        "content": "If things are about to start heating up more in China you have to think $TSLA is vulnerable here. Unlike the rest of the mega caps, TSLA is still above all its key moving averages (right at the 200) greatly lagging the rest of the market leaders. Bearish",
+        "sentiment": {
+            "TextBlob": 0.18095238095238098,
+            "NLTK": -0.5095,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906208515167236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T16:59:35Z",
+        "content": "$AAPL daily",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977255642414093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T16:27:27Z",
+        "content": "$COST one of the ugliest charts right now imho. Fwiw, parabolic breakdowns do not resolve themselves sideways. Also a textbook topping pattern Bearish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": -0.717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992282390594482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T15:03:05Z",
+        "content": "$TSLA hmmm Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9931585192680359
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T14:38:35Z",
+        "content": "$SPX the real drop off starts when we lose rising support. \n \nNotice how we traded the last time we had an inflation print shock in June.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": -0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983878135681152
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T13:46:48Z",
+        "content": "$QQQ Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9815358519554138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-13T13:34:45Z",
+        "content": "$VIX only up 2% lol. Nowhere near capitulation or fear. Not good",
+        "sentiment": {
+            "TextBlob": 0.1375,
+            "NLTK": -0.4226,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997854828834534
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T18:29:02Z",
+        "content": "$UVXY turns green for the day",
+        "sentiment": {
+            "TextBlob": -0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7918844819068909
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T18:22:26Z",
+        "content": "$TLT new lows for the year... $VIX strong all day $SPY complacent",
+        "sentiment": {
+            "TextBlob": 0.2848484848484848,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872450232505798
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T17:53:29Z",
+        "content": "JUST IN: The weakest American borrowers are starting to miss payments and default on their loans at Goldman's Sach\u2019s, $GS, loss rate on credit card loans being the worst among big U.S. card issuers and \"well above subprime lenders\" at 2.93%, per CNBC. \n \nAs long as CPI peaked it's totally fine that layoffs and defaults are picking up.\ud83d\ude35\u200d",
+        "sentiment": {
+            "TextBlob": -0.09047619047619047,
+            "NLTK": -0.6712,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991581439971924
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T17:37:43Z",
+        "content": "$AAPL filled the gap and came within pennies of the 20sma Bearish",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9708293080329895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T17:34:48Z",
+        "content": "$TIP new lows for the year. The gap between $QQQ and TIP is now extreme",
+        "sentiment": {
+            "TextBlob": 0.005681818181818177,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986029267311096
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T17:01:34Z",
+        "content": "$AAPL hourly",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9805461764335632
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T15:32:38Z",
+        "content": "$SPY how many more gaps can we make",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989737272262573
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T15:28:38Z",
+        "content": "$AAPL gap galore",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997830331325531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-12T14:14:22Z",
+        "content": "$VIX is currently up more than $SPY...",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.94527268409729
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-11T22:30:36Z",
+        "content": "$ASTS \u201cBlueWalker 3 is comfortably roaming around the globe, thermally stable and communicating with our ground stations! If you want to learn more about what's next, please take a look at this video: youtube.com/watch?v=uUBiGse... \u201d\n\nSource: twitter.com/abelavellan/sta... Bullish",
+        "sentiment": {
+            "TextBlob": 0.3333333333333333,
+            "NLTK": 0.784,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9937090873718262
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-11T01:33:44Z",
+        "content": "$ASTS successful liftoff\n\ntwitter.com/spacex/status/1... Bullish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.984392523765564
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-10T20:02:41Z",
+        "content": "\u201c$spx is like 12-days behind the $tip etf or so it would seem\u201d\n\nSource: twitter.com/michaelmottcm/s...",
+        "sentiment": {
+            "TextBlob": -0.4,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998033344745636
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-10T15:28:38Z",
+        "content": "Current structure compared to $SPY 2008 and $DJIA 1974.\n\nThe main difference is with 1972-1974 being stretched out over a longer time frame and an overshoot of the downtrend. Nonetheless, the pattern is very similar.\n\nSee link for comparisons and thread discussing previous bear markets: twitter.com/reformed_trader...",
+        "sentiment": {
+            "TextBlob": -0.01,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9571497440338135
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T18:52:32Z",
+        "content": "$HYG on pace for a shooting star...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8457415103912354
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T18:46:43Z",
+        "content": "$UVXY still showing strength considering today's rally in indexes. Interesting",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7096,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9981541037559509
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T14:56:03Z",
+        "content": "Worth noting $UVXY is popping off the low while $SPY has headed higher today. Not common unless speculators expecting a reversal from here",
+        "sentiment": {
+            "TextBlob": 0.17500000000000002,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974673986434937
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T14:54:57Z",
+        "content": "$SPY another perspective Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865732192993164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T14:20:17Z",
+        "content": "$TSLA 30 min time frame: just tagged resistance Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934927821159363
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T14:18:28Z",
+        "content": "Long $TZA Bullish",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997995138168335
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T14:17:51Z",
+        "content": "$SPX just hit the downtrend on the 30 min time frame. Getting puts here \n \n$SPY Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987812638282776
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-09T13:38:33Z",
+        "content": "$QQQ 30 min chart. If we reject here we reject hard",
+        "sentiment": {
+            "TextBlob": -0.2916666666666667,
+            "NLTK": -0.7003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972438812255859
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-08T19:10:19Z",
+        "content": "$ASTS new research report. I have not gone through it yet. However the $500 PT did jump out  \n \ntranshumanica.com/asts Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992936849594116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-08T17:58:26Z",
+        "content": "$SPY 10min time frame: looks like we have our head and shoulders setup Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983538389205933
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-08T17:01:41Z",
+        "content": "So you think $SPY is going to hold rising support when $AAPL has broken down Bearish",
+        "sentiment": {
+            "TextBlob": -0.2777777777777778,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933115243911743
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-08T16:56:49Z",
+        "content": "$SPY 10 min chart: head and shoulders forming imo Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9944846034049988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-08T15:09:10Z",
+        "content": "$TSLA hourly: close to backtesting breakdown as well Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958779811859131
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-08T15:02:42Z",
+        "content": "$QQQ close to backtesting the breakdown. Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954022169113159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-07T18:10:43Z",
+        "content": "GlobalStar announces agreement to be Apple's satellite operator: SI\n$GSAT\n\nWait till people find out $ASTS plans to offer 4G and 5G and not just emergency services. This new market is just being born Bullish",
+        "sentiment": {
+            "TextBlob": 0.13636363636363635,
+            "NLTK": 0.658,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996185302734375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-07T18:08:34Z",
+        "content": "Apple announces emergency satellite connectivity for iPhone 14 cnbc.com/2022/09/07/apple-e...\n\nAnother giant validating $ASTS market",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.0516,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9766100645065308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T22:16:44Z",
+        "content": "$SPY check the date and time this was posted. Nearly top ticked within the hour of the latest bear market rally.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99748295545578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T22:08:51Z",
+        "content": "$QQQ closed below the pattern for the 2nd day in a row. Just waiting on SPY to close below its respective pattern to accelerate to the downside. Also highlighted the candle combos of extreme reversals from the previous day. Bearish",
+        "sentiment": {
+            "TextBlob": -0.07833333333333334,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9866268038749695
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T22:04:37Z",
+        "content": "$SPY held support but made one ugly candle. Highlighted are other similar candle combos of a big reversal green day followed by a kill candle. We could end up chopping a little longer before making the bear rush to new lows.",
+        "sentiment": {
+            "TextBlob": -0.15373376623376625,
+            "NLTK": -0.9239,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973394274711609
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T17:25:23Z",
+        "content": "$SPY a 1.55% drop in an hour. Sheesh",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.939336895942688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T17:10:30Z",
+        "content": "$QQQ here we are, right back below the broadening wedge. A close under this pattern puts the bias to the downside. Still a few hours till the close. Will revisit this later",
+        "sentiment": {
+            "TextBlob": 0.021428571428571422,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963335990905762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T17:02:44Z",
+        "content": "$SPY not a good place to reject. Both the 50sma and neckline formed a confluence of resistance. I'm still seeing some bears calling for a bigger countertrend rally. Based on how we are rejecting vs the previous two times we rejected at 50sma I am not that optimistic currently",
+        "sentiment": {
+            "TextBlob": -0.12916666666666665,
+            "NLTK": -0.9075,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991021156311035
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T16:46:55Z",
+        "content": "$SPY that was fast",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6967072486877441
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T16:20:16Z",
+        "content": "$SPY 5min chart. Is that it? Stalling at resistance. Cautiously buying puts again Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986326098442078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T14:54:34Z",
+        "content": "$SPY how the market ended 2018 when it experienced QT for the first time ever. I'm sure it will be different this time with a much larger QT cap though. Remember, the pace doubles this month Bearish",
+        "sentiment": {
+            "TextBlob": 0.31,
+            "NLTK": 0.8543,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8973178267478943
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T14:03:57Z",
+        "content": "$IWM right back in the bear channel. This could go down as one of the biggest bull traps if this cannot get back above very soon Bearish",
+        "sentiment": {
+            "TextBlob": 0.055026455026455014,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998681366443634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T13:59:02Z",
+        "content": "$SPY bigger picture shows we are in a similar rising broadening wedge similar to the one formed after the March rally ended. We are also around the neckline that has been a significant spot of support during strong rallies and resistance when momentum is on the downswing. Bearish",
+        "sentiment": {
+            "TextBlob": 0.16166666666666668,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9060611128807068
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T13:49:33Z",
+        "content": "$QQQ if we slice back below the broadening wedge, and close below it, I would suspect the selloff to follow would get ugly pretty fast. Small gap below but I think we overshoot it and go for new lows in the next week or two Bearish",
+        "sentiment": {
+            "TextBlob": -0.051948051948051945,
+            "NLTK": -0.431,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993473887443542
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-02T13:42:48Z",
+        "content": "$TSLA rejecting. $250.66 gap magnet imo Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990261793136597
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T18:41:52Z",
+        "content": "$SPY 5min: filled the gap",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899693131446838
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T16:05:04Z",
+        "content": "$SPY 5 min chart. If this breaks over 393 I expect a decent bounce for today",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966012239456177
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T15:24:32Z",
+        "content": "$QQQ worth noting that this has already broken well below the broadening wedge giving little hope that $SPY will be able to hold support even if it holds today",
+        "sentiment": {
+            "TextBlob": 0.05312499999999999,
+            "NLTK": 0.7655,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988079071044922
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T15:20:59Z",
+        "content": "$ASTS possible leak for launch date. Sept 10th. Source: twitter.com/catse___apex___... \n \nHave not confirmed Bullish",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987649917602539
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T15:18:30Z",
+        "content": "$SPY gaps everywhere. As long as we are above the rising trend of the broadening wedge I think bears will be cautious here. A close below that trend and all bets are off imho. Currently the market is attempting to hold this support",
+        "sentiment": {
+            "TextBlob": -0.016666666666666666,
+            "NLTK": 0.4069,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957588315010071
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T15:07:22Z",
+        "content": "$SPY bulls need this to hold or the selloff accelerates even more",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916895627975464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T13:39:13Z",
+        "content": "$SPY 30 min chart filling a gap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998065173625946
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-09-01T13:37:24Z",
+        "content": "$TZA up about 35% since Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.989522397518158
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T21:27:54Z",
+        "content": "$NVDA dropping in ah: US govt imposes a new license requirement, effective immediately, for any future export to China and Russia of A100 and H11 integrated circuits",
+        "sentiment": {
+            "TextBlob": 0.24545454545454545,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9962599277496338
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T21:24:34Z",
+        "content": "$SPY the year of the broadening wedge",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9899083375930786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T21:08:00Z",
+        "content": "$AAPL officially filled the 2nd gap",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9702366590499878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T20:25:40Z",
+        "content": "$SPY monthly close",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9323377013206482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T16:52:31Z",
+        "content": "$SPY 5 min chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919570684432983
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T15:05:52Z",
+        "content": "$SPY lost the 50sma yesterday. Now we are seeing it reject it like the previous two times this year it breached the 50sma",
+        "sentiment": {
+            "TextBlob": -0.16666666666666666,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996553659439087
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T14:12:49Z",
+        "content": "$TSLA so far rejecting. Always a possibility for a chop above to ultimately fail. Still expecting the gap below to fill in coming days/weeks Bearish",
+        "sentiment": {
+            "TextBlob": -0.13333333333333333,
+            "NLTK": -0.7769,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996538162231445
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "Reformed_Trader",
+        "timestamp": "2022-08-31T13:39:10Z",
+        "content": "$ASTS trying to breakout of the flag Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983339905738831
+            }
+        },
+        "image_url": ""
+    }
+]

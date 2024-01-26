@@ -1,0 +1,562 @@
+[
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-23T02:33:59Z",
+        "content": "@Wolfinmyheart @Wolfinmyheart @thedevlyouknow  \nFor real? \n$APLE\n$TSLA\n$SPY\n$SEXY.X \nWhere in New York are you right now?",
+        "sentiment": {
+            "TextBlob": 0.20735930735930733,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977011501789093
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-23T02:20:42Z",
+        "content": "$TSLA  UGH SO BORED WHEN I'M NOT MAKING MONEY HONEY. ..SO HARD TO BE A GOOD GIRL. .. 2 MORE DAYS JUST 2 MORE...MEET ME THERE ? Bullish",
+        "sentiment": {
+            "TextBlob": 0.1020833333333333,
+            "NLTK": -0.7088,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996084570884705
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-17T10:28:46Z",
+        "content": "$BFIT  u win final heart att",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9897409677505493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-15T18:41:53Z",
+        "content": "$ETHI  it's a good to fast and tomorrow and the next day and the next because I'd rather starve than give up or give in. You only get what you tolerate in this world and in this life Bullish",
+        "sentiment": {
+            "TextBlob": 0.18,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9958399534225464
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-15T18:31:10Z",
+        "content": "$AAPL AWESOME Iphone hotspot connections",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7034,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9925697445869446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-15T16:56:52Z",
+        "content": "$CENN  Come onnnn slip one more time just one just one grrrrr Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989068508148193
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-15T13:41:11Z",
+        "content": "$CENN  Today's a GOOD day. Tomorrow's even better and 17 days from now oh baby Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.7603,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9994571805000305
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T20:25:21Z",
+        "content": "$PORNROCKET.X  YOOOOOOO WTF",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": -0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950733780860901
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T20:24:22Z",
+        "content": "$PORNROCKET.X DAMNNNNN Janie's got a gun u NASTY Bearish",
+        "sentiment": {
+            "TextBlob": -1.0,
+            "NLTK": -0.7739,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983661770820618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T20:02:55Z",
+        "content": "$yanked  Got em",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9666364192962646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T13:21:18Z",
+        "content": "$DEA lets goooooo already. Damn I can't even be mean I swear I don't even have it in me my kind of mean is the kind where you kill yourself after you blow all your money in the stock market kind of thing yeah same thing no mean stuff out of me wrong and long ride to Manhattan in unbelievable insurmountable amount of traffic",
+        "sentiment": {
+            "TextBlob": 0.05312499999999998,
+            "NLTK": -0.872,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887614846229553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T13:18:38Z",
+        "content": "$dv awww ain't that a bullish bummer. ? Criminal court? Hmm must appear December 10th 2021 oh s*** I guess like they say the check is in the mail",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.164,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981918931007385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:26:28Z",
+        "content": "$TSYS can you pick up the phone please I need to tell you something just in case but call me before 7:45 it's important I mean it serious all kidding aside",
+        "sentiment": {
+            "TextBlob": -0.08194444444444443,
+            "NLTK": 0.4588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6699334979057312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:21:38Z",
+        "content": "$ex yep that says $ex camel toe vaginas jeans? Say what. Oh man lighten the hell up. Today I give you your freedom not coming through again again again again again again there's some money this way that's all you seem to know how to do need a cab to NYU",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9872769713401794
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:19:59Z",
+        "content": "$MHT.X you know your life is bulllllish when you make 1000 stockbots to talk to yourself with hmmmm Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997627317905426
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:17:11Z",
+        "content": "$AMC Hey listen if you hold your ground and actually keep your word at least I know I will be much happier how about you?",
+        "sentiment": {
+            "TextBlob": -0.033333333333333326,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9847049713134766
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:11:45Z",
+        "content": "@Snowball2013 @savamiafromamyaselfa $APLE \nTISKA TISKA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.948664665222168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:10:59Z",
+        "content": "$SIX  my 6 is covered. And my 9 my 12 and my 3 ya baby. Baby got back let's go thus. \n\nWait a second not you gullible not you I'm actually talking to someone else don't flatter yourself come on come on come on come on come on",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2057,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9546205997467041
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:08:59Z",
+        "content": "$RUM how is it that you fall for it every single time like how are you so suddenly so unbelievably gullible? Let go Bullish",
+        "sentiment": {
+            "TextBlob": -0.1607142857142857,
+            "NLTK": -0.1459,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9942619800567627
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:07:44Z",
+        "content": "$CKB.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9845761060714722
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:07:24Z",
+        "content": "$CKB.X hmm make the alarms or horn  go off kiss the window? leave a note ? Bwooop  bwooop is the sound of the police. Tiska Tiska.",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2168,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998187243938446
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-12-06T12:04:25Z",
+        "content": "$AAPL  HURRY LOOK OUT THE WINDOW.  WAVE. CELLS INTERLINKED TO YOU IPHONE 13. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99553382396698
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-27T11:25:07Z",
+        "content": "$DNT.X  Going to be a good weekend after a great holiday",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.8658,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9995613694190979
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-27T11:23:00Z",
+        "content": "$GTC.X  Good morning Stocktwits fam!!!\nIt's a chilly one today!",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.6209,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9039138555526733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-27T05:12:52Z",
+        "content": "$SPY Yes yes yes I know where you are .. \nDrive careful! \ud83e\udd14\ud83d\ude09  But Do you know where \"I\" am??? \nnope you don't\n\ud83d\ude02\ud83d\ude02 Bullish",
+        "sentiment": {
+            "TextBlob": -0.125,
+            "NLTK": 0.689,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993099570274353
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-27T04:26:54Z",
+        "content": "$REQ.X  this reminds of stepping  into the dating pool knowing there is pee in it! \ud83d\ude02\ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956170320510864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-27T04:21:07Z",
+        "content": "$REQ.X  UGHHHH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996551513671875
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-27T04:15:49Z",
+        "content": "$ANKR.X  What a great start to the weekend after an awesome Thanksgiving!\nHope all enjoyed as much as I did \ud83e\udd83\ud83d\ude03",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.9402,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998632669448853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-14T18:32:12Z",
+        "content": "$GGPI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988933205604553
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-14T16:25:33Z",
+        "content": "$GGPI and the show is 90 day fiance FYI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.368,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927871823310852
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-14T16:24:45Z",
+        "content": "$GGPI I can't take credit for that last post. It was on a preview for a show on E!\nI'm still laughing glad I could make you laugh too Bullish",
+        "sentiment": {
+            "TextBlob": 0.26666666666666666,
+            "NLTK": 0.8363,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.992219090461731
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-11-14T16:13:16Z",
+        "content": "$GGPI I have to go back in the dating pool  and I'm pretty sure there's pee in it\n\ud83e\udd23\ud83e\udd23\ud83e\udd23 Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.6705,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993845224380493
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-10-11T05:13:34Z",
+        "content": "$BTC.X something",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9887681603431702
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-10-10T03:00:14Z",
+        "content": "$GAMBL.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884300231933594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-10-02T04:46:33Z",
+        "content": "@manstas $CABO U out there yet\n#cabo",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951528310775757
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-10-02T04:36:03Z",
+        "content": "$CABO A destination AND cable  one. Go figure",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9765058159828186
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-10-02T04:25:05Z",
+        "content": "$DAL almost missed my damn flight. that's twice now Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5177,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993047714233398
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-09-09T14:36:06Z",
+        "content": "$BBIG I'll Never Let Go Jack I'll never let go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999550998210907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-09-09T14:27:57Z",
+        "content": "$BBIG \ud83d\ude0e",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9902921319007874
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "thedevlyouknow",
+        "timestamp": "2021-09-09T13:44:27Z",
+        "content": "$BBIG\nBBigger n bbigger n",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950097799301147
+            }
+        },
+        "image_url": ""
+    }
+]

@@ -1,7 +1,6 @@
 import xlrd
 from yahooquery import Ticker
 import json
-import asyncio
 
 def getStocksFromCSV():
     raw_ticker = xlrd.open_workbook("StockScreener.xlsx")
@@ -34,6 +33,7 @@ def tickerInfo(stockList, finList):
                 finData = stockInfo.financial_data[stock]
                 keyStats = stockInfo.key_stats[stock]
                 valMeasures = stockInfo.valuation_measures
+                #sumData = stockInfo.summary_detail[stock]
                 for index, string in enumerate(finList):
                     infoBool = 0
                     if (string == "forwardPE" and ("forwardPE" in keyStats)):
@@ -86,6 +86,29 @@ def tickerInfo(stockList, finList):
                             assetList[index].append(float(1/keyStats["pegRatio"]))
                         except:
                             assetList[index].append(-100000000)
+                    elif (string == "recommendation" and ("recommendationMean" in finData) and ("numberOfAnalystOpinions" in finData)):
+                        try:
+                            if "numberOfAnalystOpinions" != 0:
+                                assetList[index].append(float(finData["recommendationMean"]/finData["numberOfAnalystOpinions"]))
+                            else:
+                                assetList[index].append(-100000000)
+                        except:
+                            assetList[index].append(-100000000)
+                    elif (string == "quickratio" and ("quickRatio" in finData)):
+                        try:
+                            assetList[index].append(float(1/finData["quickRatio"]))
+                        except:
+                            assetList[index].append(-100000000)
+                    elif (string == "currentratio" and ("currentRatio" in finData)):
+                        try:
+                            assetList[index].append(float(1/finData["currentRatio"]))
+                        except:
+                            assetList[index].append(-100000000)
+                    elif (string == "beta" and ("beta" in sumData)):
+                        try:
+                            assetList[index].append(float(sumData["beta"]))
+                        except:
+                            assetList[index].append(-100000000)
                     elif (infoBool == 0):
                         assetList[index].append(-100000000)
             else:
@@ -95,7 +118,6 @@ def tickerInfo(stockList, finList):
             print("No such stock")
             for index, string in enumerate(assetList):
                 string.append(-100000000)
-            print(assetList)
 
     return assetList
 

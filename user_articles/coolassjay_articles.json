@@ -1,0 +1,3390 @@
+[
+    {
+        "username": "coolassjay",
+        "timestamp": "2022-07-22T19:29:03Z",
+        "content": "$LCID anyone want to buy my shares at $60?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980452060699463
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2022-03-27T01:37:58Z",
+        "content": "$SPY $QQQ $DIA I trade these everyday - watch for the trendline breach on the daily - patients - risk/reward - easy life",
+        "sentiment": {
+            "TextBlob": 0.07777777777777778,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961007833480835
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2022-02-05T13:33:08Z",
+        "content": "@coolassjay $NVDA 11 more days till earnings release!!  Moon bound! Bullish",
+        "sentiment": {
+            "TextBlob": 0.9765625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950449466705322
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2022-02-05T13:13:45Z",
+        "content": "@coolassjay $DDOG with the latest upgrade we have an upside of +$50.  Come on big dog! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974495768547058
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2022-02-05T13:09:56Z",
+        "content": "@coolassjay $TSLA new news released pertaining to new design for headlights.  AKA- searchlights to the MOON! Bullish",
+        "sentiment": {
+            "TextBlob": 0.15340909090909088,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982965588569641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2022-02-05T13:07:38Z",
+        "content": "@coolassjay $ETSY be mindful- just created a death cross... Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4404,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9939749836921692
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2022-01-17T20:45:52Z",
+        "content": "@DekmarTrades $GP look for some money moves tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990529417991638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-12-01T14:07:31Z",
+        "content": "$LCID",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9819796085357666
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-11-19T20:33:35Z",
+        "content": "$LCID makin\u2019 money moves again!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6859139800071716
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-11-16T13:34:13Z",
+        "content": "@DekmarTrades $LCID makin\u2019 money moves",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977115273475647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-11-15T20:12:58Z",
+        "content": "$RIVN $BLNK makin\u2019 money moves",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.977735161781311
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-11-08T20:27:42Z",
+        "content": "@coolassjay $LCID will be making a new 52 week high before the end of the year! Bullish",
+        "sentiment": {
+            "TextBlob": 0.16818181818181818,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9865169525146484
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-11-08T19:00:09Z",
+        "content": "$PPSI can\u2019t short this in TradeStation!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9637008309364319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-11-08T12:56:57Z",
+        "content": "$PTON Today is $LCID day",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9874282479286194
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-10-16T21:21:22Z",
+        "content": "$TSLA  Did you?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9927278757095337
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-07-23T14:40:45Z",
+        "content": "@ScalpMaster thanks for the $BIDU tip\u2026no spam to night. We are going to the Olive Garden baby! Bearish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.1759,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.980688214302063
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-04-30T12:17:04Z",
+        "content": "$TWTR.P 5,000 short at $57",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988155364990234
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-04-30T12:01:17Z",
+        "content": "$TWTR.P TIMBER!!! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9906355738639832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-04-30T11:53:32Z",
+        "content": "$TWTR.P we love to see this at ZERO! Bearish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9699095487594604
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-04-15T12:47:51Z",
+        "content": "@scherfcom she sold $TSLA to buy $COIN   errrr",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9848684072494507
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-24T21:45:50Z",
+        "content": "@scherfcom $AMC poppin in AH too! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956188797950745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-24T21:33:57Z",
+        "content": "@scherfcom $SOXL going to $700+ tomorrow. Thanks NVDA Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9722752571105957
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-16T21:28:30Z",
+        "content": "$LCID streetinsider.com/Hot+M+and... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984082579612732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-16T18:48:59Z",
+        "content": "@scherfcom $LCID GOING TO THE MOON! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997957706451416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-13T17:25:55Z",
+        "content": "$HYLN @scherfcom ttnews.com/articles/hyliion... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967183470726013
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-11T23:28:31Z",
+        "content": "$LCID $SPY $NIO $TSLA $LCID rumor is coming true.   They\u2019re buying Lucid Motors. Big buy orders on the tape. Bullish",
+        "sentiment": {
+            "TextBlob": 0.175,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980562925338745
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-11T23:25:57Z",
+        "content": "$LCID on the move after hours. The rumor is coming true! Bullish",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993061363697052
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-11T20:13:56Z",
+        "content": "$HYLN makin some money moves!  $30 here we come. $SPY $NIO $TSLA Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998360812664032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-11T19:54:03Z",
+        "content": "@scherfcom the upside to $HYLN is yuuuuuge! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990200996398926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-11T09:06:58Z",
+        "content": "@scherfcom $SNDL poppin up this morning! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975244402885437
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-10T18:42:08Z",
+        "content": "@scherfcom $AYRO is poppin up nicely Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.966730535030365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T18:24:46Z",
+        "content": "$LCID its going to $65 you\u2019ll see Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907211065292358
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T18:02:41Z",
+        "content": "@scherfcom $LCID is on the move! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950001239776611
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T15:04:40Z",
+        "content": "@scherfcom short float on $GME is currently at 121% 50M shares. WoW!",
+        "sentiment": {
+            "TextBlob": 0.041666666666666664,
+            "NLTK": 0.7424,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7662469744682312
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T15:02:16Z",
+        "content": "@scherfcom $GME doing it again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9889228343963623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T13:51:07Z",
+        "content": "@scherfcom $JG moving again",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9067896604537964
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T13:50:07Z",
+        "content": "@scherfcom $BTCUSD making some moves upward! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9876483678817749
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T12:12:42Z",
+        "content": "$LAIX @scherfcom poppin big time Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956814050674438
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T11:58:02Z",
+        "content": "@scherfcom $JG poppin this morning up 107% Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971091151237488
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-05T11:45:11Z",
+        "content": "$F hopefully $F will start receiving some attention after yesterday\u2019s earnings call Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9530000686645508
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-04T01:39:42Z",
+        "content": "$TSLA to the moon soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995028972625732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-02T19:48:30Z",
+        "content": "@scherfcom $LCID will not stop going up! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2914,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9849386215209961
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-02T15:08:18Z",
+        "content": "@scherfcom $LCID starting to move! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9894799590110779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-02T12:31:01Z",
+        "content": "@scherfcom $NVAX you called it out yesterday. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984661340713501
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-02T10:20:00Z",
+        "content": "NVAX Novavax, Inc. Stock Quote\n@scherfcom $NVAX finviz.com/quote.ashx?t=NVA...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976125955581665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-02T09:25:44Z",
+        "content": "$RIOT makin some money moves this morning Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989808201789856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-02T09:22:04Z",
+        "content": "@scherfcom $SNDL this has WallStreetBets attention. $SNDL up 48% yesterday. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9285654425621033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T21:26:30Z",
+        "content": "@scherfcom $FUBO see the short float?  This could pop like a pop rocket Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995408058166504
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T21:18:10Z",
+        "content": "@scherfcom $FUBO Houston? This is the caption of $FUBO enterprise, we\u2019ve decided to pass the moon and head to Mars! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987754225730896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T21:13:55Z",
+        "content": "@scherfcom $FUBO approaching the moon soon! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978581070899963
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T20:48:12Z",
+        "content": "@scherfcom $FUBO is making some serious money moves today!  $FUBO has left earths atmosphere!  $ROKU get out of the way. Bullish",
+        "sentiment": {
+            "TextBlob": -0.20833333333333331,
+            "NLTK": -0.2225,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991316199302673
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T19:33:02Z",
+        "content": "@scherfcom $WKHS call options are up!  Price is up. Moon? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977282881736755
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T14:47:44Z",
+        "content": "@scherfcom is $FUBO the next $ROKU?  We will see?!?!? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998609185218811
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T11:08:08Z",
+        "content": "@scherfcom $PHUN is on the move this morning! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9907649755477905
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T10:57:51Z",
+        "content": "$SPY $QQQ $DIA Silver is on the move... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970309734344482
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T10:44:19Z",
+        "content": "Is $FUBO the next $ROKU?  I sure hope so bc $ROKU is getting to high for me to buy!  Wow! Bullish",
+        "sentiment": {
+            "TextBlob": 0.20625,
+            "NLTK": 0.8619,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9031690359115601
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T10:41:58Z",
+        "content": "$TSLA makin\u2019 some upward money moves this morning. I still have faith $TSLA will be at $1000 soon Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977591037750244
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T10:32:08Z",
+        "content": "@scherfcom $SPY $QQQ looks like the Silver stocks are on the move. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974007606506348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T02:33:41Z",
+        "content": "@scherfcom $SPY $QQQ $TSLA SILVER will be in play tomorrow...up already 6%. The traders on Reddit are very Bullish on silver.  I have a portfolio that I just might have to send over to them?! Bullish",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979645013809204
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-02-01T00:29:10Z",
+        "content": "$SPY $TSLA $QQQ tuff days ahead in the markets but I\u2019m sure we all can find a bull market somewhere! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.501,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9983435869216919
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-29T10:29:34Z",
+        "content": "@scherfcom looks like Bitcoin is on the move again this morning.  Keep $RIOT and $BTBT on your radarscreen for some upward movement Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967694282531738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-29T01:06:19Z",
+        "content": "@scherfcom I\u2019m starting to think you have some mind reading skills too. $CEI to the moon with $TSLA leading the way to $1000 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.851960301399231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-29T00:54:58Z",
+        "content": "@scherfcom that is what I am hoping for!  $CEI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7545691132545471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-28T21:28:05Z",
+        "content": "@scherfcom $CEI okay I\u2019m in!  Moon soon? Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.2942,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9926899075508118
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-28T20:27:10Z",
+        "content": "@scherfcom Mr. D- do you know why $GBR is going crazy high?  I can\u2019t locate any news about it... Bullish",
+        "sentiment": {
+            "TextBlob": -0.21999999999999997,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994655251502991
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-28T18:58:57Z",
+        "content": "@scherfcom $GBR nice trade still going Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974374771118164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-28T15:04:28Z",
+        "content": "@scherfcom $JAN up up and away Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9972773194313049
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-28T10:18:51Z",
+        "content": "$SPY $QQQ $TSLA $AAPL $APA is it just me or is it true?  Every single new executive order is causing people to lose their job or causing the market to go down. Gas prices are up and they\u2019re trying to impeach the wrong president!",
+        "sentiment": {
+            "TextBlob": -0.07312409812409812,
+            "NLTK": -0.5093,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997225403785706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-27T21:35:25Z",
+        "content": "@scherfcom I\u2019m feeling some pain on my $TSLA shares. But I\u2019m still a believer for those shares to hit $1000 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978269934654236
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-27T10:24:37Z",
+        "content": "$GME @scherfcom and I thought I was to late for the party!  I missed this 3 days in a row!  $AMC is also having its own party and I\u2019m chillin over there pulling out some nice profits.  (Albeit, I wished I would have went to the GME party). LoL",
+        "sentiment": {
+            "TextBlob": 0.3828125,
+            "NLTK": 0.9059,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961093068122864
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-27T10:18:48Z",
+        "content": "$GME OMG! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994189739227295
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-27T10:09:49Z",
+        "content": "$AMC @scherfcom Wow, after trading $AMC all day yesterday, then holding a position overnight to see it above $11 per share is just awesome!  $AMC to the mooooooon! Bullish",
+        "sentiment": {
+            "TextBlob": 0.3666666666666667,
+            "NLTK": 0.893,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.998829185962677
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-27T01:02:57Z",
+        "content": "@scherfcom $AMC it\u2019s on its way to $10+. I traded this ALL day long securing profits on the way up! Bullish",
+        "sentiment": {
+            "TextBlob": -0.0625,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959182143211365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-27T00:42:03Z",
+        "content": "$AMC @scherfcom it won\u2019t stop going until 8pm. Lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9171521067619324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T22:09:05Z",
+        "content": "@scherfcom $AMC up 50% now Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986538887023926
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T21:46:29Z",
+        "content": "@scherfcom and $AMC Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954894185066223
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T21:34:34Z",
+        "content": "@scherfcom $AMC poppin in AH! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954454898834229
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T12:26:19Z",
+        "content": "Why is $GME really going up?  I wish I could say unbelievable, but I cannot. The big boys are crying!  @schercom reddit.com/r/wallstreetbets...",
+        "sentiment": {
+            "TextBlob": -0.075,
+            "NLTK": -0.4696,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9958641529083252
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T10:08:44Z",
+        "content": "Check out this article from MarketWatch - Twitter promises reforms in proposed settlement of shareholder suits\n$TWTR.P on the to zero marketwatch.com/story/twitt...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9880673885345459
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T09:25:56Z",
+        "content": "@scherfcom $AMC now that $AMC has secured funding I see blue skys above... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6040928959846497
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T09:22:18Z",
+        "content": "$TSLA @scherfcom",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9785658717155457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-26T09:20:16Z",
+        "content": "Pelosi's husband bets up to $1M Tesla will flourish during Biden's administration\n\nfoxbusiness.com/markets/tes...\n\nYes, I am sure this will help $TSLA reach $1000+",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.7783,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9937735199928284
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-25T12:46:44Z",
+        "content": "@scherfcom $AMC on the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9969834685325623
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-25T09:53:22Z",
+        "content": "@scherfcom $POLA on the move again pre premarket Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968059062957764
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-22T15:00:49Z",
+        "content": "@scherfcom $POLA in the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974833130836487
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-21T10:34:19Z",
+        "content": "$AMZN Why did Amazon wait until Biden\u2019s inauguration to offer help with vaccine distribution?\n\nfoxnews.com/us/why-did-amaz...\n\nExplore the Fox News apps that are right for you at foxnews.com/apps-products.",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5792869329452515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-18T10:58:12Z",
+        "content": "$SPY $QQQ $TSLA $NIO \nMarkets are closed today...it\u2019s going to be a real snoozer!",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9950553178787231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-15T17:05:18Z",
+        "content": "$TWTR.P on its way to zero! Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994348883628845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-15T14:34:42Z",
+        "content": "@scherfcom $POLA on the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975825548171997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-15T13:37:34Z",
+        "content": "@scherfcom $UAVS ageagle.com/ when you get a minute check this company out.  I'm bullish! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994869232177734
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-15T13:16:51Z",
+        "content": "@scherfcom $TLRY on the move again. Day 5 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970546960830688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-13T22:14:03Z",
+        "content": "@scherfcom $DPW wont stop going up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2235,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8698084950447083
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T16:10:39Z",
+        "content": "@scherfcom and don\u2019t let $APA get to high b4 you buy! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9881190657615662
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T15:39:47Z",
+        "content": "@scherfcom $XPEV in the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973830580711365
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T15:21:01Z",
+        "content": "@scherfcom $NIO on the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968637228012085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T15:11:22Z",
+        "content": "@scherfcom $GM  wow, on the move!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.1953125,
+            "NLTK": 0.6884,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9078654646873474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T14:58:37Z",
+        "content": "@scherfcom $TSLA starting to creep up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982965588569641
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T14:14:15Z",
+        "content": "@scherfcom $FUBO finally starting to move! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9596744179725647
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T13:09:51Z",
+        "content": "@scherfcom $PLUG is poppin\u2019. Wow Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9759968519210815
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T10:19:03Z",
+        "content": "$NIO upgraded to a buy!  Price target $75.  It\u2019ll be over a $100 b4 the end of the year! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998273491859436
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-12T10:13:32Z",
+        "content": "@scherfcom $STEM thanks DC for posting this yesterday!!!  I woke up to some nice profits! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5703125,
+            "NLTK": 0.8679,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9955659508705139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-11T14:18:35Z",
+        "content": "@scherfcom $TSLA I\u2019m pretty confident Tesla will not hit $1000 today. Bullish",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975683093070984
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-11T10:54:26Z",
+        "content": "@scherfcom $NIO poppin up after $NIO day in China this weekend. It sure is nice waking up to some green! Bullish",
+        "sentiment": {
+            "TextBlob": 0.2833333333333334,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.997563362121582
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-09T15:52:03Z",
+        "content": "@schercom $nio wsj.com/articles/nio-the-ch...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974421262741089
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-08T15:50:05Z",
+        "content": "@scherfcom $NIO on the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968637228012085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-08T10:54:11Z",
+        "content": "$BTC.X has doubled in 1 month. Wow now over $40K @scherfcom Bullish",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.985879123210907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-08T10:26:15Z",
+        "content": "@scherfcom $TSLA get all the latest updates on $TSLA   This guy will make you bullish!  youtube.com/watch?v=MekK1fq... Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977939128875732
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-08T10:14:24Z",
+        "content": "$BLNK on the move again this morning. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979231953620911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-08T10:06:58Z",
+        "content": "@scherfcom $TSLA  $780 achieved. $810 achieved. $1000 on its way!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982843995094299
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-08T09:34:36Z",
+        "content": "@scherfcom $TSLA up again $844 now Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986854195594788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-07T22:25:40Z",
+        "content": "@scherfcom I agree. I\u2019ve been trading this all day.  Cracked a Grand Slam today. Nearly have another one. Thanks $TSLA   $1000 next stop Bullish",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9610275626182556
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-07T10:12:49Z",
+        "content": "@scherfcom $TSLA reached $780!  Yahooooi Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1759,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976256489753723
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-05T22:59:11Z",
+        "content": "@scherfcom oh yeah $TSLA at it again. $780 to $810 then $1000! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976951479911804
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-05T11:04:18Z",
+        "content": "$NIO had an awesome day trading $NIO yesterday. Jan 9th right around the corner. We have to get passed the results from GA then NIO will blast off again!  $TSLA $NIO Bullish",
+        "sentiment": {
+            "TextBlob": 0.6785714285714286,
+            "NLTK": 0.6588,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9721400141716003
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-04T14:48:28Z",
+        "content": "@scherfcom $NIO up up up Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955272078514099
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-04T14:25:13Z",
+        "content": "$RIOT starting to move!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9731937646865845
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-04T13:34:10Z",
+        "content": "@scherfcom yes, I have a small position as well. I\u2019ll add once it starts poppin\u2019 again. $XPEV Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9772348999977112
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-04T13:25:12Z",
+        "content": "@scherfcom $NIO on the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968637228012085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-04T10:59:30Z",
+        "content": "@scherfcom $EBON already up 30% this morning! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986605644226074
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-03T23:25:35Z",
+        "content": "youtube.com/watch?v=sA6ug5N... $TSLA $RIOT you might want to watch this video b4 you start trading year 2021",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0772,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9468671679496765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2021-01-01T09:44:24Z",
+        "content": "$TSLA $NIO seekingalpha.com/article/43... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991596937179565
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-31T17:00:06Z",
+        "content": "$TSLA the ATR for $TSLA on the daily chart is $34. Still have 12% to go! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971863627433777
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-31T15:55:03Z",
+        "content": "$TSLA $780 today? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991057515144348
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-31T15:50:46Z",
+        "content": "@scherfcom $TSLA on the move again Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967517852783203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-31T13:31:38Z",
+        "content": "$TSLA just being normal  Going up!!! Bullish",
+        "sentiment": {
+            "TextBlob": 0.29296875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964595437049866
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-28T01:43:12Z",
+        "content": "$SPY $QQQ $DIA futures are up. I hope we have a mighty Monday tomorrow! Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9791426658630371
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-24T15:12:16Z",
+        "content": "$TSLA $700 today?!?! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991139769554138
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-24T14:44:13Z",
+        "content": "@scherfcom $BLNK thank you! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4199,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.991482138633728
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-24T13:06:53Z",
+        "content": "@scherfcom $LTBR on the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9971067309379578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-24T12:11:21Z",
+        "content": "$GEVO i don\u2019t think I\u2019ve seen this stock up this high in a long time. Bullish",
+        "sentiment": {
+            "TextBlob": 0.055,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9994860887527466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-24T12:03:50Z",
+        "content": "$JG wanting this to get over $6 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998819887638092
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-24T11:40:50Z",
+        "content": "$WATT i remember this stock going parabolic in 2018 when they announced they had created WiFi charging from 6\u2019 away. Let\u2019s see if it can go crazy again? Bullish",
+        "sentiment": {
+            "TextBlob": -0.6,
+            "NLTK": -0.1027,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999276340007782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-23T14:05:14Z",
+        "content": "@scherfcom $VVPR on the move! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985367059707642
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-23T13:59:32Z",
+        "content": "@scherfcom $FRSX on the move Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996969997882843
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-23T13:15:36Z",
+        "content": "@scherfcom $RIDE is on the move again! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8911911249160767
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-23T13:11:09Z",
+        "content": "@scherfcom $OCGN nice trade. Thank you ahhhhhgain! Bullish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.68,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9509651064872742
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-23T13:00:26Z",
+        "content": "$RIDE $FRSX $MVIS Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945510029792786
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-18T21:01:29Z",
+        "content": "$TSLA I hope it continues up!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4926,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.999575674533844
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-12-08T09:20:45Z",
+        "content": "$TSLA on the move again!  $700 today- I hope! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9350880980491638
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-26T21:23:46Z",
+        "content": "@scherfcom I sure wished you would have included $NAIL, my most profitable trade this year. Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.6697,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.995997428894043
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-25T14:04:15Z",
+        "content": "$SPY $QQQ $DIA today will be a real snoozer",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863114953041077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-23T20:45:37Z",
+        "content": "@scherfcom $BLNK Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9973469972610474
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-23T10:24:03Z",
+        "content": "@scherfcom $KXIN I\u2019m up 45% omg!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875915050506592
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-23T10:01:44Z",
+        "content": "@scherfcom oh boy!  I have $WYNN and MGM in my portfolio.  We went to Vegas in July and it wasn\u2019t that busy but everyone seemed to be wearing their mask and the restaurant\u2019s were definitely using social distancing.  Some folks were even wearing mask while sunbathing which we thought was a bit much.   I\u2019m sure this pandemic will pass... Bullish",
+        "sentiment": {
+            "TextBlob": 0.15833333333333333,
+            "NLTK": 0.7777,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945835471153259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-16T20:33:15Z",
+        "content": "Add $GP to your EV list Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963538646697998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-10T13:39:18Z",
+        "content": "$NAIL seekingalpha.com/news/36342...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916775226593018
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-10T11:12:07Z",
+        "content": "$NAIL $DHI earnings released b4 the bell!  We will see what happens? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968608617782593
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-08T14:15:33Z",
+        "content": "$SPY $DIA $QQQ $AAPL $TSLA $AMZN change.org/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998784601688385
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-08T14:00:44Z",
+        "content": "$NAIL hey ah NAIL do that rocket thingy again! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9823521971702576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-07T18:45:12Z",
+        "content": "$SPY $QQQ $DOW $NAIL  President Trumps supporters TV\u2019s!  I\u2019m done with the news!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5399,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9951607584953308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-06T10:42:34Z",
+        "content": "$SPY $QQQ $DOW $NAIL $TSLA if they can install cameras at every cash register in America then they can install cameras for poll counters. This is ridiculous Bullish",
+        "sentiment": {
+            "TextBlob": -0.3333333333333333,
+            "NLTK": -0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996263980865479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-05T13:49:40Z",
+        "content": "$NAIL what a recovery!!!  That\u2019s why this is my favorite stock to trade. $70 here we come this time. Another step being built towards $90 Bullish",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5962,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9854488968849182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-11-04T15:12:55Z",
+        "content": "$NAIL $LABU $YINN $SOXL $UDOW loving $NAIL",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9839913845062256
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-31T10:12:35Z",
+        "content": "$NAIL 9 days ago this was over $60. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990859031677246
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-30T15:28:22Z",
+        "content": "$NAIL I swear if this goes down any lower Imma jump from the 1st step of our stairs.",
+        "sentiment": {
+            "TextBlob": -0.15555555555555559,
+            "NLTK": -0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9957340359687805
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-28T09:22:43Z",
+        "content": "$AMZN $SPY $QQQ $DIA the $FNGU Fang+ is all red again this morning",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978886246681213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-28T09:03:08Z",
+        "content": "Timbeeeeer $SPY $QQQ $DIA $NAIL $AMZN",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9933957457542419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-26T20:51:16Z",
+        "content": "Home - Keep America America $SPY $QQQ $DIA keepamericaamerica.com/",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9263944029808044
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-26T09:12:30Z",
+        "content": "$SPY $QQQ $DIA $NAIL This is political holding up the stimulus package and everyone knows it.   They have try to do everything they can to get Biden in.  They care about power not the American people. Buy the Dips!  (Albeit, I am nearly out of cash at this point!) Bullish",
+        "sentiment": {
+            "TextBlob": 0.041666666666666664,
+            "NLTK": 0.5837,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9966545104980469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-25T13:38:57Z",
+        "content": "@DaktoCoop just heard from word of mouth. I\u2019m sure $ROKU will end up everywhere like the iPhone has.",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9031664133071899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-25T10:21:00Z",
+        "content": "$AMZN Thursday is the big day for $AMZN to release earnings.  I have my 1 share locked and loaded to go flying higher!  $3500+ Bullish",
+        "sentiment": {
+            "TextBlob": 0.15625,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9797655940055847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-25T10:03:45Z",
+        "content": "$BYND I recently traded $BYND.  My wife told me they have some hamburgers at Walmart from $BYND so I told her to pick some up.  Well, after it was all made up like a traditional hamburger and I nearly consumed the entire burger. I am No fan. I will stick to the Real hamburger meat for my delicious hamburgers.   \n\nThey\u2019re worth the try so you can knock them off your bucket list Bearish",
+        "sentiment": {
+            "TextBlob": 0.2285714285714286,
+            "NLTK": 0.8519,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9386823177337646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-25T09:53:48Z",
+        "content": "$ROKU this stock will continue to go up!  Go check out the Tv\u2019s in BestBuy and WMT. Seems like every TV has ROKU pre installed!  In Mexico, every TV has it! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5229,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977237582206726
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-25T09:47:40Z",
+        "content": "$NAIL it would be nice if $NAIL could make it to $78-$80 by Election Day. Looking at the weekly chart, this is doable! Bullish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9911522269248962
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-23T13:27:18Z",
+        "content": "@scherfcom $VXX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9831259846687317
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-22T23:30:19Z",
+        "content": "$NAIL From the March lows, once it crossed the 20 sma, when it dropped below the 20 sma it only staid below the average for 3 days each time.  Today closed out below the 20 sma.  Hopefully, it will do better or follow suit?!?! Bullish",
+        "sentiment": {
+            "TextBlob": 0.1328125,
+            "NLTK": 0.695,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981315732002258
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-22T22:57:59Z",
+        "content": "$NAIL always buying the dips...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7790289521217346
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-22T13:41:52Z",
+        "content": "$SDC come on! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985564351081848
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-21T22:15:13Z",
+        "content": "$NAIL adding on the dips!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6405351758003235
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-21T14:21:36Z",
+        "content": "$NAIL adding on all pullbacks",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9494118094444275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-21T09:17:11Z",
+        "content": "benzinga.com/news/20/08/171... $TSLA $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963172674179077
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-21T09:13:34Z",
+        "content": "@PapaPump233 After TSLA releases the numbers I will started a position with $ARKK   this ETF Top Holdings are nice! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.5983,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9908011555671692
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-20T09:26:27Z",
+        "content": "$SPY The market are in Crazy Nancy\u2019s hands?  So far, she hasn\u2019t  negotiated in good faith.  The primary conclusion when negotiations have ended both parties need to believe they have won something. If they don\u2019t, negotiations always end with 2 losers. Bullish",
+        "sentiment": {
+            "TextBlob": 0.07999999999999999,
+            "NLTK": 0.743,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99880051612854
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-20T09:13:59Z",
+        "content": "Homebuilder confidence hits record, helped by urban exodus\n\nfoxbusiness.com/markets/hom...\n$NAIL",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9938429594039917
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-20T00:45:08Z",
+        "content": "Futures, like last night are up!  Hopefully we have a Mighty Monday on $SPY $DIA $QQQ",
+        "sentiment": {
+            "TextBlob": 0.2,
+            "NLTK": 0.6696,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5863521099090576
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T22:29:35Z",
+        "content": "$NAIL  started out to be a great day in premarket then fizzled out... Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996896982192993
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T14:03:14Z",
+        "content": "$NAIL added!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.994421660900116
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T13:44:20Z",
+        "content": "$SOXL  go baby go",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.5038868188858032
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T11:59:51Z",
+        "content": "$AMZN i will see if I pullout today my daily goal of $200+",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914302229881287
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T09:28:31Z",
+        "content": "$SOXL come on let\u2019s see some yuuuuuuge green candles! Bullish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9905557036399841
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T09:25:10Z",
+        "content": "$SOXL is looking very nice this morning. I have a thought of this going to the moon today! Bullish",
+        "sentiment": {
+            "TextBlob": 0.9750000000000001,
+            "NLTK": 0.5244,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9972466230392456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T09:03:10Z",
+        "content": "$AMZN is a power house. It wouldn\u2019t surprise me if this gets up to $3500 today. If it does, I will be doing a sloppy cart wheel at work!  (Watch out everybody, you know what happened last time I did this) Bullish",
+        "sentiment": {
+            "TextBlob": -0.2604166666666667,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99937903881073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:58:38Z",
+        "content": "$AMZN come on $AMZN I am looking for another crisp $100 from ya!  Albeit I give you A LOT more!",
+        "sentiment": {
+            "TextBlob": 0.46875,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918661713600159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:53:06Z",
+        "content": "$FNGU my 3rd fav stock to trade!  I have a feeling today this will be showing me some green again!?!? Bullish",
+        "sentiment": {
+            "TextBlob": -0.15625,
+            "NLTK": 0.6943,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9786292314529419
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:50:31Z",
+        "content": "$INTC I have been holding you so long I swear I think I seen a gray hair on my wife\u2019s head this morning!  I will lock in big profits and exit this trade $0.01 above my price. Come on now! Bullish",
+        "sentiment": {
+            "TextBlob": -0.020833333333333332,
+            "NLTK": 0.4599,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995001554489136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:43:47Z",
+        "content": "$SNAP lets snap up some more. All I want is $25 from you! Bullish",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.2193,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955246448516846
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:39:07Z",
+        "content": "$TSLA Hey Elon Sir let\u2019s get this above $480 today and I \u201cmight\u201d smoke a joint wif ya Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941883087158203
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:30:52Z",
+        "content": "$HTZGQ all I know is I lost $400 and I want it back!  RobinHood account holders, you know what to do!  Buy, buy and buy so I can say goodbye! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4359,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979313611984253
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:26:20Z",
+        "content": "@AceSniper yes, I am very Bullish. I will add to my position on all pullbacks. Those $NIO cars are freakin nice! Bullish",
+        "sentiment": {
+            "TextBlob": 0.475,
+            "NLTK": 0.6996,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9959422945976257
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:23:11Z",
+        "content": "$NIO I read some bullish material on $NIO yesterday and I thought I was going to wake up as a millionaire this morning!  LoL!  Looks like I will be going to work again! Bullish",
+        "sentiment": {
+            "TextBlob": 1.0,
+            "NLTK": 0.7332,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9445781707763672
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:17:21Z",
+        "content": "$SWBI Pop!  No pun intended! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4184,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998711109161377
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T08:12:59Z",
+        "content": "$AMZN Up nice this morning in premarket along with the $SPY $DIA Bullish",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8638767004013062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T00:16:12Z",
+        "content": "$HTZGQ I dipped my toes in Friday.  With the Futures up nicely right now I hope I wake up a millionaire on 50 shares.  hehehee Bullish",
+        "sentiment": {
+            "TextBlob": 0.2857142857142857,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5567096471786499
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-19T00:04:13Z",
+        "content": "Futures are up nice!  $BA $GM $SPR $RTX  Maybe all the airlines will be going up tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.4753,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.990044355392456
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T19:08:53Z",
+        "content": "@Spage17 I have traded $USCR as well a few times myself. Albeit, $NAIL is my fav. After looking at the charts of those other Homebuilders ETF you sent. That gives me reassurance $NAIL will do the same. Thank you sir!",
+        "sentiment": {
+            "TextBlob": -0.10833333333333334,
+            "NLTK": 0.8553,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.99552321434021
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T15:34:08Z",
+        "content": "$INTC this appears to be working on the gap fill. I will probably add tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9990367889404297
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T14:17:33Z",
+        "content": "$OXY seriously?  They say buy low, sell high. Well, at the point when I entered it was low. It should say: buy low, add when it goes lower, add again when it goes even lower, borrow money so you can add again when it keeps going lower, then be patient bc in 2023 it\u2019ll turn green for you!  Gee, thanks for the tip!",
+        "sentiment": {
+            "TextBlob": -0.024761904761904763,
+            "NLTK": -0.8011,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965631365776062
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T13:58:26Z",
+        "content": "$TSLA my cats like to sit on my desk and I think they like to look at my portfolio after I downgraded their kitty litter. So, my cat seen me open the chart on TSLA and ask me:  Hey ahh Pops, pointing at the chart, is this going to affect our BLUE healthy holistic cat health food? Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666666,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9816012382507324
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T13:40:18Z",
+        "content": "$NVAX clearly you\u2019re in a channel. Tomorrow I need you to breakout of the channel and start heading north! Bullish",
+        "sentiment": {
+            "TextBlob": 0.12500000000000003,
+            "NLTK": 0.4574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9897225499153137
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T13:30:40Z",
+        "content": "$BA and no one thought it was possible to be down over $500 on 15 shares?!  Yes, now I am a believer Bullish",
+        "sentiment": {
+            "TextBlob": -0.09722222222222224,
+            "NLTK": 0.2003,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9959530830383301
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T13:25:14Z",
+        "content": "$HTZGQ okay, okay I lost money on you once already when you filed bankruptcy now that you have some serious cash on hand let\u2019s try to go up so I can make my $400+ I lost back! Bullish",
+        "sentiment": {
+            "TextBlob": 0.16666666666666669,
+            "NLTK": 0.3382,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989023208618164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T13:20:11Z",
+        "content": "$NIO Didnt someone say this was going to $40?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9979836940765381
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T13:15:55Z",
+        "content": "$AAPL come on Apple start trending up! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9923093318939209
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T09:59:31Z",
+        "content": "$NAIL my favorite stock to trade!  I have traded it since the lows back in March. I\u2019m not bragging but I have pulled out over $9K in profits from NAIL just by buying the dips. I\u2019ve been down on NAIL as much as $4K. I just patiently hold it until it turns green!",
+        "sentiment": {
+            "TextBlob": 0.0838888888888889,
+            "NLTK": 0.7214,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9863455891609192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T09:49:45Z",
+        "content": "$DKNG Am I the only one on planet earth with a long position?  Geez! Bullish",
+        "sentiment": {
+            "TextBlob": -0.03125,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9974378347396851
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T09:45:19Z",
+        "content": "$SNAP I have 25 shares and SNAP just keeps going up!  I will try to make $20 to $25 on this trade.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3595,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914986491203308
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T09:40:52Z",
+        "content": "$AMZN we all know this is expensive but has a very high ATR. 1 share can pull in a nice gain. Bullish",
+        "sentiment": {
+            "TextBlob": 0.10266666666666667,
+            "NLTK": 0.9099,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9743021726608276
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-18T09:20:02Z",
+        "content": "Time to start adding to $SWBI Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99802565574646
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-08T02:38:41Z",
+        "content": "VPMike won that debate 100%. $SPY $DIA $QQQ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.5719,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7535344362258911
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-10-07T12:51:01Z",
+        "content": "$ISUN wow it\u2019s poppin",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.5859,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9980747699737549
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-09-29T21:49:42Z",
+        "content": "$MRNA going to the moon tomorrow Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9984723925590515
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-09-29T21:45:47Z",
+        "content": "$MRNA going up in post market",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970510005950928
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-08-14T00:20:45Z",
+        "content": "$DKNG before or after close?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977602958679199
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2020-01-15T22:57:04Z",
+        "content": "$NIO doesn\u2019t the company stock normally go down when it has to secure funding to keep the doors open?",
+        "sentiment": {
+            "TextBlob": 0.08148148148148147,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991808533668518
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-05-10T14:47:32Z",
+        "content": "$NVDA ...another great video!  You- just know how to keep it real!",
+        "sentiment": {
+            "TextBlob": 0.625,
+            "NLTK": 0.6892,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998114705085754
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-05-06T13:02:22Z",
+        "content": "$SPY $TVIX $VXX $UVXY $es_F Great picks for today",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.6249,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9884495735168457
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-30T13:43:04Z",
+        "content": "Good call on $GE",
+        "sentiment": {
+            "TextBlob": 0.7,
+            "NLTK": 0.4404,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9954391121864319
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-29T13:09:23Z",
+        "content": "$DIS POP Disney!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919100403785706
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-29T13:00:23Z",
+        "content": "$DIS + Marvel = ChaChing Baby",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9325991272926331
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-29T12:46:04Z",
+        "content": "$DIS on premarket watch Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9988138675689697
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-29T12:37:37Z",
+        "content": "$SPOT pre market +$55 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996926486492157
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-29T12:14:41Z",
+        "content": "$SPOT on pre market watch! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955398440361023
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T17:39:13Z",
+        "content": "$GOOG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989294409751892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T17:31:51Z",
+        "content": "$TSLA get out of the way kids...he is coming down! Bearish",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992590546607971
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T16:49:20Z",
+        "content": "$GE Unbelievable Bearish",
+        "sentiment": {
+            "TextBlob": -0.25,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9846326112747192
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T16:41:04Z",
+        "content": "$TLRY My, my, my... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975329637527466
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T16:30:42Z",
+        "content": "$NVDA from March till the middle of April I loved you!",
+        "sentiment": {
+            "TextBlob": 0.4375,
+            "NLTK": 0.636,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9996091723442078
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T15:33:10Z",
+        "content": "$AMZN I knew I should have kept my position thru earnings!  Cant break my own rules!  Day Trading Calculator un-pack-trading-profits.mys... Bullish",
+        "sentiment": {
+            "TextBlob": 0.75,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996492862701416
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T15:27:23Z",
+        "content": "$TSLA how low will she go?  Day Trading Calculator un-pack-trading-profits.mys...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9997099041938782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-27T15:26:34Z",
+        "content": "$DJIA go baby go!  Day Trading Calculator un-pack-trading-profits.mys...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982631802558899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-25T14:24:02Z",
+        "content": "$NVDA is going to reverse here! Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992520213127136
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-24T11:13:53Z",
+        "content": "$BA  Fly baby fly! Bullish",
+        "sentiment": {
+            "TextBlob": 0.9,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978309273719788
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-24T08:24:15Z",
+        "content": "$JNUG RSI-WOW Bearish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9918400049209595
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-24T08:18:27Z",
+        "content": "$NVDA I\u2019ve been holding this stock for 2 months...keep flyin baby!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.961682140827179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-24T08:16:11Z",
+        "content": "$JNUG if this goes down to $6. I\u2019m in!",
+        "sentiment": {
+            "TextBlob": -0.19444444444444448,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9985816478729248
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-24T08:13:36Z",
+        "content": "$BA $400?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934778213500977
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-24T08:09:35Z",
+        "content": "$AMZN $2050?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9925611615180969
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2019-04-23T13:02:16Z",
+        "content": "$WHR and $TWTR.P",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9945110082626343
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2017-10-30T12:47:31Z",
+        "content": "$DYN going to $13.24",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9530119895935059
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2017-02-14T19:13:11Z",
+        "content": "$ZAIS stocknewsunion.com/zais-gro...",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977003931999207
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2017-01-24T16:44:22Z",
+        "content": "$WLL Trump set to sign executive orders on Keystone and Dakota Access pipelines",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8064486384391785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coolassjay",
+        "timestamp": "2016-06-07T13:48:51Z",
+        "content": "$META, its summer time!  Everyone will be posting on FB!  $135 here we come!",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7825415730476379
+            }
+        },
+        "image_url": ""
+    }
+]

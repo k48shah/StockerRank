@@ -1,0 +1,2144 @@
+[
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-12-07T00:48:36Z",
+        "content": "The homebuilders \u2014 $XHB \u2014 closed at an all-time high.",
+        "sentiment": {
+            "TextBlob": 0.03,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957618117332458
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-12-02T17:49:54Z",
+        "content": "Was that the oops move? $EEM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980652928352356
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-12-02T17:49:03Z",
+        "content": "Will $EEM finally emerge?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941669702529907
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-12-02T01:44:00Z",
+        "content": "$T closed at a 12-year low.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992220401763916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-08-10T13:31:11Z",
+        "content": "oh $snap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.868714451789856
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-08-02T14:26:42Z",
+        "content": "Where will $SQ close?\n\nO/U 269 \u2014",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991268515586853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-07-31T14:00:55Z",
+        "content": "Hey, @allstarcharts \n\nHow do you feel about the Dollar?\n\n$DXY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9027138352394104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-07-31T13:49:52Z",
+        "content": "$YETI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7337927222251892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-07-01T14:37:39Z",
+        "content": "$AMZN monthly is a monster.  \n \nIt's beautiful.",
+        "sentiment": {
+            "TextBlob": 0.85,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9998457431793213
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-07-01T13:51:03Z",
+        "content": "Oh $SNAP  \n \nnice.",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9993157386779785
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-06-10T14:52:14Z",
+        "content": "$PII..?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9903743267059326
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-24T13:45:18Z",
+        "content": "yeet $yeti",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8474594354629517
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-21T13:39:59Z",
+        "content": "If $RBLX rips through 80, what\u2019s next?? \n\nPlace your bets... ;)",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.3094,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9980582594871521
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-10T20:08:31Z",
+        "content": "o\n    o\n        o \n             f $eth.x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9743198156356812
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-10T03:13:49Z",
+        "content": "what\u2019s next\u2014 \n\n$eth.x 4444?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9963741898536682
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-09T05:14:05Z",
+        "content": "now that doge is done, is $eth.x going to fly through 4,000?",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.996034562587738
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-03T01:44:37Z",
+        "content": "so what\u2019s next\u2014 3333?\n\n$eth.x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964085221290588
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-02T16:24:35Z",
+        "content": "eth 3k today?\n\n$eth.x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9917629957199097
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-05-01T23:42:08Z",
+        "content": "3k incoming..?\n\n$ETH.X",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914084076881409
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-28T18:20:06Z",
+        "content": "Qs battle @ VWAP \n \n$QQQ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.3818,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9870132803916931
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-28T18:04:07Z",
+        "content": "Qs\u2014 red to green?\n\n$QQQ",
+        "sentiment": {
+            "TextBlob": -0.1,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890439510345459
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-28T15:31:08Z",
+        "content": "Another day.\n\nAnother $RH all-time high.\n\n#doanythingforclout",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9910538792610168
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-28T14:11:35Z",
+        "content": "Amazon is within 1% of it\u2019s all time-high. \n\nWill big-cap tech led the next leg higher?? \n\n$AMZN $GOOGL $NYFANG",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": 0.264,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9929179549217224
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-28T00:32:41Z",
+        "content": "Who\u2019s watching 1-second crypto charts...\n\n$btc.x $eth.x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986529350280762
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-28T00:13:23Z",
+        "content": "nothing but blue sky\u2014 $ETH.X \u2600\ufe0f\ud83d\udef8",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8665986061096191
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-25T22:17:07Z",
+        "content": "$ETH.X chart",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9850416779518127
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-23T04:05:21Z",
+        "content": "Ah, ha, ha, ha\n\n$tsla stayin alive.",
+        "sentiment": {
+            "TextBlob": 0.1,
+            "NLTK": 0.8316,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.7580945491790771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-23T03:49:59Z",
+        "content": "could be something \u2014 \u2600\ufe0f\u2600\ufe0f \n\n$tan",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9852834939956665
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-23T03:43:26Z",
+        "content": "$NFLX didn\u2019t die\u2014 so that\u2019s something",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9969981908798218
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-23T03:36:51Z",
+        "content": "we\u2019ll see \n\n$eth.x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.8239017128944397
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-23T03:33:08Z",
+        "content": "that could hurt \n\n$btc.x",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.5267,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9995543360710144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-22T02:54:30Z",
+        "content": "$ISRG earnings gap.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960120916366577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-22T02:52:45Z",
+        "content": "$EW earnings gap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9916336536407471
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-21T14:45:24Z",
+        "content": "is $IBM back??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9991785883903503
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-21T14:12:34Z",
+        "content": "$IWM +1.11%\n\nmake a wish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9254021644592285
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-21T00:01:11Z",
+        "content": "down day but nearly dug myself out of a hole\u2014 \n\nholdings [sorted by size]\n\n$RH\n$ETH.X\n$YETI\n$GOOG\n$BRK.B\n\nwe\u2019ll see what tomorrow brings \u270c\ufe0f",
+        "sentiment": {
+            "TextBlob": -0.02777777777777779,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915497303009033
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-20T17:49:10Z",
+        "content": "pretty in purple\u2014  \n \n$AAPL \ud83d\udfe3",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.4939,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8469316363334656
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-20T01:30:22Z",
+        "content": "Will $YETI YEET to \ud83d\udcaf",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5806738138198853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-20T01:25:35Z",
+        "content": "Go $GOOGL \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9940594434738159
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-20T01:22:31Z",
+        "content": "$RH ripped to another all-time high \n\n#doanythingforclout",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967376589775085
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-20T01:18:31Z",
+        "content": "$TSLA settled above its \u2018danger zone\u2019",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8680260181427002
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-19T18:50:32Z",
+        "content": "Watching for a power hour break through VWAP\u2014 \n\n$SPX $SPY",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9924595952033997
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-16T21:29:18Z",
+        "content": "Will $WFC break the wall?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9965201616287231
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-16T18:48:59Z",
+        "content": "added $YETI and $RH",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9586647748947144
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-15T14:27:20Z",
+        "content": "$UBER could be a nice ride\u2014",
+        "sentiment": {
+            "TextBlob": 0.6,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.7975544929504395
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-14T16:05:41Z",
+        "content": "Oh my\u2014 $PII",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8810433149337769
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-14T16:03:20Z",
+        "content": "oops $GILD?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975090026855469
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-12T15:18:28Z",
+        "content": "Yeet $YETI \ud83e\udd18",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.731676459312439
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-01T16:31:42Z",
+        "content": "There goes $GOOGL \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967002272605896
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-04-01T14:06:00Z",
+        "content": "Still waiting for $QQQ to cross $325..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978857636451721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-25T16:29:29Z",
+        "content": "Why buy furniture from RH when you can buy the stock?? \n \n$RH potential earnings drift \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.999081015586853
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-23T15:03:37Z",
+        "content": "The Reuters beta looks great.  \n \n$TRI also looks pretty sick..",
+        "sentiment": {
+            "TextBlob": 0.11190476190476191,
+            "NLTK": 0.8074,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99808669090271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-21T18:32:24Z",
+        "content": "$SEAS could hit that earnings drift..",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9955102205276489
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-21T18:25:16Z",
+        "content": "$JBL monthly",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.854530930519104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-21T18:24:52Z",
+        "content": "$JBL could hit that earnings drift.. \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.994544506072998
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-17T19:03:02Z",
+        "content": "okay, $QQQ  \n \nI see you \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.2263,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9909405708312988
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-17T17:23:51Z",
+        "content": "Where will $GOOGL go??",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986550807952881
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-03-10T17:20:32Z",
+        "content": "Buffett should make Berkshire merch.  \n \n$BRK.A > $400K",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9826977849006653
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-02-25T16:35:44Z",
+        "content": "$SPOT should just hurry up and buy $SONO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.99857497215271
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-02-25T14:45:36Z",
+        "content": "@howardlindzon @LiveSquawk social stocks are hot \n\n$SOCL",
+        "sentiment": {
+            "TextBlob": 0.14166666666666666,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9861106872558594
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-01-20T01:28:36Z",
+        "content": "$VOXX earnings gap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9919226169586182
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-01-20T00:35:18Z",
+        "content": "$NFLX interesting earnings gap",
+        "sentiment": {
+            "TextBlob": 0.5,
+            "NLTK": 0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9470621943473816
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-01-07T14:45:49Z",
+        "content": "$WOLF makes LEDs",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9473463296890259
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2021-01-05T01:39:57Z",
+        "content": "$TWTR.P was up today. \n\nsame with $SOCL.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930201172828674
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-12-17T16:03:26Z",
+        "content": "$SNAP \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9427482485771179
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-12-07T02:42:26Z",
+        "content": "Clearway Energy \n \n$CWEN (weekly)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9871487021446228
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-12-07T02:01:58Z",
+        "content": "holy smokes, Verizon.  \n \n$VZ (monthly)",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8616072535514832
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-12-07T01:37:09Z",
+        "content": "Visa $V",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9306804537773132
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-26T15:09:30Z",
+        "content": "As long as Bitcoin doesn\u2019t go to 0 it\u2019s fine. \n\n$BTC.X #Bitcoin",
+        "sentiment": {
+            "TextBlob": 0.18333333333333335,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.5386232137680054
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-26T13:09:55Z",
+        "content": "first solar, fickle .. \n \n$FSLR",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964364767074585
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-26T12:55:16Z",
+        "content": "what if. \n \n$PII",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978832602500916
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-24T14:48:51Z",
+        "content": "Is that a higher high in energy? \n \n$XLE is trading at its highest price since June 23, 2020.",
+        "sentiment": {
+            "TextBlob": 0.20500000000000002,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9437910318374634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-17T16:28:22Z",
+        "content": "$HTHT ~2-year base.",
+        "sentiment": {
+            "TextBlob": -0.8,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9841977953910828
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-17T14:35:18Z",
+        "content": "$TSLA opened below it's mid-October high. \n \nIt's still [range bound]",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.8990790247917175
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-10T15:05:34Z",
+        "content": "$REGI is up 117% YTD.  \n \nIt's the only stock held in $XOP that is up >40% in 2020.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9868395924568176
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-05T17:51:55Z",
+        "content": "Bitcoin broke through 15,000 for the first time since January 9, 2018.\n\n$BTC.X #Bitcoin        oh shit  \ud83d\udc40",
+        "sentiment": {
+            "TextBlob": 0.024999999999999994,
+            "NLTK": -0.7506,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9928474426269531
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-05T17:37:45Z",
+        "content": "Small-cap could close at the highest level since the February gap. \n\n$163.79 was $IWMs high close on October 12. \n\nNo other major index is above its mid-October highs.",
+        "sentiment": {
+            "TextBlob": 0.07125000000000001,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9967034459114075
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-05T17:23:16Z",
+        "content": "@howardlindzon we'll see how solar does in this zone. \n\n$TAN monthly",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9803182482719421
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-05T17:21:20Z",
+        "content": "Solar kinda likes its 50-day moving average. \n\n$TAN \u25b3 11%",
+        "sentiment": {
+            "TextBlob": -0.15,
+            "NLTK": 0.3626,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9934123158454895
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-03T15:53:17Z",
+        "content": "Financials still kinda suck.  \n \n$XLF hasn't closed above $27 since 3-4-2020.",
+        "sentiment": {
+            "TextBlob": -0.05,
+            "NLTK": -0.3832,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986899495124817
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-03T15:38:44Z",
+        "content": "The $SPY is still stuck below its February high.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": -0.25,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993054866790771
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-02T17:31:51Z",
+        "content": "$TAN traded a record 46.98M shares in October. \n \nThis was nearly 5x the 20-month average.  \n \nThe sun is hot. \ud83e\udd75",
+        "sentiment": {
+            "TextBlob": 0.06666666666666667,
+            "NLTK": 0.296,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6583921909332275
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-11-02T17:22:20Z",
+        "content": "$TAN monthly",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9834550619125366
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-10-28T01:48:08Z",
+        "content": "$XLE closed below $29 for the first time since April 1.",
+        "sentiment": {
+            "TextBlob": 0.075,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9961381554603577
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-10-27T18:33:03Z",
+        "content": "Damn, $SAM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941051006317139
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-10-27T14:06:40Z",
+        "content": "Harley Davidson filled its February gap.  \n \n$HOG \u25b3 20%",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9914335012435913
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-10-26T19:42:10Z",
+        "content": "I think about this a lot.  \n \n$UBER > $LYFT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.6879338622093201
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-10-26T00:44:12Z",
+        "content": "Do you think industrials will fill the gap? \n \n$XLI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9941567182540894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-10-20T16:52:33Z",
+        "content": "$UBER vs $LYFT",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9783952236175537
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-10-05T17:05:09Z",
+        "content": "this is getting silly  \n \n$JKS",
+        "sentiment": {
+            "TextBlob": -0.5,
+            "NLTK": 0.0258,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9993834495544434
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-09-08T17:57:45Z",
+        "content": "$SPY 330 feels important",
+        "sentiment": {
+            "TextBlob": 0.4,
+            "NLTK": 0.2023,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9159402847290039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-08-29T22:37:52Z",
+        "content": "snapchat \n \n$snap",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9746885299682617
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-08-09T17:56:03Z",
+        "content": "$AMZN weekly Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981598258018494
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-08-07T14:27:07Z",
+        "content": "Y'all seeing this volume??? \n \n$CHGG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9964516162872314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-08-06T02:22:00Z",
+        "content": "$AVTR super tight Bullish",
+        "sentiment": {
+            "TextBlob": 0.07738095238095237,
+            "NLTK": 0.5994,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915737509727478
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-08-03T13:59:23Z",
+        "content": "$YETI $50 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9960958361625671
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-30T16:02:02Z",
+        "content": "$YETI $QRVO $PEG $ENTG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9968909621238708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-30T03:35:51Z",
+        "content": "solar. freakin. energy. \n \n$TAN $QQQ $XLK $XLE",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.6424893140792847
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-27T03:46:36Z",
+        "content": "snapback? \n \n$SNAP",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9890967011451721
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-27T03:40:54Z",
+        "content": "fresh never frozen \n \n$WEN Bullish",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9895142316818237
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-27T02:44:49Z",
+        "content": "earnings  \n \n \ngap \n \ndamn $SAM",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9936730861663818
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-23T14:27:36Z",
+        "content": "$RUN lol Bullish",
+        "sentiment": {
+            "TextBlob": 0.8,
+            "NLTK": 0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9977127313613892
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-19T19:58:36Z",
+        "content": "$BABA",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9654081463813782
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-07-14T16:19:26Z",
+        "content": "$NCNO could be fun through 80",
+        "sentiment": {
+            "TextBlob": 0.3,
+            "NLTK": 0.5106,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9887110590934753
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-29T14:42:28Z",
+        "content": "$GO Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978111386299133
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-24T01:50:49Z",
+        "content": "@howardlindzon did you catch that $YETI? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9975739121437073
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-23T14:13:40Z",
+        "content": "Add $CRWD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9952141046524048
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-22T15:54:42Z",
+        "content": "$CRWD damn Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.4019,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.997686505317688
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-22T15:25:55Z",
+        "content": "$PTON \ud83e\udd75 \n \nyoutube.com/watch?v=rpK1oqG... Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.998421311378479
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-22T15:19:25Z",
+        "content": "$CRWD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982957243919373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-19T14:37:53Z",
+        "content": "$CRWD well then Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.2732,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978066086769104
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-19T14:33:52Z",
+        "content": "$CRWD 104 incoming? Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9987323880195618
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-19T14:18:12Z",
+        "content": "$CRWD all time high.",
+        "sentiment": {
+            "TextBlob": 0.16,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9858866930007935
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-19T13:54:42Z",
+        "content": "$DDOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956186413764954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-19T12:29:58Z",
+        "content": "Super strong close yesterday. \n \n$CRWD Bullish",
+        "sentiment": {
+            "TextBlob": 0.3833333333333333,
+            "NLTK": 0.802,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9435281753540039
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-18T15:11:47Z",
+        "content": "$DDOG might get a date with $100.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948667287826538
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-18T14:33:36Z",
+        "content": "$DDOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956186413764954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-18T13:50:08Z",
+        "content": "Can we close above $50? \n \n$PTON",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934038519859314
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-18T05:08:12Z",
+        "content": "$GLD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986289739608765
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-17T13:01:10Z",
+        "content": "$TSCO",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9618442058563232
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-17T03:18:14Z",
+        "content": "The \"Amazon of South America\" is literally just like The Amazon. \n \nSince MercadoLibre went public in 2007 it has gained 3,341% while since then Amazon has jumped 3,397%.  \n \nTurns out delivering people random stuff in only a few days is good for business. \n \n$AMZN $MELI",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.8779,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9857832193374634
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-17T02:51:08Z",
+        "content": "The rich get richer. \n \n$WSM",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.7906,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9897525310516357
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-17T01:28:48Z",
+        "content": "200 incoming??? \n \n$W",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9821826815605164
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-17T00:17:17Z",
+        "content": "Rich people are buying furniture? \n \n$RH",
+        "sentiment": {
+            "TextBlob": 0.375,
+            "NLTK": 0.5574,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9875460267066956
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-16T18:52:27Z",
+        "content": "$PTON high tight flag Bullish",
+        "sentiment": {
+            "TextBlob": -0.009285714285714286,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9937035441398621
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-16T17:32:42Z",
+        "content": "$CRWD Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9982957243919373
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-16T16:27:15Z",
+        "content": "$PTON breakout Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978093504905701
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-15T14:00:23Z",
+        "content": "$DDOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956186413764954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-11T14:16:00Z",
+        "content": "$CRWD 100 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9978988170623779
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-11T14:05:54Z",
+        "content": "$DDOG",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9956186413764954
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-08T15:00:36Z",
+        "content": "$YETI \ud83d\udc40 Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970881342887878
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-06-08T14:39:20Z",
+        "content": "$DDOG Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986530542373657
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-05-06T15:21:14Z",
+        "content": "Stop bumped to $420 $NFLX",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.993988037109375
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-05-04T17:11:46Z",
+        "content": "Picked up some $nflx vs 400",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9935270547866821
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-24T16:00:30Z",
+        "content": "Nibbled at $AMD this morning.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930112957954407
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-24T03:50:31Z",
+        "content": "@BruniCharting \ud83d\udd25\ud83d\udd25\ud83d\udd25 \n \n$OJ_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9934972524642944
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-18T15:26:51Z",
+        "content": "@howardlindzon I nibbled on some $VZ today.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9915065169334412
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-18T15:22:08Z",
+        "content": "I nibbled on some $VZ",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9930629134178162
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-16T01:01:02Z",
+        "content": "\u202aflat line... \n\n$SPY $ES_F",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9996936321258545
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-12T16:57:22Z",
+        "content": "$SPY PPT?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981196522712708
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-10T14:50:52Z",
+        "content": "$XLE looks like an h. \n \ncc @tradingexperts",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3612,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9986252784729004
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-09T12:36:31Z",
+        "content": "$SPY if we drop 20% and close early, it's like a snow day but its gorgeous out \u2600\ufe0f",
+        "sentiment": {
+            "TextBlob": 0.39999999999999997,
+            "NLTK": 0.7717,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9979829788208008
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-09T00:02:25Z",
+        "content": "$RTY_F $IWM oof.",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9989566802978516
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2020-03-08T23:10:30Z",
+        "content": "@howardlindzon @stocktwits also, where is $BA going to open tomorrow?",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9943766593933105
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-12-19T13:35:22Z",
+        "content": "@Stocktwits  \n3D printers still haven't taken over the world... $DDD\n#STdecade",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9981881976127625
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-12-17T17:20:41Z",
+        "content": "@Stocktwits\n$LULU > $NKE\n#STdecade",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9948602318763733
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-08-08T19:52:38Z",
+        "content": "Big fan of this chart. $TWTR.P chrt.biz/TWTR/33lkbb/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.3182,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9485187530517578
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-08-08T19:37:40Z",
+        "content": "$MEDP broke above earnings day vwap, 80 is the level for the trend to continue higher. chrt.biz/MEDP/331lk6/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.125,
+            "NLTK": -0.4215,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9447747468948364
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-08-08T19:36:24Z",
+        "content": "$EHTH moving above earnings day VWAP, 112 seems to be the confirmation level of the uptrend continuing. chrt.biz/EHTH/32ztw8/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9949472546577454
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-08-08T19:33:45Z",
+        "content": "$ENPH still looks very strong above VWAP from Earnings Day. chrt.biz/ENPH/32wsk5/ Bullish",
+        "sentiment": {
+            "TextBlob": 0.2816666666666667,
+            "NLTK": 0.5563,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9957495927810669
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-02-26T21:06:49Z",
+        "content": "$CDNA no sense trying to over complicate things. If we close above the 30 level we should be getting long.",
+        "sentiment": {
+            "TextBlob": -0.025,
+            "NLTK": -0.296,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9992796778678894
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-02-26T03:56:41Z",
+        "content": "$AVLR looking solid through 52. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9150938987731934
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "coloradoriley",
+        "timestamp": "2019-02-26T03:48:40Z",
+        "content": "$AVLR Through 52 looks solid. Bullish",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.1531,
+            "HuggingFace": {
+                "label": "POSITIVE",
+                "score": 0.9953296184539795
+            }
+        },
+        "image_url": ""
+    }
+]

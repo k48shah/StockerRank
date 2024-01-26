@@ -1,0 +1,44 @@
+[
+    {
+        "username": "skyballa415",
+        "timestamp": "2016-12-29T14:23:16Z",
+        "content": "@mart2 $FBIO \u202aWhat's breakout resistance and Price Target?\u202c",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9976528286933899
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "skyballa415",
+        "timestamp": "2016-12-29T14:22:39Z",
+        "content": "@ZonaTraders $FBIO \u202aWhat's breakout resistance and Price Target?\u202c",
+        "sentiment": {
+            "TextBlob": 0.0,
+            "NLTK": 0.0,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9954200983047485
+            }
+        },
+        "image_url": ""
+    },
+    {
+        "username": "skyballa415",
+        "timestamp": "2016-12-29T14:20:42Z",
+        "content": "@treynikko @Traemg Exactly $SLS was yesterday's play. Shorters will be all over today",
+        "sentiment": {
+            "TextBlob": 0.25,
+            "NLTK": 0.34,
+            "HuggingFace": {
+                "label": "NEGATIVE",
+                "score": 0.9970557689666748
+            }
+        },
+        "image_url": ""
+    }
+]
