@@ -1,42 +1,102 @@
-A Stock screener/ranker that is developed by small group of Waterloo students by using the fundamental principles borrowed from "The Little Book that Still Beats the Market" by Joel Greenblatt
+# Stock Screener & Ranking Tool
 
-How it Works:
-1. Import required python libraries
-2. Add a list of stocks in Column A of StockScreeneer.xlsx
-3. Run StockScreener.py
-4. Once data is collected the data will be exported to a file called 'stonks.xls'
-5. Sort data in column B by lowest to greatest to see the top pick (best ranked) stocks
+A Python-based stock screener and ranking tool inspired by Joel Greenblatt’s “The Little Book That Still Beats the Market.” Developed by a University of Waterloo graduate, this project applies a proven quantitative strategy to identify high-performing equities using fundamental metrics.
 
-The current 30 top pick stocks (as of 21/11/2020) have beaten the S&P500 by a margin of 4x in percent change for the past year.
+## Overview
 
-The graph below represents the percent change in the top 30 stocks vs the bottom 30 stocks chosen by the program. It also uses the S&P500 as a control.
-![alt text](https://imgur.com/QqMRw4X.png)
+This tool automates the process of sourcing and ranking stocks based on a proprietary implementation of the Magic Formula — a simple yet powerful value-investing strategy. With just a list of tickers, the screener fetches key financial metrics and ranks companies accordingly.
 
 
-TO-DO LIST:
-- Populate Yahoo finance portfolios using selenium and set # of cash
-- Take top 30 stocks taken from algorithm, find their percentage gain averages over different time frames and compare to s&p 500 during same frames
-- Comparison between top 30 stocks of picker vs S&P500 (Webscrape/Use Historical quotes and calc)
-- Introduce technical analysis by using OpenCV
-- Asynchronous searching of stocks to reduce wait time for data
-- Create GUI to choose action from the stock screener
-- Append % changes to the end of stonks.xls
-- Rename stonks.xls according to initial file given and date
-- Comment code functions for readability
-- make a main python file which everything is called from rather than a single file which houses all code
-- Integrate a front end web server to display and work through the stock picks
-- Auto-sort data before dumping into stonks.xls (Check for auto sort WITHIN excel)
-- Add ability for user to choose their nth comparison tool
-- Remove stocks that do not have one or two of the required entries
-- Recalculate Earnings Yield and ROC using EBIT
-- Add bottom-out price choice
-- Create PLace to Assign Tickets
-- Convert from Excel/CSV to JSON outputs
-OPTIONAL:
-- Compare data with s&p 500 through automation
-This is an educational project and none of the developers are responsible for any trades or decisions made from the tool
+The algorithm has historically demonstrated significant outperformance:
+📊 The top 30 ranked stocks achieved a greater return over the S&P 500 over a 3 year period.
 
-REQUIREMENTS:
-yahooquery: https://yahooquery.dpguthrie.com/guide/ticker/intro/
-xlwt: https://xlwt.readthedocs.io/en/latest/
-xlrd: https://xlrd.readthedocs.io/en/latest/
+Stock Portfolio
+![Performance Stock Picker](https://imgur.com/a/nOovIhF)
+
+S&P 500
+![Performance S&P 500](https://imgur.com/a/0zzxv5H)
+
+## How It Works
+
+1. Import all necessary Python libraries. (Provided in `requirements.txt`)
+2. Input your stock tickers into Column A of `StockScreeneer.csv`.
+3. Run `StockScreener.py`, choose what you would like to filter by.
+4. The program collects and analyzes data, then exports the results to `ranked_stocks.json`.
+5. The best ranked stocks are listed from top to bottom
+
+---
+
+## Setup Instructions
+
+1. **Clone the repository**  
+   Open your terminal and run:
+   ```
+   git clone https://github.com/k48shah/StockerRank.git
+   cd StockerRank
+   ```
+
+2. **Install required Python packages**  
+   Run the following command to install dependencies:
+   ```
+   python3 -m pip install -r requirements.txt
+   ```
+
+3. **Prepare your stock list**  
+   - Open `StockScreeneer.csv`.
+   - Enter your desired stock tickers in Column A. (I have provided a set of large set of stocks)
+
+4. **Run the screener**  
+   Execute the main Python file:
+   ```
+   python StockScreener.py
+   ```
+
+5. **View results**  
+   - Open `ranked_stocks.json` to see the ranked stocks.
+
+---
+
+## Features
+
+
+- Pulls real-time financial data from Yahoo Finance via yahooquery
+Ranks stocks based on Earnings Yield, Return on Capital (ROC), and Cash per share
+Exports clean, sortable results to Excel and JSON
+Easily customizable and extendable for different investment strategies
+
+---
+
+## Roadmap/To-Do
+
+- [] Automate Yahoo Finance portfolio creation using Selenium (with cash allocation)
+
+- [] Benchmark top 30 picks vs. S&P 500 over multiple time frames
+
+- [] Integrate OpenCV for visual-based technical analysis
+
+- [] Add asynchronous data fetching to improve performance
+
+- [] Design an interactive GUI for non-technical users
+
+- [] Append percent change data to output files
+
+- [] Enable metric customization (e.g. market cap, sector filters)
+
+- [] Add bottom-fishing logic for price floors
+
+- [] Support multiple output formats (CSV, JSON, XLSX)
+
+- [] (Optional) Automate S&P 500 performance comparisons
+
+---
+
+## Disclaimer
+
+This tool is for educational and research purposes only.
+The developers are not responsible for any financial decisions, investments, or losses incurred as a result of using this software.
+
+---
+
+## Dependencies
+
+- [yahooquery](https://yahooquery.dpguthrie.com/guide/ticker/intro/)
