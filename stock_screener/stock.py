@@ -1,64 +1,30 @@
 import logging
 from pprint import pformat
 from typing import Optional
+from metrics import METRICS
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 class Stock:
     def __init__(self, ticker, data=None):
         self.ticker = ticker
         self.data = data
+        # TODO: Make rate data computation dynamic based on user input of metrics to compute
+        # TODO: Add caching of computed metrics up to a date to avoid redundant calculations
         self.rate_data = {
-            "forwardPE": self.get_forward_pe(),
-            "cps": self.get_cps(),
-            "roc": self.get_roe()
+            "forwardPE": self.compute_metric(METRICS["forwardPE"]),
+            "cps": self.compute_metric(METRICS["cps"]),
+            "roc": self.compute_metric(METRICS["roc"])
         }
         logging.info(pformat(self.rate_data))
 
-    def get_forward_pe(self) -> Optional[float]:
-        try:
-            if self.data and 'summary_detail' in self.data:
-                summary = self.data['summary_detail']
-                if isinstance(summary, dict):
-                    forward_pe_raw = summary.get('forwardPE')
-                    if forward_pe_raw and forward_pe_raw > 0:
-                        forward_pe = 1 / forward_pe_raw * 100
-                        logging.info(f"Forward PE for {self.ticker}: {forward_pe}")
-                        return forward_pe
-            logging.warning(f"Forward PE not found for {self.ticker}")
+    def compute_metric(self, metric_config: dict) -> float | None:
+        source = self.data.get(metric_config["source"], {})
+        raw = source.get(metric_config["field"])
+        if raw is None:
             return None
-        except Exception as e:
-            logging.error(f"Error getting Forward PE for {self.ticker}: {e}")
-            return None
-
-    def get_cps(self) -> Optional[float]:
-        try:
-            if self.data and 'financial_data' in self.data:
-                financial_data = self.data['financial_data']
-                if isinstance(financial_data, dict):
-                    cps = financial_data.get('totalCashPerShare')
-                    if cps is not None:
-                        logging.info(f"CPS for {self.ticker}: {cps}")
-                        return cps
-            logging.warning(f"CPS not found for {self.ticker}")
-            return None
-        except Exception as e:
-            logging.error(f"Error getting CPS for {self.ticker}: {e}")
-            return None
-
-    def get_roe(self) -> Optional[float]:
-        try:
-            if self.data and 'financial_data' in self.data:
-                financial_data = self.data['financial_data']
-                if isinstance(financial_data, dict):
-                    roe = financial_data.get('returnOnEquity')
-                    if roe is not None:
-                        logging.info(f"ROE for {self.ticker}: {roe}")
-                        return roe
-            logging.warning(f"ROE not found for {self.ticker}")
-            return None
-        except Exception as e:
-            logging.error(f"Error getting ROE for {self.ticker}: {e}")
-            return None
+        return metric_config["transform"](raw)
 
     def get_one_year_ago_price(self) -> Optional[float]:
         try:
