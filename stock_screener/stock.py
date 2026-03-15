@@ -1,7 +1,7 @@
 import logging
 from pprint import pformat
 from typing import Optional
-from metrics import METRICS
+from .metrics import METRICS
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -12,11 +12,7 @@ class Stock:
         self.data = data
         # TODO: Make rate data computation dynamic based on user input of metrics to compute
         # TODO: Add caching of computed metrics up to a date to avoid redundant calculations
-        self.rate_data = {
-            "forwardPE": self.compute_metric(METRICS["forwardPE"]),
-            "cps": self.compute_metric(METRICS["cps"]),
-            "roc": self.compute_metric(METRICS["roc"])
-        }
+        self.rate_data = {name: self.compute_metric(config) for name, config in METRICS.items()}
         logging.info(pformat(self.rate_data))
 
     def compute_metric(self, metric_config: dict) -> float | None:

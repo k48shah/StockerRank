@@ -1,0 +1,37 @@
+from time import sleep
+import random
+import logging
+from yahooquery import Ticker
+from base import DataProvider
+
+class YahooQueryProvider(DataProvider):
+    def __init__(self, batch_size=10, max_retries=3):
+        self.batch_size = batch_size
+        self.max_retries = max_retries
+
+    def fetch(self, tickers: list[str]) -> dict[str, dict]:
+        result = {}
+        for i in range(0, len(tickers), self.batch_size):
+            batch = tickers[i:i+self.batch_size]
+            batch_data = self._fetch_batch_data(batch)
+            result.update(batch_data)
+        return result
+    
+    def _fetch_batch_data(self, batch: list[str]) -> dict[str, dict]:
+        for retry in range(self.max_retries):
+            try:
+                ticker_batch = Ticker(batch)
+                sleep(random.uniform(3, 7)) 
+                return {
+                    ticker: {
+                        "summary_detail": ticker_batch.summary_detail,
+                        "financial_data": ticker_batch.financial_data,
+                        "price": ticker_batch.price
+                    } for ticker in batch
+                }
+            except Exception as e:
+                logging.error(f"Attempt {retry + 1} failed for batch {batch}: {e}")
+                if retry <= self.max_retries - 1:
+                    backoff_time = (2 ** retry) * random.uniform(5, 10)
+                    logging.info(f"Waiting {backoff_time:.2f} seconds before retry...")
+                    sleep(backoff_time)

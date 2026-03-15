@@ -1,18 +1,20 @@
 import logging
 import json
-from yahooquery import Ticker
-from time import sleep
-import random
 from pprint import pformat
-from stock import Stock
+
+from .providers.base import DataProvider
+from .providers.yahooquery_provider import YahooQueryProvider
+from .stock import Stock
+from .metrics import METRICS
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 class StockScreener:
-    def __init__(self, stock_list: list[str], filter_list: list[str]) -> None:
+    def __init__(self, stock_list: list[str], filter_list: list[str], provider: DataProvider) -> None:
         self.stock_list = stock_list
         self.filter_list = filter_list
+        self.provider = provider
         self.batch_data = {}
         self.stocks = []
         self.ranks = {
@@ -21,71 +23,7 @@ class StockScreener:
         self.cum_rank = {}
 
     def fetch_batch_data(self, batch_size=10, max_retries=3):
-        for i in range(0, len(self.stock_list), batch_size):
-            batch = self.stock_list[i:i+batch_size]
-            logging.info(f"Fetching batch {i//batch_size + 1}: {batch}")
-            
-            for attempt in range(max_retries):
-                try:
-                    ticker_batch = Ticker(batch)
-                    
-                    sleep_time = random.uniform(3, 7)
-                    logging.info(f"Sleeping for {sleep_time:.2f} seconds to avoid rate limiting")
-                    sleep(sleep_time)
-                    try:
-                        summary_detail = ticker_batch.summary_detail
-                        if not isinstance(summary_detail, dict) or 'error' in str(summary_detail).lower():
-                            logging.warning(f"Invalid summary_detail for batch {batch}")
-                            summary_detail = {}
-                    except Exception as e:
-                        logging.warning(f"Failed to get summary_detail for batch {batch}: {e}")
-                        summary_detail = {}
-                    
-                    sleep(random.uniform(2, 4))
-                    
-                    try:
-                        financial_data = ticker_batch.financial_data
-                        if not isinstance(financial_data, dict) or 'error' in str(financial_data).lower():
-                            logging.warning(f"Invalid financial_data for batch {batch}")
-                            financial_data = {}
-                    except Exception as e:
-                        logging.warning(f"Failed to get financial_data for batch {batch}: {e}")
-                        financial_data = {}
-                    
-                    sleep(random.uniform(2, 4))
-                    
-                    try:
-                        price_data = ticker_batch.price
-                        if not isinstance(price_data, dict) or 'error' in str(price_data).lower():
-                            logging.warning(f"Invalid price_data for batch {batch}")
-                            price_data = {}
-                    except Exception as e:
-                        logging.warning(f"Failed to get price_data for batch {batch}: {e}")
-                        price_data = {}
-                    for stock in batch:
-                        try:
-                            self.batch_data[stock] = {
-                                'summary_detail': summary_detail.get(stock, {}),
-                                'financial_data': financial_data.get(stock, {}),
-                                'price': price_data.get(stock, {})
-                            }
-                        except Exception as e:
-                            logging.warning(f"Skipping {stock} due to fetch error: {e}")
-                    
-                    logging.info(f"Successfully fetched data for batch {batch}")
-                    break
-                    
-                except Exception as e:
-                    logging.error(f"Attempt {attempt + 1} failed for batch {batch}: {e}")
-                    if attempt < max_retries - 1:
-                        backoff_time = (2 ** attempt) * random.uniform(5, 10)
-                        logging.info(f"Waiting {backoff_time:.2f} seconds before retry...")
-                        sleep(backoff_time)
-                    else:
-                        logging.error(f"Max retries exceeded for batch {batch}")
-        missing = [t for t in batch if t not in summary_detail or t not in financial_data or t not in price_data]
-        if missing:
-            logging.warning(f"Tickers missing data in batch: {missing}")
+        self.batch_data = self.provider.fetch(self.stock_list, batch_size=batch_size, max_retries=max_retries)
 
     def create_stocks(self):
         """Create Stock objects with pre-fetched batch data"""
@@ -152,7 +90,6 @@ class StockScreener:
         logging.info(f"Ranked stock data exported to {filename}")
 
     def get_failed_tickers(self) -> list[str]:
-        """Returns list of tickers that failed to fetch data"""
         successful_tickers = set(self.batch_data.keys())
         failed_tickers = [ticker for ticker in self.stock_list if ticker not in successful_tickers]
         if failed_tickers:
@@ -174,9 +111,9 @@ def get_stock_list_from_csv(filename: str) -> list[str]:
 def main():
     stock_list = get_stock_list_from_csv("StockScreener.csv")
 
-    all_metrics = ["forwardPE", "cps", "roc"]
+    all_metrics = list(METRICS.keys())
 
-    print("Available metrics: forwardPE, cps, roc")
+    print(f"Available metrics: {', '.join(all_metrics)}")
     filter_input = input("Enter filters to rank by (comma-separated): ")
     filter_list = [f.strip() for f in filter_input.split(',') if f.strip() in all_metrics]
 
@@ -184,7 +121,7 @@ def main():
         logging.error("No valid filters entered. Exiting.")
         return
 
-    screener = StockScreener(stock_list, filter_list)
+    screener = StockScreener(stock_list, filter_list, YahooQueryProvider())
 
     screener.fetch_batch_data(batch_size=5)
     screener.create_stocks()
