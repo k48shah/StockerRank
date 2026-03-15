@@ -94,12 +94,11 @@ class HistoricalProvider(DataProvider):
         if df.empty:
             return {}
 
-        if isinstance(df.index, pd.MultiIndex):
-            if ticker not in df.index.get_level_values(0):
-                return {}
-            ticker_df = df.loc[ticker]
-        else:
-            ticker_df = df[df["symbol"] == ticker] if "symbol" in df.columns else df
+        if ticker not in df.index:
+            return {}
+        ticker_df = df.loc[ticker]
+        if isinstance(ticker_df, pd.Series):
+            ticker_df = ticker_df.to_frame().T
 
         if ticker_df.empty:
             return {}
