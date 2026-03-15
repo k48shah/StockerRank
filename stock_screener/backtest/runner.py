@@ -1,6 +1,8 @@
 import json
 import logging
+import random
 from datetime import date
+from time import sleep
 
 from yahooquery import Ticker
 
@@ -103,17 +105,46 @@ class BacktestRunner:
         return portfolio
 
     def _fetch_current_prices(self, tickers: list[str]) -> dict[str, float]:
-        try:
-            t = Ticker(tickers)
-            price_data = t.price
-            return {
-                ticker: data.get("regularMarketPrice")
-                for ticker, data in price_data.items()
-                if isinstance(data, dict)
-            }
-        except Exception as e:
-            logging.error(f"Failed to fetch current prices: {e}")
-            return {}
+        result = {}
+        for i in range(0, len(tickers), self.batch_size):
+            batch = tickers[i:i + self.batch_size]
+            result.update(self._fetch_current_prices_batch(batch))
+        return result
+
+    def _fetch_current_prices_batch(self, batch: list[str]) -> dict[str, float]:
+        for retry in range(self.max_retries):
+            try:
+                t = Ticker(
+                    batch,
+                    status_forcelist=[404, 429, 500, 502, 503, 504, 999],
+                    backoff_factor=0.5,
+                )
+                price_data = t.price
+                if not isinstance(price_data, dict):
+                    raise ValueError(f"Unexpected response type: {type(price_data)}")
+
+                prices = {
+                    ticker: data.get("regularMarketPrice")
+                    for ticker, data in price_data.items()
+                    if isinstance(data, dict) and data.get("regularMarketPrice") is not None
+                }
+                missing = [t for t in batch if t not in prices]
+                if missing:
+                    logging.warning(f"No current price returned for: {missing}")
+
+                logging.info(f"Fetched current prices for batch: {batch}")
+                sleep(random.uniform(self.sleep_min, self.sleep_max))
+                return prices
+
+            except Exception as e:
+                logging.error(f"Attempt {retry + 1} failed fetching current prices for {batch}: {e}")
+                if retry < self.max_retries - 1:
+                    backoff_time = (2 ** retry) * random.uniform(self.backoff_min, self.backoff_max)
+                    logging.info(f"Waiting {backoff_time:.2f} seconds before retry...")
+                    sleep(backoff_time)
+                else:
+                    logging.error(f"Max retries exceeded for current price batch {batch}, skipping.")
+        return {}
 
     def export_to_json(self, performance: PortfolioPerformance, filename: str):
         with open(filename, "w") as f:
