@@ -74,10 +74,6 @@ Easily customizable and extendable for different investment strategies
 
 - [] Integrate OpenCV for visual-based technical analysis
 
-- [] Add asynchronous data fetching to improve performance
-
-- [] Design an interactive GUI for non-technical users
-
 - [] Append percent change data to output files
 
 - [] Enable metric customization (e.g. market cap, sector filters)

@@ -3,10 +3,7 @@ import json
 from pprint import pformat
 
 from .providers.base import DataProvider
-from .providers.yahooquery_provider import YahooQueryProvider
 from .stock import Stock
-from .metrics import METRICS
-from .config import load_config
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -108,41 +105,3 @@ def get_stock_list_from_csv(filename: str) -> list[str]:
     except FileNotFoundError:
         logging.error(f"File {filename} not found")
         return []
-
-def main():
-    config = load_config()
-    prov_config = config["provider"]
-
-    stock_list = get_stock_list_from_csv(config["watchlist"])
-
-    all_metrics = list(METRICS.keys())
-
-    print(f"Available metrics: {', '.join(all_metrics)}")
-    filter_input = input("Enter filters to rank by (comma-separated): ")
-    filter_list = [f.strip() for f in filter_input.split(',') if f.strip() in all_metrics]
-
-    if not filter_list:
-        logging.error("No valid filters entered. Exiting.")
-        return
-
-    provider = YahooQueryProvider(
-        batch_size=prov_config["batch_size"],
-        max_retries=prov_config["max_retries"],
-        sleep_min=prov_config["sleep_min"],
-        sleep_max=prov_config["sleep_max"],
-        backoff_min=prov_config["backoff_min"],
-        backoff_max=prov_config["backoff_max"],
-    )
-    screener = StockScreener(stock_list, filter_list, provider)
-
-    screener.fetch_batch_data()
-    screener.create_stocks()
-
-    screener.calculate_ranks()
-    screener.calculate_cumulative_ranks()
-    screener.sort_by_cumulative_rank()
-    screener.export_cum_ranks_to_json(config["output_file"])
-    screener.get_failed_tickers()
-
-if __name__ == "__main__":
-    main()
