@@ -1,0 +1,10 @@
+provider:
+  batch_size: 5
+  max_retries: 3
+  sleep_min: 3
+  sleep_max: 7
+  backoff_min: 5
+  backoff_max: 10
+
+output_file: ranked_stocks.json
+watchlist: StockScreener.csv

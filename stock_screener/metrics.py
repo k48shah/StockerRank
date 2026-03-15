@@ -13,7 +13,7 @@ METRICS = {
         "transform": lambda v: v,
         "higher_is_better": True,
     },
-    "roc": {
+    "roe": {
         "label": "Return on Equity",
         "source": "financial_data",
         "field": "returnOnEquity",

@@ -6,6 +6,7 @@ from .providers.base import DataProvider
 from .providers.yahooquery_provider import YahooQueryProvider
 from .stock import Stock
 from .metrics import METRICS
+from .config import load_config
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -22,8 +23,8 @@ class StockScreener:
         }
         self.cum_rank = {}
 
-    def fetch_batch_data(self, batch_size=10, max_retries=3):
-        self.batch_data = self.provider.fetch(self.stock_list, batch_size=batch_size, max_retries=max_retries)
+    def fetch_batch_data(self):
+        self.batch_data = self.provider.fetch(self.stock_list)
 
     def create_stocks(self):
         """Create Stock objects with pre-fetched batch data"""
@@ -109,7 +110,10 @@ def get_stock_list_from_csv(filename: str) -> list[str]:
         return []
 
 def main():
-    stock_list = get_stock_list_from_csv("StockScreener.csv")
+    config = load_config()
+    prov_config = config["provider"]
+
+    stock_list = get_stock_list_from_csv(config["watchlist"])
 
     all_metrics = list(METRICS.keys())
 
@@ -121,15 +125,23 @@ def main():
         logging.error("No valid filters entered. Exiting.")
         return
 
-    screener = StockScreener(stock_list, filter_list, YahooQueryProvider())
+    provider = YahooQueryProvider(
+        batch_size=prov_config["batch_size"],
+        max_retries=prov_config["max_retries"],
+        sleep_min=prov_config["sleep_min"],
+        sleep_max=prov_config["sleep_max"],
+        backoff_min=prov_config["backoff_min"],
+        backoff_max=prov_config["backoff_max"],
+    )
+    screener = StockScreener(stock_list, filter_list, provider)
 
-    screener.fetch_batch_data(batch_size=5)
+    screener.fetch_batch_data()
     screener.create_stocks()
 
     screener.calculate_ranks()
     screener.calculate_cumulative_ranks()
     screener.sort_by_cumulative_rank()
-    screener.export_cum_ranks_to_json("ranked_stocks.json")
+    screener.export_cum_ranks_to_json(config["output_file"])
     screener.get_failed_tickers()
 
 if __name__ == "__main__":
