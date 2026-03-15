@@ -36,7 +36,7 @@ class YahooQueryProvider(DataProvider):
                 }
             except Exception as e:
                 logging.error(f"Attempt {retry + 1} failed for batch {batch}: {e}")
-                if retry <= self.max_retries - 1:
+                if retry < self.max_retries - 1:
                     backoff_time = (2 ** retry) * random.uniform(self.backoff_min, self.backoff_max)
                     logging.info(f"Waiting {backoff_time:.2f} seconds before retry...")
                     sleep(backoff_time)
