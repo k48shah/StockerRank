@@ -24,7 +24,6 @@ class StockScreener:
         self.batch_data = self.provider.fetch(self.stock_list)
 
     def create_stocks(self):
-        """Create Stock objects with pre-fetched batch data"""
         for ticker in self.stock_list:
             if ticker in self.batch_data:
                 stock = Stock(ticker, self.batch_data[ticker])

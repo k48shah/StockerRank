@@ -1,6 +1,6 @@
-from abs import ABC, abstractmethod
+from abc import ABC, abstractmethod
 
 class DataProvider(ABC):
     @abstractmethod
-    def fetch_data(self, ticker: str) -> dict:
+    def fetch(self, tickers: list[str]) -> dict[str, dict]:
         pass

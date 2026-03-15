@@ -2,7 +2,7 @@ from time import sleep
 import random
 import logging
 from yahooquery import Ticker
-from base import DataProvider
+from .base import DataProvider
 
 class YahooQueryProvider(DataProvider):
     def __init__(self, batch_size=10, max_retries=3, sleep_min=3, sleep_max=7, backoff_min=5, backoff_max=10):
@@ -25,6 +25,7 @@ class YahooQueryProvider(DataProvider):
         for retry in range(self.max_retries):
             try:
                 ticker_batch = Ticker(batch)
+                logging.info(f"Fetched data for batch: {batch}")
                 sleep(random.uniform(self.sleep_min, self.sleep_max))
                 return {
                     ticker: {
