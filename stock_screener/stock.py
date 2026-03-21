@@ -17,6 +17,8 @@ class Stock:
 
     def compute_metric(self, metric_config: dict) -> float | None:
         source = self.data.get(metric_config["source"], {})
+        if not isinstance(source, dict):
+            return None
         raw = source.get(metric_config["field"])
         if raw is None:
             return None

@@ -44,6 +44,8 @@ class StockScreener:
 
     def calculate_cumulative_ranks(self):
         for stock in self.stocks:
+            if not all(stock in self.ranks[f] for f in self.filter_list):
+                continue
             self.cum_rank[stock.ticker] = sum(
                 self.ranks[filter_name].index(stock)
                 for filter_name in self.filter_list
@@ -98,7 +100,8 @@ class StockScreener:
 def get_stock_list_from_csv(filename: str) -> list[str]:
     try:
         with open(filename, 'r') as file:
-            stock_list = [line.strip() for line in file if line.strip()]
+            lines = [line.strip() for line in file if line.strip()]
+        stock_list = lines[1:] if lines and lines[0].lower() == "ticker" else lines
         logging.info(f"Stock list loaded from {filename}")
         return stock_list
     except FileNotFoundError:

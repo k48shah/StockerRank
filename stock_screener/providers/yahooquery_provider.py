@@ -27,11 +27,14 @@ class YahooQueryProvider(DataProvider):
                 ticker_batch = Ticker(batch)
                 logging.info(f"Fetched data for batch: {batch}")
                 sleep(random.uniform(self.sleep_min, self.sleep_max))
+                summary = ticker_batch.summary_detail
+                financial = ticker_batch.financial_data
+                price = ticker_batch.price
                 return {
                     ticker: {
-                        "summary_detail": ticker_batch.summary_detail,
-                        "financial_data": ticker_batch.financial_data,
-                        "price": ticker_batch.price
+                        "summary_detail": summary.get(ticker, {}) if isinstance(summary, dict) else {},
+                        "financial_data": financial.get(ticker, {}) if isinstance(financial, dict) else {},
+                        "price": price.get(ticker, {}) if isinstance(price, dict) else {},
                     } for ticker in batch
                 }
             except Exception as e:

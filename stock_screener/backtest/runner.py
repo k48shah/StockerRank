@@ -71,13 +71,17 @@ class BacktestRunner:
 
             stock_obj = next((s for s in screener.stocks if s.ticker == ticker), None)
             if stock_obj is None:
+                logging.debug(f"No historical stock object for {ticker}, skipping.")
                 continue
 
             price_start = screener.batch_data.get(ticker, {}).get("price", {}).get("regularMarketPrice")
             price_now = current_prices.get(ticker)
 
-            if price_start is None or price_now is None:
-                logging.warning(f"Missing price data for {ticker}, skipping.")
+            if price_start is None:
+                logging.warning(f"Missing historical price for {ticker}, skipping.")
+                continue
+            if price_now is None:
+                logging.warning(f"Missing current price for {ticker}, skipping.")
                 continue
 
             pct_return = (price_now - price_start) / price_start * 100
@@ -114,11 +118,7 @@ class BacktestRunner:
     def _fetch_current_prices_batch(self, batch: list[str]) -> dict[str, float]:
         for retry in range(self.max_retries):
             try:
-                t = Ticker(
-                    batch,
-                    status_forcelist=[404, 429, 500, 502, 503, 504, 999],
-                    backoff_factor=0.5,
-                )
+                t = Ticker(batch)
                 price_data = t.price
                 if not isinstance(price_data, dict):
                     raise ValueError(f"Unexpected response type: {type(price_data)}")
